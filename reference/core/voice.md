@@ -1,7 +1,8 @@
 ---
 type: reference
 status: active
-date: 2026-01-19
+date: 2026-01-23
+updated_from: 4hourconsultant voice patterns
 ---
 
 # Voice
@@ -11,6 +12,19 @@ date: 2026-01-19
 **Direct. Practical. No-BS. Engineer's mindset.**
 
 Michael sounds like a smart friend who's figured something out and is explaining it clearly — not selling you, just telling you how it works.
+
+---
+
+## Quick Reference
+
+| Element | Michael's Voice |
+|---------|-----------------|
+| **Tone** | Confident, direct, anti-guru |
+| **Energy** | Calm and grounded, not hype |
+| **Persona** | Engineer who figured out the shortcut |
+| **Anti-positioning** | Rejects: guru fluff, "quit your 9-to-5", overcomplicated advice |
+
+---
 
 ## Tone Attributes
 
@@ -22,8 +36,11 @@ Michael sounds like a smart friend who's figured something out and is explaining
 | **Conversational** | Writes like he talks. Contractions. Short sentences. |
 | **Anti-guru** | Actively rejects hype, fluff, and overcomplicated advice. |
 
+---
+
 ## Signature Phrases
 
+### Power Phrases (Use Often)
 - "Wrong."
 - "Let's go."
 - "Period, full stop."
@@ -32,6 +49,85 @@ Michael sounds like a smart friend who's figured something out and is explaining
 - "Nobody is coming to save you."
 - "Show what you teach and teach what you show."
 - "The Coach Who Won't Tell You to Quit Your 9-to-5"
+
+### Transition Phrases
+- Opening: "Here's the truth:" / "Here's what most coaches get wrong:"
+- Mid-content: "So..." / "Here's what that means:"
+- Closing: "The bottom line:" / "Here's what to do next:"
+
+### Words Michael Uses
+- validate, test, extract, install, system, funnel, leverage
+- practical, clear, simple, working, proven
+- wrong, actually, specifically, today
+
+### Words to Avoid
+- revolutionary, incredible, amazing, life-changing
+- secrets, hack, crush it, killing it
+- believe, manifest, mindset (as primary solution)
+- guru, game-changer, transform your life
+
+---
+
+## Content Hooks
+
+### Opening Patterns (Adapted for Michael's Voice)
+
+**Pattern 1: Direct Truth Bomb**
+> "Here's the truth: [contrarian statement]. Most coaches get this backwards."
+
+Example:
+> "Here's the truth: Your offer doesn't need to be complicated. It needs to be clear. Most coaches get this backwards."
+
+**Pattern 2: The "Wrong" Hook**
+> "[Common advice]. Wrong. Here's what actually works:"
+
+Example:
+> "Build a course first, then find customers. Wrong. Here's what actually works:"
+
+**Pattern 3: Pain Point + Timeframe**
+> "[Pain point]? I fixed this in [timeframe] with [simple solution]."
+
+Example:
+> "Stuck explaining what you do? I fixed this in 15 minutes with 5 AI prompts."
+
+**Pattern 4: Anti-Guru Setup**
+> "Everyone says [common advice]. Nobody tells you [the real problem]."
+
+Example:
+> "Everyone says 'quit your 9-to-5 and go all in.' Nobody tells you that's terrible advice when you don't have a validated offer."
+
+---
+
+## Content Structure
+
+### Video/Long-Form Framework
+
+1. **Hook** (0-15 sec) - Direct truth bomb or "Wrong" statement
+2. **Credibility** (15-30 sec) - Quick, matter-of-fact ("I help coaches go from unclear offer to $5K+ clients")
+3. **The Problem** - What most people get wrong
+4. **The Truth** - What actually works (your contrarian take)
+5. **The How** - Steps, demonstration, proof
+6. **Summary** - Quick recap in 2-3 bullets
+7. **CTA** - Clear next step, no pressure
+
+### Short-Form Framework
+
+1. Hook line (stops scroll) — "Wrong." / "Here's the truth:" / Pain question
+2. The problem (1-2 sentences)
+3. The fix (actionable insight)
+4. CTA (optional, keep it light)
+
+---
+
+## Buyer Classification (Michael's Terms)
+
+| Type | Description | What To Do |
+|------|-------------|------------|
+| **Not Ready** | Don't have expertise yet, just want to "be a coach" | Direct to free content, not a fit |
+| **Stuck** | Have skills but can't package them — perfect fit | $7 offer to validate |
+| **Ready** | Validated offer, need systems to scale | 1:1 funnel build |
+
+---
 
 ## Writing Patterns
 
@@ -52,23 +148,46 @@ Michael sounds like a smart friend who's figured something out and is explaining
 - Numbered steps for processes
 - Tables for comparisons
 
+---
+
 ## What Michael Sounds Like
 
 **YES:**
 - "Here's the truth: Your offer doesn't need to be complicated. It needs to be clear."
 - "The only way to know if your offer works is to put it in front of real people. Today."
 - "Most coaches get this backwards. They spend weeks polishing the perception while the actual offer is a confusing mess."
+- "You don't need another course. You need to test your offer with real money."
 
 **NO:**
 - "I'm so excited to share this incredible opportunity with you!"
 - "This revolutionary system will transform your business forever!"
 - "Just believe in yourself and the clients will come!"
+- "I cracked the code and now I'm sharing my secrets..."
+
+---
+
+## Call-to-Action Patterns
+
+### Two-Option Close (Borrowed Pattern)
+1. **DIY:** "$7 Client Ready Offer Guide — create your offer doc in 15 minutes"
+2. **Done-With-You:** "Apply for 1:1 Funnel Build if you want me to do it with you"
+
+### No-Pressure Positioning
+> "Link's in the bio. Or don't. I'm not going to chase you."
+
+### The Michael Close
+> "Here's what to do next: [single clear action]. That's it. Let's go."
+
+---
 
 ## Frameworks Referenced
 
 - **Reality vs Perception** — Get the substance right before the marketing
 - **Engineering approach** — Test, validate, then build infrastructure
 - **Warm audience first** — Don't run ads until you've validated with people who already know you
+- **Extract, Validate, Build, Scale** — The High Ticket Playbook method
+
+---
 
 ## Anti-Patterns (What to Avoid)
 
@@ -77,3 +196,16 @@ Michael sounds like a smart friend who's figured something out and is explaining
 - Long-winded explanations when a sentence will do
 - Guru energy: "I cracked the code" / "secrets they don't want you to know"
 - Toxic positivity: "Just believe!" / "Mindset is everything!"
+- Fake urgency: "Only 3 spots left!" (unless actually true)
+
+---
+
+## Voice Checklist
+
+Before publishing, ask:
+- [ ] Does this sound like me talking to a smart friend?
+- [ ] Did I lead with value, not pitch?
+- [ ] Is there a clear next step (or intentionally none)?
+- [ ] Would I say this out loud naturally?
+- [ ] Does it reject guru fluff?
+- [ ] Is it specific, not vague?
