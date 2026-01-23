@@ -10,12 +10,23 @@ This is the data repository for High Ticket Playbook — used with the [Main Bra
 
 **Promise:** Turn your low ticket customers into high ticket clients
 
-**Value Ladder:**
-- FREE: Skool community with full classroom
-- $7: Client Ready Offer guide (AI-assisted offer creation)
-- $5K+: 1:1 coaching where Michael builds your funnel
+**Tagline:** "The Coach Who Won't Tell You to Quit Your 9-to-5"
 
 **Target:** Coaches who want to scale but are stuck. Practical, no-guru-fluff approach.
+
+## The Funnel
+
+| Step | Price | Product |
+|------|-------|---------|
+| Free | $0 | Skool community with full classroom |
+| Front-end | $17 | Client Ready Offer Guide |
+| Bump 1 | $37 | 24-Hour Launch System |
+| Bump 2 | $27 | Six Figure Funnel + Emails |
+| OTO 1 | $97 or $37/mo | High Ticket Playbook (DIY or VIP) |
+| OTO 2 | $397 | Done-For-You Client Ready Funnel |
+| Backend | $5K+ | 1:1 Funnel Build |
+
+**Max cart value:** $575 | **Target AOV:** $80-150
 
 ## How to Use
 
@@ -36,12 +47,10 @@ decisions/       # Dated choices
 outputs/         # Generated content
 ```
 
-## Quick Stats
+## Key URLs
 
-- **Skool members:** 13
-- **Community price:** Free
-- **Low ticket:** $7
-- **High ticket:** $5K+
+- **Skool:** https://www.skool.com/high-ticket-playbook-9467
+- **$17 Offer:** https://clientreadyoffer.com/implement
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 type: reference
 status: active
-date: 2026-01-19
+date: 2026-01-23
 ---
 
 # Funnel Stages
@@ -9,11 +9,17 @@ date: 2026-01-19
 ## The High Ticket Playbook Funnel
 
 ```
-AWARENESS
+AWARENESS (Content / Ads)
     ↓
-INTEREST (Free Skool)
+INTEREST (Free Skool Community)
     ↓
-MICRO-COMMITMENT ($7 Guide)
+MICRO-COMMITMENT ($17 Front-End)
+    ↓
+ORDER BUMPS ($37 + $27)
+    ↓
+OTO 1: High Ticket Playbook ($97 or $37/mo)
+    ↓
+OTO 2: Done-For-You Funnel ($397)
     ↓
 ENGAGEMENT (Classroom + Community)
     ↓
@@ -32,6 +38,7 @@ RETENTION (Results → Referrals)
 
 **Channels:**
 - Organic social content (LinkedIn, X, etc.)
+- Paid ads (Facebook/Instagram)
 - Podcast appearances
 - Guest posts / collaborations
 - Word of mouth from members
@@ -61,62 +68,128 @@ RETENTION (Results → Referrals)
 
 ---
 
-## Stage 3: Micro-Commitment — $7 Guide
+## Stage 3: Micro-Commitment — $17 Front-End
 
 **Goal:** They make first purchase
+
+**Product:** Client Ready Offer Guide ($17)
 
 **Trigger:**
 - Mentioned in community
 - Direct offer to engaged members
 - Content about offer creation
+- Paid ads to cold traffic
 
 **What happens:**
-- Buy $7 Client Ready Offer guide
-- Complete offer document
+- Buy $17 Client Ready Offer guide
+- See order bump offers
+- Enter OTO sequence
 - Experience the methodology
-- Identify as "buyer" not just "browser"
 
 **Metrics to track:**
-- Conversion rate from free to $7
-- Completion rate of guide
+- Conversion rate from free to $17
+- Front-end purchase volume
 
 ---
 
-## Stage 4: Engagement — Classroom + Community
+## Stage 4: Order Bumps — $37 + $27
+
+**Goal:** Increase average order value
+
+**Products:**
+- $37: 24-Hour Launch System
+- $27: Six Figure Funnel + Emails
+
+**What happens:**
+- Customer sees checkbox offers on order form
+- One-click add to order
+- Immediate delivery with main product
+
+**Metrics to track:**
+- Bump 1 take rate (target: 30%)
+- Bump 2 take rate (target: 25%)
+- Combined bump rate
+- Average order value
+
+---
+
+## Stage 5: OTO 1 — High Ticket Playbook ($97 or $37/mo)
+
+**Goal:** Upsell to comprehensive system
+
+**Products:**
+- DIY: $97 one-time
+- VIP: $37/month (ongoing support)
+
+**What happens:**
+- Customer lands on OTO page after checkout
+- Video + copy explains offer
+- Two-option close (DIY vs VIP)
+- One-click purchase (card already on file)
+
+**Metrics to track:**
+- OTO 1 conversion rate (target: 10-15%)
+- DIY vs VIP split
+- VIP retention rate (monthly)
+
+---
+
+## Stage 6: OTO 2 — Done-For-You Funnel ($397)
+
+**Goal:** Offer done-for-you option
+
+**Product:** Complete Client Ready Funnel built by Michael
+
+**What happens:**
+- Customer lands on OTO 2 page
+- Video explains done-for-you service
+- 100 Customers Guarantee presented
+- Scarcity: 10 spots per month
+
+**Metrics to track:**
+- OTO 2 conversion rate (target: 5-10%)
+- Fulfillment capacity
+- Customer results
+
+---
+
+## Stage 7: Engagement — Classroom + Community
 
 **Goal:** They consume content and engage
 
 **What happens:**
-- Work through 3 phases
-- Attend live calls
+- Work through 3 phases (if in Skool)
+- Use purchased products
+- Attend live calls (if VIP)
 - Ask questions
 - Share progress
 
-**Signals of readiness:**
-- Completed Phase 1 (has offer)
-- Completed Phase 2 (has funnel)
+**Signals of readiness for high-ticket:**
+- Completed their offer document
+- Launched or attempting to launch
 - Asking about scaling
 - Expressing desire for more support
 
 **Metrics to track:**
-- Module completion rates
-- Call attendance
-- Community post frequency
+- Product completion rates
+- Community engagement
+- Support tickets / questions
 
 ---
 
-## Stage 5: Qualification — Application
+## Stage 8: Qualification — Application
 
 **Goal:** Identify high-ticket ready prospects
 
 **Trigger:**
-- Direct outreach to engaged members
+- Direct outreach to engaged buyers
 - Application CTA in content
 - Natural conversation escalation
+- Email sequence after purchase
 
 **What happens:**
 - Fill out application form
-- Qualify based on criteria (budget, commitment, fit)
+- Qualify based on criteria
 - Book call if qualified
 
 **Qualification criteria:**
@@ -127,12 +200,12 @@ RETENTION (Results → Referrals)
 
 ---
 
-## Stage 6: Conversion — $5K+ 1:1
+## Stage 9: Conversion — $5K+ 1:1
 
 **Goal:** Enroll in high-ticket coaching
 
 **What happens:**
-- Sales call
+- Sales call (or chat-based close)
 - Present 1:1 funnel build offer
 - Handle objections
 - Close or nurture
@@ -144,7 +217,7 @@ RETENTION (Results → Referrals)
 
 ---
 
-## Stage 7: Retention — Results + Referrals
+## Stage 10: Retention — Results + Referrals
 
 **Goal:** Deliver results, generate referrals
 
@@ -158,3 +231,18 @@ RETENTION (Results → Referrals)
 - Client results achieved
 - Testimonials collected
 - Referrals generated
+- Case studies created
+
+---
+
+## Funnel Economics (Targets)
+
+| Metric | Target |
+|--------|--------|
+| Front-end price | $17 |
+| Bump rate | 30% |
+| OTO 1 rate | 10-15% |
+| OTO 2 rate | 5-10% |
+| Average order value | $80-150 |
+| High-ticket close rate | 20-30% |
+| Customer acquisition cost | < AOV |

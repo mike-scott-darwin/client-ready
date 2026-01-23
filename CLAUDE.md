@@ -11,19 +11,26 @@ Turn your low ticket customers into high ticket clients.
 
 ## What This Business Does
 
-Michael Scott helps coaches create validated offers and scale from $7 low-ticket products to $5K+ high-ticket clients using an engineering-minded, AI-assisted approach.
+Michael Scott helps coaches create validated offers and scale from $17 low-ticket products to $5K+ high-ticket clients using an engineering-minded, AI-assisted approach.
 
 **Tagline:** "The Coach Who Won't Tell You to Quit Your 9-to-5"
 
 ---
 
-## The Value Ladder
+## The Funnel
 
-| Tier | Product | Price |
-|------|---------|-------|
-| Free | High Ticket Playbook Skool Community | $0 |
-| Low | Client Ready Offer Guide | $7 |
-| High | 1:1 Funnel Build Coaching | $5K+ |
+| Step | Price | Product |
+|------|-------|---------|
+| Free | $0 | High Ticket Playbook Skool Community |
+| Front-end | $17 | Client Ready Offer Guide |
+| Bump 1 | $37 | 24-Hour Launch System |
+| Bump 2 | $27 | Six Figure Funnel + Emails |
+| OTO 1 (DIY) | $97 | High Ticket Playbook |
+| OTO 1 (VIP) | $37/mo | High Ticket Playbook + Support |
+| OTO 2 | $397 | Done-For-You Client Ready Funnel |
+| Backend | $5K+ | 1:1 Funnel Build |
+
+**Max cart:** $575 | **Target AOV:** $80-150
 
 ---
 
@@ -90,7 +97,7 @@ Direct. No-BS. Engineering mindset. Short sentences. "Wrong." "Test, validate, b
 ## Key URLs
 
 - **Skool:** https://www.skool.com/high-ticket-playbook-9467
-- **$7 Offer:** https://clientreadyoffer.com/implement
+- **$17 Offer:** https://clientreadyoffer.com/implement
 
 ---
 
