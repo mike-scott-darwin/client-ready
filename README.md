@@ -18,11 +18,10 @@ This is the data repository for Client Ready — used with the [Main Branch Prem
 
 | Step | Price | Product |
 |------|-------|---------|
-| Free | $0 | Skool community with full classroom |
 | Front-end | $17 | Client Ready Offer Guide |
 | Bump 1 | $37 | 24-Hour Launch System |
 | Bump 2 | $27 | Six Figure Funnel + Emails |
-| OTO 1 | $97 or $37/mo | Client Ready System (DIY or VIP) |
+| OTO 1 | $97 or $37/mo | Client Ready System + Community (DIY or VIP) |
 | OTO 2 | $397 | Done-For-You Client Ready Funnel |
 | Backend | $5K+ | 1:1 Funnel Build |
 
