@@ -1,6 +1,6 @@
-# High Ticket Playbook
+# Client Ready
 
-Turn your low ticket customers into high ticket clients.
+Get your offer ready. Get clients.
 
 ---
 
@@ -21,12 +21,12 @@ Michael Scott helps coaches create validated offers and scale from $17 low-ticke
 
 | Step | Price | Product |
 |------|-------|---------|
-| Free | $0 | High Ticket Playbook Skool Community |
+| Free | $0 | Client Ready Skool Community |
 | Front-end | $17 | Client Ready Offer Guide |
 | Bump 1 | $37 | 24-Hour Launch System |
 | Bump 2 | $27 | Six Figure Funnel + Emails |
-| OTO 1 (DIY) | $97 | High Ticket Playbook |
-| OTO 1 (VIP) | $37/mo | High Ticket Playbook + Support |
+| OTO 1 (DIY) | $97 | Client Ready System |
+| OTO 1 (VIP) | $37/mo | Client Ready System + Support |
 | OTO 2 | $397 | Done-For-You Client Ready Funnel |
 | Backend | $5K+ | 1:1 Funnel Build |
 
@@ -37,7 +37,7 @@ Michael Scott helps coaches create validated offers and scale from $17 low-ticke
 ## Folder Structure
 
 ```
-high-ticket-playbook/
+client-ready/
 ├── CLAUDE.md              ← You are here
 ├── README.md
 │

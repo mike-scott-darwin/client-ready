@@ -1,14 +1,14 @@
-# High Ticket Playbook
+# Client Ready
 
 Business repo for Michael Scott's coaching business.
 
 ## What Is This?
 
-This is the data repository for High Ticket Playbook — used with the [Main Branch Premium](https://github.com/mainbranch-ai/vip) engine to generate marketing content, manage the Skool community, and scale the business.
+This is the data repository for Client Ready — used with the [Main Branch Premium](https://github.com/mainbranch-ai/vip) engine to generate marketing content, manage the Skool community, and scale the business.
 
 ## The Business
 
-**Promise:** Turn your low ticket customers into high ticket clients
+**Promise:** Get your offer ready. Get clients.
 
 **Tagline:** "The Coach Who Won't Tell You to Quit Your 9-to-5"
 
@@ -22,7 +22,7 @@ This is the data repository for High Ticket Playbook — used with the [Main Bra
 | Front-end | $17 | Client Ready Offer Guide |
 | Bump 1 | $37 | 24-Hour Launch System |
 | Bump 2 | $27 | Six Figure Funnel + Emails |
-| OTO 1 | $97 or $37/mo | High Ticket Playbook (DIY or VIP) |
+| OTO 1 | $97 or $37/mo | Client Ready System (DIY or VIP) |
 | OTO 2 | $397 | Done-For-You Client Ready Funnel |
 | Backend | $5K+ | 1:1 Funnel Build |
 
