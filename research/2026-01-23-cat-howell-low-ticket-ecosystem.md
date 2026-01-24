@@ -60,9 +60,59 @@ topic: Low ticket ecosystem ($17-$97 offers)
 
 Each video: 6-10 minutes max. Shorter = more valuable for busy entrepreneurs.
 
-### 7. Facebook Ads Post-Andromeda Update
-- Old method: One winning ad for years → stopped working in April 2024
-- New method: Creative along customer awareness spectrum
+### 7. Facebook Ads Post-Andromeda Update (Deep Dive)
+
+The Andromeda update is Meta's total rebuild of its ad retrieval engine. The days of "hacking" the algorithm with interest targeting are over. Andromeda uses deep learning to match your **creative** to a user's **intent** in real-time.
+
+#### What Changed
+
+| Before | After (Andromeda) |
+|--------|-------------------|
+| You told Facebook who to target | You provide a "Creative Portfolio," AI decides |
+| Interest targeting worked | Broad targeting + creative as filter |
+| 2-3 winning ads could scale | Need 15-20+ diverse creatives per campaign |
+| One winning ad for years | Stopped working April 2024 |
+
+#### The Hardware
+- Powered by Meta's MTIA chips
+- Processes **10,000x** more complex models
+- Real-time intent matching
+
+#### Creative Portfolio Requirement
+- Can no longer run 2-3 ads
+- Need **15-20+ diverse creatives** to give AI enough signals
+- 10+ video (UGC/Direct Response) + 10+ statics (quotes, screenshots, diagrams)
+- If your ad is about "Time Management for CEOs," Andromeda finds the CEOs
+
+#### What Matters Most (Priority Order)
+
+1. **Creative (70% of success)** — Creative IS the targeting. Andromeda "reads" your video frames and images. If you don't stop the scroll in 1.5 seconds, copy won't be read.
+
+2. **Level of Awareness** — The secret sauce. Because Andromeda goes broad, you must produce ads for different awareness stages simultaneously:
+   - **Unaware/Problem Aware:** Highlight pain ("Why your morning routine is ruining your productivity")
+   - **Solution/Product Aware:** Show product in action ("See inside the $27 Planner")
+   - Andromeda auto-shows "Problem" ad to strangers, "Product" ad to warm browsers
+
+3. **Copy** — Shifted from "persuading" to "qualifying." Must be clear about WHO this is for. Short, punchy copy (<125 characters) outperforming long-form on cold traffic.
+
+#### 2026 SLO Funnel Requirements
+
+| Element | Requirement |
+|---------|-------------|
+| Front-End | $27-$97 "No-brainer" (templates, mini-courses, toolkits) |
+| Order Bumps | 1-2 bumps on checkout to increase AOV |
+| Campaign Type | Use "Advantage+ Sales" — native to Andromeda |
+| Creative Volume | 10+ video + 10+ statics minimum |
+
+#### Critical Checklist
+
+- [ ] **Consolidate account** — One Advantage+ Sales campaign with high creative variety
+- [ ] **Diversify ANGLES, not colors** — "FOMO" vs "Logical Gain" angle, not blue vs red button
+- [ ] **5-Second Rule** — Value proposition in first 5 seconds or Andromeda deprioritizes
+- [ ] **Use Conversions API (CAPI)** — Andromeda needs to know who bought $47 vs who bought $47 + $97 upsell
+- [ ] **Watch CPMs** — Spiking CPMs = "Creative Similarity" too high, needs fresh creative
+
+#### Cat Howell's Original Points (Still Valid)
 - Need ads for problem-aware AND solution-aware audiences
 - Use Instagram stories/reels as ad creative source
 - "$3 a day strategy" for follower growth (90% order bump rate)
@@ -131,10 +181,60 @@ Each video: 6-10 minutes max. Shorter = more valuable for busy entrepreneurs.
 
 ---
 
+## Impact on High Ticket Playbook Funnel
+
+### Your Funnel vs Andromeda Requirements
+
+| Your Stack | Andromeda Fit | Notes |
+|------------|---------------|-------|
+| $17 front-end | ⚠️ Below optimal | $27-$97 recommended; consider raising to $27 |
+| $37 + $27 bumps | ✅ Perfect | Multiple bumps = higher AOV signal to algorithm |
+| Target AOV $80-150 | ✅ Good | Andromeda rewards buyers who convert on bumps |
+
+### What This Means for Your Ads
+
+1. **You need 20+ creatives before launching** — Not 3-5. Budget for creative production.
+
+2. **Your positioning ("The Coach Who Won't Tell You to Quit Your 9-to-5") works** — It's specific enough that Andromeda can find your audience without interest targeting.
+
+3. **Create ads across awareness spectrum:**
+   - **Unaware:** "Why most coaching businesses fail in year one" (pain)
+   - **Problem Aware:** "You don't need to quit your job to build a coaching business"
+   - **Solution Aware:** "The $17 guide that validates your offer before you build"
+
+4. **Short, punchy copy** — Your "Wrong." and "Period, full stop." voice is perfect for <125 character hooks.
+
+5. **Use Advantage+ Sales campaign** — Don't micro-target interests.
+
+### Creative Production Priority
+
+| Type | Quantity | Purpose |
+|------|----------|---------|
+| UGC-style video | 10+ | Problem-aware hooks, testimonial style |
+| Static quotes | 5+ | Your signature phrases as scroll-stoppers |
+| Product shots | 5+ | Solution-aware, show what's inside |
+| Diagram/framework | 3+ | "Test, validate, build" visual |
+
+---
+
 ## Action Items for Michael
 
-1. Consider breaking down offer into micro low-ticket offers
-2. Use customer awareness levels to plan ad creative
-3. Lead with tangible outcomes in headlines
-4. Short videos (6-10 min) are more valuable than long courses
-5. Sell before building — validate with email list first
+### Immediate (Before Ads)
+1. ~~Consider breaking down offer into micro low-ticket offers~~ ✅ Already structured
+2. **Produce 20+ diverse creatives** across awareness levels
+3. **Set up Conversions API (CAPI)** to feed Andromeda purchase + upsell data
+4. Consider raising front-end from $17 → $27 (Andromeda optimal range)
+
+### Creative Strategy
+5. Create awareness-level ad matrix (unaware → problem → solution → product)
+6. Lead with tangible outcomes in headlines ("validate your offer in 24 hours")
+7. Use short punchy copy (<125 chars) — your voice is built for this
+8. Diversify ANGLES not just visuals (FOMO vs logical gain vs authority)
+
+### Content
+9. Short videos (6-10 min) for course content
+10. First 5 seconds of ad videos = value proposition (non-negotiable)
+
+### Validation
+11. Sell before building — test with warm traffic first
+12. Watch CPMs — if spiking, creative similarity too high
