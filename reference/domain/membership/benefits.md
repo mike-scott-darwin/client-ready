@@ -6,9 +6,9 @@ date: 2026-01-19
 
 # Membership Benefits
 
-## Free Skool Community Benefits
+## Skool Community Benefits (OTO 1 Buyers)
 
-### What Members Get
+### What OTO 1 Clients Get
 
 **Classroom Access:**
 - Phase 1: Client Ready Offer Extraction
@@ -19,12 +19,12 @@ date: 2026-01-19
 
 **Community Access:**
 - Private community feed
-- Connect with other coaches
+- Connect with other clients
 - Share wins and get feedback
 - Ask questions
 
-**Direct Access:**
-- DM Michael directly
+**Direct Access (Sprint only):**
+- Direct chat access during sprint
 - Get feedback on offers
 - Hot seat opportunities on calls
 
@@ -49,10 +49,10 @@ date: 2026-01-19
 
 ### Differentiators
 
-- Free access (no risk to try)
 - Practical, not theoretical
 - AI-assisted for speed
 - Built for coaches who still have a 9-to-5
+- Community support included with OTO 1
 
 ---
 

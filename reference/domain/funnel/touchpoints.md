@@ -8,35 +8,22 @@ date: 2026-01-19
 
 ## Key Conversion Points
 
-### 1. Skool Community Landing
+### 1. $27 Offer Sales Page
 
-**URL:** https://www.skool.com/high-ticket-playbook-9467
-**Purpose:** Convert visitor → free member
-**CTA:** Join Community
-
-**Key elements:**
-- Headline: "Turn Your Low Ticket Customers Into High Ticket Clients"
-- Subhead: "Extract your unfair advantage, validate with $7 low ticket offers and scale to $5K+ high ticket clients"
-- Free badge visible
-- Member count (social proof)
-
----
-
-### 2. $7 Offer Sales Page
-
-**URL:** https://clientreadyoffer.com/implement (or similar)
-**Purpose:** Convert free member → paying customer
-**Price:** $7
+**URL:** https://clientreadyoffer.com/implement
+**Purpose:** Convert cold traffic → paying customer
+**Price:** $27
 **CTA:** Buy Now
 
 **Key elements:**
-- Promise: Complete offer in 15 minutes
+- Promise: Validate your $5K+ offer in one afternoon
 - AI-assisted methodology
 - Instant delivery
+- Order bumps: $47 + $37
 
 ---
 
-### 3. High-Ticket Application
+### 2. High-Ticket Application
 
 **URL:** TBD
 **Purpose:** Qualify prospects for 1:1
@@ -49,7 +36,7 @@ date: 2026-01-19
 
 ---
 
-### 4. Sales Call Booking
+### 3. Sales Call Booking
 
 **URL:** Calendly / TBD
 **Purpose:** Schedule conversation
@@ -59,23 +46,14 @@ date: 2026-01-19
 
 ## Email Touchpoints
 
-### Welcome Sequence (After Skool Join)
-
-| # | Timing | Purpose |
-|---|--------|---------|
-| 1 | Immediate | Welcome, here's how to start |
-| 2 | Day 2 | Phase 1 reminder, start extracting |
-| 3 | Day 4 | $7 offer mention |
-| 4 | Day 7 | Check-in, any questions? |
-
-### Post-$7 Purchase Sequence
+### Post-$27 Purchase Sequence
 
 | # | Timing | Purpose |
 |---|--------|---------|
 | 1 | Immediate | Delivery + quick start |
 | 2 | Day 2 | Did you complete it? |
 | 3 | Day 5 | Share your offer for feedback |
-| 4 | Day 7 | Ready for Phase 2? |
+| 4 | Day 7 | OTO 1 reminder (Sprint + community access) |
 
 ---
 

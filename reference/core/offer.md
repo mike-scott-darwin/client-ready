@@ -13,21 +13,7 @@ linked_research:
 
 ## The Value Ladder
 
-### Tier 1: FREE — High Ticket Playbook Skool Community
-**Price:** $0
-**Access:** Private community (application/invite)
-
-**What's Included:**
-- Full classroom access (3 phases + bonuses)
-- Live call replays
-- Six Figure Swipe File
-- Community access
-
-**Purpose:** Lead generation, trust building, demonstrate expertise
-
----
-
-### Tier 2: $27 Low-Ticket Funnel
+### Tier 1: $27 Low-Ticket Funnel
 
 **Front-End: $27 — Client Ready Offer System**
 - PDF guide + AI prompts
@@ -72,6 +58,7 @@ linked_research:
 - A/B Testing Frameworks & Strategies
 - Client Onboarding System & Delivery Frameworks
 - One-Click Campaign Templates (scale to $1000+/day)
+- **Skool Community Access** — private support community with other clients
 - **Promise:** Everything you need to launch — on your timeline
 
 **4-Week Sprint ($297) Adds:**
@@ -79,6 +66,7 @@ linked_research:
 - Direct chat access during sprint
 - Accountability check-ins
 - Hot seat feedback on your funnel
+- **Skool Community Access** — private support community with other clients
 - **Promise:** Launch your validated offer in 30 days — or Michael keeps working with you
 
 **Note:** Sprint is billed as one-time $297. No subscription. No recurring surprise.

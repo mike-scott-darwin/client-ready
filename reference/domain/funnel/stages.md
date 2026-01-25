@@ -11,17 +11,15 @@ date: 2026-01-23
 ```
 AWARENESS (Content / Ads)
     ↓
-INTEREST (Free Skool Community)
-    ↓
 MICRO-COMMITMENT ($27 Front-End)
     ↓
 ORDER BUMPS ($47 + $37)
     ↓
-OTO 1: High Ticket Playbook ($97 or $37/mo)
+OTO 1: Client Ready Sprint ($97 or $297) + Community Access
     ↓
 OTO 2: Done-For-You Funnel ($397)
     ↓
-ENGAGEMENT (Classroom + Community)
+ENGAGEMENT (Classroom + Community — OTO 1 buyers)
     ↓
 QUALIFICATION (Application)
     ↓
@@ -41,34 +39,13 @@ RETENTION (Results → Referrals)
 - Paid ads (Facebook/Instagram)
 - Podcast appearances
 - Guest posts / collaborations
-- Word of mouth from members
+- Word of mouth from clients
 
 **Key message:** "The Coach Who Won't Tell You to Quit Your 9-to-5"
 
 ---
 
-## Stage 2: Interest — Free Skool Community
-
-**Goal:** They join the free community
-
-**Entry points:**
-- Direct Skool link
-- Social bio links
-- Content CTAs
-
-**What happens:**
-- Join private community
-- Access classroom
-- See methodology in action
-- Build trust with Michael
-
-**Metrics to track:**
-- New member joins per week
-- Community engagement rate
-
----
-
-## Stage 3: Micro-Commitment — $27 Front-End
+## Stage 2: Micro-Commitment — $27 Front-End
 
 **Goal:** They make first purchase
 
@@ -87,12 +64,12 @@ RETENTION (Results → Referrals)
 - Experience the methodology
 
 **Metrics to track:**
-- Conversion rate from free to $27
+- Conversion rate from ads/content to $27
 - Front-end purchase volume
 
 ---
 
-## Stage 4: Order Bumps — $47 + $37
+## Stage 3: Order Bumps — $47 + $37
 
 **Goal:** Increase average order value
 
@@ -113,28 +90,28 @@ RETENTION (Results → Referrals)
 
 ---
 
-## Stage 5: OTO 1 — High Ticket Playbook ($97 or $37/mo)
+## Stage 4: OTO 1 — Client Ready Sprint ($97 or $297)
 
-**Goal:** Upsell to comprehensive system
+**Goal:** Upsell to comprehensive system + community access
 
 **Products:**
-- DIY: $97 one-time
-- VIP: $37/month (ongoing support)
+- Self-Paced: $97 one-time
+- 4-Week Sprint: $297 one-time (with live support)
 
 **What happens:**
 - Customer lands on OTO page after checkout
 - Video + copy explains offer
-- Two-option close (DIY vs VIP)
+- Two-option close (Self-Paced vs Sprint)
 - One-click purchase (card already on file)
+- **Buyer gets Skool community access for support**
 
 **Metrics to track:**
 - OTO 1 conversion rate (target: 10-15%)
-- DIY vs VIP split
-- VIP retention rate (monthly)
+- Self-Paced vs Sprint split
 
 ---
 
-## Stage 6: OTO 2 — Done-For-You Funnel ($397)
+## Stage 5: OTO 2 — Done-For-You Funnel ($397)
 
 **Goal:** Offer done-for-you option
 
@@ -153,15 +130,15 @@ RETENTION (Results → Referrals)
 
 ---
 
-## Stage 7: Engagement — Classroom + Community
+## Stage 6: Engagement — Classroom + Community (OTO 1 Buyers)
 
 **Goal:** They consume content and engage
 
 **What happens:**
-- Work through 3 phases (if in Skool)
+- Work through 3 phases in Skool
 - Use purchased products
-- Attend live calls (if VIP)
-- Ask questions
+- Attend live calls (if Sprint)
+- Ask questions in community
 - Share progress
 
 **Signals of readiness for high-ticket:**
@@ -177,7 +154,7 @@ RETENTION (Results → Referrals)
 
 ---
 
-## Stage 8: Qualification — Application
+## Stage 7: Qualification — Application
 
 **Goal:** Identify high-ticket ready prospects
 
@@ -200,7 +177,7 @@ RETENTION (Results → Referrals)
 
 ---
 
-## Stage 9: Conversion — $5K+ 1:1
+## Stage 8: Conversion — $5K+ 1:1
 
 **Goal:** Enroll in high-ticket coaching
 
@@ -217,7 +194,7 @@ RETENTION (Results → Referrals)
 
 ---
 
-## Stage 10: Retention — Results + Referrals
+## Stage 9: Retention — Results + Referrals
 
 **Goal:** Deliver results, generate referrals
 

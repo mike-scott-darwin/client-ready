@@ -6,32 +6,11 @@ date: 2026-01-23
 
 # Membership & Funnel Pricing
 
-## Current Model: Free Community + Paid Funnel
+## Current Model: Paid Funnel + Community for OTO 1 Buyers
 
-### Tier 1: FREE — Skool Community
+### Tier 1: $27 Low-Ticket Funnel
 
-**Price:** $0
-**Type:** Private (requires approval or link)
-**URL:** https://www.skool.com/high-ticket-playbook-9467
-
-**What's included:**
-- Full classroom access (all 3 phases)
-- Live call replays
-- Six Figure Swipe File
-- Community access
-- DM access to Michael
-
-**Why free:**
-- Builds trust and authority
-- Demonstrates methodology before asking for money
-- Qualifies leads for paid offers
-- Grows audience
-
----
-
-## Tier 2: $27 Low-Ticket Funnel
-
-### Front-End: $27 — Client Ready Offer System
+**Front-End: $27 — Client Ready Offer System**
 
 **Price:** $27
 **Platform:** clientreadyoffer.com
@@ -91,12 +70,14 @@ date: 2026-01-23
 - A/B Testing Frameworks & Strategies
 - Client Onboarding System & Delivery Frameworks
 - One-Click Campaign Templates (scale to $1000+/day)
+- **Skool Community Access** — private support community with other clients
 
 **4-Week Sprint ($297) adds:**
 - Weekly group calls with Michael (4 sessions)
 - Direct chat access during sprint
 - Accountability check-ins
 - Hot seat feedback on your funnel
+- **Skool Community Access** — private support community with other clients
 
 **Promise:** Launch your validated offer in 30 days — or Michael keeps working with you
 
