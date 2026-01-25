@@ -1,3 +1,10 @@
+---
+type: research
+date: 2022-06-01
+source: mining
+status: active
+---
+
 # Miles Stutz Email Analysis
 
 **Source:** Influence & Impact Coaching
@@ -145,7 +152,7 @@ PS. [Restate offer + urgency]
 
 ## Applicable to Your Funnel
 
-For your low-ticket front-end ($17-$27):
+For your low-ticket front-end ($27):
 - **Contrarian angle:** "You don't need a $5K coach to get your first clients"
 - **Enemy:** Overpriced programs, complex funnels, "hustle culture"
 - **Solution:** The Client Ready Offer Guide - get clarity in one sitting

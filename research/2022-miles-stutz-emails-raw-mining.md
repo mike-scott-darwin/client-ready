@@ -1,4 +1,16 @@
+---
+type: research
+date: 2022-06-01
+source: mining
+status: active
+notes: Raw email collection from Miles Stutz (Apr-Jun 2022). See 2022-miles-stutz-email-style-mining.md for analysis.
+---
 
+# Miles Stutz - Raw Email Collection
+
+20 emails from Influence & Impact Coaching (Apr-Jun 2022)
+
+---
 
 | How to get 5 high-ticket clients in the next 10 days (Jun 28, 2022 8:33:48 AM) |  |
 | :---- | :---- |
