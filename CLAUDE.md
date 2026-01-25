@@ -11,9 +11,11 @@ Get your offer ready. Get clients.
 
 ## What This Business Does
 
-Michael Scott helps coaches create validated offers and scale from $17 low-ticket products to $5K+ high-ticket clients using an engineering-minded, AI-assisted approach.
+Michael Scott helps coaches validate their offers before building — scale from $27 low-ticket to $5K+ high-ticket clients using an engineering-minded, AI-assisted approach.
 
 **Tagline:** "The Coach Who Won't Tell You to Quit Your 9-to-5"
+
+**Positioning:** Validate before you scale. Know it works before you invest.
 
 ---
 
@@ -21,15 +23,15 @@ Michael Scott helps coaches create validated offers and scale from $17 low-ticke
 
 | Step | Price | Product |
 |------|-------|---------|
-| Front-end | $17 | Client Ready Offer Guide |
-| Bump 1 | $37 | 24-Hour Launch System |
-| Bump 2 | $27 | Six Figure Funnel + Emails |
-| OTO 1 (DIY) | $97 | Client Ready System + Community |
-| OTO 1 (VIP) | $37/mo | Client Ready System + Community + Support |
+| Front-end | $27 | Client Ready Offer System |
+| Bump 1 | $47 | 24-Hour Launch Kit |
+| Bump 2 | $37 | Plug & Play Funnel Pack |
+| OTO 1 (Self-Paced) | $97 | Client Ready System |
+| OTO 1 (Sprint) | $297 | 4-Week Client Ready Sprint |
 | OTO 2 | $397 | Done-For-You Client Ready Funnel |
 | Backend | $5K+ | 1:1 Funnel Build |
 
-**Max cart:** $575 | **Target AOV:** $80-150
+**Max cart:** $805 | **Target AOV:** $100-180
 
 ---
 
@@ -96,7 +98,7 @@ Direct. No-BS. Engineering mindset. Short sentences. "Wrong." "Test, validate, b
 ## Key URLs
 
 - **Skool:** https://www.skool.com/high-ticket-playbook-9467
-- **$17 Offer:** https://clientreadyoffer.com/implement
+- **$27 Offer:** https://clientreadyoffer.com/implement
 
 ---
 

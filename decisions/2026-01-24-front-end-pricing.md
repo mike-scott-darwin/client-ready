@@ -1,10 +1,16 @@
 ---
 type: decision
-date: 2026-01-24
-status: proposed
+date: 2026-01-25
+status: codified
 linked_research:
   - research/2026-01-23-cat-howell-low-ticket-ecosystem.md
+  - research/2026-01-25-self-liquidating-offers-claude-code.md
+  - research/2026-01-25-miles-stutz-consolidated.md
+  - research/2026-01-25-hernan-vazquez-competitor-mining.md
 supersedes: null
+codified_to:
+  - reference/core/offer.md
+  - CLAUDE.md
 ---
 
 # Decision: Front-End Pricing ($17 vs $27)
@@ -93,9 +99,9 @@ Jump to $37 front-end.
 
 ## Decision
 
-**[TBD — awaiting your input]**
+**ACCEPTED: Option B ($27) + Full Funnel Restructure**
 
-### Recommendation: Option B ($27)
+### Final Decision
 
 Reasoning:
 1. Hits Andromeda's optimal range without leaving impulse territory
@@ -124,14 +130,29 @@ Reasoning:
 
 ---
 
+## Changes Made (2026-01-25)
+
+Based on consolidated research (SLO strategy, Miles Stutz, Cat Howell, Hernan Vazquez):
+
+| Element | Before | After |
+|---------|--------|-------|
+| Front-end | $17 "Offer Guide" | $27 "Offer System" |
+| Bump 1 | $37 | $47 "24-Hour Launch Kit" |
+| Bump 2 | $27 | $37 "Plug & Play Funnel Pack" |
+| OTO 1 VIP | $37/mo subscription | $297 one-time "4-Week Sprint" |
+| Max cart | $575 | $805 |
+| Target AOV | $80-150 | $100-180 |
+| Positioning | "Create your offer" | "Validate before you build" |
+
 ## Action Items
 
-If decision is accepted:
+Completed:
 
-- [ ] Update `reference/core/offer.md` — Change front-end price from $17 to $27
-- [ ] Update `CLAUDE.md` — Update funnel table pricing
+- [x] Update `reference/core/offer.md` — Full restructure with new pricing and framing
+- [x] Update `CLAUDE.md` — Update funnel table pricing
 - [ ] Update sales page copy to reinforce $27 value
-- [ ] Update `focus.md` — Remove pricing decision from "Decisions Needed"
+- [ ] Update checkout pages with new bump pricing
+- [ ] Create Sprint landing page / OTO page
 
 ---
 

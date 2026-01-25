@@ -1,7 +1,12 @@
 ---
 type: reference
 status: active
-date: 2026-01-23
+date: 2026-01-25
+updated_from: 2026-01-23
+linked_research:
+  - research/2026-01-25-self-liquidating-offers-claude-code.md
+  - research/2026-01-25-miles-stutz-consolidated.md
+  - research/2026-01-25-hernan-vazquez-competitor-mining.md
 ---
 
 # Offer
@@ -22,55 +27,57 @@ date: 2026-01-23
 
 ---
 
-### Tier 2: $17 Low-Ticket Funnel
+### Tier 2: $27 Low-Ticket Funnel
 
-**Front-End: $17 — Client Ready Offer Guide**
+**Front-End: $27 — Client Ready Offer System**
 - PDF guide + AI prompts
 - 5 AI prompts that extract zone of genius, ideal client, pain points, story, and assemble complete offer
 - Step-by-step guide + offer document template
-- **Promise:** Create your complete offer document in 15 minutes using AI
+- **Promise:** Validate your $5K+ offer before you build anything — in one afternoon
 
-**Order Bump 1: $37 — Offer Extraction Prompt & 24-Hour Launch System**
-- AI-powered offer extraction prompts
-- Complete FB ad launch system
-- AI-generated landing page copy
-- **Promise:** Skip months of manual creation — complete in 24 hours
-- ~~$497~~ → $37
+**Order Bump 1: $47 — 24-Hour Launch Kit**
+- Done-for-you FB ad templates (just fill in blanks)
+- AI landing page generator (paste offer, get page)
+- 5-minute setup checklist
+- **Promise:** Go from offer doc to live ads in 24 hours — no tech skills required
+- ~~$497~~ → $47
 
-**Order Bump 2: $27 — Six Figure Low Ticket Funnel + Email Templates**
-- Behind-the-scenes breakdown of six-figure funnel
-- All landing pages + offer stacks ("plug and play")
-- 30 high-converting email templates
-- 100+ profitable offer ideas across every major niche
-- ~~$397~~ → $27
+**Order Bump 2: $37 — Plug & Play Funnel Pack**
+- Copy-paste landing pages (just swap your offer)
+- 30-day email sequence (pre-written, proven)
+- 100+ offer ideas by niche (find yours in 2 minutes)
+- **Promise:** Steal my six-figure funnel — plug in your offer and go
+- ~~$397~~ → $37
 
 ---
 
-### Tier 3: $97 — High Ticket Playbook (OTO 1)
+### Tier 3: OTO 1 — The Client Ready Sprint
 
 **Two Options:**
 
 | Option | Price | Best For |
 |--------|-------|----------|
-| **DIY** | $97 one-time | Want to launch fast and independently |
-| **VIP** | $37/month | Want ongoing updates, optimization & live support |
+| **Self-Paced** | $97 one-time | Want the system, work at your own speed |
+| **4-Week Sprint** | $297 one-time | Want accountability + live support to launch in 30 days |
 
-**What's Included (Both Options):**
-- $2K+/day Profit Sales Funnel (copy my exact system)
-- BONUS #1: The Unfair Advantage Framework
-- BONUS #2: AI Landing Page Generator
-- BONUS #3: Traffic Generation Playbook
-- BONUS #4: A/B Testing Frameworks & Strategies
-- BONUS #5: Client Onboarding System & Delivery Frameworks
-- FAST-ACTION BONUS: One-Click Campaign Templates (scale to $1000+/day)
+**Self-Paced ($97) Includes:**
+- Complete $2K+/day funnel system
+- The Unfair Advantage Framework
+- AI Landing Page Generator
+- Traffic Generation Playbook
+- A/B Testing Frameworks & Strategies
+- Client Onboarding System & Delivery Frameworks
+- One-Click Campaign Templates (scale to $1000+/day)
+- **Promise:** Everything you need to launch — on your timeline
 
-**VIP Option Adds:**
-- Monthly updates & optimization
-- Direct chat access to Michael
-- Real-time help in VIP community
-- Weekly calls
+**4-Week Sprint ($297) Adds:**
+- Weekly group calls with Michael (4 sessions)
+- Direct chat access during sprint
+- Accountability check-ins
+- Hot seat feedback on your funnel
+- **Promise:** Launch your validated offer in 30 days — or Michael keeps working with you
 
-**Promise:** Launch your coaching offer and start making sales within 48 hours
+**Note:** Sprint is billed as one-time $297. No subscription. No recurring surprise.
 
 ---
 
@@ -124,31 +131,31 @@ date: 2026-01-23
 
 | Step | Price | Type |
 |------|-------|------|
-| Front-end | $17 | One-time |
-| Bump 1 | $37 | One-time |
-| Bump 2 | $27 | One-time |
-| OTO 1 (DIY) | $97 | One-time |
-| OTO 1 (VIP) | $37/mo | Subscription |
+| Front-end | $27 | One-time |
+| Bump 1 | $47 | One-time |
+| Bump 2 | $37 | One-time |
+| OTO 1 (Self-Paced) | $97 | One-time |
+| OTO 1 (Sprint) | $297 | One-time |
 | OTO 2 | $397 | One-time |
 | Backend | $5K+ | High-ticket |
 
-**Max One-Time Cart Value:** $575 ($17 + $37 + $27 + $97 + $397)
-**Target AOV:** $80-150 (with ~30% bump rate, ~10% OTO rate)
+**Max One-Time Cart Value:** $805 ($27 + $47 + $37 + $297 + $397)
+**Target AOV:** $100-180 (with ~30% bump rate, ~15% Sprint uptake)
 
 ---
 
 ## Core Transformation
 
-**From:** Coach with unclear offer, no funnel, stuck trading time for money
-**To:** Coach with validated offer, working funnel, path to $5K+ clients
+**From:** Coach with an idea but no validated offer — stuck wondering "will anyone pay for this?"
+**To:** Coach with a tested offer, paying customers, and a clear path to $5K+ clients
 
 ## The Mechanism
 
-**The High Ticket Playbook Method:**
+**The Client Ready Method:**
 1. **Extract** — Pull out your unfair advantage using AI-assisted prompts
-2. **Validate** — Test with $17 low-ticket funnel before building infrastructure
-3. **Build** — Install 24-hour funnel system
-4. **Scale** — Traffic and scaling playbook to reach high-ticket clients
+2. **Validate** — Test your offer with real buyers before building infrastructure
+3. **Build** — Install the 24-hour funnel system
+4. **Scale** — Traffic and scaling playbook to reach $5K+ clients
 
 ## Key Philosophy
 
@@ -156,19 +163,25 @@ date: 2026-01-23
 - "Test, validate, build" — Engineering approach, not wishful thinking
 - Reality over Perception — Get the offer right before polishing the marketing
 - "Nobody is coming to save you" — Action over perfection
+- "Validate before you scale" — Know it works before you invest
 
 ## Guarantees
 
 **30-Day Money Back (All Products):**
-> "If you don't get sales from your Digital Stack within 7 days using our templates and support, send us an email at any time and we'll refund every penny of your investment — no questions asked."
+> "If you don't get results using our templates and support, send us an email at any time and we'll refund every penny of your investment — no questions asked."
 
 **100 Customers Guarantee (OTO 2 - $397 DFY):**
 > "We'll implement the system over 30 days and if you don't get 100 customers, I'll personally work with you up until you do."
+
+**Sprint Guarantee (OTO 1 - $297 Sprint):**
+> "Launch your validated offer in 30 days — or Michael keeps working with you until you do."
 
 ## Objection Handling
 
 | Objection | Response |
 |-----------|----------|
-| "I don't have an offer yet" | That's exactly what Phase 1 solves — extract it in 15 minutes |
-| "I'm not tech savvy" | 24-hour funnel system is designed for non-technical coaches |
-| "I don't have an audience" | Phase 3 covers traffic — start with warm audience first |
+| "I don't have an offer yet" | That's exactly what the $27 system solves — extract and validate in one afternoon |
+| "I'm not tech savvy" | The 24-Hour Launch Kit is designed for zero tech skills — fill in blanks, click publish |
+| "I don't have an audience" | Start with your warm audience first. The traffic playbook shows you how to find buyers without ads. |
+| "What if it doesn't work?" | Every product has a money-back guarantee. The Sprint adds personal accountability. |
+| "I don't want another subscription" | No subscriptions in this funnel. Sprint is one-time $297 for 4 weeks. Done. |
