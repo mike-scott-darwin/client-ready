@@ -18,14 +18,15 @@ This is the data repository for Client Ready — used with the [Main Branch Prem
 
 | Step | Price | Product |
 |------|-------|---------|
-| Front-end | $17 | Client Ready Offer Guide |
-| Bump 1 | $37 | 24-Hour Launch System |
-| Bump 2 | $27 | Six Figure Funnel + Emails |
-| OTO 1 | $97 or $37/mo | Client Ready System + Community (DIY or VIP) |
+| Front-end | $27 | Client Ready Offer System |
+| Bump 1 | $47 | 24-Hour Launch Kit |
+| Bump 2 | $37 | Plug & Play Funnel Pack |
+| OTO 1 (Self-Paced) | $97 | Client Ready System |
+| OTO 1 (Sprint) | $297 | 4-Week Client Ready Sprint |
 | OTO 2 | $397 | Done-For-You Client Ready Funnel |
 | Backend | $5K+ | 1:1 Funnel Build |
 
-**Max cart value:** $575 | **Target AOV:** $80-150
+**Max cart value:** $805 | **Target AOV:** $100-180
 
 ## How to Use
 
@@ -49,7 +50,7 @@ outputs/         # Generated content
 ## Key URLs
 
 - **Skool:** https://www.skool.com/high-ticket-playbook-9467
-- **$17 Offer:** https://clientreadyoffer.com/implement
+- **$27 Offer:** https://clientreadyoffer.com/implement
 
 ---
 

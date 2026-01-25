@@ -51,7 +51,7 @@ linked_decisions: []
 | Element | Michael Scott |
 |---------|---------------|
 | **Tagline** | "The Coach Who Won't Tell You to Quit Your 9-to-5" |
-| **Bio** | Helps coaches create validated offers and scale from $17 to $5K+ |
+| **Bio** | Helps coaches create validated offers and scale from $27 to $5K+ |
 | **Promise** | "Test, validate, build" — not hope, pray, fail |
 | **Vibe** | No-BS, engineering-minded, practical, anti-guru |
 | **Authority Claim** | Engineering approach to offers |
@@ -92,11 +92,10 @@ linked_decisions: []
 
 | Component | Cat Howell | Client Ready | Notes |
 |-----------|------------|--------------|-------|
-| Front-end | $27 | $17 | You're $10 below |
-| Bump 1 | $17 | $37 | You're higher |
-| Bump 2 | — | $27 | You have extra bump |
-| Upsell | $67 | $97 | You're higher |
-| Membership | $111/mo | $37/mo VIP | You're cheaper |
+| Front-end | $27 | $27 | Now matched |
+| Bump 1 | $17 | $47 | You're higher |
+| Bump 2 | — | $37 | You have extra bump |
+| Upsell | $67 | $97 / $297 | Self-Paced or Sprint |
 | DFY | Unknown | $397 | Unique to you |
 | Backend | Protocol Eight (unknown) | $5K+ | Similar tier |
 

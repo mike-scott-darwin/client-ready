@@ -29,11 +29,11 @@ date: 2026-01-23
 
 ---
 
-## Tier 2: $17 Low-Ticket Funnel
+## Tier 2: $27 Low-Ticket Funnel
 
-### Front-End: $17 — Client Ready Offer Guide
+### Front-End: $27 — Client Ready Offer System
 
-**Price:** $17
+**Price:** $27
 **Platform:** clientreadyoffer.com
 **Delivery:** Instant digital download
 
@@ -42,62 +42,63 @@ date: 2026-01-23
 - 5 AI prompts (zone of genius, ideal client, pain points, story, offer assembly)
 - Step-by-step guide + offer document template
 
-**Promise:** Create your complete offer document in 15 minutes using AI
+**Promise:** Validate your $5K+ offer before you build anything — in one afternoon
 
 ---
 
-### Order Bump 1: $37 — 24-Hour Launch System
+### Order Bump 1: $47 — 24-Hour Launch Kit
 
-**Price:** $37 (~~$497~~)
+**Price:** $47 (~~$497~~)
 **Trigger:** Checkbox on order form
 
 **What's included:**
-- AI-powered offer extraction prompts
-- Complete FB ad launch system
-- AI-generated landing page copy
+- Done-for-you FB ad templates (just fill in blanks)
+- AI landing page generator (paste offer, get page)
+- 5-minute setup checklist
 
-**Promise:** Skip months of manual creation — complete in 24 hours
+**Promise:** Go from offer doc to live ads in 24 hours — no tech skills required
 
 ---
 
-### Order Bump 2: $27 — Six Figure Funnel + Emails
+### Order Bump 2: $37 — Plug & Play Funnel Pack
 
-**Price:** $27 (~~$397~~)
+**Price:** $37 (~~$397~~)
 **Trigger:** Checkbox on order form
 
 **What's included:**
-- Behind-the-scenes breakdown of six-figure funnel
-- All landing pages + offer stacks ("plug and play")
-- 30 high-converting email templates
-- 100+ profitable offer ideas across every major niche
+- Copy-paste landing pages (just swap your offer)
+- 30-day email sequence (pre-written, proven)
+- 100+ offer ideas by niche (find yours in 2 minutes)
+
+**Promise:** Steal my six-figure funnel — plug in your offer and go
 
 ---
 
-## Tier 3: $97 — High Ticket Playbook (OTO 1)
+## Tier 3: OTO 1 — The Client Ready Sprint
 
 **Two pricing options:**
 
 | Option | Price | Best For |
 |--------|-------|----------|
-| DIY | $97 one-time | Launch fast, work independently |
-| VIP | $37/month | Ongoing updates, support & community |
+| Self-Paced | $97 one-time | Want the system, work at your own speed |
+| 4-Week Sprint | $297 one-time | Want accountability + live support to launch in 30 days |
 
-**What's included (both):**
-- $2K+/day Profit Sales Funnel
-- BONUS #1: The Unfair Advantage Framework
-- BONUS #2: AI Landing Page Generator
-- BONUS #3: Traffic Generation Playbook
-- BONUS #4: A/B Testing Frameworks
-- BONUS #5: Client Onboarding System
-- FAST-ACTION BONUS: One-Click Campaign Templates
+**Self-Paced ($97) includes:**
+- Complete $2K+/day funnel system
+- The Unfair Advantage Framework
+- AI Landing Page Generator
+- Traffic Generation Playbook
+- A/B Testing Frameworks & Strategies
+- Client Onboarding System & Delivery Frameworks
+- One-Click Campaign Templates (scale to $1000+/day)
 
-**VIP adds:**
-- Monthly updates & optimization
-- Direct chat access to Michael
-- VIP community access
-- Weekly calls
+**4-Week Sprint ($297) adds:**
+- Weekly group calls with Michael (4 sessions)
+- Direct chat access during sprint
+- Accountability check-ins
+- Hot seat feedback on your funnel
 
-**Promise:** Launch your coaching offer and start making sales within 48 hours
+**Promise:** Launch your validated offer in 30 days — or Michael keeps working with you
 
 ---
 
@@ -145,10 +146,9 @@ date: 2026-01-23
 
 | Metric | Value |
 |--------|-------|
-| Front-end | $17 |
-| Max cart (one-time) | $575 |
-| Max cart (with VIP) | $478 + $37/mo |
-| Target AOV | $80-150 |
+| Front-end | $27 |
+| Max cart (one-time) | $805 |
+| Target AOV | $100-180 |
 | Bump rate target | ~30% |
 | OTO 1 rate target | ~10-15% |
 | OTO 2 rate target | ~5-10% |
