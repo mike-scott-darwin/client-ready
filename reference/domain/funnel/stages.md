@@ -13,9 +13,9 @@ AWARENESS (Content / Ads)
     ↓
 INTEREST (Free Skool Community)
     ↓
-MICRO-COMMITMENT ($17 Front-End)
+MICRO-COMMITMENT ($27 Front-End)
     ↓
-ORDER BUMPS ($37 + $27)
+ORDER BUMPS ($47 + $37)
     ↓
 OTO 1: High Ticket Playbook ($97 or $37/mo)
     ↓
@@ -68,11 +68,11 @@ RETENTION (Results → Referrals)
 
 ---
 
-## Stage 3: Micro-Commitment — $17 Front-End
+## Stage 3: Micro-Commitment — $27 Front-End
 
 **Goal:** They make first purchase
 
-**Product:** Client Ready Offer Guide ($17)
+**Product:** Client Ready Offer System ($27)
 
 **Trigger:**
 - Mentioned in community
@@ -81,24 +81,24 @@ RETENTION (Results → Referrals)
 - Paid ads to cold traffic
 
 **What happens:**
-- Buy $17 Client Ready Offer guide
+- Buy $27 Client Ready Offer System
 - See order bump offers
 - Enter OTO sequence
 - Experience the methodology
 
 **Metrics to track:**
-- Conversion rate from free to $17
+- Conversion rate from free to $27
 - Front-end purchase volume
 
 ---
 
-## Stage 4: Order Bumps — $37 + $27
+## Stage 4: Order Bumps — $47 + $37
 
 **Goal:** Increase average order value
 
 **Products:**
-- $37: 24-Hour Launch System
-- $27: Six Figure Funnel + Emails
+- $47: AI Offer Extract & 24-Hour Launch System
+- $37: Six Figure Funnel + 30-Day Email Templates
 
 **What happens:**
 - Customer sees checkbox offers on order form
@@ -239,7 +239,7 @@ RETENTION (Results → Referrals)
 
 | Metric | Target |
 |--------|--------|
-| Front-end price | $17 |
+| Front-end price | $27 |
 | Bump rate | 30% |
 | OTO 1 rate | 10-15% |
 | OTO 2 rate | 5-10% |

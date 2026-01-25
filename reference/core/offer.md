@@ -35,18 +35,22 @@ linked_research:
 - Step-by-step guide + offer document template
 - **Promise:** Validate your $5K+ offer before you build anything — in one afternoon
 
-**Order Bump 1: $47 — 24-Hour Launch Kit**
-- Done-for-you FB ad templates (just fill in blanks)
-- AI landing page generator (paste offer, get page)
-- 5-minute setup checklist
-- **Promise:** Go from offer doc to live ads in 24 hours — no tech skills required
+**Order Bump 1: $47 — AI Offer Extract & 24-Hour Launch System**
+- Complete AI system to extract your zone of genius and create focused offer in hours
+- AI-powered ideal client profile generator (detailed buyer personas in 20 minutes)
+- AI funnel builder with copy that speaks to high-stakes problems
+- AI ad generator targeting coaches who recognize themselves in your message
+- 3-phase 24-hour challenge: Offer Extraction → Funnel Building → Ad Creation & Launch
+- **Promise:** Go from "I help everyone with everything" to launch-ready funnel in 24 hours — AI does 90% of the work
 - ~~$497~~ → $47
 
-**Order Bump 2: $37 — Plug & Play Funnel Pack**
-- Copy-paste landing pages (just swap your offer)
-- 30-day email sequence (pre-written, proven)
-- 100+ offer ideas by niche (find yours in 2 minutes)
-- **Promise:** Steal my six-figure funnel — plug in your offer and go
+**Order Bump 2: $37 — Six Figure Funnel + 30-Day Email Templates**
+- Complete MVP funnel (all landing pages, offer stacks, sales copy)
+- Proven ad creative currently running
+- Complete upsell sequences and OTO pages
+- Messaging maps and client profiles
+- 30-day evergreen email sequence (pre-written, proven)
+- **Promise:** Steal my six-figure funnel — just customize the copy, plug in your offer, and go
 - ~~$397~~ → $37
 
 ---
