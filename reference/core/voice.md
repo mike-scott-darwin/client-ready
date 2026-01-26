@@ -1,8 +1,8 @@
 ---
 type: reference
 status: active
-date: 2026-01-23
-updated_from: 4hourconsultant voice patterns
+date: 2026-01-26
+updated_from: Cat Howell patterns + 4hourconsultant voice patterns
 ---
 
 # Voice
@@ -95,6 +95,32 @@ Example:
 
 Example:
 > "Everyone says 'quit your 9-to-5 and go all in.' Nobody tells you that's terrible advice when you don't have a validated offer."
+
+**Pattern 5: Counter-Intuitive Claim** *(Cat Howell-inspired)*
+> "[Thing that sounds wrong] is actually [getting better results]. Here's why..."
+
+Example:
+> "Your messy first offer is actually better than your perfect imaginary one. Here's why..."
+
+**Pattern 6: "Here's the exact..."** *(Cat Howell-inspired)*
+> "Here's the exact [system/process] I use to [specific result]. [Number] steps. That's it."
+
+Example:
+> "Here's the exact 5 prompts I use to extract a $5K offer in one afternoon. No fluff."
+
+**Pattern 7: Story → Lesson** *(Cat Howell-inspired)*
+> "[Time ago] I [made mistake]. [Bad result]. Here's what I learned..."
+
+Example:
+> "I spent 6 months building a course nobody bought. The problem wasn't the funnel. It was the offer."
+
+**Pattern 8: Comment CTA** *(Cat Howell-inspired)*
+> "Comment [WORD] and I'll send you [specific thing]."
+
+Example:
+> "Comment OFFER and I'll send you the 5 AI prompts that extract your zone of genius."
+
+Note: This drives comments + DM conversations. Use sparingly but effectively for lead gen posts.
 
 ---
 
