@@ -5,6 +5,20 @@ Based on: Cat Howell ad framework analysis
 
 ---
 
+## Awareness Levels
+
+| Ad | Level | Use Case |
+|---|---|---|
+| Ad 1 (Story) | Problem-Aware | Cold traffic |
+| Ad 2 (Contrarian) | Solution-Aware | Cold traffic |
+| Ad 3 (Results) | Solution-Aware | Cold traffic |
+| Ad 4 (Imposter) | Problem-Aware | Cold traffic |
+| Ad 5 (Comment CTA) | Solution-Aware | Engagement |
+| Ad 6 (Unaware) | Unaware | Top of funnel |
+| Ad 7 (Retargeting) | Most Aware | Retargeting |
+
+---
+
 ## Ad 1: Personal Story Hook (Long-form)
 
 **Hook:**
@@ -152,6 +166,72 @@ Just the specific problem YOU are uniquely positioned to solve.
 Comment "EXTRACT" and I'll send you the link.
 
 **Creative:** Carousel or short video
+
+---
+
+## Ad 6: Unaware Hook (Top of Funnel)
+
+**Hook:**
+> I posted for 6 months. Got likes. Zero clients.
+
+**Body:**
+I thought the problem was my content.
+
+So I posted more. Better hooks. Trending audio. Consistent schedule.
+
+Still nothing.
+
+Turns out the problem wasn't my content. It was my positioning.
+
+I was saying "I help people with mindset" — which means nothing to anyone.
+
+No clear problem. No clear transformation. No reason to buy.
+
+Once I extracted my actual unfair advantage — the specific thing I do that nobody else does — everything changed.
+
+DMs from strangers. "How do I work with you?" messages. Clients who already wanted what I sold.
+
+Not because I posted more. Because I finally knew what I was selling.
+
+$17 to extract yours in 15 minutes.
+
+👉 clientreadyoffer.com
+
+**Creative:** Talking head, frustrated-to-clarity story arc
+
+**Awareness Level:** Unaware — they think content is the problem, not positioning
+
+---
+
+## Ad 7: Most Aware (Retargeting)
+
+**Hook:**
+> Still thinking about it?
+
+**Body:**
+You saw the Client Ready Offer.
+
+You're still here.
+
+Maybe you're wondering if it actually works. Maybe you're not sure it applies to you.
+
+Here's what I can tell you:
+
+→ 15 minutes to extract your unfair advantage
+→ AI does 90% of the work
+→ $17 — less than lunch
+
+Worst case? You wasted $17 and learned what doesn't resonate.
+
+Best case? You finally stop guessing and start attracting clients who already want what you do.
+
+The offer's still here. You already know you need this.
+
+👉 clientreadyoffer.com
+
+**Creative:** Simple text on solid background, or face-to-camera direct address
+
+**Awareness Level:** Most Aware — they've seen the offer, just need the nudge
 
 ---
 
