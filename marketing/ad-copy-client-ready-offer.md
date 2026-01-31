@@ -18,6 +18,7 @@ Based on: Cat Howell ad framework analysis
 | Ad 6 (Unaware) | Unaware | Top of funnel |
 | Ad 7 (Retargeting) | Most Aware | Retargeting |
 | **Ad 8 (Red Ocean)** | Solution-Aware | Cold traffic — **CONVERTING** |
+| **Ad 9 (Anti-Niching)** | Problem-Aware | Cold traffic — **CONVERTING** ⚠️ |
 
 ---
 
@@ -278,6 +279,7 @@ The offer's still here. You already know you need this.
 ## Ad 8: Red Ocean Hook (CONVERTING — Video Ad)
 
 **Status:** Currently running and converting. Handle with care.
+**Congruency:** Updated 2026-01-31
 
 **Hook:**
 > The coaching market is a red ocean.
@@ -324,6 +326,58 @@ Keep original running, test congruent version as variant.
 
 ---
 
+## Ad 9: Anti-Niching Hook (CONVERTING — Static Image)
+
+**Status:** Currently running and converting. Handle with care.
+**Congruency:** Updated 2026-01-31
+**Compliance Flag:** Original image claims "100+ sales daily" — overpromises vs landing page. Update recommended.
+
+**Hook:**
+> Still waiting for clients after months of "niching"?
+
+**Body:**
+Wrong approach.
+
+You don't FIND your niche. You EXTRACT your zone of genius from what you've already done.
+
+That's the difference between guessing and knowing.
+
+New customers in 72 hours using extraction, not selection.
+
+$17. AI does 90% of the work.
+
+→ The Client Ready Offer
+
+clientreadyoffer.com
+
+**Headline:** `Extract Your Zone of Genius — $17`
+
+**Description:** `New customers in 72 hours. No niching required.`
+
+**Creative:** Static image with text overlay (update copy to match congruent version)
+
+**Suggested Image Text:**
+> Discover how to get new customers in 72 hours by extracting your zone of genius — without the niching rabbit hole or changing your bio every three months
+
+**Awareness Level:** Problem-Aware — they've tried niching, it hasn't worked
+
+**What Makes This Work:**
+- "Still waiting for clients?" = immediate pain recognition
+- "Wrong approach." = punchy, direct (Michael's voice)
+- "EXTRACT vs FIND" = core mechanism differentiator
+- "Guessing vs knowing" = clear value contrast
+- Anti-niching angle = contrarian, resonates with frustrated coaches
+- "72 hours" = specific, matches landing page
+
+**Original Version (Pre-Congruency):**
+> Headline: "Daily Clients By Extracting Your Unfair Advantage :"
+> Body used "unfair advantage" instead of "zone of genius"
+> Image claimed "100+ sales daily" (compliance risk — overpromises vs LP)
+
+**Action Required:** Update image creative to remove "100+ sales daily" claim. Replace with "New customers in 72 hours" to match landing page.
+
+---
+
 ## Creative Suggestions
 
 1. **Talking head video** — Ad 1 or Ad 4 (emotional hooks work well spoken)
@@ -336,12 +390,13 @@ Keep original running, test congruent version as variant.
 
 ## Testing Priority
 
-1. **Ad 8 (Red Ocean)** — Already converting, use as control
-2. **Ad 4 (Imposter)** — Strongest emotional hook, test against Ad 8
-3. **Ad 3 (Results)** — Clearest outcome promise (72 hours)
-4. **Ad 5 (Comment CTA)** — Engagement boost for algorithm
-5. **Ad 1 (Story)** — Brand building / retargeting
-6. **Ad 2 (Contrarian)** — Awareness / cold traffic
+1. **Ad 8 (Red Ocean)** — Converting, use as control
+2. **Ad 9 (Anti-Niching)** — Converting, but needs image update (compliance)
+3. **Ad 4 (Imposter)** — Strongest emotional hook, test against controls
+4. **Ad 3 (Results)** — Clearest outcome promise (72 hours)
+5. **Ad 5 (Comment CTA)** — Engagement boost for algorithm
+6. **Ad 1 (Story)** — Brand building / retargeting
+7. **Ad 2 (Contrarian)** — Awareness / cold traffic
 
 ---
 
