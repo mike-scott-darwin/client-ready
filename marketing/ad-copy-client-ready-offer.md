@@ -19,6 +19,41 @@ Based on: Cat Howell ad framework analysis
 
 ---
 
+## Headlines (Next to "Learn More" Button)
+
+Use these headlines across all ads. Meta shows the headline next to the CTA button.
+
+### Universal Headlines (Work for All Awareness Levels)
+
+| Headline | Character Count |
+|----------|-----------------|
+| **Finally answer "what do you do?" — $17** | 40 |
+| **15 minutes to positioning clarity — $17** | 39 |
+| **Stop sounding like everyone else — $17** | 38 |
+| **Your unfair advantage, extracted — $17** | 38 |
+| **Clear positioning in 15 minutes — $17** | 37 |
+
+**Recommended:** `Finally answer "what do you do?" — $17`
+
+### By Awareness Level (Optional Testing)
+
+| Level | Headline |
+|-------|----------|
+| **Unaware** | Why your content isn't converting — $17 |
+| **Problem-Aware** | Finally answer "what do you do?" — $17 |
+| **Solution-Aware** | AI extracts your positioning in 15 min — $17 |
+| **Most Aware** | The $17 clarity system — get it now |
+
+### Description (Below Headline)
+
+Use one of these as the description field:
+
+- `AI does 90% of the work. No worksheets. No guessing.`
+- `Extract your unfair advantage from what you've already lived.`
+- `The positioning clarity coaches pay $3K for — yours in 15 minutes.`
+
+---
+
 ## Ad 1: Personal Story Hook (Long-form)
 
 **Hook:**
