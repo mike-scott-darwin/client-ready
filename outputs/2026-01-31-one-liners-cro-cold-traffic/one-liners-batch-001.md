@@ -8,42 +8,43 @@ review_date: 2026-01-31
 campaign: cro-cold-traffic
 special_ad_category: none
 price_point: $17
+congruency_pass: 2026-01-31
 ---
 
-# One-Liners: CRO Cold Traffic (Merged)
+# One-Liners: CRO Cold Traffic (Landing Page Aligned)
 
 ## Core Outcome
 
-Go from "I don't know what I do" to a clear, extracted positioning that attracts clients who already want what you sell — in 15 minutes, not 3 months.
+Go from "I help everyone with everything" to "I'm the only choice" — extract your zone of genius into one Client Ready Offer in 15 minutes. New customers in 72 hours.
 
 ## Extracted Specifics
 
 | Category | Specifics |
 |----------|-----------|
 | **Roles/Outcomes** | Coaches, consultants, service providers; 9-to-5ers with expertise; can't answer "what do you do?" clearly |
-| **Timelines** | 15 minutes (AI extraction); one afternoon; 72 hours to first inquiry |
+| **Timelines** | 15 minutes (AI extraction); 72 hours to new customers |
 | **Niche Pains** | Can't explain what they do; imposter syndrome; wearing someone else's positioning; content merry-go-round; hired branding coaches that didn't help; filled out avatar worksheets with no clarity |
-| **Value Props** | AI extraction (not guessing); unfair advantage from lived experience; 15 minutes vs 3 months; $17 entry point; no personas or worksheets |
+| **Value Props** | AI extraction (not guessing); zone of genius from lived experience; 15 minutes vs 3 months; $17 entry point; no personas or worksheets; new customers in 72 hours |
 | **Failed Alternatives** | Branding coaches ($3K+); ideal client avatars; customer personas; brand voice guides; YouTube rabbit holes; courses; picking a niche that "made sense" |
-| **Proof Points** | $17 front-end; 15 minutes; AI does 90% of the work; 30-day money back |
+| **Proof Points** | $17 front-end; 15 minutes; AI does 90% of the work; 30-day money back; 150+ verified students |
 
 ## Reasons to Buy
 
-1. Finally answer "what do you do?" without flinching
+1. Go from "I help everyone" to "I'm the only choice"
 2. Stop feeling like an imposter (you're wearing the wrong positioning)
-3. Extract your unfair advantage from what you've already lived
+3. Extract your zone of genius from what you've already lived
 4. 15 minutes vs 3 months of branding work
 5. No more avatar worksheets that don't clarify anything
 6. AI does 90% of the work
 7. $17 — less than a branding coach consultation
-8. Attract clients who already want what you sell
+8. New customers in 72 hours (even without ads or a funnel)
 9. Stop sounding like everyone else
 10. Positioning that's true to who you are (not a template)
 11. End the content merry-go-round (posting with no clients)
 12. Skip the "pick a niche" trap
 13. Your story IS your moat
 14. DMs from strangers asking "how do I work with you?"
-15. Clarity that actually sticks (because it's extracted, not invented)
+15. The Client Ready Offer — one offer, sell forever
 
 ## Hook Categories Used
 
@@ -64,7 +65,7 @@ Go from "I don't know what I do" to a clear, extracted positioning that attracts
 
 1. $3K on a branding coach. Still couldn't answer "what do you do?" $17 fixed that.
 
-2. "Pick a niche" is the worst advice in coaching. Here's what works instead.
+2. "Pick a niche" is the worst advice in coaching. Extract your zone of genius instead.
 
 3. You feel like an imposter because you're wearing someone else's positioning.
 
@@ -86,33 +87,33 @@ Go from "I don't know what I do" to a clear, extracted positioning that attracts
 
 12. Imposter syndrome isn't a confidence problem. It's a positioning problem.
 
-13. 72 hours from "I don't know what I do" to first client inquiry.
+13. 72 hours from "I don't know what I do" to new customers.
 
 14. 60 hours a week with clients who drain you? Wrong positioning.
 
 15. You're not a fraud. You're just describing someone else's business.
 
-16. I spent months on competitive analysis. Still had no unfair advantage.
+16. I spent months on competitive analysis. Still couldn't find my zone of genius.
 
 17. The fix isn't more confidence. It's positioning that's actually true to you.
 
 18. Bought courses. Hired coaches. Still couldn't explain what makes you different.
 
-19. From "I help people with mindset" to messaging that actually means something.
+19. From "I help people with mindset" to "I'm the only choice."
 
 20. Week 3 of "perfecting" your positioning. Still sounds like everyone else.
 
-21. The $17 AI that extracts your unfair advantage in 15 minutes.
+21. The $17 Client Ready Offer. Extract your zone of genius in 15 minutes.
 
 22. 9-to-5ers with real expertise who can't package it — this is for you.
 
 23. Stop guessing your positioning. Extract it from what you've already overcome.
 
-24. 15 minutes. AI does 90% of the work. Finally sounds like YOU.
+24. 15 minutes. AI does 90% of the work. New customers in 72 hours.
 
 25. For the coach who shows up feeling like they're wearing someone else's clothes.
 
-26. Your unfair advantage is already in your story. The AI just pulls it out.
+26. Your zone of genius is already in your story. The AI just pulls it out.
 
 27. Another branding course won't fix unclear positioning. I learned that the hard way.
 
@@ -120,4 +121,16 @@ Go from "I don't know what I do" to a clear, extracted positioning that attracts
 
 29. Been explaining your offer differently every time someone asks? There's a fix.
 
-30. Your positioning doesn't need to be invented. It needs to be extracted.
+30. From "I help everyone with everything" to "I'm the only choice" — $17.
+
+---
+
+## Landing Page Congruency
+
+All one-liners now use:
+- ✅ "Zone of genius" (not "unfair advantage")
+- ✅ "Client Ready Offer" product name
+- ✅ "New customers in 72 hours" outcome
+- ✅ "I help everyone with everything" → "I'm the only choice" transformation
+- ✅ $17 price point
+- ✅ 15 minutes timeline

@@ -1,6 +1,7 @@
 # Ad Copy Examples — Client Ready Offer ($17)
 
 Generated: 2026-01-30
+Updated: 2026-01-31 (Landing page congruency pass)
 Based on: Cat Howell ad framework analysis
 
 ---
@@ -27,30 +28,32 @@ Use these headlines across all ads. Meta shows the headline next to the CTA butt
 
 | Headline | Character Count |
 |----------|-----------------|
-| **Finally answer "what do you do?" — $17** | 40 |
-| **15 minutes to positioning clarity — $17** | 39 |
-| **Stop sounding like everyone else — $17** | 38 |
-| **Your unfair advantage, extracted — $17** | 38 |
-| **Clear positioning in 15 minutes — $17** | 37 |
+| **From "I help everyone" to "I'm the only choice" — $17** | 49 |
+| **Extract your zone of genius in 15 minutes — $17** | 45 |
+| **New customers in 72 hours — $17** | 32 |
+| **Client Ready Offer — $17** | 24 |
+| **Stop second-guessing your offer — $17** | 37 |
 
-**Recommended:** `Finally answer "what do you do?" — $17`
+**Recommended:** `From "I help everyone" to "I'm the only choice" — $17`
+
+(Matches landing page headline exactly)
 
 ### By Awareness Level (Optional Testing)
 
 | Level | Headline |
 |-------|----------|
 | **Unaware** | Why your content isn't converting — $17 |
-| **Problem-Aware** | Finally answer "what do you do?" — $17 |
-| **Solution-Aware** | AI extracts your positioning in 15 min — $17 |
-| **Most Aware** | The $17 clarity system — get it now |
+| **Problem-Aware** | From "I help everyone" to "I'm the only choice" — $17 |
+| **Solution-Aware** | Extract your zone of genius in 15 min — $17 |
+| **Most Aware** | Client Ready Offer — get it now for $17 |
 
 ### Description (Below Headline)
 
 Use one of these as the description field:
 
-- `AI does 90% of the work. No worksheets. No guessing.`
-- `Extract your unfair advantage from what you've already lived.`
-- `The positioning clarity coaches pay $3K for — yours in 15 minutes.`
+- `New customers in 72 hours. AI does 90% of the work.`
+- `Extract your zone of genius into one Client Ready Offer.`
+- `Even if you've never ran ads or built a funnel.`
 
 ---
 
@@ -78,13 +81,13 @@ You can't FIND your positioning. You have to EXTRACT it.
 
 From what you've already overcome. From the transformation you've already lived. From the thing people already come to you for.
 
-That's why I built an AI extraction process that pulls your unfair advantage out in 15 minutes.
+That's why I built the Client Ready Offer — an AI extraction process that pulls your zone of genius out in 15 minutes.
 
 No guessing. No ideal client worksheets. No pretending to be something you're not.
 
-Just YOU — clarified.
+Just YOU — clarified. And new customers in 72 hours.
 
-$17 to finally answer "what do you do?" without flinching.
+$17 to go from "I help everyone with everything" to "I'm the only choice."
 
 👉 clientreadyoffer.com
 
@@ -106,13 +109,13 @@ Building a business that feels like a costume.
 
 The alternative?
 
-Extract your unfair advantage from what you've ALREADY done.
+Extract your zone of genius from what you've ALREADY done.
 
 Your story. Your transformation. Your lived experience.
 
 That's not a niche. That's a moat.
 
-$17. 15 minutes. AI does 90% of the work.
+$17. 15 minutes. New customers in 72 hours.
 
 👉 clientreadyoffer.com
 
@@ -135,14 +138,14 @@ Most coaches spend months:
 
 And still sound like everyone else.
 
-This AI extraction process takes 15 minutes.
+The Client Ready Offer takes 15 minutes.
 
 It pulls out:
-- The ONE problem you're uniquely positioned to solve
+- Your zone of genius (the thing you do that nobody else does)
 - The transformation you've actually lived
 - Messaging that sounds like YOU (not a template)
 
-Result? DMs from people who already want to work with you.
+Result? New customers in 72 hours — even if you've never ran ads or built a funnel.
 
 $17. No branding coach required.
 
@@ -170,13 +173,11 @@ And now you show up feeling like you're wearing someone else's clothes.
 
 The fix isn't more confidence.
 
-It's positioning that's actually true to who you are.
+It's extracting your zone of genius — the thing that's actually true to who you are.
 
-That's what this AI extraction does — pulls YOUR unfair advantage out in 15 minutes.
+That's what the Client Ready Offer does. 15 minutes. AI does 90% of the work.
 
-No personas. No market research. No guessing.
-
-$17 to stop feeling like a fraud.
+$17 to stop feeling like a fraud and start getting customers who already want what you do.
 
 👉 clientreadyoffer.com
 
@@ -190,13 +191,15 @@ $17 to stop feeling like a fraud.
 > Most coaches spend 3 months on positioning. This takes 15 minutes.
 
 **Body:**
-I built an AI that extracts your unfair advantage from what you've already overcome.
+I built the Client Ready Offer — an AI that extracts your zone of genius from what you've already overcome.
 
 No ideal client avatars.
 No competitive research.
 No brand voice guides.
 
 Just the specific problem YOU are uniquely positioned to solve.
+
+New customers in 72 hours. Even if you've never ran ads.
 
 Comment "EXTRACT" and I'll send you the link.
 
@@ -222,9 +225,9 @@ I was saying "I help people with mindset" — which means nothing to anyone.
 
 No clear problem. No clear transformation. No reason to buy.
 
-Once I extracted my actual unfair advantage — the specific thing I do that nobody else does — everything changed.
+Once I extracted my zone of genius — the specific thing I do that nobody else does — everything changed.
 
-DMs from strangers. "How do I work with you?" messages. Clients who already wanted what I sold.
+DMs from strangers. "How do I work with you?" messages. New customers in 72 hours.
 
 Not because I posted more. Because I finally knew what I was selling.
 
@@ -252,13 +255,14 @@ Maybe you're wondering if it actually works. Maybe you're not sure it applies to
 
 Here's what I can tell you:
 
-→ 15 minutes to extract your unfair advantage
+→ 15 minutes to extract your zone of genius
 → AI does 90% of the work
+→ New customers in 72 hours (even without ads or a funnel)
 → $17 — less than lunch
 
 Worst case? You wasted $17 and learned what doesn't resonate.
 
-Best case? You finally stop guessing and start attracting clients who already want what you do.
+Best case? You go from "I help everyone with everything" to "I'm the only choice."
 
 The offer's still here. You already know you need this.
 
@@ -273,7 +277,7 @@ The offer's still here. You already know you need this.
 ## Creative Suggestions
 
 1. **Talking head video** — Ad 1 or Ad 4 (emotional hooks work well spoken)
-2. **Static image** — Screenshot of Google Doc with "Your Unfair Advantage" title
+2. **Static image** — Screenshot of Google Doc with "Your Zone of Genius" title
 3. **Carousel** — Before/After of generic positioning vs extracted positioning
 4. **Text overlay video** — "What 3 months of positioning looks like vs 15 minutes of extraction"
 
@@ -282,7 +286,7 @@ The offer's still here. You already know you need this.
 ## Testing Priority
 
 1. **Ad 4 (Imposter)** — Strongest emotional hook
-2. **Ad 3 (Results)** — Clearest outcome promise
+2. **Ad 3 (Results)** — Clearest outcome promise (72 hours)
 3. **Ad 5 (Comment CTA)** — Engagement boost for algorithm
 4. **Ad 1 (Story)** — Brand building / retargeting
 5. **Ad 2 (Contrarian)** — Awareness / cold traffic
@@ -297,3 +301,17 @@ The offer's still here. You already know you need this.
 - Emotional pain points (imposter syndrome, wrong clients)
 - Low price anchor ($17)
 - AI mechanism (modern, fast, effortless)
+- Landing page congruency ("zone of genius", "Client Ready Offer", "72 hours")
+
+---
+
+## Landing Page Congruency Checklist
+
+| Element | Ad Copy | Landing Page | Match |
+|---------|---------|--------------|-------|
+| Mechanism | "Extract your zone of genius" | "Extract your zone of genius" | ✅ |
+| Product name | "Client Ready Offer" | "Client Ready Offer" | ✅ |
+| Timeline | "15 minutes" | "15 minutes or less" | ✅ |
+| Outcome | "New customers in 72 hours" | "New customers in 72 hours" | ✅ |
+| Transformation | "I help everyone" → "I'm the only choice" | Same | ✅ |
+| Price | "$17" | "$17" | ✅ |
