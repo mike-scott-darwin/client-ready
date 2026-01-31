@@ -123,6 +123,16 @@ Go from "I help everyone with everything" to "I'm the only choice" — extract y
 
 30. From "I help everyone with everything" to "I'm the only choice" — $17.
 
+31. 114 sales in 30 days. Here's what I learned.
+
+32. Stop building a free audience. Build a buyer audience. $17.
+
+33. More ad spend ≠ more sales. Clarity does.
+
+34. Flashy content feels productive. Simple offers create revenue.
+
+35. Your offer is already filtering your buyers. Is it attracting the right ones?
+
 ---
 
 ## Landing Page Congruency

@@ -1,72 +1,91 @@
 ---
 type: reference
-status: draft
-date: 2026-01-19
+status: active
+date: 2026-01-31
+updated: 2026-01-31
 ---
 
-# Testimonials
+# Testimonials & Proof
 
-## Status: NEEDS CONTENT
+## Founder Case Study — Michael Scott
 
-No testimonials collected yet. This is a priority gap to fill.
+**Milestone:** 114 sales in first 30 days of launch
+
+**Offer:** Client Ready Offer ($17 low-ticket)
+
+**Key Learnings (from public post):**
+
+1. More ad spend ≠ more sales — consistency beats scaling
+2. Data beats perfection — launching imperfectly creates real feedback
+3. Fast transformation increases buyer retention and ascension
+4. Buyers outperform free leads — selling on frontend builds higher-quality audience
+5. Alignment is the multiplier for everything else
+
+**Quotable:**
+> "114 sales later… I want to share my top 20 takeaways from real, lived experience."
+
+> "Watching clients generate sales using tools you created reinforces the value and power of your intellectual property."
+
+> "The real question isn't what you want, but who you must become for consistent sales, backend conversions, and growth to feel normal."
+
+**Source:** Facebook Group post
+**Date:** 2026-01-31
 
 ---
 
-## How to Add Testimonials
+## Client Wins
 
-When you get wins, add them here in this format:
+_Add client testimonials below as they come in._
+
+### Template
 
 ```markdown
 ## [Name] — [Title/Role]
 
-**Before:** [Their situation before working with you]
+**Before:** [Their situation before]
 
 **After:** [The transformation/result]
 
-**Quote:** "[Direct quote from them]"
+**Quote:** "[Direct quote]"
 
 **Specifics:**
-- [Specific metric or outcome]
-- [Timeframe if relevant]
-- [What they were able to do/achieve]
+- [Metric or outcome]
+- [Timeframe]
+- [What they achieved]
 
-**Source:** [Where this came from: DM, call, email, etc.]
-**Date:** [When you received it]
+**Source:** [DM, call, email]
+**Date:** [When received]
 ```
 
 ---
 
-## Types of Testimonials to Collect
+## Proof Points for Ads
 
-### Priority 1: Outcome Testimonials
-Results people achieved:
-- "I closed my first $5K client"
-- "I built my offer in 15 minutes and sold it the same day"
-- "I went from confused to clear in one session"
+Use these in ad copy and landing pages:
 
-### Priority 2: Process Testimonials
-Experience working with you:
-- "Michael's approach is so practical"
-- "No fluff, just action"
-- "First coach who didn't tell me to quit my job"
-
-### Priority 3: Transformation Testimonials
-Before/after emotional state:
-- "I finally feel confident about my offer"
-- "I stopped overthinking and started doing"
+| Proof Point | Source | Use For |
+|-------------|--------|---------|
+| 114 sales in 30 days | Founder case study | Authority, social proof |
+| 150+ verified students | Landing page | Scale proof |
+| 4.7/5 rating | Landing page | Quality proof |
+| Clients generating sales | Founder post #17 | Transformation proof |
+| 72 hours to new customers | Landing page claim | Speed proof |
 
 ---
 
-## Collection Prompts
+## Testimonial Collection Prompts
 
 Ask clients/members:
-1. "What was your situation before you joined/we worked together?"
+1. "What was your situation before you joined?"
 2. "What's different now?"
 3. "What would you tell someone who's on the fence?"
-4. "What surprised you most about the experience?"
+4. "What surprised you most?"
+5. "What specific result did you get?" (metric, timeframe)
 
 ---
 
-## Placeholder: Future Testimonials
+## Priority Gaps
 
-_As you collect wins, replace this section with real testimonials._
+- [ ] Collect 3-5 client outcome testimonials (specific results)
+- [ ] Get screenshot proof of client wins (DMs, sales notifications)
+- [ ] Video testimonial for Ad 4 (Imposter) angle
