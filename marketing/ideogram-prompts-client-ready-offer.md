@@ -215,3 +215,93 @@ Minimalist ad graphic, sticky note or reminder style, handwritten text "You alre
 3. **Ad 2 Option A** (Pick a niche X) — Contrarian pattern interrupt
 4. **Ad 3 Option B** (DM notification) — Aspirational outcome
 5. **Ad 1 Option B** (Price contrast) — Clear value proposition
+
+---
+
+## High-Performing Image Types (January 2026)
+
+Based on current campaign data: images outperforming videos, 80-90% order bump rate.
+
+### Type 1: Testimonial Screenshot Collage
+
+**Use when:** You have positive comments, DMs, or testimonials to showcase
+
+**Prompt A — Clean Grid**
+```
+Clean advertisement image, pure white background, three iPhone screenshot mockups arranged in slight overlap, each showing a social media comment or DM with positive feedback, realistic iOS message bubbles, subtle drop shadows, minimal and professional, no text overlay needed, the screenshots ARE the content, social proof advertising style
+
+--aspect 1:1 --style realistic
+```
+
+**Prompt B — Scattered Screenshots**
+```
+White background advertisement, 4-5 social media comment screenshots scattered naturally across frame, slight rotation on each screenshot, realistic iPhone notification and comment UI, testimonial snippets visible in screenshots, authentic social proof aesthetic, clean minimal composition, Facebook ad style
+
+--aspect 4:5 --style realistic
+```
+
+**Prompt C — Single Powerful Testimonial**
+```
+Minimalist ad image, clean white background, single large iPhone screenshot in center showing enthusiastic DM or comment, message clearly readable, realistic iOS interface, subtle shadow, testimonial-focused social proof ad, high converting aesthetic
+
+--aspect 1:1 --style realistic
+```
+
+### Type 2: Personal Photo + Text Overlay
+
+**Use when:** Building personal brand, authenticity, human connection
+
+**Prompt A — Casual Personal Photo**
+```
+Warm authentic photo of a person smiling naturally, casual setting (home office or coffee shop), genuine expression, soft natural lighting, space on left or right side for text overlay, approachable and relatable vibe, not stock photo perfect, real person aesthetic
+
+--aspect 4:5 --style realistic
+```
+
+**Prompt B — With Family/Friend**
+```
+Authentic candid photo of two people together smiling, warm genuine moment, casual clothing, natural lighting, one person slightly in front, space at top or bottom for text overlay, relatable family or friendship vibe, not posed or corporate
+
+--aspect 4:5 --style realistic
+```
+
+**Note:** For personal photos, use your ACTUAL photos — these prompts are for reference/inspiration only. The authenticity of real photos cannot be replicated by AI.
+
+### Type 3: Bold Text on Solid Color
+
+**Use when:** Hook is strong enough to stand alone
+
+**Prompt A — Dark Background**
+```
+Bold typographic advertisement, dark navy background #1a1a2e, large white sans-serif text reading "[YOUR HOOK HERE]", clean minimal design, high contrast, no images just powerful text, modern Facebook ad aesthetic, scroll-stopping typography
+
+--aspect 1:1 --style design
+```
+
+**Prompt B — Warm Background**
+```
+Clean typographic ad, warm cream or soft gold background, bold black text with key phrase, minimal design, premium feel, simple and direct, luxury low-ticket aesthetic, Instagram ad style
+
+--aspect 4:5 --style design
+```
+
+---
+
+## Testimonial Screenshot Templates
+
+If creating mockups for testimonial-style ads:
+
+**Comment Template Prompts:**
+```
+iPhone screenshot mockup of Facebook comment, profile picture blurred, comment text reads "This changed everything for me", like count showing 12 likes, reply button visible, realistic iOS Facebook interface, clean white background around screenshot
+
+--aspect 1:1 --style realistic
+```
+
+```
+Instagram DM screenshot mockup, message bubble showing "Just got my first client using your framework!", timestamp showing "2h ago", read receipt visible, realistic iOS Instagram interface, authentic conversation aesthetic
+
+--aspect 1:1 --style realistic
+```
+
+**Note:** Always use REAL testimonials when possible. These are for visualization only.

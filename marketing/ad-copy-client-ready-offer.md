@@ -424,13 +424,52 @@ $17 to stop guessing and start knowing.
 
 ---
 
-## Creative Suggestions
+## Creative Guidelines (What's Working Now)
 
-1. **Talking head video** — Ad 1 or Ad 4 (emotional hooks work well spoken)
-2. **Static image** — Screenshot of Google Doc with "Your Zone of Genius" title
-3. **Carousel** — Before/After of generic positioning vs extracted positioning
-4. **Text overlay video** — "What 3 months of positioning looks like vs 15 minutes of extraction"
-5. **Training video** — Ad 8 style, value-first with AI prompts teaser
+### Image Types Crushing It (January 2026)
+
+| Type | Description | Why It Works |
+|------|-------------|--------------|
+| **Testimonial Screenshots** | White background + screenshots of positive comments/testimonials | Social proof, authentic, low production |
+| **Personal + Text Overlay** | Photo of you (with family/friend) + bold text overlay | Authenticity, pattern interrupt, human connection |
+
+**Note:** Images currently outperforming videos for some campaigns. FB favoring images over previous winning video. Test both — you never know until you test.
+
+### Quality Benchmark
+- **80-90% order bump rate** — Current benchmark from winning ads
+- High bump rate = messaging-to-offer alignment is strong
+
+### Creative Suggestions
+
+1. **Testimonial screenshot** — White background, 2-3 comment screenshots, minimal text
+2. **Personal photo + overlay** — You or you + someone, bold text hook on image
+3. **Talking head video** — Ad 1 or Ad 4 (emotional hooks work well spoken)
+4. **Static image** — Screenshot of Google Doc with "Your Zone of Genius" title
+5. **Carousel** — Before/After of generic positioning vs extracted positioning
+6. **Text overlay video** — "What 3 months of positioning looks like vs 15 minutes of extraction"
+7. **Training video** — Ad 8 style, value-first with AI prompts teaser
+
+### Andromeda Messaging Diversity Strategy
+
+Meta's Andromeda algorithm rewards **messaging diversity**, not just creative diversity.
+
+**What this means:**
+- Multiple fundamentally different messages > one ad getting all budget
+- Same core angle, different composition/framing
+- Result: better distribution of purchases across ads
+
+**How to implement:**
+1. Take one core angle (e.g., "imposter syndrome")
+2. Write 3-5 versions with different entry points:
+   - Problem agitation version
+   - Transformation version
+   - Contrarian version
+   - Social proof version
+   - Identity callout version
+3. Pair each with different creative types
+4. Let Andromeda distribute budget across winners
+
+**Current setup:** 10 ads (Ad 1-10) covering different angles + awareness levels = good diversity
 
 ---
 
