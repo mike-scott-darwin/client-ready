@@ -7,123 +7,117 @@ review_status: passed
 review_date: 2026-01-31
 campaign: cro-cold-traffic
 special_ad_category: none
+price_point: $17
 ---
 
-# One-Liners: CRO Cold Traffic
+# One-Liners: CRO Cold Traffic (Merged)
 
 ## Core Outcome
 
-Go from "stuck in the search" (trying offers that don't fit, grinding on content that doesn't convert) to a validated, aligned offer that actually converts — without trading one grind for another.
+Go from "I don't know what I do" to a clear, extracted positioning that attracts clients who already want what you sell — in 15 minutes, not 3 months.
 
 ## Extracted Specifics
 
 | Category | Specifics |
 |----------|-----------|
-| **Roles/Outcomes** | Coaches, consultants, service providers; 9-to-5ers with expertise; pre-scale stage ($0-$100K); year 2-3 of the search; want high-ticket clients |
-| **Timelines** | One afternoon (validate offer); 15 minutes (5 AI prompts); 24 hours (launch system); 30 days (Sprint guarantee) |
-| **Niche Pains** | The search (years trying different approaches); content merry-go-round (posting for months, no buyers); grind trap (left 9-to-5, now working 60 hours); misaligned offers (made money but hurt to show up); validation anxiety; wrong advice (hustle harder, scale faster); starting to doubt themselves |
-| **Value Props** | 5 AI prompts that extract zone of genius; validation-first (test before building); paid traffic over content; "you can't grow into pain"; won't tell you to quit your 9-to-5; 7+ years in the search himself |
-| **Failed Alternatives** | Hours of YouTube; courses (too advanced or generic); funnels that didn't convert; inconsistent social posting; word-of-mouth clients can't replicate; underpriced services; weeks "perfecting" before showing anyone |
-| **Proof Points** | $27 front-end; high-ticket backend; 30-day money back; 100 customers guarantee (DFY); Sprint guarantee (launch or keep working) |
+| **Roles/Outcomes** | Coaches, consultants, service providers; 9-to-5ers with expertise; can't answer "what do you do?" clearly |
+| **Timelines** | 15 minutes (AI extraction); one afternoon; 72 hours to first inquiry |
+| **Niche Pains** | Can't explain what they do; imposter syndrome; wearing someone else's positioning; content merry-go-round; hired branding coaches that didn't help; filled out avatar worksheets with no clarity |
+| **Value Props** | AI extraction (not guessing); unfair advantage from lived experience; 15 minutes vs 3 months; $17 entry point; no personas or worksheets |
+| **Failed Alternatives** | Branding coaches ($3K+); ideal client avatars; customer personas; brand voice guides; YouTube rabbit holes; courses; picking a niche that "made sense" |
+| **Proof Points** | $17 front-end; 15 minutes; AI does 90% of the work; 30-day money back |
 
 ## Reasons to Buy
 
-1. End the search — stop trying different approaches that don't fit
-2. Validate before building — know it works before investing in infrastructure
-3. Alignment — an offer that fits who you actually are (won't abandon it)
-4. Escape content merry-go-round — stop posting for months hoping someone buys
-5. Paid traffic shortcut — don't wait 12 months for organic to work
-6. Zone of genius extraction — package your actual expertise, not generic coaching
-7. Anti-guru approach — no "quit your 9-to-5" pressure, no hustle-harder advice
-8. Speed — validate in one afternoon, not months of building first
-9. AI does the work — prompts handle the extraction, not hours of introspection
-10. Risk reversal — 30-day money back, nothing to lose
-11. Business around life — not life built around business
-12. Automation — system that generates leads consistently (paid traffic + funnel)
-13. Stop underpricing — charge what you're worth with a clear offer
-14. Escape grind trap — don't trade corporate grind for entrepreneurial grind
-15. Clear offer — stop confusing people when you explain what you do
-16. Test with real money — actual validation, not theory or wishful thinking
-17. Simple systems — designed for low-to-medium tech comfort
-18. Accountability option — Sprint has live support and check-ins
-19. Done-for-you option — Michael builds it if you want hands-off
-20. Permission to keep 9-to-5 — build alongside your job, not instead of it
+1. Finally answer "what do you do?" without flinching
+2. Stop feeling like an imposter (you're wearing the wrong positioning)
+3. Extract your unfair advantage from what you've already lived
+4. 15 minutes vs 3 months of branding work
+5. No more avatar worksheets that don't clarify anything
+6. AI does 90% of the work
+7. $17 — less than a branding coach consultation
+8. Attract clients who already want what you sell
+9. Stop sounding like everyone else
+10. Positioning that's true to who you are (not a template)
+11. End the content merry-go-round (posting with no clients)
+12. Skip the "pick a niche" trap
+13. Your story IS your moat
+14. DMs from strangers asking "how do I work with you?"
+15. Clarity that actually sticks (because it's extracted, not invented)
 
 ## Hook Categories Used
 
 | Category | Lines |
 |----------|-------|
-| Problem agitation | 1, 9, 14, 20 |
-| Emotional state | 4, 12, 25 |
+| Problem agitation | 1, 5, 9, 14, 20 |
+| Emotional/Imposter | 4, 12, 15, 17 |
 | Transformation | 7, 13, 19, 28 |
-| Contrarian | 2, 8, 17, 23, 30 |
-| Identity callout | 5, 15, 22, 29 |
-| Failed alternative | 3, 11, 18, 27 |
-| Mechanism reveal | 6, 16, 21, 24 |
-| Timeline/speed | 1, 6, 13, 24 |
-| Desire/outcome | 25, 26, 28 |
-| Authority/proof | 17, 26, 27 |
+| Contrarian | 2, 6, 8, 23, 30 |
+| Identity callout | 3, 10, 22, 25 |
+| Failed alternative | 11, 16, 18, 27 |
+| Mechanism reveal | 21, 24, 26 |
+| Timeline/speed | 1, 7, 13, 24 |
 
 ---
 
 ## One-Liners
 
-1. 2 years. No clear offer. 5 AI prompts changed that in 15 minutes.
+1. $3K on a branding coach. Still couldn't answer "what do you do?" $17 fixed that.
 
-2. "Quit your 9-to-5 and go all in" is terrible advice without a validated offer.
+2. "Pick a niche" is the worst advice in coaching. Here's what works instead.
 
-3. 47 YouTube videos on coaching. Zero clients. One afternoon changed that.
+3. You feel like an imposter because you're wearing someone else's positioning.
 
-4. Wonder if the gurus lied? You're probably right.
+4. Filled out avatar worksheets for weeks. Still sounded like everyone else.
 
-5. Posting for 6 months, getting likes, no buyers — there's a faster path.
+5. Posting for 6 months, getting likes, zero clients. The problem isn't your content.
 
-6. What if you could validate your offer this afternoon — before building anything?
+6. You can't FIND your positioning. You have to EXTRACT it.
 
-7. From "I help everyone with everything" to an offer people actually buy.
+7. 15 minutes to extract what 3 months of branding work couldn't.
 
-8. Your messy first offer beats your perfect imaginary one.
+8. Your messy real story beats your polished fake positioning.
 
-9. The content merry-go-round: post for 12 months, hope someone buys.
+9. Still rewriting your bio for the 47th time? There's a faster way.
 
-10. Ever explain what you do and feel like people don't quite get it?
+10. Coaches who attract draining clients picked a niche that "made sense."
 
-11. Courses too generic. Funnels that don't convert. There's a simpler path.
+11. Avatar worksheets. Customer personas. Brand voice guides. None of it worked.
 
-12. You can't grow into pain. Misaligned offers get abandoned.
+12. Imposter syndrome isn't a confidence problem. It's a positioning problem.
 
-13. Ready to go from "stuck in the search" to a validated offer?
+13. 72 hours from "I don't know what I do" to first client inquiry.
 
-14. 60 hours a week with worse benefits than your 9-to-5? Wrong approach.
+14. 60 hours a week with clients who drain you? Wrong positioning.
 
-15. For the coach who's been at this 2-3 years. It's not you.
+15. You're not a fraud. You're just describing someone else's business.
 
-16. Paid traffic + validated offer = a system that works for you.
+16. I spent months on competitive analysis. Still had no unfair advantage.
 
-17. What if misalignment is the issue? Took me 7 years to figure that out.
+17. The fix isn't more confidence. It's positioning that's actually true to you.
 
-18. Bought courses. Posted content. Can't replicate that one client. Sound familiar?
+18. Bought courses. Hired coaches. Still couldn't explain what makes you different.
 
-19. From side hustle confusion to high-ticket clients with one clear offer.
+19. From "I help people with mindset" to messaging that actually means something.
 
-20. Week 3 of "perfecting" before showing anyone. There's a 15-minute fix.
+20. Week 3 of "perfecting" your positioning. Still sounds like everyone else.
 
-21. The $27 system that helps you validate before you build.
+21. The $17 AI that extracts your unfair advantage in 15 minutes.
 
-22. 9-to-5ers with real expertise who want out — but not into another grind.
+22. 9-to-5ers with real expertise who can't package it — this is for you.
 
-23. What if you validated before building? Test first. Build second.
+23. Stop guessing your positioning. Extract it from what you've already overcome.
 
-24. 15 minutes. 5 AI prompts. A clear offer you can actually sell.
+24. 15 minutes. AI does 90% of the work. Finally sounds like YOU.
 
-25. The goal isn't just "what works." It's what works AND feels right.
+25. For the coach who shows up feeling like they're wearing someone else's clothes.
 
-26. Coaches closing high-ticket clients know: clarity beats complexity.
+26. Your unfair advantage is already in your story. The AI just pulls it out.
 
-27. Another course won't fix an unclear offer. I learned that the hard way.
+27. Another branding course won't fix unclear positioning. I learned that the hard way.
 
-28. Build something aligned and you'll actually stick with it.
+28. DMs from strangers asking "how do I work with you?" That's what clarity does.
 
-29. Been underpricing for years? These prompts help you see what you're worth.
+29. Been explaining your offer differently every time someone asks? There's a fix.
 
-30. Your offer doesn't need to be complicated. It needs to be clear.
+30. Your positioning doesn't need to be invented. It needs to be extracted.

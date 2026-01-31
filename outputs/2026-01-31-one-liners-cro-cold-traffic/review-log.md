@@ -3,9 +3,33 @@ type: review-log
 date: 2026-01-31
 campaign: cro-cold-traffic
 status: complete
+merged_with: marketing/ad-copy-client-ready-offer.md
 ---
 
 # Review Log: CRO Cold Traffic One-Liners
+
+## Merge Notes (2026-01-31)
+
+Merged with existing ad copy from `marketing/ad-copy-client-ready-offer.md`:
+
+| Element | Before Merge | After Merge |
+|---------|--------------|-------------|
+| Price | $27 | $17 |
+| Mechanism | "5 AI prompts" / validation | "AI extraction" / unfair advantage |
+| Core pain | Stuck in the search | Can't answer "what do you do?" |
+| Key phrase | "Validate your offer" | "Extract your unfair advantage" |
+
+**Added from existing ads:**
+- Imposter syndrome hooks (#3, #12, #15, #17, #25)
+- "Can't answer what do you do" pain (#1, #13)
+- Anti-branding-coach positioning (#1, #27)
+- "Extract vs find" language (#6, #23, #30)
+- "$3K branding coach" failed alternative (#1)
+- Avatar worksheets / personas as failed alternatives (#4, #11)
+- "Wearing someone else's clothes" metaphor (#25)
+- 72-hour timeline from existing Ad 3 (#13)
+
+---
 
 ## Review Summary
 
