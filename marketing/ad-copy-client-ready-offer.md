@@ -17,6 +17,7 @@ Based on: Cat Howell ad framework analysis
 | Ad 5 (Comment CTA) | Solution-Aware | Engagement |
 | Ad 6 (Unaware) | Unaware | Top of funnel |
 | Ad 7 (Retargeting) | Most Aware | Retargeting |
+| **Ad 8 (Red Ocean)** | Solution-Aware | Cold traffic — **CONVERTING** |
 
 ---
 
@@ -274,22 +275,73 @@ The offer's still here. You already know you need this.
 
 ---
 
+## Ad 8: Red Ocean Hook (CONVERTING — Video Ad)
+
+**Status:** Currently running and converting. Handle with care.
+
+**Hook:**
+> The coaching market is a red ocean.
+
+**Body:**
+Everyone's fighting for the same clients. Selling the same life coaching, mindset work, business strategy.
+
+You're drowning in sameness.
+
+Here's the truth: YOU are the differentiator. The specific problem you solve that no one else can solve the way you do.
+
+But if you can't extract and articulate your zone of genius? You're just more noise.
+
+The Client Ready Offer gives you the exact AI prompts to pull your zone of genius out of your head and into a simple Google Doc.
+
+Send it to your warm list. Get sales. New customers in 72 hours.
+
+→ From "I help everyone" to "I'm the only choice"
+
+clientreadyoffer.com
+
+**Headline:** `Extract Your Zone of Genius — $17`
+
+**Description:** `New customers in 72 hours. AI does 90% of the work.`
+
+**Creative:** Short training video with thumbnail text: "What If You Could Identify The ONE Problem You're Uniquely Positioned to Solve"
+
+**Awareness Level:** Solution-Aware — they know they need differentiation
+
+**What Makes This Work:**
+- "Red ocean" = instant market awareness hook
+- "Drowning in sameness" = vivid emotional language
+- "YOU are the differentiator" = empowering reframe (not your fault)
+- "Google Doc" = tangible, concrete deliverable
+- "Warm list → sales" = low-barrier next step
+- Video training = value-first approach builds trust
+
+**Original Version (Pre-Congruency):**
+> Headline: "Discover Your Unfair Advantage $17"
+> CTA: "→ Discover Your Unfair Advantage"
+> Body used "unfair advantage" instead of "zone of genius"
+
+Keep original running, test congruent version as variant.
+
+---
+
 ## Creative Suggestions
 
 1. **Talking head video** — Ad 1 or Ad 4 (emotional hooks work well spoken)
 2. **Static image** — Screenshot of Google Doc with "Your Zone of Genius" title
 3. **Carousel** — Before/After of generic positioning vs extracted positioning
 4. **Text overlay video** — "What 3 months of positioning looks like vs 15 minutes of extraction"
+5. **Training video** — Ad 8 style, value-first with AI prompts teaser
 
 ---
 
 ## Testing Priority
 
-1. **Ad 4 (Imposter)** — Strongest emotional hook
-2. **Ad 3 (Results)** — Clearest outcome promise (72 hours)
-3. **Ad 5 (Comment CTA)** — Engagement boost for algorithm
-4. **Ad 1 (Story)** — Brand building / retargeting
-5. **Ad 2 (Contrarian)** — Awareness / cold traffic
+1. **Ad 8 (Red Ocean)** — Already converting, use as control
+2. **Ad 4 (Imposter)** — Strongest emotional hook, test against Ad 8
+3. **Ad 3 (Results)** — Clearest outcome promise (72 hours)
+4. **Ad 5 (Comment CTA)** — Engagement boost for algorithm
+5. **Ad 1 (Story)** — Brand building / retargeting
+6. **Ad 2 (Contrarian)** — Awareness / cold traffic
 
 ---
 
