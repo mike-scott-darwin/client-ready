@@ -427,45 +427,33 @@ $27 to stop guessing and start knowing.
 
 ## Ad 11: Dissociation Trap (Experienced Coach Hook)
 
-**Status:** New — targets coaches who are executing but feeling nothing
+**Status:** Reviewed — Meta-compliant version
 
-**Hook:**
-> You're doing everything right. Why does it feel so empty?
+**Hook (126 chars):**
+> The revenue hit. The client said yes. The testimonial came in. And something still felt off. That's not burnout. That's a signal.
 
 **Body:**
-You post content. You take calls. You deliver. The machine runs.
+The machine runs. Content goes out. Calls get taken. Clients get delivered.
 
-But somewhere along the way, you stopped feeling it.
+But somewhere along the way, the meaning faded into the background.
 
-You get the client win and think "yeah, of course."
+What happens when you're executing brilliantly — but it doesn't feel like yours?
 
-You hit the revenue goal and feel... nothing.
+It's easy to let templates and guru advice replace original thinking. Easy to build what the market wants instead of what's actually true for you.
 
-Here's what happened:
+**That's not a motivation problem. That's a foundation problem.**
 
-You outsourced your thinking. To templates. To gurus. To "what the market wants."
+The Client Ready Offer helps you extract what's actually yours. Not a niche you picked because it "made sense." The transformation you've actually lived.
 
-And now you're executing someone else's playbook. Brilliantly. But it's not yours.
-
-That's not burnout. That's dissociation.
-
-You built a business you can't feel anymore.
-
-**The fix isn't better tactics. It's reconnection.**
-
-Back to what YOU actually do. What YOU actually care about. The transformation YOU'VE actually lived.
-
-That's what the Client Ready Offer extracts. Not a niche you picked because it "made sense." Your zone of genius — the thing that's actually true.
-
-$27. 15 minutes. Reconnect before you burn it all down.
+$27. 15 minutes. Find the thing that's actually true — before you start over from scratch.
 
 👉 clientreadyoffer.com
 
-**Headline:** `Stop Executing. Start Feeling. — $27`
+**Headline:** `Find What's Actually True — $27`
 
-**Description:** `Extract your zone of genius. Build something you won't abandon.`
+**Description:** `Extract your real offer. Build something worth keeping.`
 
-**Creative:** Talking head (slower, reflective delivery) or static image with "You're doing everything right. Why does it feel so empty?" text
+**Creative:** Talking head (slower, reflective delivery) or static image with "The revenue hit. The client said yes. And something still felt off." text
 
 **Awareness Level:** Problem-Aware — they know something's wrong but think it's burnout, not misalignment
 
@@ -477,13 +465,19 @@ $27. 15 minutes. Reconnect before you burn it all down.
 - Starting to question if this is what they signed up for
 
 **What Makes This Work:**
-- Opens with validation ("doing everything right") then twist ("why empty?")
-- Names the feeling they can't articulate (dissociation)
-- Reframes burnout as misalignment
-- "Someone else's playbook" = their exact situation
-- "Reconnect before you burn it all down" = urgency without hype
+- Opens with success markers then twist ("something still felt off")
+- Uses questions instead of assertions (Meta-compliant)
+- Reframes burnout as foundation problem
+- "Doesn't feel like yours" = their exact situation
+- "Start over from scratch" = urgency without drama
 - Speaks to experienced coaches, not beginners
-- Hormozi-inspired insight gives depth
+- Avoids Personal Attributes violations
+
+**Compliance Notes:**
+- Removed clinical term "dissociation" → "signal"
+- Changed assertions to questions ("What happens when...")
+- Removed "you feel nothing" → "something still felt off"
+- General observations instead of "you did X" accusations
 
 **Pairs With:**
 - "You can't grow into pain" philosophy
