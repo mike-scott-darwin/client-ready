@@ -145,6 +145,22 @@ Your true power doesn't force — it draws. Let go of the desperate marketer per
 
 ---
 
+## The Dissociation Trap
+
+Here's what Alex Hormozi said in his Tony Robbins interview:
+
+> "The first couple months [the testimonials] felt like something. But then on the hundredth and thousandth I was like 'yeah, of course you stopped eating shit and moved better.'"
+
+He was *dissociated*. Executing brilliantly. Feeling nothing.
+
+That's most business owners. They outsource the thinking — to agencies, to AI, to templates, to gurus — and then wonder why they feel like operators instead of contributors. They're doing the work but they've lost the thread of why.
+
+This is what I'm fighting against. Not just the content merry-go-round. Not just the grind. The deeper problem: building a business you can't feel anymore.
+
+**The antidote is association.** Staying connected to why this matters. Not just executing — but articulating, deciding, refining. The thinking IS the work. The rest is downstream.
+
+---
+
 ## Reference Files as Reconnection
 
 Every time I update this file, I reconnect with why I do this.
@@ -154,6 +170,10 @@ Every time I write a decision, I'm forced to articulate what matters.
 Every time I refine the offer, I'm checking: is this still aligned?
 
 This isn't administrative work. This is identity work.
+
+**The test:** Does the work feel like pull or push?
+
+If you're forcing yourself through it, that's data. Listen to it. The think cycle should feel like discovery, not obligation. If it doesn't, you might have the wrong offer.
 
 ---
 

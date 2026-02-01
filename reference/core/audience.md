@@ -53,6 +53,26 @@ updated_from: 2026-01-25
 - Created offers that didn't sell or underpriced their services
 - Spent weeks "perfecting" an offer before showing it to anyone
 
+## The Alignment Diagnostic
+
+Three questions to determine if someone has the right offer — or is building something they'll eventually burn down:
+
+**1. What do you research when no one's watching?**
+
+Not for content. Not for clients. What rabbit holes do you fall into because you genuinely want to know? This reveals your actual interests — not the interests you think you should have.
+
+**2. What intersections excite you when you find them?**
+
+When your expertise overlaps with something unexpected — does it light you up? Or does it feel like "more work"? The right offer lives at an intersection that energizes you.
+
+**3. What decisions feel like discovery vs obligation?**
+
+When you're making choices about your business — pricing, positioning, delivery — does it feel like play or like homework? Architecture decisions should feel like exploration. If they feel like chores, the foundation is misaligned.
+
+**The insight:** If the overlaps between your interests and your offer don't make sense, you probably have the wrong offer. You can't grow into pain. You'll eventually burn it down.
+
+---
+
 ## Dream Outcome
 
 - **Alignment:** An offer that fits who they actually are — something they won't abandon
