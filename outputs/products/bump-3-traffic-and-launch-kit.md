@@ -11,11 +11,12 @@ You have an offer. You have (or are building) a funnel. Now you need traffic.
 Here's what's inside:
 
 1. **AI Ad Generator** — Create ad copy using prompts
-2. **Proven Ad Creative** — Examples currently running
-3. **Targeting Playbook** — Audiences that convert
-4. **Launch Checklist** — Day-by-day plan for your first campaign
-5. **A/B Testing Framework** — Know what's working
-6. **"First 10 Buyers" Roadmap** — The full path from zero to paying customers
+2. **Proven Ad Creative** — Formats currently running (including testimonial screenshots)
+3. **The Andromeda Strategy** — Meta's algorithm and why messaging diversity beats creative diversity
+4. **Targeting Playbook** — Audiences that convert
+5. **Launch Checklist** — Day-by-day plan for your first campaign
+6. **A/B Testing Framework** — Know what's working
+7. **"First 10 Buyers" Roadmap** — The full path from zero to paying customers
 
 Let's get you customers.
 
@@ -25,29 +26,31 @@ Let's get you customers.
 
 Use these prompts to create ad copy fast.
 
-### Prompt 1: Primary Text Generator
+### Prompt 1: Primary Text Generator (Andromeda-Optimized)
 
 ```
-I need Facebook/Instagram ad copy for my offer.
+I need Facebook/Instagram ad copy for my offer, optimized for Meta's Andromeda algorithm which rewards MESSAGING DIVERSITY.
 
 My offer: [Paste your offer one-liner or full offer document]
 My ideal client: [Paste your ideal client profile]
 The main transformation: [Before state → After state]
+One core angle to explore: [e.g., "imposter syndrome" or "content merry-go-round"]
 
-Write 5 variations of primary text (the main body copy) for a Facebook ad.
+Write 5 variations of primary text — each using a DIFFERENT MESSAGE TYPE for the same angle:
 
-Requirements:
+1. **Problem Agitation** — Lead with their pain, make them feel understood
+2. **Transformation** — Lead with the outcome, paint the after state
+3. **Contrarian/Pattern Interrupt** — Challenge conventional wisdom, surprise them
+4. **Social Proof** — Lead with results, numbers, or authority
+5. **Identity Callout** — Call out who they are, make them self-select
+
+Requirements for each:
 - Start with a hook that stops the scroll
-- 3-5 sentences max for short-form, or 1-2 paragraphs for long-form
-- End with a clear call to action
+- 3-5 sentences for short-form, or 1-2 paragraphs for long-form
+- End with clear CTA
 - Tone: [Your tone — direct, conversational, professional, etc.]
 
-For each variation, use a different angle:
-1. Pain-focused (emphasize what they're struggling with)
-2. Transformation-focused (emphasize the result)
-3. Story-focused (brief narrative)
-4. Curiosity-focused (create intrigue)
-5. Social proof-focused (results/credibility)
+The goal: 5 fundamentally different entry points into the SAME core message.
 ```
 
 ### Prompt 2: Headline Generator
@@ -165,9 +168,116 @@ BODY: [2-3 sentences expanding on hook]
 CTA: [Clear next step]
 ```
 
+### Format 4: Testimonial Screenshots (Currently Winning)
+
+**What it is:** White/clean background with screenshot of a testimonial, comment, or result.
+
+**Why it works:**
+- Social proof is immediate
+- Looks native (not "ad-like")
+- Easy to produce at scale
+
+**Best practices:**
+- Clean white or light background
+- Screenshot clearly readable
+- Your photo or logo small in corner
+- Minimal text overlay
+
 ---
 
-## Part 3: Targeting Playbook
+## Part 3: The Andromeda Strategy (Meta's Algorithm)
+
+**This is the most important section.** Meta's Andromeda algorithm rewards messaging diversity — not just creative diversity.
+
+### What is Andromeda?
+
+Meta's ad delivery algorithm that determines which ads get shown to which users. Launched mid-2023, it rewards **multiple fundamentally different messages**.
+
+### The Key Insight
+
+> "You can squeeze a lot of juice out of one piece of ad copy and a lot of ad creative (different images/videos) but since adding in a handful of different messaging styles, results have improved PLUS I'm seeing far more distribution of purchases amongst different ads."
+
+**Translation:** Don't just test different images. Test different MESSAGES.
+
+### The Problem with One Winning Ad
+
+When one ad gets all the budget:
+- Algorithm finds one audience segment and saturates it
+- Creative fatigue hits faster
+- You're vulnerable if that ad stops working
+- No data on what else might work
+
+### The Solution: 5 Message Types Per Angle
+
+For each angle, create 5 different versions:
+
+| Message Type | Entry Point | Example Hook |
+|--------------|-------------|--------------|
+| **Problem Agitation** | Their pain | "You feel like an imposter..." |
+| **Transformation** | The result | "From stuck to $5K in 30 days..." |
+| **Contrarian** | Pattern interrupt | "Imposter syndrome isn't a confidence problem" |
+| **Social Proof** | Authority/results | "114 coaches stopped feeling like frauds" |
+| **Identity Callout** | Who they are | "For the coach wearing someone else's positioning" |
+
+**Same angle. Five different compositions.**
+
+### Implementation Framework
+
+**Step 1: Choose 3-5 Core Angles**
+
+For Client Ready, our angles are:
+1. Imposter syndrome / wrong positioning
+2. Anti-niching / zone of genius extraction
+3. Content merry-go-round / no clients
+4. Failed alternatives (courses, coaches, worksheets)
+5. Speed / one afternoon vs 3 months
+
+**Step 2: Write 5 Versions Per Angle**
+
+That's 3-5 angles × 5 message types = **15-25 ad variations**
+
+**Step 3: Pair Messages with Creative Types**
+
+| Message Type | Best Creative Pairing |
+|--------------|----------------------|
+| Problem agitation | Testimonial screenshots, emotional video |
+| Transformation | Before/after, outcome visualization |
+| Contrarian | Bold text on solid color |
+| Social proof | Screenshots, stats, proof points |
+| Identity callout | Personal photo + text overlay |
+
+**Step 4: Let Andromeda Distribute**
+
+- Launch all variations in same ad set
+- Let algorithm find winners
+- Result: multiple ads getting budget (not just one)
+- More resilient, more data, better long-term performance
+
+### Current Results (What's Working Now)
+
+**Creative types winning:**
+1. Testimonial screenshots (white background + comment screenshots)
+2. Personal photo + text overlay
+
+**Metrics we're seeing:**
+- 80-90% order bump take rate (strong messaging-to-offer alignment)
+- Images currently outperforming videos (but test both)
+
+**Key learning:** You never know until you test. Both images and videos are viable.
+
+### Messaging Diversity Checklist
+
+Before launching, confirm:
+- [ ] 3-5 core angles identified
+- [ ] Multiple message types per angle (not just one)
+- [ ] Different awareness levels covered (Unaware → Most Aware)
+- [ ] Multiple creative types in rotation
+- [ ] No single ad getting >50% of budget long-term
+- [ ] Plan to test new messaging monthly
+
+---
+
+## Part 4: Targeting Playbook
 
 Who to target and how.
 
@@ -244,7 +354,7 @@ Demographics: Age 25-55
 
 ---
 
-## Part 4: Launch Checklist
+## Part 5: Launch Checklist
 
 Your day-by-day plan for the first campaign.
 
@@ -315,17 +425,20 @@ If you get 200 clicks and 5+ sales → You have a winner
 
 ---
 
-## Part 5: A/B Testing Framework
+## Part 6: A/B Testing Framework
 
 How to know what's working.
 
 ### What to Test (In Order)
 
-1. **Audiences** — Who you're targeting (biggest lever)
-2. **Creative** — Images/videos (second biggest)
-3. **Headlines** — The first thing they see
-4. **Primary text** — The body copy
-5. **Landing page** — Where they go after clicking
+1. **Offer** — What you're selling (biggest lever)
+2. **Messaging** — Different message types, not just different words (Andromeda)
+3. **Audiences** — Who you're targeting
+4. **Creative** — Images/videos
+5. **Headlines** — The first thing they see
+6. **Landing page** — Where they go after clicking
+
+**Note:** Most people skip #1 and #2 and go straight to testing images. Per Andromeda, messaging diversity matters MORE than creative diversity.
 
 ### How to Test
 
@@ -360,7 +473,7 @@ Test B: Image 2 + Headline 1 + Copy 1 + Audience 1
 
 ---
 
-## Part 6: "First 10 Buyers" Roadmap
+## Part 7: "First 10 Buyers" Roadmap
 
 The complete path from zero to paying customers.
 
@@ -426,15 +539,18 @@ Your front-end: $27
 Order bumps: $17 + $37 + $67 = $121 potential
 Total cart: $148 max
 
-If 30% take at least one bump:
-Average order value = $27 + ($40 average bump) = $67
+Current data shows 80-90% bump take rate when messaging is aligned.
+If 80% take at least one bump (avg $50):
+Average order value = $27 + $50 = $77
 
 To break even on front-end:
-$67 AOV = Can spend up to $67 to acquire a customer
+$77 AOV = Can spend up to $77 to acquire a customer
 
 If CPA = $30:
-ROAS = $67 / $30 = 2.2x (profitable)
+ROAS = $77 / $30 = 2.6x (profitable)
 ```
+
+**Why such high bump rates?** Messaging diversity (Andromeda) + offer-to-page alignment. The ad promise matches the landing page promise matches the bump promise.
 
 ### Scaling Math
 
