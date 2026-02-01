@@ -1,10 +1,11 @@
 ---
 type: output
 status: draft
-date: 2026-01-25
+date: 2026-02-01
 product: Front-End - Client Ready Offer System
-format: Sales Page Copy
+format: Sales Page Copy (Master)
 price: $27
+updated_from: 2026-01-25
 ---
 
 # Front-End Sales Page: Client Ready Offer System ($27)
@@ -137,21 +138,43 @@ Take everything from prompts 1-4 and assemble it into a complete, ready-to-send 
 
 ## WHO THIS IS FOR
 
-### This is for you if:
+### This Is For You If:
 
-- You have expertise but struggle to explain what you sell
-- You've been "working on your offer" for weeks (or months)
-- You want to validate before building a full funnel
-- You're tired of vague advice like "find your niche"
-- You want to use AI to speed up the process
-- You're willing to put your offer in front of real people
+✅ You're a coach or service provider with expertise — but you struggle to explain what you actually sell
 
-### This is NOT for you if:
+✅ You've been "working on your offer" for weeks (or months) and still don't have clarity
 
-- You don't have any expertise yet (get experience first)
-- You already have a validated offer that's selling
-- You want someone to do it for you (that's a different product)
-- You're not willing to actually test your offer
+✅ You're tired of sounding like every other coach: "I help people with mindset" or "I help entrepreneurs grow"
+
+✅ You want to validate your offer before wasting months building a funnel nobody buys
+
+✅ You have a warm audience (even 50 people) you could sell to — if you knew what to say
+
+✅ You're willing to put your offer in front of real people, not just "think about it" forever
+
+---
+
+### This Is NOT For You If:
+
+❌ You have zero expertise yet — get experience first, then come back
+
+❌ You already have a validated offer that's selling consistently
+
+❌ You want someone to do everything for you — this requires 2-3 hours of your time
+
+❌ You're not willing to actually test your offer with real humans
+
+❌ You're looking for another course to consume but never implement
+
+---
+
+### The Bottom Line:
+
+If you've got skills but can't articulate what you sell — this fixes that in one afternoon.
+
+If you're already making sales and just want to scale — this isn't for you.
+
+**[GET INSTANT ACCESS →]**
 
 ---
 
