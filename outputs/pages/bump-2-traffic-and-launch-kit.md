@@ -6,6 +6,8 @@ product: Order Bump 2
 price: $67
 linked_decisions:
   - decisions/2026-02-01-bump-restructure.md
+linked_research:
+  - research/2026-02-01-miles-stutz-dfy-delivery-copy.md
 ---
 
 # Bump 2: Traffic & Launch Kit ($67)
@@ -20,11 +22,11 @@ linked_decisions:
 
 **YES! Add the Traffic & Launch Kit — $67**
 
-You'll have your offer. You'll have templates. Now you need buyers.
+While other coaches spend 2 hours creating content that gets 12 likes — you'll know exactly how to get your first 10 paying customers.
 
-This kit shows you exactly how to get your first 10 paying customers — without guessing. Includes: AI ad generator, proven ad creative I'm running right now, targeting playbook, and a day-by-day launch checklist.
+This kit gives you: the AI ad generator I use, proven ad creative currently running, targeting playbook, day-by-day launch checklist, and my "First 10 Buyers" roadmap.
 
-Stop wondering "how do I get traffic?" Start knowing.
+Stop being a backup dancer for social media algorithms. Start getting buyers.
 
 **~~$297~~ → $67 (one-time)**
 
@@ -36,96 +38,102 @@ Stop wondering "how do I get traffic?" Start knowing.
 
 ---
 
-# Now Get Buyers
+# Stop Being a Backup Dancer for the Algorithm
 
-**The exact system to get your first 10 paying customers — without guessing.**
+**The exact system to get your first 10 paying customers — without posting for 12 months hoping someone buys.**
 
 ---
 
 You've got your offer. You've got templates to build it.
 
-Now the question: **How do I get people to see it?**
+Now the question everyone gets stuck on: **"How do I get people to actually see this?"**
 
-This is where most coaches spiral:
-- "Should I post on Instagram?"
-- "Do I need to run ads?"
-- "What do I even say?"
-- "How much do I spend?"
+Here's what most coaches do:
 
-The Traffic & Launch Kit answers all of it.
+❌ Post content daily for 6 months hoping the algorithm blesses them
+❌ Spend 2 hours on a reel that gets 12 likes
+❌ Ask in Facebook groups "what platform should I be on?"
+❌ Run $50 in ads with no strategy and call it "testing"
+❌ Wonder why they have followers but no buyers
+
+**That's the content merry-go-round. And it doesn't end.**
 
 ---
 
-## What's Inside:
+## What Just Happened Here
+
+✅ While other coaches are begging the algorithm for reach — you'll have a system that generates buyers whether you post content or not
+
+✅ While they're spending 2 hours on content that gets 12 likes — you'll know exactly which audiences convert and how to reach them
+
+✅ While they're "testing" ads with no framework — you'll have the A/B testing system that shows you what's working
+
+✅ While they're months away from their first paying customer — you'll have a day-by-day roadmap to your first 10 buyers
+
+---
+
+## What's Inside
 
 **AI Ad Generator**
-- Plug in your offer details
-- Get ad copy written for you
-- Headlines, body copy, CTAs — done
+Plug in your offer details. Get ad copy written — headlines, body, CTAs. Done.
 
 **Proven Ad Creative (Currently Running)**
-- The exact ads I'm using right now
-- See what's working in this market
-- Adapt the angles for your offer
+The exact ads I'm using right now. See what's working in this market. Adapt for your offer.
 
 **Targeting Playbook**
-- Who to target (and who to exclude)
-- Audience suggestions that actually convert
-- How to test without wasting money
+Who to target. Who to exclude. Audiences that actually convert — not vanity metrics.
 
 **Launch Checklist + Timeline**
-- Day-by-day plan for your first 7 days
-- What to do, in what order
-- No more "what's next?"
+Day-by-day plan for your first 7 days. What to do, in what order. No more "what's next?"
 
 **A/B Testing Framework**
-- How to know what's working
-- When to kill an ad, when to scale
-- Simple tracking that doesn't require a PhD
+Know what's working. Know when to kill an ad. Know when to scale. Simple tracking, no PhD required.
 
 **"First 10 Buyers" Roadmap**
-- The fastest path to your first sales
-- Warm audience strategy (before you spend on ads)
-- How to go from 0 to 10 without a big budget
+The fastest path from 0 to 10 paying customers. Start with your warm audience. Graduate to ads when ready. No big budget required.
 
 ---
 
 ## The Real Problem
 
-Traffic isn't complicated. But it feels overwhelming when you don't have a plan.
+Traffic isn't complicated. But it feels impossible when you have no plan.
 
-You end up:
-- Posting randomly and hoping
-- Running ads with no strategy
-- Spending money with nothing to show
+So you default to what everyone tells you: "Post content consistently."
 
-**This kit gives you the plan.**
+And you become a professional backup dancer for the algorithm. Chasing likes. Hoping for reach. Waiting for permission.
 
-Not theory. Not "frameworks." A literal checklist of what to do and when.
+**This kit gives you a different path:**
+
+A system that gets buyers — whether you want to become a content influencer or not.
 
 ---
 
-## Who This Is For
+## It's Your Turn
 
-✅ You have an offer (or will after using the Client Ready system)
-✅ You want paying customers, not just followers
-✅ You'd rather follow a proven plan than figure it out yourself
-✅ You're ready to take action, not just learn
+✅ It's your turn to stop hoping the algorithm notices you
+
+✅ It's your turn to know exactly how to get your first 10 buyers
+
+✅ It's your turn to have a traffic system that works without daily content
+
+✅ It's your turn to run ads with an actual strategy instead of "let's see what happens"
+
+✅ It's your turn to finally have a business that doesn't depend on going viral
 
 ---
 
 ## The Math
 
-One customer at $27 pays for this kit — and you keep the system forever.
+One customer at $27 pays for almost half this kit.
 
 One high-ticket client ($2K+) makes this look like a rounding error.
 
-The only question: Do you want to figure out traffic yourself, or use what's already working?
+The only question: Do you want to figure out traffic yourself — or use what's already working?
 
 ---
 
 **One-Time Investment: ~~$297~~ $67**
 
-No subscription. No fluff. Just the traffic kit.
+No subscription. No fluff. Just the traffic kit that gets you buyers.
 
 **[Add Traffic & Launch Kit to My Order →]**
