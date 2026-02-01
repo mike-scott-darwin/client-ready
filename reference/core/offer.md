@@ -2,13 +2,14 @@
 type: reference
 status: active
 date: 2026-02-01
-updated_from: 2026-01-25
+updated_from: 2026-02-01-era3
 linked_research:
   - research/2026-01-25-self-liquidating-offers-claude-code.md
   - research/2026-01-25-miles-stutz-consolidated.md
   - research/2026-01-25-hernan-vazquez-competitor-mining.md
 linked_decisions:
   - decisions/2026-02-01-angle-prioritization.md
+  - decisions/2026-02-01-bump-restructure.md
 ---
 
 # Offer
@@ -58,23 +59,23 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - Step-by-step guide + offer document template
 - **Promise:** Validate your $5K+ offer before you build anything — in one afternoon
 
-**Order Bump 1: $47 — AI Offer Extract & 24-Hour Launch System**
-- Complete AI system to extract your zone of genius and create focused offer in hours
-- AI-powered ideal client profile generator (detailed buyer personas in 20 minutes)
-- AI funnel builder with copy that speaks to high-stakes problems
-- AI ad generator targeting coaches who recognize themselves in your message
-- 3-phase 24-hour challenge: Offer Extraction → Funnel Building → Ad Creation & Launch
-- **Promise:** Go from "I help everyone with everything" to launch-ready funnel in 24 hours — AI does 90% of the work
-- ~~$497~~ → $47
+**Order Bump 1: $37 — Plug & Play Templates**
+- Complete offer document template (with filled example)
+- Landing page swipe files (proven layouts)
+- 30-day evergreen email sequence (pre-written, tested)
+- Messaging maps and client profile templates
+- Copy-paste headlines and hooks
+- **Promise:** Don't start from scratch — plug in your offer and go
+- ~~$197~~ → $37
 
-**Order Bump 2: $37 — Six Figure Funnel + 30-Day Email Templates**
-- Complete MVP funnel (all landing pages, offer stacks, sales copy)
-- Proven ad creative currently running
-- Complete upsell sequences and OTO pages
-- Messaging maps and client profiles
-- 30-day evergreen email sequence (pre-written, proven)
-- **Promise:** Steal my six-figure funnel — just customize the copy, plug in your offer, and go
-- ~~$397~~ → $37
+**Order Bump 2: $67 — Traffic & Launch Kit**
+- AI ad generator + proven ad creative currently running
+- Targeting playbook (audiences that convert)
+- Launch checklist + timeline (day-by-day plan)
+- A/B testing framework for first campaigns
+- "First 10 Buyers" roadmap
+- **Promise:** Know exactly how to get your first 10 paying customers
+- ~~$297~~ → $67
 
 ---
 
@@ -161,15 +162,15 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 | Step | Price | Type |
 |------|-------|------|
 | Front-end | $27 | One-time |
-| Bump 1 | $47 | One-time |
-| Bump 2 | $37 | One-time |
+| Bump 1 (Templates) | $37 | One-time |
+| Bump 2 (Traffic) | $67 | One-time |
 | OTO 1 (Self-Paced) | $97 | One-time |
 | OTO 1 (Sprint) | $297 | One-time |
 | OTO 2 | $397 | One-time |
 | Backend | $5K+ | High-ticket |
 
-**Max One-Time Cart Value:** $805 ($27 + $47 + $37 + $297 + $397)
-**Target AOV:** $100-180 (with ~30% bump rate, ~15% Sprint uptake)
+**Max One-Time Cart Value:** $825 ($27 + $37 + $67 + $297 + $397)
+**Target AOV:** $100-120 (with ~40% Bump 1, ~28% Bump 2, ~15% Sprint uptake)
 
 ---
 
@@ -191,7 +192,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 | Objection | Response |
 |-----------|----------|
 | "I don't have an offer yet" | That's exactly what the $27 system solves — extract and validate in one afternoon |
-| "I'm not tech savvy" | The 24-Hour Launch Kit is designed for zero tech skills — fill in blanks, click publish |
+| "I'm not tech savvy" | The templates are plug-and-play — fill in blanks, copy-paste, done |
 | "I don't have an audience" | Start with your warm audience first. The traffic playbook shows you how to find buyers without ads. |
 | "What if it doesn't work?" | Every product has a money-back guarantee. The Sprint adds personal accountability. |
 | "I don't want another subscription" | No subscriptions in this funnel. Sprint is one-time $297 for 4 weeks. Done. |

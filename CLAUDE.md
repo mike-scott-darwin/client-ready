@@ -24,14 +24,14 @@ Michael Scott helps coaches validate their offers before building — scale from
 | Step | Price | Product |
 |------|-------|---------|
 | Front-end | $27 | Client Ready Offer System |
-| Bump 1 | $47 | 24-Hour Launch Kit |
-| Bump 2 | $37 | Plug & Play Funnel Pack |
+| Bump 1 | $37 | Plug & Play Templates |
+| Bump 2 | $67 | Traffic & Launch Kit |
 | OTO 1 (Self-Paced) | $97 | Client Ready System |
 | OTO 1 (Sprint) | $297 | 4-Week Client Ready Sprint |
 | OTO 2 | $397 | Done-For-You Client Ready Funnel |
 | Backend | $5K+ | 1:1 Funnel Build |
 
-**Max cart:** $805 | **Target AOV:** $100-180
+**Max cart:** $825 | **Target AOV:** $100-120
 
 ---
 
