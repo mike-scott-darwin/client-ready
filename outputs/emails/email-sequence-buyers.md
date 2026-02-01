@@ -84,7 +84,7 @@ Don't just read it. DO it.
 Talk soon,
 Michael
 
-PS. If you grabbed the Plug & Play Templates or Traffic & Launch Kit — those come after. First, get your offer doc done. Foundation first.
+PS. If you grabbed the Quick Win DM Scripts, Plug & Play Templates, or Traffic & Launch Kit — those come after. First, get your offer doc done. Foundation first.
 
 ---
 
