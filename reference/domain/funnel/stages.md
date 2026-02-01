@@ -1,19 +1,20 @@
 ---
 type: reference
 status: active
-date: 2026-01-23
+date: 2026-02-01
+updated_from: 2026-01-23
 ---
 
 # Funnel Stages
 
-## The High Ticket Playbook Funnel
+## The Client Ready Funnel
 
 ```
 AWARENESS (Content / Ads)
     ↓
 MICRO-COMMITMENT ($27 Front-End)
     ↓
-ORDER BUMPS ($47 + $37)
+ORDER BUMPS ($17 + $37 + $67)
     ↓
 OTO 1: Client Ready Sprint ($97 or $297) + Community Access
     ↓
@@ -21,11 +22,11 @@ OTO 2: Done-For-You Funnel ($397)
     ↓
 ENGAGEMENT (Classroom + Community — OTO 1 buyers)
     ↓
-QUALIFICATION (Application)
+EMAIL ASCENSION (Daily emails → higher tiers)
     ↓
-CONVERSION ($5K+ 1:1)
+BACKEND: Accelerator ($5K) — No-Phone Offer
     ↓
-RETENTION (Results → Referrals)
+RETENTION (Results → Referrals → Case Studies)
 ```
 
 ---
@@ -35,11 +36,10 @@ RETENTION (Results → Referrals)
 **Goal:** They discover Michael exists
 
 **Channels:**
-- Organic social content (LinkedIn, X, etc.)
-- Paid ads (Facebook/Instagram)
-- Podcast appearances
-- Guest posts / collaborations
+- Paid ads (Facebook/Instagram) — primary
+- Organic social content (LinkedIn, X)
 - Word of mouth from clients
+- Podcast appearances / collaborations
 
 **Key message:** "The Coach Who Won't Tell You to Quit Your 9-to-5"
 
@@ -52,30 +52,31 @@ RETENTION (Results → Referrals)
 **Product:** Client Ready Offer System ($27)
 
 **Trigger:**
-- Mentioned in community
-- Direct offer to engaged members
-- Content about offer creation
 - Paid ads to cold traffic
+- Mentioned in community
+- Direct offer to engaged followers
+- Content about offer creation
 
 **What happens:**
 - Buy $27 Client Ready Offer System
-- See order bump offers
+- See 3 order bump offers
 - Enter OTO sequence
 - Experience the methodology
 
 **Metrics to track:**
-- Conversion rate from ads/content to $27
+- Conversion rate from ads to $27
 - Front-end purchase volume
 
 ---
 
-## Stage 3: Order Bumps — $47 + $37
+## Stage 3: Order Bumps — $17 + $37 + $67
 
 **Goal:** Increase average order value
 
 **Products:**
-- $47: AI Offer Extract & 24-Hour Launch System
-- $37: Six Figure Funnel + 30-Day Email Templates
+- **Bump 1: $17** — Quick Win DM Scripts (start conversations today)
+- **Bump 2: $37** — Plug & Play Templates (landing pages, emails, headlines)
+- **Bump 3: $67** — Traffic & Launch Kit (ads, targeting, launch checklist)
 
 **What happens:**
 - Customer sees checkbox offers on order form
@@ -83,16 +84,15 @@ RETENTION (Results → Referrals)
 - Immediate delivery with main product
 
 **Metrics to track:**
-- Bump 1 take rate (target: 30%)
-- Bump 2 take rate (target: 25%)
+- Individual bump take rates (target: 25-35% each)
 - Combined bump rate
-- Average order value
+- Average order value (target: $120-150)
 
 ---
 
 ## Stage 4: OTO 1 — Client Ready Sprint ($97 or $297)
 
-**Goal:** Upsell to comprehensive system + community access
+**Goal:** Upsell to implementation system + community access
 
 **Products:**
 - Self-Paced: $97 one-time
@@ -103,7 +103,7 @@ RETENTION (Results → Referrals)
 - Video + copy explains offer
 - Two-option close (Self-Paced vs Sprint)
 - One-click purchase (card already on file)
-- **Buyer gets Skool community access for support**
+- **Buyer gets Skool community access**
 
 **Metrics to track:**
 - OTO 1 conversion rate (target: 10-15%)
@@ -135,73 +135,81 @@ RETENTION (Results → Referrals)
 **Goal:** They consume content and engage
 
 **What happens:**
-- Work through 3 phases in Skool
+- Work through 3 phases in Skool (Extract → Build → Launch)
 - Use purchased products
 - Attend live calls (if Sprint)
 - Ask questions in community
 - Share progress
 
-**Signals of readiness for high-ticket:**
+**Signals of readiness for Accelerator:**
 - Completed their offer document
 - Launched or attempting to launch
 - Asking about scaling
 - Expressing desire for more support
+- High email engagement (opens 5+ in a week)
 
 **Metrics to track:**
 - Product completion rates
 - Community engagement
-- Support tickets / questions
+- Support questions
 
 ---
 
-## Stage 7: Qualification — Application
+## Stage 7: Email Ascension
 
-**Goal:** Identify high-ticket ready prospects
-
-**Trigger:**
-- Direct outreach to engaged buyers
-- Application CTA in content
-- Natural conversation escalation
-- Email sequence after purchase
+**Goal:** Warm buyers toward higher-ticket offers
 
 **What happens:**
-- Fill out application form
-- Qualify based on criteria
-- Book call if qualified
+- 10-day welcome sequence (automated)
+- Daily email rhythm (manual broadcast)
+- Story → Offer → CTA framework
+- Rotate offers across the week
 
-**Qualification criteria:**
-- Has validated offer (or close)
-- Ready to invest $5K+
-- Committed to implementation
-- Good fit for 1:1 format
+**Ascension triggers:**
+- High engagement → Direct pitch to Accelerator
+- Specific pain points → Relevant offer
+- Time-based → Sprint cohort invites
+
+See: `reference/domain/email-rhythm.md`
 
 ---
 
-## Stage 8: Conversion — $5K+ 1:1
+## Stage 8: Backend — Accelerator ($5K)
 
-**Goal:** Enroll in high-ticket coaching
+**Goal:** Enroll in high-ticket done-with-you intensive
 
-**What happens:**
-- Sales call (or chat-based close)
-- Present 1:1 funnel build offer
-- Handle objections
-- Close or nurture
+**Product:** Client Ready Accelerator — 8 weeks, 3 calls, unlimited async
+
+**How they buy (No-Phone Offer):**
+- See offer on sales page or email
+- Page answers all questions (4 principles)
+- Purchase without sales call
+- Onboarding within 48 hours
+
+**Why no sales call:**
+- Already trust Michael (bought lower tiers)
+- Clear outcome + timeframe
+- Clear process + delivery
+- Easy to start
 
 **Metrics to track:**
-- Call show rate
-- Close rate
-- Average deal size
+- Accelerator conversion rate
+- Source (which tier they came from)
+- Results achieved
+
+See: `reference/domain/accelerator-delivery.md`
 
 ---
 
 ## Stage 9: Retention — Results + Referrals
 
-**Goal:** Deliver results, generate referrals
+**Goal:** Deliver results, generate referrals and case studies
 
 **What happens:**
-- Complete 1:1 engagement
+- Complete engagement (Sprint or Accelerator)
 - Achieve promised transformation
 - Collect testimonial
+- Document case study
 - Ask for referrals
 
 **Metrics to track:**
@@ -217,9 +225,12 @@ RETENTION (Results → Referrals)
 | Metric | Target |
 |--------|--------|
 | Front-end price | $27 |
-| Bump rate | 30% |
+| Bump 1 rate | 25-35% |
+| Bump 2 rate | 25-35% |
+| Bump 3 rate | 25-35% |
 | OTO 1 rate | 10-15% |
 | OTO 2 rate | 5-10% |
-| Average order value | $80-150 |
-| High-ticket close rate | 20-30% |
+| Average order value | $120-150 |
+| Max cart value | $842 |
+| Accelerator close rate | Track by source |
 | Customer acquisition cost | < AOV |

@@ -26,7 +26,7 @@ The 4 principles that made this a No-Phone Offer:
 |-----------|--------------|
 | **Clear Outcome + Timeframe** | Validated, profitable funnel generating customers in 8 weeks |
 | **Clear Process** | Week-by-week build with you — extraction, validation, funnel, traffic, optimization |
-| **Clear Delivery** | 3 strategy calls, unlimited Loom reviews, direct Slack access, all assets built together |
+| **Clear Delivery** | 3 strategy calls, unlimited Loom reviews, direct WhatsApp access, all assets built together |
 | **Easy to Start** | Pay, onboarding form, first call scheduled within 48 hours |
 
 If you needed a call to decide, you weren't ready yet. You are ready.
@@ -54,8 +54,8 @@ If you needed a call to decide, you weren't ready yet. You are ready.
 |-------------|---------|
 | Strategy Calls | 3x 60-minute sessions (kickoff, midpoint, launch) |
 | Loom Reviews | Unlimited — send your work, get video feedback |
-| Slack Access | Direct line to me for 8 weeks |
-| Response Time | 24 hours on Slack, same-day on urgent |
+| WhatsApp Access | Direct line to me for 8 weeks |
+| Response Time | 24 hours on WhatsApp, same-day on urgent |
 
 ### The Assets
 
@@ -103,7 +103,7 @@ Everything we create together, you own:
 
 **What happens:**
 - **Loom reviews:** Landing page drafts, email sequences
-- **Slack:** Real-time feedback as you build
+- **WhatsApp:** Real-time feedback as you build
 - **Iteration:** We refine until it's right
 
 - **Async work:**
@@ -179,9 +179,9 @@ Meta's algorithm rewards messaging diversity — not just different images on th
 ```
 WEEKLY PATTERN:
 
-Monday: You share progress/questions via Slack
+Monday: You share progress/questions via WhatsApp
 Tuesday-Thursday: Async work + Loom exchanges
-Friday: Weekly checkpoint (Slack summary)
+Friday: Weekly checkpoint (WhatsApp summary)
 
 CALLS: Weeks 1, 5, 8
 LOOM: Anytime — send work, get feedback within 24h
@@ -197,7 +197,7 @@ SLACK: Daily check-ins available
 
 ### What You Can Expect From Me
 
-- **24-hour response** on Slack
+- **24-hour response** on WhatsApp
 - **Same-day Loom** for urgent reviews
 - **No fluff** — direct feedback, actionable advice
 - **Ownership** — I care about your results
@@ -210,7 +210,7 @@ SLACK: Daily check-ins available
 
 What this means:
 - If you do the work and your funnel isn't profitable by Week 8
-- We continue (calls, Slack, Loom) until it is
+- We continue (calls, WhatsApp, Loom) until it is
 - No extra charge
 
 What "profitable" means:
@@ -314,7 +314,7 @@ Or: 2x $2,600 ($5,200 total)
 - 8 weeks of done-with-you intensive
 - 3 strategy calls (3 hours total)
 - Unlimited Loom reviews
-- Direct Slack access
+- Direct WhatsApp access
 - Every asset we create together
 - The guarantee
 

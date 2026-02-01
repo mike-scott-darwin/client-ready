@@ -2,7 +2,7 @@
 type: output
 status: draft
 date: 2026-02-01
-product: Order Bump 0 (First bump shown)
+product: Order Bump 1 (First bump shown)
 price: $17
 linked_decisions:
   - decisions/2026-02-01-research-synthesis-funnel-optimizations.md
@@ -11,7 +11,7 @@ linked_research:
   - research/2026-02-01-cat-howell-scaling-split-tests.md
 ---
 
-# Bump 0: Quick Win DM Scripts ($17)
+# Bump 1: Quick Win DM Scripts ($17)
 
 ---
 

@@ -1,7 +1,8 @@
 ---
 type: reference
 status: active
-date: 2026-01-19
+date: 2026-02-01
+updated_from: 2026-01-19
 ---
 
 # Funnel Touchpoints
@@ -19,41 +20,102 @@ date: 2026-01-19
 - Promise: Validate your $5K+ offer in one afternoon
 - AI-assisted methodology
 - Instant delivery
-- Order bumps: $47 + $37
+- Order bumps: $17 + $37 + $67
 
 ---
 
-### 2. High-Ticket Application
+### 2. Order Bump Checkboxes
 
-**URL:** TBD
-**Purpose:** Qualify prospects for 1:1
-**CTA:** Apply Now
+**Location:** Checkout page
+**Purpose:** Increase AOV
+
+| Bump | Price | Promise |
+|------|-------|---------|
+| Bump 1: Quick Win DM Scripts | $17 | First conversation in 5 minutes |
+| Bump 2: Plug & Play Templates | $37 | Don't start from scratch |
+| Bump 3: Traffic & Launch Kit | $67 | Know how to get your first 10 buyers |
+
+---
+
+### 3. OTO 1 Page (Sprint)
+
+**URL:** Post-checkout redirect
+**Purpose:** Upsell to implementation + community
+**Options:** $97 Self-Paced / $297 Sprint
+**CTA:** Add to Order (one-click)
+
+---
+
+### 4. OTO 2 Page (DFY)
+
+**URL:** Post-OTO1 redirect
+**Purpose:** Offer done-for-you option
+**Price:** $397
+**CTA:** Add to Order (one-click)
+
+---
+
+### 5. Accelerator Sales Page (No-Phone Offer)
+
+**URL:** TBD (linked from emails, Skool, direct)
+**Purpose:** Sell $5K backend without sales call
+**Price:** $5,000
+**CTA:** Enroll Now
 
 **Key elements:**
-- Qualification questions
-- Investment expectation
-- Commitment filter
+- 4 No-Phone principles answered on page
+- Clear outcome + timeframe (8 weeks)
+- Clear process (week-by-week)
+- Clear delivery (3 calls, WhatsApp, Loom)
+- Easy to start (pay → form → kickoff in 48h)
 
----
-
-### 3. Sales Call Booking
-
-**URL:** Calendly / TBD
-**Purpose:** Schedule conversation
-**CTA:** Book Your Call
+**Who sees this:**
+- Sprint completers
+- High email engagement
+- Direct outreach from Michael
 
 ---
 
 ## Email Touchpoints
 
-### Post-$27 Purchase Sequence
+### Post-Purchase: 10-Day Welcome Sequence
 
-| # | Timing | Purpose |
-|---|--------|---------|
-| 1 | Immediate | Delivery + quick start |
-| 2 | Day 2 | Did you complete it? |
-| 3 | Day 5 | Share your offer for feedback |
-| 4 | Day 7 | OTO 1 reminder (Sprint + community access) |
+| Day | Focus | Offer |
+|-----|-------|-------|
+| 1 | Welcome + quick win | — |
+| 2 | Your story (why you do this) | — |
+| 3 | First case study | Bump they missed |
+| 4 | Common mistake to avoid | Templates ($37) |
+| 5 | Quick tip + value | — |
+| 6 | Client transformation | Sprint ($297) |
+| 7 | Behind-the-scenes | — |
+| 8 | FAQ / objection handling | DFY ($397) |
+| 9 | "What happens next" roadmap | — |
+| 10 | Personal invite to Skool | Community |
+
+### Post-Day 10: Daily Email Rhythm
+
+- Story → Offer → CTA framework
+- Rotate offers across the week
+- Revenue on demand from buyer list
+
+See: `reference/domain/email-rhythm.md`
+
+---
+
+## Community Touchpoints
+
+### Skool Community
+
+**URL:** https://www.skool.com/high-ticket-playbook-9467
+**Who has access:** OTO 1 buyers (Self-Paced + Sprint)
+
+**Engagement points:**
+- Welcome thread (intro post)
+- Weekly prompts (Sprint clients)
+- Live call replays
+- Q&A threads
+- Win celebrations
 
 ---
 
@@ -66,7 +128,7 @@ date: 2026-01-19
 **Content pillars:**
 1. Offer creation tips
 2. Funnel strategy
-3. Anti-guru positioning
+3. Anti-guru positioning ("You can't grow into pain")
 4. Behind the scenes / transparency
 
 **Posting frequency:** TBD
@@ -77,7 +139,16 @@ date: 2026-01-19
 
 _To build out:_
 
-- [ ] Email sequences not yet created
-- [ ] Application page not yet built
-- [ ] Content calendar not yet defined
-- [ ] Tracking/analytics not yet set up
+- [ ] Accelerator sales page (No-Phone)
+- [ ] Content calendar defined
+- [ ] Tracking/analytics fully set up
+- [ ] Testimonial collection system
+
+_Completed:_
+
+- [x] 10-day welcome sequence
+- [x] Daily email rhythm system
+- [x] Bump copy and pages
+- [x] OTO pages
+- [x] Sprint delivery framework
+- [x] Accelerator delivery framework

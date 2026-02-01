@@ -2,7 +2,7 @@
 type: output
 status: draft
 date: 2026-02-01
-product: Order Bump 1
+product: Order Bump 2
 price: $37
 linked_decisions:
   - decisions/2026-02-01-bump-restructure.md
@@ -10,7 +10,7 @@ linked_research:
   - research/2026-02-01-miles-stutz-dfy-delivery-copy.md
 ---
 
-# Bump 1: Plug & Play Templates ($37)
+# Bump 2: Plug & Play Templates ($37)
 
 ---
 

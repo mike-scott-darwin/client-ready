@@ -1,7 +1,8 @@
 ---
 type: reference
 status: active
-date: 2026-01-19
+date: 2026-02-01
+updated_from: 2026-01-19
 ---
 
 # Membership Benefits
@@ -36,7 +37,7 @@ date: 2026-01-19
 
 - **Get clarity on your offer** — Stop second-guessing what you sell
 - **Build a funnel that works** — No more scattered lead gen
-- **Validate before you build** — Test with $7 before investing months
+- **Validate before you build** — Test with $27 before investing months
 - **Path to $5K+ clients** — Know exactly how to scale
 
 ### Tangible Deliverables
@@ -63,7 +64,7 @@ date: 2026-01-19
 | Just joined | Clarity on offer (Phase 1) |
 | Has offer | Funnel installed (Phase 2) |
 | Has funnel | Traffic and scale (Phase 3) |
-| Wants more | 1:1 coaching upgrade |
+| Wants more | Sprint for accountability, Accelerator for done-with-you |
 
 ---
 
