@@ -38,6 +38,36 @@ This guide covers Step 1: Extract. By the end, you'll have something concrete to
 
 ---
 
+## Before You Start: The Alignment Check
+
+Before you run the prompts, answer these three questions honestly:
+
+**1. What do you research when no one's watching?**
+
+Not for content. Not for clients. What rabbit holes do you fall into because you genuinely want to know? This reveals your actual interests — not the interests you think you should have.
+
+**2. What intersections excite you when you find them?**
+
+When your expertise overlaps with something unexpected — does it light you up? Or does it feel like "more work"? The right offer lives at an intersection that energizes you.
+
+**3. What decisions feel like discovery vs obligation?**
+
+When you think about building this business — pricing, positioning, delivery — does it feel like play or like homework?
+
+---
+
+**Why this matters:**
+
+If your answers don't connect to the offer you're about to extract, you might be building something you'll eventually burn down.
+
+The prompts will pull out what's TRUE about you. But if you're forcing yourself toward a market that doesn't excite you, or a transformation you don't actually care about — the extraction won't save you.
+
+Better to know now.
+
+If everything aligns — let's go. If something feels off — sit with it before continuing. The goal isn't just any offer. It's an offer you won't abandon.
+
+---
+
 ## Part 2: The 5 AI Prompts
 
 Use these prompts with ChatGPT, Claude, or any AI assistant. Answer honestly — the AI will help you structure your answers, not invent them for you.
