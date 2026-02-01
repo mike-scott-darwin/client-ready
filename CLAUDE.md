@@ -27,7 +27,7 @@ Michael Scott helps coaches validate their offers before building — scale from
 | Bump 1 | $17 | Quick Win DM Scripts |
 | Bump 2 | $37 | Plug & Play Templates |
 | Bump 3 | $67 | Traffic & Launch Kit |
-| OTO 1 (Self-Paced) | $97 | Client Ready System |
+| OTO 1 (Self-Paced) | $97 | Client Ready Sprint (Self-Paced) |
 | OTO 1 (Sprint) | $297 | 4-Week Client Ready Sprint |
 | OTO 2 | $397 | Done-For-You Client Ready Funnel |
 | Backend | $5K+ | 1:1 Funnel Build |

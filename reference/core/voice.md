@@ -150,7 +150,7 @@ Note: This drives comments + DM conversations. Use sparingly but effectively for
 | Type | Description | What To Do |
 |------|-------------|------------|
 | **Not Ready** | Don't have expertise yet, just want to "be a coach" | Direct to free content, not a fit |
-| **Stuck** | Have skills but can't package them — perfect fit | $7 offer to validate |
+| **Stuck** | Have skills but can't package them — perfect fit | $27 system to validate |
 | **Ready** | Validated offer, need systems to scale | 1:1 funnel build |
 
 ---
@@ -195,7 +195,7 @@ Note: This drives comments + DM conversations. Use sparingly but effectively for
 ## Call-to-Action Patterns
 
 ### Two-Option Close (Borrowed Pattern)
-1. **DIY:** "$7 Client Ready Offer Guide — create your offer doc in 15 minutes"
+1. **DIY:** "$27 Client Ready Offer System — create your offer doc in one afternoon"
 2. **Done-With-You:** "Apply for 1:1 Funnel Build if you want me to do it with you"
 
 ### No-Pressure Positioning

@@ -96,13 +96,13 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 | **4-Week Sprint** | $297 one-time | Want accountability + live support to launch in 30 days |
 
 **Self-Paced ($97) Includes:**
-- Complete $2K+/day funnel system
-- The Unfair Advantage Framework
+- Complete funnel system
+- The Zone of Genius Extraction Framework
 - AI Landing Page Generator
 - Traffic Generation Playbook
 - A/B Testing Frameworks & Strategies
 - Client Onboarding System & Delivery Frameworks
-- One-Click Campaign Templates (scale to $1000+/day)
+- One-Click Campaign Templates (scale your campaigns)
 - **Skool Community Access** — private support community with other clients
 - **Promise:** Everything you need to launch — on your timeline
 
@@ -125,7 +125,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 **Capacity:** 10 per month (real scarcity)
 
 **What's Included:**
-- The Complete Client Funnel (auto-generates & converts to $2K+ HT clients)
+- The Complete Client Funnel (auto-generates & converts to high-ticket clients)
 - Complete Client Funnel Blueprint
 - 1-on-1 Integration Call with Michael
 - Complete Client Ready Ecosystem
