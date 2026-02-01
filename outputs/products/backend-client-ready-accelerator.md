@@ -66,10 +66,10 @@ Everything we create together, you own:
 - Order bump strategy + copy
 - 10-day welcome email sequence
 - Ascension email sequences
-- Ad copy variations (10+)
+- Ad copy variations (15-25) — Andromeda-optimized with 5 message types per angle
 - Hook library (20+)
 - Messaging framework
-- Campaign structure templates
+- Campaign structure templates (built for messaging diversity)
 - Optimization playbook
 
 ---
@@ -119,23 +119,37 @@ Everything we create together, you own:
 
 ### Week 5-6: Traffic Setup
 
-**Focus:** Get your first campaign live.
+**Focus:** Get your first campaign live using the Andromeda strategy.
 
 **What happens:**
 - **Call 2: Midpoint** (60 min)
   - Review funnel build
-  - Traffic strategy session
+  - Traffic strategy session (Andromeda messaging diversity)
   - Campaign structure planning
   - Creative direction
 
 - **Async work:**
-  - Ad copy variations
-  - Hook testing library
+  - Ad copy using 5 message types per angle (Andromeda-optimized)
+  - Hook testing library (15-25 variations)
   - Audience targeting plan
-  - Campaign build
+  - Campaign build with messaging diversity
   - Launch prep
 
-**Your deliverable:** First campaign live and running
+**The Andromeda Approach:**
+
+Meta's algorithm rewards messaging diversity — not just different images on the same copy. We build:
+
+| Message Type | What It Does |
+|--------------|--------------|
+| Problem Agitation | Leads with their pain |
+| Transformation | Leads with the result |
+| Contrarian | Challenges assumptions |
+| Social Proof | Leads with authority |
+| Identity Callout | Makes them self-select |
+
+**Result:** Multiple ads getting purchases, 80-90% bump rates, more resilient campaigns.
+
+**Your deliverable:** First campaign live with messaging diversity built in
 
 ---
 

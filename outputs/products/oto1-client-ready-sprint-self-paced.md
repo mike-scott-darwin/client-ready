@@ -245,6 +245,47 @@ NOT: "The Client Ready System" (product name, not promise)
 | Landing page CR | Page working? | 20% | 30%+ | Fix page copy |
 | CPA | Cost per customer | <AOV | <50% AOV | Everything above |
 
+### 3.4 The Andromeda Strategy (Critical)
+
+**This is the most important traffic concept right now.**
+
+Meta's Andromeda algorithm (launched mid-2023) rewards **messaging diversity** — not just creative diversity.
+
+**The insight:**
+> "You can squeeze a lot of juice out of one piece of ad copy and a lot of ad creative (different images/videos) but since adding in a handful of different messaging styles, results have improved PLUS I'm seeing far more distribution of purchases amongst different ads."
+
+**What this means for you:**
+
+Don't just test different images on the same copy. Test fundamentally different MESSAGES.
+
+**The 5 Message Types Framework:**
+
+For each angle, create 5 different versions:
+
+| Message Type | Entry Point | Example |
+|--------------|-------------|---------|
+| Problem Agitation | Their pain | "You feel like an imposter..." |
+| Transformation | The result | "From stuck to $5K in 30 days..." |
+| Contrarian | Pattern interrupt | "Imposter syndrome isn't a confidence problem" |
+| Social Proof | Authority | "114 coaches stopped feeling like frauds" |
+| Identity Callout | Who they are | "For the coach wearing someone else's positioning" |
+
+**Implementation:**
+1. Choose 3-5 core angles for your offer
+2. Write 5 message types per angle (15-25 total ads)
+3. Pair messages with matching creative types
+4. Launch all in the same ad set
+5. Let Andromeda distribute to different audience segments
+
+**Current results with this approach:**
+- 80-90% order bump take rate
+- Multiple ads getting purchases (not just one winner)
+- More resilient campaigns (less dependent on single ad)
+
+**Creative types winning now:**
+1. Testimonial screenshots (white background + comment)
+2. Personal photo + text overlay
+
 ---
 
 ## Module 4: A/B Testing Frameworks
@@ -256,14 +297,15 @@ NOT: "The Client Ready System" (product name, not promise)
 Test in this order (biggest impact first):
 
 1. **Offer** — What you're selling (biggest lever)
-2. **Audience** — Who sees it
-3. **Hook** — First 3 seconds
-4. **Creative** — Image/video
-5. **Copy** — Body text
-6. **Landing page** — Where they go
-7. **Price** — What you charge
+2. **Messaging** — Different message TYPES, not just different words (see Andromeda in 3.4)
+3. **Audience** — Who sees it
+4. **Hook** — First 3 seconds
+5. **Creative** — Image/video
+6. **Copy** — Body text variations
+7. **Landing page** — Where they go
+8. **Price** — What you charge
 
-Most people start at #5 or #6. Start at #1.
+Most people skip #1 and #2 and go straight to testing images. Per Andromeda, messaging diversity matters MORE than creative diversity. Start at #1.
 
 ### 4.2 The 3-Ad Test Structure
 
