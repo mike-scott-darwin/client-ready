@@ -91,6 +91,34 @@ The funnel isn't the point. The alignment is the point. The funnel is just how w
 
 ---
 
+## View on Money
+
+**Money is a tool, not a goal.**
+
+You don't actually want money. You want freedom. You want options. Money is just how you get there.
+
+**Money flows to alignment.**
+
+The same way you can't grow into pain, you can't force money. When your offer is aligned, when you're serving the right people, when you're showing up authentically — money comes easier. Not because of magic. Because you stop repelling it with desperation and misalignment.
+
+**Get paid what you're worth.**
+
+If you don't have standards, you don't have freedom. Serve A+ clients. Do work you love. Protect your boundaries. Charge what reflects the value you create. Anything less is less than you deserve.
+
+**The less you need, the more you get.**
+
+Attachment to outcomes creates resistance. Desperation repels. When you detach from needing the sale, needing the client, needing the money — you become magnetic. Not because you don't care, but because you trust the process.
+
+**Money reflects your internal state.**
+
+Your financial reality mirrors your beliefs, emotions, and self-worth. If you believe "getting clients is hard," it will be. If you believe "money is dangerous," you'll sabotage it. The work isn't just tactics — it's rewriting the beliefs that keep you stuck at your financial thermostat.
+
+**Attract, don't chase.**
+
+Your true power doesn't force — it draws. Let go of the desperate marketer persona. Build a business that pulls instead of pushes. Strong marketing, clear offers, authentic presence. Let the right people find you.
+
+---
+
 ## Reference Files as Reconnection
 
 Every time I update this file, I reconnect with why I do this.
