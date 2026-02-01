@@ -1,15 +1,52 @@
 ---
 type: reference
 status: active
-date: 2026-01-25
-updated_from: 2026-01-23
+date: 2026-02-01
+updated_from: 2026-01-25
 linked_research:
   - research/2026-01-25-self-liquidating-offers-claude-code.md
   - research/2026-01-25-miles-stutz-consolidated.md
   - research/2026-01-25-hernan-vazquez-competitor-mining.md
+linked_decisions:
+  - decisions/2026-02-01-angle-prioritization.md
 ---
 
 # Offer
+
+**Validate your $5K+ offer before you build anything — in one afternoon.**
+
+---
+
+## The Transformation
+
+**From:** Stuck in the search — trying offers that don't fit, grinding on content that doesn't convert, wondering if you're cut out for this
+
+**To:** An aligned offer you won't abandon, a system that runs without constant hustle, a business built around your life
+
+---
+
+## The Mechanism
+
+**The Client Ready Method:**
+
+1. **Extract** — Find your zone of genius (the thing you do that nobody else does)
+2. **Validate** — Test the offer before building infrastructure
+3. **Build** — Low-ticket to high-ticket funnel with paid ads
+4. **Automate** — A system that works without constant hustle
+
+The funnel isn't the point. The alignment is the point. The funnel is how we deliver freedom.
+
+---
+
+## Key Philosophy
+
+- **"You can't grow into pain"** — If it hurts to show up, you'll eventually burn it down
+- **"Business around your life"** — Not a life built around your business
+- **Paid traffic over content merry-go-round** — Stop posting for 12 months hoping someone buys
+- **Validate before you build** — Know it works before investing in infrastructure
+- **Alignment + automation** — Not scale for scale's sake
+
+---
 
 ## The Value Ladder
 
@@ -41,7 +78,7 @@ linked_research:
 
 ---
 
-### Tier 3: OTO 1 — The Client Ready Sprint
+### Tier 2: OTO 1 — The Client Ready Sprint
 
 **Two Options:**
 
@@ -73,7 +110,7 @@ linked_research:
 
 ---
 
-### Tier 4: $397 — Done-For-You Client Ready Funnel (OTO 2)
+### Tier 3: $397 — Done-For-You Client Ready Funnel (OTO 2)
 
 **Price:** $397 one-time
 **Format:** Done-for-you
@@ -103,7 +140,7 @@ linked_research:
 
 ---
 
-### Tier 5: $5K+ — 1:1 Funnel Build (Backend)
+### Tier 4: $5K+ — 1:1 Funnel Build (Backend)
 
 **Price:** $5,000+ (exact pricing TBD)
 **Format:** Done-with-you / Done-for-you
@@ -136,27 +173,6 @@ linked_research:
 
 ---
 
-## Core Transformation
-
-**From:** Coach with an idea but no validated offer — stuck wondering "will anyone pay for this?"
-**To:** Coach with a tested offer, paying customers, and a clear path to $5K+ clients
-
-## The Mechanism
-
-**The Client Ready Method:**
-1. **Extract** — Pull out your unfair advantage using AI-assisted prompts
-2. **Validate** — Test your offer with real buyers before building infrastructure
-3. **Build** — Install the 24-hour funnel system
-4. **Scale** — Traffic and scaling playbook to reach $5K+ clients
-
-## Key Philosophy
-
-- "You can't grow into pain" — Offer must align with what you actually do well
-- "Test, validate, build" — Engineering approach, not wishful thinking
-- Reality over Perception — Get the offer right before polishing the marketing
-- "Nobody is coming to save you" — Action over perfection
-- "Validate before you scale" — Know it works before you invest
-
 ## Guarantees
 
 **30-Day Money Back (All Products):**
@@ -167,6 +183,8 @@ linked_research:
 
 **Sprint Guarantee (OTO 1 - $297 Sprint):**
 > "Launch your validated offer in 30 days — or Michael keeps working with you until you do."
+
+---
 
 ## Objection Handling
 
