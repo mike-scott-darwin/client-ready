@@ -1,7 +1,7 @@
 ---
 type: decision
 date: 2026-02-01
-status: proposed
+status: accepted
 linked_research:
   - research/2026-01-27-miles-stutz-call-ads-strategy.md
   - research/2026-02-01-miles-stutz-dfy-delivery-copy.md

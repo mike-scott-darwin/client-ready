@@ -209,7 +209,10 @@ It's not a course. It's a system. 5 prompts, 1 afternoon, done. No 47-page PDF. 
 
 ## ORDER BUMP PREVIEW
 
-*On the checkout page, they'll see:*
+*On the checkout page, they'll see (3 bumps):*
+
+**YES! Add Quick Win DM Scripts ($17)**
+Start sales conversations TODAY while you build. 5 copy-paste scripts for warm outreach — first conversation in 5 minutes. ~~$97~~ → $17
 
 **YES! Add Plug & Play Templates ($37)**
 Don't start from scratch. Complete offer document template (with filled example), landing page swipe files, 30-day evergreen email sequence, messaging maps, and copy-paste headlines. ~~$197~~ → $37

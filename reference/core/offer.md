@@ -59,7 +59,14 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - Step-by-step guide + offer document template
 - **Promise:** Validate your $5K+ offer before you build anything — in one afternoon
 
-**Order Bump 1: $37 — Plug & Play Templates**
+**Order Bump 1: $17 — Quick Win DM Scripts**
+- 5 copy-paste DM scripts for warm outreach
+- The Reconnection, Value Drop, Soft Pitch, "I'm Building Something", and Follow-Up scripts
+- Start sales conversations today — while you build your funnel
+- **Promise:** First conversation in 5 minutes — don't wait to make money
+- ~~$97~~ → $17
+
+**Order Bump 2: $37 — Plug & Play Templates**
 - Complete offer document template (with filled example)
 - Landing page swipe files (proven layouts)
 - 30-day evergreen email sequence (pre-written, tested)
@@ -68,7 +75,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - **Promise:** Don't start from scratch — plug in your offer and go
 - ~~$197~~ → $37
 
-**Order Bump 2: $67 — Traffic & Launch Kit**
+**Order Bump 3: $67 — Traffic & Launch Kit**
 - AI ad generator + proven ad creative currently running
 - Targeting playbook (audiences that convert)
 - Launch checklist + timeline (day-by-day plan)
@@ -162,15 +169,16 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 | Step | Price | Type |
 |------|-------|------|
 | Front-end | $27 | One-time |
-| Bump 1 (Templates) | $37 | One-time |
-| Bump 2 (Traffic) | $67 | One-time |
+| Bump 1 (DM Scripts) | $17 | One-time |
+| Bump 2 (Templates) | $37 | One-time |
+| Bump 3 (Traffic) | $67 | One-time |
 | OTO 1 (Self-Paced) | $97 | One-time |
 | OTO 1 (Sprint) | $297 | One-time |
 | OTO 2 | $397 | One-time |
 | Backend | $5K+ | High-ticket |
 
-**Max One-Time Cart Value:** $825 ($27 + $37 + $67 + $297 + $397)
-**Target AOV:** $100-120 (with ~40% Bump 1, ~28% Bump 2, ~15% Sprint uptake)
+**Max One-Time Cart Value:** $842 ($27 + $17 + $37 + $67 + $297 + $397)
+**Target AOV:** $120-150 (with 3 bumps per Cat Howell data showing 2x conversion lift)
 
 ---
 
