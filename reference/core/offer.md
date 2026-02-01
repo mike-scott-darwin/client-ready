@@ -148,19 +148,39 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 
 ---
 
-### Tier 4: $5K+ — 1:1 Funnel Build (Backend)
+### Tier 4: $5K — Client Ready Accelerator (No-Phone Offer)
 
-**Price:** $5,000+ (exact pricing TBD)
-**Format:** Done-with-you / Done-for-you
-**Delivery:** 1:1 coaching
+**Price:** $5,000 one-time
+**Format:** Done-with-you intensive
+**Delivery:** Asynchronous + 3 strategy calls
+**Timeline:** 8 weeks
+
+**The 4 Principles (Why No Sales Call Required):**
+
+1. **Clear Outcome + Timeframe:** Validated, profitable funnel generating customers in 8 weeks
+2. **Clear Process:** Week-by-week build with you — extraction, validation, funnel, traffic, optimization
+3. **Clear Delivery:** 3 strategy calls, unlimited Loom reviews, direct Slack access, all assets built together
+4. **Easy to Start:** Pay, onboard form, first call scheduled within 48 hours
 
 **What's Included:**
-- Complete funnel built out by Michael
-- Offer extraction and refinement
-- Funnel installation
-- Traffic and scaling strategy
+- Complete funnel architecture (offer → traffic → conversion → ascension)
+- Zone of genius extraction and offer refinement
+- Landing page copy and design direction
+- Email sequences (welcome, ascension, retargeting)
+- Ad creative direction + first campaign setup
+- 3x 60-minute strategy calls (kickoff, midpoint, launch)
+- Unlimited async support via Slack/Loom for 8 weeks
+- Post-launch optimization session (Week 8)
 
-**Purpose:** High-ticket backend for buyers who want maximum hands-on support
+**Who This Is For:**
+- Already validated your offer (bought the $27 or Sprint)
+- Want speed + expert guidance, not DIY
+- Ready to invest in getting it right the first time
+
+**Guarantee:** Profitable funnel or we keep working until it is
+
+**Why No Sales Call:**
+> "If you need a sales call to decide, this isn't for you yet. Go through the Sprint first. This is for people who already know they want it done right — they just need the how."
 
 ---
 
@@ -175,10 +195,58 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 | OTO 1 (Self-Paced) | $97 | One-time |
 | OTO 1 (Sprint) | $297 | One-time |
 | OTO 2 | $397 | One-time |
-| Backend | $5K+ | High-ticket |
+| Backend (Accelerator) | $5,000 | No-Phone Offer |
 
 **Max One-Time Cart Value:** $842 ($27 + $17 + $37 + $67 + $297 + $397)
 **Target AOV:** $120-150 (with 3 bumps per Cat Howell data showing 2x conversion lift)
+
+---
+
+## Email Ascension System
+
+**The engine that turns $27 buyers into $5K clients — without phone calls.**
+
+### Daily Email Rhythm
+
+Every day, one email goes to your customer list. Not prospects. Buyers.
+
+**The Framework:**
+1. **Story** — Personal experience, client story, lesson learned
+2. **Offer** — One product from your ladder (rotate through)
+3. **CTA** — Clear, single action
+
+**Why Daily:**
+- Buyers forget you within 72 hours if you don't email
+- Daily = top of mind when they're ready to ascend
+- Story-first builds relationship; you're not "that person who only pitches"
+
+### The 10-Day Automation
+
+New buyers get a 10-day sequence before joining the daily rhythm:
+
+| Day | Focus | Offer |
+|-----|-------|-------|
+| 1 | Welcome + quick win | — |
+| 2 | Your story (why you do this) | — |
+| 3 | First case study | Bump they missed |
+| 4 | Common mistake to avoid | Templates ($37) |
+| 5 | Quick tip + value | — |
+| 6 | Client transformation | Sprint ($297) |
+| 7 | Behind-the-scenes | — |
+| 8 | FAQ / objection handling | DFY ($397) |
+| 9 | "What happens next" roadmap | — |
+| 10 | Personal invite to Skool | Community |
+
+After Day 10, they join the daily broadcast.
+
+### Why This Works
+
+From Miles Stutz research:
+> "Your customer list is your ATM. You write an email, you make money. But only if you show up daily."
+
+Most coaches email weekly (or never). Daily = compound advantage.
+
+See: `reference/domain/email-rhythm.md` for full implementation details.
 
 ---
 
