@@ -119,6 +119,32 @@ Your true power doesn't force — it draws. Let go of the desperate marketer per
 
 ---
 
+## The Code
+
+**10 principles I operate by.**
+
+1. **Lead Yourself.** Nobody is coming to save you. Take radical responsibility for your results, your emotions, your business. The world doesn't owe you anything. You owe yourself everything.
+
+2. **Reject Hustle, Embrace Flow.** Hard work matters. Grinding yourself into dust doesn't. Build systems that work without you white-knuckling every day. Sustainability beats intensity.
+
+3. **Hold Your Standards.** Your boundaries define your business. A-players only. Premium pricing. Clear expectations. Drop the clients who drain you. Attract the ones who energize you.
+
+4. **Pursue Minimalism.** Complexity is the enemy of execution. One offer. One funnel. One traffic source. Master the essential. Eliminate the rest.
+
+5. **Attract, Don't Chase.** Desperation repels. Strong positioning, clear offers, authentic presence — these draw the right people to you. Stop chasing. Start attracting.
+
+6. **Create, Don't Compete.** Competition is for commodity businesses. Create something only you can create. Your zone of genius has no competition because nobody else is you.
+
+7. **Be a Guide, Not a Guru.** You're not a savior. You're a guide who's a few steps ahead. Share what works. Admit what doesn't. Let your clients own their results.
+
+8. **Serve Obsessively.** The money follows the value. Focus on results, not revenue. When you're genuinely obsessed with client outcomes, the business takes care of itself.
+
+9. **Master Your Inner Game.** Your external results mirror your internal state. Limiting beliefs, scarcity thinking, imposter syndrome — these aren't just feelings. They're revenue leaks. Do the inner work.
+
+10. **Be a Scientist.** Test, validate, build. Hypothesize, experiment, measure. Let data kill your darlings. The market doesn't care about your opinions — it cares about results.
+
+---
+
 ## Reference Files as Reconnection
 
 Every time I update this file, I reconnect with why I do this.
