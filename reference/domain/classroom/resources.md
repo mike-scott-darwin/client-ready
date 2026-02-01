@@ -73,12 +73,14 @@ _Resources to create:_
 - [ ] Canva templates for social
 - [ ] Notion dashboard (optional)
 
-_New resources needed (from 2026-02-01 offer update):_
-- [ ] 10-Day Welcome Sequence Template
-- [ ] Daily Email Framework (1-pager)
-- [ ] Weekly Email Rotation Planner
-- [ ] Install Offer Recovery Sequence
-- [ ] OTO Recovery Sequence
-- [ ] No-Phone Offer Checklist
-- [ ] No-Phone Offer Page Template
-- [ ] Call vs No-Call Decision Framework
+_New resources (from 2026-02-01 offer update):_
+- [x] 10-Day Welcome Sequence Template
+- [x] Daily Email Framework (1-pager)
+- [x] Weekly Email Rotation Planner
+- [x] Install Offer Recovery Sequence
+- [x] OTO Recovery Sequence
+- [x] No-Phone Offer Checklist
+- [x] No-Phone Offer Page Template
+- [x] Call vs No-Call Decision Framework
+
+All resources created in `classroom/downloads/`
