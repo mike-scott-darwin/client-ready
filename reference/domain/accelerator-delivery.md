@@ -62,7 +62,7 @@ Lock in the offer, map the funnel, establish positioning.
 **Day 1-2: Onboarding**
 - Client completes deep-dive onboarding form (see below)
 - Michael reviews and prepares for kickoff call
-- Slack channel created, intro message sent
+- WhatsApp chat created, intro message sent
 
 **Day 3-4: Kickoff Call (60 min)**
 
@@ -270,7 +270,7 @@ Call structure:
 ### Within 48 Hours
 
 - Michael reviews form
-- Slack channel created with intro message
+- WhatsApp channel created with intro message
 - Kickoff call scheduled
 - Any clarifying questions sent async
 
@@ -278,7 +278,7 @@ Call structure:
 
 ## Async Support System
 
-### Slack Channel (Private)
+### WhatsApp Chat (Private)
 
 **What it's for:**
 - Quick questions
@@ -449,7 +449,7 @@ Simple Notion or spreadsheet the client can access:
 |----------|------|-----------|
 | Strategy calls | 60 min each | 3 per client (Weeks 1, 4, 8) |
 | Async building (copy, docs) | 4-6 hrs/week | Weeks 1-5 |
-| Async support (Slack, Loom) | 3-4 hrs/week | All 8 weeks |
+| Async support (WhatsApp, Loom) | 3-4 hrs/week | All 8 weeks |
 | Client review + prep | 1-2 hrs/week | All 8 weeks |
 | **Total per client** | ~8-12 hrs/week | 8 weeks |
 
@@ -466,7 +466,7 @@ At $5,000, that's ~$52-78/hour effective rate. Scale by raising price or reducin
 | Duration | 4 weeks | 4 weeks | 8 weeks |
 | Format | Group + DIY | Done-for-you | Done-with-you |
 | Calls | 4 group calls | 1 integration call | 3 strategy calls (1:1) |
-| Async | Chat access | Minimal | Unlimited Slack + Loom |
+| Async | Chat access | Minimal | Unlimited WhatsApp + Loom |
 | Who does work | Client | Michael | Both |
 | Best for | Validate + launch | Need implementation | Scale + optimize |
 | Outcome | Offer validated, funnel live | Funnel built | Profitable, scaling |
@@ -513,7 +513,7 @@ At $5,000, that's ~$52-78/hour effective rate. Scale by raising price or reducin
 
 - [ ] Deep-dive onboarding form created
 - [ ] Welcome video recorded
-- [ ] Slack workspace set up (or channel structure decided)
+- [ ] WhatsApp workspace set up (or channel structure decided)
 - [ ] Client dashboard template created (Notion/spreadsheet)
 - [ ] Deliverable templates ready (funnel architecture, messaging map, etc.)
 - [ ] Loom account set up
@@ -522,7 +522,7 @@ At $5,000, that's ~$52-78/hour effective rate. Scale by raising price or reducin
 ### Before Each Engagement
 
 - [ ] Review onboarding form thoroughly
-- [ ] Create client Slack channel
+- [ ] Create client WhatsApp channel
 - [ ] Share dashboard access
 - [ ] Schedule kickoff call within 48 hours
 - [ ] Send "what to expect" message

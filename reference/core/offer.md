@@ -169,7 +169,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - Email sequences (welcome, ascension, retargeting)
 - Ad creative direction + first campaign setup
 - 3x 60-minute strategy calls (kickoff, midpoint, launch)
-- Unlimited async support via Slack/Loom for 8 weeks
+- Unlimited async support via WhatsApp/Loom for 8 weeks
 - Post-launch optimization session (Week 8)
 
 **Who This Is For:**
