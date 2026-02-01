@@ -6,7 +6,11 @@
 
 ## What You Just Got
 
-5 copy-paste DM scripts for warm outreach. These aren't cold DM templates — they're for people who already know you (or knew you at some point).
+A complete DM sales system — 10 copy-paste scripts plus the conversation frameworks to run any sales conversation.
+
+**The Core 5 Scripts:** Reconnection, Value Drop, Soft Pitch, Building Something, Follow-Up
+**The Quick Cash 5 Scripts:** No-Brainer Question, Reactivation, Win-Back, Referral Ask, Direct Ask
+**The DM Conversation System:** 6-step flow, A-C-A framework, qualifying progression, objection handlers
 
 The goal: Start a conversation that could lead to a sale. Not pitch. Converse.
 
@@ -14,7 +18,7 @@ Use these while you build your funnel. Revenue now > revenue later.
 
 ---
 
-## The 5 Scripts
+## The Core 5 Scripts
 
 ### Script 1: The Reconnection
 
@@ -216,6 +220,414 @@ Quick thought: what's the ONE thing that's blocking you from moving forward on t
 
 ---
 
+## Quick Cash Scripts
+
+These are additional scripts for specific high-conversion situations.
+
+### Script 6: The No-Brainer Question
+
+**Use when:** Someone's been on the fence — interested but not committing.
+
+**Why it works:** Instead of pushing, you discover what they actually need to say yes. Often closes the deal immediately.
+
+```
+Hey [Name],
+
+I'd love to know... what would it need to look like for [Offer Name] to be a no-brainer for you?
+
+Not trying to convince you of anything — genuinely curious what would make it an obvious yes (or if it's just not the right fit).
+```
+
+**Example:**
+
+```
+Hey Rachel,
+
+I'd love to know... what would it need to look like for the Client Ready Sprint to be a no-brainer for you?
+
+Not trying to convince you of anything — genuinely curious what would make it an obvious yes (or if it's just not the right fit).
+```
+
+**Common responses and how to handle:**
+
+| Their Response | Your Move |
+|----------------|-----------|
+| "Lower price" | Offer payment plan or point to lower-tier option |
+| "More time" | Offer to hold spot, or check back in X weeks |
+| "Need [specific thing]" | Show them how offer includes it, or offer to add it |
+| "Not sure it's for me" | Ask what their hesitation is — often reveals the real objection |
+
+---
+
+### Script 7: The Reactivation
+
+**Use when:** Going through old leads who fell through the cracks.
+
+**Why it works:** Most leads aren't lost — they're just waiting for a reason to re-engage. Low effort, high return.
+
+**Step 1: The Inbox Audit**
+Go through your inbox for the last 6 months. Check:
+- Requests folder
+- Spam folder
+- DM requests on social
+- Old comments you never followed up on
+
+**Step 2: The Re-engagement Message**
+
+```
+Hey [Name],
+
+Going through some old messages and realized we never connected.
+
+You reached out about [topic/offer] back in [month]. Any chance that's still on your radar?
+
+If so, I'd love to pick up where we left off.
+```
+
+**Example:**
+
+```
+Hey James,
+
+Going through some old messages and realized we never connected.
+
+You reached out about getting help with your offer positioning back in October. Any chance that's still on your radar?
+
+If so, I'd love to pick up where we left off.
+```
+
+---
+
+### Script 8: The Win-Back (Past Clients)
+
+**Use when:** Re-engaging clients who worked with you before.
+
+**Why it works:** Past clients already trust you. They're 10x easier to close than new leads.
+
+```
+Hey [Name],
+
+Hope you're doing well! Been thinking about you.
+
+We worked together on [what you helped them with] — how's that going? Any new challenges that have come up since?
+
+I have a few spots open for [current offer] and thought of you. No pressure — just wanted to let you know since you already know how I work.
+```
+
+**Example:**
+
+```
+Hey Amanda,
+
+Hope you're doing well! Been thinking about you.
+
+We worked together on your offer positioning last year — how's that going? Any new challenges that have come up since?
+
+I have a few spots open for the Sprint and thought of you. No pressure — just wanted to let you know since you already know how I work.
+```
+
+---
+
+### Script 9: The Referral Ask
+
+**Use when:** Asking existing clients for referrals.
+
+**Why it works:** Your best clients know other people just like them. They want to help — they just need to be asked.
+
+```
+Hey [Name],
+
+Quick favor to ask.
+
+We have a few spots open for [Offer Name] right now. Do you happen to know anyone who might be a good fit?
+
+If so, I'd love an intro. [Optional: And if they sign up, I'll [referral bonus].]
+
+No pressure — just figured you'd know people in similar situations.
+```
+
+**Example:**
+
+```
+Hey Kevin,
+
+Quick favor to ask.
+
+We have a few spots open for the Client Ready Sprint right now. Do you happen to know any other coaches who might be struggling to nail their offer and get paying clients?
+
+If so, I'd love an intro. And if they sign up, I'll give you $100 off your next purchase.
+
+No pressure — just figured you'd know people in similar situations.
+```
+
+---
+
+### Script 10: The Direct Ask
+
+**Use when:** You want to cut to the chase with hot prospects.
+
+**Why it works:** Sometimes direct is best. No funnel, no fancy copy — just ask.
+
+```
+Hey [Name],
+
+Being direct: I have [X] spots to work with me and it's only $[Price] to get started.
+
+Given [what you know about their situation], I think this could really help you.
+
+You in? DM me if you want details.
+```
+
+**Example:**
+
+```
+Hey Maria,
+
+Being direct: I have 3 spots open in the Sprint and it's only $297 to get started.
+
+Given that you mentioned struggling to articulate what you actually do for clients, I think this could really help you get that clarity.
+
+You in? DM me if you want details.
+```
+
+**Pro tip:** This also works as a public post:
+
+```
+I have 3 spots to work with me this month.
+
+If you're a coach who's great at what you do but can't seem to get paying clients — this is for you.
+
+$297 to get started. DM me "IN" if you want details.
+```
+
+---
+
+## The DM Conversation System
+
+Beyond individual scripts, here's a complete framework for running DM conversations that convert.
+
+### Direct vs Indirect: Choosing Your Approach
+
+| Prospect Warmth | Approach | Focus |
+|-----------------|----------|-------|
+| **Cold** (new connection, never engaged) | Indirect | Connection + content first |
+| **Warm** (engaged with content, some history) | Indirect → Direct | Build rapport, then offer |
+| **Hot** (asked about your offer, past client) | Direct | Go straight to the offer |
+
+**Indirect:** Focus on connection, share content, warm them up before mentioning your offer.
+
+**Direct:** They already know you and want what you have. Get to the point.
+
+---
+
+### The 6-Step Indirect Conversation Flow
+
+Use this when someone is warm but not hot. Takes 3-10 messages over 1-3 days.
+
+```
+1. OPENER
+   "Hey [Name], I keep seeing your name pop up — how's business going?"
+
+2. THIS OR THAT (qualifying)
+   "Are you currently [situation A] or [situation B]?"
+   Example: "Are you still working 1:1, or have you moved to group?"
+
+3. GOAL
+   "In terms of [topic], what's the goal you're aiming for over the next 3-6 months?"
+
+4. CURRENT
+   "How far are you from that right now?"
+
+5. NEED
+   "What do you feel you need most to hit that goal?"
+
+6. HELP
+   "Would you like some help with that?"
+```
+
+**Example flow for coaches:**
+
+```
+You: Hey Sarah, I keep seeing your posts — how's the coaching business going?
+
+Them: Hey! It's going okay, trying to figure out how to get more consistent clients.
+
+You: Totally get it. Are you mostly doing 1:1 right now, or have you started group stuff?
+
+Them: Still 1:1, haven't figured out how to scale yet.
+
+You: Makes sense. What's the goal you're aiming for over the next few months?
+
+Them: Honestly, I just want to hit $10K months consistently without burning out.
+
+You: Love that. How far are you from that right now?
+
+Them: I'm at like $4-5K most months, but it's all over the place.
+
+You: Got it. What do you feel you need most to get there?
+
+Them: Probably a better offer and some kind of system for getting clients that doesn't rely on me posting constantly.
+
+You: That's exactly what I help with. Would you like some help with that?
+```
+
+---
+
+### The A-C-A Framework (For Any Response)
+
+Whenever they reply, use this before your next question:
+
+| Step | What To Do | Example |
+|------|------------|---------|
+| **Acknowledge** | Restate what they said in your own words | "So you're at $5K but it's inconsistent..." |
+| **Compliment** | Tie to a positive trait | "That's actually impressive while working full-time!" |
+| **Ask** | Lead toward your offer with next question | "What do you think is causing the inconsistency?" |
+
+This makes conversations feel natural, not interrogative.
+
+---
+
+### Qualifying Questions (Least to Most Invasive)
+
+Start with easy questions, progress to more personal ones:
+
+```
+LESS INVASIVE                                      MORE INVASIVE
+     │                                                    │
+     ▼                                                    ▼
+┌─────────┬─────────┬─────────┬─────────┬─────────┬─────────┐
+│ What do │ What's  │ How do  │ What's  │ What do │ Would   │
+│ you do? │ your    │ you get │ your    │ you     │ you     │
+│         │ offer?  │ clients?│ goal?   │ need?   │ want    │
+│         │         │         │         │         │ help?   │
+└─────────┴─────────┴─────────┴─────────┴─────────┴─────────┘
+```
+
+**For Client Ready's audience:**
+1. "Are you coaching full-time or still have a day job?"
+2. "What kind of coaching do you do?"
+3. "Do you have a clear offer, or still figuring that out?"
+4. "How are you getting clients right now?"
+5. "What's the goal for the next few months?"
+6. "What do you feel is the biggest thing holding you back?"
+7. "Would you like some help with that?"
+
+---
+
+### Connection Builders
+
+**Profile Check Move:**
+Somewhere in the conversation, check their profile and mention something personal:
+
+```
+Total sidenote: Just saw you were in [location]! I've always wanted to visit. How is it there?
+```
+
+or
+
+```
+Random — noticed you just hit [milestone]. Congrats! How's that going?
+```
+
+**Warmth Gauge Question:**
+To figure out how "hot" someone is:
+
+```
+Curious — how long have you been following me?
+```
+
+Short time = more nurturing needed. Long time = they're pre-sold, move faster.
+
+**Content First Rule:**
+If they're not warm or deeply interested yet, send them a piece of content before your offer:
+
+```
+Before I share more about what I do, I think you'd find this helpful — [link to video/post/training]
+
+Let me know what you think, and we can chat more after.
+```
+
+---
+
+### Objection Handlers
+
+**"I'm not sure if this is for me"**
+
+```
+Totally fair — what specifically are you unsure about?
+
+[Let them answer]
+
+Got it. And what would you want to focus on moving forward?
+```
+
+Then address whether your offer solves that specific thing.
+
+---
+
+**"I can't afford it right now"**
+
+```
+I hear you. Quick question though — is this a STRESS investment or a STRETCH investment?
+
+Stress = keeps you up at night, genuinely can't do it. If that's the case, don't do it.
+
+Stretch = uncomfortable but possible, and it pushes you to level up.
+
+Which one is it for you?
+```
+
+If stretch: "Most of my best decisions were stretch investments."
+If stress: "No worries — let's stay in touch and revisit when timing is better."
+
+---
+
+**"I need to think about it"**
+
+```
+Totally get it. What specifically do you want to think through?
+
+[Let them answer]
+
+Makes sense. If you had all the info you needed, what would you decide?
+```
+
+---
+
+**"Can I get back to you?"**
+
+```
+Of course. When do you think you'll know?
+
+[They give a time]
+
+Perfect. I'll follow up [day/time] if I haven't heard from you. Sound good?
+```
+
+---
+
+### Inbound Inquiry Script
+
+When someone messages YOU asking about your offer:
+
+```
+1. "Hey [Name]! Great to hear from you. Happy to share more info..."
+
+2. "Quick question first — can you give me some context about [their situation]?"
+
+3. [They respond]
+
+4. "Appreciate you sharing. What's [current situation] right now, and where do you want to be?"
+
+5. [They respond]
+
+6. "Got it — I think there's a good chance I can help. I've got the details in a doc. Do you have 2-3 minutes to check it out now?"
+
+7. [If yes] "Here it is: [LINK]. Once you check it out, can you let me know if you feel like this could be what you're looking for? I'll keep the chat open for any Q's."
+```
+
+---
+
 ## How To Use These
 
 ### Step 1: Make a List
@@ -231,11 +643,16 @@ This includes: old colleagues, past clients, people from courses/communities, so
 
 | Their Situation | Script to Use |
 |-----------------|---------------|
-| Haven't talked in a while | The Reconnection |
-| You have something helpful to share | The Value Drop |
-| They might be a good fit | The Soft Pitch |
-| You want feedback + sales | The "I'm Building Something" |
-| Conversation went cold | The Follow-Up |
+| Haven't talked in a while | The Reconnection (#1) |
+| You have something helpful to share | The Value Drop (#2) |
+| They might be a good fit | The Soft Pitch (#3) |
+| You want feedback + sales | The "I'm Building Something" (#4) |
+| Conversation went cold | The Follow-Up (#5) |
+| On the fence, not committing | The No-Brainer Question (#6) |
+| Old leads from months ago | The Reactivation (#7) |
+| Past clients you want back | The Win-Back (#8) |
+| Want referrals from happy clients | The Referral Ask (#9) |
+| Hot prospect, ready to close | The Direct Ask (#10) |
 
 ### Step 3: Send 5 Per Day
 

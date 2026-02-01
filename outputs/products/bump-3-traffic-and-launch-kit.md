@@ -17,6 +17,7 @@ Here's what's inside:
 5. **Launch Checklist** — Day-by-day plan for your first campaign
 6. **A/B Testing Framework** — Know what's working
 7. **"First 10 Buyers" Roadmap** — The full path from zero to paying customers
+8. **Promotional Calendar** — When and how to run promos for cash injections
 
 Let's get you customers.
 
@@ -572,6 +573,79 @@ Total monthly from $1K spend = $2,211 + $980 + $397 + $1,650 = $5,238
 
 ---
 
+## Part 8: Promotional Calendar
+
+Traffic is only half the equation. You also need **promotional rhythm** — strategic moments when you push harder.
+
+### The 3 Types of Promos
+
+| Promo Type | Frequency | Purpose |
+|------------|-----------|---------|
+| **Cash Injection** | Quarterly | Big push, 5-7 days, all-out promotion |
+| **Flash Sale** | Monthly | Quick 48-72 hour discount or bonus |
+| **Evergreen** | Always-on | Consistent traffic to your core offer |
+
+### Annual Promotional Calendar
+
+| Month | Promo Opportunity | Type |
+|-------|-------------------|------|
+| January | "New Year, New You" — fresh start energy | Cash Injection |
+| February | Valentine's flash sale | Flash Sale |
+| March | Q1 wrap-up / price increase warning | Flash Sale |
+| April | Spring cleaning / refresh your offer | Evergreen push |
+| May | Mid-year check-in | Flash Sale |
+| June | Summer intensive / founding member for new offer | Cash Injection |
+| July | Independence sale (if relevant) | Flash Sale |
+| August | Back to business (after summer lull) | Evergreen push |
+| September | Q4 prep / "finish the year strong" | Cash Injection |
+| October | Halloween flash sale (if fits brand) | Flash Sale |
+| November | Black Friday / Cyber Monday | Cash Injection |
+| December | Year-end reflection / founding member for next year | Flash Sale |
+
+### Running a Cash Injection Promo
+
+**The Setup (Week Before):**
+1. Pick your offer and promotional angle
+2. Create scarcity (real, not fake): limited spots, bonus expiring, or price increase
+3. Write your 5-7 day email sequence (see templates in Plug & Play)
+4. Prep social content
+
+**The Execution (5-7 Days):**
+```
+Day 1: Announcement — Here's what's happening
+Day 2: Story/Case Study — Why this works
+Day 3: Objection Handler — "But what if..."
+Day 4: Social Proof — Results from others
+Day 5: Last Chance Warning — 48 hours left
+Day 6: Final Day — Going away at midnight
+Day 7: Closed — "You missed it" (for list, re-engage later)
+```
+
+**Key Rules:**
+- Don't run the same promo back-to-back (audience gets numb)
+- Space cash injections at least 6-8 weeks apart
+- Flash sales can be more frequent but keep them genuine
+- Track what works — document results for next time
+
+### Reducing Payment Friction
+
+Lower the barrier to "yes" without discounting:
+
+| Tactic | How It Works |
+|--------|--------------|
+| **Weekly pricing** | $1000/month → $250/week sounds easier |
+| **Deposits** | $100-500 now, rest in 2 weeks |
+| **Prepay discount** | Pay 3 months upfront, get 10% off |
+| **Split payments** | 2x or 3x payments instead of PIF |
+
+**When to use:**
+- Deposit: When timing is the objection, not value
+- Weekly: When monthly feels "too much at once"
+- Prepay: When you want cash now + committed clients
+- Split: Standard option for anything over $500
+
+---
+
 ## Quick Start
 
 **Today:**
@@ -588,6 +662,11 @@ Total monthly from $1K spend = $2,211 + $980 + $397 + $1,650 = $5,238
 1. Follow the launch checklist
 2. Get to 150-200 clicks before judging
 3. Optimize based on data, not feelings
+
+**Quarterly:**
+1. Plan your next Cash Injection promo
+2. Review what's working in traffic
+3. Update messaging based on Andromeda learnings
 
 ---
 

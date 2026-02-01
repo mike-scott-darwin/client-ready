@@ -16,6 +16,7 @@ Here's what's inside:
 4. **Messaging Maps** — Consistent copy across touchpoints
 5. **Client Profile Templates** — Document who actually buys
 6. **Copy-Paste Headlines & Hooks** — 50+ proven variations
+7. **Promo & Quick Cash Templates** — Flash sales, referral drives, price increases, scholarships
 
 Let's walk through each.
 
@@ -508,6 +509,376 @@ Patterns to note:
 
 ---
 
+## Part 7: Promo & Quick Cash Templates
+
+Ready-to-use templates for running promotional campaigns. Pick what fits your situation.
+
+### Flash Sale Template (48-72 Hours)
+
+**Announcement Post/Email:**
+```
+Subject: [X]% off for the next 48 hours
+
+Hey [NAME],
+
+I'm in a good mood, so here's the deal:
+
+For the next 48 hours, you can get [Offer Name] for [X]% off.
+
+No special reason. No holiday. Just felt like doing it.
+
+Regular price: $[Price]
+Your price: $[Sale Price]
+
+Goes back to normal on [Day] at [Time].
+
+[CTA LINK]
+
+[Your name]
+```
+
+**Countdown Reminder (24 hours left):**
+```
+Subject: 24 hours left
+
+Quick reminder — the flash sale on [Offer Name] ends tomorrow at [Time].
+
+After that, it goes back to $[Regular Price].
+
+If you've been on the fence: [LINK]
+
+[Your name]
+```
+
+**Final Reminder (2-4 hours left):**
+```
+Subject: Last call (closing in [X] hours)
+
+This is the last email about this.
+
+[Offer Name] goes back to full price at [Time] today.
+
+If you want it at [Sale Price]: [LINK]
+
+[Your name]
+```
+
+---
+
+### Price Increase Countdown Template
+
+**Announcement:**
+```
+Subject: Price going up on [Date]
+
+Hey [NAME],
+
+Heads up: the price of [Offer Name] is going up.
+
+On [Date], it increases from $[Current] to $[New Price].
+
+If you've been thinking about it, now's the time.
+
+This is the cheapest it'll ever be.
+
+[CTA LINK]
+
+[Your name]
+```
+
+**Reminder (3 days before):**
+```
+Subject: 3 days until price increase
+
+Just a reminder — [Offer Name] goes from $[Current] to $[New Price] on [Date].
+
+That's $[Difference] more.
+
+If you're in: [LINK]
+
+[Your name]
+```
+
+---
+
+### Founding Member Pricing Template
+
+**Launch Announcement:**
+```
+Subject: Be a founding member (locked-in pricing)
+
+Hey [NAME],
+
+I'm launching something new: [Offer Name]
+
+And for the first [X] people who join, you lock in founding member pricing — forever.
+
+Founding member price: $[Lower Price]
+Regular price (starting [Date]): $[Higher Price]
+
+What you get as a founding member:
+• Locked-in rate (never increases)
+• [Bonus 1]
+• [Bonus 2]
+• Direct input on how this evolves
+
+Only [X] spots at this price.
+
+[CTA LINK]
+
+[Your name]
+```
+
+---
+
+### Limited-Time Bonus Template
+
+**Announcement:**
+```
+Subject: This week only — free bonus with [Offer Name]
+
+Hey [NAME],
+
+This isn't a discount. This is extra.
+
+Everyone who joins [Offer Name] this week gets [Bonus] — free.
+
+Value: $[Value]
+Your cost: $0 (included with purchase)
+
+But only until [Day] at [Time].
+
+Here's what [Bonus] includes:
+• [Component 1]
+• [Component 2]
+• [Component 3]
+
+Get it here: [LINK]
+
+[Your name]
+```
+
+---
+
+### Referral Drive Template
+
+**To Your Audience:**
+```
+Subject: $[Amount] for every referral this month
+
+Hey [NAME],
+
+For the month of [Month], I'm offering $[Amount] to anyone who successfully refers someone to [Offer Name].
+
+Here's how it works:
+1. You connect me with someone who'd be a good fit
+2. They join [Offer Name]
+3. You get $[Amount] (PayPal, Venmo, or credit toward future purchase)
+
+No limit. Refer 5 people? That's $[5x Amount].
+
+Know someone who [problem your offer solves]?
+
+Just reply with their name and I'll take it from there.
+
+[Your name]
+```
+
+**To Existing Clients:**
+```
+Hey [NAME],
+
+Quick favor.
+
+I have a few spots open for [Offer Name] this month and I'm looking for people like you — [describe ideal client].
+
+Know anyone who might be a good fit?
+
+If you connect us and they join, I'll send you $[Amount] as a thank you.
+
+Just reply with their name/email and I'll reach out.
+
+[Your name]
+```
+
+---
+
+### Scholarship Promo Template
+
+**Announcement:**
+```
+Subject: Free spot in [Program Name] — apply now
+
+Hey [NAME],
+
+I'm giving away ONE free spot in [Program Name].
+
+No catch. Full access. Completely free.
+
+Here's why: I believe in this work, and I want to help someone who needs it but can't afford it right now.
+
+To apply, just reply and tell me:
+1. Why you want this
+2. What you'd do with it
+
+I'll pick the winner on [Date] and announce it here.
+
+Good luck.
+
+[Your name]
+```
+
+**Winner Announcement (to non-winners):**
+```
+Subject: About the scholarship...
+
+Hey [NAME],
+
+Thank you for applying for the [Program Name] scholarship.
+
+The winner was [Winner's First Name] — their story really moved me.
+
+You didn't win the free spot. But I want to offer you something:
+
+[X]% off [Program Name] as a thank you for applying.
+
+Use code: SCHOLARSHIP
+Expires: [Date]
+
+I appreciate you sharing your story with me.
+
+[Your name]
+```
+
+---
+
+### Cash Injection Promo Template (5-7 Day Campaign)
+
+**Day 1: Announcement**
+```
+Subject: Something special this week
+
+Hey [NAME],
+
+This week, I'm doing something I rarely do.
+
+For 7 days, [Offer Name] is available with [what makes it special — bonus, discount, limited spots].
+
+Why now? [Genuine reason — milestone, need cashflow, testing something, etc.]
+
+Here's the deal:
+• [What they get]
+• [The price/bonus]
+• [When it ends]
+
+This is real scarcity. Not fake "only 3 left" nonsense.
+
+[CTA LINK]
+
+More details coming tomorrow.
+
+[Your name]
+```
+
+**Day 3: Social Proof/Case Study**
+```
+Subject: How [Name] did it
+
+Hey [NAME],
+
+Quick story about why [Offer Name] works:
+
+[Client] came to me [their before state].
+
+After going through [Offer Name], they [result].
+
+The promo ends on [Date]. If you want results like [Client]:
+
+[CTA LINK]
+
+[Your name]
+```
+
+**Day 5: Objection Handler**
+```
+Subject: "But what if..."
+
+Hey [NAME],
+
+A few questions I've gotten about [Offer Name]:
+
+Q: [Common objection 1]
+A: [Your answer]
+
+Q: [Common objection 2]
+A: [Your answer]
+
+Q: [Common objection 3]
+A: [Your answer]
+
+Promo ends [Date]. If you've been on the fence:
+
+[CTA LINK]
+
+[Your name]
+```
+
+**Day 7: Final Day**
+```
+Subject: Last day
+
+Hey [NAME],
+
+The [Offer Name] promo ends tonight at midnight.
+
+After that:
+• [Bonus] goes away
+• [Price goes up / spots close / whatever the scarcity is]
+
+If you want in: [LINK]
+
+If not, no hard feelings. We'll talk soon.
+
+[Your name]
+```
+
+---
+
+### Deposit/Payment Plan Template
+
+**For Landing Pages:**
+```
+Not ready to pay in full? No problem.
+
+Secure your spot with just $[Deposit Amount] today.
+
+Pay the remaining $[Balance] in [Timeframe].
+
+Same access. Same results. Easier on your cash flow.
+
+[DEPOSIT BUTTON]
+```
+
+**For DMs/Emails:**
+```
+Hey [NAME],
+
+I know timing can be tricky with investments like this.
+
+If the full $[Price] feels like a lot right now, I can offer you a payment option:
+
+$[Deposit] today to secure your spot
+$[Balance] in [2 weeks / monthly / etc.]
+
+Same program, same access — just spread out.
+
+Let me know if that helps.
+
+[Your name]
+```
+
+---
+
 ## How To Use This
 
 1. **Start with the offer document** — Make sure your offer is clear
@@ -516,6 +887,7 @@ Patterns to note:
 4. **Build your messaging map** — One source of truth
 5. **Document clients as they come** — Update profiles with real data
 6. **Test headlines** — Use the formulas, track what works
+7. **Run promos strategically** — Use the Quick Cash templates when you need revenue
 
 ---
 
