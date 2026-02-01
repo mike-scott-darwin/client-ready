@@ -83,12 +83,13 @@ It's a 30-day sprint where I personally make sure you cross the finish line.
 ### Everything in the Self-Paced System ($97 value):
 
 - Complete $2K+/day funnel system
-- The Unfair Advantage Framework
+- Zone of Genius Extraction Framework
 - AI Landing Page Generator
 - Traffic Generation Playbook
 - A/B Testing Frameworks
 - Client Onboarding Templates
 - One-Click Campaign Templates
+- **Skool Community Access** — private support community with other clients
 
 ### Plus the Sprint Experience:
 
@@ -110,7 +111,7 @@ Bring your funnel, your copy, your ads. I'll tell you what's working and what's 
 
 ### Week 1: Extract & Validate
 - Complete your offer doc using the AI prompts
-- Identify your unfair advantage
+- Extract your zone of genius
 - **Checkpoint:** Offer doc done and reviewed
 
 ### Week 2: Build

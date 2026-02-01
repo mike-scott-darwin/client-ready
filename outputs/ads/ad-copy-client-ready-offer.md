@@ -1,4 +1,4 @@
-# Ad Copy Examples — Client Ready Offer ($17)
+# Ad Copy Examples — Client Ready Offer ($27)
 
 Generated: 2026-01-30
 Updated: 2026-01-31 (Landing page congruency pass)
@@ -31,13 +31,13 @@ Use these headlines across all ads. Meta shows the headline next to the CTA butt
 
 | Headline | Character Count |
 |----------|-----------------|
-| **From "I help everyone" to "I'm the only choice" — $17** | 49 |
-| **Extract your zone of genius in 15 minutes — $17** | 45 |
-| **New customers in 72 hours — $17** | 32 |
-| **Client Ready Offer — $17** | 24 |
-| **Stop second-guessing your offer — $17** | 37 |
+| **From "I help everyone" to "I'm the only choice" — $27** | 49 |
+| **Extract your zone of genius in 15 minutes — $27** | 45 |
+| **New customers in 72 hours — $27** | 32 |
+| **Client Ready Offer — $27** | 24 |
+| **Stop second-guessing your offer — $27** | 37 |
 
-**Recommended:** `From "I help everyone" to "I'm the only choice" — $17`
+**Recommended:** `From "I help everyone" to "I'm the only choice" — $27`
 
 (Matches landing page headline exactly)
 
@@ -45,10 +45,10 @@ Use these headlines across all ads. Meta shows the headline next to the CTA butt
 
 | Level | Headline |
 |-------|----------|
-| **Unaware** | Why your content isn't converting — $17 |
-| **Problem-Aware** | From "I help everyone" to "I'm the only choice" — $17 |
-| **Solution-Aware** | Extract your zone of genius in 15 min — $17 |
-| **Most Aware** | Client Ready Offer — get it now for $17 |
+| **Unaware** | Why your content isn't converting — $27 |
+| **Problem-Aware** | From "I help everyone" to "I'm the only choice" — $27 |
+| **Solution-Aware** | Extract your zone of genius in 15 min — $27 |
+| **Most Aware** | Client Ready Offer — get it now for $27 |
 
 ### Description (Below Headline)
 
@@ -90,7 +90,7 @@ No guessing. No ideal client worksheets. No pretending to be something you're no
 
 Just YOU — clarified. And new customers in 72 hours.
 
-$17 to go from "I help everyone with everything" to "I'm the only choice."
+$27 to go from "I help everyone with everything" to "I'm the only choice."
 
 👉 clientreadyoffer.com
 
@@ -118,7 +118,7 @@ Your story. Your transformation. Your lived experience.
 
 That's not a niche. That's a moat.
 
-$17. 15 minutes. New customers in 72 hours.
+$27. 15 minutes. New customers in 72 hours.
 
 👉 clientreadyoffer.com
 
@@ -150,7 +150,7 @@ It pulls out:
 
 Result? New customers in 72 hours — even if you've never ran ads or built a funnel.
 
-$17. No branding coach required.
+$27. No branding coach required.
 
 👉 clientreadyoffer.com
 
@@ -180,7 +180,7 @@ It's extracting your zone of genius — the thing that's actually true to who yo
 
 That's what the Client Ready Offer does. 15 minutes. AI does 90% of the work.
 
-$17 to stop feeling like a fraud and start getting customers who already want what you do.
+$27 to stop feeling like a fraud and start getting customers who already want what you do.
 
 👉 clientreadyoffer.com
 
@@ -234,7 +234,7 @@ DMs from strangers. "How do I work with you?" messages. New customers in 72 hour
 
 Not because I posted more. Because I finally knew what I was selling.
 
-$17 to extract yours in 15 minutes.
+$27 to extract yours in 15 minutes.
 
 👉 clientreadyoffer.com
 
@@ -261,9 +261,9 @@ Here's what I can tell you:
 → 15 minutes to extract your zone of genius
 → AI does 90% of the work
 → New customers in 72 hours (even without ads or a funnel)
-→ $17 — less than lunch
+→ $27 — less than lunch
 
-Worst case? You wasted $17 and learned what doesn't resonate.
+Worst case? You wasted $27 and learned what doesn't resonate.
 
 Best case? You go from "I help everyone with everything" to "I'm the only choice."
 
@@ -302,7 +302,7 @@ Send it to your warm list. Get sales. New customers in 72 hours.
 
 clientreadyoffer.com
 
-**Headline:** `Extract Your Zone of Genius — $17`
+**Headline:** `Extract Your Zone of Genius — $27`
 
 **Description:** `New customers in 72 hours. AI does 90% of the work.`
 
@@ -319,7 +319,7 @@ clientreadyoffer.com
 - Video training = value-first approach builds trust
 
 **Original Version (Pre-Congruency):**
-> Headline: "Discover Your Unfair Advantage $17"
+> Headline: "Discover Your Unfair Advantage $27"
 > CTA: "→ Discover Your Unfair Advantage"
 > Body used "unfair advantage" instead of "zone of genius"
 
@@ -345,13 +345,13 @@ That's the difference between guessing and knowing.
 
 New customers in 72 hours using extraction, not selection.
 
-$17. AI does 90% of the work.
+$27. AI does 90% of the work.
 
 → The Client Ready Offer
 
 clientreadyoffer.com
 
-**Headline:** `Extract Your Zone of Genius — $17`
+**Headline:** `Extract Your Zone of Genius — $27`
 
 **Description:** `New customers in 72 hours. No niching required.`
 
@@ -387,7 +387,7 @@ clientreadyoffer.com
 > 114 sales in 30 days. Here's what I learned.
 
 **Body:**
-One month ago I launched a $17 low-ticket offer.
+One month ago I launched a $27 low-ticket offer.
 
 114 sales later, here's what I know now:
 
@@ -403,7 +403,7 @@ Extracting your zone of genius first.
 
 That's what the Client Ready Offer does. 15 minutes. AI does 90% of the work.
 
-$17 to stop guessing and start knowing.
+$27 to stop guessing and start knowing.
 
 👉 clientreadyoffer.com
 
@@ -492,7 +492,7 @@ Meta's Andromeda algorithm rewards **messaging diversity**, not just creative di
 - Contrarian positioning ("worst advice", "backwards")
 - Specific timeframes (15 minutes, 72 hours)
 - Emotional pain points (imposter syndrome, wrong clients)
-- Low price anchor ($17)
+- Low price anchor ($27)
 - AI mechanism (modern, fast, effortless)
 - Landing page congruency ("zone of genius", "Client Ready Offer", "72 hours")
 
@@ -507,4 +507,4 @@ Meta's Andromeda algorithm rewards **messaging diversity**, not just creative di
 | Timeline | "15 minutes" | "15 minutes or less" | ✅ |
 | Outcome | "New customers in 72 hours" | "New customers in 72 hours" | ✅ |
 | Transformation | "I help everyone" → "I'm the only choice" | Same | ✅ |
-| Price | "$17" | "$17" | ✅ |
+| Price | "$27" | "$27" | ✅ |

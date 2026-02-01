@@ -211,11 +211,11 @@ It's not a course. It's a system. 5 prompts, 1 afternoon, done. No 47-page PDF. 
 
 *On the checkout page, they'll see:*
 
-**YES! Add the 24-Hour Launch Kit ($47)**
-Go from offer doc to live funnel in 24 hours. Includes done-for-you FB ad templates, AI landing page generator, and 5-minute setup checklist.
+**YES! Add Plug & Play Templates ($37)**
+Don't start from scratch. Complete offer document template (with filled example), landing page swipe files, 30-day evergreen email sequence, messaging maps, and copy-paste headlines. ~~$197~~ → $37
 
-**YES! Add the Plug & Play Funnel Pack ($37)**
-Steal my six-figure funnel. Copy-paste landing pages, 30-day email sequence, and 100+ offer ideas by niche.
+**YES! Add Traffic & Launch Kit ($67)**
+Know exactly how to get your first 10 paying customers. AI ad generator + proven ad creative currently running, targeting playbook, launch checklist, A/B testing framework, and "First 10 Buyers" roadmap. ~~$297~~ → $67
 
 ---
 
@@ -271,7 +271,7 @@ $27. One afternoon. Let's find out if your offer sells.
 
 ---
 
-**P.P.S.** — If you want to go faster, add the 24-Hour Launch Kit on the next page. It takes you from offer doc to live funnel in one day. But the $27 system is everything you need to validate. The upgrades just speed things up.
+**P.P.S.** — If you want to go faster, grab the order bumps on the checkout page. The templates reduce your work, the traffic kit shows you how to get buyers. But the $27 system is everything you need to validate. The upgrades just speed things up.
 
 ---
 
