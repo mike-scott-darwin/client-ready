@@ -1,7 +1,7 @@
 ---
 type: reference
 status: active
-date: 2026-01-19
+date: 2026-02-01
 ---
 
 # Classroom Resources
@@ -24,6 +24,16 @@ date: 2026-01-19
 | Landing Page Template | TBD | Swipeable landing page |
 | Email Sequence Templates | Google Doc | Welcome + nurture sequences |
 
+### From Phase 2.6: Daily Email Rhythm
+
+| Resource | Format | Description |
+|----------|--------|-------------|
+| 10-Day Welcome Sequence Template | Google Doc | Complete 10-day automation with subject lines |
+| Daily Email Framework (1-pager) | PDF | Story → Offer → CTA structure |
+| Weekly Email Rotation Planner | Spreadsheet | Which offer to pitch on which day |
+| Install Offer Recovery Sequence | Google Doc | 3-email sequence for missed bumps |
+| OTO Recovery Sequence | Google Doc | 3-email sequence for missed Sprint/DFY |
+
 ### From Phase 3: Traffic & Scaling
 
 | Resource | Format | Description |
@@ -31,6 +41,14 @@ date: 2026-01-19
 | Content Calendar Template | Spreadsheet | Weekly posting plan |
 | Traffic Playbook | PDF | Step-by-step traffic guide |
 | Pricing Calculator | Spreadsheet | When to raise prices |
+
+### From Phase 3.8: No-Phone Offers
+
+| Resource | Format | Description |
+|----------|--------|-------------|
+| No-Phone Offer Checklist | PDF | 4 principles evaluation checklist |
+| No-Phone Offer Page Template | Google Doc | Complete sales page structure |
+| Call vs No-Call Decision Framework | PDF | When to use each approach |
 
 ### Six Figure Swipe File
 
@@ -54,3 +72,13 @@ _Resources to create:_
 - [ ] Video walkthroughs for each template
 - [ ] Canva templates for social
 - [ ] Notion dashboard (optional)
+
+_New resources needed (from 2026-02-01 offer update):_
+- [ ] 10-Day Welcome Sequence Template
+- [ ] Daily Email Framework (1-pager)
+- [ ] Weekly Email Rotation Planner
+- [ ] Install Offer Recovery Sequence
+- [ ] OTO Recovery Sequence
+- [ ] No-Phone Offer Checklist
+- [ ] No-Phone Offer Page Template
+- [ ] Call vs No-Call Decision Framework
