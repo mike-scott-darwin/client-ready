@@ -20,15 +20,9 @@ linked_research:
 
 ---
 
-**YES! Add the Plug & Play Templates — $37**
+**Yes, include the "Never Start From Scratch" Template Pack with my order!**
 
-While other coaches stare at blank pages for days wondering what to write — you'll plug in your offer details and be done in an afternoon.
-
-Get my complete template pack: the exact offer document I use (with filled example), landing page swipe files, 30-day email sequence, and copy-paste headlines that convert.
-
-Don't build from scratch. Build from what's already working.
-
-**~~$197~~ → $37 (one-time)**
+**ONE-TIME OFFER — ONLY $37:** Get my complete template pack: 1 offer document template (with filled example), 3 proven landing page layouts, 30-day email sequence (pre-written), and 25+ copy-paste headlines that convert. Simply open the template, fill in your offer details, and you're done — in an afternoon instead of a week. These are the same templates I use for my own funnels. Not available anywhere else. (This $197 bundle is only $37 on this page — grab it now before you leave.)
 
 ☐ Add to my order
 

@@ -20,15 +20,9 @@ linked_research:
 
 ---
 
-**YES! Add the Traffic & Launch Kit — $67**
+**Yes, I Want the "First 10 Buyers" Roadmap + Complete Ad System!**
 
-While other coaches spend 2 hours creating content that gets 12 likes — you'll know exactly how to get your first 10 paying customers.
-
-This kit gives you: the AI ad generator I use, proven ad creative currently running, targeting playbook, day-by-day launch checklist, and my "First 10 Buyers" roadmap.
-
-Stop being a backup dancer for social media algorithms. Start getting buyers.
-
-**~~$297~~ → $67 (one-time)**
+**ONE-TIME OFFER — ONLY $67:** Get the exact system to land your first 10 paying customers: 1 AI ad generator, 5+ proven ad creatives (currently running), complete targeting playbook, 7-day launch checklist, and A/B testing framework. Stop posting content for 12 months hoping someone buys. This is how you get buyers on demand — whether you want to be a content creator or not. I charge $297 for this kit normally. You're getting it for $67 only because you're on this page right now. Don't leave without it.
 
 ☐ Add to my order
 
