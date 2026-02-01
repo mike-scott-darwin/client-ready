@@ -20,6 +20,7 @@ Based on: Cat Howell ad framework analysis
 | **Ad 8 (Red Ocean)** | Solution-Aware | Cold traffic — **CONVERTING** |
 | **Ad 9 (Anti-Niching)** | Problem-Aware | Cold traffic — **CONVERTING** ⚠️ |
 | **Ad 10 (Lessons Learned)** | Solution-Aware | Authority / Social proof |
+| **Ad 11 (Dissociation Trap)** | Problem-Aware | Cold traffic — experienced coaches |
 
 ---
 
@@ -424,6 +425,73 @@ $27 to stop guessing and start knowing.
 
 ---
 
+## Ad 11: Dissociation Trap (Experienced Coach Hook)
+
+**Status:** New — targets coaches who are executing but feeling nothing
+
+**Hook:**
+> You're doing everything right. Why does it feel so empty?
+
+**Body:**
+You post content. You take calls. You deliver. The machine runs.
+
+But somewhere along the way, you stopped feeling it.
+
+You get the client win and think "yeah, of course."
+
+You hit the revenue goal and feel... nothing.
+
+Here's what happened:
+
+You outsourced your thinking. To templates. To gurus. To "what the market wants."
+
+And now you're executing someone else's playbook. Brilliantly. But it's not yours.
+
+That's not burnout. That's dissociation.
+
+You built a business you can't feel anymore.
+
+**The fix isn't better tactics. It's reconnection.**
+
+Back to what YOU actually do. What YOU actually care about. The transformation YOU'VE actually lived.
+
+That's what the Client Ready Offer extracts. Not a niche you picked because it "made sense." Your zone of genius — the thing that's actually true.
+
+$27. 15 minutes. Reconnect before you burn it all down.
+
+👉 clientreadyoffer.com
+
+**Headline:** `Stop Executing. Start Feeling. — $27`
+
+**Description:** `Extract your zone of genius. Build something you won't abandon.`
+
+**Creative:** Talking head (slower, reflective delivery) or static image with "You're doing everything right. Why does it feel so empty?" text
+
+**Awareness Level:** Problem-Aware — they know something's wrong but think it's burnout, not misalignment
+
+**Who This Is For:**
+- 2-3+ year coaches
+- Have some success (clients, revenue)
+- Feel hollow despite "doing everything right"
+- Tired of executing playbooks that don't fit
+- Starting to question if this is what they signed up for
+
+**What Makes This Work:**
+- Opens with validation ("doing everything right") then twist ("why empty?")
+- Names the feeling they can't articulate (dissociation)
+- Reframes burnout as misalignment
+- "Someone else's playbook" = their exact situation
+- "Reconnect before you burn it all down" = urgency without hype
+- Speaks to experienced coaches, not beginners
+- Hormozi-inspired insight gives depth
+
+**Pairs With:**
+- "You can't grow into pain" philosophy
+- Imposter syndrome angle (Ad 4)
+- Anti-niching angle (Ad 9)
+
+---
+
 ## Creative Guidelines (What's Working Now)
 
 ### Image Types Crushing It (January 2026)
@@ -469,7 +537,7 @@ Meta's Andromeda algorithm rewards **messaging diversity**, not just creative di
 3. Pair each with different creative types
 4. Let Andromeda distribute budget across winners
 
-**Current setup:** 10 ads (Ad 1-10) covering different angles + awareness levels = good diversity
+**Current setup:** 11 ads (Ad 1-11) covering different angles + awareness levels = good diversity
 
 ---
 
@@ -477,12 +545,13 @@ Meta's Andromeda algorithm rewards **messaging diversity**, not just creative di
 
 1. **Ad 8 (Red Ocean)** — Converting, use as control
 2. **Ad 9 (Anti-Niching)** — Converting, but needs image update (compliance)
-3. **Ad 10 (Lessons Learned)** — New, authority angle with proof (114 sales)
-4. **Ad 4 (Imposter)** — Strongest emotional hook, test against controls
-5. **Ad 3 (Results)** — Clearest outcome promise (72 hours)
-6. **Ad 5 (Comment CTA)** — Engagement boost for algorithm
-7. **Ad 1 (Story)** — Brand building / retargeting
-8. **Ad 2 (Contrarian)** — Awareness / cold traffic
+3. **Ad 11 (Dissociation Trap)** — New, targets experienced coaches feeling hollow
+4. **Ad 10 (Lessons Learned)** — Authority angle with proof (114 sales)
+5. **Ad 4 (Imposter)** — Strongest emotional hook, test against controls
+6. **Ad 3 (Results)** — Clearest outcome promise (72 hours)
+7. **Ad 5 (Comment CTA)** — Engagement boost for algorithm
+8. **Ad 1 (Story)** — Brand building / retargeting
+9. **Ad 2 (Contrarian)** — Awareness / cold traffic
 
 ---
 
