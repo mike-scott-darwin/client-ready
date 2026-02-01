@@ -8,10 +8,27 @@ date: 2026-02-01
 
 ## Overview
 
-The High Ticket Playbook classroom follows a 3-phase structure:
-**Extract → Build → Launch**
+The Client Ready classroom follows the Client Ready Method:
+**Extract → Validate → Build → Automate**
 
-All content available in free Skool community. Some modules drip over 72 hours.
+This maps to 3 phases in the classroom:
+- **Phase 1: Extract** — Find your zone of genius, define ideal client, build offer document
+- **Phase 2: Build** — Install funnel, set up email ascension system
+- **Phase 3: Launch** — Traffic, scaling, No-Phone high-ticket offers
+
+All content available in free Skool community. Core modules drip over 72 hours.
+
+**Value Ladder Reference:**
+| Tier | Product | Price |
+|------|---------|-------|
+| Front-end | Client Ready Offer System | $27 |
+| Bump 1 | Quick Win DM Scripts | $17 |
+| Bump 2 | Plug & Play Templates | $37 |
+| Bump 3 | Traffic & Launch Kit | $67 |
+| OTO 1a | Self-Paced Sprint | $97 |
+| OTO 1b | 4-Week Sprint | $297 |
+| OTO 2 | Done-For-You Funnel | $397 |
+| Backend | Client Ready Accelerator | $5,000 |
 
 ---
 
@@ -22,10 +39,15 @@ All content available in free Skool community. Some modules drip over 72 hours.
 **Purpose:** Orientation, expectations, how to use the community
 
 **Content:**
-- Community guidelines
-- How the phases work
-- Where to start based on their situation
-- How to get the most value
+- Community guidelines and how to get help
+- The Client Ready Method overview (Extract → Validate → Build → Automate)
+- Where to start based on your situation:
+  - **No offer yet?** → Start with Phase 1 (Extraction)
+  - **Have an offer, no funnel?** → Start with Phase 2 (Build)
+  - **Have a funnel, need traffic?** → Start with Phase 3 (Launch)
+- How the value ladder works ($27 → $5K path)
+- What's included at each tier (Self-Paced vs Sprint vs DFY vs Accelerator)
+- The philosophy: "You can't grow into pain" — alignment before scale
 
 ---
 
@@ -33,16 +55,21 @@ All content available in free Skool community. Some modules drip over 72 hours.
 
 **Title:** Phase 1: Client Ready Offer Extraction
 **Subtitle:** Extract
-**Outcome:** Member has a complete, validated offer document
+**Outcome:** Member has a complete, validated offer document ready to sell
+
+**The Promise:** Validate your $5K+ offer before you build anything — in one afternoon.
 
 **Content includes:**
-- Zone of genius extraction (AI prompts)
-- Ideal client definition
+- Zone of genius extraction using the 5 AI prompts from the $27 system
+- Ideal client definition (the "Ever Evolving Avatar")
 - Pain points and solutions mapping
 - Story and proof elements
 - Complete offer document assembly
+- Messaging map for consistent communication
 
-**Key deliverable:** Google Doc offer ready to send to warm audience
+**Key deliverable:** Complete offer document ready to test with warm audience
+
+**What this enables:** You can start selling TODAY — before building any funnel. DM scripts ($17 bump) help you start conversations immediately.
 
 **Drip:** Available after 72 hours
 
@@ -52,16 +79,25 @@ All content available in free Skool community. Some modules drip over 72 hours.
 
 **Title:** Phase 2: 24 HR Funnel Installation System
 **Subtitle:** Build
-**Outcome:** Member has a working funnel installed
+**Outcome:** Member has a working funnel installed with email ascension system
+
+**The Promise:** Don't start from scratch — plug in your offer and go.
 
 **Content includes:**
-- Funnel architecture overview
-- Landing page setup
-- Email sequence
+- Funnel architecture: $27 front-end → bumps → OTOs → email ascension → backend
+- Landing page setup using AI Landing Page Generator
+- Order bumps: DM Scripts ($17), Templates ($37), Traffic Kit ($67)
 - Checkout/payment integration
-- Automation setup
+- 10-day welcome sequence automation
+- Daily email rhythm system
 
-**Key deliverable:** Complete funnel live and accepting leads/payments
+**Key deliverable:** Complete funnel live and accepting payments, with email system turning buyers into repeat customers
+
+**Products that accelerate this phase:**
+- $37 Plug & Play Templates — Landing page swipes, email sequences
+- $97 Self-Paced — Complete funnel system, work at your own speed
+- $297 Sprint — 4-week implementation with live support
+- $397 DFY — Michael builds it for you in 30 days
 
 **Drip:** Available after 72 hours
 
@@ -71,16 +107,24 @@ All content available in free Skool community. Some modules drip over 72 hours.
 
 **Title:** Phase 3: Traffic and Scaling Playbook
 **Subtitle:** Launch
-**Outcome:** Member knows how to drive traffic and scale
+**Outcome:** Member has traffic flowing and understands the path to $5K+ sales
+
+**The Promise:** Know exactly how to get your first 10 paying customers — then scale to No-Phone high-ticket.
 
 **Content includes:**
-- Warm audience activation
-- Content strategy
-- Paid traffic basics (when ready)
-- Scaling from low-ticket to high-ticket
-- When to raise prices
+- Warm audience activation (before you spend on ads)
+- Paid traffic fundamentals for Meta/Facebook/Instagram
+- The metrics that matter: 1% CTR = good, 2% = great, 3% = exceptional
+- Testing offers: 150-200 unique outbound clicks before judging
+- Scaling from $27 buyers to $5K Accelerator clients
+- No-Phone Offers: selling $2K-$5K without sales calls
 
-**Key deliverable:** Traffic plan and first campaign launched
+**Key deliverable:** First campaign launched, traffic flowing, path to high-ticket clear
+
+**Products that accelerate this phase:**
+- $67 Traffic & Launch Kit — Ad generator, targeting playbook, launch checklist
+- $297 Sprint — Weekly calls, hot seat feedback on campaigns
+- $5,000 Accelerator — Done-with-you funnel + traffic in 8 weeks
 
 **Drip:** Available after 72 hours
 
@@ -106,14 +150,20 @@ All content available in free Skool community. Some modules drip over 72 hours.
 
 **Title:** Six Figure Swipe File
 **Subtitle:** 6 Figure Swipe File
-**Purpose:** Templates and examples to model
+**Purpose:** Templates and examples to model — the "don't start from scratch" resource
 
 **Content includes:**
-- Offer document examples
-- Email templates
-- Landing page swipes
-- Sales conversation frameworks
-- Pricing examples
+- Offer document examples (completed Client Ready extractions)
+- Landing page swipes (proven layouts from the $37 Templates)
+- Email templates:
+  - 10-day welcome sequence
+  - Daily email examples (story → offer → CTA)
+  - Install offer recovery emails
+  - OTO recovery emails
+- DM scripts (the 5 scripts from $17 bump)
+- Ad creative examples (hooks, images, copy)
+- No-Phone Offer page examples
+- Pricing and positioning examples across niches
 
 ---
 
@@ -144,25 +194,52 @@ All content available in free Skool community. Some modules drip over 72 hours.
 
 #### 1.2 AI Offer Extraction
 
-**What it covers:** Using AI prompts to rapidly extract and structure your offer components.
+**What it covers:** Using the 5 AI prompts from the $27 Client Ready Offer System to rapidly extract and structure your offer components.
 
-**Outcome:** Complete offer document ready for validation.
+**What you'll learn:**
+- Prompt 1: Zone of Genius Extraction — What you do that nobody else does
+- Prompt 2: Ideal Client Definition — Who specifically benefits from your expertise
+- Prompt 3: Pain Points Mapping — The problems they're desperate to solve
+- Prompt 4: Story Elements — Your credibility and transformation narrative
+- Prompt 5: Offer Assembly — Putting it all together into a sellable document
+
+**Benefit:** Skip months of "figuring out your offer." The prompts extract what's already in your head and structure it for selling.
+
+**Outcome:** Complete offer document ready to test with warm audience — in one afternoon.
 
 ---
 
 #### 1.3 Ever Evolving Avatar
 
-**What it covers:** Defining your ideal client in a way that grows with your business.
+**What it covers:** Defining your ideal client in a way that grows with your business — not a static "avatar" that becomes outdated.
 
-**Outcome:** Clear avatar definition that informs all messaging.
+**What you'll learn:**
+- Why traditional avatars fail (too demographic, too static)
+- The "real people, not personas" approach
+- How to document actual clients as they come in
+- Updating your avatar based on who actually buys
+- The signals that you're attracting the wrong people
+
+**Benefit:** Your ideal client definition improves with every sale instead of being a guess you made on day one.
+
+**Outcome:** Living avatar document that evolves as your business grows.
 
 ---
 
 #### 1.4 The Messaging Map Generator
 
-**What it covers:** Creating consistent messaging across all touchpoints.
+**What it covers:** Creating consistent messaging across all touchpoints — DMs, landing pages, emails, ads.
 
-**Outcome:** Messaging framework for content, ads, and sales conversations.
+**What you'll learn:**
+- The core message components (problem, solution, transformation, proof)
+- How to translate your offer into different formats
+- The "one pizza, get pizza" principle — headline congruency across touchpoints
+- Copy-paste headlines and hooks (from the $37 Templates bump)
+- Testing which messages resonate
+
+**Benefit:** Stop reinventing your messaging for every piece of content. One map, infinite applications.
+
+**Outcome:** Messaging framework you can reference for any content, ad, or conversation.
 
 ---
 
@@ -193,33 +270,71 @@ All content available in free Skool community. Some modules drip over 72 hours.
 
 #### 2.2 AI Landing Page Copy Generator
 
-**What it covers:** Using AI to generate high-converting landing page copy.
+**What it covers:** Using AI to generate high-converting landing page copy that matches your offer document.
 
-**Outcome:** Complete landing page copy ready to deploy.
+**What you'll learn:**
+- The landing page structure that converts (headline → problem → solution → proof → offer → CTA)
+- How to feed your offer document to AI for instant copy generation
+- The "one pizza, get pizza" principle — headline must match ad headline
+- Swipe files from proven layouts (included in $37 Templates)
+- Testing headlines and measuring what works
+
+**Benefit:** Stop staring at blank pages. Your offer document becomes landing page copy in minutes.
+
+**Outcome:** Complete landing page copy ready to deploy — not generic, specifically for YOUR offer.
 
 ---
 
 #### 2.3 The Order Bump Formula
 
-**What it covers:** Adding order bumps to increase average order value.
+**What it covers:** Adding the three order bumps that increase AOV from $27 to $148 (target: $120-150).
 
-**Outcome:** Order bump offer designed and ready to add to checkout.
+**What you'll learn:**
+- The three Client Ready bumps and why they work:
+  - **Bump 1: Quick Win DM Scripts ($17)** — Immediate action, start conversations today
+  - **Bump 2: Plug & Play Templates ($37)** — Skip the blank page problem
+  - **Bump 3: Traffic & Launch Kit ($67)** — Know how to get your first 10 buyers
+- Bump psychology: why adding 3 bumps can 2x conversion (Cat Howell data)
+- Placement and copy for each bump
+- How to create bumps for YOUR value ladder
+
+**Benefit:** Turn a $27 sale into a $148 sale without any extra traffic.
+
+**Outcome:** Three order bumps designed, written, and added to your checkout.
 
 ---
 
 #### 2.4 Checkout Page Customization
 
-**What it covers:** Optimizing your checkout page for conversions.
+**What it covers:** Optimizing your checkout page for conversions — where most coaches lose sales.
 
-**Outcome:** Checkout page configured and tested.
+**What you'll learn:**
+- Checkout page anatomy (trust elements, bump placement, payment options)
+- Reducing friction: fewer fields, clear pricing, no surprises
+- Mobile optimization (most traffic is mobile)
+- Payment plan options and when to offer them
+- Post-purchase upsell flow (OTO 1 → OTO 2)
+
+**Benefit:** Stop losing sales at the finish line. A clean checkout converts.
+
+**Outcome:** Checkout page configured, bumps added, tested on mobile.
 
 ---
 
 #### 2.5 Rapid Product Creation
 
-**What it covers:** Creating your digital product quickly without perfectionism.
+**What it covers:** Creating your digital product quickly without perfectionism — the $27 front-end and any bumps.
 
-**Outcome:** Product created and ready for delivery.
+**What you'll learn:**
+- The "good enough to ship" standard — what actually matters
+- Product formats: PDF guide + AI prompts (like the $27 system), video training, templates
+- Using AI to accelerate creation (not replace your expertise)
+- Delivery setup: where to host, how to grant access
+- The principle: solve ONE problem completely, don't solve everything partially
+
+**Benefit:** Ship in days, not months. Perfectionism is the enemy of revenue.
+
+**Outcome:** Front-end product created and ready for delivery — plus any bump products.
 
 ---
 
@@ -314,57 +429,120 @@ All content available in free Skool community. Some modules drip over 72 hours.
 
 #### 3.1 Campaign Foundation Setup
 
-**What it covers:** Setting up the foundational elements for your ad campaigns.
+**What it covers:** Setting up the foundational elements for your Meta ad campaigns — before you spend a dollar.
 
-**Outcome:** Ad account and tracking properly configured.
+**What you'll learn:**
+- Business Manager and Ad Account setup
+- Pixel installation and event tracking
+- Conversion API setup for iOS14+ accuracy
+- Payment method and spending limits
+- The compliance basics (what gets accounts banned)
+
+**Benefit:** Don't learn the hard way. Proper setup prevents account issues and tracking problems.
+
+**Outcome:** Ad account properly configured, pixel firing, ready to run campaigns.
 
 ---
 
 #### 3.2 Triple Hook Method
 
-**What it covers:** Creating hooks that stop the scroll and drive engagement.
+**What it covers:** Creating hooks that stop the scroll — the first 3 seconds that determine if your ad gets watched.
 
-**Outcome:** Multiple hook variations ready for testing.
+**What you'll learn:**
+- The three hook types: Question, Statement, Pattern Interrupt
+- How to test multiple hooks on the same body copy
+- The "one pizza, get pizza" rule — ad headline must match landing page
+- Hook frameworks from the $67 Traffic Kit
+- Metrics: what CTR tells you about your hooks (1% good, 2% great, 3% exceptional)
+
+**Benefit:** Stop wasting money on ads nobody watches. Hooks are the highest-leverage variable.
+
+**Outcome:** 3-5 hook variations ready to test on your first campaign.
 
 ---
 
 #### 3.3 Image Creative Strategy
 
-**What it covers:** Designing ad images that convert.
+**What it covers:** Designing ad images that convert for coaches and service providers.
 
-**Outcome:** Image creative templates and examples.
+**What you'll learn:**
+- Image types that work: face shots, text overlays, before/after, testimonial screenshots
+- The "ugly ad" phenomenon — why polished doesn't always win
+- Tools: Canva templates, AI image generation
+- Mobile-first design (where 90% of your traffic is)
+- A/B testing creative: when to kill, when to scale
+
+**Benefit:** Stop guessing what images work. Test systematically.
+
+**Outcome:** 3-5 image creatives ready for testing.
 
 ---
 
 #### 3.4 Audience Targeting Strategy
 
-**What it covers:** Finding and targeting your ideal buyers on Meta.
+**What it covers:** Finding and targeting your ideal buyers on Meta — without wasting budget on the wrong people.
 
-**Outcome:** Audience targeting plan with specific audiences to test.
+**What you'll learn:**
+- Interest-based targeting: finding your audience's "watering holes"
+- Lookalike audiences: when you have enough data
+- Broad targeting: when and why it works
+- Retargeting: people who visited but didn't buy
+- The targeting playbook from the $67 Traffic Kit
+
+**Benefit:** Spend money reaching buyers, not browsers.
+
+**Outcome:** 3-5 audience targets ready to test.
 
 ---
 
 #### 3.5 Campaign Launch Structure
 
-**What it covers:** How to structure campaigns for testing and scaling.
+**What it covers:** How to structure campaigns for testing and scaling — the CBO/ABO debate and beyond.
 
-**Outcome:** Campaign structure ready to launch.
+**What you'll learn:**
+- Campaign structure for testing (multiple ad sets, controlled variables)
+- Budget allocation: how much to spend on testing vs. scaling
+- The 150-200 click rule — don't judge your offer until you have enough data
+- When to use CBO vs ABO
+- Naming conventions so you know what's what
+
+**Benefit:** Stop randomly launching ads. Structure creates clarity.
+
+**Outcome:** First campaign structured and ready to launch.
 
 ---
 
 #### 3.6 Daily Management/Optimisation
 
-**What it covers:** Day-to-day management and optimization of running campaigns.
+**What it covers:** Day-to-day management and optimization of running campaigns — the 15-minute daily routine.
 
-**Outcome:** Daily checklist and optimization framework.
+**What you'll learn:**
+- The daily check: what to look at, what to ignore
+- When to kill an ad (and when to let it run)
+- Budget scaling: horizontal vs. vertical
+- The metrics that matter: CTR, CPC, CPM, CPA, ROAS
+- The weekly review: what to optimize
+
+**Benefit:** Stop obsessing over your ads manager. Know what actually matters.
+
+**Outcome:** Daily and weekly optimization checklist.
 
 ---
 
-#### 3.7 Advance Selling Strategies
+#### 3.7 Advanced Selling Strategies
 
-**What it covers:** Advanced techniques for scaling and maximizing results.
+**What it covers:** Advanced techniques for scaling beyond initial validation — from $27 buyers to $5K clients.
 
-**Outcome:** Playbook for scaling beyond initial validation.
+**What you'll learn:**
+- The ascension path: $27 → bumps → Sprint → DFY → Accelerator
+- Using email to warm up to higher tiers (Daily Email Rhythm)
+- Retargeting buyers with higher-tier offers
+- When to introduce the $5K Accelerator
+- The math: how many $27 buyers to support one $5K sale
+
+**Benefit:** Your funnel isn't just about the front-end. The backend is where the profit is.
+
+**Outcome:** Clear understanding of the path from first sale to high-ticket client.
 
 ---
 
@@ -451,14 +629,34 @@ All content available in free Skool community. Some modules drip over 72 hours.
 
 ### Bonus: Watch Me Launch
 
-Real-world walkthroughs showing the system in action.
+Real-world walkthroughs showing the Client Ready system in action — not theory, actual builds.
 
 #### Low Ticket Validation Funnel
 
-**What it covers:** Complete walkthrough of building a low-ticket validation funnel from scratch.
+**What it covers:** Complete walkthrough of building the $27 Client Ready funnel from scratch.
+
+**What you'll see:**
+- Offer extraction using the 5 AI prompts
+- Landing page build (copy + design)
+- Order bump setup ($17, $37, $67)
+- Checkout configuration
+- OTO pages (Sprint + DFY)
+- Email automation setup
+
+**Outcome:** You see exactly how a complete funnel comes together.
 
 ---
 
 #### Meta Ads Traffic Setup
 
-**What it covers:** Step-by-step Meta Ads setup for driving traffic to your funnel.
+**What it covers:** Step-by-step Meta Ads setup — from zero to first campaign running.
+
+**What you'll see:**
+- Account setup and pixel installation
+- First campaign structure
+- Hook and creative creation
+- Audience selection
+- Launch and initial optimization
+- Real metrics and decision-making
+
+**Outcome:** You see the exact process, not just the theory.
