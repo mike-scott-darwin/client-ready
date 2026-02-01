@@ -4,6 +4,7 @@ status: draft
 date: 2026-01-25
 product: OTO 1 - Client Ready Sprint
 format: Landing Page Copy
+notes: New positioning per Miles Stutz recommendation - reframe $37/mo subscription as $297 one-time sprint
 ---
 
 # OTO 1: The Client Ready Sprint - Landing Page Copy

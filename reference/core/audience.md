@@ -1,22 +1,23 @@
 ---
 type: reference
 status: active
-date: 2026-01-25
-updated_from: 2026-01-19
+date: 2026-01-27
+updated_from: 2026-01-25
 ---
 
 # Audience
 
 ## Primary Audience
 
-**Who:** Coaches and service providers who want to sell high-ticket offers ($5K+) but need to validate before they build
+**Who:** People in transition — 9-to-5ers with real expertise who want out, but not into another grind
 
 **Specifics:**
-- May still have a 9-to-5 (that's okay — Michael won't tell them to quit)
-- Have expertise/experience but haven't packaged it into a clear, validated offer
-- Overwhelmed by "build a course" or "scale with ads" advice — not ready for that yet
-- Want a practical, engineering-minded approach — not guru fluff
-- Need to know their offer works before investing in infrastructure
+- Still have a 9-to-5 (that's okay — Michael won't tell them to quit)
+- Have expertise from their career they can monetize
+- Want freedom, not just income — don't want to trade one grind for another
+- Probably in year 2-3 of the search — bought courses, tried content, starting to wonder if the gurus lied
+- Skeptical of "scale to $50K months" promises — looking for sustainable, not explosive
+- Need someone to tell them: the problem isn't you, it's building something misaligned
 
 ## Demographics
 
@@ -30,17 +31,17 @@ updated_from: 2026-01-19
 
 ## The 3am Worry
 
-"I know I can help people, but I don't know if anyone will actually pay for this. What if I spend months building a funnel and nobody buys? Everyone else seems to have it figured out. What if I'm not cut out for this?"
+"I've been at this for two years. I've bought courses. I've posted content. Nothing's working. Everyone else seems to have it figured out. What if the gurus lied? What if I'm just not cut out for this?"
 
 ## Pain Points
 
-1. **Unclear offer** — Can't articulate what they sell in a way that makes people buy
-2. **Validation anxiety** — Afraid to put the offer out there and find out it doesn't work
-3. **Wasted effort** — Built (or almost built) infrastructure for an offer that didn't sell
-4. **No funnel** — Trading time for scattered calls, no system to attract clients
-5. **Overthinking** — Stuck perfecting instead of testing
-6. **Wrong advice** — Told to quit job, build course, run ads — none of it fits their stage
-7. **Imposter syndrome** — Feel like they need more credentials before charging premium
+1. **The search** — Years of trying different approaches, nothing quite fits
+2. **The content merry-go-round** — Posting for months, getting likes, nobody buying
+3. **The grind trap** — Left 9-to-5 to escape, now working 60 hours on a coaching business with worse benefits
+4. **Misaligned offers** — Built things that made money but hurt to show up for
+5. **Validation anxiety** — Afraid to put the offer out and find out it doesn't work
+6. **Wrong advice** — Told to hustle harder, scale faster, push through the pain
+7. **Starting to doubt** — Wondering if the problem is them (it's not — it's building something misaligned)
 
 ## What They've Tried
 
@@ -54,21 +55,20 @@ updated_from: 2026-01-19
 
 ## Dream Outcome
 
-- **Validation:** Know the offer works before building infrastructure
-- **Clarity:** Know exactly what they offer and who it's for
-- **Confidence:** Can charge $5K+ because it's been tested with real buyers
-- **System:** Have a funnel that brings in leads without constant hustle
-- **Freedom:** Build the coaching business alongside their life (not instead of it)
+- **Alignment:** An offer that fits who they actually are — something they won't abandon
+- **Sustainability:** A business they can show up to without white-knuckling every day
+- **Automation:** Paid traffic + funnel that works while they sleep
+- **Freedom:** Business built around their life, not life built around business
+- **End of the search:** Finally found the thing that works AND feels right
 
 ## Why They Trust Michael
 
-- He won't tell them to quit their 9-to-5 (practical, not idealistic)
+- He's been in the search for 7+ years — he knows what year 2-3 feels like
+- He won't tell them to quit their 9-to-5 or hustle harder
+- "You can't grow into pain" — he believes alignment matters more than scale
+- Paid traffic focus — no content merry-go-round
 - Validation-first — test before building, not build then hope
-- Engineering approach — test, validate, then build infrastructure
-- No fluff, no 47-page guides — clear and actionable
-- Uses AI to speed up the process (modern, efficient)
-- Understands the "stuck in your head" problem
-- Understands the fear of building something nobody wants
+- Understands that the problem isn't them — it's building something misaligned
 
 ## Who This is NOT For
 
