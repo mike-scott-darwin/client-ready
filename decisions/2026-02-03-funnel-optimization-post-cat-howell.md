@@ -4,6 +4,7 @@ status: active
 date: 2026-02-03
 linked_research:
   - research/2026-02-03-cat-howell-hotseat-scaling.md
+  - research/2026-02-03-cat-howell-low-ticket-ads-course.md
 ---
 
 # Funnel Optimization — Post Cat Howell Hot Seat
@@ -258,14 +259,206 @@ When we hit that threshold:
 
 ---
 
+## Decision 7: Campaign Structure
+
+### Research Summary (Low Ticket Ads Course)
+
+Cat's 2025 campaign setup has changed dramatically from previous years:
+
+> "We are no longer running ads this way. The algorithm nowadays is really good at finding your ideal targeting and we don't really use lookalikes anymore or interest-based targeting."
+
+**Old way (don't do this):**
+- Separate ad sets for TOF/MOF/BOF
+- Interest-based and lookalike targeting
+- Ad set budgets
+- Retargeting campaigns
+
+**New way:**
+- One ad set with Advantage Plus targeting
+- Campaign Budget Optimization (CBO)
+- All creative in one ad set
+- Target only by country (US, UK, CA, AU, NZ)
+- Let algorithm find audience through creative
+
+### Decision
+
+**Use Cat's 2025 campaign structure.**
+
+**Setup:**
+1. Sales objective
+2. Campaign Budget Optimization enabled
+3. One ad set per campaign
+4. Advantage Plus targeting (countries only — no interests, no lookalikes)
+5. Website only (NOT "Website and Calls")
+6. Purchase as conversion event
+7. Turn OFF Advantage+ Creative enhancements
+8. Turn OFF site links
+9. "Learn More" CTA
+
+**Budget:Ads ratio:**
+
+| Daily Budget | Max Ads |
+|--------------|---------|
+| $25/day | 3-4 ads |
+| $50/day | 5-6 ads |
+| $100/day | 8-10 ads |
+
+> "If you have 19 ads in your ad set with $25/day budget, you might be waiting a week and a half for a sale."
+
+---
+
+## Decision 8: Awareness Level Creative Strategy
+
+### Research Summary
+
+> "The biggest mistake I'm seeing is people think diversity of creative means different formats. It's not about that. What Facebook wants is messaging across different levels of customer awareness."
+
+**Why ads die after Week 1:**
+Facebook shows ads to warm audience first (aware/solution aware). Once exhausted, it shifts to cold (problem aware/unaware). Without creative for all levels, ads tank.
+
+### The Framework
+
+| Level | Who They Are | Creative Approach |
+|-------|--------------|-------------------|
+| **Aware** | Know you, know your product | Direct: "$27 — Get the System Now" |
+| **Solution Aware** | Shopping solutions | "Why this beats courses/coaches/content" |
+| **Problem Aware** | Know they're stuck | "Stuck in the search? Here's why..." |
+| **Unaware** | Think struggle is normal | "You've been told it takes years..." |
+
+### Decision
+
+**Create minimum 4 ads — one per awareness level.**
+
+**For Client Ready:**
+
+1. **Aware:** "Client Ready Offer System — $27. Validate your $5K+ offer in one afternoon."
+2. **Solution Aware:** "Stop buying courses. Stop posting content. Here's what actually works."
+3. **Problem Aware:** "Been at this 2+ years? Bought courses? Nothing clicking? The problem isn't you."
+4. **Unaware:** "Everyone says building a coaching business takes 3+ years. They're wrong."
+
+**Naming convention:** `[Awareness] - [Format] - [Destination]`
+- Example: `Problem Aware - Video - Sales Page`
+
+**Action items:**
+- [ ] Create 4 text-based ads (one per awareness level)
+- [ ] Test video versions of top performers
+- [ ] Use social media content as ad creative
+
+---
+
+## Decision 9: CAPI Setup for AOV Tracking
+
+### Research Summary
+
+> "If you're tracking average order value, Facebook will start to optimize for purchase conversion value. It'll start to optimize to go after more of the higher paying customers."
+
+**Standard pixel:** Browser-based, affected by cookie blocking, no AOV tracking
+**CAPI:** Server-side, accurate, tracks every bump/upsell, Facebook optimizes for value
+
+Without CAPI:
+- No AOV in Ads Manager
+- No results value column
+- Facebook optimizes for volume only (cheapest buyers)
+
+With CAPI:
+- Full AOV tracking
+- Facebook optimizes for high-value buyers
+- Better ROAS over time
+
+### Decision
+
+**Implement CAPI tracking.**
+
+**Options:**
+1. Stape.io ($10/month) — non-techie setup
+2. Custom developer setup
+3. GoHighLevel native CAPI (if available)
+
+**Setup steps:**
+1. Keep standard pixel running initially
+2. Install CAPI
+3. Verify both are tracking (will double-report temporarily)
+4. Once CAPI confirmed working, remove standard purchase event
+5. Keep base pixel in header
+
+**Action items:**
+- [ ] Research GoHighLevel CAPI options
+- [ ] Set up Stape.io if needed
+- [ ] Verify purchase tracking matches Stripe
+- [ ] Remove standard event after confirmation
+
+---
+
+## Decision 10: Pricing Validation
+
+### Research Summary (Ads Course)
+
+> "I find pricing between $17-$67 works best for cold audience. You can go to $197 if you have SOLID testimonials and a super defined USP (micro outcome)."
+
+**Current front-end:** $27 — right in the sweet spot
+
+**For higher prices ($100+), you need:**
+- Strong testimonials
+- Super defined USP
+- Authority in the space
+
+**Membership warning:**
+> "Don't sell memberships cold. Use low-ticket front-end first. Memberships should be sold on the back of a low ticket thing."
+
+### Decision
+
+**$27 is validated as appropriate for cold traffic.**
+
+The $47 split test is still worth running to see if AOV increases enough to justify lower conversion. But $27 is not "too low" — it's in Cat's recommended range.
+
+**Key insight:** Our membership OTO 3 decision is correct — don't sell Skool membership as front-end. Keep it as downsell after Sprint/DFY.
+
+---
+
+## Troubleshooting Checklist (Reference)
+
+From Cat's 8-point framework — use when ads aren't converting:
+
+| # | Check | Target | If Failing |
+|---|-------|--------|------------|
+| 1 | Enough spend at ad level? | $50-100 per ad | Wait for more data |
+| 2 | Enough landing page views? | 50+ views | Wait for more data |
+| 3 | CPC acceptable? | Under $7 | Hook problem |
+| 4 | CTR acceptable? | Over 1% | Hook problem |
+| 5 | Does ad "keep the scent"? | LP matches ad promise | Fix landing page |
+| 6 | Messaging & positioning? | Clear USP | Biggest culprit — rewrite |
+| 7 | Pricing right? | $17-67 cold | Test price points |
+| 8 | Do you actually care? | Yes | Wrong offer |
+
+**The math:**
+```
+Cost per sale = (1 ÷ conversion rate) × CPC
+
+At 2% CVR, $2 CPC → $100 per sale
+At 3% CVR, $2 CPC → $66 per sale
+At 5% CVR, $2 CPC → $40 per sale
+```
+
+---
+
 ## Action Items Summary
 
 ### Immediate (This Week)
 
-- [ ] Set up AOV tracking spreadsheet
+**Tracking & Infrastructure:**
+- [ ] Set up AOV tracking spreadsheet (created — import to Google Sheets)
+- [ ] Set up Ads Manager reporting columns (Frequency, Results, CPA, ROAS, AOV, Spend, CTR, CPC)
+- [ ] Research CAPI setup options (GoHighLevel native or Stape.io)
+
+**Campaign Setup:**
+- [ ] Create campaign with new structure (CBO, one ad set, Advantage Plus)
+- [ ] Create 4 ads minimum (one per awareness level)
 - [ ] Launch $27 vs $47 split test
-- [ ] Create engagement campaign audiences
-- [ ] Launch engagement campaigns ($15/day)
+
+**Engagement:**
+- [ ] Create custom audience: Engaged 30 days
+- [ ] Select 4 posts for initial rotation
+- [ ] Launch engagement campaigns ($15/day — separate IG and FB)
 
 ### After Price Test (30+ Sales Per Variant)
 
@@ -276,26 +469,49 @@ When we hit that threshold:
 
 - [ ] Build OTO 3: Skool membership trial
 - [ ] Write trial → paid email sequence
+- [ ] Implement CAPI tracking
 
 ### When Scaling ($500+/day)
 
 - [ ] Build unaware landing page
 - [ ] Create hyper-segmented funnels by coach type
+- [ ] Add more creative (scale by adding ads, not just budget)
 
 ---
 
 ## Success Metrics
 
-| Metric | Current | Target |
-|--------|---------|--------|
-| AOV | ~$120-150 (target) | $150+ |
-| Front-end conversion | TBD | Maintain or improve |
-| Bump take rate | TBD | Track baseline, improve 10% |
-| OTO 1 conversion | TBD | Track baseline |
-| Monthly recurring (Skool) | $0 | $500+/month from OTO 3 |
+| Metric | Current | Target | Cat's Benchmark |
+|--------|---------|--------|-----------------|
+| AOV | TBD | $120-150 | $127-182 |
+| ROAS | TBD | 2.0+ | 2.0-2.35 |
+| CPA | TBD | < $100 | $58-97 |
+| Front-end CVR | TBD | 2-5% cold | 2% minimum |
+| CTR | TBD | > 1% | — |
+| CPC | TBD | < $7 | $2-5 typical |
+| Bump take rate | TBD | 30%+ | — |
+| OTO 1 conversion | TBD | Track baseline | — |
+| Monthly recurring (Skool) | $0 | $500+/month | — |
 
 ---
 
 ## Review Date
 
 **2026-02-17** — Review after 2 weeks of data collection and price test progress.
+
+---
+
+## Summary of Decisions
+
+| # | Decision | Status |
+|---|----------|--------|
+| 1 | Front-end price | Split test $27 vs $47 |
+| 2 | Bump sequence | Hold — test after price test |
+| 3 | Membership OTO | Add Skool trial as OTO 3 |
+| 4 | AOV tracking | Implement daily spreadsheet |
+| 5 | Engagement campaigns | Launch at $15/day |
+| 6 | Unaware strategy | Defer until $500+/day |
+| 7 | Campaign structure | CBO, one ad set, Advantage Plus |
+| 8 | Awareness creative | 4 ads minimum (one per level) |
+| 9 | CAPI setup | Implement for AOV optimization |
+| 10 | Pricing validation | $27 confirmed in sweet spot |
