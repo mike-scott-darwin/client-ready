@@ -1,7 +1,7 @@
 ---
 type: resource
 status: active
-date: 2026-02-01
+date: 2026-02-04
 module: 2.6.3
 format: Google Doc
 ---
@@ -18,6 +18,7 @@ When someone buys the $27 (and maybe bumps) but skips the OTOs, this sequence re
 
 **Trigger:** Purchased $27, did NOT purchase OTO1 (Sprint) or OTO2 (DFY)
 **Timing:** Days 3, 5, and 7 after purchase
+**Send Time:** 2:00 PM (Welcome sequence sends at 8:00 AM — avoids stacking)
 **Goal:** Recover 5-10% of missed OTO revenue
 
 ---

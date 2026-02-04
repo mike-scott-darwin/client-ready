@@ -1,7 +1,7 @@
 ---
 type: resource
 status: active
-date: 2026-02-01
+date: 2026-02-04
 module: 2.6.3
 format: Google Doc
 ---
@@ -18,6 +18,7 @@ When someone buys the $27 but skips the order bumps, this sequence re-pitches th
 
 **Trigger:** Purchased $27, did NOT purchase Bump 1 (DM Scripts), Bump 2 (Templates), or Bump 3 (Traffic Kit)
 **Timing:** Days 2, 4, and 6 after purchase
+**Send Time:** 2:00 PM (Welcome sequence sends at 8:00 AM — avoids stacking)
 **Goal:** Recover 10-20% of missed bump revenue
 
 ---

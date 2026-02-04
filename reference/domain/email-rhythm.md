@@ -1,7 +1,7 @@
 ---
 type: reference
 status: active
-date: 2026-02-01
+date: 2026-02-04
 source: miles-stutz-research
 linked_research:
   - vip/.claude/skills/ads/references/miles-stutz/
@@ -10,6 +10,29 @@ linked_research:
 # Email Rhythm
 
 **Daily emails to your customer list. The compound advantage most coaches ignore.**
+
+---
+
+## Email Backend Architecture
+
+**Principle:** Separate concerns. Welcome = relationship. Recovery = upsells. Daily = ongoing nurture + backend.
+
+| Days | Sequence | Purpose | Pitches? |
+|------|----------|---------|----------|
+| 1-10 | Welcome | Relationship, quick wins | No |
+| 2,4,6 | Bump Recovery | Re-pitch missed bumps | Yes (PM) |
+| 3,5,7 | OTO Recovery | Re-pitch Sprint/DFY | Yes (PM) |
+| 8 | Community Recovery | Downsell $47/mo | Yes (PM) |
+| 11+ | Daily Broadcast | Story + rotating offers | Yes |
+
+**Timing:** Welcome sends 8:00 AM. Recovery sends 2:00 PM. Max 2 emails/day.
+
+**Files:**
+- [welcome-sequence-10-day.md](funnel/welcome-sequence-10-day.md)
+- [install-offer-recovery-sequence.md](classroom/downloads/install-offer-recovery-sequence.md)
+- [oto-recovery-sequence.md](classroom/downloads/oto-recovery-sequence.md)
+- [community-recovery-sequence.md](classroom/downloads/community-recovery-sequence.md)
+- [daily-broadcast-templates.md](funnel/daily-broadcast-templates.md)
 
 ---
 
@@ -52,8 +75,9 @@ Every email follows the same structure:
 - Tuesday: $37 Templates
 - Wednesday: Sprint ($297)
 - Thursday: DFY ($397)
-- Friday: Accelerator ($5K)
-- Weekend: Skool community
+- Friday: Accelerator ($5K) — soft pitch, reply trigger
+- Saturday: Skool community
+- Sunday: Pure value, no pitch
 
 ### 3. CTA (10%)
 - Single, clear action
@@ -64,22 +88,24 @@ Every email follows the same structure:
 
 ## The 10-Day Welcome Sequence
 
-New buyers get this before joining daily broadcasts:
+New buyers get this before joining daily broadcasts. **NO pitches** — recovery sequences handle all upsells.
 
-| Day | Subject Line Pattern | Content Focus | Offer |
-|-----|---------------------|---------------|-------|
-| 1 | "You're in — here's your first win" | Welcome + quick tip they can use today | — |
-| 2 | "Why I do this (honest answer)" | Your origin story, the pain you escaped | — |
-| 3 | "She did it in 3 weeks" | First case study, real result | Bump they missed |
-| 4 | "The mistake that cost me 6 months" | Common mistake to avoid | Templates ($37) |
-| 5 | "Quick tip: [specific tactic]" | Pure value, no pitch | — |
-| 6 | "From stuck to $5K in 30 days" | Client transformation story | Sprint ($297) |
-| 7 | "Behind the scenes of my funnel" | Show your actual system | — |
-| 8 | "You asked, I answered" | FAQ / objection handling | DFY ($397) |
-| 9 | "What happens after $27" | The roadmap, where this goes | — |
-| 10 | "Come hang out" | Personal invite to Skool | Community |
+| Day | Subject Line | Content Focus |
+|-----|--------------|---------------|
+| 1 | "You're in — here's your first win" | Welcome + quick tip |
+| 2 | "Why I do this (honest answer)" | Origin story |
+| 3 | "She validated in 3 days" | Case study |
+| 4 | "The mistake that cost me 6 months" | Common mistake |
+| 5 | "The 2-minute test for your offer" | Quick tip |
+| 6 | "From stuck to $5K in 30 days" | Transformation story |
+| 7 | "What my morning actually looks like" | Behind the scenes |
+| 8 | "What if I'm not ready?" | FAQ / objection |
+| 9 | "What happens after $27" | The roadmap |
+| 10 | "Come hang out" | Community invite |
 
 **After Day 10:** They join the daily broadcast list.
+
+See [welcome-sequence-10-day.md](funnel/welcome-sequence-10-day.md) for full copy.
 
 ---
 
