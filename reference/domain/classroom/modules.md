@@ -463,73 +463,261 @@ All content available in free Skool community. Core modules drip over 72 hours.
 
 #### 3.3 Image Creative Strategy
 
-**What it covers:** Designing ad images that convert for coaches and service providers.
+**What it covers:** Designing ad images that convert for coaches and service providers — including the simplest format that often outperforms everything else.
 
 **What you'll learn:**
 - Image types that work: face shots, text overlays, before/after, testimonial screenshots
+- **Text-based ads:** Black background, white text, your hook. That's it. (Cat Howell: "You'd be surprised.")
 - The "ugly ad" phenomenon — why polished doesn't always win
-- Tools: Canva templates, AI image generation
+- Tools: Canva templates, AI image generation, or literally your Notes app screenshot
 - Mobile-first design (where 90% of your traffic is)
 - A/B testing creative: when to kill, when to scale
 
-**Benefit:** Stop guessing what images work. Test systematically.
+**The text-based ad method:**
+1. Open Notes app or Canva
+2. Black background
+3. White text with your hook
+4. Screenshot square (1:1) and vertical (9:16) versions
+5. Done — often outperforms produced creative
 
-**Outcome:** 3-5 image creatives ready for testing.
+**Benefit:** Stop overproducing. Simple often wins. Test systematically.
+
+**Outcome:** 3-5 image creatives ready for testing, including at least one text-based ad.
 
 ---
 
-#### 3.4 Audience Targeting Strategy
+#### 3.4 Audience Targeting Strategy (2026 Update)
 
-**What it covers:** Finding and targeting your ideal buyers on Meta — without wasting budget on the wrong people.
+**What it covers:** How targeting has fundamentally changed — and why your creative is now your targeting.
+
+**The shift:** In 2024-2025, we used interest-based targeting and lookalikes. In 2026, the algorithm is so good at finding buyers that manual targeting often hurts performance.
+
+> "We don't really use lookalikes anymore or interest-based targeting. The algorithm is really good at finding your ideal targeting." — Cat Howell
 
 **What you'll learn:**
-- Interest-based targeting: finding your audience's "watering holes"
-- Lookalike audiences: when you have enough data
-- Broad targeting: when and why it works
-- Retargeting: people who visited but didn't buy
-- The targeting playbook from the $67 Traffic Kit
+- **Advantage Plus targeting:** Let Facebook's algorithm find your audience
+- **Country-only targeting:** US, UK, CA, AU, NZ — no interests, no lookalikes, no exclusions
+- **Your creative IS your targeting:** The algorithm uses your ad content to find the right people
+- **Why broad beats narrow:** More data = better optimization
+- **When retargeting still works:** Warm audiences (engaged 30 days) for engagement campaigns
 
-**Benefit:** Spend money reaching buyers, not browsers.
+**The new approach:**
+1. Set up Advantage Plus targeting
+2. Select countries only (no other restrictions)
+3. Let your creative do the targeting
+4. Trust the algorithm — it has more data than you
 
-**Outcome:** 3-5 audience targets ready to test.
+**What NOT to do anymore:**
+- ❌ Interest stacking
+- ❌ Lookalike audiences from small lists
+- ❌ Excluding audiences
+- ❌ Narrow age/gender targeting (unless legally required)
 
----
+**Benefit:** Stop overthinking targeting. Your job is creative, not audience research.
 
-#### 3.5 Campaign Launch Structure
-
-**What it covers:** How to structure campaigns for testing and scaling — the CBO/ABO debate and beyond.
-
-**What you'll learn:**
-- Campaign structure for testing (multiple ad sets, controlled variables)
-- Budget allocation: how much to spend on testing vs. scaling
-- The 150-200 click rule — don't judge your offer until you have enough data
-- When to use CBO vs ABO
-- Naming conventions so you know what's what
-
-**Benefit:** Stop randomly launching ads. Structure creates clarity.
-
-**Outcome:** First campaign structured and ready to launch.
+**Outcome:** Understanding that creative diversity (across awareness levels) replaces audience targeting.
 
 ---
 
-#### 3.6 Daily Management/Optimisation
+#### 3.5 Campaign Launch Structure (2026 Update)
 
-**What it covers:** Day-to-day management and optimization of running campaigns — the 15-minute daily routine.
+**What it covers:** The simplified campaign structure that works in 2026 — one ad set, all creative together, let the algorithm optimize.
 
-**What you'll learn:**
-- The daily check: what to look at, what to ignore
-- When to kill an ad (and when to let it run)
-- Budget scaling: horizontal vs. vertical
-- The metrics that matter: CTR, CPC, CPM, CPA, ROAS
-- The weekly review: what to optimize
+**The new structure:**
+- **One campaign** with Sales objective
+- **One ad set** with Advantage Plus targeting
+- **All creative in that one ad set** — Facebook distributes based on performance
+- **Campaign Budget Optimization (CBO)** — always
 
-**Benefit:** Stop obsessing over your ads manager. Know what actually matters.
+**Campaign setup steps:**
+1. Create → Sales objective
+2. Enable Campaign Budget Optimization
+3. Set daily budget
+4. Ad set level:
+   - Website only (NOT "Website and Calls")
+   - Select your pixel
+   - Purchase as conversion event
+   - Advantage Plus targeting
+   - Countries only (US, UK, CA, AU, NZ)
+5. Ad level:
+   - Turn OFF Advantage+ Creative enhancements
+   - Turn OFF site links
+   - Use "Learn More" CTA for low-ticket
 
-**Outcome:** Daily and weekly optimization checklist.
+**Budget:Ads Ratio (Critical)**
+
+| Daily Budget | Max Ads | Why |
+|--------------|---------|-----|
+| $25-30/day | 3-4 ads | Need enough spend per ad to learn |
+| $50/day | 5-6 ads | — |
+| $100/day | 8-10 ads | — |
+| $500+/day | 15-20+ ads | Scale by adding creative |
+
+> "If you have 19 ads on $25/day budget, you'll wait a week and a half for enough data." — Cat Howell
+
+**The math:** At 2% conversion and $2 CPC, you need $100 per ad to expect one sale. Budget ÷ number of ads = spend per ad per day.
+
+**Naming convention:**
+```
+[Awareness Level] - [Format] - [Destination]
+Example: Problem Aware - Video - Sales Page
+```
+
+**The 150-200 click rule:** Don't judge your offer until you have 150-200 unique landing page views. That's the minimum for statistical validity.
+
+**Benefit:** Simple structure, clear metrics, no guessing.
+
+**Outcome:** First campaign structured correctly — one ad set, 3-4 ads, CBO, Advantage Plus.
 
 ---
 
-#### 3.7 Advanced Selling Strategies
+#### 3.6 Daily Management & Optimisation (2026 Update)
+
+**What it covers:** Day-to-day management, the metrics that actually matter, and when to trust the algorithm vs. intervene.
+
+**The 15-minute daily routine:**
+1. Open Ads Manager, set date to yesterday
+2. Check **Frequency** first (most important)
+3. Note: Results (sales), Cost per result (CPA), ROAS, AOV
+4. Check spend per ad — is each getting enough?
+5. Enter data in tracking spreadsheet
+6. Decision: Scale, hold, or kill?
+
+**Frequency — The Fatigue Indicator**
+
+| Frequency | Status | Action |
+|-----------|--------|--------|
+| < 2 | Healthy | Can scale |
+| 2 | Warning | Monitor closely |
+| 3+ | Fatigued | Do NOT scale — add new creative first |
+
+> "If you try to scale a campaign with fatigued ads, you're gonna blow it up." — Cat Howell
+
+**Validation Thresholds**
+
+| Sales | What It Means |
+|-------|---------------|
+| 5-10 | "Onto something" — NOT validated |
+| 30 | Minimum to trust split test data |
+| 100 | Truly validated — numbers stabilize |
+
+> "The first six sales, I'm like 'this is the winner.' But at 30-40 sales, sometimes it's the total opposite."
+
+**Optimize at Ad Set Level, Not Ad Level**
+
+Facebook's 2026 recommendation: Don't turn off individual ads too quickly. If an ad is still getting spend, the algorithm is using it in the buyer journey — even if it's not getting direct sales.
+
+**The 8-Point Troubleshooting Checklist**
+
+When ads aren't converting, check in order:
+
+| # | Check | Target | If Failing |
+|---|-------|--------|------------|
+| 1 | Enough spend per ad? | $50-100 | Wait for more data |
+| 2 | Enough landing page views? | 50+ views | Wait for more data |
+| 3 | CPC acceptable? | Under $7 | Hook problem |
+| 4 | CTR acceptable? | Over 1% | Hook problem |
+| 5 | Ad "keeps the scent"? | LP matches ad | Fix landing page |
+| 6 | Messaging/positioning? | Clear USP | Biggest culprit — rewrite |
+| 7 | Pricing right? | $17-67 cold | Test price points |
+| 8 | Do you actually care? | Yes | Wrong offer |
+
+**Scaling Method**
+
+1. Add more creative (scale by feeding the algorithm)
+2. Raise budget as you add creative
+3. If frequency > 2, add creative before raising budget
+4. Duplicate winning ads with one small change (headline OR image)
+
+**Ads Manager Columns Setup**
+
+Set up in this order:
+1. Frequency (first — fatigue indicator)
+2. Results
+3. Cost per result
+4. Purchase ROAS
+5. AOV (average purchase value)
+6. Results value (revenue)
+7. Amount spent
+8. CTR / CPC
+9. Landing page views
+
+**Benefit:** Stop reacting emotionally. Data-driven decisions, clear thresholds.
+
+**Outcome:** Daily checklist, troubleshooting framework, and confidence to scale or kill based on real metrics.
+
+---
+
+#### 3.7 Awareness Level Creative Strategy (NEW)
+
+**What it covers:** The single biggest creative mistake — and how Facebook actually wants you to diversify your ads.
+
+> "The biggest mistake I'm seeing is people think diversity of creative means different formats. It's not about that. What Facebook wants is messaging across different levels of customer awareness." — Cat Howell
+
+**The Framework (Eugene Schwartz)**
+
+| Level | Who They Are | What They're Thinking | Your Creative Approach |
+|-------|--------------|----------------------|------------------------|
+| **Aware** | Knows you, knows your product | "I want that thing Michael sells" | Direct: "$27 — Get the System Now" |
+| **Solution Aware** | Knows solutions exist, shopping | "I need help with my offer, what options are there?" | "Why this beats courses/coaches/content" |
+| **Problem Aware** | Knows they're stuck, not solutions | "Nothing's working, I've tried everything" | "Been at this 2+ years? The problem isn't you." |
+| **Unaware** | Thinks struggle is normal | "Building a business just takes time, right?" | "Everyone says it takes 3+ years. They're wrong." |
+
+**Why Your Ads Die After Week 1**
+
+Facebook shows your ads to warm audience first (aware + solution aware). These people convert easily. You think: "This is working!"
+
+Then Facebook exhausts that audience and shifts to cold (problem aware + unaware). If you only have "aware" creative, your ads tank.
+
+> "A lot of people see results the first week and then things tail off because they're not creating messaging for the unaware audience."
+
+**The Scaling Insight**
+
+> "The businesses that scale really big are the ones who know how to speak to this unaware market. It's easy to speak to the aware market — 'here's my product, buy now.' It takes a different type of marketer to speak to people who are unaware."
+
+**Minimum Creative Set**
+
+For every campaign, create at least 4 ads — one for each awareness level:
+
+**For Client Ready:**
+1. **Aware:** "Client Ready Offer System — $27. Validate your $5K+ offer in one afternoon."
+2. **Solution Aware:** "Stop buying courses. Stop posting content. Here's what actually works."
+3. **Problem Aware:** "Been at this 2+ years? Bought courses? Nothing clicking? The problem isn't you."
+4. **Unaware:** "Everyone says building a coaching business takes 3+ years. They're wrong."
+
+**When You Hit Each Level**
+
+| Daily Spend | Audience You're Reaching |
+|-------------|-------------------------|
+| $100-500/day | Mostly aware, good CPAs |
+| $500-1000/day | CPAs rising, hitting problem aware |
+| $1000+/day | Definitely hitting unaware |
+
+**Unaware Strategy (For Scaling)**
+
+When you hit $500+/day and CPAs rise:
+1. Create separate landing page (doesn't look like a sales page)
+2. Lead with education, not offer
+3. Shift beliefs first: "You've been told it takes years..."
+4. Long-form content: VSLs, story-based videos
+
+**Naming Convention**
+
+```
+[Awareness Level] - [Format] - [Destination]
+Examples:
+- Aware - Image - Order Page
+- Problem Aware - Video - Sales Page
+- Unaware - Text - Sales Page
+```
+
+**Benefit:** Your ads won't die after Week 1. You'll have creative that speaks to every stage of the buyer journey.
+
+**Outcome:** 4+ ads created — one per awareness level — ready for testing.
+
+---
+
+#### 3.8 Advanced Selling Strategies
 
 **What it covers:** Advanced techniques for scaling beyond initial validation — from $27 buyers to $5K clients.
 
@@ -539,14 +727,34 @@ All content available in free Skool community. Core modules drip over 72 hours.
 - Retargeting buyers with higher-tier offers
 - When to introduce the $5K Accelerator
 - The math: how many $27 buyers to support one $5K sale
+- **Engagement campaigns for omnipresence** (scaling tactic)
 
-**Benefit:** Your funnel isn't just about the front-end. The backend is where the profit is.
+**Engagement Campaigns (For Scaling)**
 
-**Outcome:** Clear understanding of the path from first sale to high-ticket client.
+When you're spending $500+/day, add low-cost engagement campaigns for omnipresence:
+
+**Structure:**
+- $3-25/day budget total
+- Separate campaigns for IG and Facebook
+- 2 posts per ad set
+- Target: Cold audience + Warm (engaged last 30 days)
+- Rotate content weekly based on organic engagement
+
+**Why it works:**
+- Cheap (engagement = cheapest objective)
+- Builds omnipresence ("you're everywhere on my feed")
+- Social proofs your content
+- Improves auction performance for your sales campaigns
+
+> "A lot of that omnipresence is my engagement campaign doing that. People are like, 'you're everywhere.'" — Cat Howell
+
+**Benefit:** Your funnel isn't just about the front-end. The backend is where the profit is. Engagement campaigns support both.
+
+**Outcome:** Clear understanding of the path from first sale to high-ticket client, plus engagement campaign structure for scaling.
 
 ---
 
-#### 3.8 No-Phone Offers: When & How
+#### 3.9 No-Phone Offers: When & How
 
 **What it covers:** Traditional high-ticket coaching requires sales calls because the offer is vague. This section teaches when you can skip calls — and how to structure offers that sell themselves at $2K-$5K.
 
@@ -554,7 +762,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 
 ---
 
-##### 3.8.1 Why Most High-Ticket Needs Calls (And When It Doesn't)
+##### 3.9.1 Why Most High-Ticket Needs Calls (And When It Doesn't)
 
 **What it covers:** Why sales calls exist and when you can eliminate them.
 
@@ -576,7 +784,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 
 ---
 
-##### 3.8.2 The 4 Principles of No-Phone Offers
+##### 3.9.2 The 4 Principles of No-Phone Offers
 
 **What it covers:** No-Phone Offers work because they answer every question before someone buys.
 
@@ -592,7 +800,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 
 ---
 
-##### 3.8.3 Structuring Your No-Phone Offer
+##### 3.9.3 Structuring Your No-Phone Offer
 
 **What it covers:** Practical walkthrough of building a $2K-$5K offer that sells without calls.
 
@@ -610,7 +818,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 
 ---
 
-##### 3.8.4 The Ascension Path to No-Phone
+##### 3.9.4 The Ascension Path to No-Phone
 
 **What it covers:** No-Phone works best when people already know and trust you. This lesson shows how your funnel builds that trust.
 

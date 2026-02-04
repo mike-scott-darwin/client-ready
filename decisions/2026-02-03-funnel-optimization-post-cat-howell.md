@@ -63,11 +63,13 @@ Cat Howell on $17 promo:
 
 ### Decision
 
-**Selected: Option D — Split Test $27 vs $47**
+**Selected: Option A — Keep $27**
 
-Rationale: Cat's core message is "test everything, wait for 30+ sales before deciding." We don't have enough data on our own funnel to know if her pattern holds for our audience. Run the test, track AOV (not just conversion rate), decide at 30 sales per variant.
+Rationale: The $27 price point IS the positioning — "validate your $5K+ offer before you build anything." Raising to $47 breaks the "before you invest" message. Cat's AOV insight is valid, but applies better to bump optimization than front-end price in our case.
 
-**Success metric:** AOV at $47 must be at least 20% higher than $27 to justify lower conversion rate.
+**Focus instead:** Bump sequence optimization and OTO conversion. That's where Cat sees the biggest AOV lift anyway.
+
+**Updated 2026-02-04:** Originally planned split test, decided against it. Positioning > marginal AOV gain.
 
 ---
 
@@ -105,11 +107,13 @@ Cat: "Testing your bump sequence — if I put my $17 here and $33 there — can 
 
 ### Decision
 
-**Selected: Option A (Hold) — Revisit After Price Test**
+**Selected: Option B — Test Reverse Sequence ($67 → $37 → $17)**
 
-Rationale: Too many variables at once makes it impossible to know what's working. Complete the $27 vs $47 test first. Then test bump sequence as the next optimization.
+Rationale: Price test cancelled (keeping $27). Bump optimization is now the primary AOV lever. Cat's data shows bump order "can have crazy results on AOV." Test the anchor effect — $67 first makes $37 and $17 feel cheap.
 
-**Action item:** After price test concludes, test $67 → $37 → $17 sequence.
+**Action item:** Test $67 → $37 → $17 sequence. Track AOV per variant, need 30+ sales each.
+
+**Updated 2026-02-04:** Moved up priority after price test was cancelled.
 
 ---
 
@@ -453,21 +457,23 @@ At 5% CVR, $2 CPC → $40 per sale
 **Campaign Setup:**
 - [ ] Create campaign with new structure (CBO, one ad set, Advantage Plus)
 - [ ] Create 4 ads minimum (one per awareness level)
-- [ ] Launch $27 vs $47 split test
+- [ ] Test bump sequence: $67 → $37 → $17 (need 30+ sales per variant)
 
 **Engagement:**
 - [ ] Create custom audience: Engaged 30 days
 - [ ] Select 4 posts for initial rotation
 - [ ] Launch engagement campaigns ($15/day — separate IG and FB)
 
-### After Price Test (30+ Sales Per Variant)
+### After Bump Test (30+ Sales Per Variant)
 
-- [ ] Analyze AOV data, make pricing decision
-- [ ] Test bump sequence ($67 → $37 → $17)
+- [ ] Analyze AOV data from bump sequence test
+- [ ] Lock in winning sequence
 
-### After Bump Test
+### After Bump Sequence Decided
 
-- [ ] Build OTO 3: Skool membership trial
+- [x] Build OTO 3: Skool membership trial — **Codified 2026-02-04**
+- [ ] Build OTO 3 page in funnel
+- [ ] Set up Skool billing for $47/month tier
 - [ ] Write trial → paid email sequence
 - [ ] Implement CAPI tracking
 
@@ -505,9 +511,9 @@ At 5% CVR, $2 CPC → $40 per sale
 
 | # | Decision | Status |
 |---|----------|--------|
-| 1 | Front-end price | Split test $27 vs $47 |
-| 2 | Bump sequence | Hold — test after price test |
-| 3 | Membership OTO | Add Skool trial as OTO 3 |
+| 1 | Front-end price | **Keep $27** — positioning > AOV |
+| 2 | Bump sequence | **Test $67 → $37 → $17** — now priority |
+| 3 | Membership OTO | **Codified** — Skool $47/mo ($1 trial) as OTO 3 |
 | 4 | AOV tracking | Implement daily spreadsheet |
 | 5 | Engagement campaigns | Launch at $15/day |
 | 6 | Unaware strategy | Defer until $500+/day |

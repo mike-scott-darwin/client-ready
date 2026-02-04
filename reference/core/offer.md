@@ -148,6 +148,37 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 
 ---
 
+### Tier 3.5: $47/month — Client Ready Community (OTO 3)
+
+**Price:** $47/month (first month $1)
+**Format:** Membership community
+**Position:** Downsell after Sprint/DFY — for those who said "no" but still want support
+
+**What's Included:**
+- Private Skool community access
+- Weekly group hot seat calls with Michael
+- DM Michael directly for quick questions
+- See what's working for other coaches in real-time
+- Resource library (templates, swipes, frameworks)
+
+**Who This Is For:**
+- Said "no" to Sprint ($297) — not ready for 4-week commitment
+- Said "no" to DFY ($397) — don't need done-for-you yet
+- Still want support and accountability while building
+
+**Pitch:**
+> "Not ready for the Sprint? Get community access — weekly hot seats, DM Michael directly, see what's working for other coaches. $1 for your first month."
+
+**Why It Works:**
+- Captures buyers who want support but aren't ready for bigger commitment
+- Creates recurring revenue stream
+- Trial model proven by Cat Howell
+- Doesn't cannibalize higher offers — it's a downsell for "no" buyers
+
+**Promise:** Never build alone — get answers, feedback, and see what's working for others
+
+---
+
 ### Tier 4: $5K — Client Ready Accelerator (No-Phone Offer)
 
 **Price:** $5,000 one-time
@@ -194,11 +225,13 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 | Bump 3 (Traffic) | $67 | One-time |
 | OTO 1 (Self-Paced) | $97 | One-time |
 | OTO 1 (Sprint) | $297 | One-time |
-| OTO 2 | $397 | One-time |
+| OTO 2 (DFY) | $397 | One-time |
+| OTO 3 (Community) | $47/mo | Recurring ($1 trial) |
 | Backend (Accelerator) | $5,000 | No-Phone Offer |
 
 **Max One-Time Cart Value:** $842 ($27 + $17 + $37 + $67 + $297 + $397)
 **Target AOV:** $120-150 (with 3 bumps per Cat Howell data showing 2x conversion lift)
+**Recurring potential:** OTO 3 adds $47/month per retained member
 
 ---
 
