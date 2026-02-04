@@ -42,7 +42,7 @@ date: 2026-02-01
 | Traffic Playbook | PDF | Step-by-step traffic guide |
 | Pricing Calculator | Spreadsheet | When to raise prices |
 
-### From Phase 3.8: No-Phone Offers
+### From Phase 3.9: No-Phone Offers
 
 | Resource | Format | Description |
 |----------|--------|-------------|

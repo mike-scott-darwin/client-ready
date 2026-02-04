@@ -30,9 +30,10 @@ Michael Scott helps coaches validate their offers before building — scale from
 | OTO 1 (Self-Paced) | $97 | Client Ready Sprint (Self-Paced) |
 | OTO 1 (Sprint) | $297 | 4-Week Client Ready Sprint |
 | OTO 2 | $397 | Done-For-You Client Ready Funnel |
-| Backend | $5K+ | 1:1 Funnel Build |
+| OTO 3 | $47/mo | Client Ready Community ($1 trial) |
+| Backend | $5K+ | Client Ready Accelerator |
 
-**Max cart:** $842 | **Target AOV:** $120-150
+**Max cart:** $842 | **Target AOV:** $120-150 | **Recurring:** OTO 3 adds $47/mo
 
 ---
 
@@ -111,7 +112,8 @@ Direct. No-BS. Engineering mindset. Short sentences. "Wrong." "Test, validate, b
 | 1:1 pricing | ⚠️ "$5K+" — exact price TBD |
 | Email sequences | ⚠️ Not yet built |
 | Application page | ⚠️ Not yet built |
-| Content strategy | ⚠️ Platforms/frequency TBD |
+| OTO 3 page | ⚠️ Skool membership page not built yet |
+| Content strategy | ✅ Defined in `reference/domain/content-strategy.md` |
 
 ---
 

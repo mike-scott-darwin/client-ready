@@ -1,7 +1,7 @@
 ---
 type: decision
 date: 2026-02-03
-status: proposed
+status: codified
 linked_research:
   - research/2026-02-03-linkedin-coach-content-research.md
   - research/2026-02-03-x-twitter-coach-content-research.md
