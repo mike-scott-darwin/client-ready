@@ -1,7 +1,7 @@
 ---
 type: reference
 status: active
-date: 2026-02-01
+date: 2026-02-06
 ---
 
 # Classroom Resources
@@ -38,6 +38,7 @@ date: 2026-02-01
 
 | Resource | Format | Description |
 |----------|--------|-------------|
+| Facebook Ads Launch Guide | PDF | 4-phase system: tracking, audiences, copy, campaign structure |
 | Content Calendar Template | Spreadsheet | Weekly posting plan |
 | Traffic Playbook | PDF | Step-by-step traffic guide |
 | Pricing Calculator | Spreadsheet | When to raise prices |
@@ -84,3 +85,7 @@ _New resources (from 2026-02-01 offer update):_
 - [x] Call vs No-Call Decision Framework
 
 All resources created in `classroom/downloads/`
+
+_New resources (from 2026-02-06):_
+- [x] Facebook Ads Launch Guide (4-phase system with Cat Howell benchmarks)
+- [x] Offer Validation Kit (AI prompts + 15-point checklist for Bump 3)

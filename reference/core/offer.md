@@ -46,6 +46,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - **Paid traffic over content merry-go-round** — Stop posting for 12 months hoping someone buys
 - **Validate before you build** — Know it works before investing in infrastructure
 - **Alignment + automation** — Not scale for scale's sake
+- **Self-liquidating checkout** — Bumps cover ad spend; OTOs and backend are pure profit, not survival. Don't scale until checkout AOV is $100+.
 
 ---
 
@@ -75,13 +76,12 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - **Promise:** Don't start from scratch — plug in your offer and go
 - ~~$197~~ → $37
 
-**Order Bump 3: $67 — Traffic & Launch Kit**
-- AI ad generator + proven ad creative currently running
-- Targeting playbook (audiences that convert)
-- Launch checklist + timeline (day-by-day plan)
-- A/B testing framework for first campaigns
-- "First 10 Buyers" roadmap
-- **Promise:** Know exactly how to get your first 10 paying customers
+**Order Bump 3: $67 — Offer Validation Kit**
+- AI Validation Prompts (paste your offer, get instant feedback on what's weak)
+- 10 Real Offer Reviews (recorded Looms of Michael reviewing actual client offers)
+- "Good Offer" Checklist (15-point self-assessment with pass/fail criteria)
+- Before/After Examples (5 offers showing extraction → polished, with annotations)
+- **Promise:** Validate your offer before you build — know it's right without guessing
 - ~~$297~~ → $67
 
 ---
@@ -357,11 +357,31 @@ For your funnel (AOV $100-120):
 
 ### Target Metrics
 
+**Checkout Metrics:**
+
 | Metric | Target | Calculation |
 |--------|--------|-------------|
 | AOV | $100-120 | Total revenue / orders |
-| Bump 1 take rate | 40%+ | Bump 1 purchases / orders |
-| Bump 2 take rate | 28%+ | Bump 2 purchases / orders |
+| Combined bump rate | 50%+ | Orders with ANY bump / total orders (Cat Howell benchmark) |
+| Bump 1 ($17) | Track | Bump 1 purchases / orders |
+| Bump 2 ($37) | Track | Bump 2 purchases / orders |
+| Bump 3 ($67) | Track | Bump 3 purchases / orders |
+
+**Note:** Cat's 50% benchmark = half of all buyers take at least one bump. Individual bump rates will be lower. Don't scale ads until AOV is consistently $100+.
+
+**OTO Conversion Benchmarks (Cat Howell Feb 2026):**
+
+| OTO | Price | Expected Conversion |
+|-----|-------|---------------------|
+| OTO 1 Self-Paced | $97 | 10-20% (over $60) |
+| OTO 1 Sprint | $297 | 10-20% (over $60) |
+| OTO 2 DFY | $397 | 10-20% (over $60) |
+| OTO 3 Community | $47/mo trial | 5-10% (membership trial) |
+
+**Traffic Metrics:**
+
+| Metric | Target | Calculation |
+|--------|--------|-------------|
 | CPA | < $100 | Ad spend / purchases |
 | Opt-in rate | 3%+ | Opt-ins / outbound clicks |
 | Sales page conversion | 10%+ | Purchases / opt-ins |
