@@ -1,7 +1,7 @@
 ---
 type: decision
 date: 2026-02-01
-status: accepted
+status: codified
 linked_research:
   - research/2026-01-27-miles-stutz-call-ads-strategy.md
   - research/2026-02-01-miles-stutz-dfy-delivery-copy.md
@@ -141,11 +141,11 @@ Need to determine: What's validated, what should change, what to test next.
 
 ### Short-Term (Before Scaling)
 
-| Change | Rationale | Priority |
-|--------|-----------|----------|
-| Add third micro-bump ($17-27) | Cat Howell data: 3 bumps doubled conversion | High |
-| Add more proof to checkout page | Miles feedback: low conversion often = missing proof | High |
-| Pre-check vs uncheck bump test | Some funnels convert better unchecked | Medium |
+| Change | Rationale | Status |
+|--------|-----------|--------|
+| Add third micro-bump ($17 DM Scripts) | Cat Howell data: 3 bumps doubled conversion | ✅ Done — added as Bump 1 in offer.md |
+| Add more proof to checkout page | Miles feedback: low conversion often = missing proof | 🔲 To do |
+| Pre-check vs uncheck bump test | Some funnels convert better unchecked | 🔲 To test |
 
 ### Medium-Term (After Validation)
 
@@ -214,3 +214,12 @@ Need to determine: What's validated, what should change, what to test next.
 **Test:** Pre-checked bumps, video vs no video, third micro-bump.
 
 **Scale rule:** CPA < $80 = increase budget 20% every 48 hours. CPA > $150 = kill.
+
+---
+
+## Codification Log
+
+**2026-02-05:** Codified into `reference/core/offer.md`:
+- Third micro-bump ($17 DM Scripts) already present
+- Added "Checkout Optimization" section (proof + pre-check testing)
+- Added "Ad Strategy Framework" section (launch structure, CPA thresholds, $300 rule, target metrics)

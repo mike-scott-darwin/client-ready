@@ -305,3 +305,65 @@ See: `reference/domain/email-rhythm.md` for full implementation details.
 | "I don't have an audience" | Start with your warm audience first. The traffic playbook shows you how to find buyers without ads. |
 | "What if it doesn't work?" | Every product has a money-back guarantee. The Sprint adds personal accountability. |
 | "I don't want another subscription" | No subscriptions in this funnel. Sprint is one-time $297 for 4 weeks. Done. |
+
+---
+
+## Checkout Optimization
+
+**Proof on checkout page:** Low conversion often = missing proof (Miles Stutz feedback). Add 2-3 short testimonial snippets above order bumps.
+
+**Checkout proof elements:**
+- Short testimonial quotes (1-2 sentences max)
+- Specific results when available ("landed 3 clients in first week")
+- Photos if available (increases trust)
+
+**Pre-checked bumps:** Test both approaches:
+- Pre-checked: Higher take rate with sophisticated buyers
+- Unchecked: May convert better with less aware audiences
+- Run 50/50 split test before scaling
+
+---
+
+## Ad Strategy Framework
+
+**From Miles Stutz + Cat Howell research (Feb 2026).**
+
+### Launch Structure
+
+- **4 ad sets:** 3 cold audiences + 1 retargeting
+- **Retargeting budget:** Half of cold budget (almost always wins)
+- **Starting budget:** $50/day (not $100 — too volatile early)
+- **Creatives:** 5-10 per launch, 1 short + 1 long copy per image
+
+### CPA Decision Thresholds
+
+For your funnel (AOV $100-120):
+
+| CPA | Action |
+|-----|--------|
+| > $150-200 | Kill the ad |
+| $80-120 | Let it run, monitor |
+| < $80 | Scale 20% every 48 hours |
+
+### The $300 Rule
+
+> "If you spend $300 without a sale, change the snack. Don't optimize — change the offer."
+
+**Testing priority when stuck:**
+1. Offer (biggest impact)
+2. Headline
+3. Price
+4. Design
+
+### Target Metrics
+
+| Metric | Target | Calculation |
+|--------|--------|-------------|
+| AOV | $100-120 | Total revenue / orders |
+| Bump 1 take rate | 40%+ | Bump 1 purchases / orders |
+| Bump 2 take rate | 28%+ | Bump 2 purchases / orders |
+| CPA | < $100 | Ad spend / purchases |
+| Opt-in rate | 3%+ | Opt-ins / outbound clicks |
+| Sales page conversion | 10%+ | Purchases / opt-ins |
+
+**Track in Stripe/GHL, not Meta.** Meta over-attributes.
