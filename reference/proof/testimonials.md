@@ -11,7 +11,7 @@ updated: 2026-01-31
 
 **Milestone:** 114 sales in first 30 days of launch
 
-**Offer:** Client Ready Offer ($17 low-ticket)
+**Offer:** Client Ready Offer ($27 low-ticket)
 
 **Key Learnings (from public post):**
 
