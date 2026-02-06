@@ -100,9 +100,82 @@ NEXT STEP:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### Filled Example
+### Filled Example (Client Ready)
 
-See the separate file: `offer-document-example.md`
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CLIENT READY OFFER SYSTEM
+
+Validate your $5K+ offer before you build anything — in one afternoon.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WHO THIS IS FOR:
+
+• Coaches who know they can help people but can't articulate what they sell
+• Stuck trying offers that don't fit, grinding on content that doesn't convert
+• Tried courses, coaching programs, or "just post consistently" — still no clarity
+• Want a real offer they won't abandon in 3 months
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THE PROBLEM:
+
+You know you can help people. You've done it before — maybe for free, maybe
+for friends, maybe in a past job. But when it's time to sell? You freeze.
+You can't explain what you do without rambling. Every offer you create
+feels off somehow. So you keep tweaking, keep posting, keep hoping someone
+"gets it" and wants to pay you.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THE SOLUTION:
+
+The Client Ready Offer System is a PDF guide + AI prompts that helps you
+extract a validated $5K+ offer in one afternoon through The Client Ready Method.
+
+Here's how it works:
+
+Phase 1: Extract — Find your zone of genius (the thing you do that nobody else does)
+Phase 2: Validate — Test the offer before building infrastructure
+Phase 3: Build — Low-ticket to high-ticket funnel with paid ads
+Phase 4: Automate — A system that works without constant hustle
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WHAT'S INCLUDED:
+
+☑ The Zone of Genius Extraction — 5 AI prompts that pull out what makes you unique
+☑ Offer Document Template — Plug in your answers, get a complete offer doc
+☑ Validation Framework — Know it works before you build
+☑ Step-by-Step Guide — No guessing, just follow the prompts
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THE TRANSFORMATION:
+
+BEFORE                              AFTER
+───────────────────────             ───────────────────────
+Can't explain what you sell         Crystal clear offer document
+Trying random offers                One aligned offer you won't abandon
+Posting and hoping                  System that generates clients
+Trading time for money              Business built around your life
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+INVESTMENT:
+
+$27
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NEXT STEP:
+
+Click the button below to get instant access.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 ---
 

@@ -382,7 +382,19 @@ Validate first. Build second. Scale third.
 
 ---
 
-## Questions?
+## What's Next?
+
+You've validated your offer. Now execute.
+
+**Today:** Run the 5 prompts, score yourself on the checklist
+**This week:** Fix any gaps, re-run validation until you hit 12+
+**When you're ready:** Build your funnel and start getting clients
+
+**When you want support:**
+- **Client Ready Sprint ($297)** — 4 weeks, weekly calls, accountability. Launch in 30 days.
+- **Done-For-You Funnel ($397)** — We build everything for you. 100 customers guaranteed.
+
+**Questions?**
 
 If you're stuck on any part of the validation process, bring your questions to the Client Ready community (if you purchased the Sprint) or book an integration call (if you purchased DFY).
 
