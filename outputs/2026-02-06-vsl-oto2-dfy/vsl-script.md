@@ -236,7 +236,7 @@ I'll see you on the integration call.
 ### Visual Elements (Optional)
 - Brief text overlays for the 9 components (Section 4)
 - Simple timeline graphic for the 30-day breakdown (Section 5)
-- "100 Customers Guaranteed" badge during Section 6
+- "30-Day Delivery Guaranteed" badge during Section 6
 
 ### Runtime Target
 - 4:30 - 5:30 actual delivery
