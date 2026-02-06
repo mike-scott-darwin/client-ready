@@ -299,15 +299,17 @@ The funnel, landing page, and automation come AFTER validation — not before.
 
 ## Need More Help?
 
-**Quick Win DM Scripts ($17)** — Start conversations today with 5 copy-paste scripts
+**Quick Win DM Scripts ($17)** — Start conversations today with copy-paste scripts
 
 **Plug & Play Templates ($37)** — Landing pages, email sequences, messaging maps — don't start from scratch
 
-**Traffic & Launch Kit ($67)** — Know exactly how to get your first 10 paying customers
+**Offer Validation Kit ($67)** — AI prompts and checklists to make sure your offer is right before you build
 
-**Client Ready Sprint ($97-$297)** — Complete funnel system with optional live support
+**Client Ready Sprint — Self-Paced ($97)** — Complete funnel system, work at your own speed
 
-**Done-For-You ($397)** — I build your entire funnel in 30 days
+**Client Ready Sprint — 4 Weeks ($297)** — Weekly calls with Michael, launch in 30 days
+
+**Done-For-You ($397)** — I build your entire funnel in 30 days. 100 customers guaranteed.
 
 Questions? Reply to your purchase email or find me in Skool.
 
