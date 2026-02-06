@@ -17,7 +17,7 @@ You'll create **6 workflows** in GHL:
 
 | # | Workflow Name | Trigger | Emails |
 |---|---------------|---------|--------|
-| 1 | Non-Buyer Nurture | Visited sales page, no purchase (30 min) | 12 emails / 30 days |
+| 1 | Non-Buyer Nurture | Started checkout, no purchase (30 min) | 12 emails / 30 days |
 | 2 | Buyer Welcome | Purchased $27 | 10 emails / 10 days |
 | 3 | Bump Recovery | Purchased $27, no bumps | 3 emails (Days 2,4,6) |
 | 4 | OTO Recovery | Purchased $27, no Sprint/DFY | 3 emails (Days 3,5,7) |
@@ -47,19 +47,33 @@ Create these tags in GHL first:
 
 ---
 
-## Workflow 1: Non-Buyer Nurture
+## Workflow 1: Non-Buyer Nurture (Abandoned Checkout)
 
-**Trigger:** Form submitted (lead magnet) OR Page visited (sales page)
+**Who this is for:** Someone who started checkout but didn't complete the purchase. NOT lead magnet downloaders.
+
+**Trigger:** Order Form Submission (started checkout)
 **Condition:** Wait 30 minutes, then check: Tag `purchased-27` does NOT exist
 
+### GHL Trigger Setup
+
+In GoHighLevel, use one of these triggers:
+
+| Trigger Option | How to Set Up |
+|----------------|---------------|
+| **Order Form Submitted** (Recommended) | Triggers → Order Form Submitted → Select your checkout form |
+| **Page Visit + Form Start** | Triggers → Page Visited → Checkout page URL |
+| **Stripe Checkout Started** | Requires Zapier: Stripe "Checkout Session Created" → GHL |
+
+**Why "Order Form Submitted":** This fires when someone enters their email on your checkout page, even if they don't complete payment. It captures abandoned carts.
+
 ```
-TRIGGER: Form Submitted [Lead Magnet Form]
+TRIGGER: Order Form Submitted [Client Ready Checkout]
     ↓
 WAIT: 30 minutes
     ↓
 IF/ELSE: Contact has tag "purchased-27"?
-    ├── YES → End workflow
-    └── NO → Continue
+    ├── YES → End workflow (they completed purchase)
+    └── NO → Continue (abandoned checkout)
             ↓
         ADD TAG: "in-nonbuyer-sequence"
             ↓
