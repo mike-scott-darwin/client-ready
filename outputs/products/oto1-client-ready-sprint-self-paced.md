@@ -199,6 +199,27 @@ NOT: "The Client Ready System" (product name, not promise)
 
 **Why:** Congruency = trust. Mismatch = bounce.
 
+### 2.4 Recommended Funnel Builder: GoHighLevel
+
+**We recommend [GoHighLevel](https://www.gohighlevel.com/?fp_ref=the-high-ticket-hub) for building your funnels.**
+
+Why GHL over other options:
+
+| Feature | GoHighLevel | Other Builders |
+|---------|-------------|----------------|
+| Funnel pages | ✅ Included | Often separate tool |
+| Email/SMS | ✅ Included | Separate subscription |
+| CRM | ✅ Included | Separate subscription |
+| Booking calendar | ✅ Included | Separate subscription |
+| Automations | ✅ Included | Limited or extra cost |
+| Price | ~$97-297/mo all-in | $300-500+/mo stacked tools |
+
+**The math:** Instead of paying for ClickFunnels ($147) + ActiveCampaign ($79) + Calendly ($12) + separate CRM, GHL gives you everything in one platform.
+
+**Get started:** [GoHighLevel Free Trial](https://www.gohighlevel.com/?fp_ref=the-high-ticket-hub)
+
+**Note:** Any page builder works with this system. The AI prompts output clean copy you can paste anywhere. GHL is simply what we recommend for the best all-in-one experience.
+
 ---
 
 ## Module 3: Traffic Generation Playbook
