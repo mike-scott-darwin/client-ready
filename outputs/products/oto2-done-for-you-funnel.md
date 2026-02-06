@@ -1,6 +1,6 @@
 # Done-For-You Client Ready Funnel
 
-**Your entire funnel built in 30 days. 100 customers guaranteed.**
+**Your entire funnel built in 30 days. Delivery guaranteed.**
 
 ---
 
@@ -201,20 +201,16 @@ CLIENT READY FUNNEL — [Your Name]
 
 ## The Guarantee
 
-**100 Customers or I Keep Working With You**
+**Complete Funnel Delivered in 30 Days — Or I Keep Working Until It's Done**
 
-If you implement the system and don't generate 100 customers within 90 days:
-- I review what's happening
-- We identify the issue
-- I update/optimize the funnel
-- Repeat until you hit 100
+Your complete funnel delivered on time. No excuses.
 
-**Requirements:**
-- You implement the funnel (copy into pages, set up emails)
-- You drive traffic (ads, outreach, content — your choice)
-- You actually launch (not just build)
+If for any reason I don't finish your funnel in 30 days:
+- I keep working until it's done
+- No extra charge
+- You're not left hanging
 
-This isn't about perfection. It's about getting you results.
+This is a completion guarantee. You're paying for a finished product — that's exactly what you'll get.
 
 ---
 
@@ -252,7 +248,7 @@ A: I'll share relevant examples during the sales process. Each funnel is custom,
 A: I provide copy, not implementation. You paste it into your tools. The integration call covers how to implement. If you want full tech implementation, that's the $5K Accelerator.
 
 **Q: What if I need changes after the 30 days?**
-A: The guarantee covers ongoing support until you hit 100 customers. After that, one-off optimization is available.
+A: Minor revisions are included. For ongoing optimization, consider the Community ($47/mo) or Accelerator ($5K).
 
 ---
 

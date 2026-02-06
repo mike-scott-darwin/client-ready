@@ -392,7 +392,7 @@ You've validated your offer. Now execute.
 
 **When you want support:**
 - **Client Ready Sprint ($297)** — 4 weeks, weekly calls, accountability. Launch in 30 days.
-- **Done-For-You Funnel ($397)** — We build everything for you. 100 customers guaranteed.
+- **Done-For-You Funnel ($397)** — We build everything for you. 30-day delivery guaranteed.
 
 **Questions?**
 

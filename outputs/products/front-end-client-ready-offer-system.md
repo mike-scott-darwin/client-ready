@@ -309,7 +309,7 @@ The funnel, landing page, and automation come AFTER validation — not before.
 
 **Client Ready Sprint — 4 Weeks ($297)** — Weekly calls with Michael, launch in 30 days
 
-**Done-For-You ($397)** — I build your entire funnel in 30 days. 100 customers guaranteed.
+**Done-For-You ($397)** — I build your entire funnel in 30 days. Delivery guaranteed.
 
 Questions? Reply to your purchase email or find me in Skool.
 

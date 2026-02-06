@@ -102,7 +102,7 @@ Keep current teal/cyan + black theme
 **"DONE-FOR-YOU CLIENT READY FUNNEL"**
 
 ### Promise Badge (prominent)
-**"100 CUSTOMERS IN 30 DAYS — GUARANTEED"**
+**"COMPLETE FUNNEL IN 30 DAYS — GUARANTEED"**
 
 ### 9 Components
 
@@ -117,12 +117,12 @@ Keep current teal/cyan + black theme
 | **Box 6** | MESSAGING MAP | "High-Converting Copy System" |
 | **Box 7** | MARKET RESEARCH & ICP | "Know Your Buyer" |
 | **Box 8** | 100+ PAGE CUSTOM BUNDLE | "Everything Done For You" |
-| **Box 9** | 30-DAY LAUNCH TIMELINE | "Day 1 to 100 Customers" |
+| **Box 9** | 30-DAY LAUNCH TIMELINE | "Day 1 to Launch Day" |
 
 ### Key Differentiators to Highlight
 - **"1-ON-1 WITH MICHAEL"** — Personal touch
 - **"100+ PAGE CUSTOM BUNDLE"** — Tangible deliverable
-- **"100 CUSTOMERS GUARANTEED"** — Risk reversal
+- **"30-DAY DELIVERY GUARANTEED"** — Risk reversal
 - **"ONLY 10 SPOTS/MONTH"** — Real scarcity
 
 ### Timeline Visual (optional addition)
@@ -131,12 +131,12 @@ Day 1-3: Onboarding Form
 Week 1-2: Michael Builds Everything
 Week 3: Receive Your Bundle
 Week 4: Integration Call + Launch
-Day 30: First 100 Customers
+Day 30: Your Funnel Is Live
 ```
 
 ### Value Badges
 - "DONE FOR YOU"
-- "100 CUSTOMERS GUARANTEED"
+- "30-DAY DELIVERY GUARANTEED"
 - "10 SPOTS/MONTH"
 - "$397 ONE-TIME"
 

@@ -131,9 +131,7 @@ Here's how the 30 days work:
 
 **Week 4:** We get on a 1-on-1 call. I walk you through everything. You ask questions. We launch.
 
-**Day 30:** Your system is live and generating your first 100 customers.
-
-That's not a hope. That's the guarantee.
+**Day 30:** Your complete funnel is live and ready to generate clients.
 
 ---
 
@@ -141,21 +139,19 @@ That's not a hope. That's the guarantee.
 
 **[3:45 - 4:15]**
 
-Speaking of which — let me be clear about what I'm promising you.
+Let me be clear about what I'm promising you.
 
-**100 customers in 30 days. Guaranteed.**
+**Your complete funnel delivered in 30 days — guaranteed.**
 
-If you don't get 100 customers after we launch your funnel?
+If for any reason I don't finish your funnel in 30 days?
 
-I keep working with you until you do.
+I keep working until it's done. No extra charge. No excuses.
 
-Not "sorry, here's a refund."
+You're not paying for "some help" or "guidance."
 
-I stay with you. We figure out what's not working. We fix it. We keep going until you hit 100.
+You're paying for a finished product. A complete system. Ready to launch.
 
-Because I'm not interested in taking your money and disappearing.
-
-I'm interested in you actually getting results.
+And that's exactly what you're going to get.
 
 ---
 
@@ -215,7 +211,7 @@ Build it yourself over the next few months... or have me build it for you in 30 
 
 $397. One time. Everything done.
 
-100 customers guaranteed.
+30-day delivery guaranteed.
 
 Click the button below to get your Done-For-You Client Ready Funnel.
 
@@ -252,7 +248,7 @@ I'll see you on the integration call.
 
 - [x] Every claim verified against offer.md
 - [x] Price stated ($397)
-- [x] Guarantee stated (100 customers or keep working)
+- [x] Guarantee stated (complete funnel in 30 days or keep working)
 - [x] Scarcity stated (10 spots/month)
 - [x] Clear who it's for and NOT for
 - [x] Timeline clear (30 days)

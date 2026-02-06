@@ -140,11 +140,11 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - Week 1-2: Michael builds your complete Client Ready Funnel (all 9 components)
 - Week 3: Receive 100+ page custom bundle
 - Week 4: 1-on-1 integration call + launch
-- Day 30: Generating first 100 customers
+- Day 30: Your funnel is live and generating clients
 
-**Guarantee:** 100 Customers or Michael keeps working with you until you do
+**Guarantee:** Complete funnel delivered in 30 days — or Michael keeps working until it's done
 
-**Promise:** Have your entire Client Ready Offer System launched in 30 days — impossible NOT to have a converting offer
+**Promise:** Have your entire Client Ready Funnel built and launched in 30 days — a complete system ready to generate clients
 
 ---
 
@@ -288,8 +288,8 @@ See: `reference/domain/email-rhythm.md` for full implementation details.
 **30-Day Money Back (All Products):**
 > "If you don't get results using our templates and support, send us an email at any time and we'll refund every penny of your investment — no questions asked."
 
-**100 Customers Guarantee (OTO 2 - $397 DFY):**
-> "We'll implement the system over 30 days and if you don't get 100 customers, I'll personally work with you up until you do."
+**Completion Guarantee (OTO 2 - $397 DFY):**
+> "Your complete funnel delivered in 30 days — or I keep working until it's done. No extra charge. No excuses."
 
 **Sprint Guarantee (OTO 1 - $297 Sprint):**
 > "Launch your validated offer in 30 days — or Michael keeps working with you until you do."
