@@ -203,64 +203,97 @@ NOT: "The Client Ready System" (product name, not promise)
 
 ## Module 3: Traffic Generation Playbook
 
-**Beyond the basics — the full traffic system.**
+**The 2026 approach to Facebook/Meta ads — algorithm-first advertising.**
 
-### 3.1 The Traffic Hierarchy
+> "The algorithm nowadays is really good at finding your ideal targeting. We don't really use lookalikes anymore or interest-based targeting."
 
-| Level | Source | Cost | Best For |
-|-------|--------|------|----------|
-| 1 | Warm outreach (DMs) | Free | First 1-5 clients |
-| 2 | Retargeting ads | Low | People who know you |
-| 3 | Email to buyers | Free | Existing customers |
-| 4 | Lookalike audiences | Medium | Scaling proven offers |
-| 5 | Cold interest targeting | High | At scale |
-| 6 | Broad/algorithmic | High | Mature funnels only |
+Everything you learned about Facebook ads before 2024 is outdated. Here's what works now.
 
-**Rule:** Master level 1 before level 2. Master level 2 before level 3. Etc.
+### 3.1 Campaign Structure (2026)
 
-### 3.2 The $0-$10K Traffic Plan
+**OLD Way (Don't Do This):**
+- Separate ad sets for TOF/MOF/BOF
+- Interest-based targeting
+- Lookalike audiences
+- Ad set budgets (ABO for scaling)
+- Audience exclusions
 
-**$0-$1K (Month 1-2): Warm Traffic Only**
-- DM outreach (5/day)
-- Post in communities you're already in
-- Ask for referrals from every client
-- Retarget website visitors
+**NEW Way:**
+- **One ad set** with Advantage Plus targeting
+- **Campaign Budget Optimization (CBO)** only
+- **All creative in one ad set**
+- **Target only by country/region** — no interests, no lookalikes, no exclusions
+- Let the algorithm find your audience through your creative
 
-**$1K-$5K (Month 3-4): Add Paid Retargeting**
-- $20-30/day retargeting
-- Simple ads, warm audience
-- Test creative variations
+### 3.2 Campaign Setup (Step by Step)
 
-**$5K-$10K (Month 5-6): Add Lookalikes**
-- Build lookalikes from buyers
-- $50-100/day
-- Scale winners from retargeting
+**Step 1: Create Campaign**
+1. Click Create → **Sales objective**
+2. Enable **Campaign Budget Optimization**
+3. Set daily budget (see Budget table below)
 
-### 3.3 The Campaign Metrics Cheat Sheet
+**Step 2: Ad Set Level**
+1. Conversions location: **Website only** (NOT "Website and Calls")
+2. Select your pixel
+3. Conversion event: **Purchase**
+4. Turn ON **Advantage Plus targeting**
+5. Locations: Add countries only (US, UK, CA, AU, NZ)
+6. **No interests. No lookalikes. No exclusions.**
 
-| Metric | What It Means | Good | Great | Action If Bad |
-|--------|---------------|------|-------|---------------|
-| CTR | Hook working? | 1% | 2%+ | New hooks/creative |
-| CPC | Click efficiency | <$2 | <$1 | Better targeting |
-| Landing page CR | Page working? | 20% | 30%+ | Fix page copy |
-| CPA | Cost per customer | <AOV | <50% AOV | Everything above |
+**Step 3: Ad Level**
+1. Turn **OFF** Advantage+ Creative
+2. Turn **OFF** all creative enhancements (except maybe music)
+3. Turn **OFF** site links
+4. CTA: **"Learn More"** for low-ticket
+5. Create **single ads** — not multi-variant carousels
 
-### 3.4 The Andromeda Strategy (Critical)
+### 3.3 Budget & Creative Ratio
 
-**This is the most important traffic concept right now.**
+| Daily Budget | Number of Ads | Notes |
+|--------------|---------------|-------|
+| $25-30/day | 3-4 ads | Minimum viable |
+| $100/day | 8-10 ads | Sweet spot for testing |
+| $500+/day | 15-20+ ads | Scale by adding creative |
 
-Meta's Andromeda algorithm (launched mid-2023) rewards **messaging diversity** — not just creative diversity.
+**The math:** At 2% conversion and $2 CPC, you need 50 clicks = $100 to expect one sale.
 
-**The insight:**
-> "You can squeeze a lot of juice out of one piece of ad copy and a lot of ad creative (different images/videos) but since adding in a handful of different messaging styles, results have improved PLUS I'm seeing far more distribution of purchases amongst different ads."
+**Scaling rule:** Every time you raise the budget, add more ads to your ad set.
 
-**What this means for you:**
+### 3.4 The Awareness Framework
 
-Don't just test different images on the same copy. Test fundamentally different MESSAGES.
+Based on Eugene Schwartz — the key to scaling.
 
-**The 5 Message Types Framework:**
+| Level | Definition | Creative Approach |
+|-------|------------|-------------------|
+| **Aware** | Knows you, knows your product | Direct response: "$27 — Start Now" |
+| **Solution Aware** | Knows solutions exist | "Why this beats [alternative]" |
+| **Problem Aware** | Knows they have a problem | Pain points, "Are you..." |
+| **Unaware** | Doesn't know they have a problem | Education, story, belief shifts |
 
-For each angle, create 5 different versions:
+**Why Ads Die After Week 1:** Facebook shows ads to warm audience first. Once exhausted, it shifts to cold. If you only have "aware" creative, your ads tank when hitting cold audience.
+
+**When You Hit Each Level:**
+- **$100-500/day:** Mostly aware audience, good CPAs
+- **$500-1000/day:** CPAs rising, hitting problem aware
+- **$1000+/day:** Hitting unaware, need strategy changes
+
+### 3.5 Headline Formula
+
+From Miles Stutz:
+
+```
+[Action Verb] + [Unique Mechanism] + [Payoff They Want]
+```
+
+**Examples:**
+- "Integrate the cashflow mindset and never struggle to sign 5-20K clients"
+- "Instantly eradicate [problem] with this [mechanism]"
+
+**Rule:** Sell to THEIR standard, not yours. If they want to make $10K months, sell $10K months — not your enlightened view of what success should be.
+
+### 3.6 Message Types Framework
+
+Messaging diversity matters MORE than creative diversity.
 
 | Message Type | Entry Point | Example |
 |--------------|-------------|---------|
@@ -273,58 +306,91 @@ For each angle, create 5 different versions:
 **Implementation:**
 1. Choose 3-5 core angles for your offer
 2. Write 5 message types per angle (15-25 total ads)
-3. Pair messages with matching creative types
-4. Launch all in the same ad set
-5. Let Andromeda distribute to different audience segments
+3. Launch all in the same ad set
+4. Let the algorithm distribute to different audience segments
 
-**Current results with this approach:**
-- 80-90% order bump take rate
-- Multiple ads getting purchases (not just one winner)
-- More resilient campaigns (less dependent on single ad)
+### 3.7 Key Benchmarks
 
-**Creative types winning now:**
-1. Testimonial screenshots (white background + comment)
-2. Personal photo + text overlay
+| Metric | Target | Notes |
+|--------|--------|-------|
+| CTR | Over 1% | Below = hook problem |
+| CPC | Under $7 | Higher OK for niche B2B |
+| Landing page CVR | 2-5% cold | Below 2% = messaging problem |
+| CPA | $50-100 | At 2% CVR, $2 CPC |
+| AOV | $100+ | Need bumps/upsells |
+| ROAS | 2.0+ | Optimize for this, not lowest CPA |
+
+### 3.8 Frequency Rules
+
+| Frequency | Status | Action |
+|-----------|--------|--------|
+| < 2 | Healthy | Can scale |
+| 2 | Warning | Monitor closely |
+| 3+ | Fatigued | Do NOT scale — add new creative first |
 
 ---
 
 ## Module 4: A/B Testing Frameworks
 
-**Systematic testing, not random changes.**
+**Systematic testing with proper validation thresholds.**
 
 ### 4.1 The Testing Priority Matrix
 
 Test in this order (biggest impact first):
 
 1. **Offer** — What you're selling (biggest lever)
-2. **Messaging** — Different message TYPES, not just different words (see Andromeda in 3.4)
-3. **Audience** — Who sees it
-4. **Hook** — First 3 seconds
-5. **Creative** — Image/video
+2. **Messaging** — Different message TYPES, not just different words
+3. **Angles** — Different entry points (pain, transformation, contrarian)
+4. **Hook** — First line that stops the scroll
+5. **Creative** — Image/video format
 6. **Copy** — Body text variations
 7. **Landing page** — Where they go
 8. **Price** — What you charge
 
-Most people skip #1 and #2 and go straight to testing images. Per Andromeda, messaging diversity matters MORE than creative diversity. Start at #1.
+Most people skip #1 and #2 and go straight to testing images. Start at #1.
 
-### 4.2 The 3-Ad Test Structure
+### 4.2 Validation Thresholds (Critical)
 
-For each audience, run 3 ads:
-- Ad A: Your best guess
-- Ad B: Different hook, same body
-- Ad C: Different angle entirely
+**When is your funnel validated?**
 
-**Budget:** Equal spend across all 3
-**Duration:** Until 100+ clicks each
-**Decision:** Kill losers, scale winner, create variations of winner
+| Sales | Status | Action |
+|-------|--------|--------|
+| 5-10 | "Onto something" | Keep running, don't optimize |
+| 30 | Minimum to trust data | Can start A/B testing |
+| 100 | Truly validated | Numbers stabilize, scale confidently |
 
-### 4.3 The Testing Log
+> "The first six sales that come in, I'm like, oh, this page is the winner for sure... But when I leave it 30, 40 sales, sometimes it's the total opposite."
 
-| Test | Variable | Control | Variant | Clicks | Conv | Winner |
-|------|----------|---------|---------|--------|------|--------|
-| 1 | Hook | Question | Statement | 150/150 | 3/5 | Variant |
-| 2 | Image | Face | Text overlay | 150/150 | 4/4 | Tie |
+**Implication:** Don't optimize or make big decisions until you have 30+ sales. Everything before that is noise.
+
+### 4.3 The Testing Protocol
+
+**Phase 1: Initial Launch ($25-30/day)**
+- Duration: Until $100 spent OR 30+ sales
+- Monitor: CTR (>1%), CPC (<$7), early conversions
+- Do NOT: Kill ads before $100 spend, make optimization decisions
+
+**Phase 2: Early Optimization (After 30+ sales)**
+- Review which ads got the most purchases
+- Duplicate winners with headline variations
+- Pause ads with 0 purchases AND CTR <1%
+- Add new creative in underrepresented awareness levels
+
+**Phase 3: Scale (After 100+ sales, stable ROAS)**
+- Increase budget incrementally (20-30% at a time)
+- Add creative with every budget increase
+- Monitor frequency obsessively
+- Expand to new awareness levels
+
+### 4.4 The Testing Log
+
+| Test | Variable | Control | Variant | Sales | CPA | Winner |
+|------|----------|---------|---------|-------|-----|--------|
+| 1 | Hook | Question | Statement | 15/22 | $85/$62 | Variant |
+| 2 | Awareness | Problem | Transformation | 18/18 | $70/$72 | Tie |
 | ... | ... | ... | ... | ... | ... | ... |
+
+**Note:** Track by SALES and CPA, not just clicks. Clicks mean nothing if they don't convert.
 
 ---
 
@@ -419,58 +485,105 @@ For each client:
 
 ## Module 7: One-Click Campaign Templates
 
-**Pre-built campaigns you can duplicate and customize.**
+**2026 campaign templates using Advantage Plus and CBO.**
 
-### 7.1 The Retargeting Campaign Template
+### 7.1 Main Conversion Campaign Template
 
-**Campaign settings:**
-- Objective: Conversions
-- Budget: $20-30/day
-- Optimization: Purchase
+**Campaign Settings:**
 
-**Ad set:**
-- Audience: Website visitors 180 days, exclude purchasers
-- Placements: Automatic (or FB/IG feeds only)
+| Setting | Value |
+|---------|-------|
+| Objective | Sales |
+| Campaign Budget Optimization | ON |
+| Daily budget | $25-100/day (see Module 3) |
+| Campaign name | `LTO - [Offer Name] - CBO` |
 
-**Ads:**
-- 3 variations minimum
-- Format: Image or short video
-- Copy: Reminder + CTA
+**Ad Set Settings:**
 
-### 7.2 The Lookalike Campaign Template
+| Setting | Value |
+|---------|-------|
+| Conversion location | Website only |
+| Pixel | Your pixel |
+| Conversion event | Purchase |
+| Advantage Plus targeting | ON |
+| Locations | US, UK, CA, AU, NZ |
+| Interests | NONE |
+| Lookalikes | NONE |
+| Exclusions | NONE |
 
-**Campaign settings:**
-- Objective: Conversions
-- Budget: $50-100/day
-- Optimization: Purchase
+**Ad Settings:**
 
-**Ad sets (3):**
-- 1% Lookalike of purchasers
-- 1% Lookalike of email list
-- 2% Lookalike of purchasers
+| Setting | Value |
+|---------|-------|
+| Advantage+ Creative | OFF |
+| Creative enhancements | OFF |
+| Site links | OFF |
+| CTA | Learn More |
+| Ad naming | `[Awareness Level] - [Format] - [Hook]` |
 
-**Ads:**
-- Use proven creative from retargeting
-- 3 variations per ad set
+### 7.2 Engagement Campaign Template
 
-### 7.3 The Cold Traffic Campaign Template
+**Use for:** Building omnipresence at $3-25/day.
 
-**Campaign settings:**
-- Objective: Conversions
-- Budget: $100+/day
-- Optimization: Purchase
+| Setting | Value |
+|---------|-------|
+| Objective | Engagement |
+| Daily budget | $3-25/day per platform |
+| Placements | MANUAL — FB Feed only OR IG Feed only (separate campaigns) |
+| Posts per ad set | 2 posts |
+| Rotation | Weekly — swap in posts with organic engagement |
 
-**Ad sets (5):**
-- Interest stack 1
-- Interest stack 2
-- Interest stack 3
-- Interest stack 4
-- Interest stack 5
+### 7.3 Retargeting Campaign Template
 
-**Ads:**
-- Test multiple hooks
-- Use proven creative
-- Longer copy often wins on cold
+**Campaign Settings:**
+
+| Setting | Value |
+|---------|-------|
+| Objective | Sales |
+| CBO | ON |
+| Daily budget | $20-30/day |
+
+**Ad Set Settings:**
+
+| Setting | Value |
+|---------|-------|
+| Audience | Website visitors 180 days, exclude purchasers |
+| Placements | Advantage+ Placements |
+
+**Creative Angles:**
+1. Reminder: "Still thinking about it?"
+2. Social proof: "[X] coaches already inside"
+3. Objection handler: Address top objection
+
+### 7.4 Pixel & CAPI Setup Checklist
+
+**Step 1: Base Pixel**
+- [ ] Install pixel base code in `<head>` of ALL funnel pages
+
+**Step 2: Purchase Event**
+- [ ] Add purchase event to page AFTER order form (upsell page, not confirmation)
+
+**Step 3: CAPI Setup**
+- [ ] Create account at stape.io (~$10/month)
+- [ ] Follow their Facebook CAPI guide
+- [ ] Once CAPI working: Remove standard purchase event
+
+**Step 4: Verify**
+- [ ] Test purchase in Events Manager → Test Events
+- [ ] Confirm Purchase event fires with correct value
+- [ ] Check Event Match Quality (aim for 8+)
+
+### 7.5 Ads Manager Column Setup
+
+Set up columns in this order:
+1. **Frequency** (most important)
+2. Results
+3. Cost per result
+4. Purchase ROAS
+5. AOV
+6. Amount spent
+7. CTR / CPC
+8. Landing page views
 
 ---
 
