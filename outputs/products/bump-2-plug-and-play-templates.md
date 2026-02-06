@@ -899,8 +899,8 @@ You have the templates. Now build.
 **This week:** Set up the email sequence
 **Ongoing:** Document clients and refine messaging
 
-**When you're ready for traffic:**
-- **Traffic & Launch Kit ($67)** — Ad generator, targeting, launch plan
+**When you're ready to validate:**
+- **Offer Validation Kit ($67)** — AI prompts, real offer reviews, and checklists to make sure your offer is right
 
 **When you want support:**
 - **Client Ready Sprint ($297)** — 4 weeks, weekly calls, accountability

@@ -720,7 +720,7 @@ You have the scripts. Now use them.
 
 **When you're ready to scale:**
 - **Plug & Play Templates ($37)** — Landing pages and email sequences for when DMs turn into "send me more info"
-- **Traffic & Launch Kit ($67)** — Paid traffic to reach people beyond your warm network
+- **Offer Validation Kit ($67)** — Make sure your offer is right before you build anything
 
 Questions? Reply to your purchase email or find me in Skool.
 

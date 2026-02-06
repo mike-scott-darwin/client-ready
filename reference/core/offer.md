@@ -222,7 +222,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 | Front-end | $27 | One-time |
 | Bump 1 (DM Scripts) | $17 | One-time |
 | Bump 2 (Templates) | $37 | One-time |
-| Bump 3 (Traffic) | $67 | One-time |
+| Bump 3 (Validation Kit) | $67 | One-time |
 | OTO 1 (Self-Paced) | $97 | One-time |
 | OTO 1 (Sprint) | $297 | One-time |
 | OTO 2 (DFY) | $397 | One-time |
