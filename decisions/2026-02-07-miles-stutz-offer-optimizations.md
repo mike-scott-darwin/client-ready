@@ -1,7 +1,7 @@
 ---
 type: decision
 date: 2026-02-07
-status: accepted
+status: codified
 urgency: high
 linked_research:
   - research/2026-02-07-miles-stutz-no-phone-offer-training.md
