@@ -461,6 +461,53 @@ INCLUDED FREE
 
 ---
 
+## CHECKOUT POPUP (Purchase Modal)
+
+[This is the popup that appears when someone clicks to buy. Current live version has multiple issues — see fixes below.]
+
+### Current Issues (Live Popup)
+
+| Issue | Current (Wrong) | Fix |
+|-------|----------------|-----|
+| Headline | "Launch Your Client Ready Offer In 24 Hours Or Less & Get 100+ Customers in 90 days" | Remove outcome claim — FTC Tier 1 risk, no typicality data |
+| Mockup price | $17 | Update to $27 |
+| Savings math | "You're Instantly Saving $130.00" | $147 - $27 = $120 (not $130) |
+| Dynamic Item price | $99 | Should be $27 |
+| No-Phone positioning | Missing entirely | Add to headline and body |
+| Module names in mockup | Legacy ("Ready to Buy Blueprint", "Easy to Sell Product Creation", etc.) | Update to match current offer |
+
+### Updated Popup Copy
+
+**Headline:**
+> Build Your No-Phone Offer In One Afternoon
+
+**Sub-headline:**
+> The exact system to turn your expertise into an offer so clear it sells without a sales call.
+
+**Pricing:**
+> ~~$147.00~~ Only $27.00 Today
+> (You're Instantly Saving $120.00)
+
+**Body:**
+> Case study + 5 AI prompts + offer document template. Delivered instantly. Start building in the next 2 minutes.
+
+**CTA Button:**
+> GET INSTANT ACCESS — $27
+> 30-Day Money Back Guarantee
+
+### Updated Product Mockup Text
+
+| Device | Text |
+|--------|------|
+| Desktop | The Client Ready Offer System |
+| Laptop | No-Phone Offer Case Study |
+| Tablet | 5 AI Offer Extraction Prompts |
+| Phone | Offer Document Template |
+
+[Update mockup image: change $17 badge to $27. Replace legacy module names with above. Keep Michael's photo — it builds trust.]
+
+---
+
 ## ORDER BUMP COPY (Checkout Page)
 
 ### Bump 1: Quick Win DM Scripts — $17 (was $97)
@@ -541,3 +588,8 @@ INCLUDED FREE
 | Bonus 5 | Facebook Ad Tracking Set Up | The One-Sentence Offer Test |
 | Testimonials | No disclaimers | Individual + general disclaimer |
 | Footer | No results disclaimer | Added FTC-aligned disclaimer |
+| Popup headline | "Launch Your Client Ready Offer In 24 Hours Or Less & Get 100+ Customers in 90 days" | "Build Your No-Phone Offer In One Afternoon" |
+| Popup savings | $130 (wrong math) | $120 (correct: $147 - $27) |
+| Popup mockup price | $17 | $27 |
+| Popup Dynamic Item | $99 | $27 |
+| Popup module names | Legacy (Ready to Buy Blueprint, etc.) | No-Phone Case Study, AI Prompts, Offer Template |
