@@ -527,6 +527,39 @@ INCLUDED FREE
 
 ---
 
+## BUMP PRODUCT MOCKUP TEXT (Multi-Device Format)
+
+[Same 4-device mockup format as front-end. Send to designer with updated text below.]
+
+### Bump 1: Quick Win DM Scripts ($17)
+
+| Device | Text |
+|--------|------|
+| Desktop | 5 Copy-Paste DM Scripts |
+| Laptop | Warm Outreach Playbook |
+| Tablet | First Conversation in 5 Minutes |
+| Phone | Start Selling Today |
+
+### Bump 2: Plug & Play Templates ($37)
+
+| Device | Text |
+|--------|------|
+| Desktop | Plug & Play Offer Templates |
+| Laptop | Landing Page Swipe Files and Proven Layouts |
+| Tablet | 30-Day Evergreen Email Sequence |
+| Phone | Headlines and Hooks Library |
+
+### Bump 3: Offer Validation Kit ($67)
+
+| Device | Text |
+|--------|------|
+| Desktop | Offer Validation Kit |
+| Laptop | AI Validation Prompts — Instant Offer Feedback |
+| Tablet | 10 Real Offer Reviews with Loom Walkthroughs |
+| Phone | 15-Point Offer Checklist |
+
+---
+
 ## HEADLINE TESTING NOTES
 
 | Headline | Angle | Test Priority |
