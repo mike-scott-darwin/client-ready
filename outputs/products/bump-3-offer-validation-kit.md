@@ -372,6 +372,99 @@ See the specific changes that transformed weak offers into converting ones.
 
 ---
 
+# Part 5: Validation Benchmarks (When to Trust Your Data)
+
+You've run the prompts, scored the checklist, studied the examples. Now the question is: **when do you know it's working?**
+
+These benchmarks come from Cat Howell (8-figure agency, Profit Lab) and Miles Stutz (Daily Client Funnel), who've spent millions on ads testing low-ticket offers. This is what they use.
+
+---
+
+## Sales Thresholds
+
+| Sales Count | What It Means | What to Do |
+|-------------|---------------|------------|
+| **1-5 sales** | "Onto something" — but NOT validated | Keep running. Don't change anything yet. |
+| **5-10 sales** | Signal, not proof | Monitor, but don't celebrate or optimize yet. |
+| **30 sales** | Minimum to trust the data | NOW you can start split testing. Not before. |
+| **100 sales** | Truly validated — numbers stabilize | Scale with confidence. Your offer works. |
+
+> Cat Howell: "The first six sales that come in, I'm like, oh, this page is the winner for sure... But when I leave it 30, 40 sales, sometimes it's the total opposite."
+
+**The lesson:** Don't make decisions too early. Your first 5 sales will lie to you.
+
+---
+
+## The $300 Rule
+
+Before building a full funnel, test with $300 in paid ads:
+
+1. Create your offer (you've done this)
+2. Build a simple landing page
+3. Run $300 in ads over 3-7 days
+4. **1-3 sales in $300 = you're in the red, but the offer has legs**
+5. **5-6 sales in $300 = winner. Scale it.**
+6. **0 sales in $300 = change the OFFER, not the copy**
+
+> Miles Stutz: "If you spend $300 without a sale, change the snack. Don't optimize — change the offer."
+
+**Testing priority when stuck (one at a time):**
+1. Offer (biggest impact)
+2. Headline
+3. Price
+4. Design
+
+Only change one variable per $300 test.
+
+---
+
+## AOV Benchmarks (What Good Looks Like)
+
+Your front-end price alone won't cover ad costs. That's by design. Here's what carries the model:
+
+| Metric | Target | Why It Matters |
+|--------|--------|----------------|
+| Combined bump take rate | 50%+ of customers buy at least one bump | This is the lever that makes low-ticket work |
+| AOV (average order value) | $100+ before scaling ads | Below $100 = you'll bleed money on ads |
+| OTO conversion (under $60) | 20-30% | Lower-price upsells convert higher |
+| OTO conversion (over $60) | 10-20% | Higher-price upsells are still solid |
+| Membership trial conversion | 5-10% | Recurring revenue adds up |
+
+> Cat Howell: "Don't scale ads until AOV is solid over $100."
+
+**The optimization order:**
+1. Get bumps working first (easiest to create, biggest AOV lever)
+2. Add upsells one at a time (don't launch multiple at once)
+3. THEN scale ad spend
+
+---
+
+## Split Test Rules
+
+When you're ready to test variations (after 30+ sales):
+
+- **30 sales minimum per variant** before deciding a winner
+- **Test one variable at a time** — headline OR price OR design, never all three
+- **More bumps = higher everything** — Cat's split test showed adding bumps doubled conversion rate (+91%) and earnings per page view (+80%)
+- **Don't kill ads too early** — Give each variant $100-150 before judging
+
+---
+
+## What These Benchmarks Mean for You
+
+You probably won't hit all of these on day one. That's normal.
+
+The purpose of this kit is to help you know **where you are** and **what to fix next** — not to hit every benchmark before launching.
+
+**The minimum viable launch:**
+- Offer scores 12+ on the checklist
+- You've shared it with 5-10 real people and gotten feedback
+- You're ready to spend $300 to find out if it works
+
+Everything after that is optimization.
+
+---
+
 # The Rule
 
 > "If your offer doesn't pass the checklist, don't spend money on ads. Fix the offer first."

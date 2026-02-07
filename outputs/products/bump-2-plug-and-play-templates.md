@@ -15,8 +15,9 @@ Here's what's inside:
 3. **30-Day Email Sequence** — Pre-written, tested
 4. **Messaging Maps** — Consistent copy across touchpoints
 5. **Client Profile Templates** — Document who actually buys
-6. **Copy-Paste Headlines & Hooks** — 50+ proven variations
-7. **Promo & Quick Cash Templates** — Flash sales, referral drives, price increases, scholarships
+6. **Awareness Level Messaging Map** — Write the right copy for the right audience
+7. **Copy-Paste Headlines & Hooks** — 50+ proven variations
+8. **Promo & Quick Cash Templates** — Flash sales, referral drives, price increases, scholarships
 
 Let's walk through each.
 
@@ -536,7 +537,85 @@ Patterns to note:
 
 ---
 
-## Part 6: Copy-Paste Headlines & Hooks
+## Part 6: Awareness Level Messaging Map
+
+**Why your copy isn't converting — and how to fix it in 5 minutes.**
+
+Most coaches write ALL their copy for people who already know them. But your audience is at different levels of awareness — and each level needs different messaging.
+
+This framework comes from Eugene Schwartz's *Breakthrough Advertising* and is used by Cat Howell and every serious advertiser running paid traffic at scale.
+
+---
+
+### The 4 Levels
+
+| Level | What They Know | How to Speak to Them |
+|-------|---------------|----------------------|
+| **Aware** | Know you, know your offer, ready to buy | Direct: "Here's the link. $27. Get it now." |
+| **Solution Aware** | Know solutions exist, comparing options | Differentiation: "Why this beats [alternative]" |
+| **Problem Aware** | Feel the pain, haven't committed to solving | Agitation: "Are you still [painful activity]?" |
+| **Unaware** | Don't even know they have a problem | Pattern interrupt: "You've been told [normalized belief]..." |
+
+---
+
+### Why This Matters for YOUR Offer
+
+When you first share your offer — warm audience, friends, LinkedIn connections — you're talking to **Aware** and **Solution Aware** people. They already trust you. Direct copy works.
+
+When you run ads or create content for strangers, you hit **Problem Aware** and **Unaware** audiences. Direct copy fails here because they don't know you yet.
+
+> Cat Howell: "The businesses that scale really big are the ones who know how to speak to this unaware market."
+
+---
+
+### Quick Reference: Write Copy for Each Level
+
+**For AWARE audiences (warm traffic, email list, Skool members):**
+```
+"[Offer Name] — $[Price]. Get instant access."
+"New module just dropped inside [Offer Name]. Here's what's in it."
+"Last chance to join [Offer Name] at this price."
+```
+
+**For SOLUTION AWARE audiences (comparing you to alternatives):**
+```
+"Most [coaches/courses] teach [common approach]. Here's why that doesn't work — and what to do instead."
+"The difference between [your method] and [common method] is [key differentiator]."
+"Why [your approach] works when [other approaches] failed."
+```
+
+**For PROBLEM AWARE audiences (feel the pain, shopping for solutions):**
+```
+"Are you still [painful activity they do daily]?"
+"If you can't explain what you do in one sentence, you don't have a marketing problem."
+"You're not posting enough — you're posting without knowing what to say."
+```
+
+**For UNAWARE audiences (don't know they have a problem):**
+```
+"You've been told [normalized belief they accept as truth]."
+"You think [misconception]. Here's what's actually happening."
+"Most [target audience] will never [achieve outcome]. Not because they can't — because they're solving the wrong problem."
+```
+
+---
+
+### How to Use This Map
+
+1. **Identify your audience's level** — Where are they seeing this? (Warm list = Aware. Cold ad = Problem Aware/Unaware.)
+2. **Pick the right template** — Match the copy framework to their level
+3. **Write the headline/hook first** — This is what stops the scroll
+4. **Fill in the body** — Use the landing page swipe files (Part 2) for structure
+
+**Rule of thumb:**
+- Landing pages for warm traffic → short-form, direct (Layout A)
+- Landing pages for cold traffic → long-form, story-driven (Layout B)
+- Emails to buyers → Aware copy (they already bought)
+- Ads to strangers → Problem Aware or Unaware copy
+
+---
+
+## Part 7: Copy-Paste Headlines & Hooks
 
 50+ proven variations. Customize the bracketed sections.
 
@@ -582,7 +661,7 @@ Patterns to note:
 
 ---
 
-## Part 7: Promo & Quick Cash Templates
+## Part 8: Promo & Quick Cash Templates
 
 Ready-to-use templates for running promotional campaigns. Pick what fits your situation.
 

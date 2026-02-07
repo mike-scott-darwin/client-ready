@@ -33,6 +33,8 @@ Think about it: if your offer promises "transform your life" or "grow your busin
 
 **The industry calls this normal. It's not. It's a design problem.**
 
+Here's what's really happening: most coaches have **normalized the pain.** They think sales calls are just how high-ticket works. "That's the game." Or they **misattribute the problem** — "my marketing isn't working" — when the real issue is the offer itself is too complex for someone to say yes without a conversation.
+
 Sales calls eat 50-70% of a coach's time. Booking them is harder and more expensive every year. And the trust recession means people won't get on a call unless they're already ready to buy.
 
 **The fix isn't a better sales script. It's a clearer offer.**
@@ -121,6 +123,8 @@ If your answers don't connect to the offer you're about to extract, you might be
 The prompts will pull out what's TRUE about you. But if you're forcing yourself toward a market that doesn't excite you, or a transformation you don't actually care about — the extraction won't save you.
 
 Better to know now.
+
+Cat Howell — who built an 8-figure agency in 3 years — puts it bluntly: *"If you're just doing it for the money and you don't actually care, it's not a song of your soul. It's not gonna work."* This isn't just philosophy. It's operational reality. The people who succeed long-term are the ones who built something aligned.
 
 If everything aligns — let's go. If something feels off — sit with it before continuing. The goal isn't just any offer. It's an offer you won't abandon.
 
