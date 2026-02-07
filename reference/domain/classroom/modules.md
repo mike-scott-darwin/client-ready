@@ -24,7 +24,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 | Front-end | Client Ready Offer System | $27 |
 | Bump 1 | Quick Win DM Scripts | $17 |
 | Bump 2 | Plug & Play Templates | $37 |
-| Bump 3 | Traffic & Launch Kit | $67 |
+| Bump 3 | Offer Validation Kit | $67 |
 | OTO 1a | Self-Paced Sprint | $97 |
 | OTO 1b | 4-Week Sprint | $297 |
 | OTO 2 | Done-For-You Funnel | $397 |
@@ -122,7 +122,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 **Key deliverable:** First campaign launched, traffic flowing, path to high-ticket clear
 
 **Products that accelerate this phase:**
-- $67 Traffic & Launch Kit — Ad generator, targeting playbook, launch checklist
+- $67 Offer Validation Kit — AI validation prompts, real offer reviews, checklist
 - $297 Sprint — Weekly calls, hot seat feedback on campaigns
 - $5,000 Accelerator — Done-with-you funnel + traffic in 8 weeks
 
@@ -293,7 +293,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 - The three Client Ready bumps and why they work:
   - **Bump 1: Quick Win DM Scripts ($17)** — Immediate action, start conversations today
   - **Bump 2: Plug & Play Templates ($37)** — Skip the blank page problem
-  - **Bump 3: Traffic & Launch Kit ($67)** — Know how to get your first 10 buyers
+  - **Bump 3: Offer Validation Kit ($67)** — Validate your offer before you build
 - Bump psychology: why adding 3 bumps can 2x conversion (Cat Howell data)
 - Placement and copy for each bump
 - How to create bumps for YOUR value ladder

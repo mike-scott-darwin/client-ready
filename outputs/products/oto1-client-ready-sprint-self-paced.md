@@ -191,11 +191,11 @@ Output as clean copy I can paste into any page builder.
 
 **Your ad headline must match your landing page headline.**
 
-If your ad says: "Validate your offer in one afternoon"
-Your page must say: "Validate your offer in one afternoon"
+If your ad says: "Build an offer so clear it sells without a sales call"
+Your page must say: "Build an offer so clear it sells without a sales call"
 
 NOT: "Build your coaching business" (different promise)
-NOT: "The Client Ready System" (product name, not promise)
+NOT: "The Client Ready Offer" (product name, not promise)
 
 **Why:** Congruency = trust. Mismatch = bounce.
 

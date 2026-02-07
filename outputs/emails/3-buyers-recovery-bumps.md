@@ -108,7 +108,7 @@ But before you move to the next phase, quick inventory:
 → If not: Plug & Play Templates ($37) [LINK]
 
 **Do you know how to get your first 10 buyers?**
-→ If not: Traffic & Launch Kit ($67) [LINK]
+→ If not: Offer Validation Kit ($67) [LINK]
 
 If you have all three, ignore this. You're set.
 

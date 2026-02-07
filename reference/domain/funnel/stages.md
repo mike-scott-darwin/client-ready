@@ -76,7 +76,7 @@ RETENTION (Results → Referrals → Case Studies)
 **Products:**
 - **Bump 1: $17** — Quick Win DM Scripts (start conversations today)
 - **Bump 2: $37** — Plug & Play Templates (landing pages, emails, headlines)
-- **Bump 3: $67** — Traffic & Launch Kit (ads, targeting, launch checklist)
+- **Bump 3: $67** — Offer Validation Kit (AI validation prompts, real offer reviews, checklist)
 
 **What happens:**
 - Customer sees checkbox offers on order form

@@ -17,7 +17,7 @@ updated_from: 2026-01-19
 **CTA:** Buy Now
 
 **Key elements:**
-- Promise: Validate your $5K+ offer in one afternoon
+- Promise: Build an offer so clear it sells without a sales call — in one afternoon
 - AI-assisted methodology
 - Instant delivery
 - Order bumps: $17 + $37 + $67
@@ -33,7 +33,7 @@ updated_from: 2026-01-19
 |------|-------|---------|
 | Bump 1: Quick Win DM Scripts | $17 | First conversation in 5 minutes |
 | Bump 2: Plug & Play Templates | $37 | Don't start from scratch |
-| Bump 3: Traffic & Launch Kit | $67 | Know how to get your first 10 buyers |
+| Bump 3: Offer Validation Kit | $67 | Validate your offer before you build |
 
 ---
 

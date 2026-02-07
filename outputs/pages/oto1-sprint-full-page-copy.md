@@ -68,7 +68,7 @@ The answer: **Give them my complete done-for-you system.**
 
 I created the **Client Ready Sprint** - as the name implies, instead of building everything yourself...
 
-...Smart entrepreneurs can now **copy my complete funnel system** and go from Client Ready System to **generating sales in 24-48 hours** instead of 2-4 weeks.
+...Smart entrepreneurs can now **copy my complete funnel system** and go from Client Ready Offer to **generating sales in 24-48 hours** instead of 2-4 weeks.
 
 ---
 
@@ -278,7 +278,7 @@ Yours Today - Just One Payment Of
 
 ## [DECLINE LINK]
 
-No Thanks! I'll Stick The Client Ready System and Go The Next Route!
+No Thanks! I'll Stick With The Client Ready Offer and Go The Next Route!
 
 ---
 

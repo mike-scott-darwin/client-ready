@@ -15,7 +15,7 @@ Michael Scott helps coaches validate their offers before building — scale from
 
 **Tagline:** "The Coach Who Won't Tell You to Quit Your 9-to-5"
 
-**Positioning:** Validate before you scale. Know it works before you invest.
+**Positioning:** Build an offer so clear it sells without a sales call — in one afternoon.
 
 ---
 
@@ -26,7 +26,7 @@ Michael Scott helps coaches validate their offers before building — scale from
 | Front-end | $27 | Client Ready Offer System |
 | Bump 1 | $17 | Quick Win DM Scripts |
 | Bump 2 | $37 | Plug & Play Templates |
-| Bump 3 | $67 | Traffic & Launch Kit |
+| Bump 3 | $67 | Offer Validation Kit |
 | OTO 1 (Self-Paced) | $97 | Client Ready Sprint (Self-Paced) |
 | OTO 1 (Sprint) | $297 | 4-Week Client Ready Sprint |
 | OTO 2 | $397 | Done-For-You Client Ready Funnel |

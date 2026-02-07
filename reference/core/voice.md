@@ -88,7 +88,7 @@ Example:
 > "[Pain point]? I fixed this in [timeframe] with [simple solution]."
 
 Example:
-> "Stuck explaining what you do? I fixed this in 15 minutes with 5 AI prompts."
+> "Stuck explaining what you do? I fixed this in one afternoon with 5 AI prompts."
 
 **Pattern 4: Anti-Guru Setup**
 > "Everyone says [common advice]. Nobody tells you [the real problem]."

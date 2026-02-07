@@ -8,25 +8,27 @@ This is the data repository for Client Ready — used with the [Main Branch Prem
 
 ## The Business
 
-**Promise:** Get your offer ready. Get clients.
+**Promise:** Build an offer so clear it sells without a sales call — in one afternoon.
 
 **Tagline:** "The Coach Who Won't Tell You to Quit Your 9-to-5"
 
-**Target:** Coaches who want to scale but are stuck. Practical, no-guru-fluff approach.
+**Target:** Coaches who want to sell high-ticket ($5K+) but are stuck. Practical, no-guru-fluff approach.
 
 ## The Funnel
 
 | Step | Price | Product |
 |------|-------|---------|
 | Front-end | $27 | Client Ready Offer System |
-| Bump 1 | $47 | 24-Hour Launch Kit |
-| Bump 2 | $37 | Plug & Play Funnel Pack |
-| OTO 1 (Self-Paced) | $97 | Client Ready System |
+| Bump 1 | $17 | Quick Win DM Scripts |
+| Bump 2 | $37 | Plug & Play Templates |
+| Bump 3 | $67 | Offer Validation Kit |
+| OTO 1 (Self-Paced) | $97 | Client Ready Sprint (Self-Paced) |
 | OTO 1 (Sprint) | $297 | 4-Week Client Ready Sprint |
 | OTO 2 | $397 | Done-For-You Client Ready Funnel |
-| Backend | $5K+ | 1:1 Funnel Build |
+| OTO 3 | $47/mo | Client Ready Community ($1 trial) |
+| Backend | $5K | Client Ready Accelerator |
 
-**Max cart value:** $805 | **Target AOV:** $100-180
+**Max cart value:** $842 | **Target AOV:** $120-150 | **Recurring:** OTO 3 adds $47/mo
 
 ## How to Use
 
