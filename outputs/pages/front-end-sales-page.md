@@ -195,7 +195,7 @@ changes: No-Phone Offer positioning, case study framing, updated bonuses, P1-P3 
 
 ### Part 4: How It Works
 
-> Here's how the Client Ready System works:
+> Here's how the Client Ready Offer works:
 
 > **Step 1:** You read how I extracted my own No-Phone Offer — the exact process, what worked, what didn't, and why most coaching offers need calls to sell.
 
@@ -227,7 +227,7 @@ changes: No-Phone Offer positioning, case study framing, updated bonuses, P1-P3 
 
 > Ryan makes $14k/mo selling a Transformation Fitness Program for men over 40
 
-[Add disclaimer below: "Results vary. Ryan's results reflect his specific expertise, audience, and effort. The Client Ready system provides the framework — your results depend on your implementation."]
+[Add disclaimer below: "Results vary. Ryan's results reflect his specific expertise, audience, and effort. The Client Ready Offer provides the framework — your results depend on your implementation."]
 
 ### Alexia Testimonial
 
@@ -251,7 +251,7 @@ changes: No-Phone Offer positioning, case study framing, updated bonuses, P1-P3 
 
 > Most coaches are stuck on the "adding value treadmill" — constantly thinking they need to have more stuff thinking they need to have more stuff when the opposite is true.
 
-> The Client Ready System flips this completely upside down.
+> The Client Ready Offer flips this completely upside down.
 
 > Instead of trying to solve all your clients' problems, you get paid for solving that one "lying awake at night problem" TODAY.
 
@@ -267,13 +267,13 @@ changes: No-Phone Offer positioning, case study framing, updated bonuses, P1-P3 
 
 > Here's the reality:
 
-> This requires actual work. Get-rich-quick doesn't exist. You'll need to put in the work to set up a Client Ready System that actually helps people solve a problem.
+> This requires actual work. Get-rich-quick doesn't exist. You'll need to put in the work to set up a Client Ready Offer that actually helps people solve a problem.
 
-> But here's the power of the Client Ready System:
+> But here's the power of the Client Ready Offer:
 
-> → Ryan makes $14k/mo (cash collected) selling a Client Ready System on how to help men over 40 get fit for good*
+> → Ryan makes $14k/mo (cash collected) selling a Client Ready Offer on how to help men over 40 get fit for good*
 >
-> → Alexia generated $7,500 in her first week using a Client Ready System delivered over the DMs to her audience*
+> → Alexia generated $7,500 in her first week using a Client Ready Offer delivered over the DMs to her audience*
 >
 > → I spent 5 days in Wellington New Zealand without Internet and came back to weekly sales and $15k in profits
 
@@ -297,7 +297,7 @@ changes: No-Phone Offer positioning, case study framing, updated bonuses, P1-P3 
 
 > Or skip the hustle and go straight to getting paid for what your worth by solving your clients most burning problem TODAY and then re-selling them to solve more problems to become a long term client.
 
-> The Client Ready System isn't just a business strategy. It's freedom from the "business as usual" model that's keeping you guessing where your next client is going to come from and one bad decision away from quitting and going back to your corporate job.
+> The Client Ready Offer isn't just a business strategy. It's freedom from the "business as usual" model that's keeping you guessing where your next client is going to come from and one bad decision away from quitting and going back to your corporate job.
 
 > Ready to stop hoping your offer will convert and start getting paid?
 
@@ -426,7 +426,7 @@ INCLUDED FREE
 
 > Then just shoot us an email at michael@michaelscott.io and request a refund within 30 days.
 
-> We'll refund you your $27.00 and let you keep the Client Ready System free of charge.
+> We'll refund you your $27.00 and let you keep the Client Ready Offer free of charge.
 
 > How's that for a money back guarantee? I'd say pretty good!
 
@@ -446,7 +446,7 @@ INCLUDED FREE
 ## STICKY BOTTOM BAR
 
 > Only ~~$147~~ $27.00 Today
-> Download Client Ready System For ~~$147~~ Just $27.00!
+> Download Client Ready Offer For ~~$147~~ Just $27.00!
 > Delivered Instantly. Start learning in the next 2 minutes.
 
 ---
