@@ -1,8 +1,9 @@
 ---
 type: decision
-status: accepted
+status: superseded
 date: 2026-01-26
 urgency: normal
+superseded_by: decisions/2026-02-07-miles-stutz-offer-optimizations.md
 linked_research:
   - research/competitors/cat-howell.md
   - research/competitors/miles-stutz.md
@@ -259,4 +260,4 @@ We're not restructuring the offer stack based on a hypothesis. We're testing the
 ---
 
 *Session date: 2026-01-26*
-*Decision status: Accepted — awaiting test results*
+*Decision status: Superseded — the "clarity first" insight evolved into the sharper No-Phone Offer positioning (Feb 7, 2026). Same core insight (the problem is the offer, not the funnel), better language. See `decisions/2026-02-07-miles-stutz-offer-optimizations.md`.*

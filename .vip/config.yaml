@@ -1,0 +1,23 @@
+experience: intermediate
+
+tools:
+  gemini:
+    status: true
+    notes: "GOOGLE_API_KEY verified"
+    last_checked: 2026-02-07
+  grok:
+    status: false
+    notes: "XAI_API_KEY or xai_sdk not available"
+    last_checked: 2026-02-07
+  whisper:
+    status: false
+    notes: "whisper-cli not installed"
+    last_checked: 2026-02-07
+  markitdown:
+    status: false
+    notes: "not installed"
+    last_checked: 2026-02-07
+  pandoc:
+    status: false
+    notes: "not installed"
+    last_checked: 2026-02-07
