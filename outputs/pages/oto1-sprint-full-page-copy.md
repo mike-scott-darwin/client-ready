@@ -25,9 +25,9 @@ Your order is 100% secure, but it's not complete yet. Watch the welcome message 
 
 **⭐ SPECIAL ONE-TIME INVITATION**
 
-# WANT TO LAUNCH YOUR CLIENT READY OFFER IN THE NEXT 24-48 HOURS USING ALL MY DONE-FOR-YOU FUNNELS, COPY, GRAPHICS, EMAILS...?
+# WANT TO TAKE YOUR NO-PHONE OFFER FROM DOCUMENT TO LIVE FUNNEL — WITH MY COMPLETE SYSTEM?
 
-Skip months of building and start generating sales TODAY. Get the complete system I use to help coaches launch validated offers and start getting buyers — without followers, complex funnels, or months of setup.
+Skip months of building and launch your No-Phone Offer fast. Get the complete system I use to help coaches go from validated offer to selling without sales calls — without followers, complex funnels, or months of setup.
 
 ---
 
@@ -36,13 +36,13 @@ Skip months of building and start generating sales TODAY. Get the complete syste
 *[Display Client Ready Sprint product mockup with components visible]*
 
 **Components shown:**
-- Discover Your Zone of Genius
-- Sales Pages in Minutes with AI
-- My Highest Converting 30 Email Sequence
+- No-Phone Offer Funnel System
+- AI Landing Page Generator
+- 30-Day Email Sequence
 - THE CLIENT READY SPRINT (center)
-- Fast-Track Traffic Generation Strategies
-- My Quick Start Testing Frameworks
-- Complete Client Onboarding System
+- Traffic Generation Playbook
+- A/B Testing Frameworks
+- Client Onboarding System
 
 ---
 
@@ -50,7 +50,7 @@ Skip months of building and start generating sales TODAY. Get the complete syste
 
 Michael here...
 
-Congratulations on getting Client Ready Offer! You now have everything you need to **turn your zone of genius into profitable coaching offer**.
+Congratulations on getting Client Ready Offer! You now have everything you need to **build a No-Phone Offer that sells without a sales call**.
 
 But here's what I've learned after teaching 100+ students...
 
@@ -62,19 +62,19 @@ As a Coach - your Coach... **It's in my interest to guarantee you actually get a
 
 After seeing hundreds of Offer Creation courses collect digital dust, I asked myself:
 
-**"How can I GUARANTEE my students launch their offer and start making sales within 48 hours?"**
+**"How can I GUARANTEE my students launch their No-Phone Offer and start selling without calls?"**
 
 The answer: **Give them my complete done-for-you system.**
 
 I created the **Client Ready Sprint** - as the name implies, instead of building everything yourself...
 
-...Smart entrepreneurs can now **copy my complete funnel system** and go from Client Ready Offer to **generating sales in 24-48 hours** instead of 2-4 weeks.
+...Smart entrepreneurs can now **copy my complete funnel system** and go from Client Ready Offer document to **live No-Phone Offer funnel** instead of spending weeks building from scratch.
 
 ---
 
 ## [WHAT'S INCLUDED HEADER]
 
-# THE CLIENT READY SPRINT INCLUDES EVERYTHING YOU NEED TO LAUNCH YOUR COACHING OFFER AS FAST AS HUMANLY POSSIBLE...
+# THE CLIENT READY SPRINT INCLUDES EVERYTHING YOU NEED TO LAUNCH YOUR NO-PHONE OFFER AS FAST AS POSSIBLE...
 
 ---
 
@@ -138,17 +138,17 @@ Ready-to-launch campaign templates you can deploy immediately. Just plug in your
 
 ## HERE'S WHAT YOU'RE GETTING:
 
-✅ Launch your Coaching Offer in 24-48 hours instead of weeks
+✅ Launch your No-Phone Offer with a complete funnel — not just a document
 
-✅ Copy my complete, tested funnel system
+✅ Copy my tested funnel system — landing page, emails, checkout
 
 ✅ Skip the headaches — templates and copy done for you
 
 ✅ Skip months of trial and error
 
-✅ Get ads running the same day — even as a beginner
+✅ Start selling without sales calls — even as a beginner
 
-✅ Results without the learning curve and hustle
+✅ A system that works without you on the phone
 
 ---
 

@@ -32,31 +32,31 @@ Use these headlines across all ads. Meta shows the headline next to the CTA butt
 
 | Headline | Character Count |
 |----------|-----------------|
-| **From "I help everyone" to "I'm the only choice" — $27** | 49 |
-| **Extract your zone of genius in 15 minutes — $27** | 45 |
-| **New customers in 72 hours — $27** | 32 |
+| **Build Your No-Phone Offer — $27** | 31 |
+| **Sell Without Sales Calls — $27** | 30 |
+| **Stop Selling on Calls. Start Selling on Clarity — $27** | 50 |
+| **Your Offer Should Close Without You on the Phone — $27** | 51 |
 | **Client Ready Offer — $27** | 24 |
-| **Stop second-guessing your offer — $27** | 37 |
 
-**Recommended:** `From "I help everyone" to "I'm the only choice" — $27`
+**Recommended:** `Build Your No-Phone Offer — $27`
 
-(Matches landing page headline exactly)
+(Matches checkout popup headline)
 
 ### By Awareness Level (Optional Testing)
 
 | Level | Headline |
 |-------|----------|
-| **Unaware** | Why your content isn't converting — $27 |
-| **Problem-Aware** | From "I help everyone" to "I'm the only choice" — $27 |
-| **Solution-Aware** | Extract your zone of genius in 15 min — $27 |
+| **Unaware** | Why your coaching business needs a phone call to sell — $27 |
+| **Problem-Aware** | Stop Selling on Calls. Start Selling on Clarity — $27 |
+| **Solution-Aware** | Build Your No-Phone Offer — $27 |
 | **Most Aware** | Client Ready Offer — get it now for $27 |
 
 ### Description (Below Headline)
 
 Use one of these as the description field:
 
-- `New customers in 72 hours. AI does 90% of the work.`
-- `Extract your zone of genius into one Client Ready Offer.`
+- `An offer so clear it sells without a sales call. One afternoon.`
+- `Build your No-Phone Offer with 5 AI prompts.`
 - `Even if you've never ran ads or built a funnel.`
 
 ---
@@ -295,17 +295,17 @@ Here's the truth: YOU are the differentiator. The specific problem you solve tha
 
 But if you can't extract and articulate your zone of genius? You're just more noise.
 
-The Client Ready Offer gives you the exact AI prompts to pull your zone of genius out of your head and into a simple Google Doc.
+The Client Ready Offer gives you the exact AI prompts to pull your zone of genius out of your head and into a No-Phone Offer — an offer so clear people can say yes without a sales call.
 
-Send it to your warm list. Get sales. New customers in 72 hours.
+5 AI prompts. One afternoon. An offer that sells on clarity, not conversations.
 
-→ From "I help everyone" to "I'm the only choice"
+→ Build your No-Phone Offer — stop selling on calls
 
 clientreadyoffer.com
 
-**Headline:** `Extract Your Zone of Genius — $27`
+**Headline:** `Build Your No-Phone Offer — $27`
 
-**Description:** `New customers in 72 hours. AI does 90% of the work.`
+**Description:** `An offer so clear it sells without a sales call. One afternoon.`
 
 **Creative:** Short training video with thumbnail text: "What If You Could Identify The ONE Problem You're Uniquely Positioned to Solve"
 
@@ -344,22 +344,22 @@ You don't FIND your niche. You EXTRACT your zone of genius from what you've alre
 
 That's the difference between guessing and knowing.
 
-New customers in 72 hours using extraction, not selection.
+Build a No-Phone Offer using extraction, not selection.
 
-$27. AI does 90% of the work.
+$27. 5 AI prompts. One afternoon.
 
 → The Client Ready Offer
 
 clientreadyoffer.com
 
-**Headline:** `Extract Your Zone of Genius — $27`
+**Headline:** `Build Your No-Phone Offer — $27`
 
-**Description:** `New customers in 72 hours. No niching required.`
+**Description:** `Sell without sales calls. No niching required.`
 
 **Creative:** Static image with text overlay (update copy to match congruent version)
 
 **Suggested Image Text:**
-> Discover how to get new customers in 72 hours by extracting your zone of genius — without the niching rabbit hole or changing your bio every three months
+> Build an offer so clear it sells without a sales call — by extracting your zone of genius, not picking a niche from a list
 
 **Awareness Level:** Problem-Aware — they've tried niching, it hasn't worked
 
@@ -376,7 +376,7 @@ clientreadyoffer.com
 > Body used "unfair advantage" instead of "zone of genius"
 > Image claimed "100+ sales daily" (compliance risk — overpromises vs LP)
 
-**Action Required:** Update image creative to remove "100+ sales daily" claim. Replace with "New customers in 72 hours" to match landing page.
+**Action Required:** Update image creative to remove "100+ sales daily" claim. Replace with "Sell without sales calls" to match No-Phone positioning.
 
 ---
 
@@ -561,13 +561,16 @@ Meta's Andromeda algorithm rewards **messaging diversity**, not just creative di
 
 ---
 
-## Landing Page Congruency Checklist
+## Landing Page Congruency Checklist (Updated for No-Phone Positioning)
 
 | Element | Ad Copy | Landing Page | Match |
 |---------|---------|--------------|-------|
-| Mechanism | "Extract your zone of genius" | "Extract your zone of genius" | ✅ |
+| Core promise | "Sell without sales calls" | "Sells without a sales call" | ✅ |
+| Mechanism | "No-Phone Offer" / "Extract your zone of genius" | "No-Phone Offer" + extraction | ✅ |
 | Product name | "Client Ready Offer" | "Client Ready Offer" | ✅ |
-| Timeline | "15 minutes" | "15 minutes or less" | ✅ |
-| Outcome | "New customers in 72 hours" | "New customers in 72 hours" | ✅ |
-| Transformation | "I help everyone" → "I'm the only choice" | Same | ✅ |
+| Timeline | "One afternoon" | "In one afternoon" | ✅ |
+| Transformation | Sales calls → No-Phone clarity | Same | ✅ |
 | Price | "$27" | "$27" | ✅ |
+| Method | "5 AI prompts" | "5 AI prompts" | ✅ |
+
+**Previous congruency (deprecated):** "15 minutes", "72 hours", "I help everyone → I'm the only choice" — these were the old positioning. Ads should now lead with No-Phone Offer framing.

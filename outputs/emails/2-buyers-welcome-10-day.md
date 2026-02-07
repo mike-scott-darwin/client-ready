@@ -39,7 +39,7 @@ Separating concerns prevents email fatigue and lets each sequence do its job wel
 | 3 | She validated in 3 days | Case study / inspiration | No |
 | 4 | The mistake that cost me 6 months | Common mistake | No |
 | 5 | The 2-minute test for your offer | Quick tip | No |
-| 6 | From stuck to $5K in 30 days | Transformation story | No |
+| 6 | From stuck to first client in 30 days | Transformation story | No |
 | 7 | What my morning actually looks like | Behind the scenes | No |
 | 8 | "What if I'm not ready?" | FAQ / objection | No |
 | 9 | What happens after $27 | The roadmap | No |
@@ -191,7 +191,7 @@ Michael
 
 ## Day 6: Transformation Story
 
-**Subject:** From stuck to $5K in 30 days
+**Subject:** From stuck to first client in 30 days
 
 ---
 
@@ -213,7 +213,7 @@ The shift? He stopped describing his process and started describing the outcome.
 
 That's what the prompts force you to do.
 
-James closed his first $5K client within a month of getting clear.
+James closed his first client within a month of getting clear.
 
 What outcome does YOUR offer deliver? Not the process. The result.
 

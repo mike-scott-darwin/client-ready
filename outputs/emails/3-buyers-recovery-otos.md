@@ -62,7 +62,7 @@ Michael
 
 ## Email 2: Day 5 — Sprint Success Story
 
-**Subject:** From "maybe someday" to $4K in 28 days
+**Subject:** From "maybe someday" to first client in 28 days
 
 **Body:**
 
@@ -80,7 +80,7 @@ Week 2: Built his offer doc and landing page
 
 Week 3: Launched to his LinkedIn network
 
-Week 4: Closed his first client at $4K
+Week 4: Closed his first client
 
 Total time in the Sprint: 28 days.
 
@@ -119,7 +119,7 @@ Here's what happens:
 - Week 4: We do a 1-on-1 integration call + you launch
 - Day 30: You're generating your first customers
 
-The guarantee: 100 customers or I keep working with you until you get them.
+The guarantee: Complete funnel delivered in 30 days — or I keep working until it's done.
 
 I take 10 per month. That's a real limit — I do the work myself.
 

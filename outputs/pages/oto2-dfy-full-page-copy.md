@@ -25,9 +25,9 @@ Your order is 100% secure, but it's not complete yet. Watch the welcome message 
 
 **🔊 PLAY THE VIDEO TO TURN ON SOUND**
 
-# EXCLUSIVE: I'M GOING TO PERSONALLY BUILD OUT AND OPTIMIZE YOUR CLIENT READY OFFER AND LAUNCH PROCESS FOR YOUR BUSINESS NICHE
+# I'LL BUILD YOUR COMPLETE NO-PHONE OFFER FUNNEL — SO IT SELLS WITHOUT YOU ON THE PHONE
 
-Watch This Short Video In Full To Find Out How You Get Your Complete Customized Client Ready Offer And Launched Specifically For Your Business...
+Watch This Short Video To See How I Personally Build Your Client Ready Funnel Specifically For Your Business...
 
 *[VIDEO PLACEHOLDER]*
 
@@ -39,7 +39,7 @@ Please Watch This Short Video In Full While Your Account Is Being Created.
 
 **🔔 NEW MEMBER ONE TIME OFFER:**
 
-# WHAT IF IT WAS IMPOSSIBLE NOT TO HAVE A CONVERTING OFFER IN THE NEXT 30 DAYS?
+# WHAT IF YOUR NO-PHONE OFFER WAS BUILT, LIVE, AND SELLING IN 30 DAYS?
 
 ---
 
@@ -89,7 +89,7 @@ Here's everything I'm going to build for you:
 
 ### The Complete Client Funnel
 
-Your complete Client Ready Funnel for automatically generating & converting prospects into buyers into $2,500+ High-Ticket Clients.
+Your complete Client Ready Funnel for automatically generating and converting prospects into buyers — without sales calls.
 
 🔒 INSTANT ACCESS | ~~PRICE: $997~~ FREE
 
@@ -97,7 +97,7 @@ Your complete Client Ready Funnel for automatically generating & converting pros
 
 ### Complete Client Funnel Blueprint
 
-Step-by-step installation guide showing exactly how to scale YOUR Client Funnel from 0 - 100 customers and $10k profits a day. With your offer, and niche.
+Step-by-step installation guide showing exactly how to launch and scale YOUR No-Phone Offer funnel. With your offer and niche.
 
 🔒 INSTANT ACCESS | ~~PRICE: $497~~ FREE
 
@@ -105,7 +105,7 @@ Step-by-step installation guide showing exactly how to scale YOUR Client Funnel 
 
 ### 1-on-1 Integration Call With Michael
 
-Private integration call where I personally launch the Daily Client Funnel with you and review your roadmap to hitting consistent $5k+ days and in your offer.
+Private integration call where I personally launch your No-Phone Offer funnel with you and review your roadmap to consistent client acquisition.
 
 🔒 INSTANT ACCESS | ~~PRICE: $497~~ FREE
 
@@ -115,7 +115,7 @@ Private integration call where I personally launch the Daily Client Funnel with 
 
 ### Complete Client Ready Ecosystem
 
-Your entire Digital Snack to bridge funnel flow, created specifically for your expertise, with funnels, ads and assets designed for maximum conversions.
+Your entire No-Phone Offer ecosystem, created specifically for your expertise, with funnels, ads and assets designed for maximum conversions — without sales calls.
 
 🔒 INSTANT ACCESS | ~~PRICE: $997~~ FREE
 
@@ -123,7 +123,7 @@ Your entire Digital Snack to bridge funnel flow, created specifically for your e
 
 ### Complete High-Ticket Bridge Offers
 
-Custom automatic offers that automatically move Digital Snack Buyers into your High-Ticket programs using proven testimonial-driven sequences.
+Custom bridge offers that move front-end buyers into your higher-ticket programs using proven value-driven sequences.
 
 🔒 INSTANT ACCESS | ~~PRICE: $697~~ FREE
 
@@ -131,7 +131,7 @@ Custom automatic offers that automatically move Digital Snack Buyers into your H
 
 ### Complete High-Ticket Ecosystem
 
-Your entire high-ticket program structure designed to turn clients into $5000+ lifetime value relationships through systemized retention and expansion.
+Your entire high-ticket program structure designed to turn clients into long-term relationships through systemized retention and expansion.
 
 🔒 INSTANT ACCESS | ~~PRICE: $997~~ FREE
 
@@ -202,7 +202,7 @@ Deep-dive analysis of your market & Ideal Client including psychographics, pain 
 ## [CTA BUTTON]
 
 **[YES, ADD THIS TO MY ORDER ✓]**
-GET 100 CUSTOMERS GUARANTEE
+COMPLETE FUNNEL — 30 DAY DELIVERY GUARANTEE
 
 ---
 
@@ -210,11 +210,11 @@ GET 100 CUSTOMERS GUARANTEE
 
 *[100% Guarantee Badge]*
 
-# GET 100 CUSTOMERS GUARANTEE
+# COMPLETE FUNNEL — 30 DAY DELIVERY GUARANTEE
 
-I'll build your complete Client Ready Funnel over 30 days. If you don't get 100 customers, I keep working with you until you do.
+I'll build your complete No-Phone Offer funnel over 30 days. If it's not done, I keep working until it is. No extra charge. No excuses.
 
-You want results. I want a case study. We both win when this works.
+You want a funnel that sells without sales calls. I want a case study. We both win when this works.
 
 ---
 
@@ -244,7 +244,7 @@ When you click "YES" below, here's Exactly How It'll Work...
 
 ✅ **Week 4:** We have our 1-on-1 integration call and launch your system
 
-✅ **Day 30:** You're generating your first 100 customers or I keep working with you until you do
+✅ **Day 30:** Your No-Phone Offer funnel is live and selling — without you on the phone
 
 ---
 
@@ -254,20 +254,20 @@ When you click "YES" below, here's Exactly How It'll Work...
 
 You can spend the next 6 months building everything yourself, testing what works, and hoping you get it right...
 
-Or you can have me launch your entire Client Ready Funnel and start generating your first 100 customers in 30 days — using the exact system that works.
+Or you can have me build your entire No-Phone Offer funnel and have it live and selling in 30 days — without a single sales call.
 
 The choice is yours.
 
 Hit the button below to make the hard work easy.
 
-Hit the button below and lock in your done-for-you funnel — 100 customers guaranteed or I keep working with you.
+Hit the button below and lock in your done-for-you No-Phone Offer funnel — delivered in 30 days or I keep working until it's done.
 
 ---
 
 ## [FINAL CTA]
 
 **[YES, ADD THIS TO MY ORDER ✓]**
-GET 100 CUSTOMERS GUARANTEE
+COMPLETE FUNNEL — 30 DAY DELIVERY GUARANTEE
 
 ---
 
@@ -283,13 +283,13 @@ No Thanks! I'll Build Everything Myself And Go The Next Route!
 
 1. **Price is $397 ONE-TIME** — emphasized throughout
 
-2. **No income claims** — removed "$2K daily", "$5K-$10K daily" language
+2. **No income claims** — removed "$2K daily", "$5K-$10K daily", "$2,500+ clients", "100 customers" language
 
 3. **"Who It's For" section** — must be visible, helps qualify buyers for DFY
 
 4. **Scarcity is real** — 10/month capacity, explain why (personal involvement)
 
-5. **Guarantee** — "100 customers or I keep working with you"
+5. **Guarantee** — "Complete funnel delivered in 30 days or I keep working until it's done"
 
 6. **Terminology** — "Client Ready Funnel" throughout (not "Daily Client Funnel")
 
