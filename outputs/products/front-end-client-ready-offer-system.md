@@ -1,28 +1,86 @@
 # Client Ready Offer System
 
-**Validate your $5K+ offer before you build anything — in one afternoon.**
+**Build an offer so clear it sells without a sales call — in one afternoon.**
 
 ---
 
 ## What You Just Got
 
-You're holding the exact system I use to help coaches extract and validate offers that sell. Not theory — the actual prompts, templates, and process.
+You're holding the exact system I used to go from 7 years of searching to a validated offer that sells without sales calls. Not theory — the actual process, tools, and template.
 
 Here's what's inside:
 
-1. **The 5 AI Prompts** — Extract your zone of genius, ideal client, pain points, story, and assemble your complete offer
-2. **The Step-by-Step Guide** — How to use the prompts (and what to do with the output)
-3. **The Offer Document Template** — Your finished offer in a format ready to share
+1. **The Story** — How I went from spinning my wheels to an offer that converts without calls
+2. **The Framework** — Why most coaching offers REQUIRE sales calls (and how to fix that)
+3. **The 5 AI Prompts** — The exact tools I used to extract my offer (and you'll use to extract yours)
+4. **The Offer Document Template** — Your finished offer in a format ready to share
 
-By the end of this guide, you'll have a complete offer document you can send to potential clients TODAY.
+By the end of this guide, you'll have a complete offer document clear enough that someone can say yes without getting on a call with you.
 
 Let's go.
 
 ---
 
-## Part 1: The Client Ready Method
+## Part 1: How I Stopped Selling on Calls
 
-Before we dive into the prompts, understand the philosophy:
+Seven years. Since 2018.
+
+I tried affiliate marketing, followed gurus who promised A to Z, watched the "straight line" turn into circles. I've got the character to see things through — and I was still searching.
+
+**Here's what I learned the hard way:** Most coaches build offers that REQUIRE a sales call to sell. Not because they want to — but because the offer is too complex for someone to say yes or no without a conversation.
+
+Think about it: if your offer promises "transform your life" or "grow your business" or "get more clients" — how does someone know what they're actually buying? They can't. So they need a call.
+
+**The industry calls this normal. It's not. It's a design problem.**
+
+Sales calls eat 50-70% of a coach's time. Booking them is harder and more expensive every year. And the trust recession means people won't get on a call unless they're already ready to buy.
+
+**The fix isn't a better sales script. It's a clearer offer.**
+
+I call it a No-Phone Offer — an offer so specific that someone can make an immediate yes or no decision without needing more context. No call to explain it. No challenge to warm them up. No DMs to customize it.
+
+That's what I built for myself. And that's what this guide helps you build.
+
+---
+
+## Part 2: Why Most Offers Need Sales Calls (And How to Fix It)
+
+### The Traditional High-Ticket Problem
+
+Most coaching offers promise a large outcome over 90 days to 12 months. To deliver that outcome, you need to cover multiple components:
+
+- Mindset
+- Clarity
+- Positioning
+- Marketing
+- Sales
+- Delivery
+
+**The problem:** There are so many components — and each one requires selling in itself — that it REQUIRES a sales conversation for someone to understand what they're buying.
+
+On a traditional sales call, you dig into their problem, figure out their goal, then explain only the components THEY need. That's why you need the call — because the offer is too complex to customize without one.
+
+### The No-Phone Offer Solution
+
+Instead of one massive offer with everything, you pick ONE specific outcome and make it crystal clear:
+
+**Traditional:** "I help coaches grow their business"
+**No-Phone:** "I help coaches who can't articulate their offer validate a $5K+ offer in one afternoon — without a sales call"
+
+See the difference? The second one doesn't need explaining. You either want that or you don't.
+
+**The 4 Principles:**
+
+1. **Clear, tangible outcome + specific timeframe** — "Validate your offer in one afternoon"
+2. **Clear process** — You can see the steps before buying
+3. **Clear delivery** — You know exactly what you're getting
+4. **Easy to get started** — Low friction, immediate access
+
+That's what the Client Ready Method does. It extracts the ONE offer from your expertise that's clear enough to sell itself.
+
+---
+
+## Part 3: The Client Ready Method
 
 **"You can't grow into pain."**
 
@@ -34,11 +92,11 @@ If your offer doesn't align with what you actually want to do, you'll eventually
 3. **Build** — Low-ticket to high-ticket funnel with paid ads
 4. **Automate** — A system that works without constant hustle
 
-This guide covers Step 1: Extract. By the end, you'll have something concrete to validate.
+This guide covers Step 1: Extract. By the end, you'll have something concrete to validate — an offer clear enough that someone can say yes without a call.
 
 ---
 
-## Before You Start: The Alignment Check
+## Part 3.5: The Alignment Check (Before You Run the Prompts)
 
 Before you run the prompts, answer these three questions honestly:
 
@@ -68,9 +126,9 @@ If everything aligns — let's go. If something feels off — sit with it before
 
 ---
 
-## Part 2: The 5 AI Prompts
+## Part 4: The 5 AI Prompts (The Tools Behind the Story)
 
-Use these prompts with ChatGPT, Claude, or any AI assistant. Answer honestly — the AI will help you structure your answers, not invent them for you.
+These are the exact prompts I used to extract my own offer — and the same ones I use with every client. Use them with ChatGPT, Claude, or any AI assistant. Answer honestly — the AI will help you structure your answers, not invent them for you.
 
 ### Prompt 1: Zone of Genius Extraction
 
@@ -199,7 +257,7 @@ Format this as a clean document I could send to a potential client or use as the
 
 ---
 
-## Part 3: What To Do With Your Offer Document
+## Part 5: What To Do With Your Offer Document
 
 You now have a complete offer. Here's what to do next:
 
@@ -235,7 +293,7 @@ This is the "Validate before you build" philosophy. Know it works before investi
 
 ---
 
-## Part 4: The Offer Document Template
+## Part 6: The Offer Document Template
 
 Use this structure for your final document:
 

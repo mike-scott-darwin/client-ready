@@ -42,6 +42,7 @@ updated_from: 2026-01-25
 5. **Validation anxiety** — Afraid to put the offer out and find out it doesn't work
 6. **Wrong advice** — Told to hustle harder, scale faster, push through the pain
 7. **Starting to doubt** — Wondering if the problem is them (it's not — it's building something misaligned)
+8. **Stuck on sales calls** — Booking calls is harder and more expensive than ever. Sales calls eat 50-70% of their time. They know there has to be a better way but every "no-call" method they've tried focuses on the mechanism (DMs, challenges, VSLs) instead of the offer itself. The offer is too complex to sell without a conversation because it was never crafted to sell without one.
 
 ## What They've Tried
 
