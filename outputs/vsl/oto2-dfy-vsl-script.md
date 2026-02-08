@@ -1,7 +1,7 @@
-# OTO 2: Done-For-You Client Ready Funnel — VSL Script
+# OTO 2: Client Ready Blueprint — VSL Script
 
 **Target:** Coaches/consultants who just purchased the $27 Client Ready Offer System
-**Transformation:** From "now I have to build all this myself" to "Michael builds it for you in 30 days"
+**Transformation:** From "now I have to figure out my funnel strategy myself" to "Michael creates your complete custom Blueprint in 30 days"
 **Runtime:** 4-6 minutes (OTO upsell — viewers are already buyers, keep it tight)
 **Tone:** Confident, direct, personal — emphasize 1-on-1 with Michael
 
@@ -53,15 +53,15 @@ You have the prompts. You know what to do.
 
 The problem is execution.
 
-Building a complete funnel — the landing page, the copy, the emails, the ads, the messaging, the research — that's not an afternoon's work. That's weeks. Maybe months if you're figuring it out alone.
+Figuring out your funnel strategy — the landing page copy, the emails, the ads, the messaging, the positioning — that's not an afternoon's work. That's weeks. Maybe months if you're figuring it out alone.
 
-And every week you're "building," you're not getting clients. You're not making money. You're just... stuck in setup mode.
+And every week you're "figuring it out," you're not getting clients. You're not making money. You're just... stuck in strategy mode.
 
 That's why most coaches never actually launch.
 
 Not because they don't know what to do.
 
-Because doing it all yourself is exhausting.
+Because building the strategy yourself is exhausting.
 
 ---
 
@@ -71,21 +71,21 @@ Because doing it all yourself is exhausting.
 
 So let me offer you a different path.
 
-What if I just... built it for you?
+What if I just... created your complete funnel strategy for you?
 
 Not a template you have to figure out.
 
 Not a course you have to watch.
 
-I'm talking about ME — Michael — personally building your complete Client Ready Funnel.
+I'm talking about ME — Michael — personally creating your complete Client Ready Blueprint.
 
-Your offer. Your copy. Your landing page. Your emails. Your ads. Your messaging map. Everything.
+Your offer positioning. Your landing page copy. Your emails. Your ad creative. Your messaging map. Everything.
 
-You fill out a form. I do the work. In 30 days, you have a complete system ready to launch.
+You fill out a form. I create the strategy. In 30 days, you have a complete custom blueprint ready to implement.
 
 No figuring it out. No staring at blank pages. No wondering if you did it right.
 
-Just a done, ready-to-go funnel built by someone who's done this hundreds of times.
+Just a done, ready-to-implement funnel strategy created by someone who's done this hundreds of times.
 
 ---
 
@@ -95,25 +95,29 @@ Just a done, ready-to-go funnel built by someone who's done this hundreds of tim
 
 Here's exactly what you get:
 
-**The Complete Client Funnel** — the entire system that auto-generates and converts to high-ticket clients.
+**Complete Offer Extraction + Positioning** — I extract your zone of genius and build your entire offer positioning.
 
-**Your Custom Funnel Blueprint** — your personal roadmap showing how every piece connects.
+**Full Landing Page Copy** — complete long-form sales page, written and ready to paste into your page builder. 20 headline options included.
 
-**A 1-on-1 Integration Call with Me** — not a group call. You and me. Making sure you know exactly how to launch and run this thing.
+**Order Bump Strategy + Copy** — 3 bumps designed and written specifically for your offer.
 
-**Complete High-Ticket Bridge Offers** — so you're not stuck at $27. The ascension is built in.
+**Checkout Optimization** — copy and layout recommendations to reduce cart abandonment.
 
-**Your Complete Copy Pack** — ads, emails, sales pages. All written. All done.
+**10-Day Email Welcome Sequence** — fully written. Day-by-day. Subject lines, body copy, CTAs.
 
-**A Comprehensive Messaging Map** — so every word you say is strategically aligned.
+**Ascension + Recovery Emails** — the emails most coaches never write — and where significant revenue hides.
 
-**Deep Market Research and ICP Analysis** — I do the research. You get the insights.
+**Ad Creative Direction** — 10 hook variations, 5 primary text options, image/video guidelines.
 
-**Your 100+ Page Custom Bundle** — this isn't a PDF template. This is YOUR business, documented and ready.
+**Messaging Map** — one document that keeps your copy consistent across every touchpoint.
 
-**A 30-Day Launch Timeline** — day by day, exactly what happens and when.
+**Market Research + ICP Analysis** — detailed ideal client research and competitive landscape.
 
-Nine components. All customized to you. All done by me.
+**Plus a GHL Snapshot** — a pre-built funnel template you load into your account. Paste your custom copy and you're live.
+
+**Plus a 60-minute 1-on-1 Integration Call** — not a group call. You and me. Walking through your entire blueprint.
+
+All customized to you. All created by me.
 
 ---
 
@@ -125,13 +129,13 @@ Here's how the 30 days work:
 
 **Days 1-3:** You fill out the custom onboarding form. Tell me about your business, your audience, your zone of genius.
 
-**Weeks 1-2:** I build everything. Your funnel, your copy, your messaging, your ads. You're not doing anything except answering a few clarifying questions.
+**Weeks 1-2:** I create everything. Your positioning, your copy, your messaging, your ads. You're not doing anything except answering a few clarifying questions.
 
-**Week 3:** You receive your complete bundle. 100+ pages of everything you need, customized to your business.
+**Week 3:** You receive your complete bundle. 100+ pages of everything you need, customized to your business, plus your GHL snapshot.
 
-**Week 4:** We get on a 1-on-1 call. I walk you through everything. You ask questions. We launch.
+**Week 4:** We get on a 1-on-1 integration call. I walk you through everything. You ask questions. You implement.
 
-**Day 30:** Your complete funnel is live and ready to generate clients.
+**After the call:** You paste your custom copy into the GHL snapshot and launch.
 
 ---
 
@@ -141,9 +145,9 @@ Here's how the 30 days work:
 
 Let me be clear about what I'm promising you.
 
-**Your complete funnel delivered in 30 days — guaranteed.**
+**Your complete custom Blueprint delivered in 30 days — guaranteed.**
 
-If for any reason I don't finish your funnel in 30 days?
+If for any reason I don't finish your Blueprint in 30 days?
 
 I keep working until it's done. No extra charge. No excuses.
 
@@ -165,9 +169,9 @@ This is for you if:
 
 You have a skill, expertise, or transformation you help people with — you just haven't packaged it into a system yet.
 
-You don't want to spend the next 3 months figuring out funnels, copy, and tech.
+You don't want to spend the next 3 months figuring out copy, emails, and messaging.
 
-You want it done right the first time, by someone who's built hundreds of these.
+You want your funnel strategy done right the first time, by someone who's created hundreds of these.
 
 This is NOT for you if:
 
@@ -175,7 +179,7 @@ You have no idea what you want to offer yet. Go through the $27 system first. Ex
 
 You want to learn how to do this yourself. The Sprint is better for you — $297, you learn the whole system.
 
-But if you know what you want to do and you just want it DONE?
+But if you know what you want to do and you just want your funnel strategy DONE?
 
 This is your fastest path.
 
@@ -191,7 +195,7 @@ I only take 10 of these per month.
 
 Not fake scarcity. Real capacity.
 
-I'm personally building each of these funnels. That takes time. If I take 50 clients, I can't give you the quality you're paying for.
+I'm personally creating each of these Blueprints. That takes time. If I take 50 clients, I can't give you the quality you're paying for.
 
 So it's 10 spots. When they're gone, they're gone.
 
@@ -207,13 +211,13 @@ Or you can let me handle it now.
 
 Here's the choice:
 
-Build it yourself over the next few months... or have me build it for you in 30 days.
+Figure it out yourself over the next few months... or have me create your complete funnel strategy in 30 days.
 
 $397. One time. Everything done.
 
 30-day delivery guaranteed.
 
-Click the button below to get your Done-For-You Client Ready Funnel.
+Click the button below to get your Client Ready Blueprint.
 
 I'll see you on the integration call.
 
@@ -229,7 +233,7 @@ I'll see you on the integration call.
 
 ### Key Delivery Notes
 - Section 1 (Hook): Start with slight pause after "Are you actually going to do it?" Let it land.
-- Section 3 (Offer): Slow down on "ME — Michael — personally building your complete Client Ready Funnel." Emphasize the personal element.
+- Section 3 (Offer): Slow down on "ME — Michael — personally creating your complete Client Ready Blueprint." Emphasize the personal element.
 - Section 6 (Guarantee): Look directly at camera. This is the commitment moment.
 - Section 8 (Scarcity): Matter-of-fact tone, not urgent/pushy. Real scarcity doesn't need to be shouted.
 
@@ -248,11 +252,11 @@ I'll see you on the integration call.
 
 - [x] Every claim verified against offer.md
 - [x] Price stated ($397)
-- [x] Guarantee stated (complete funnel in 30 days or keep working)
+- [x] Guarantee stated (complete Blueprint in 30 days or keep working)
 - [x] Scarcity stated (10 spots/month)
 - [x] Clear who it's for and NOT for
 - [x] Timeline clear (30 days)
-- [x] All 9 components mentioned
+- [x] All components mentioned (9 + GHL snapshot + integration call)
 - [x] 1-on-1 with Michael emphasized (key differentiator)
 - [x] No invented statistics or credentials
 - [x] CTA is specific and actionable

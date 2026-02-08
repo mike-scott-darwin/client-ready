@@ -61,7 +61,7 @@ Every email follows the same structure:
 | Monday | Front-end | $27 | "Grab it here" |
 | Tuesday | Templates | $37 | "Get the templates" |
 | Wednesday | Sprint | $297 | "Join the Sprint" |
-| Thursday | DFY | $397 | "Let me build it" |
+| Thursday | Blueprint | $397 | "Get your custom blueprint" |
 | Friday | Accelerator | $5K | "Reply BUILD" |
 | Saturday | Community | $47/mo | "Join us in Skool" |
 | Sunday | Free value | — | "Reply and tell me" |
@@ -183,7 +183,7 @@ Michael
 
 ---
 
-### Thursday — DFY ($397)
+### Thursday — Blueprint ($397)
 
 **Subject:** Some people have time. Some people have money.
 
@@ -193,26 +193,26 @@ Real talk.
 
 Some people have time but not money. They should build things themselves.
 
-Some people have money but not time. They should pay someone else to build.
+Some people have money but not time. They should pay someone to create the strategy.
 
 Neither is better. It's just knowing which category you're in.
 
-If you have 5-10 hours a week to dedicate to building your funnel, the Sprint or Self-Paced are perfect. You'll learn and you'll save money.
+If you have 5-10 hours a week to dedicate to building your funnel, the Sprint is perfect. You'll learn and you'll save money.
 
-If you're slammed — full-time job, kids, life — and you want this DONE, not "in progress"... that's what Done-For-You is for.
+If you're slammed — full-time job, kids, life — and you want your complete funnel strategy DONE, not "in progress"... that's what the Blueprint is for.
 
-I build your complete funnel in 30 days:
-- Offer extraction
-- Landing page
+I create your complete custom funnel strategy in 30 days:
+- Offer extraction + positioning
+- Landing page copy
 - Email sequences
-- Ad copy
-- All 9 components
+- Ad creative direction
+- All 9 components + GHL snapshot
 
-You fill out an onboarding form. I build. You launch.
+You fill out an onboarding form. I build your strategy. You implement.
 
 $397. Limited to 10/month (real limit — I do the work).
 
-If "just do it for me" sounds better than "I'll figure it out": [LINK]
+If "build my strategy for me" sounds better than "I'll figure it out": [LINK]
 
 Michael
 
@@ -385,7 +385,7 @@ As buyers ascend, remove them from pitches for products they own:
 |--------|---------------|
 | Templates ($37) | Tuesday emails skip offer section |
 | Sprint ($297) | Wednesday emails skip offer section |
-| DFY ($397) | Thursday emails skip offer section |
+| Blueprint ($397) | Thursday emails skip offer section |
 | Community ($47/mo) | Saturday emails skip offer section |
 | Accelerator ($5K) | Friday emails become value-only |
 

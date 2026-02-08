@@ -21,10 +21,9 @@ This is the data repository for Client Ready — used with the [Main Branch Prem
 | Front-end | $27 | Client Ready Offer System |
 | Bump 1 | $17 | Quick Win DM Scripts |
 | Bump 2 | $37 | Plug & Play Templates |
-| Bump 3 | $67 | Offer Validation Kit |
-| OTO 1 (Self-Paced) | $97 | Client Ready Sprint (Self-Paced) |
-| OTO 1 (Sprint) | $297 | 4-Week Client Ready Sprint |
-| OTO 2 | $397 | Done-For-You Client Ready Funnel |
+| Bump 3 | $67 | The First $5K Client Playbook |
+| OTO 1 | $297 | Client Ready Sprint (4-week, one-time) |
+| OTO 2 | $397 | Client Ready Blueprint (custom strategy + GHL snapshot) |
 | OTO 3 | $47/mo | Client Ready Community ($1 trial) |
 | Backend | $5K | Client Ready Accelerator |
 

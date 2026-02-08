@@ -143,7 +143,7 @@ Call structure:
 - Email sequences drafted:
   - 10-day welcome sequence
   - Daily email templates (first 7 days of broadcast)
-  - Ascension emails (Sprint → DFY → Accelerator)
+  - Ascension emails (Sprint → Blueprint → Accelerator)
 - Checkout page copy
 - Order bump copy
 
@@ -459,17 +459,17 @@ At $5,000, that's ~$52-78/hour effective rate. Scale by raising price or reducin
 
 ---
 
-## Accelerator vs. Sprint vs. DFY
+## Accelerator vs. Sprint vs. Blueprint
 
-| Dimension | Sprint ($297) | DFY ($397) | Accelerator ($5K) |
-|-----------|---------------|------------|-------------------|
-| Duration | 4 weeks | 4 weeks | 8 weeks |
-| Format | Group + DIY | Done-for-you | Done-with-you |
+| Dimension | Sprint ($297) | Blueprint ($397) | Accelerator ($5K) |
+|-----------|---------------|-------------------|-------------------|
+| Duration | 4 weeks | 30 days | 8 weeks |
+| Format | Group + DIY | Custom strategy doc | Done-with-you |
 | Calls | 4 group calls | 1 integration call | 3 strategy calls (1:1) |
 | Async | Chat access | Minimal | Unlimited WhatsApp + Loom |
-| Who does work | Client | Michael | Both |
-| Best for | Validate + launch | Need implementation | Scale + optimize |
-| Outcome | Offer validated, funnel live | Funnel built | Profitable, scaling |
+| Who does work | Client builds | Client implements strategy | Both build together |
+| Best for | Validate + launch | Need strategy + copy done | Scale + optimize |
+| Outcome | Offer validated, funnel live | Custom funnel strategy + GHL snapshot | Profitable, scaling |
 
 ---
 

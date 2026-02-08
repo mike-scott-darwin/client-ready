@@ -14,9 +14,9 @@ format: Google Doc
 
 ## Overview
 
-When someone buys the $27 but says "no" to both Sprint and DFY, this email offers the Community as a lower-commitment option.
+When someone buys the $27 but says "no" to both Sprint and Blueprint, this email offers the Community as a lower-commitment option.
 
-**Trigger:** Purchased $27, did NOT purchase Sprint ($297) OR DFY ($397)
+**Trigger:** Purchased $27, did NOT purchase Sprint ($297) OR Blueprint ($397)
 **Timing:** Day 8 after purchase
 **Send Time:** 2:00 PM (Welcome sequence sends at 8:00 AM — avoids stacking)
 **Goal:** Convert 5-10% of "no" buyers to recurring community members
@@ -25,7 +25,7 @@ When someone buys the $27 but says "no" to both Sprint and DFY, this email offer
 
 ## Why Day 8?
 
-- Days 3, 5, 7 already pitched Sprint and DFY (OTO Recovery)
+- Days 3, 5, 7 already pitched Sprint and Blueprint (OTO Recovery)
 - Day 8 = they've seen the higher-ticket options and said no
 - This is the logical downsell: "not ready for that? Here's something smaller"
 
@@ -39,7 +39,7 @@ When someone buys the $27 but says "no" to both Sprint and DFY, this email offer
 
 Hey [NAME],
 
-Over the past few days, I've told you about the Sprint ($297) and the Done-For-You option ($397).
+Over the past few days, I've told you about the Sprint ($297) and the Blueprint ($397).
 
 Maybe you thought: "Not right now."
 
@@ -67,9 +67,9 @@ What you get:
 - See what's working for others in real-time
 - Resource library (templates, swipes, frameworks)
 
-No 4-week commitment. No done-for-you deliverables. Just a place to not build alone.
+No 4-week commitment. No custom blueprint deliverables. Just a place to not build alone.
 
-If you said "no" to Sprint and DFY but still want support — this is for you.
+If you said "no" to Sprint and Blueprint but still want support — this is for you.
 
 Try it for $1: [LINK]
 
@@ -77,7 +77,7 @@ Cancel anytime. No hard feelings.
 
 Michael
 
-P.S. — This isn't a replacement for Sprint or DFY. It's for people who want support while they figure things out at their own pace. If you want accountability + guaranteed launch, Sprint is still the move. If you want me to build it, DFY is there. But if you just want a community and occasional access to me — this is it.
+P.S. — This isn't a replacement for Sprint or Blueprint. It's for people who want support while they figure things out at their own pace. If you want accountability + guaranteed launch, Sprint is still the move. If you want me to create your complete funnel strategy, Blueprint is there. But if you just want a community and occasional access to me — this is it.
 
 ---
 
@@ -86,11 +86,11 @@ P.S. — This isn't a replacement for Sprint or DFY. It's for people who want su
 ```
 IF purchased $27
 AND NOT purchased Sprint ($297)
-AND NOT purchased DFY ($397)
+AND NOT purchased Blueprint ($397)
 AND NOT purchased Community ($47/mo)
 THEN send this email on Day 8 at 2:00 PM
 
-IF purchased Sprint OR DFY
+IF purchased Sprint OR Blueprint
 THEN skip this sequence entirely (they have higher-tier access)
 
 IF purchased Community during checkout
@@ -127,5 +127,5 @@ No conflict. Morning = value. Afternoon = offer (downsell).
 - Acknowledge they said "no" — don't pretend they didn't
 - Position as "lighter commitment," not "consolation prize"
 - $1 trial removes risk
-- Clear that Sprint/DFY are still better if they're ready
+- Clear that Sprint/Blueprint are still better if they're ready
 - No pressure, no fake urgency

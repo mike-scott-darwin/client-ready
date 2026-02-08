@@ -9,7 +9,7 @@ Incorporate identity shift work into the offer stack without disrupting front-en
 ## Current State
 
 **Complete.** Decision A+B accepted and codified:
-- **Option A (DFY Onboarding):** Added Section 8: Identity Foundation (5 questions) to intake form
+- **Option A (Blueprint Onboarding):** Added Section 8: Identity Foundation (5 questions) to intake form
 - **Option B (Sprint Soul Extraction):** Created full Week 0/1 module with prompts, delivery format, positioning guidance
 
 All changes pushed to GitHub (16 files, commit `4619ed4`).
@@ -92,7 +92,7 @@ Consolidate email sequences with clear naming, create GHL workflow guide, and se
 - `outputs/emails/1-non-buyers-30-day.md` — 12 emails for leads who didn't buy
 - `outputs/emails/2-buyers-welcome-10-day.md` — 10 relationship emails (no pitches)
 - `outputs/emails/3-buyers-recovery-bumps.md` — Days 2,4,6 re-pitch missed bumps
-- `outputs/emails/3-buyers-recovery-otos.md` — Days 3,5,7 re-pitch Sprint/DFY
+- `outputs/emails/3-buyers-recovery-otos.md` — Days 3,5,7 re-pitch Sprint/Blueprint
 - `outputs/emails/3-buyers-recovery-community.md` — Day 8 downsell to $47/mo
 - `outputs/emails/4-buyers-daily-broadcast.md` — Day 11+ with weekly offer rotation
 
@@ -132,7 +132,7 @@ purchased-bump-dm-scripts
 purchased-bump-templates
 purchased-bump-traffic
 purchased-sprint
-purchased-dfy
+purchased-blueprint
 purchased-community
 in-nonbuyer-sequence
 in-welcome-sequence
@@ -144,6 +144,6 @@ in-daily-broadcast
 1. Non-Buyer → Form submit + wait 30 min + no purchase tag
 2. Welcome → Tag `purchased-27` added
 3. Bump Recovery → Tag `purchased-27` + missing bump tags
-4. OTO Recovery → Tag `purchased-27` + no Sprint/DFY tags
+4. OTO Recovery → Tag `purchased-27` + no Sprint/Blueprint tags
 5. Community Recovery → Tag `purchased-27` + no upsell tags (Day 8)
 6. Daily Broadcast → Tag `completed-welcome` added (Day 11+)

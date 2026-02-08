@@ -438,11 +438,9 @@ The funnel, landing page, and automation come AFTER validation — not before.
 
 **Offer Validation Kit ($67)** — AI prompts and checklists to make sure your offer is right before you build
 
-**Client Ready Sprint — Self-Paced ($97)** — Complete funnel system, work at your own speed
+**Client Ready Sprint ($297)** — 4 weeks, weekly calls with Michael, launch in 30 days
 
-**Client Ready Sprint — 4 Weeks ($297)** — Weekly calls with Michael, launch in 30 days
-
-**Done-For-You ($397)** — I build your entire funnel in 30 days. Delivery guaranteed.
+**Client Ready Blueprint ($397)** — I create your complete custom funnel strategy in 30 days. Delivery guaranteed.
 
 Questions? Reply to your purchase email or find me in Skool.
 

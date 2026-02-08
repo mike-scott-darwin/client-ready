@@ -21,7 +21,7 @@ linked_research:
 |------|----------|---------|----------|
 | 1-10 | Welcome | Relationship, quick wins | No |
 | 2,4,6 | Bump Recovery | Re-pitch missed bumps | Yes (PM) |
-| 3,5,7 | OTO Recovery | Re-pitch Sprint/DFY | Yes (PM) |
+| 3,5,7 | OTO Recovery | Re-pitch Sprint/Blueprint | Yes (PM) |
 | 8 | Community Recovery | Downsell $47/mo | Yes (PM) |
 | 11+ | Daily Broadcast | Story + rotating offers | Yes |
 
@@ -75,7 +75,7 @@ Every email follows the same structure:
 - Monday: $27 front-end
 - Tuesday: $37 Templates
 - Wednesday: Sprint ($297)
-- Thursday: DFY ($397)
+- Thursday: Blueprint ($397)
 - Friday: Accelerator ($5K) — soft pitch, reply trigger
 - Saturday: Skool community
 - Sunday: Pure value, no pitch

@@ -16,15 +16,15 @@ MICRO-COMMITMENT ($27 Front-End)
     ↓
 ORDER BUMPS ($17 + $37 + $67)
     ↓
-OTO 1: Client Ready Sprint ($97 or $297) + Community Access
+OTO 1: Client Ready Sprint ($297) + Community Access
     ↓
-OTO 2: Done-For-You Funnel ($397)
+OTO 2: Client Ready Blueprint ($397)
     ↓
 ENGAGEMENT (Classroom + Community — OTO 1 buyers)
     ↓
 EMAIL ASCENSION (Daily emails → higher tiers)
     ↓
-BACKEND: Accelerator ($5K) — No-Phone Offer
+BACKEND: Accelerator ($5K)
     ↓
 RETENTION (Results → Referrals → Case Studies)
 ```
@@ -76,7 +76,7 @@ RETENTION (Results → Referrals → Case Studies)
 **Products:**
 - **Bump 1: $17** — Quick Win DM Scripts (start conversations today)
 - **Bump 2: $37** — Plug & Play Templates (landing pages, emails, headlines)
-- **Bump 3: $67** — Offer Validation Kit (AI validation prompts, real offer reviews, checklist)
+- **Bump 3: $67** — The First $5K Client Playbook
 
 **What happens:**
 - Customer sees checkbox offers on order form
@@ -90,37 +90,34 @@ RETENTION (Results → Referrals → Case Studies)
 
 ---
 
-## Stage 4: OTO 1 — Client Ready Sprint ($97 or $297)
+## Stage 4: OTO 1 — Client Ready Sprint ($297)
 
 **Goal:** Upsell to implementation system + community access
 
-**Products:**
-- Self-Paced: $97 one-time
-- 4-Week Sprint: $297 one-time (with live support)
+**Product:** 4-Week Sprint — $297 one-time (templates + live coaching)
 
 **What happens:**
 - Customer lands on OTO page after checkout
 - Video + copy explains offer
-- Two-option close (Self-Paced vs Sprint)
+- Yes/no decision (one price, one offer)
 - One-click purchase (card already on file)
 - **Buyer gets Skool community access**
 
 **Metrics to track:**
 - OTO 1 conversion rate (target: 10-15%)
-- Self-Paced vs Sprint split
 
 ---
 
-## Stage 5: OTO 2 — Done-For-You Funnel ($397)
+## Stage 5: OTO 2 — Client Ready Blueprint ($397)
 
-**Goal:** Offer done-for-you option
+**Goal:** Offer custom funnel strategy built by Michael
 
-**Product:** Complete Client Ready Funnel built by Michael
+**Product:** Client Ready Blueprint — custom strategy doc + copy + GHL snapshot + 1-on-1 integration call
 
 **What happens:**
 - Customer lands on OTO 2 page
-- Video explains done-for-you service
-- 100 Customers Guarantee presented
+- Video explains Blueprint service
+- 30-Day Delivery Guarantee presented
 - Scarcity: 10 spots per month
 
 **Metrics to track:**
@@ -180,17 +177,11 @@ See: `reference/domain/email-rhythm.md`
 
 **Product:** Client Ready Accelerator — 8 weeks, 3 calls, unlimited async
 
-**How they buy (No-Phone Offer):**
-- See offer on sales page or email
-- Page answers all questions (4 principles)
+**How they buy:**
+- See offer through email ascension or direct outreach
+- Page answers all questions
 - Purchase without sales call
 - Onboarding within 48 hours
-
-**Why no sales call:**
-- Already trust Michael (bought lower tiers)
-- Clear outcome + timeframe
-- Clear process + delivery
-- Easy to start
 
 **Metrics to track:**
 - Accelerator conversion rate

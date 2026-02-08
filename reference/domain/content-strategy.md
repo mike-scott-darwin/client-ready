@@ -146,7 +146,7 @@ Daily emails (trust + offers)
     ↓
 $27 front-end
     ↓
-Bumps + OTOs (Sprint, DFY, Community)
+Bumps + OTOs (Sprint, Blueprint, Community)
     ↓
 Email ascension
     ↓

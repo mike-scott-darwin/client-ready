@@ -211,7 +211,7 @@ Note: This drives comments + DM conversations. Use sparingly but effectively for
 - **Reality vs Perception** — Get the substance right before the marketing
 - **Engineering approach** — Test, validate, then build infrastructure
 - **Warm audience first** — Don't run ads until you've validated with people who already know you
-- **Extract, Validate, Build, Scale** — The High Ticket Playbook method
+- **Extract, Validate, Build, Scale** — The Client Ready method
 
 ---
 

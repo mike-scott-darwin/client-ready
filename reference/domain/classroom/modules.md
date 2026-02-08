@@ -24,10 +24,9 @@ All content available in free Skool community. Core modules drip over 72 hours.
 | Front-end | Client Ready Offer System | $27 |
 | Bump 1 | Quick Win DM Scripts | $17 |
 | Bump 2 | Plug & Play Templates | $37 |
-| Bump 3 | Offer Validation Kit | $67 |
-| OTO 1a | Self-Paced Sprint | $97 |
-| OTO 1b | 4-Week Sprint | $297 |
-| OTO 2 | Done-For-You Funnel | $397 |
+| Bump 3 | The First $5K Client Playbook | $67 |
+| OTO 1 | Client Ready Sprint (4-week) | $297 |
+| OTO 2 | Client Ready Blueprint | $397 |
 | Backend | Client Ready Accelerator | $5,000 |
 
 ---
@@ -46,7 +45,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
   - **Have an offer, no funnel?** → Start with Phase 2 (Build)
   - **Have a funnel, need traffic?** → Start with Phase 3 (Launch)
 - How the value ladder works ($27 → $5K path)
-- What's included at each tier (Self-Paced vs Sprint vs DFY vs Accelerator)
+- What's included at each tier (Sprint vs Blueprint vs Accelerator)
 - The philosophy: "You can't grow into pain" — alignment before scale
 
 ---
@@ -95,9 +94,8 @@ All content available in free Skool community. Core modules drip over 72 hours.
 
 **Products that accelerate this phase:**
 - $37 Plug & Play Templates — Landing page swipes, email sequences
-- $97 Self-Paced — Complete funnel system, work at your own speed
 - $297 Sprint — 4-week implementation with live support
-- $397 DFY — Michael builds it for you in 30 days
+- $397 Blueprint — Michael creates your complete funnel strategy in 30 days
 
 **Drip:** Available after 72 hours
 
@@ -122,7 +120,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 **Key deliverable:** First campaign launched, traffic flowing, path to high-ticket clear
 
 **Products that accelerate this phase:**
-- $67 Offer Validation Kit — AI validation prompts, real offer reviews, checklist
+- $67 The First $5K Client Playbook
 - $297 Sprint — Weekly calls, hot seat feedback on campaigns
 - $5,000 Accelerator — Done-with-you funnel + traffic in 8 weeks
 
@@ -162,7 +160,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
   - OTO recovery emails
 - DM scripts (the 5 scripts from $17 bump)
 - Ad creative examples (hooks, images, copy)
-- No-Phone Offer page examples
+- High-ticket offer page examples
 - Pricing and positioning examples across niches
 
 ---
@@ -173,12 +171,12 @@ All content available in free Skool community. Core modules drip over 72 hours.
 
 ### Phase 1: Extract — Lessons
 
-#### 1.1 The Unfair Advantage Framework
+#### 1.1 The Zone of Genius Framework
 
-**What it covers:** Why most coaches struggle to differentiate themselves and command premium prices. Introduces the concept of your "Unfair Advantage"—the unique combination of background, experience, and methodology that makes you specifically qualified to solve one problem better than anyone else.
+**What it covers:** Why most coaches struggle to differentiate themselves and command premium prices. Introduces the concept of your "Zone of Genius"—the unique combination of background, experience, and methodology that makes you specifically qualified to solve one problem better than anyone else.
 
 **What you'll learn:**
-- How to identify and extract your unfair advantage from five potential sources:
+- How to identify and extract your zone of genius from five potential sources:
   - Uncommon career background
   - Personal transformation
   - Proprietary methodology
@@ -188,7 +186,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 
 **Benefit:** Stop sounding like every other coach. Instead of competing on generic positioning, you'll have defensible differentiation that competitors cannot replicate.
 
-**Outcome:** A completed Unfair Advantage Statement that clearly articulates why you're uniquely qualified to solve a specific high-stakes problem, plus identification of your ONE core problem that justifies $2K-$5K pricing.
+**Outcome:** A completed Zone of Genius Statement that clearly articulates why you're uniquely qualified to solve a specific high-stakes problem, plus identification of your ONE core problem that justifies $2K-$5K pricing.
 
 ---
 
@@ -259,7 +257,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
   - Extraction
   - Blueprint
   - Audit
-  - Done-For-You
+  - Blueprint
 - The principle of "strategic incompleteness" that naturally bridges to premium
 
 **Benefit:** De-risk your business by validating with real buyers before investing months in a premium program nobody wants. Generate revenue while testing.
@@ -293,7 +291,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 - The three Client Ready bumps and why they work:
   - **Bump 1: Quick Win DM Scripts ($17)** — Immediate action, start conversations today
   - **Bump 2: Plug & Play Templates ($37)** — Skip the blank page problem
-  - **Bump 3: Offer Validation Kit ($67)** — Validate your offer before you build
+  - **Bump 3: The First $5K Client Playbook ($67)** — The playbook for landing your first high-ticket client
 - Bump psychology: why adding 3 bumps can 2x conversion (Cat Howell data)
 - Placement and copy for each bump
 - How to create bumps for YOUR value ladder
@@ -392,7 +390,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
   - Day 5: Quick tip + value (no pitch)
   - Day 6: Client transformation → Sprint ($297)
   - Day 7: Behind-the-scenes (no pitch)
-  - Day 8: FAQ / objection handling → DFY ($397)
+  - Day 8: FAQ / objection handling → Blueprint ($397)
   - Day 9: "What happens next" roadmap (no pitch)
   - Day 10: Personal invite to Skool community
 - How to recover missed bumps and OTOs
@@ -722,7 +720,7 @@ Examples:
 **What it covers:** Advanced techniques for scaling beyond initial validation — from $27 buyers to $5K clients.
 
 **What you'll learn:**
-- The ascension path: $27 → bumps → Sprint → DFY → Accelerator
+- The ascension path: $27 → bumps → Sprint → Blueprint → Accelerator
 - Using email to warm up to higher tiers (Daily Email Rhythm)
 - Retargeting buyers with higher-tier offers
 - When to introduce the $5K Accelerator
@@ -848,7 +846,7 @@ Real-world walkthroughs showing the Client Ready system in action — not theory
 - Landing page build (copy + design)
 - Order bump setup ($17, $37, $67)
 - Checkout configuration
-- OTO pages (Sprint + DFY)
+- OTO pages (Sprint + Blueprint)
 - Email automation setup
 
 **Outcome:** You see exactly how a complete funnel comes together.

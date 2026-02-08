@@ -8,15 +8,15 @@ format: Google Doc
 
 # OTO Recovery Sequence
 
-**3 emails to recover missed Sprint and DFY upsells**
+**3 emails to recover missed Sprint and Blueprint upsells**
 
 ---
 
 ## Overview
 
-When someone buys the $27 (and maybe bumps) but skips the OTOs, this sequence re-pitches the Sprint ($297) and DFY ($397) over the next week.
+When someone buys the $27 (and maybe bumps) but skips the OTOs, this sequence re-pitches the Sprint ($297) and Blueprint ($397) over the next week.
 
-**Trigger:** Purchased $27, did NOT purchase OTO1 (Sprint) or OTO2 (DFY)
+**Trigger:** Purchased $27, did NOT purchase OTO1 (Sprint) or OTO2 (Blueprint)
 **Timing:** Days 3, 5, and 7 after purchase
 **Send Time:** 2:00 PM (Welcome sequence sends at 8:00 AM — avoids stacking)
 **Goal:** Recover 5-10% of missed OTO revenue
@@ -96,9 +96,9 @@ Michael
 
 ---
 
-## Email 3: Day 7 — "Let me just build it for you"
+## Email 3: Day 7 — "What if I just built your strategy for you?"
 
-**Subject:** What if I just built it for you?
+**Subject:** What if I just built your strategy for you?
 
 **Body:**
 
@@ -106,24 +106,23 @@ Hey [NAME],
 
 Real talk.
 
-Some people have time to build. Some people have money to save time.
+Some people have time to figure out their funnel strategy. Some people have money to save time.
 
-If you're in the second category — and you want your funnel DONE, not just planned — there's an option I didn't push hard on the checkout page:
+If you're in the second category — and you want your complete funnel strategy DONE, not just planned — there's an option I didn't push hard on the checkout page:
 
-**Done-For-You Client Ready Funnel: $397**
+**Client Ready Blueprint: $397**
 
 Here's what happens:
 - Day 1-3: You fill out a custom onboarding form
-- Week 1-2: I build your complete Client Ready Funnel (all 9 components)
-- Week 3: You receive a 100+ page custom bundle
-- Week 4: We do a 1-on-1 integration call + you launch
-- Day 30: You're generating your first customers
+- Week 1-2: I personally create your complete Blueprint (all 9 components)
+- Week 3: You receive a 100+ page custom bundle + GHL snapshot
+- Week 4: We do a 1-on-1 integration call — I walk you through exactly how to implement everything
 
-The guarantee: Complete funnel delivered in 30 days — or I keep working until it's done.
+The guarantee: Custom Blueprint delivered in 30 days — or I keep working until it's done.
 
 I take 10 per month. That's a real limit — I do the work myself.
 
-If "just do it for me" sounds better than "figure it out yourself": [LINK]
+If "build my strategy for me" sounds better than "figure it out yourself": [LINK]
 
 If you'd rather build it: respect. Keep going.
 
@@ -139,10 +138,10 @@ AND NOT purchased Sprint ($297)
 AND NOT purchased DFY ($397)
 THEN send all 3 emails
 
-IF purchased Sprint but not DFY
-THEN send only Email 3 (DFY pitch)
+IF purchased Sprint but not Blueprint
+THEN send only Email 3 (Blueprint pitch)
 
-IF purchased DFY
+IF purchased Blueprint
 THEN skip this sequence entirely
 ```
 
@@ -160,7 +159,7 @@ This sequence runs AFTER the welcome sequence starts but doesn't conflict:
 | 4 | Mistake + Templates | — |
 | 5 | Quick Tip | **Sprint Success Story** |
 | 6 | Transformation + Sprint | — |
-| 7 | Behind the Scenes | **Let me build it for you** |
+| 7 | Behind the Scenes | **What if I built your strategy?** |
 
 Note: Day 6 welcome email also pitches Sprint. If they buy from that, remove them from OTO recovery.
 
@@ -173,5 +172,5 @@ Note: Day 6 welcome email also pitches Sprint. If they buy from that, remove the
 | Open rate | 30-40% |
 | Click rate | 2-4% |
 | Sprint recovery | 3-5% |
-| DFY recovery | 1-3% |
+| Blueprint recovery | 1-3% |
 | Revenue per 100 buyers | $100-200 additional |

@@ -26,10 +26,9 @@ Michael Scott helps coaches validate their offers before building — scale from
 | Front-end | $27 | Client Ready Offer System |
 | Bump 1 | $17 | Quick Win DM Scripts |
 | Bump 2 | $37 | Plug & Play Templates |
-| Bump 3 | $67 | Offer Validation Kit |
-| OTO 1 (Self-Paced) | $97 | Client Ready Sprint (Self-Paced) |
-| OTO 1 (Sprint) | $297 | 4-Week Client Ready Sprint |
-| OTO 2 | $397 | Done-For-You Client Ready Funnel |
+| Bump 3 | $67 | The First $5K Client Playbook |
+| OTO 1 | $297 | Client Ready Sprint (4-week, one-time) |
+| OTO 2 | $397 | Client Ready Blueprint (custom strategy + GHL snapshot) |
 | OTO 3 | $47/mo | Client Ready Community ($1 trial) |
 | Backend | $5K+ | Client Ready Accelerator |
 
@@ -110,7 +109,7 @@ Direct. No-BS. Engineering mindset. Short sentences. "Wrong." "Test, validate, b
 |------|--------|
 | Testimonials | ❌ None collected yet |
 | 1:1 pricing | ⚠️ "$5K+" — exact price TBD |
-| Email sequences | ⚠️ Not yet built |
+| Email sequences | ✅ 6 workflows defined in `reference/domain/email-rhythm.md` |
 | Application page | ⚠️ Not yet built |
 | OTO 3 page | ⚠️ Skool membership page not built yet |
 | Content strategy | ✅ Defined in `reference/domain/content-strategy.md` |

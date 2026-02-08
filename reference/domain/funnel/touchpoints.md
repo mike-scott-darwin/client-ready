@@ -33,7 +33,7 @@ updated_from: 2026-01-19
 |------|-------|---------|
 | Bump 1: Quick Win DM Scripts | $17 | First conversation in 5 minutes |
 | Bump 2: Plug & Play Templates | $37 | Don't start from scratch |
-| Bump 3: Offer Validation Kit | $67 | Validate your offer before you build |
+| Bump 3: The First $5K Client Playbook | $67 | The playbook for landing your first high-ticket client |
 
 ---
 
@@ -41,29 +41,28 @@ updated_from: 2026-01-19
 
 **URL:** Post-checkout redirect
 **Purpose:** Upsell to implementation + community
-**Options:** $97 Self-Paced / $297 Sprint
+**Price:** $297
 **CTA:** Add to Order (one-click)
 
 ---
 
-### 4. OTO 2 Page (DFY)
+### 4. OTO 2 Page (Blueprint)
 
 **URL:** Post-OTO1 redirect
-**Purpose:** Offer done-for-you option
+**Purpose:** Offer custom funnel strategy built by Michael
 **Price:** $397
 **CTA:** Add to Order (one-click)
 
 ---
 
-### 5. Accelerator Sales Page (No-Phone Offer)
+### 5. Accelerator Sales Page
 
 **URL:** TBD (linked from emails, Skool, direct)
-**Purpose:** Sell $5K backend without sales call
+**Purpose:** Sell $5K backend
 **Price:** $5,000
 **CTA:** Enroll Now
 
 **Key elements:**
-- 4 No-Phone principles answered on page
 - Clear outcome + timeframe (8 weeks)
 - Clear process (week-by-week)
 - Clear delivery (3 calls, WhatsApp, Loom)
@@ -89,7 +88,7 @@ updated_from: 2026-01-19
 | 5 | Quick tip + value | — |
 | 6 | Client transformation | Sprint ($297) |
 | 7 | Behind-the-scenes | — |
-| 8 | FAQ / objection handling | DFY ($397) |
+| 8 | FAQ / objection handling | Blueprint ($397) |
 | 9 | "What happens next" roadmap | — |
 | 10 | Personal invite to Skool | Community |
 
@@ -108,7 +107,7 @@ See: `reference/domain/email-rhythm.md`
 ### Skool Community
 
 **URL:** https://www.skool.com/high-ticket-playbook-9467
-**Who has access:** OTO 1 buyers (Self-Paced + Sprint)
+**Who has access:** OTO 1 buyers (Sprint) + OTO 3 Community subscribers
 
 **Engagement points:**
 - Welcome thread (intro post)

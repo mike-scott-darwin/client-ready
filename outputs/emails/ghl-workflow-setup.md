@@ -20,7 +20,7 @@ You'll create **6 workflows** in GHL:
 | 1 | Non-Buyer Nurture | Started checkout, no purchase (30 min) | 12 emails / 30 days |
 | 2 | Buyer Welcome | Purchased $27 | 10 emails / 10 days |
 | 3 | Bump Recovery | Purchased $27, no bumps | 3 emails (Days 2,4,6) |
-| 4 | OTO Recovery | Purchased $27, no Sprint/DFY | 3 emails (Days 3,5,7) |
+| 4 | OTO Recovery | Purchased $27, no Sprint/Blueprint | 3 emails (Days 3,5,7) |
 | 5 | Community Recovery | Purchased $27, no upsells at all | 1 email (Day 8) |
 | 6 | Daily Broadcast | Day 11+ (manual or scheduled) | Ongoing |
 
@@ -36,7 +36,7 @@ Create these tags in GHL first:
 - `purchased-bump-templates` — Bought $37 Templates
 - `purchased-bump-traffic` — Bought $67 Traffic Kit
 - `purchased-sprint` — Bought $297 Sprint
-- `purchased-dfy` — Bought $397 DFY
+- `purchased-blueprint` — Bought $397 Blueprint
 - `purchased-community` — Bought $47/mo Community
 
 **Sequence Tags:**
@@ -195,14 +195,14 @@ IF/ELSE: Has ANY of these tags?
 ## Workflow 4: OTO Recovery
 
 **Trigger:** Tag added: `purchased-27`
-**Condition:** Does NOT have Sprint or DFY tags
+**Condition:** Does NOT have Sprint or Blueprint tags
 
 ```
 TRIGGER: Tag Added "purchased-27"
     ↓
 WAIT: 5 minutes
     ↓
-IF/ELSE: Has tag "purchased-sprint" OR "purchased-dfy"?
+IF/ELSE: Has tag "purchased-sprint" OR "purchased-blueprint"?
     ├── YES → End workflow
     └── NO → Continue
             ↓
@@ -220,7 +220,7 @@ IF/ELSE: Has tag "purchased-sprint" OR "purchased-dfy"?
             ↓
         WAIT: Until Day 7, 2:00 PM
             ↓
-        IF/ELSE: Has tag "purchased-dfy"?
+        IF/ELSE: Has tag "purchased-blueprint"?
             ├── YES → Skip
             └── NO → EMAIL: "What if I just built it for you?"
             ↓
@@ -230,14 +230,14 @@ IF/ELSE: Has tag "purchased-sprint" OR "purchased-dfy"?
 **Key Settings:**
 - Send time: 2:00 PM local
 - Check for purchases before each email
-- Day 7 email pivots to DFY pitch
+- Day 7 email pivots to Blueprint pitch
 
 ---
 
 ## Workflow 5: Community Recovery
 
 **Trigger:** Tag added: `purchased-27`
-**Condition:** Does NOT have Sprint, DFY, or Community tags
+**Condition:** Does NOT have Sprint, Blueprint, or Community tags
 
 ```
 TRIGGER: Tag Added "purchased-27"
@@ -246,7 +246,7 @@ WAIT: Until Day 8, 2:00 PM
     ↓
 IF/ELSE: Has ANY of these tags?
     - "purchased-sprint"
-    - "purchased-dfy"
+    - "purchased-blueprint"
     - "purchased-community"
     ├── YES → End workflow (they upgraded)
     └── NO → Continue
@@ -299,7 +299,7 @@ Set up these automations in your checkout/payment processor:
 | $37 Templates | `purchased-bump-templates` |
 | $67 Traffic Kit | `purchased-bump-traffic` |
 | $297 Sprint | `purchased-sprint` |
-| $397 DFY | `purchased-dfy` |
+| $397 Blueprint | `purchased-blueprint` |
 | $47/mo Community | `purchased-community` |
 
 ---

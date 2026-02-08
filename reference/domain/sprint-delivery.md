@@ -165,7 +165,7 @@ Sprint officially begins. (See Call Structure below.)
 - Teaching: Traffic options (warm audience, ads, organic), what to watch
 - Hot Seats: Review live funnels, troubleshoot issues
 - Next Action: Traffic flowing, first buyers in — or clear plan for next 7 days
-- Wrap: "Here's your path forward: [Self-Paced → DFY → Accelerator]"
+- Wrap: "Here's your path forward: [Blueprint → Accelerator]"
 
 ---
 
@@ -319,7 +319,7 @@ Present the natural next steps:
 >
 > **If you want help scaling:** The $5K Accelerator is 8 weeks of done-with-you support. We build out the full system — offer refinement, complete funnel, traffic setup, optimization. Three strategy calls, unlimited async. You've already proven the offer works. Now we scale it.
 >
-> **If you want it done for you:** The $397 DFY option — I build your complete funnel over 30 days. You focus on showing up. We focus on implementation."
+> **If you want a custom strategy:** The $397 Blueprint — I create your complete funnel strategy, copy, and GHL snapshot over 30 days. You implement using the blueprint I build for you."
 
 ### Post-Sprint Email (Day 31)
 
@@ -337,7 +337,7 @@ Present the natural next steps:
 >
 > Either way, your next move:
 > - **Ready to scale:** [Accelerator link]
-> - **Need implementation help:** [DFY link]
+> - **Want a custom strategy:** [Blueprint link]
 > - **Just want to keep going:** The community and curriculum are here."
 
 ---
@@ -378,7 +378,7 @@ By Day 30:
 
 - Case studies: clients with results to share
 - Testimonials: "I launched in 30 days" proof
-- Ascension: % of Sprint clients who buy Accelerator or DFY
+- Ascension: % of Sprint clients who buy Accelerator or Blueprint
 - Referrals: Sprint clients who send others
 
 ---

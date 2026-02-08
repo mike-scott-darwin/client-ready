@@ -4,9 +4,9 @@ status: active
 updated: 2026-02-05
 ---
 
-# Client Ready Funnel Onboarding Form
+# Client Ready Blueprint Onboarding Form
 
-**Purpose:** Comprehensive intake questionnaire for DFY ($397) clients. "Custom tailoring session" for their Daily Client Funnel.
+**Purpose:** Comprehensive intake questionnaire for Blueprint ($397) clients. "Custom tailoring session" for their funnel strategy.
 
 **Video walkthrough:** https://www.loom.com/share/70c40a5fe662415088b54bedad723e3f
 
@@ -16,14 +16,14 @@ updated: 2026-02-05
 
 ## Positioning
 
-> "Think of this as your 'custom tailoring session' for your Daily Client Funnel. Just like a master tailor spends hours measuring every detail to create a suit that fits you perfectly, this comprehensive questionnaire ensures your Daily Client Funnel is designed specifically for YOU, your audience, and your goals."
+> "Think of this as your 'custom tailoring session' for your Client Ready Blueprint. Just like a master tailor spends hours measuring every detail to create a suit that fits you perfectly, this comprehensive questionnaire ensures your Blueprint is designed specifically for YOU, your audience, and your goals."
 
 ---
 
 ## Key Messaging
 
 **Why this matters:**
-> "The quality of your answers directly determines the quality of your custom funnel. The more detailed information you provide, the more precisely I can craft offers, messaging, and implementation strategies that feel authentically yours and convert your ideal clients."
+> "The quality of your answers directly determines the quality of your custom Blueprint. The more detailed information you provide, the more precisely I can craft your positioning, copy, and funnel strategy to feel authentically yours and convert your ideal clients."
 
 **Guidelines for clients:**
 - Take your time — Quality over speed
@@ -77,7 +77,7 @@ updated: 2026-02-05
 
 ## Usage Notes
 
-- Send immediately after DFY purchase
+- Send immediately after Blueprint purchase
 - Reference in welcome email
 - Check submission within 48 hours of purchase
 - Use responses to populate all deliverables

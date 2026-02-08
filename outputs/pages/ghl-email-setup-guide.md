@@ -19,7 +19,7 @@ Before starting:
 - [ ] Domain verified for sending
 - [ ] Sales page URL ready
 - [ ] Checkout/payment processor connected (Stripe recommended)
-- [ ] Products created in GHL ($27, $47, $37, $97, $297, $397)
+- [ ] Products created in GHL ($27, $17, $37, $67, $297, $397, $47/mo)
 
 ---
 
@@ -40,8 +40,7 @@ Go to **Settings → Tags** and create these tags:
 | `buyer-core` | Bought $27 only |
 | `buyer-core-bumps` | Bought $27 + bumps |
 | `buyer-sprint` | Bought $297 Sprint |
-| `buyer-self-paced` | Bought $97 Self-Paced |
-| `buyer-dfy` | Bought $397 DFY |
+| `buyer-blueprint` | Bought $397 Blueprint |
 | `buyer-sequence` | Currently in buyer sequence |
 | `buyer-30-day-complete` | Finished buyer sequence |
 
@@ -92,15 +91,15 @@ Action: Start Workflow "Buyer 30-Day Sequence"
 
 ### Trigger 3: Sprint Purchase (Skip Sprint Emails)
 ```
-Trigger: Payment Received (Product = $297 Sprint OR $97 Self-Paced)
-Action: Add tag "buyer-sprint" or "buyer-self-paced"
+Trigger: Payment Received (Product = $297 Sprint)
+Action: Add tag "buyer-sprint"
 Action: Go to Step [Email 10] in Buyer Workflow
 ```
 
-### Trigger 4: DFY Purchase (Skip DFY Emails)
+### Trigger 4: Blueprint Purchase (Skip Blueprint Emails)
 ```
-Trigger: Payment Received (Product = $397 DFY)
-Action: Add tag "buyer-dfy"
+Trigger: Payment Received (Product = $397 Blueprint)
+Action: Add tag "buyer-blueprint"
 Action: Go to Step [Email 13] in Buyer Workflow
 ```
 
@@ -216,7 +215,7 @@ Name: `Buyer 30-Day Sequence`
     ↓
 [Wait: 2 days]
     ↓
-[If/Else: Has tag "buyer-sprint" OR "buyer-self-paced"?]
+[If/Else: Has tag "buyer-sprint" OR "buyer-sprint"?]
     → Yes: [Go to Email 10]
     → No: Continue
     ↓
@@ -248,12 +247,12 @@ Name: `Buyer 30-Day Sequence`
 | 17 | Wait | 2 days | — | — |
 | 18 | Email | — | Email 9: Last Sprint Pitch | Sprint buyers |
 | 19 | Wait | 4 days | — | — |
-| 20 | If/Else | — | Has "buyer-dfy"? → Step 28 | — |
-| 21 | Email | — | Email 10: No Time Problem | DFY buyers |
+| 20 | If/Else | — | Has "buyer-blueprint"? → Step 28 | — |
+| 21 | Email | — | Email 10: No Time Problem | Blueprint buyers |
 | 22 | Wait | 2 days | — | — |
-| 23 | Email | — | Email 11: DFY vs Sprint | DFY buyers |
+| 23 | Email | — | Email 11: Blueprint vs Sprint | Blueprint buyers |
 | 24 | Wait | 2 days | — | — |
-| 25 | Email | — | Email 12: DFY Close | DFY buyers |
+| 25 | Email | — | Email 12: Blueprint Close | Blueprint buyers |
 | 26 | Wait | 4 days | — | — |
 | 27 | Email | — | Email 13: $5K Question | — |
 | 28 | Wait | 2 days | — | — |
@@ -314,7 +313,7 @@ For each CTA link in emails:
 |-----------|-------------|-----------------|
 | `sales-page-$27` | Sales page URL | Add tag "clicked-sales-page" |
 | `sprint-page` | Sprint sales page | Add tag "clicked-sprint" |
-| `dfy-page` | DFY sales page | Add tag "clicked-dfy" |
+| `blueprint-page` | Blueprint sales page | Add tag "clicked-blueprint" |
 
 Use these trigger links in your emails instead of raw URLs.
 
@@ -398,7 +397,7 @@ Before going live:
 
 ### Segmentation Tests:
 - [ ] Buy Sprint → verify skips emails 6-9
-- [ ] Buy DFY → verify skips emails 6-12
+- [ ] Buy Blueprint → verify skips emails 6-12
 - [ ] Buy $27 during non-buyer sequence → verify switches
 
 ---
@@ -457,7 +456,7 @@ Create a GHL dashboard or use the reporting tab to track:
 |--------|---------------|--------|
 | Open Rate (Phase 1) | Email Stats | 60%+ |
 | Sprint Conversion | Tag count: buyer-sprint | 5-10% |
-| DFY Conversion | Tag count: buyer-dfy | 2-5% |
+| Blueprint Conversion | Tag count: buyer-blueprint | 2-5% |
 | Backend Interest | Tag count: backend-interested | 1-2% |
 
 ---
