@@ -161,7 +161,7 @@ CLIENT READY FUNNEL — [Your Name]
 ├── Executive Summary
 ├── Positioning Strategy
 │   ├── Zone of Genius analysis
-│   ├── Unfair advantage statement
+│   ├── Zone of Genius statement
 │   └── ONE problem focus
 ├── Ideal Client Profile
 │   ├── Detailed ICP breakdown

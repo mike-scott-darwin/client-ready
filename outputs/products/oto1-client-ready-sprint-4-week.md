@@ -6,21 +6,22 @@
 
 ## What You Just Got
 
-Everything in the Self-Paced program PLUS live support, weekly calls, and direct access to me for 4 weeks.
+The complete funnel system AND 4 weeks of live support to make sure you actually launch.
 
-**Self-Paced Contents (you have full access):**
-1. Zone of Genius Extraction
+**The Complete System:**
+1. Zone of Genius Extraction Framework
 2. AI Landing Page Generator
 3. Traffic Generation Playbook
-4. A/B Testing Frameworks
-5. Client Onboarding System
-- Plus: Skool Community Access
+4. A/B Testing Frameworks & Strategies
+5. Client Onboarding System & Delivery Frameworks
+6. One-Click Campaign Templates
 
-**Sprint Additions:**
+**Live Support (4 weeks):**
 1. **Weekly Group Calls** — 4 live sessions with Michael
 2. **Direct Chat Access** — DM me during the sprint
 3. **Accountability Check-ins** — Stay on track
 4. **Hot Seat Feedback** — Get your funnel reviewed live
+5. **Skool Community Access** — Private support community
 
 ---
 

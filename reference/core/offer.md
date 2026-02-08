@@ -117,16 +117,17 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 **Format:** Done-for-you
 **Capacity:** 10 per month (real scarcity)
 
-**What's Included:**
-- The Complete Client Funnel (auto-generates & converts to high-ticket clients)
-- Complete Client Funnel Blueprint
-- 1-on-1 Integration Call with Michael
-- Complete Client Ready Ecosystem
-- Complete High-Ticket Bridge Offers
-- Complete High-Ticket Ecosystem
-- Complete Copy Pack (Ads, Emails, Sales Pages)
-- Comprehensive High-Converting Messaging Map
-- Comprehensive Market Research & ICP Analysis
+**What's Included (9 components — all built by Michael):**
+- Offer extraction + positioning document
+- Full landing page copy (long-form, ready to paste)
+- Order bump strategy + copy (3 bumps designed and written)
+- Checkout optimization (copy + layout recommendations)
+- 10-day email welcome sequence (fully written)
+- Ascension/recovery email sequences
+- Ad creative direction (hooks, copy, image guidelines)
+- Messaging map (consistent copy across all touchpoints)
+- Market research + ICP analysis
+- 60-minute 1-on-1 integration call with Michael
 
 **Timeline:**
 - Day 1-3: Custom onboarding form
@@ -158,6 +159,8 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - Said "no" to Sprint ($297) — not ready for 4-week commitment
 - Said "no" to DFY ($397) — don't need done-for-you yet
 - Still want support and accountability while building
+
+**Routing note:** Sprint buyers already have Skool Community Access. Only show OTO 3 to buyers who declined OTO 1. In GHL, conditionally skip this page for Sprint purchasers.
 
 **Pitch:**
 > "Not ready for the Sprint? Get community access — weekly hot seats, DM Michael directly, see what's working for other coaches. $1 for your first month."
