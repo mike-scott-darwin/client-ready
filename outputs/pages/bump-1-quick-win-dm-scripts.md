@@ -23,7 +23,7 @@ linked_research:
 
 **Yes, include the "5 Quick Win DM Scripts" to start conversations TODAY!**
 
-**GRAB THIS NO-BRAINER ADD-ON — ONLY $17:** While you're building your No-Phone Offer, why wait to make money? Get my 5 copy-paste DM scripts that start real sales conversations with your warm list — today. These scripts have started hundreds of real sales conversations. Simply open, customize with your name, and send. First conversation in 5 minutes. (You can't get these anywhere else — only $17 on this page.)
+**GRAB THIS NO-BRAINER ADD-ON — ONLY $17:** While you're building your Client Ready Offer, why wait to make money? Get my 5 copy-paste DM scripts that start real sales conversations with your warm list — today. These scripts have started hundreds of real sales conversations. Simply open, customize with your name, and send. First conversation in 5 minutes. (You can't get these anywhere else — only $17 on this page.)
 
 ☐ Add to my order
 

@@ -1,11 +1,13 @@
 ---
 type: output
 status: draft
-date: 2026-02-01
+date: 2026-02-08
 product: OTO 1 - Client Ready Sprint
 format: Full Page Copy (Developer Ready)
 price_option_1: $97
 price_option_2: $297
+updated_from: 2026-02-01
+changes: Removed No-Phone Offer framing throughout. Aligned to Client Ready Offer positioning — validated offer, complete funnel system. Updated hero, opening copy, results section, product image components.
 ---
 
 # OTO 1: Client Ready Sprint — Full Page Copy
@@ -25,9 +27,9 @@ Your order is 100% secure, but it's not complete yet. Watch the welcome message 
 
 **⭐ SPECIAL ONE-TIME INVITATION**
 
-# WANT TO TAKE YOUR NO-PHONE OFFER FROM DOCUMENT TO LIVE FUNNEL — WITH MY COMPLETE SYSTEM?
+# WANT TO TAKE YOUR CLIENT READY OFFER FROM DOCUMENT TO LIVE FUNNEL — WITH MY COMPLETE SYSTEM?
 
-Skip months of building and launch your No-Phone Offer fast. Get the complete system I use to help coaches go from validated offer to selling without sales calls — without followers, complex funnels, or months of setup.
+Skip months of building and launch your validated offer fast. Get the complete system I use to help coaches go from offer document to live funnel generating customers — without followers, complex tech, or months of setup.
 
 ---
 
@@ -36,9 +38,8 @@ Skip months of building and launch your No-Phone Offer fast. Get the complete sy
 *[Display Client Ready Sprint product mockup with components visible]*
 
 **Components shown:**
-- No-Phone Offer Funnel System
+- Zone of Genius Extraction
 - AI Landing Page Generator
-- 30-Day Email Sequence
 - THE CLIENT READY SPRINT (center)
 - Traffic Generation Playbook
 - A/B Testing Frameworks
@@ -50,7 +51,7 @@ Skip months of building and launch your No-Phone Offer fast. Get the complete sy
 
 Michael here...
 
-Congratulations on getting Client Ready Offer! You now have everything you need to **build a No-Phone Offer that sells without a sales call**.
+Congratulations on getting Client Ready Offer! You now have everything you need to **build a validated offer that's clear enough to sell itself**.
 
 But here's what I've learned after teaching 100+ students...
 
@@ -62,19 +63,19 @@ As a Coach - your Coach... **It's in my interest to guarantee you actually get a
 
 After seeing hundreds of Offer Creation courses collect digital dust, I asked myself:
 
-**"How can I GUARANTEE my students launch their No-Phone Offer and start selling without calls?"**
+**"How can I GUARANTEE my students launch their validated offer and start generating customers?"**
 
 The answer: **Give them my complete done-for-you system.**
 
 I created the **Client Ready Sprint** - as the name implies, instead of building everything yourself...
 
-...Smart entrepreneurs can now **copy my complete funnel system** and go from Client Ready Offer document to **live No-Phone Offer funnel** instead of spending weeks building from scratch.
+...Smart entrepreneurs can now **copy my complete funnel system** and go from Client Ready Offer document to **live funnel generating customers** instead of spending weeks building from scratch.
 
 ---
 
 ## [WHAT'S INCLUDED HEADER]
 
-# THE CLIENT READY SPRINT INCLUDES EVERYTHING YOU NEED TO LAUNCH YOUR NO-PHONE OFFER AS FAST AS POSSIBLE...
+# THE CLIENT READY SPRINT INCLUDES EVERYTHING YOU NEED TO LAUNCH YOUR VALIDATED OFFER AS FAST AS POSSIBLE...
 
 ---
 
@@ -138,7 +139,7 @@ Ready-to-launch campaign templates you can deploy immediately. Just plug in your
 
 ## HERE'S WHAT YOU'RE GETTING:
 
-✅ Launch your No-Phone Offer with a complete funnel — not just a document
+✅ Launch your validated offer with a complete funnel — not just a document
 
 ✅ Copy my tested funnel system — landing page, emails, checkout
 
@@ -146,9 +147,9 @@ Ready-to-launch campaign templates you can deploy immediately. Just plug in your
 
 ✅ Skip months of trial and error
 
-✅ Start selling without sales calls — even as a beginner
+✅ Start generating customers — even as a beginner
 
-✅ A system that works without you on the phone
+✅ A system that sells your offer for you
 
 ---
 
@@ -335,3 +336,20 @@ Consider testing:
 - Pre-selected Option 2 vs neither selected
 - With proof section vs without (once testimonials available)
 - Shorter page (remove some bonuses) vs current length
+
+---
+
+## CHANGES FROM PREVIOUS VERSION (2026-02-01 → 2026-02-08)
+
+| What Changed | Old | New |
+|-------------|-----|-----|
+| Hero headline | "TAKE YOUR NO-PHONE OFFER FROM DOCUMENT TO LIVE FUNNEL" | "TAKE YOUR CLIENT READY OFFER FROM DOCUMENT TO LIVE FUNNEL" |
+| Hero sub-headline | "selling without sales calls" | "live funnel generating customers" |
+| Product image components | "No-Phone Offer Funnel System" + "30-Day Email Sequence" | "Zone of Genius Extraction" (matches creative mockup) |
+| Opening copy | "build a No-Phone Offer that sells without a sales call" | "build a validated offer that's clear enough to sell itself" |
+| Opening copy | "launch their No-Phone Offer and start selling without calls" | "launch their validated offer and start generating customers" |
+| Opening copy | "live No-Phone Offer funnel" | "live funnel generating customers" |
+| What's Included header | "LAUNCH YOUR NO-PHONE OFFER" | "LAUNCH YOUR VALIDATED OFFER" |
+| Results section | "Launch your No-Phone Offer with a complete funnel" | "Launch your validated offer with a complete funnel" |
+| Results section | "Start selling without sales calls — even as a beginner" | "Start generating customers — even as a beginner" |
+| Results section | "A system that works without you on the phone" | "A system that sells your offer for you" |

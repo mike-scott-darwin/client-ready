@@ -1,11 +1,13 @@
 ---
 type: output
 status: draft
-date: 2026-02-01
+date: 2026-02-08
 product: OTO 2 - Done-For-You Client Ready Funnel
 format: Full Page Copy (Developer Ready)
 price: $397
 capacity: 10 per month
+updated_from: 2026-02-01
+changes: Removed No-Phone Offer framing throughout. Aligned to Client Ready Offer positioning — validated offer, complete funnel system.
 ---
 
 # OTO 2: Done-For-You Client Ready Funnel — Full Page Copy
@@ -25,7 +27,7 @@ Your order is 100% secure, but it's not complete yet. Watch the welcome message 
 
 **🔊 PLAY THE VIDEO TO TURN ON SOUND**
 
-# I'LL BUILD YOUR COMPLETE NO-PHONE OFFER FUNNEL — SO IT SELLS WITHOUT YOU ON THE PHONE
+# I'LL BUILD YOUR COMPLETE CLIENT READY FUNNEL — SO YOUR OFFER SELLS ITSELF
 
 Watch This Short Video To See How I Personally Build Your Client Ready Funnel Specifically For Your Business...
 
@@ -39,7 +41,7 @@ Please Watch This Short Video In Full While Your Account Is Being Created.
 
 **🔔 NEW MEMBER ONE TIME OFFER:**
 
-# WHAT IF YOUR NO-PHONE OFFER WAS BUILT, LIVE, AND SELLING IN 30 DAYS?
+# WHAT IF YOUR VALIDATED OFFER WAS BUILT, LIVE, AND SELLING IN 30 DAYS?
 
 ---
 
@@ -89,7 +91,7 @@ Here's everything I'm going to build for you:
 
 ### The Complete Client Funnel
 
-Your complete Client Ready Funnel for automatically generating and converting prospects into buyers — without sales calls.
+Your complete Client Ready Funnel for automatically generating and converting prospects into buyers — with an offer that does the selling for you.
 
 🔒 INSTANT ACCESS | ~~PRICE: $997~~ FREE
 
@@ -97,7 +99,7 @@ Your complete Client Ready Funnel for automatically generating and converting pr
 
 ### Complete Client Funnel Blueprint
 
-Step-by-step installation guide showing exactly how to launch and scale YOUR No-Phone Offer funnel. With your offer and niche.
+Step-by-step installation guide showing exactly how to launch and scale YOUR Client Ready Funnel. With your offer and niche.
 
 🔒 INSTANT ACCESS | ~~PRICE: $497~~ FREE
 
@@ -105,7 +107,7 @@ Step-by-step installation guide showing exactly how to launch and scale YOUR No-
 
 ### 1-on-1 Integration Call With Michael
 
-Private integration call where I personally launch your No-Phone Offer funnel with you and review your roadmap to consistent client acquisition.
+Private integration call where I personally launch your Client Ready Funnel with you and review your roadmap to consistent client acquisition.
 
 🔒 INSTANT ACCESS | ~~PRICE: $497~~ FREE
 
@@ -115,7 +117,7 @@ Private integration call where I personally launch your No-Phone Offer funnel wi
 
 ### Complete Client Ready Ecosystem
 
-Your entire No-Phone Offer ecosystem, created specifically for your expertise, with funnels, ads and assets designed for maximum conversions — without sales calls.
+Your entire Client Ready Offer ecosystem, created specifically for your expertise, with funnels, ads and assets designed for maximum conversions.
 
 🔒 INSTANT ACCESS | ~~PRICE: $997~~ FREE
 
@@ -212,9 +214,9 @@ COMPLETE FUNNEL — 30 DAY DELIVERY GUARANTEE
 
 # COMPLETE FUNNEL — 30 DAY DELIVERY GUARANTEE
 
-I'll build your complete No-Phone Offer funnel over 30 days. If it's not done, I keep working until it is. No extra charge. No excuses.
+I'll build your complete Client Ready Funnel over 30 days. If it's not done, I keep working until it is. No extra charge. No excuses.
 
-You want a funnel that sells without sales calls. I want a case study. We both win when this works.
+You want a funnel that sells your offer for you. I want a case study. We both win when this works.
 
 ---
 
@@ -244,7 +246,7 @@ When you click "YES" below, here's Exactly How It'll Work...
 
 ✅ **Week 4:** We have our 1-on-1 integration call and launch your system
 
-✅ **Day 30:** Your No-Phone Offer funnel is live and selling — without you on the phone
+✅ **Day 30:** Your Client Ready Funnel is live and generating customers
 
 ---
 
@@ -254,13 +256,13 @@ When you click "YES" below, here's Exactly How It'll Work...
 
 You can spend the next 6 months building everything yourself, testing what works, and hoping you get it right...
 
-Or you can have me build your entire No-Phone Offer funnel and have it live and selling in 30 days — without a single sales call.
+Or you can have me build your entire Client Ready Funnel and have it live and selling in 30 days.
 
 The choice is yours.
 
 Hit the button below to make the hard work easy.
 
-Hit the button below and lock in your done-for-you No-Phone Offer funnel — delivered in 30 days or I keep working until it's done.
+Hit the button below and lock in your done-for-you Client Ready Funnel — delivered in 30 days or I keep working until it's done.
 
 ---
 
@@ -291,7 +293,7 @@ No Thanks! I'll Build Everything Myself And Go The Next Route!
 
 5. **Guarantee** — "Complete funnel delivered in 30 days or I keep working until it's done"
 
-6. **Terminology** — "Client Ready Funnel" throughout (not "Daily Client Funnel")
+6. **Terminology** — "Client Ready Funnel" throughout (not "Daily Client Funnel" or "No-Phone Offer Funnel")
 
 ## Price Summary
 
@@ -321,3 +323,21 @@ When you have DFY client results, add a section before the guarantee:
 - Test with/without individual component prices (just show total savings)
 - Test video length (short teaser vs full VSL)
 - Test "Who It's For" section placement (before vs after components)
+
+---
+
+## CHANGES FROM PREVIOUS VERSION (2026-02-01 → 2026-02-08)
+
+| What Changed | Old | New |
+|-------------|-----|-----|
+| Hero headline | "BUILD YOUR COMPLETE NO-PHONE OFFER FUNNEL — SO IT SELLS WITHOUT YOU ON THE PHONE" | "BUILD YOUR COMPLETE CLIENT READY FUNNEL — SO YOUR OFFER SELLS ITSELF" |
+| Headline after video | "WHAT IF YOUR NO-PHONE OFFER WAS BUILT, LIVE, AND SELLING" | "WHAT IF YOUR VALIDATED OFFER WAS BUILT, LIVE, AND SELLING" |
+| Blueprint description | "YOUR No-Phone Offer funnel" | "YOUR Client Ready Funnel" |
+| Integration call description | "launch your No-Phone Offer funnel" | "launch your Client Ready Funnel" |
+| Ecosystem description | "Your entire No-Phone Offer ecosystem... without sales calls" | "Your entire Client Ready Offer ecosystem" |
+| Complete Client Funnel description | "without sales calls" | "with an offer that does the selling for you" |
+| Guarantee | "No-Phone Offer funnel" + "sells without sales calls" | "Client Ready Funnel" + "sells your offer for you" |
+| Timeline Day 30 | "No-Phone Offer funnel is live and selling — without you on the phone" | "Client Ready Funnel is live and generating customers" |
+| Final close | "build your entire No-Phone Offer funnel... without a single sales call" | "build your entire Client Ready Funnel and have it live and selling" |
+| Final CTA text | "done-for-you No-Phone Offer funnel" | "done-for-you Client Ready Funnel" |
+| Dev notes terminology | "No-Phone Offer Funnel" | "Client Ready Funnel" |

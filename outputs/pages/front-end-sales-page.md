@@ -1,15 +1,15 @@
 ---
 type: output
 status: draft
-date: 2026-02-07
-product: Front-End - Client Ready Offer System
+date: 2026-02-08
+product: Front-End - The Client Ready Offer
 format: Sales Page Copy (GHL Ready)
 price: $27 (testing $9 variant)
-updated_from: 2026-02-01
-changes: No-Phone Offer positioning, case study framing, updated bonuses, P1-P3 fixes from landing page review
+updated_from: 2026-02-08
+changes: Removed No-Phone Offer framing throughout. Aligned to Client Ready Offer positioning — validate your $5K+ offer before you build anything. Updated case study, bonuses, headline options, mockup text, checkout popup.
 ---
 
-# Front-End Sales Page: Client Ready Offer System ($27)
+# Front-End Sales Page: The Client Ready Offer ($27)
 
 **Instructions:** Each section below maps to a section on the GHL page. Copy-paste into the page builder. Notes in [brackets] are for you, not for the page.
 
@@ -33,15 +33,15 @@ changes: No-Phone Offer positioning, case study framing, updated bonuses, P1-P3 
 
 ### Pre-headline
 
-> STOP SPENDING YOUR WEEK ON SALES CALLS. START SELLING ON CLARITY.
+> STOP GUESSING IF YOUR OFFER WILL SELL. VALIDATE IT IN ONE AFTERNOON.
 
 ### Headline
 
-> BUILD AN OFFER SO CLEAR IT SELLS WITHOUT A SALES CALL — IN ONE AFTERNOON
+> VALIDATE YOUR $5K+ OFFER BEFORE YOU BUILD ANYTHING — IN ONE AFTERNOON
 
 ### Sub-headline
 
-> The exact system I used to go from 7 years of searching to an offer that converts without calls, without content, without a single DM conversation. Case study + 5 AI prompts + step-by-step guide.
+> The exact system I used to go from 7 years of searching to a validated offer that converts — without building a funnel first, without months of content, without guessing. Case study + 5 AI prompts + step-by-step guide.
 
 ### CTA Button
 
@@ -60,8 +60,6 @@ changes: No-Phone Offer positioning, case study framing, updated bonuses, P1-P3 
 > As part of our Client Ready Offer V1.0 launch to gather success stories, you can get instant access for just $27 today. This isn't marketing hype — we're genuinely building case studies and will return to full price once we have enough testimonials.
 
 > **82% OFF** Launch Pricing
-
-[Changed from 88% to 82% — correct math for $147 → $27]
 
 > **GET INSTANT ACCESS**
 > 30 Day Money Back Guarantee
@@ -82,45 +80,41 @@ changes: No-Phone Offer positioning, case study framing, updated bonuses, P1-P3 
 
 ### Section Header
 
-> THIS IS EXACTLY HOW "CLIENT READY OFFER" HELPS COACHES SELL WITHOUT SALES CALLS
-
-[Removed "$391 BILLION COACHING INDUSTRY" — unverified claim. If you have a source, add it back.]
+> THIS IS EXACTLY HOW "CLIENT READY OFFER" HELPS COACHES BUILD AN OFFER THAT ACTUALLY SELLS
 
 ### Body Copy
 
 > Here's the truth about the coaching industry right now:
 
-> Sales calls eat 50-70% of a coach's time. Booking them is harder and more expensive every year. And the trust recession means people won't get on a call unless they're already ready to buy.
+> Most coaches spend months building funnels, writing content, and tweaking their offer — before they even know if anyone wants it. Then they wonder why nobody buys.
 
-> Most coaches think the fix is a better sales script. A DM strategy. A challenge funnel.
+> Most coaches think the fix is a better funnel. A DM strategy. A challenge launch.
 
 > Wrong.
 
 > **The problem isn't how you're selling. It's how your offer is crafted.**
 
-> If someone needs a phone call to understand what you're selling — your offer is too complex. It wasn't built to sell itself. It was built assuming you'd explain it live.
+> If someone can't understand what you're offering within 60 seconds — your offer isn't clear enough. It wasn't built to sell itself. It was built assuming you'd explain it.
 
 > Client Ready Offer flips this completely. Instead of pitching all your coaching services and hoping someone bites, you package your "Zone of Genius" into one specific offer — so clear that people can make an immediate yes or no decision.
 
-> No confusing clients with nice-to-have solutions
+> ✘ No confusing clients with nice-to-have solutions
 >
-> No having offers that sound like everyone else's
+> ✘ No having offers that sound like everyone else's
 >
-> No discounting your price to make sales
+> ✘ No discounting your price to make sales
 >
-> No complicated bloated programs that require a call to explain
-
-[Reframed from "counterintuitive shortcut" to direct problem → solution. Same bullets from current page, kept because they work.]
+> ✘ No complicated bloated programs that require an explanation to sell
 
 ---
 
-## THE STORY — CASE STUDY SECTION
+## THE CASE STUDY
 
 ### Section Header
 
-> HOW I STOPPED SELLING ON CALLS
+> HOW I WENT FROM 7 YEARS OF SEARCHING TO A VALIDATED OFFER
 
-### Part 1: The Problem
+### Part 1: The Search
 
 > Seven years. Since 2018.
 
@@ -154,11 +148,9 @@ changes: No-Phone Offer positioning, case study framing, updated bonuses, P1-P3 
 
 > Here's what I figured out — slowly, painfully, over years of doing this:
 
-> **The problem wasn't the calls. The problem was the offer.**
+> **The problem wasn't the calls. The problem was the OFFER.**
 
 > My offer was too broad. "I help coaches grow their business." What does that even mean? It could mean 50 different things. So people needed a call to figure out what they were actually buying.
-
-> The call wasn't optional. It was *required* — because the offer was too complex for a yes or no decision.
 
 > Every coach I looked at had the same problem. Their offers promised everything: mindset, strategy, marketing, sales, delivery. To sell that, you NEED a conversation. You need to dig into their specific situation and explain which parts apply to them.
 
@@ -168,28 +160,29 @@ changes: No-Phone Offer positioning, case study framing, updated bonuses, P1-P3 
 
 > I rebuilt my offer around one principle:
 
-> **If someone needs a call to understand what they're buying — the offer isn't clear enough.**
-
-> I call it a No-Phone Offer.
+> **If someone can't understand what they're getting within 60 seconds — the offer isn't clear enough.**
 
 > Instead of "I help coaches grow their business," I got specific:
 
-> *"I help coaches who can't articulate their offer build a $5K+ offer so clear it sells without a sales call — in one afternoon."*
+> *"I help coaches validate a $5K+ offer before they build anything — in one afternoon."*
 
-> See the difference? You either want that or you don't. No call needed.
+> See the difference? You either want that or you don't. No confusion. No explanation needed.
 
-> **The 4 principles:**
+> **The 4 principles of a Client Ready Offer:**
 
-> 1. **Clear, tangible outcome + specific timeframe** — "Build your offer in one afternoon"
-> 2. **Clear process** — You can see the steps before buying
-> 3. **Clear delivery** — You know exactly what you're getting
-> 4. **Easy to get started** — Low friction, immediate access
+> ✅ Clear, tangible outcome + specific timeframe — "Validate your offer in one afternoon"
+
+> ✅ Clear process — You can see the steps before buying
+
+> ✅ Clear delivery — You know exactly what you're getting
+
+> ✅ Easy to get started — Low friction, immediate access
 
 > When I applied these four principles to my own offer, everything changed.
 
-> No more 20 calls a week. No more no-shows. No more "let me think about it."
+> No more vague pitches. No more customizing for every prospect. No more "let me think about it."
 
-> People read the offer. They understood it. They bought — or they didn't. Either way, nobody needed me on a phone to explain it.
+> People saw the offer. They understood it. They bought — or they didn't. Either way, the offer did the selling.
 
 > **That's what I built for myself. And that's what this system helps you build.**
 
@@ -197,23 +190,21 @@ changes: No-Phone Offer positioning, case study framing, updated bonuses, P1-P3 
 
 > Here's how the Client Ready Offer works:
 
-> **Step 1:** You read how I extracted my own No-Phone Offer — the exact process, what worked, what didn't, and why most coaching offers need calls to sell.
+> **Step 1:** You read how I extracted my own offer — the exact process, what worked, what didn't, and why most coaching offers are too vague to sell.
 
 > **Step 2:** You use the same 5 AI prompts I used to extract YOUR offer. Zone of genius, ideal client, pain points, your story, and offer assembly. One afternoon.
 
-> **Step 3:** You walk out with a complete offer document — clear enough that someone can say yes without getting on a call with you.
+> **Step 3:** You walk out with a complete offer document — validated, positioned, and ready to share.
 
 > That's it. No 8-module curriculum. No 47-page theory. A case study, 5 prompts, and a template.
-
-[Story based on Michael's real experience: 10-20 calls/week, no-shows, ghosting, "let me think about it." Gradual realization that the offer was the problem, not the sales skills. No Wellington story — removed per Michael's request.]
 
 ---
 
 ## STRIPE PROOF SECTION
 
-> **I make those sales without ever getting on a call.**
+> **I make those sales with an offer that does the selling for me.**
 
-[Keep the Stripe screenshots — they support the No-Phone positioning directly. This caption is already perfect. Just make sure it's more prominent — it was buried before.]
+[Keep the Stripe screenshots — they support the Client Ready positioning. Make sure this is prominent, not buried.]
 
 ---
 
@@ -231,11 +222,9 @@ changes: No-Phone Offer positioning, case study framing, updated bonuses, P1-P3 
 
 ### Alexia Testimonial
 
-> Alexia generated $7,600 in her first week using a Client Ready Offer — all without Ads
+> Alexia generated $7,500 in her first week using a Client Ready Offer — all without Ads
 
 [Add disclaimer below: "Results vary. Alexia's results reflect her specific expertise and existing warm audience. Individual results depend on your offer, audience, and effort."]
-
-[These are outcome testimonials in a high-scrutiny category. Either add individual disclaimers as shown above, or add one general disclaimer after the testimonial section:]
 
 > *Individual results vary based on effort, expertise, and market conditions. These testimonials represent specific client experiences and are not guarantees of future performance.*
 
@@ -249,7 +238,7 @@ changes: No-Phone Offer positioning, case study framing, updated bonuses, P1-P3 
 
 ### Body Copy
 
-> Most coaches are stuck on the "adding value treadmill" — constantly thinking they need to have more stuff thinking they need to have more stuff when the opposite is true.
+> Most coaches are stuck on the "adding value treadmill" — constantly thinking they need to have more stuff when the opposite is true.
 
 > The Client Ready Offer flips this completely upside down.
 
@@ -257,9 +246,9 @@ changes: No-Phone Offer positioning, case study framing, updated bonuses, P1-P3 
 
 > Our proven system shows you how to:
 
-> → Turn your existing knowledge into one No-Phone Offer
+> → Turn your existing knowledge into one clear, validated offer
 >
-> → They self-identify you are the obvious choice
+> → Position yourself so clients self-identify you as the obvious choice
 >
 > → Charge high ticket prices by solving their biggest problem first
 
@@ -274,8 +263,6 @@ changes: No-Phone Offer positioning, case study framing, updated bonuses, P1-P3 
 > → Ryan makes $14k/mo (cash collected) selling a Client Ready Offer on how to help men over 40 get fit for good*
 >
 > → Alexia generated $7,500 in her first week using a Client Ready Offer delivered over the DMs to her audience*
->
-> → I spent 5 days in Wellington New Zealand without Internet and came back to weekly sales and $15k in profits
 
 > *Individual results vary. See disclaimer below.
 
@@ -295,7 +282,7 @@ changes: No-Phone Offer positioning, case study framing, updated bonuses, P1-P3 
 
 > Keep doing what everyone else is doing — trying to be everything to everybody hoping that if you "over deliver" your prospect might say yes...
 
-> Or skip the hustle and go straight to getting paid for what your worth by solving your clients most burning problem TODAY and then re-selling them to solve more problems to become a long term client.
+> Or skip the hustle and go straight to getting paid for what you're worth by solving your clients' most burning problem TODAY and then re-selling them to solve more problems to become a long term client.
 
 > The Client Ready Offer isn't just a business strategy. It's freedom from the "business as usual" model that's keeping you guessing where your next client is going to come from and one bad decision away from quitting and going back to your corporate job.
 
@@ -306,50 +293,55 @@ changes: No-Phone Offer positioning, case study framing, updated bonuses, P1-P3 
 
 ---
 
-## WHAT'S INCLUDED — 6 MODULES
+## WHAT'S INCLUDED — 5 COMPONENTS + CASE STUDY
 
 ### Section Header
 
 > HERE'S EVERYTHING YOU'RE GETTING INSIDE CLIENT READY OFFER
 
-[If these 6 modules are actually delivered as-is, keep them but update the names/descriptions to align with No-Phone positioning. If they're legacy content that's been replaced by the case study guide, simplify to match offer.md.]
+> Here's the complete system that's helped 150+ experts stop giving away their expertise for free and start generating 100+ sales a day.
 
-### Option A: Keep 6 Modules (Update Names)
+[Use the creative mockup image showing "The Client Ready Offer" with the 5 component boxes around it]
 
-**Module 1: The No-Phone Offer Case Study**
-Watch over my shoulder as I break down the entire system for turning your zone of genius into a simple Client Ready offer that sells without a sales call.
+### Component Callouts (Around Mockup Image)
+
+**Left side:**
+- Sell One Offer For Ever
+- Stop Trying To Add Value
+- Charge What You're Worth
+- Sell To Your Existing Warm Audience
+
+**Right side:**
+- Focus Only On Your Zone Of Genius
+- Get Paid What You're Worth
+- Sell To People Who Want To Be Sold
+- Use Nothing But A Google Doc
+
+### The 5 Components
+
+**1. The Client Ready Offer Case Study**
+Watch over my shoulder as I break down the entire system for turning your zone of genius into a simple Client Ready Offer — including the 7-year search, the realization, and the 4 principles that changed everything.
 INSTANT ACCESS | INCLUDED
 
-**Module 2: Guide to Selling One Signature Offer**
-Complete roadmap on how to sell your signature offer at different price points to maximize conversions and cash flow.
+**2. 5 AI Prompts That Extract Your Genius**
+The exact AI prompts I used to extract my own offer. Zone of genius, ideal client, pain points, story elements, and offer assembly — run them in one afternoon and walk out with a complete offer.
 INSTANT ACCESS | INCLUDED
 
-**Module 3: AI Offer Extraction & Validation**
-The 5 AI prompts that extract your zone of genius and validate your offer with your target audience — the exact tools behind the case study.
+**3. "I'm The Only Choice" Positioning**
+How to position yourself so you're not competing with every other coach — you're the obvious answer. Specificity kills competition. Your zone of genius has no competition because nobody else is you.
 INSTANT ACCESS | INCLUDED
 
-**Module 4: Viral Content Templates**
-Viral Content Templates that generate curiosity and excitement about re-launching your existing offer or launching a new offer.
+**4. Your $5K Offer Ready Today**
+The complete offer document template. After running the 5 prompts, your answers plug directly into this template — and you walk away with a finished offer document ready to share, sell, or turn into a landing page.
 INSTANT ACCESS | INCLUDED
 
-**Module 5: Ready To Buy Blueprint**
-Complete Ready To Buy blueprint on how to monetize your offer either from your existing audience or leveraging other peoples audiences.
+**5. Validate Before You Build**
+The system for testing your offer with real people before investing in infrastructure. Share your offer document, get feedback, make your first sale — THEN build the funnel.
 INSTANT ACCESS | INCLUDED
 
-**Module 6: Easy To Sell Product Creation**
-The complete easy to sell product creation tool to ensure that your product and offer are in complete alignment with your target market.
+**+ One Offer You Won't Abandon**
+The alignment check that ensures you're building something you'll actually stick with. Three questions that reveal whether your offer is pull or push — because if it hurts to show up, you'll eventually burn it down.
 INSTANT ACCESS | INCLUDED
-
-### Option B: Simplify to Match offer.md (4 Components)
-
-[If the 6 modules are legacy/renamed versions of the same content, consider simplifying to 4:]
-
-**1. The Case Study** — How I went from 7 years searching to an offer that sells without calls
-**2. The Framework** — Why most coaching offers REQUIRE sales calls (and the 4 principles that fix it)
-**3. The 5 AI Prompts** — The exact tools I used to extract my offer (and you'll use to extract yours)
-**4. The Offer Document Template** — Your finished offer in a format ready to share
-
-[Choose based on what's actually in the membership area. If 6 modules exist, use Option A. If the product has been restructured, use Option B.]
 
 ---
 
@@ -368,23 +360,17 @@ INCLUDED FREE
 Proven headline formulas and hooks that stop scrolling and convert cold traffic into buyers instantly. Just fill in your details and launch.
 INCLUDED FREE
 
-### Bonus 3: No-Phone Offer Scorecard (NEW)
-Grade any offer on the 4 No-Phone principles. If your score is below 7/10, your offer still needs a sales call to sell. Fix it before you build anything.
+### Bonus 3: Client Ready Offer Scorecard
+Grade any offer on the 4 Client Ready principles. If your score is below 7/10, your offer still isn't clear enough to sell itself. Fix it before you build anything.
 INCLUDED FREE
 
-[Replaces: Order Bump Profit Maximizer — moved to Sprint territory]
-
-### Bonus 4: "What Makes People Buy Without a Call" — 5 Real Examples (NEW)
-Side-by-side breakdowns of offers that sell without calls vs offers that require calls. See exactly WHY one needs a conversation and the other doesn't.
+### Bonus 4: "What Makes People Buy" — 5 Real Examples
+Side-by-side breakdowns of offers that sell vs offers that don't. See exactly WHY one converts and the other falls flat.
 INCLUDED FREE
 
-[Replaces: High-Converting Checkout Pages — moved to Sprint territory]
-
-### Bonus 5: The One-Sentence Offer Test (NEW)
-If you can't explain your offer in one sentence and get a yes or no — it's not a No-Phone Offer yet. Includes 20 before/after examples of vague offers turned specific.
+### Bonus 5: The One-Sentence Offer Test
+If you can't explain your offer in one sentence and get a yes or no — it's not a Client Ready Offer yet. Includes 20 before/after examples of vague offers turned specific.
 INCLUDED FREE
-
-[Replaces: Facebook Ad Tracking Set Up — moved to Sprint territory]
 
 ### Bonus 6: 100+ Profitable Digital Snack Ideas
 Never run out of product ideas again with our comprehensive list of proven Client Ready Offers across the Wealth, Health, and Relationship spaces.
@@ -430,8 +416,6 @@ INCLUDED FREE
 
 > How's that for a money back guarantee? I'd say pretty good!
 
-[Kept original guarantee copy — it's in Michael's voice and works well. Just updated "go through the modules" to "go through the case study and prompts" to match new framing.]
-
 ---
 
 ## FINAL CTA
@@ -457,32 +441,17 @@ INCLUDED FREE
 
 > *Individual results vary. Testimonials on this page represent specific client experiences and are not guarantees of future results. Your results depend on your expertise, effort, market conditions, and implementation. This product is brought to you and copyrighted by Ticket Playbook Coaching.*
 
-[Added results disclaimer per FTC guidance for coaching/biz opp industry]
-
 ---
 
 ## CHECKOUT POPUP (Purchase Modal)
 
-[This is the popup that appears when someone clicks to buy. Current live version has multiple issues — see fixes below.]
-
-### Current Issues (Live Popup)
-
-| Issue | Current (Wrong) | Fix |
-|-------|----------------|-----|
-| Headline | "Launch Your Client Ready Offer In 24 Hours Or Less & Get 100+ Customers in 90 days" | Remove outcome claim — FTC Tier 1 risk, no typicality data |
-| Mockup price | $17 | Update to $27 |
-| Savings math | "You're Instantly Saving $130.00" | $147 - $27 = $120 (not $130) |
-| Dynamic Item price | $99 | Should be $27 |
-| No-Phone positioning | Missing entirely | Add to headline and body |
-| Module names in mockup | Legacy ("Ready to Buy Blueprint", "Easy to Sell Product Creation", etc.) | Update to match current offer |
-
 ### Updated Popup Copy
 
 **Headline:**
-> Build Your No-Phone Offer In One Afternoon
+> Validate Your $5K+ Offer In One Afternoon
 
 **Sub-headline:**
-> The exact system to turn your expertise into an offer so clear it sells without a sales call.
+> The exact system to turn your expertise into an offer so clear it sells itself.
 
 **Pricing:**
 > ~~$147.00~~ Only $27.00 Today
@@ -499,10 +468,10 @@ INCLUDED FREE
 
 | Device | Text |
 |--------|------|
-| Desktop | The Client Ready Offer System |
-| Laptop | No-Phone Offer Case Study |
-| Tablet | 5 AI Offer Extraction Prompts |
-| Phone | Offer Document Template |
+| Desktop | The Client Ready Offer |
+| Laptop | Client Ready Offer Case Study |
+| Tablet | 5 AI Prompts That Extract Your Genius |
+| Phone | Your $5K Offer Ready Today |
 
 [Update mockup image: change $17 badge to $27. Replace legacy module names with above. Keep Michael's photo — it builds trust.]
 
@@ -564,10 +533,10 @@ INCLUDED FREE
 
 | Headline | Angle | Test Priority |
 |----------|-------|---------------|
-| Build an Offer So Clear It Sells Without a Sales Call — In One Afternoon | No-Phone + Speed | **High — primary** |
-| Stop Selling on Calls. Start Selling on Clarity. | No-Phone + Pain | High |
-| What If Your Offer Was So Clear Nobody Needed a Call to Buy? | No-Phone + Curiosity | Medium |
-| Your Offer Should Close Without You on the Phone | No-Phone + Direct | Medium |
+| Validate Your $5K+ Offer Before You Build Anything — In One Afternoon | Validate + Speed | **High — primary** |
+| Stop Guessing If Your Offer Will Sell. Validate It In One Afternoon. | Validation + Pain | High |
+| What If Your Offer Was So Clear Nobody Needed an Explanation to Buy? | Clarity + Curiosity | Medium |
+| Your Offer Should Sell Itself. Here's How to Build One That Does. | Clarity + Direct | Medium |
 | Everyone Teaches Funnels. Nobody Teaches the Offer. | Clarity-First (legacy, still strong) | Medium |
 
 ---
@@ -581,24 +550,26 @@ INCLUDED FREE
 - [x] Does it reject guru fluff?
 - [x] Is it specific, not vague?
 - [x] Does it align with offer.md?
-- [x] No-Phone Offer positioning present?
+- [x] Client Ready Offer positioning present?
 - [x] Case study framing present?
 - [x] No expired dates or wrong percentages?
+- [x] What's Included matches creative mockup?
+- [x] No-Phone references removed?
 
 ---
 
 ## PAGE STRUCTURE SUMMARY
 
 1. Banner (launch pricing — no fake urgency)
-2. Hero (No-Phone headline + sub-headline)
+2. Hero (Validate headline + sub-headline)
 3. Social proof (Renee testimonial)
-4. The Problem (sales calls are the symptom, unclear offer is the cause)
-5. The Story (case study — how I stopped selling on calls)
-6. Stripe proof ("I make those sales without ever getting on a call")
+4. The Problem (vague offer is the cause, not selling tactics)
+5. The Case Study (4 parts: Search → Realization → What Changed → How It Works)
+6. Stripe proof ("offer does the selling")
 7. Testimonials (Ryan + Alexia with disclaimers)
 8. The Shift (why most coaches get stuck + reality check)
-9. What's Included (6 modules or 4 components)
-10. 9 Bonuses (3 new No-Phone aligned)
+9. What's Included (5 components + alignment check, matching creative mockup)
+10. 9 Bonuses (3 Client Ready aligned)
 11. CTA + Pricing
 12. Guarantee
 13. Final CTA
@@ -606,23 +577,49 @@ INCLUDED FREE
 
 ---
 
-## CHANGES FROM PREVIOUS VERSION
+## CHANGES FROM PREVIOUS VERSION (2026-02-08 update 2)
 
 | What Changed | Old | New |
 |-------------|-----|-----|
-| Headline | "Extract Your Zone of Genius... in 15 Minutes or Less" | "Build an Offer So Clear It Sells Without a Sales Call — In One Afternoon" |
-| Banner | "ENDS 25TH JANUARY" (expired) | Launch pricing — no fake date |
-| Mockup price | $17 | $27 (update image) |
-| Discount % | 88% | 82% (correct math) |
-| Product framing | Prompts-first | Case study-first |
-| Problem section | Generic funnel-first criticism | Sales calls as the specific pain |
-| Bonus 3 | Order Bump Profit Maximizer | No-Phone Offer Scorecard |
-| Bonus 4 | High-Converting Checkout Pages | "What Makes People Buy Without a Call" |
-| Bonus 5 | Facebook Ad Tracking Set Up | The One-Sentence Offer Test |
-| Testimonials | No disclaimers | Individual + general disclaimer |
-| Footer | No results disclaimer | Added FTC-aligned disclaimer |
-| Popup headline | "Launch Your Client Ready Offer In 24 Hours Or Less & Get 100+ Customers in 90 days" | "Build Your No-Phone Offer In One Afternoon" |
-| Popup savings | $130 (wrong math) | $120 (correct: $147 - $27) |
-| Popup mockup price | $17 | $27 |
-| Popup Dynamic Item | $99 | $27 |
-| Popup module names | Legacy (Ready to Buy Blueprint, etc.) | No-Phone Case Study, AI Prompts, Offer Template |
+| Pre-headline | STOP SPENDING YOUR WEEK ON SALES CALLS. START SELLING ON CLARITY. | STOP GUESSING IF YOUR OFFER WILL SELL. VALIDATE IT IN ONE AFTERNOON. |
+| Headline | BUILD AN OFFER SO CLEAR IT SELLS WITHOUT A SALES CALL — IN ONE AFTERNOON | VALIDATE YOUR $5K+ OFFER BEFORE YOU BUILD ANYTHING — IN ONE AFTERNOON |
+| Sub-headline | "converts without calls, without content, without a single DM conversation" | "converts — without building a funnel first, without months of content, without guessing" |
+| Problem section header | HELPS COACHES SELL WITHOUT SALES CALLS | HELPS COACHES BUILD AN OFFER THAT ACTUALLY SELLS |
+| Problem body | "If someone needs a phone call to understand what you're selling" | "If someone can't understand what you're offering within 60 seconds" |
+| Problem body | "complicated bloated programs that require a call to explain" | "complicated bloated programs that require an explanation to sell" |
+| Case study header | HOW I STOPPED SELLING ON CALLS | HOW I WENT FROM 7 YEARS OF SEARCHING TO A VALIDATED OFFER |
+| Case study principle | "If someone needs a call to understand what they're buying — the offer isn't clear enough" | "If someone can't understand what they're getting within 60 seconds — the offer isn't clear enough" |
+| Case study — "I call it" | "I call it a No-Phone Offer" | Removed |
+| Case study positioning | "sells without a sales call — in one afternoon" | "validate a $5K+ offer before they build anything — in one afternoon" |
+| Case study 4 principles | "No-Phone Offer principles" | "4 principles of a Client Ready Offer" |
+| Case study results | "nobody needed me on a phone to explain it" | "the offer did the selling" |
+| Case study How It Works | "extracted my own No-Phone Offer" | "extracted my own offer" |
+| Case study Step 3 | "clear enough that someone can say yes without getting on a call" | "validated, positioned, and ready to share" |
+| Stripe proof line | "I make those sales without ever getting on a call" | "I make those sales with an offer that does the selling for me" |
+| The Shift body | "Turn your existing knowledge into one No-Phone Offer" | "Turn your existing knowledge into one clear, validated offer" |
+| The Shift body | "They self-identify you are the obvious choice" | "Position yourself so clients self-identify you as the obvious choice" |
+| Component 1 name | The No-Phone Offer Case Study | The Client Ready Offer Case Study |
+| Component 1 description | "sells without a sales call — including the 10-20 calls/week grind" | "including the 7-year search, the realization" |
+| Bonus 3 name | No-Phone Offer Scorecard | Client Ready Offer Scorecard |
+| Bonus 3 description | "your offer still needs a sales call to sell" | "your offer still isn't clear enough to sell itself" |
+| Bonus 4 name | "What Makes People Buy Without a Call" | "What Makes People Buy" |
+| Bonus 4 description | "offers that sell without calls vs offers that require calls" | "offers that sell vs offers that don't" |
+| Bonus 5 description | "it's not a No-Phone Offer yet" | "it's not a Client Ready Offer yet" |
+| Checkout headline | Build Your No-Phone Offer In One Afternoon | Validate Your $5K+ Offer In One Afternoon |
+| Checkout sub-headline | "sells without a sales call" | "sells itself" |
+| Mockup Laptop text | No-Phone Offer Case Study | Client Ready Offer Case Study |
+| Callout typo | "Charge What Your Are Worth" | "Charge What You're Worth" |
+| Callout typo | "Sell To Be People Who Want To Be Sold" | "Sell To People Who Want To Be Sold" |
+| Voice checklist | "No-Phone Offer positioning present?" | "Client Ready Offer positioning present?" + "No-Phone references removed?" |
+| Headline testing | All No-Phone angles | All Validate/Clarity angles |
+
+---
+
+## CHANGES LOG (Full History)
+
+| Date | Summary |
+|------|---------|
+| 2026-02-01 | Initial No-Phone Offer rewrite |
+| 2026-02-07 | P1-P3 fixes, updated bonuses, case study structure, popup fixes |
+| 2026-02-08 | Aligned to creative mockup — 5 components, removed Wellington, resolved What's Included, updated mockups |
+| 2026-02-08 | Removed No-Phone framing throughout. Aligned to Client Ready Offer positioning per offer.md — validate your $5K+ offer before you build anything |

@@ -54,7 +54,7 @@ From your offer, identify the main angles:
 2. Anti-niching / zone of genius extraction
 3. Content merry-go-round / no clients
 4. Failed alternatives (courses, coaches, worksheets)
-5. Speed / one afternoon vs 3 months
+5. Speed / 15 minutes vs 3 months
 
 ### Step 2: Write Multiple Versions Per Angle
 

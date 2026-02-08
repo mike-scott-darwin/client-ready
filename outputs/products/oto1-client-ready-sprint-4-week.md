@@ -1,4 +1,4 @@
-# Client Ready Sprint (4-Week)
+# The Client Ready Sprint (4-Week)
 
 **Launch your validated offer in 30 days — or I keep working with you.**
 
@@ -9,13 +9,12 @@
 Everything in the Self-Paced program PLUS live support, weekly calls, and direct access to me for 4 weeks.
 
 **Self-Paced Contents (you have full access):**
-- Zone of Genius Extraction Framework
-- AI Landing Page Generator
-- Traffic Generation Playbook
-- A/B Testing Frameworks & Strategies
-- Client Onboarding System & Delivery Frameworks
-- One-Click Campaign Templates
-- Skool Community Access
+1. Zone of Genius Extraction
+2. AI Landing Page Generator
+3. Traffic Generation Playbook
+4. A/B Testing Frameworks
+5. Client Onboarding System
+- Plus: Skool Community Access
 
 **Sprint Additions:**
 1. **Weekly Group Calls** — 4 live sessions with Michael

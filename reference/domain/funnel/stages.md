@@ -41,7 +41,7 @@ RETENTION (Results → Referrals → Case Studies)
 - Word of mouth from clients
 - Podcast appearances / collaborations
 
-**Key message:** "Build an offer so clear it sells without a sales call" / "The Coach Who Won't Tell You to Quit Your 9-to-5"
+**Key message:** "The Coach Who Won't Tell You to Quit Your 9-to-5"
 
 ---
 
@@ -49,19 +49,19 @@ RETENTION (Results → Referrals → Case Studies)
 
 **Goal:** They make first purchase
 
-**Product:** Client Ready Offer System ($27) — Build a No-Phone Offer in one afternoon
+**Product:** Client Ready Offer System ($27)
 
 **Trigger:**
-- Paid ads to cold traffic (No-Phone positioning)
+- Paid ads to cold traffic
 - Mentioned in community
 - Direct offer to engaged followers
-- Content about selling without sales calls
+- Content about offer creation
 
 **What happens:**
 - Buy $27 Client Ready Offer System
 - See 3 order bump offers
 - Enter OTO sequence
-- Build their No-Phone Offer using 5 AI prompts
+- Experience the methodology
 
 **Metrics to track:**
 - Conversion rate from ads to $27

@@ -14,7 +14,7 @@ linked_decisions:
 
 # Offer
 
-**Build an offer so clear it sells without a sales call — in one afternoon.**
+**Validate your $5K+ offer before you build anything — in one afternoon.**
 
 ---
 
@@ -43,7 +43,6 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 
 - **"You can't grow into pain"** — If it hurts to show up, you'll eventually burn it down
 - **"Business around your life"** — Not a life built around your business
-- **No-Phone Offers** — Your offer should be clear enough to sell without a sales call. If it needs explaining on a call, it's not clear enough yet.
 - **Paid traffic over content merry-go-round** — Stop posting for 12 months hoping someone buys
 - **Validate before you build** — Know it works before investing in infrastructure
 - **Alignment + automation** — Not scale for scale's sake
@@ -55,13 +54,11 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 
 ### Tier 1: $27 Low-Ticket Funnel
 
-**Front-End: $27 — Client Ready Offer System** *(testing $9 variant — see A/B test note below)*
-- Case study-led guide showing the exact process a coach used to extract and validate a No-Phone Offer
-- 5 AI prompts embedded as tools within the story (zone of genius, ideal client, pain points, story, offer assembly)
+**Front-End: $27 — Client Ready Offer System**
+- PDF guide + AI prompts
+- 5 AI prompts that extract zone of genius, ideal client, pain points, story, and assemble complete offer
 - Step-by-step guide + offer document template
-- **Promise:** Build an offer so clear it sells without a sales call — in one afternoon
-
-**A/B Test (Feb 2026):** Running $9 vs $27 split test per Miles Stutz data. $300 per variant. If $9 converts 2x+ higher with comparable AOV after bumps → switch permanently. Bumps carry the model regardless of front-end price.
+- **Promise:** Validate your $5K+ offer before you build anything — in one afternoon
 
 **Order Bump 1: $17 — Quick Win DM Scripts**
 - 5 copy-paste DM scripts for warm outreach

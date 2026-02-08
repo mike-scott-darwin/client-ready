@@ -1,4 +1,4 @@
-# Client Ready Sprint (Self-Paced)
+# The Client Ready Sprint (Self-Paced)
 
 **Everything you need to launch — on your timeline.**
 
@@ -10,20 +10,19 @@ The complete Client Ready funnel system. No calls, no schedule — work at your 
 
 Here's what's inside:
 
-1. **The Zone of Genius Extraction Framework** — Deep-dive beyond the 5 prompts
-2. **AI Landing Page Generator** — Full system, not just templates
-3. **Traffic Generation Playbook** — Beyond the basics
-4. **A/B Testing Frameworks & Strategies** — Know what's working
-5. **Client Onboarding System** — Deliver like a pro
-6. **Delivery Frameworks** — Systematize your fulfillment
-7. **One-Click Campaign Templates** — Scale faster
-8. **Skool Community Access** — Support from Michael and other clients
+1. **Zone of Genius Extraction** — Deep-dive beyond the 5 prompts into your unfair advantage, ONE problem, and positioning
+2. **AI Landing Page Generator** — Full system for building high-converting pages with AI — architecture, prompts, and proven layouts
+3. **Traffic Generation Playbook** — The 2026 approach to Facebook/Meta ads — algorithm-first advertising with one-click campaign templates
+4. **A/B Testing Frameworks** — Systematic testing with proper validation thresholds so you know what's actually working
+5. **Client Onboarding System** — Professional onboarding, delivery frameworks, and fulfillment systems so you can scale
+
+**Plus:** Skool Community Access — private support community with Michael and other clients.
 
 Let's walk through each module.
 
 ---
 
-## Module 1: Zone of Genius Extraction Framework
+## Module 1: Zone of Genius Extraction
 
 **Goes deeper than the 5 prompts.**
 
@@ -207,11 +206,11 @@ Why GHL over other options:
 
 | Feature | GoHighLevel | Other Builders |
 |---------|-------------|----------------|
-| Funnel pages | ✅ Included | Often separate tool |
-| Email/SMS | ✅ Included | Separate subscription |
-| CRM | ✅ Included | Separate subscription |
-| Booking calendar | ✅ Included | Separate subscription |
-| Automations | ✅ Included | Limited or extra cost |
+| Funnel pages | Included | Often separate tool |
+| Email/SMS | Included | Separate subscription |
+| CRM | Included | Separate subscription |
+| Booking calendar | Included | Separate subscription |
+| Automations | Included | Limited or extra cost |
 | Price | ~$97-297/mo all-in | $300-500+/mo stacked tools |
 
 **The math:** Instead of paying for ClickFunnels ($147) + ActiveCampaign ($79) + Calendly ($12) + separate CRM, GHL gives you everything in one platform.
@@ -349,6 +348,108 @@ Messaging diversity matters MORE than creative diversity.
 | 2 | Warning | Monitor closely |
 | 3+ | Fatigued | Do NOT scale — add new creative first |
 
+### 3.9 One-Click Campaign Templates
+
+**2026 campaign templates using Advantage Plus and CBO — ready to deploy.**
+
+#### Main Conversion Campaign Template
+
+**Campaign Settings:**
+
+| Setting | Value |
+|---------|-------|
+| Objective | Sales |
+| Campaign Budget Optimization | ON |
+| Daily budget | $25-100/day (see 3.3) |
+| Campaign name | `LTO - [Offer Name] - CBO` |
+
+**Ad Set Settings:**
+
+| Setting | Value |
+|---------|-------|
+| Conversion location | Website only |
+| Pixel | Your pixel |
+| Conversion event | Purchase |
+| Advantage Plus targeting | ON |
+| Locations | US, UK, CA, AU, NZ |
+| Interests | NONE |
+| Lookalikes | NONE |
+| Exclusions | NONE |
+
+**Ad Settings:**
+
+| Setting | Value |
+|---------|-------|
+| Advantage+ Creative | OFF |
+| Creative enhancements | OFF |
+| Site links | OFF |
+| CTA | Learn More |
+| Ad naming | `[Awareness Level] - [Format] - [Hook]` |
+
+#### Engagement Campaign Template
+
+**Use for:** Building omnipresence at $3-25/day.
+
+| Setting | Value |
+|---------|-------|
+| Objective | Engagement |
+| Daily budget | $3-25/day per platform |
+| Placements | MANUAL — FB Feed only OR IG Feed only (separate campaigns) |
+| Posts per ad set | 2 posts |
+| Rotation | Weekly — swap in posts with organic engagement |
+
+#### Retargeting Campaign Template
+
+**Campaign Settings:**
+
+| Setting | Value |
+|---------|-------|
+| Objective | Sales |
+| CBO | ON |
+| Daily budget | $20-30/day |
+
+**Ad Set Settings:**
+
+| Setting | Value |
+|---------|-------|
+| Audience | Website visitors 180 days, exclude purchasers |
+| Placements | Advantage+ Placements |
+
+**Creative Angles:**
+1. Reminder: "Still thinking about it?"
+2. Social proof: "[X] coaches already inside"
+3. Objection handler: Address top objection
+
+#### Pixel & CAPI Setup Checklist
+
+**Step 1: Base Pixel**
+- [ ] Install pixel base code in `<head>` of ALL funnel pages
+
+**Step 2: Purchase Event**
+- [ ] Add purchase event to page AFTER order form (upsell page, not confirmation)
+
+**Step 3: CAPI Setup**
+- [ ] Create account at stape.io (~$10/month)
+- [ ] Follow their Facebook CAPI guide
+- [ ] Once CAPI working: Remove standard purchase event
+
+**Step 4: Verify**
+- [ ] Test purchase in Events Manager → Test Events
+- [ ] Confirm Purchase event fires with correct value
+- [ ] Check Event Match Quality (aim for 8+)
+
+#### Ads Manager Column Setup
+
+Set up columns in this order:
+1. **Frequency** (most important)
+2. Results
+3. Cost per result
+4. Purchase ROAS
+5. AOV
+6. Amount spent
+7. CTR / CPC
+8. Landing page views
+
 ---
 
 ## Module 4: A/B Testing Frameworks
@@ -417,7 +518,7 @@ Most people skip #1 and #2 and go straight to testing images. Start at #1.
 
 ## Module 5: Client Onboarding System
 
-**Professional onboarding = better results + fewer refunds.**
+**Professional onboarding + delivery = better results + fewer refunds.**
 
 ### 5.1 The Onboarding Flow
 
@@ -470,13 +571,11 @@ Essential questions:
 4. What's your timeline? (When do you need results?)
 5. What's your biggest question? (What do you need help with first?)
 
----
-
-## Module 6: Delivery Frameworks
+### 5.4 Delivery Frameworks
 
 **Systematize fulfillment so you can scale.**
 
-### 6.1 The Delivery Checklist
+#### The Delivery Checklist
 
 For each client:
 - [ ] Access granted (all materials)
@@ -487,7 +586,7 @@ For each client:
 - [ ] Completion/graduation process
 - [ ] Testimonial request sent
 
-### 6.2 The Support Protocol
+#### The Support Protocol
 
 | Issue Type | Response Time | Channel |
 |------------|---------------|---------|
@@ -496,7 +595,7 @@ For each client:
 | Urgent blocker | <24 hours | Email/DM |
 | General question | <48 hours | Community |
 
-### 6.3 The Results Tracking Template
+#### The Results Tracking Template
 
 | Client | Start Date | Week 1 | Week 2 | Week 3 | Week 4 | Result | Testimonial? |
 |--------|------------|--------|--------|--------|--------|--------|--------------|
@@ -504,111 +603,7 @@ For each client:
 
 ---
 
-## Module 7: One-Click Campaign Templates
-
-**2026 campaign templates using Advantage Plus and CBO.**
-
-### 7.1 Main Conversion Campaign Template
-
-**Campaign Settings:**
-
-| Setting | Value |
-|---------|-------|
-| Objective | Sales |
-| Campaign Budget Optimization | ON |
-| Daily budget | $25-100/day (see Module 3) |
-| Campaign name | `LTO - [Offer Name] - CBO` |
-
-**Ad Set Settings:**
-
-| Setting | Value |
-|---------|-------|
-| Conversion location | Website only |
-| Pixel | Your pixel |
-| Conversion event | Purchase |
-| Advantage Plus targeting | ON |
-| Locations | US, UK, CA, AU, NZ |
-| Interests | NONE |
-| Lookalikes | NONE |
-| Exclusions | NONE |
-
-**Ad Settings:**
-
-| Setting | Value |
-|---------|-------|
-| Advantage+ Creative | OFF |
-| Creative enhancements | OFF |
-| Site links | OFF |
-| CTA | Learn More |
-| Ad naming | `[Awareness Level] - [Format] - [Hook]` |
-
-### 7.2 Engagement Campaign Template
-
-**Use for:** Building omnipresence at $3-25/day.
-
-| Setting | Value |
-|---------|-------|
-| Objective | Engagement |
-| Daily budget | $3-25/day per platform |
-| Placements | MANUAL — FB Feed only OR IG Feed only (separate campaigns) |
-| Posts per ad set | 2 posts |
-| Rotation | Weekly — swap in posts with organic engagement |
-
-### 7.3 Retargeting Campaign Template
-
-**Campaign Settings:**
-
-| Setting | Value |
-|---------|-------|
-| Objective | Sales |
-| CBO | ON |
-| Daily budget | $20-30/day |
-
-**Ad Set Settings:**
-
-| Setting | Value |
-|---------|-------|
-| Audience | Website visitors 180 days, exclude purchasers |
-| Placements | Advantage+ Placements |
-
-**Creative Angles:**
-1. Reminder: "Still thinking about it?"
-2. Social proof: "[X] coaches already inside"
-3. Objection handler: Address top objection
-
-### 7.4 Pixel & CAPI Setup Checklist
-
-**Step 1: Base Pixel**
-- [ ] Install pixel base code in `<head>` of ALL funnel pages
-
-**Step 2: Purchase Event**
-- [ ] Add purchase event to page AFTER order form (upsell page, not confirmation)
-
-**Step 3: CAPI Setup**
-- [ ] Create account at stape.io (~$10/month)
-- [ ] Follow their Facebook CAPI guide
-- [ ] Once CAPI working: Remove standard purchase event
-
-**Step 4: Verify**
-- [ ] Test purchase in Events Manager → Test Events
-- [ ] Confirm Purchase event fires with correct value
-- [ ] Check Event Match Quality (aim for 8+)
-
-### 7.5 Ads Manager Column Setup
-
-Set up columns in this order:
-1. **Frequency** (most important)
-2. Results
-3. Cost per result
-4. Purchase ROAS
-5. AOV
-6. Amount spent
-7. CTR / CPC
-8. Landing page views
-
----
-
-## Module 8: Skool Community Access
+## Skool Community Access
 
 **Your direct line to support.**
 
@@ -649,7 +644,7 @@ Set up columns in this order:
 **Week 4: Optimize & Onboard**
 - Scale winners, kill losers
 - Set up client onboarding (Module 5)
-- Systematize delivery (Module 6)
+- Systematize delivery
 
 ---
 
