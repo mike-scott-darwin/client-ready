@@ -33,15 +33,15 @@ changes: Removed No-Phone Offer framing throughout. Aligned to Client Ready Offe
 
 ### Pre-headline
 
-> STOP GUESSING IF YOUR OFFER WILL SELL. VALIDATE IT IN ONE AFTERNOON.
+> STOP BEING "I HELP EVERYONE WITH EVERYTHING." BECOME "I'M THE ONLY CHOICE."
 
 ### Headline
 
-> VALIDATE YOUR $5K+ OFFER BEFORE YOU BUILD ANYTHING — IN ONE AFTERNOON
+> EXTRACT YOUR ZONE OF GENIUS INTO ONE CLIENT READY OFFER — IN ONE AFTERNOON
 
 ### Sub-headline
 
-> The exact system I used to go from 7 years of searching to a validated offer — in one afternoon. Case study + 5 AI prompts + step-by-step guide.
+> The exact system I used to go from "I help everyone with everything" to "I'm the only choice" — in one afternoon. Case study + 5 AI prompts + step-by-step guide.
 
 ### CTA Button
 
@@ -448,7 +448,7 @@ INCLUDED FREE
 ### Updated Popup Copy
 
 **Headline:**
-> Validate Your $5K+ Offer In One Afternoon
+> Extract Your Zone Of Genius Into One Client Ready Offer
 
 **Sub-headline:**
 > The exact system to turn your expertise into an offer so clear it sells itself.
@@ -533,8 +533,9 @@ INCLUDED FREE
 
 | Headline | Angle | Test Priority |
 |----------|-------|---------------|
-| Validate Your $5K+ Offer Before You Build Anything — In One Afternoon | Validate + Speed | **High — primary** |
-| Stop Guessing If Your Offer Will Sell. Validate It In One Afternoon. | Validation + Pain | High |
+| Extract Your Zone Of Genius Into One Client Ready Offer — In One Afternoon | Identity + Mechanism (matches winning ad creative) | **High — primary** |
+| Validate Your $5K+ Offer Before You Build Anything — In One Afternoon | Validate + Speed | High |
+| Stop Guessing If Your Offer Will Sell. Validate It In One Afternoon. | Validation + Pain | Medium |
 | What If Your Offer Was So Clear Nobody Needed an Explanation to Buy? | Clarity + Curiosity | Medium |
 | Your Offer Should Sell Itself. Here's How to Build One That Does. | Clarity + Direct | Medium |
 | Everyone Teaches Funnels. Nobody Teaches the Offer. | Clarity-First (legacy, still strong) | Medium |
@@ -623,3 +624,4 @@ INCLUDED FREE
 | 2026-02-07 | P1-P3 fixes, updated bonuses, case study structure, popup fixes |
 | 2026-02-08 | Aligned to creative mockup — 5 components, removed Wellington, resolved What's Included, updated mockups |
 | 2026-02-08 | Removed No-Phone framing throughout. Aligned to Client Ready Offer positioning per offer.md — validate your $5K+ offer before you build anything |
+| 2026-02-08 | Hero headline aligned to winning ad creative — identity transformation ("I help everyone" → "I'm the only choice") + Zone of Genius mechanism. Checkout popup matched. |
