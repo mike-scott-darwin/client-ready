@@ -117,6 +117,7 @@ RETENTION (Results → Referrals → Case Studies)
 **What happens:**
 - Customer lands on OTO 2 page
 - Video explains Blueprint service
+- **Buyer gets Skool community access**
 - 30-Day Delivery Guarantee presented
 - Scarcity: 10 spots per month
 
@@ -127,7 +128,7 @@ RETENTION (Results → Referrals → Case Studies)
 
 ---
 
-## Stage 6: Engagement — Classroom + Community (OTO 1 Buyers)
+## Stage 6: Engagement — Classroom + Community (OTO 1 + OTO 2 Buyers)
 
 **Goal:** They consume content and engage
 

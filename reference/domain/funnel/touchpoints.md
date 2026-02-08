@@ -107,7 +107,7 @@ See: `reference/domain/email-rhythm.md`
 ### Skool Community
 
 **URL:** https://www.skool.com/high-ticket-playbook-9467
-**Who has access:** OTO 1 buyers (Sprint) + OTO 3 Community subscribers
+**Who has access:** OTO 1 buyers (Sprint) + OTO 2 buyers (Blueprint) + OTO 3 Community subscribers
 
 **Engagement points:**
 - Welcome thread (intro post)

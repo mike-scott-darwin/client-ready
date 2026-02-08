@@ -466,7 +466,7 @@ At $5,000, that's ~$52-78/hour effective rate. Scale by raising price or reducin
 | Duration | 4 weeks | 30 days | 8 weeks |
 | Format | Group + DIY | Custom strategy doc | Done-with-you |
 | Calls | 4 group calls | 1 integration call | 3 strategy calls (1:1) |
-| Async | Chat access | Minimal | Unlimited WhatsApp + Loom |
+| Async | Chat access | Skool community | Unlimited WhatsApp + Loom |
 | Who does work | Client builds | Client implements strategy | Both build together |
 | Best for | Validate + launch | Need strategy + copy done | Scale + optimize |
 | Outcome | Offer validated, funnel live | Custom funnel strategy + GHL snapshot | Profitable, scaling |

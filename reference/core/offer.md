@@ -129,6 +129,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - Market research + ICP analysis
 - 60-minute 1-on-1 integration call with Michael
 - GHL snapshot (starter funnel template — buyer pastes Blueprint copy into it)
+- Skool community access (same community as Sprint buyers)
 
 **Timeline:**
 - Day 1-3: Custom onboarding form
@@ -161,7 +162,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - Said "no" to Blueprint ($397) — don't need custom strategy yet
 - Still want support and accountability while building
 
-**Routing note:** Sprint buyers already have Skool Community Access. Only show OTO 3 to buyers who declined OTO 1. In GHL, conditionally skip this page for Sprint purchasers.
+**Routing note:** Sprint and Blueprint buyers already have Skool Community Access. Only show OTO 3 to buyers who declined both OTO 1 and OTO 2. In GHL, conditionally skip this page for Sprint or Blueprint purchasers.
 
 **Pitch:**
 > "Not ready for the Sprint? Get community access — weekly hot seats, DM Michael directly, see what's working for other coaches. $1 for your first month."
