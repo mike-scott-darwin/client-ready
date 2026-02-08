@@ -10,8 +10,8 @@ urgency: high
 ## Situation
 
 OTO 1 previously offered two options at the same step:
-- Option 1: Self-Paced ($97 → $70 after $27 credit)
-- Option 2: 4-Week Sprint ($297 → $270 after $27 credit)
+- Option 1: Self-Paced ($97)
+- Option 2: 4-Week Sprint ($297)
 
 Reviewed whether this was optimal for V1.0 launch.
 
@@ -39,7 +39,7 @@ Reviewed whether this was optimal for V1.0 launch.
 **Pros:** Lower price point captures more buyers, higher total conversion rate.
 **Cons:** Decision fatigue, can't test cleanly, self-paced buyers don't implement, dilutes Sprint positioning.
 
-### B: Sprint only at $270 (selected)
+### B: Sprint only at $297 (selected)
 **Pros:** Clean yes/no, everyone gets accountability, higher implementation rate, more testimonials, follows Miles/Cat OTO architecture.
 **Cons:** Higher price may lower conversion rate. But Sprint buyers are more valuable.
 
@@ -49,7 +49,7 @@ Reviewed whether this was optimal for V1.0 launch.
 
 ## Decision
 
-**Sprint only at $270.** Single option. Clean yes/no. Everyone who buys gets live support, implements, and produces results we can use as testimonials.
+**Sprint only at $297.** Single option. Clean yes/no. Everyone who buys gets live support, implements, and produces results we can use as testimonials.
 
 Self-paced content (5 modules) is still delivered — it's included in the Sprint. The modules don't go away; they just come with support now.
 
@@ -57,7 +57,7 @@ Can revisit sequential model (Option C) after V1.0 produces 30+ Sprint sales and
 
 ## What Changes
 
-- `reference/core/offer.md` — Replace two-option Sprint with single $270 Sprint. Update funnel metrics table.
+- `reference/core/offer.md` — Replace two-option Sprint with single $297 Sprint. Update funnel metrics table.
 - `outputs/pages/oto1-sprint-full-page-copy.md` — Rewrite to single offer box. Remove Option 1/Option 2 structure. Add dedicated Live Support section. Update hero, opening copy, pricing.
 - `outputs/pages/oto1-sprint-landing-page.md` — Will need update to match (not done yet).
 - Self-paced product file remains (content is still delivered as part of Sprint).

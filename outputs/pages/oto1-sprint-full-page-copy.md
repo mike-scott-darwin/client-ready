@@ -4,9 +4,9 @@ status: draft
 date: 2026-02-08
 product: OTO 1 - Client Ready Sprint
 format: Full Page Copy (Developer Ready)
-price: $270
+price: $297
 updated_from: 2026-02-08
-changes: Simplified to single Sprint option at $270 (after $27 credit). Removed self-paced option. One yes/no decision per Miles Stutz/Cat Howell OTO best practices.
+changes: Simplified to single Sprint option at $297. Removed self-paced option. One yes/no decision per Miles Stutz/Cat Howell OTO best practices.
 ---
 
 # OTO 1: Client Ready Sprint — Full Page Copy
@@ -30,7 +30,7 @@ Your order is 100% secure, but it's not complete yet. Watch the welcome message 
 
 Get the complete funnel system, weekly calls with me, and direct access for 4 weeks. I'll help you go from offer document to live funnel generating customers — or I keep working with you until you do.
 
-**Your $27 Client Ready Offer purchase is already credited toward the Sprint.**
+**This is a one-time invitation — only available right now, on this page.**
 
 ---
 
@@ -67,8 +67,6 @@ After seeing hundreds of Offer Creation courses collect digital dust, I asked my
 **"How can I GUARANTEE my students launch their validated offer and start generating customers?"**
 
 The answer: **Give them my complete system AND work with them live for 4 weeks.**
-
-And because you've already invested in the Client Ready Offer, **your $27 is credited toward the Sprint.** This isn't a discount — it's how the system is designed. The $27 was your entry point. The Sprint is where you launch.
 
 I created the **Client Ready Sprint** - as the name implies, instead of building everything yourself...
 
@@ -248,12 +246,9 @@ Ready-to-launch campaign templates you can deploy immediately. Just plug in your
 
 **REGULAR PRICE: ~~$497~~**
 
-Sprint Price: $297
-**Your $27 credit: -$27**
-
 Yours Today - Just One Payment Of
 
-# $270 ONE-TIME
+# $297 ONE-TIME
 
 *Not a subscription. 4 weeks of live support. Done.*
 
@@ -263,8 +258,6 @@ Yours Today - Just One Payment Of
 ---
 
 ## [DECLINE LINK]
-
-*Remember: Your $27 credit is applied on this page only. If you leave, the credit expires.*
 
 No Thanks! I'll Stick With The Client Ready Offer and Go The Next Route!
 
@@ -292,9 +285,9 @@ Use the system. Complete the sprint. If you don't have a validated offer ready t
 
 ## Key Implementation Points
 
-1. **ONE option only** — $270 one-time. No self-paced. No choice. Clean yes/no.
+1. **ONE option only** — $297 one-time. No self-paced. No choice. Clean yes/no.
 
-2. **$270 is ONE-TIME** — NOT a subscription. This is critical. Add the line: "Not a subscription. 4 weeks of live support. Done."
+2. **$297 is ONE-TIME** — NOT a subscription. This is critical. Add the line: "Not a subscription. 4 weeks of live support. Done."
 
 3. **Skool Community Access** is included (Sprint is the only option now).
 
@@ -304,22 +297,18 @@ Use the system. Complete the sprint. If you don't have a validated offer ready t
 
 6. **Bonus #1 name:** "Zone of Genius Extraction Framework" (not "Unfair Advantage")
 
-7. **$27 credit:** Front-end purchase credited. Actual GHL price = $270.
-
 ## Price Summary
 
 | Item | Amount |
 |------|--------|
 | List Price | ~~$497~~ |
-| Sprint Price | $297 |
-| $27 Credit | -$27 |
-| **Charged** | **$270** |
+| **Charged** | **$297** |
 
-**Credit logic:** Flat $27 credit (front-end purchase price). Not dynamic — same for all buyers regardless of bumps purchased. Simple to implement in GHL: just set the OTO price to $270.
+**GHL implementation:** Set OTO price to $297.
 
 ## Button Actions
 
-- Sprint button → Add $270 OTO to cart
+- Sprint button → Add $297 OTO to cart
 - Decline link → Skip to next page (OTO 2 or thank you)
 
 ## A/B Test Consideration
@@ -347,7 +336,7 @@ Consider testing:
 
 | What Changed | Old | New |
 |-------------|-----|-----|
-| Options | 2 options (Self-Paced $70 / Sprint $270) | 1 option (Sprint $270 only) |
+| Options | 2 options (Self-Paced $70 / Sprint $270) | 1 option (Sprint $297 only) |
 | Rationale | Per Miles Stutz: OTOs should be yes/no, not comparison. Cat Howell: "Add upsells sequentially, not multiple at once." Self-paced buyers don't implement → no testimonials → hurts flywheel. |
 | Hero headline | "WANT TO TAKE YOUR CLIENT READY OFFER FROM DOCUMENT TO LIVE FUNNEL" | "LAUNCH YOUR VALIDATED OFFER IN 30 DAYS — WITH MY COMPLETE SYSTEM AND LIVE SUPPORT" |
 | Live support | Buried in Option 2 box | Dedicated section + woven into hero and opening copy |
