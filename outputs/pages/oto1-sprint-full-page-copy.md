@@ -217,13 +217,11 @@ Ready-to-launch campaign templates you can deploy immediately. Just plug in your
 
 ✅ Client Onboarding System
 
-✅ **Skool Community Access** — support from other members
-
 ---
 
 🟡 Work at your own pace
 
-🟡 Community support (not 1:1)
+🟡 No community access (upgrade to Option 2 for Skool community)
 
 ---
 
@@ -321,7 +319,7 @@ Use the system. Complete the sprint. If you don't have a validated offer ready t
 
 2. **Add the line under $297:** "Not a subscription. 4 weeks. Done."
 
-3. **Skool Community Access** must be visible in both option boxes.
+3. **Skool Community Access** is Option 2 (Sprint) only. NOT included in Option 1 (Self-Paced).
 
 4. **Proof section:** Only include if real testimonials are available. Remove entirely otherwise.
 

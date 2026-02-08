@@ -104,7 +104,6 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - A/B Testing Frameworks & Strategies
 - Client Onboarding System & Delivery Frameworks
 - One-Click Campaign Templates (scale your campaigns)
-- **Skool Community Access** — private support community with other clients
 - **Promise:** Everything you need to launch — on your timeline
 
 **4-Week Sprint ($297) Adds:**
