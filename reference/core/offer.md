@@ -76,12 +76,13 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - **Promise:** Don't start from scratch — plug in your offer and go
 - ~~$197~~ → $37
 
-**Order Bump 3: $67 — Offer Validation Kit**
-- AI Validation Prompts (paste your offer, get instant feedback on what's weak)
-- 10 Real Offer Reviews (recorded Looms of Michael reviewing actual client offers)
-- "Good Offer" Checklist (15-point self-assessment with pass/fail criteria)
-- Before/After Examples (5 offers showing extraction → polished, with annotations)
-- **Promise:** Validate your offer before you build — know it's right without guessing
+**Order Bump 3: $67 — The First $5K Client Playbook**
+- Pricing psychology behind $5K+ offers (why charging more is easier than charging less)
+- 5 conversation frameworks for closing without being pushy
+- The Warm 50 activation plan (your first 50 people to share with — you already know them)
+- Objection playbook with word-for-word responses
+- 3 real closing conversations, annotated
+- **Promise:** Close your first high-ticket client — without feeling like a salesperson
 - ~~$297~~ → $67
 
 ---

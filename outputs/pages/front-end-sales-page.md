@@ -489,10 +489,10 @@ INCLUDED FREE
 > **YES! Add Plug & Play Templates ($37)**
 > Don't start from scratch. Complete offer document template (with filled example), landing page swipe files, 30-day evergreen email sequence, messaging maps, and copy-paste headlines. ~~$197~~ → $37
 
-### Bump 3: Offer Validation Kit — $67 (was $297)
+### Bump 3: The First $5K Client Playbook — $67 (was $297)
 
-> **YES! Add Offer Validation Kit ($67)**
-> Validate your offer before you build — know it's right without guessing. 5 AI Validation Prompts that analyze your offer and tell you what's weak. 10 Real Offer Reviews — watch Michael break down actual client offers. 15-Point "Good Offer" Checklist with pass/fail scoring. 5 Before/After Examples showing how weak offers became strong. ~~$297~~ → $67
+> **YES! Add The First $5K Client Playbook ($67)**
+> You have the offer. Now close your first high-ticket client. Pricing psychology behind $5K+ offers, 5 conversation frameworks that close without being pushy, the Warm 50 activation plan (your first 50 people to reach out to), and word-for-word objection responses. Plus 3 real annotated closing conversations. ~~$297~~ → $67
 
 ---
 
@@ -518,14 +518,14 @@ INCLUDED FREE
 | Tablet | 30-Day Evergreen Email Sequence |
 | Phone | Headlines and Hooks Library |
 
-### Bump 3: Offer Validation Kit ($67)
+### Bump 3: The First $5K Client Playbook ($67)
 
 | Device | Text |
 |--------|------|
-| Desktop | Offer Validation Kit |
-| Laptop | AI Validation Prompts — Instant Offer Feedback |
-| Tablet | 10 Real Offer Reviews with Loom Walkthroughs |
-| Phone | 15-Point Offer Checklist |
+| Desktop | The First $5K Client Playbook |
+| Laptop | 5 Conversation Frameworks That Close |
+| Tablet | The Warm 50 Activation Plan |
+| Phone | Objection Playbook |
 
 ---
 
