@@ -89,14 +89,10 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 
 ### Tier 2: OTO 1 — The Client Ready Sprint
 
-**Two Options:**
+**Price:** $270 one-time (after $27 front-end credit)
+**Format:** 4-week sprint with complete system + live support
 
-| Option | Price | Best For |
-|--------|-------|----------|
-| **Self-Paced** | $97 one-time | Want the system, work at your own speed |
-| **4-Week Sprint** | $297 one-time | Want accountability + live support to launch in 30 days |
-
-**Self-Paced ($97) Includes:**
+**What's Included:**
 - Complete funnel system
 - The Zone of Genius Extraction Framework
 - AI Landing Page Generator
@@ -104,9 +100,6 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - A/B Testing Frameworks & Strategies
 - Client Onboarding System & Delivery Frameworks
 - One-Click Campaign Templates (scale your campaigns)
-- **Promise:** Everything you need to launch — on your timeline
-
-**4-Week Sprint ($297) Adds:**
 - Weekly group calls with Michael (4 sessions)
 - Direct chat access during sprint
 - Accountability check-ins
@@ -114,7 +107,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - **Skool Community Access** — private support community with other clients
 - **Promise:** Launch your validated offer in 30 days — or Michael keeps working with you
 
-**Note:** Sprint is billed as one-time $297. No subscription. No recurring surprise.
+**Note:** Sprint is billed as one-time $270 ($297 minus $27 front-end credit). No subscription. No recurring surprise.
 
 ---
 
@@ -222,14 +215,13 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 | Front-end | $27 | One-time |
 | Bump 1 (DM Scripts) | $17 | One-time |
 | Bump 2 (Templates) | $37 | One-time |
-| Bump 3 (Validation Kit) | $67 | One-time |
-| OTO 1 (Self-Paced) | $97 | One-time |
-| OTO 1 (Sprint) | $297 | One-time |
+| Bump 3 (First $5K Client Playbook) | $67 | One-time |
+| OTO 1 (Sprint) | $270 | One-time ($297 minus $27 credit) |
 | OTO 2 (DFY) | $397 | One-time |
 | OTO 3 (Community) | $47/mo | Recurring ($1 trial) |
 | Backend (Accelerator) | $5,000 | No-Phone Offer |
 
-**Max One-Time Cart Value:** $842 ($27 + $17 + $37 + $67 + $297 + $397)
+**Max One-Time Cart Value:** $815 ($27 + $17 + $37 + $67 + $270 + $397)
 **Target AOV:** $120-150 (with 3 bumps per Cat Howell data showing 2x conversion lift)
 **Recurring potential:** OTO 3 adds $47/month per retained member
 
@@ -373,8 +365,7 @@ For your funnel (AOV $100-120):
 
 | OTO | Price | Expected Conversion |
 |-----|-------|---------------------|
-| OTO 1 Self-Paced | $97 | 10-20% (over $60) |
-| OTO 1 Sprint | $297 | 10-20% (over $60) |
+| OTO 1 Sprint | $270 | 10-20% (over $60) |
 | OTO 2 DFY | $397 | 10-20% (over $60) |
 | OTO 3 Community | $47/mo trial | 5-10% (membership trial) |
 

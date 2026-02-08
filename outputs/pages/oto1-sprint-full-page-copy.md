@@ -4,10 +4,9 @@ status: draft
 date: 2026-02-08
 product: OTO 1 - Client Ready Sprint
 format: Full Page Copy (Developer Ready)
-price_option_1: $97
-price_option_2: $297
-updated_from: 2026-02-01
-changes: Added $27 credit toward Sprint (front-end purchase credited). Updated pricing to $70/$270. Credit callout in hero, opening copy, option boxes, and decline link. Previously removed No-Phone framing.
+price: $270
+updated_from: 2026-02-08
+changes: Simplified to single Sprint option at $270 (after $27 credit). Removed self-paced option. One yes/no decision per Miles Stutz/Cat Howell OTO best practices.
 ---
 
 # OTO 1: Client Ready Sprint — Full Page Copy
@@ -27,9 +26,9 @@ Your order is 100% secure, but it's not complete yet. Watch the welcome message 
 
 **⭐ SPECIAL ONE-TIME INVITATION**
 
-# WANT TO TAKE YOUR CLIENT READY OFFER FROM DOCUMENT TO LIVE FUNNEL — WITH MY COMPLETE SYSTEM?
+# LAUNCH YOUR VALIDATED OFFER IN 30 DAYS — WITH MY COMPLETE SYSTEM AND LIVE SUPPORT
 
-Skip months of building and launch your validated offer fast. Get the complete system I use to help coaches go from offer document to live funnel generating customers — without followers, complex tech, or months of setup.
+Get the complete funnel system, weekly calls with me, and direct access for 4 weeks. I'll help you go from offer document to live funnel generating customers — or I keep working with you until you do.
 
 **Your $27 Client Ready Offer purchase is already credited toward the Sprint.**
 
@@ -67,7 +66,7 @@ After seeing hundreds of Offer Creation courses collect digital dust, I asked my
 
 **"How can I GUARANTEE my students launch their validated offer and start generating customers?"**
 
-The answer: **Give them my complete done-for-you system.**
+The answer: **Give them my complete system AND work with them live for 4 weeks.**
 
 And because you've already invested in the Client Ready Offer, **your $27 is credited toward the Sprint.** This isn't a discount — it's how the system is designed. The $27 was your entry point. The Sprint is where you launch.
 
@@ -75,11 +74,13 @@ I created the **Client Ready Sprint** - as the name implies, instead of building
 
 ...Smart entrepreneurs can now **copy my complete funnel system** and go from Client Ready Offer document to **live funnel generating customers** instead of spending weeks building from scratch.
 
+**And you won't do it alone.** Weekly calls, direct chat access, hot seat feedback on YOUR funnel, and a community of coaches building alongside you.
+
 ---
 
 ## [WHAT'S INCLUDED HEADER]
 
-# THE CLIENT READY SPRINT INCLUDES EVERYTHING YOU NEED TO LAUNCH YOUR VALIDATED OFFER AS FAST AS POSSIBLE...
+# THE CLIENT READY SPRINT INCLUDES EVERYTHING YOU NEED TO LAUNCH YOUR VALIDATED OFFER IN 30 DAYS...
 
 ---
 
@@ -139,6 +140,22 @@ Ready-to-launch campaign templates you can deploy immediately. Just plug in your
 
 ---
 
+## [LIVE SUPPORT SECTION]
+
+## PLUS: 4 WEEKS OF LIVE SUPPORT TO MAKE SURE YOU ACTUALLY LAUNCH
+
+✅ **Weekly group calls with Michael** (4 sessions) — hot seats, feedback, troubleshooting
+
+✅ **Direct chat access** during the sprint — get unstuck fast
+
+✅ **Accountability check-ins** — stay on track, no drifting
+
+✅ **Hot seat feedback on YOUR funnel** — I review your pages, your copy, your ads
+
+✅ **Skool Community Access** — private support community with other coaches building alongside you
+
+---
+
 ## [RESULTS SECTION]
 
 ## HERE'S WHAT YOU'RE GETTING:
@@ -154,6 +171,8 @@ Ready-to-launch campaign templates you can deploy immediately. Just plug in your
 ✅ Start generating customers — even as a beginner
 
 ✅ A system that sells your offer for you
+
+✅ 4 weeks of live coaching to make sure you actually launch
 
 ---
 
@@ -183,29 +202,21 @@ Ready-to-launch campaign templates you can deploy immediately. Just plug in your
 
 ---
 
-## [OFFER BOX HEADER]
+## [OFFER BOX]
 
 **🔔 NEW MEMBER ONE TIME OFFER:**
 
 # GET INSTANT ACCESS TO THE COMPLETE CLIENT READY SPRINT
 
----
+*[Product mockup image with coaching elements visible]*
 
-## [OPTION 1 BOX]
+### The Client Ready Sprint — 4 Weeks to Launch
 
-**OPTION 1 FOR THOSE WHO WANT TO LAUNCH FAST AND INDEPENDENTLY**
+*Complete system + live support to launch your validated offer in 30 days*
 
-*[Product mockup image]*
+**Here's What You're Getting:**
 
-### Option 1: Self-Paced
-
-*For those who want the system and prefer to work at their own speed*
-
-**Confirming This Means:**
-
-✅ Complete Client Ready Sprint system
-
-✅ All 5 bonuses included
+✅ Complete Client Ready Sprint system (5 modules)
 
 ✅ Zone of Genius Extraction Framework
 
@@ -217,41 +228,7 @@ Ready-to-launch campaign templates you can deploy immediately. Just plug in your
 
 ✅ Client Onboarding System
 
----
-
-🟡 Work at your own pace
-
-🟡 No community access (upgrade to Option 2 for Skool community)
-
----
-
-**REGULAR PRICE: ~~$497~~**
-
-Sprint Price: $97
-**Your $27 credit: -$27**
-
-Yours Today - Just One Easy Payment Of
-
-# ONLY $70
-
-**[YES! CONFIRM OPTION 1 →]**
-*ADD OTO1 DIY TO MY ORDER*
-
----
-
-## [OPTION 2 BOX]
-
-**OPTION 2 FOR THOSE WHO WANT ACCOUNTABILITY AND LIVE SUPPORT**
-
-*[Product mockup image with additional coaching elements]*
-
-### Option 2: 4-Week Sprint
-
-*For those who want accountability + live support to launch in 30 days*
-
-**Confirming This Means:**
-
-✅ **Everything in Option 1, PLUS:**
+✅ One-Click Campaign Templates
 
 ✅ Weekly group calls with Michael (4 sessions)
 
@@ -278,10 +255,10 @@ Yours Today - Just One Payment Of
 
 # $270 ONE-TIME
 
-*Not a subscription. 4 weeks. Done.*
+*Not a subscription. 4 weeks of live support. Done.*
 
-**[YES! CONFIRM OPTION 2 →]**
-*ADD OTO1 SPRINT TO MY ORDER*
+**[YES! I WANT THE CLIENT READY SPRINT →]**
+*ADD SPRINT TO MY ORDER*
 
 ---
 
@@ -301,7 +278,7 @@ No Thanks! I'll Stick With The Client Ready Offer and Go The Next Route!
 
 Use the system. Complete the sprint. If you don't have a validated offer ready to sell within 30 days, email me and I'll refund every penny. No questions asked.
 
-**For Sprint members:** Launch in 30 days or I keep working with you until you do.
+**Launch in 30 days or I keep working with you until you do.**
 
 ---
 
@@ -315,11 +292,11 @@ Use the system. Complete the sprint. If you don't have a validated offer ready t
 
 ## Key Implementation Points
 
-1. **Option 2 is ONE-TIME $297** — NOT a subscription. This is critical.
+1. **ONE option only** — $270 one-time. No self-paced. No choice. Clean yes/no.
 
-2. **Add the line under $297:** "Not a subscription. 4 weeks. Done."
+2. **$270 is ONE-TIME** — NOT a subscription. This is critical. Add the line: "Not a subscription. 4 weeks of live support. Done."
 
-3. **Skool Community Access** is Option 2 (Sprint) only. NOT included in Option 1 (Self-Paced).
+3. **Skool Community Access** is included (Sprint is the only option now).
 
 4. **Proof section:** Only include if real testimonials are available. Remove entirely otherwise.
 
@@ -327,27 +304,30 @@ Use the system. Complete the sprint. If you don't have a validated offer ready t
 
 6. **Bonus #1 name:** "Zone of Genius Extraction Framework" (not "Unfair Advantage")
 
+7. **$27 credit:** Front-end purchase credited. Actual GHL price = $270.
+
 ## Price Summary
 
-| Option | List Price | Credit | Charged | Type |
-|--------|-----------|--------|---------|------|
-| Option 1: Self-Paced | $97 | -$27 | **$70** | One-time |
-| Option 2: 4-Week Sprint | $297 | -$27 | **$270** | One-time |
+| Item | Amount |
+|------|--------|
+| List Price | ~~$497~~ |
+| Sprint Price | $297 |
+| $27 Credit | -$27 |
+| **Charged** | **$270** |
 
-**Credit logic:** Flat $27 credit (front-end purchase price). Not dynamic — same for all buyers regardless of bumps purchased. Simple to implement in GHL: just set the OTO prices to $70 and $270.
+**Credit logic:** Flat $27 credit (front-end purchase price). Not dynamic — same for all buyers regardless of bumps purchased. Simple to implement in GHL: just set the OTO price to $270.
 
 ## Button Actions
 
-- Option 1 button → Add $70 OTO to cart
-- Option 2 button → Add $270 OTO to cart
+- Sprint button → Add $270 OTO to cart
 - Decline link → Skip to next page (OTO 2 or thank you)
 
 ## A/B Test Consideration
 
 Consider testing:
-- Pre-selected Option 2 vs neither selected
 - With proof section vs without (once testimonials available)
 - Shorter page (remove some bonuses) vs current length
+- Video vs no video in hero
 
 ---
 
@@ -355,24 +335,21 @@ Consider testing:
 
 | What Changed | Old | New |
 |-------------|-----|-----|
-| Hero headline | "TAKE YOUR NO-PHONE OFFER FROM DOCUMENT TO LIVE FUNNEL" | "TAKE YOUR CLIENT READY OFFER FROM DOCUMENT TO LIVE FUNNEL" |
+| Hero headline | "TAKE YOUR NO-PHONE OFFER FROM DOCUMENT TO LIVE FUNNEL" | "LAUNCH YOUR VALIDATED OFFER IN 30 DAYS" |
 | Hero sub-headline | "selling without sales calls" | "live funnel generating customers" |
 | Product image components | "No-Phone Offer Funnel System" + "30-Day Email Sequence" | "Zone of Genius Extraction" (matches creative mockup) |
 | Opening copy | "build a No-Phone Offer that sells without a sales call" | "build a validated offer that's clear enough to sell itself" |
-| Opening copy | "launch their No-Phone Offer and start selling without calls" | "launch their validated offer and start generating customers" |
-| Opening copy | "live No-Phone Offer funnel" | "live funnel generating customers" |
-| What's Included header | "LAUNCH YOUR NO-PHONE OFFER" | "LAUNCH YOUR VALIDATED OFFER" |
-| Results section | "Launch your No-Phone Offer with a complete funnel" | "Launch your validated offer with a complete funnel" |
-| Results section | "Start selling without sales calls — even as a beginner" | "Start generating customers — even as a beginner" |
-| Results section | "A system that works without you on the phone" | "A system that sells your offer for you" |
+| Opening copy | "Give them my complete done-for-you system" | "Give them my complete system AND work with them live for 4 weeks" |
+| What's Included header | "LAUNCH YOUR NO-PHONE OFFER AS FAST AS POSSIBLE" | "LAUNCH YOUR VALIDATED OFFER IN 30 DAYS" |
+| Results section | 6 checkmarks | 7 checkmarks (added "4 weeks of live coaching") |
 
-## CHANGES (2026-02-08 — $27 Credit Update)
+## CHANGES (2026-02-08 — Single Option Simplification)
 
 | What Changed | Old | New |
 |-------------|-----|-----|
-| Hero section | No credit mention | Added "$27 Client Ready Offer purchase is already credited" |
-| Opening copy | Straight to Sprint intro | Added credit explanation paragraph |
-| Option 1 price | $97 | $70 (after $27 credit) |
-| Option 2 price | $297 | $270 (after $27 credit) |
-| Decline link | Simple decline | Added credit expiry reminder |
-| Developer notes | $97/$270 button actions | $70/$270 with credit logic explanation |
+| Options | 2 options (Self-Paced $70 / Sprint $270) | 1 option (Sprint $270 only) |
+| Rationale | Per Miles Stutz: OTOs should be yes/no, not comparison. Cat Howell: "Add upsells sequentially, not multiple at once." Self-paced buyers don't implement → no testimonials → hurts flywheel. |
+| Hero headline | "WANT TO TAKE YOUR CLIENT READY OFFER FROM DOCUMENT TO LIVE FUNNEL" | "LAUNCH YOUR VALIDATED OFFER IN 30 DAYS — WITH MY COMPLETE SYSTEM AND LIVE SUPPORT" |
+| Live support | Buried in Option 2 box | Dedicated section + woven into hero and opening copy |
+| Offer box | Two side-by-side boxes | Single box with full checklist |
+| Self-paced product | Still exists as deliverable (modules 1-5) | Included in Sprint — buyers get both system + support |
