@@ -28,9 +28,9 @@ Let's go.
 
 ### The Search
 
-Seven years. Since 2018.
+Seven years. I spent seven years trying to make this work.
 
-I tried affiliate marketing. Followed gurus who promised A to Z. Watched the "straight line" turn into circles. I've got the character to see things through — and I was still searching.
+Bought the courses. Followed the gurus. Tried every framework that promised "this is the one." None of them were. Not because they were scams — most weren't. They just weren't built for how I think.
 
 Eventually I started coaching. And like everyone told me to, I started booking sales calls.
 
