@@ -7,7 +7,7 @@ format: Full Page Copy (Developer Ready)
 price_option_1: $97
 price_option_2: $297
 updated_from: 2026-02-01
-changes: Removed No-Phone Offer framing throughout. Aligned to Client Ready Offer positioning — validated offer, complete funnel system. Updated hero, opening copy, results section, product image components.
+changes: Added $27 credit toward Sprint (front-end purchase credited). Updated pricing to $70/$270. Credit callout in hero, opening copy, option boxes, and decline link. Previously removed No-Phone framing.
 ---
 
 # OTO 1: Client Ready Sprint — Full Page Copy
@@ -30,6 +30,8 @@ Your order is 100% secure, but it's not complete yet. Watch the welcome message 
 # WANT TO TAKE YOUR CLIENT READY OFFER FROM DOCUMENT TO LIVE FUNNEL — WITH MY COMPLETE SYSTEM?
 
 Skip months of building and launch your validated offer fast. Get the complete system I use to help coaches go from offer document to live funnel generating customers — without followers, complex tech, or months of setup.
+
+**Your $27 Client Ready Offer purchase is already credited toward the Sprint.**
 
 ---
 
@@ -66,6 +68,8 @@ After seeing hundreds of Offer Creation courses collect digital dust, I asked my
 **"How can I GUARANTEE my students launch their validated offer and start generating customers?"**
 
 The answer: **Give them my complete done-for-you system.**
+
+And because you've already invested in the Client Ready Offer, **your $27 is credited toward the Sprint.** This isn't a discount — it's how the system is designed. The $27 was your entry point. The Sprint is where you launch.
 
 I created the **Client Ready Sprint** - as the name implies, instead of building everything yourself...
 
@@ -225,9 +229,12 @@ Ready-to-launch campaign templates you can deploy immediately. Just plug in your
 
 **REGULAR PRICE: ~~$497~~**
 
+Sprint Price: $97
+**Your $27 credit: -$27**
+
 Yours Today - Just One Easy Payment Of
 
-# ONLY $97
+# ONLY $70
 
 **[YES! CONFIRM OPTION 1 →]**
 *ADD OTO1 DIY TO MY ORDER*
@@ -266,9 +273,12 @@ Yours Today - Just One Easy Payment Of
 
 **REGULAR PRICE: ~~$497~~**
 
+Sprint Price: $297
+**Your $27 credit: -$27**
+
 Yours Today - Just One Payment Of
 
-# $297 ONE-TIME
+# $270 ONE-TIME
 
 *Not a subscription. 4 weeks. Done.*
 
@@ -278,6 +288,8 @@ Yours Today - Just One Payment Of
 ---
 
 ## [DECLINE LINK]
+
+*Remember: Your $27 credit is applied on this page only. If you leave, the credit expires.*
 
 No Thanks! I'll Stick With The Client Ready Offer and Go The Next Route!
 
@@ -319,15 +331,17 @@ Use the system. Complete the sprint. If you don't have a validated offer ready t
 
 ## Price Summary
 
-| Option | Price | Type |
-|--------|-------|------|
-| Option 1: Self-Paced | $97 | One-time |
-| Option 2: 4-Week Sprint | $297 | One-time |
+| Option | List Price | Credit | Charged | Type |
+|--------|-----------|--------|---------|------|
+| Option 1: Self-Paced | $97 | -$27 | **$70** | One-time |
+| Option 2: 4-Week Sprint | $297 | -$27 | **$270** | One-time |
+
+**Credit logic:** Flat $27 credit (front-end purchase price). Not dynamic — same for all buyers regardless of bumps purchased. Simple to implement in GHL: just set the OTO prices to $70 and $270.
 
 ## Button Actions
 
-- Option 1 button → Add $97 OTO to cart
-- Option 2 button → Add $297 OTO to cart
+- Option 1 button → Add $70 OTO to cart
+- Option 2 button → Add $270 OTO to cart
 - Decline link → Skip to next page (OTO 2 or thank you)
 
 ## A/B Test Consideration
@@ -353,3 +367,14 @@ Consider testing:
 | Results section | "Launch your No-Phone Offer with a complete funnel" | "Launch your validated offer with a complete funnel" |
 | Results section | "Start selling without sales calls — even as a beginner" | "Start generating customers — even as a beginner" |
 | Results section | "A system that works without you on the phone" | "A system that sells your offer for you" |
+
+## CHANGES (2026-02-08 — $27 Credit Update)
+
+| What Changed | Old | New |
+|-------------|-----|-----|
+| Hero section | No credit mention | Added "$27 Client Ready Offer purchase is already credited" |
+| Opening copy | Straight to Sprint intro | Added credit explanation paragraph |
+| Option 1 price | $97 | $70 (after $27 credit) |
+| Option 2 price | $297 | $270 (after $27 credit) |
+| Decline link | Simple decline | Added credit expiry reminder |
+| Developer notes | $97/$270 button actions | $70/$270 with credit logic explanation |
