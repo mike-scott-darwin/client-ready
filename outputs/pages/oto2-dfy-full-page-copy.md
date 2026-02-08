@@ -2,15 +2,15 @@
 type: output
 status: draft
 date: 2026-02-08
-product: OTO 2 - Done-For-You Client Ready Funnel
+product: OTO 2 - Client Ready Blueprint
 format: Full Page Copy (Developer Ready)
 price: $397
 capacity: 10 per month
 updated_from: 2026-02-08
-changes: Concrete 9-component deliverables (replacing vague names + fake prices). Removed High-Ticket language. Fixed Sprint price reference. Aligned to post-Sprint-simplification funnel.
+changes: Reframed from "Done-For-You funnel build" to "Custom Blueprint + GHL snapshot." Honest positioning — strategy doc + copy, not a live funnel. Full build is the $5K Accelerator backend.
 ---
 
-# OTO 2: Done-For-You Client Ready Funnel — Full Page Copy
+# OTO 2: Client Ready Blueprint — Full Page Copy
 
 Complete page copy in order. Ready for developer implementation.
 
@@ -27,9 +27,9 @@ Your order is 100% secure, but it's not complete yet. Watch the welcome message 
 
 **🔊 PLAY THE VIDEO TO TURN ON SOUND**
 
-# I'LL BUILD YOUR COMPLETE CLIENT READY FUNNEL — SO YOUR OFFER SELLS ITSELF
+# GET YOUR COMPLETE CUSTOM FUNNEL BLUEPRINT — BUILT BY MICHAEL, READY TO IMPLEMENT
 
-Watch This Short Video To See How I Personally Build Your Client Ready Funnel Specifically For Your Business...
+Watch This Short Video To See How I Personally Create Your Custom Blueprint Specifically For Your Business...
 
 *[VIDEO PLACEHOLDER]*
 
@@ -41,7 +41,7 @@ Please Watch This Short Video In Full While Your Account Is Being Created.
 
 **🔔 NEW MEMBER ONE TIME OFFER:**
 
-# WHAT IF YOUR VALIDATED OFFER WAS BUILT, LIVE, AND SELLING IN 30 DAYS?
+# WHAT IF YOUR ENTIRE FUNNEL STRATEGY WAS DONE — AND ALL YOU HAD TO DO WAS IMPLEMENT IT?
 
 ---
 
@@ -51,33 +51,27 @@ Michael here...
 
 Here's the thing... you now have the Client Ready Offer and everything you need to succeed.
 
-But I want to ask you a serious question: **What if you couldn't fail?**
+But here's what I know from experience: **the gap between "having the system" and "having YOUR funnel strategy figured out" is where most coaches get stuck.**
 
-What if instead of spending months building everything yourself, testing what works, and figuring out the psychology behind turning customers into clients...
+You could spend weeks writing your own landing page copy, figuring out email sequences, mapping out your messaging...
 
-I just launched your entire Client Ready Offer System for you?
+Or I could do all of that strategic work for you.
 
-Not just your Client Ready Offer, but the entire launch process...
-
-...that turns your expertise into a system that generates customers on autopilot.
-
-That's exactly what I'm offering on this page.
-
-Instead of using templates that thousands of others are using, you get a completely custom Client Ready Funnel built specifically for your expertise and market.
+I'm talking about a complete custom blueprint — built specifically for YOUR expertise and YOUR market.
 
 Your own offer positioning. Your own landing page copy. Your own email sequences. Your own ad creative. Your own messaging. All of it.
 
-All created by me personally, based on the same system I use to generate clients consistently.
+All created by me personally, based on the same system I use to generate clients consistently. Delivered as a 100+ page custom bundle you implement using the GHL snapshot I give you.
 
-This isn't more training — this is me doing the work FOR you so you can focus on what you're actually good at: serving clients.
+This isn't more training — this is me creating your complete funnel strategy so you can skip straight to implementation.
 
-Here's everything I'm going to build for you:
+Here's everything included in your Blueprint:
 
 ---
 
 ## [PRICE INTRO]
 
-# I'M GOING TO LAUNCH YOUR COMPLETE CLIENT READY OFFER FOR JUST $397 ONE TIME...
+# YOUR COMPLETE CUSTOM FUNNEL BLUEPRINT FOR JUST $397 ONE TIME...
 
 ---
 
@@ -147,19 +141,25 @@ Detailed ideal client research. Competitive landscape. Positioning opportunities
 
 ---
 
+### 🚀 BONUS: GHL Snapshot — Your Starter Funnel Template
+
+You also get my pre-built GoHighLevel snapshot — a ready-made funnel template you load into your account. Paste your custom blueprint copy into the snapshot and you're live. No building pages from scratch.
+
+---
+
 ## [WHO IT'S FOR SECTION]
 
 ## THIS IS FOR YOU IF:
 
-✅ You want the fastest path to a working funnel — done FOR you, not by you
+✅ You want your entire funnel strategy custom-built — not generic templates
 
-✅ You'd rather invest money than months of trial and error
+✅ You'd rather invest money than months figuring out copy, emails, and messaging
 
-✅ You're ready to launch in 30 days, not "someday"
+✅ You're ready to implement and launch — you just need the blueprint
 
-✅ You want Michael personally building your system (not templates)
+✅ You want Michael personally creating your strategy (not AI-generated fluff)
 
-✅ You have expertise and clients would pay — you just need the infrastructure
+✅ You have expertise and clients would pay — you just need the funnel plan
 
 ---
 
@@ -179,7 +179,7 @@ Detailed ideal client research. Competitive landscape. Positioning opportunities
 
 ### PLUS: 60-Minute 1-on-1 Integration Call With Michael
 
-We walk through everything together. Implementation questions answered. Launch plan finalized. You won't be left guessing how to use what I built.
+We walk through your entire blueprint together. Implementation questions answered. Launch plan finalized. You'll know exactly how to turn this strategy into a live funnel.
 
 ---
 
@@ -192,7 +192,7 @@ We walk through everything together. Implementation questions answered. Launch p
 ## [CTA BUTTON]
 
 **[YES, ADD THIS TO MY ORDER ✓]**
-COMPLETE FUNNEL — 30 DAY DELIVERY GUARANTEE
+CUSTOM BLUEPRINT — 30 DAY DELIVERY GUARANTEE
 
 ---
 
@@ -200,19 +200,19 @@ COMPLETE FUNNEL — 30 DAY DELIVERY GUARANTEE
 
 *[100% Guarantee Badge]*
 
-# COMPLETE FUNNEL — 30 DAY DELIVERY GUARANTEE
+# CUSTOM BLUEPRINT — 30 DAY DELIVERY GUARANTEE
 
-I'll build your complete Client Ready Funnel over 30 days. If it's not done, I keep working until it is. No extra charge. No excuses.
+Your complete Client Ready Blueprint delivered within 30 days. If it's not done, I keep working until it is. No extra charge. No excuses.
 
-You want a funnel that sells your offer for you. I want a case study. We both win when this works.
+You want a custom funnel strategy ready to implement. I want a case study. We both win when this works.
 
 ---
 
 ## [SCARCITY SECTION]
 
-# I CAN ONLY TAKE ON 10 CUSTOM CLIENT READY FUNNELS PER MONTH
+# I CAN ONLY TAKE ON 10 CUSTOM BLUEPRINTS PER MONTH
 
-I can only take on 10 Custom Client Ready Funnels per month due to the personal involvement required.
+I can only take on 10 Custom Blueprints per month due to the personal involvement required.
 
 This isn't a marketing gimmick - I personally create every component and handle the 1-on-1 integration calls myself.
 
@@ -228,13 +228,13 @@ When you click "YES" below, here's Exactly How It'll Work...
 
 ✅ **Day 1-3:** You'll receive a custom onboarding form to gather your expertise and business details
 
-✅ **Week 1-2:** I personally create your complete Client Ready Funnel (all 9 components)
+✅ **Week 1-2:** I personally create your complete Client Ready Blueprint (all 9 components)
 
-✅ **Week 3:** You receive your 100+ page custom bundle with everything built for you
+✅ **Week 3:** You receive your 100+ page custom bundle + GHL snapshot
 
-✅ **Week 4:** We have our 1-on-1 integration call and launch your system
+✅ **Week 4:** We have our 1-on-1 integration call — I walk you through exactly how to implement everything
 
-✅ **Day 30:** Your Client Ready Funnel is live and generating customers
+✅ **After the call:** You paste your custom copy into the GHL snapshot and launch
 
 ---
 
@@ -242,28 +242,28 @@ When you click "YES" below, here's Exactly How It'll Work...
 
 # THE CHOICE IS SIMPLE...
 
-You can spend the next 6 months building everything yourself, testing what works, and hoping you get it right...
+You can spend weeks writing your own copy, figuring out email sequences, and guessing at your messaging...
 
-Or you can have me build your entire Client Ready Funnel and have it live and selling in 30 days.
+Or you can have me create your complete funnel strategy — custom to your expertise — and hand you everything ready to implement.
 
 The choice is yours.
 
-Hit the button below to make the hard work easy.
+Hit the button below and lock in your custom Client Ready Blueprint — delivered in 30 days or I keep working until it's done.
 
-Hit the button below and lock in your done-for-you Client Ready Funnel — delivered in 30 days or I keep working until it's done.
+*Need the full build done for you? Bespoke pages, GHL setup, the works — that's the $5K Accelerator. Details come after onboarding.*
 
 ---
 
 ## [FINAL CTA]
 
 **[YES, ADD THIS TO MY ORDER ✓]**
-COMPLETE FUNNEL — 30 DAY DELIVERY GUARANTEE
+CUSTOM BLUEPRINT — 30 DAY DELIVERY GUARANTEE
 
 ---
 
 ## [DECLINE LINK]
 
-No Thanks! I'll Build Everything Myself And Go The Next Route!
+No Thanks! I'll Figure Out My Funnel Strategy Myself And Go The Next Route!
 
 ---
 
@@ -273,21 +273,27 @@ No Thanks! I'll Build Everything Myself And Go The Next Route!
 
 1. **Price is $397 ONE-TIME** — emphasized throughout
 
-2. **No income claims** — removed "$2K daily", "$5K-$10K daily", "$2,500+ clients", "100 customers" language
+2. **This is a Blueprint, not a build** — Michael creates the strategy doc + copy. Buyer implements using the GHL snapshot. Do NOT promise a live funnel.
 
-3. **"Who It's For" section** — must be visible, helps qualify buyers for DFY
+3. **No income claims** — removed "$2K daily", "$5K-$10K daily", "$2,500+ clients", "100 customers" language
 
-4. **Scarcity is real** — 10/month capacity, explain why (personal involvement)
+4. **"Who It's For" section** — must be visible, helps qualify buyers for Blueprint
 
-5. **Guarantee** — "Complete funnel delivered in 30 days or I keep working until it's done"
+5. **Scarcity is real** — 10/month capacity, explain why (personal involvement)
 
-6. **Terminology** — "Client Ready Funnel" throughout (not "Daily Client Funnel" or "No-Phone Offer Funnel")
+6. **Guarantee** — "Custom Blueprint delivered in 30 days or I keep working until it's done"
+
+7. **Terminology** — "Client Ready Blueprint" throughout (not "Done-For-You" or "Client Ready Funnel")
+
+8. **Accelerator bridge** — Final close mentions $5K Accelerator as the full-build option. This is sold via email after onboarding, not as an OTO.
+
+9. **GHL Snapshot** — included as bonus. Buyer loads it into their GHL account and pastes Blueprint copy into it.
 
 ## Price Summary
 
 | Item | Price |
 |------|-------|
-| OTO 2: Done-For-You | $397 one-time |
+| OTO 2: Client Ready Blueprint | $397 one-time |
 
 ## Button Actions
 
@@ -296,9 +302,9 @@ No Thanks! I'll Build Everything Myself And Go The Next Route!
 
 ## Proof Section (Add When Available)
 
-When you have DFY client results, add a section before the guarantee. Use implementation/launch testimonials, not income claims:
+When you have Blueprint client results, add a section before the guarantee. Use implementation/launch testimonials, not income claims:
 
-> ### WHAT DFY CLIENTS ARE SAYING
+> ### WHAT BLUEPRINT CLIENTS ARE SAYING
 >
 > > "[Name] — real testimonial about speed, quality, or launch experience"
 >
@@ -338,3 +344,22 @@ When you have DFY client results, add a section before the guarantee. Use implem
 | Value stack | "$4,978+ OF VALUE TOTAL" with fake component prices | Integration call highlight + ~~$997~~ → $397 anchor |
 | Decline link routing | "Skip to thank you page" | Conditional: OTO 3 Community for non-Sprint buyers, thank you for Sprint buyers |
 | Proof section | Placeholder with income claims ("$12K in first month") | Clean placeholder for implementation/launch testimonials only |
+
+## CHANGES (2026-02-08 — Blueprint Reframe)
+
+| What Changed | Old | New |
+|-------------|-----|-----|
+| Product name | "Done-For-You Client Ready Funnel" | "Client Ready Blueprint" |
+| Hero headline | "I'LL BUILD YOUR COMPLETE CLIENT READY FUNNEL" | "GET YOUR COMPLETE CUSTOM FUNNEL BLUEPRINT — BUILT BY MICHAEL, READY TO IMPLEMENT" |
+| Headline after video | "WHAT IF YOUR VALIDATED OFFER WAS BUILT, LIVE, AND SELLING IN 30 DAYS?" | "WHAT IF YOUR ENTIRE FUNNEL STRATEGY WAS DONE — AND ALL YOU HAD TO DO WAS IMPLEMENT IT?" |
+| Opening copy | "I just launched your entire Client Ready Offer System for you" / "this is me doing the work FOR you" | "I could do all of that strategic work for you" / "skip straight to implementation" |
+| Price intro | "LAUNCH YOUR COMPLETE CLIENT READY OFFER" | "YOUR COMPLETE CUSTOM FUNNEL BLUEPRINT" |
+| Who It's For | "done FOR you, not by you" / "building your system" | "custom-built, not generic templates" / "creating your strategy" |
+| GHL snapshot | Not mentioned | Added as bonus deliverable |
+| Guarantee | "COMPLETE FUNNEL" / "I'll build your complete Client Ready Funnel" | "CUSTOM BLUEPRINT" / "Your complete Client Ready Blueprint delivered" |
+| Scarcity | "Custom Client Ready Funnels" | "Custom Blueprints" |
+| Timeline Day 30 | "Your Client Ready Funnel is live and generating customers" | "You paste your custom copy into the GHL snapshot and launch" |
+| Final close | "have me build your entire Client Ready Funnel and have it live and selling" | "have me create your complete funnel strategy — custom to your expertise — and hand you everything ready to implement" |
+| Accelerator bridge | Not mentioned | Added: "$5K Accelerator for full build — details come after onboarding" |
+| Dev notes | "Client Ready Funnel" terminology | "Client Ready Blueprint" + Blueprint-specific implementation notes |
+| Decline link | "I'll Build Everything Myself" | "I'll Figure Out My Funnel Strategy Myself" |

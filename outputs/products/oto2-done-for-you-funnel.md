@@ -1,14 +1,14 @@
-# Done-For-You Client Ready Funnel
+# Client Ready Blueprint
 
-**Your entire funnel built in 30 days. Delivery guaranteed.**
+**Your complete custom funnel strategy — built by Michael, ready to implement.**
 
 ---
 
 ## What You Just Got
 
-I build your complete Client Ready Funnel — all 9 components — while you focus on serving clients.
+I create your complete Client Ready Blueprint — all 9 components + a GHL snapshot — while you focus on serving clients.
 
-You fill out an onboarding form. I build. You launch.
+You fill out an onboarding form. I create your strategy + copy. You implement using the GHL snapshot.
 
 **Limited to 10 per month.** This is a real limit. I do the work myself.
 
@@ -16,7 +16,7 @@ You fill out an onboarding form. I build. You launch.
 
 ## What's Included
 
-### The Complete Client Funnel
+### The Complete Blueprint
 
 | Component | What You Get |
 |-----------|--------------|
@@ -41,12 +41,19 @@ You fill out an onboarding form. I build. You launch.
 - 20 headline options
 - Messaging framework document
 
+### GHL Snapshot
+
+- Pre-built GoHighLevel funnel template
+- Load into your GHL account
+- Paste Blueprint copy into snapshot pages
+- No building pages from scratch
+
 ### The Integration Call
 
 - 60-minute 1-on-1 with Michael
-- Walk through everything together
+- Walk through your Blueprint together
 - Implementation questions answered
-- Launch plan finalized
+- Show you how to paste copy into the GHL snapshot and launch
 
 ---
 
@@ -64,7 +71,7 @@ You fill out an onboarding form. I build. You launch.
 - Research your market/competitors
 - Identify positioning opportunities
 
-### Week 1-2: Build Phase
+### Week 1-2: Creation Phase
 
 **You do:**
 - Review drafts when I send them
@@ -93,22 +100,22 @@ You fill out an onboarding form. I build. You launch.
 - Create ad creative direction
 - Compile the complete bundle
 
-**Delivery:** 100+ page custom bundle
+**Delivery:** 100+ page custom bundle + GHL snapshot
 
-### Week 4: Integration & Launch
-
-**You do:**
-- Implement the copy (paste into your pages)
-- Set up email automation
-- Launch!
+### Week 4: Integration & Implementation
 
 **We do together:**
 - 60-minute integration call
-- Walk through implementation
-- Answer questions
-- Finalize launch plan
+- Walk through your Blueprint
+- Show you how to paste copy into the GHL snapshot
+- Answer implementation questions
 
-**Day 30:** Generating your first customers
+**You do (after the call):**
+- Paste Blueprint copy into your GHL snapshot
+- Set up email automation
+- Launch!
+
+**Need the full build?** If you want bespoke pages and complete GHL setup done for you, that's the $5K Accelerator — details shared during onboarding.
 
 ---
 
@@ -157,7 +164,7 @@ This is where the magic starts. The more detail you provide, the better your fun
 A comprehensive 100+ page bundle including:
 
 ```
-CLIENT READY FUNNEL — [Your Name]
+CLIENT READY BLUEPRINT — [Your Name]
 ├── Executive Summary
 ├── Positioning Strategy
 │   ├── Zone of Genius analysis
@@ -201,16 +208,16 @@ CLIENT READY FUNNEL — [Your Name]
 
 ## The Guarantee
 
-**Complete Funnel Delivered in 30 Days — Or I Keep Working Until It's Done**
+**Custom Blueprint Delivered in 30 Days — Or I Keep Working Until It's Done**
 
-Your complete funnel delivered on time. No excuses.
+Your complete Blueprint delivered on time. No excuses.
 
-If for any reason I don't finish your funnel in 30 days:
+If for any reason I don't finish your Blueprint in 30 days:
 - I keep working until it's done
 - No extra charge
 - You're not left hanging
 
-This is a completion guarantee. You're paying for a finished product — that's exactly what you'll get.
+This is a completion guarantee. You're paying for a finished strategy document — that's exactly what you'll get.
 
 ---
 
@@ -218,15 +225,15 @@ This is a completion guarantee. You're paying for a finished product — that's 
 
 **Perfect fit:**
 - You have expertise and have helped people before
-- You know your general direction but need the funnel built
-- You'd rather pay than spend weeks figuring it out yourself
-- You're ready to launch within 30 days
+- You know your general direction but need the funnel strategy figured out
+- You'd rather pay than spend weeks writing copy and figuring out messaging yourself
+- You're ready to implement and launch once you have the Blueprint
 
 **Not a fit:**
 - You have no idea what you want to offer (start with the $27 system)
 - You want to learn how to do this yourself (get the Sprint instead)
-- You're not planning to actually launch
-- You need 1-on-1 coaching beyond the funnel build (get the Accelerator)
+- You're not planning to actually implement and launch
+- You want the full build done for you — bespoke pages, GHL setup, the works (that's the $5K Accelerator)
 
 ---
 
@@ -239,13 +246,13 @@ A: Basic copy-paste ability. If you can use Google Docs and a page builder (Clic
 A: We iterate. The midpoint review catches any direction issues early. Final delivery includes a revision round.
 
 **Q: How is this different from the Sprint?**
-A: Sprint = I guide you while YOU build. DFY = I build FOR you. Sprint is cheaper but requires more of your time. DFY is faster but costs more.
+A: Sprint = I guide you while YOU figure out copy, messaging, and strategy. Blueprint = I create all of that FOR you. Sprint is cheaper but requires more of your strategic thinking. Blueprint is faster because I do the heavy lifting.
 
 **Q: Can I see examples of your work?**
-A: I'll share relevant examples during the sales process. Each funnel is custom, but I can show you the quality level.
+A: I'll share relevant examples during the sales process. Each Blueprint is custom, but I can show you the quality level.
 
-**Q: What about the actual tech setup (page builder, email tool)?**
-A: I provide copy, not implementation. You paste it into your tools. The integration call covers how to implement. If you want full tech implementation, that's the $5K Accelerator.
+**Q: What about the actual tech setup (page builder, GHL)?**
+A: You get a GHL snapshot (starter template) and paste your Blueprint copy into it. The integration call walks you through how. If you want bespoke pages and complete GHL setup, that's the $5K Accelerator.
 
 **Q: What if I need changes after the 30 days?**
 A: Minor revisions are included. For ongoing optimization, consider the Community ($47/mo) or Accelerator ($5K).
@@ -256,7 +263,7 @@ A: Minor revisions are included. For ongoing optimization, consider the Communit
 
 ### Step 1: Onboarding Form (Today)
 
-You'll receive the onboarding form via email. Block 30-45 minutes to complete it thoughtfully. The more detail, the better your funnel.
+You'll receive the onboarding form via email. Block 30-45 minutes to complete it thoughtfully. The more detail, the better your Blueprint.
 
 ### Step 2: Kickoff Confirmation (Within 48 hours)
 
@@ -265,13 +272,13 @@ I'll confirm receipt and share the timeline. You'll know exactly when to expect:
 - Complete bundle (delivery)
 - Integration call (scheduling)
 
-### Step 3: Let Me Build (Weeks 1-3)
+### Step 3: Let Me Create (Weeks 1-3)
 
 Your main job: respond to questions and review drafts when I send them. Otherwise, focus on your business.
 
-### Step 4: Launch (Week 4)
+### Step 4: Integration & Implementation (Week 4)
 
-Integration call → Implementation → Launch.
+Integration call → Paste copy into GHL snapshot → Launch.
 
 ---
 
@@ -279,11 +286,11 @@ Integration call → Implementation → Launch.
 
 1. **Check your email** — Onboarding form is on its way
 2. **Complete the form** — 30-45 minutes, be detailed
-3. **I start building** — You'll hear from me within 48 hours
+3. **I start creating** — You'll hear from me within 48 hours
 
 Questions before we start? Reply to the email or DM me in Skool.
 
-Let's build your funnel.
+Let's build your Blueprint.
 
 — Michael
 
@@ -306,7 +313,7 @@ Copy the prompt below, paste into Claude, replace `[PASTE FORM RESPONSES HERE]` 
 ### THE MASTER GENERATION PROMPT
 
 ```
-You are helping me create a complete Done-For-You funnel package for a coaching client. I'll paste their onboarding form responses below. Generate ALL deliverables in sequence.
+You are helping me create a complete Client Ready Blueprint for a coaching client. I'll paste their onboarding form responses below. Generate ALL deliverables in sequence.
 
 ---
 
@@ -633,7 +640,7 @@ After AI generates, review for:
 Organize into Google Doc or Notion:
 
 ```
-[Client Name] - Client Ready Funnel Bundle/
+[Client Name] - Client Ready Blueprint/
 ├── 01-Zone-of-Genius-Statement
 ├── 02-Ideal-Client-Profile
 ├── 03-Pain-Points-Map

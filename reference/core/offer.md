@@ -111,13 +111,13 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 
 ---
 
-### Tier 3: $397 — Done-For-You Client Ready Funnel (OTO 2)
+### Tier 3: $397 — Client Ready Blueprint (OTO 2)
 
 **Price:** $397 one-time
-**Format:** Done-for-you
+**Format:** Custom strategy document + copy + GHL snapshot
 **Capacity:** 10 per month (real scarcity)
 
-**What's Included (9 components — all built by Michael):**
+**What's Included (9 components — all created by Michael):**
 - Offer extraction + positioning document
 - Full landing page copy (long-form, ready to paste)
 - Order bump strategy + copy (3 bumps designed and written)
@@ -128,17 +128,18 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - Messaging map (consistent copy across all touchpoints)
 - Market research + ICP analysis
 - 60-minute 1-on-1 integration call with Michael
+- GHL snapshot (starter funnel template — buyer pastes Blueprint copy into it)
 
 **Timeline:**
 - Day 1-3: Custom onboarding form
-- Week 1-2: Michael builds your complete Client Ready Funnel (all 9 components)
-- Week 3: Receive 100+ page custom bundle
-- Week 4: 1-on-1 integration call + launch
-- Day 30: Your funnel is live and generating clients
+- Week 1-2: Michael creates your complete Client Ready Blueprint (all 9 components)
+- Week 3: Receive 100+ page custom bundle + GHL snapshot
+- Week 4: 1-on-1 integration call — walk through implementation
+- After call: Buyer pastes copy into GHL snapshot and launches
 
-**Guarantee:** Complete funnel delivered in 30 days — or Michael keeps working until it's done
+**Guarantee:** Custom Blueprint delivered in 30 days — or Michael keeps working until it's done
 
-**Promise:** Have your entire Client Ready Funnel built and launched in 30 days — a complete system ready to generate clients
+**Promise:** Your complete custom funnel strategy — built by Michael, ready to implement. Strategy + copy + GHL snapshot, not a fully built live funnel. Full build = $5K Accelerator (sold via email after onboarding).
 
 ---
 
@@ -146,7 +147,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 
 **Price:** $47/month (first month $1)
 **Format:** Membership community
-**Position:** Downsell after Sprint/DFY — for those who said "no" but still want support
+**Position:** Downsell after Sprint/Blueprint — for those who said "no" but still want support
 
 **What's Included:**
 - Private Skool community access
@@ -157,7 +158,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 
 **Who This Is For:**
 - Said "no" to Sprint ($297) — not ready for 4-week commitment
-- Said "no" to DFY ($397) — don't need done-for-you yet
+- Said "no" to Blueprint ($397) — don't need custom strategy yet
 - Still want support and accountability while building
 
 **Routing note:** Sprint buyers already have Skool Community Access. Only show OTO 3 to buyers who declined OTO 1. In GHL, conditionally skip this page for Sprint purchasers.
@@ -220,7 +221,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 | Bump 2 (Templates) | $37 | One-time |
 | Bump 3 (First $5K Client Playbook) | $67 | One-time |
 | OTO 1 (Sprint) | $297 | One-time |
-| OTO 2 (DFY) | $397 | One-time |
+| OTO 2 (Blueprint) | $397 | One-time |
 | OTO 3 (Community) | $47/mo | Recurring ($1 trial) |
 | Backend (Accelerator) | $5,000 | No-Phone Offer |
 
@@ -261,7 +262,7 @@ New buyers get a 10-day sequence before joining the daily rhythm:
 | 5 | Quick tip + value | — |
 | 6 | Client transformation | Sprint ($297) |
 | 7 | Behind-the-scenes | — |
-| 8 | FAQ / objection handling | DFY ($397) |
+| 8 | FAQ / objection handling | Blueprint ($397) |
 | 9 | "What happens next" roadmap | — |
 | 10 | Personal invite to Skool | Community |
 
@@ -283,8 +284,8 @@ See: `reference/domain/email-rhythm.md` for full implementation details.
 **30-Day Money Back (All Products):**
 > "If you don't get results using our templates and support, send us an email at any time and we'll refund every penny of your investment — no questions asked."
 
-**Completion Guarantee (OTO 2 - $397 DFY):**
-> "Your complete funnel delivered in 30 days — or I keep working until it's done. No extra charge. No excuses."
+**Completion Guarantee (OTO 2 - $397 Blueprint):**
+> "Your custom Blueprint delivered in 30 days — or I keep working until it's done. No extra charge. No excuses."
 
 **Sprint Guarantee (OTO 1 - $297 Sprint):**
 > "Launch your validated offer in 30 days — or Michael keeps working with you until you do."
@@ -369,7 +370,7 @@ For your funnel (AOV $100-120):
 | OTO | Price | Expected Conversion |
 |-----|-------|---------------------|
 | OTO 1 Sprint | $297 | 10-20% (over $60) |
-| OTO 2 DFY | $397 | 10-20% (over $60) |
+| OTO 2 Blueprint | $397 | 10-20% (over $60) |
 | OTO 3 Community | $47/mo trial | 5-10% (membership trial) |
 
 **Traffic Metrics:**
