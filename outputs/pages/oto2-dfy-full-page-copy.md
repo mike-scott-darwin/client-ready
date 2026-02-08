@@ -6,8 +6,8 @@ product: OTO 2 - Done-For-You Client Ready Funnel
 format: Full Page Copy (Developer Ready)
 price: $397
 capacity: 10 per month
-updated_from: 2026-02-01
-changes: Removed No-Phone Offer framing throughout. Aligned to Client Ready Offer positioning — validated offer, complete funnel system.
+updated_from: 2026-02-08
+changes: Concrete 9-component deliverables (replacing vague names + fake prices). Removed High-Ticket language. Fixed Sprint price reference. Aligned to post-Sprint-simplification funnel.
 ---
 
 # OTO 2: Done-For-You Client Ready Funnel — Full Page Copy
@@ -59,17 +59,17 @@ I just launched your entire Client Ready Offer System for you?
 
 Not just your Client Ready Offer, but the entire launch process...
 
-...That generates and converts new customers into High-ticket Clients.
+...that turns your expertise into a system that generates customers on autopilot.
 
 That's exactly what I'm offering on this page.
 
 Instead of using templates that thousands of others are using, you get a completely custom Client Ready Funnel built specifically for your expertise and market.
 
-Your own Client Ready Offer. Your own messaging. Your own upsell path. Your own funnels. Your own everything.
+Your own offer positioning. Your own landing page copy. Your own email sequences. Your own ad creative. Your own messaging. All of it.
 
-All created by me personally, based on the same systems I use to generate clients consistently.
+All created by me personally, based on the same system I use to generate clients consistently.
 
-This isn't more training - this is me doing the work FOR you so you literally cannot fail.
+This isn't more training — this is me doing the work FOR you so you can focus on what you're actually good at: serving clients.
 
 Here's everything I'm going to build for you:
 
@@ -89,79 +89,61 @@ Here's everything I'm going to build for you:
 
 ## [9 COMPONENTS - ROW 1]
 
-### The Complete Client Funnel
+### 🎯 1. Complete Offer Extraction + Positioning
 
-Your complete Client Ready Funnel for automatically generating and converting prospects into buyers — with an offer that does the selling for you.
-
-🔒 INSTANT ACCESS | ~~PRICE: $997~~ FREE
+I extract your Zone of Genius, identify your ONE problem, and build a complete offer document that positions you as the obvious choice. This is the foundation everything else is built on.
 
 ---
 
-### Complete Client Funnel Blueprint
+### 📄 2. Full Landing Page Copy
 
-Step-by-step installation guide showing exactly how to launch and scale YOUR Client Ready Funnel. With your offer and niche.
-
-🔒 INSTANT ACCESS | ~~PRICE: $497~~ FREE
+A complete long-form sales page — written, structured, and ready to paste into your page builder. 20 headline options included so you can test what converts best.
 
 ---
 
-### 1-on-1 Integration Call With Michael
+### 💰 3. Order Bump Strategy + Copy
 
-Private integration call where I personally launch your Client Ready Funnel with you and review your roadmap to consistent client acquisition.
-
-🔒 INSTANT ACCESS | ~~PRICE: $497~~ FREE
+3 order bumps designed and written specifically for your offer. Strategy document explains why each bump works and how they stack to increase your average order value.
 
 ---
 
 ## [9 COMPONENTS - ROW 2]
 
-### Complete Client Ready Ecosystem
+### 🛒 4. Checkout Optimization
 
-Your entire Client Ready Offer ecosystem, created specifically for your expertise, with funnels, ads and assets designed for maximum conversions.
-
-🔒 INSTANT ACCESS | ~~PRICE: $997~~ FREE
+Copy and layout recommendations for your checkout page. Where to place bumps, what proof elements to include, how to reduce cart abandonment.
 
 ---
 
-### Complete High-Ticket Bridge Offers
+### ✉️ 5. 10-Day Email Welcome Sequence
 
-Custom bridge offers that move front-end buyers into your higher-ticket programs using proven value-driven sequences.
-
-🔒 INSTANT ACCESS | ~~PRICE: $697~~ FREE
+Fully written. Day-by-day. Subject lines, body copy, CTAs. Takes your new buyer from "just purchased" to "ready for the next offer" — on autopilot.
 
 ---
 
-### Complete High-Ticket Ecosystem
+### 🔄 6. Ascension + Recovery Emails
 
-Your entire high-ticket program structure designed to turn clients into long-term relationships through systemized retention and expansion.
-
-🔒 INSTANT ACCESS | ~~PRICE: $997~~ FREE
+Missed upsell recovery sequences and ascension emails that bring buyers back to offers they skipped. These are the emails most coaches never write — and where significant revenue hides.
 
 ---
 
 ## [9 COMPONENTS - ROW 3]
 
-### Complete Copy Pack (Ads, Emails, Sales Pages...)
+### 📢 7. Ad Creative Direction
 
-All your sales copy written specifically for your offer - landing pages, email sequences, ad copy, and sales materials ready to deploy immediately.
-
-🔒 INSTANT ACCESS | ~~PRICE: $697~~ FREE
+10 hook variations, 5 primary text options, and image/video guidelines. Not vague "tips" — specific copy you can hand to a designer or run yourself.
 
 ---
 
-### Comprehensive High-Converting Messaging Map
+### 🗺️ 8. Messaging Map
 
-Your complete messaging framework including brand voice, angles and all the copy you need for social media, ads, and marketing communications.
-
-🔒 INSTANT ACCESS | ~~PRICE: $397~~ FREE
+One document that keeps your copy consistent across every touchpoint — landing page, emails, ads, social. Core messages, channel adaptations, copy-paste snippets.
 
 ---
 
-### Comprehensive Market Research & ICP Analysis
+### 🔍 9. Market Research + ICP Analysis
 
-Deep-dive analysis of your market & Ideal Client including psychographics, pain points, desires, and buying triggers specific to your market and expertise.
-
-🔒 INSTANT ACCESS | ~~PRICE: $297~~ FREE
+Detailed ideal client research. Competitive landscape. Positioning opportunities. This is the homework most coaches skip — and it's why their copy falls flat.
 
 ---
 
@@ -183,7 +165,7 @@ Deep-dive analysis of your market & Ideal Client including psychographics, pain 
 
 ## THIS IS NOT FOR YOU IF:
 
-❌ You prefer to DIY and learn the process yourself (get the $97 Sprint instead)
+❌ You prefer to DIY and learn the process yourself (the Sprint is your path)
 
 ❌ You're not ready to launch within the next 30 days
 
@@ -195,7 +177,13 @@ Deep-dive analysis of your market & Ideal Client including psychographics, pain 
 
 ## [VALUE STACK TOTAL]
 
-**$4,978+ OF VALUE TOTAL**
+### PLUS: 60-Minute 1-on-1 Integration Call With Michael
+
+We walk through everything together. Implementation questions answered. Launch plan finalized. You won't be left guessing how to use what I built.
+
+---
+
+**REGULAR PRICE: ~~$997~~**
 
 # ONLY A ONE TIME INVESTMENT OF $397
 
@@ -304,19 +292,17 @@ No Thanks! I'll Build Everything Myself And Go The Next Route!
 ## Button Actions
 
 - YES button → Add $397 OTO to cart
-- Decline link → Skip to thank you page
+- Decline link → Skip to next page (OTO 3 Community for non-Sprint buyers, or thank you page for Sprint buyers who already have Skool)
 
 ## Proof Section (Add When Available)
 
-When you have DFY client results, add a section before the guarantee:
+When you have DFY client results, add a section before the guarantee. Use implementation/launch testimonials, not income claims:
 
-> ### CLIENT RESULTS
+> ### WHAT DFY CLIENTS ARE SAYING
 >
-> > "[Name] went from idea to 47 customers in 3 weeks using their custom Client Ready Funnel"
+> > "[Name] — real testimonial about speed, quality, or launch experience"
 >
-> > "[Name] generated $12K in their first month after we launched their system"
->
-> *[Screenshots of results]*
+> *[Developer note: Remove this section entirely if no testimonials available yet. Do not use placeholder quotes on live page.]*
 
 ## A/B Test Considerations
 
@@ -341,3 +327,14 @@ When you have DFY client results, add a section before the guarantee:
 | Final close | "build your entire No-Phone Offer funnel... without a single sales call" | "build your entire Client Ready Funnel and have it live and selling" |
 | Final CTA text | "done-for-you No-Phone Offer funnel" | "done-for-you Client Ready Funnel" |
 | Dev notes terminology | "No-Phone Offer Funnel" | "Client Ready Funnel" |
+
+## CHANGES (2026-02-08 — Post-Sprint Simplification Alignment)
+
+| What Changed | Old | New |
+|-------------|-----|-----|
+| 9 components | Vague names with fake individual prices ("Complete Client Ready Ecosystem" ~~$997~~ FREE, "Complete High-Ticket Bridge Offers" ~~$697~~ FREE, etc.) | Concrete deliverables matching product file (Offer Extraction, Landing Page Copy, Order Bumps, Checkout, Emails, Recovery Emails, Ad Creative, Messaging Map, ICP Analysis) |
+| Opening copy | "converts new customers into High-ticket Clients" | "turns your expertise into a system that generates customers on autopilot" |
+| "Not For" section | "get the $97 Sprint instead" | "the Sprint is your path" (Sprint is $297 now) |
+| Value stack | "$4,978+ OF VALUE TOTAL" with fake component prices | Integration call highlight + ~~$997~~ → $397 anchor |
+| Decline link routing | "Skip to thank you page" | Conditional: OTO 3 Community for non-Sprint buyers, thank you for Sprint buyers |
+| Proof section | Placeholder with income claims ("$12K in first month") | Clean placeholder for implementation/launch testimonials only |
