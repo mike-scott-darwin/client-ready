@@ -47,37 +47,66 @@ Create these tags in GHL first:
 
 ---
 
+## How Triggers and Workflows Connect
+
+GHL has two automation systems:
+
+- **Triggers** (Settings → Automations → Triggers) — Simple tag routing only. Can add/remove tags. **Cannot** start workflows, stop workflows, skip to steps, or wait.
+- **Workflows** (Automations → Workflows) — Full automation. Each workflow has its own built-in trigger (entry event) plus steps: wait, if/else, send email, add/remove tags, etc.
+
+**The pattern:** Tags are the glue. Triggers add tags based on events → Workflows listen for those tags and run sequences. Workflows also check for purchase tags before every email, so they stop themselves when someone buys.
+
+### Tag Source Setup
+
+Before building workflows, configure these tag sources:
+
+**2-step order form:** In your checkout page form settings, add tag `lead` on Step 1 submission. This captures anyone who enters their email, even if they don't pay.
+
+**Products:** Configure each product to auto-tag on purchase:
+
+| Product | Auto-Tag on Purchase |
+|---------|---------------------|
+| $27 Client Ready | `purchased-27` |
+| $17 DM Scripts (bump) | `purchased-bump-dm-scripts` |
+| $37 Templates (bump) | `purchased-bump-templates` |
+| $67 Traffic Kit (bump) | `purchased-bump-traffic` |
+| $297 Sprint | `purchased-sprint` |
+| $397 Blueprint | `purchased-blueprint` |
+| $47/mo Community | `purchased-community` |
+
+Set these in **Payments → Products → [Product] → Settings → Tags**.
+
+### GHL Triggers (Simple Tag Routing)
+
+Create these in **Settings → Automations → Triggers**:
+
+| Trigger Name | Event | Action |
+|-------------|-------|--------|
+| Non-Buyer Start | Tag Added → `lead` | Add tag `in-nonbuyer-sequence` |
+| Buyer Start | Tag Added → `purchased-27` | Add tag `in-welcome-sequence`, Remove tag `in-nonbuyer-sequence`, Remove tag `lead` |
+| Sprint Purchase | Tag Added → `purchased-sprint` | (optional — workflow checks this tag directly) |
+| Blueprint Purchase | Tag Added → `purchased-blueprint` | (optional — workflow checks this tag directly) |
+
+---
+
 ## Workflow 1: Non-Buyer Nurture (Abandoned Checkout)
 
 **Who this is for:** Someone who started checkout but didn't complete the purchase. NOT lead magnet downloaders.
 
-**Trigger:** Order Form Submission (started checkout)
-**Condition:** Wait 30 minutes, then check: Tag `purchased-27` does NOT exist
+**Built-in workflow trigger:** Tag Added → `in-nonbuyer-sequence`
 
-### GHL Trigger Setup
-
-In GoHighLevel, use one of these triggers:
-
-| Trigger Option | How to Set Up |
-|----------------|---------------|
-| **Order Form Submitted** (Recommended) | Triggers → Order Form Submitted → Select your checkout form |
-| **Page Visit + Form Start** | Triggers → Page Visited → Checkout page URL |
-| **Stripe Checkout Started** | Requires Zapier: Stripe "Checkout Session Created" → GHL |
-
-**Why "Order Form Submitted":** This fires when someone enters their email on your checkout page, even if they don't complete payment. It captures abandoned carts.
+The workflow handles the 30-minute wait and purchase check internally — triggers can't do this.
 
 ```
-TRIGGER: Order Form Submitted [Client Ready Checkout]
+WORKFLOW TRIGGER: Tag Added → "in-nonbuyer-sequence"
     ↓
 WAIT: 30 minutes
     ↓
 IF/ELSE: Contact has tag "purchased-27"?
-    ├── YES → End workflow (they completed purchase)
+    ├── YES → Remove tag "in-nonbuyer-sequence" → End workflow
     └── NO → Continue (abandoned checkout)
             ↓
-        ADD TAG: "in-nonbuyer-sequence"
-            ↓
-        EMAIL 1: "You left something behind" (1 hour after)
+        EMAIL 1: "You left something behind"
             ↓
         WAIT: 1 day
             ↓
@@ -99,7 +128,7 @@ IF/ELSE: Contact has tag "purchased-27"?
 **Key Settings:**
 - Send time: 9:00 AM local
 - Check for purchase before EVERY email
-- If they buy at any point → exit workflow, remove tag
+- If they buy at any point → workflow exits via If/Else check
 
 ---
 

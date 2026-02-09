@@ -66,42 +66,85 @@ Go to **Settings → Custom Fields** and create:
 
 ---
 
-## Part 3: Set Up Triggers
+## Part 3: How Triggers and Workflows Connect
 
-Go to **Automation → Triggers** and create:
+**Important:** GHL has two automation systems that work together:
+
+- **Triggers** (Settings → Automations → Triggers) — Simple tag routing. Can only add/remove tags, add to pipeline, send notifications. **Cannot** start workflows, stop workflows, skip to steps, or wait.
+- **Workflows** (Automations → Workflows) — Full automation. Each workflow has its own built-in trigger (entry event) plus steps like wait, if/else, send email, add/remove tags.
+
+**The pattern:** Triggers add tags → Workflows listen for those tags and run the sequences. The workflows also check for purchase tags before every email, so they stop themselves when someone buys.
+
+### How the "lead" Tag Gets Added
+
+Your 2-step order form captures email on Step 1. Configure your order form to auto-add the `lead` tag when Step 1 is submitted:
+
+1. Go to your checkout page in the funnel builder
+2. Open the order form settings
+3. Look for **Tags** or **Add tag on submission** — add `lead`
+
+This ensures anyone who enters their email (even if they don't pay) gets tagged as a lead.
 
 ### Trigger 1: Non-Buyer Sequence Start
+
+Go to **Settings → Automations → Triggers → + Add Trigger**
+
 ```
-Trigger: Form Submitted (or Tag Added: "lead")
-Condition: Does NOT have tag "buyer-core"
-Action: Add tag "non-buyer-sequence"
-Action: Start Workflow "Non-Buyer 30-Day Sequence"
+Name: "Trigger 1: Non-Buyer Sequence Start"
+Event: Contact Tag → Tag Added → "lead"
+Action: Add Contact Tag → "non-buyer-sequence"
 ```
 
-### Trigger 2: Buyer Sequence Start
+The Non-Buyer Workflow (Part 4) listens for the `non-buyer-sequence` tag. The workflow itself handles the 30-minute wait and purchase check — triggers can't do that.
+
+### Trigger 2: Buyer Tag Routing
+
 ```
-Trigger: Payment Received (Product = $27 Client Ready Offer System)
-Action: Remove tag "non-buyer-sequence"
-Action: Remove tag "lead"
-Action: Add tag "buyer-core"
-Action: Add tag "buyer-sequence"
-Action: Stop Workflow "Non-Buyer 30-Day Sequence"
-Action: Start Workflow "Buyer 30-Day Sequence"
+Name: "Trigger 2: Buyer Sequence Start"
+Event: Contact Tag → Tag Added → "purchased-27"
+Action 1: Add Contact Tag → "buyer-core"
+Action 2: Add Contact Tag → "buyer-sequence"
+Action 3: Remove Contact Tag → "non-buyer-sequence"
+Action 4: Remove Contact Tag → "lead"
 ```
 
-### Trigger 3: Sprint Purchase (Skip Sprint Emails)
+**How `purchased-27` gets added:** Configure your $27 product in GHL to auto-tag with `purchased-27` on successful payment. The Buyer Workflow (Part 5) listens for the `buyer-sequence` tag. The Non-Buyer Workflow stops itself because it checks for `buyer-core` before every email.
+
+### Trigger 3: Sprint Purchase
+
 ```
-Trigger: Payment Received (Product = $297 Sprint)
-Action: Add tag "buyer-sprint"
-Action: Go to Step [Email 10] in Buyer Workflow
+Name: "Trigger 3: Sprint Purchase"
+Event: Contact Tag → Tag Added → "purchased-sprint"
+Action: Add Contact Tag → "buyer-sprint"
 ```
 
-### Trigger 4: Blueprint Purchase (Skip Blueprint Emails)
+Configure your $297 Sprint product to auto-tag with `purchased-sprint` on payment. The Buyer Workflow checks for the `buyer-sprint` tag and skips Sprint pitch emails (handled by If/Else inside the workflow).
+
+### Trigger 4: Blueprint Purchase
+
 ```
-Trigger: Payment Received (Product = $397 Blueprint)
-Action: Add tag "buyer-blueprint"
-Action: Go to Step [Email 13] in Buyer Workflow
+Name: "Trigger 4: Blueprint Purchase"
+Event: Contact Tag → Tag Added → "purchased-blueprint"
+Action: Add Contact Tag → "buyer-blueprint"
 ```
+
+Configure your $397 Blueprint product to auto-tag with `purchased-blueprint` on payment. Same pattern — the Buyer Workflow skips Blueprint pitch emails when it sees this tag.
+
+### Product Tag Setup (Do This First)
+
+Configure each product in GHL to auto-add its purchase tag:
+
+| Product | Auto-Tag on Purchase |
+|---------|---------------------|
+| $27 Client Ready | `purchased-27` |
+| $17 DM Scripts (bump) | `purchased-bump-dm-scripts` |
+| $37 Templates (bump) | `purchased-bump-templates` |
+| $67 Traffic Kit (bump) | `purchased-bump-traffic` |
+| $297 Sprint | `purchased-sprint` |
+| $397 Blueprint | `purchased-blueprint` |
+| $47/mo Community | `purchased-community` |
+
+To set this up: Go to **Payments → Products → [Product] → Settings → Tags** and add the corresponding tag.
 
 ---
 
@@ -116,7 +159,13 @@ Name: `Non-Buyer 30-Day Sequence`
 ```
 [Start Trigger: Tag Added "non-buyer-sequence"]
     ↓
-[Wait: 1 hour]
+[Wait: 30 minutes]
+    ↓
+[If/Else: Has tag "buyer-core"?]
+    → Yes: [Remove tag "non-buyer-sequence"] → [End Workflow]
+    → No: Continue
+    ↓
+[Wait: 30 minutes]
     ↓
 [Email 1: Soft Abandon]
     ↓
