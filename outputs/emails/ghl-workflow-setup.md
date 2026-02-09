@@ -30,7 +30,10 @@ You'll create **6 workflows** in GHL:
 
 Create these tags in GHL first:
 
-**Purchase Tags:**
+**Lead Tag (auto-added by 2-step order form on Step 1 submission):**
+- `lead` — Entered email on checkout, may or may not have paid
+
+**Purchase Tags (auto-added by products on payment — see Tag Source Setup below):**
 - `purchased-27` — Bought front-end
 - `purchased-bump-dm-scripts` — Bought $17 DM Scripts
 - `purchased-bump-templates` — Bought $37 Templates
@@ -39,7 +42,7 @@ Create these tags in GHL first:
 - `purchased-blueprint` — Bought $397 Blueprint
 - `purchased-community` — Bought $47/mo Community
 
-**Sequence Tags:**
+**Sequence Tags (added/removed by workflows):**
 - `in-nonbuyer-sequence` — Currently in non-buyer nurture
 - `in-welcome-sequence` — Currently in welcome sequence
 - `completed-welcome` — Finished welcome, ready for broadcast

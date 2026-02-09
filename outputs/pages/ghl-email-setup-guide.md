@@ -25,31 +25,49 @@ Before starting:
 
 ## Part 1: Create Tags
 
-Go to **Settings → Tags** and create these tags:
+Go to **Settings → Tags** and create all of these tags before building triggers or workflows.
 
-### Lead Status Tags
+### Purchase Tags (auto-added by products on payment — see Part 3 for setup)
 | Tag Name | Purpose |
 |----------|---------|
-| `lead` | Opted in but hasn't purchased |
-| `non-buyer-sequence` | Currently in non-buyer sequence |
+| `purchased-27` | Bought $27 front-end |
+| `purchased-bump-dm-scripts` | Bought $17 DM Scripts bump |
+| `purchased-bump-templates` | Bought $37 Templates bump |
+| `purchased-bump-traffic` | Bought $67 Traffic Kit bump |
+| `purchased-sprint` | Bought $297 Sprint |
+| `purchased-blueprint` | Bought $397 Blueprint |
+| `purchased-community` | Bought $47/mo Community |
+
+### Routing Tags (added by triggers — see Part 3)
+| Tag Name | Purpose |
+|----------|---------|
+| `lead` | Entered email on checkout Step 1 (auto-tagged by order form) |
+| `buyer-core` | Confirmed $27 buyer (added by Trigger 2) |
+| `buyer-sprint` | Confirmed Sprint buyer (added by Trigger 3) |
+| `buyer-blueprint` | Confirmed Blueprint buyer (added by Trigger 4) |
+
+### Sequence Status Tags (added/removed by workflows)
+| Tag Name | Purpose |
+|----------|---------|
+| `non-buyer-sequence` | Currently in non-buyer workflow |
 | `non-buyer-30-day-complete` | Finished non-buyer sequence |
-
-### Buyer Tags
-| Tag Name | Purpose |
-|----------|---------|
-| `buyer-core` | Bought $27 only |
-| `buyer-core-bumps` | Bought $27 + bumps |
-| `buyer-sprint` | Bought $297 Sprint |
-| `buyer-blueprint` | Bought $397 Blueprint |
-| `buyer-sequence` | Currently in buyer sequence |
+| `buyer-sequence` | Currently in buyer workflow |
 | `buyer-30-day-complete` | Finished buyer sequence |
 
-### Engagement Tags
+### Engagement Tags (added by detection workflows — see Parts 8-9)
 | Tag Name | Purpose |
 |----------|---------|
 | `engaged-non-buyer` | Opens emails but hasn't bought |
 | `cold-lead` | No opens for 14+ days |
 | `backend-interested` | Replied "BUILD" |
+| `interested-launch-kit` | Replied "LAUNCH" or "24HR" |
+
+### Link Tracking Tags (added by trigger links — see Part 7)
+| Tag Name | Purpose |
+|----------|---------|
+| `clicked-sales-page` | Clicked $27 sales page link in email |
+| `clicked-sprint` | Clicked Sprint page link in email |
+| `clicked-blueprint` | Clicked Blueprint page link in email |
 
 ---
 
