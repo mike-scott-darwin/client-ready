@@ -382,7 +382,7 @@ Simple Notion or spreadsheet the client can access:
 | Date | Decision | Context | Outcome |
 |------|----------|---------|---------|
 | 2/3 | Front-end price: $47 | Higher perceived value, tested against $27 | Locked |
-| 2/5 | No Bump 3 | Traffic kit redundant for this audience | Removed |
+| 2/5 | No Bump 3 | First $5K Client Playbook redundant for this audience | Removed |
 | ... | ... | ... | ... |
 
 ---

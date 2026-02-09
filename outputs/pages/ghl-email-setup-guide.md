@@ -33,7 +33,7 @@ Go to **Settings → Tags** and create all of these tags before building trigger
 | `purchased-27` | Bought $27 front-end |
 | `purchased-bump-dm-scripts` | Bought $17 DM Scripts bump |
 | `purchased-bump-templates` | Bought $37 Templates bump |
-| `purchased-bump-traffic` | Bought $67 Traffic Kit bump |
+| `purchased-bump-playbook` | Bought $67 First $5K Client Playbook bump |
 | `purchased-sprint` | Bought $297 Sprint |
 | `purchased-blueprint` | Bought $397 Blueprint |
 | `purchased-community` | Bought $47/mo Community |
@@ -157,7 +157,7 @@ Configure each product in GHL to auto-add its purchase tag:
 | $27 Client Ready | `purchased-27` |
 | $17 DM Scripts (bump) | `purchased-bump-dm-scripts` |
 | $37 Templates (bump) | `purchased-bump-templates` |
-| $67 Traffic Kit (bump) | `purchased-bump-traffic` |
+| $67 First $5K Client Playbook (bump) | `purchased-bump-playbook` |
 | $297 Sprint | `purchased-sprint` |
 | $397 Blueprint | `purchased-blueprint` |
 | $47/mo Community | `purchased-community` |

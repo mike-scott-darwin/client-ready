@@ -85,7 +85,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 **Content includes:**
 - Funnel architecture: $27 front-end → bumps → OTOs → email ascension → backend
 - Landing page setup using AI Landing Page Generator
-- Order bumps: DM Scripts ($17), Templates ($37), Traffic Kit ($67)
+- Order bumps: DM Scripts ($17), Templates ($37), The First $5K Client Playbook ($67)
 - Checkout/payment integration
 - 10-day welcome sequence automation
 - Daily email rhythm system
@@ -450,7 +450,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 - The three hook types: Question, Statement, Pattern Interrupt
 - How to test multiple hooks on the same body copy
 - The "one pizza, get pizza" rule — ad headline must match landing page
-- Hook frameworks from the $67 Traffic Kit
+- Hook frameworks (included in this lesson)
 - Metrics: what CTR tells you about your hooks (1% good, 2% great, 3% exceptional)
 
 **Benefit:** Stop wasting money on ads nobody watches. Hooks are the highest-leverage variable.

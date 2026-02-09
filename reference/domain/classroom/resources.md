@@ -88,4 +88,4 @@ All resources created in `classroom/downloads/`
 
 _New resources (from 2026-02-06):_
 - [x] Facebook Ads Launch Guide (4-phase system with Cat Howell benchmarks)
-- [x] Offer Validation Kit (AI prompts + 15-point checklist for Bump 3)
+- [x] Offer Validation Kit (AI prompts + 15-point checklist — free classroom download)

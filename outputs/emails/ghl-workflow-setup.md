@@ -37,7 +37,7 @@ Create these tags in GHL first:
 - `purchased-27` — Bought front-end
 - `purchased-bump-dm-scripts` — Bought $17 DM Scripts
 - `purchased-bump-templates` — Bought $37 Templates
-- `purchased-bump-traffic` — Bought $67 Traffic Kit
+- `purchased-bump-playbook` — Bought $67 First $5K Client Playbook
 - `purchased-sprint` — Bought $297 Sprint
 - `purchased-blueprint` — Bought $397 Blueprint
 - `purchased-community` — Bought $47/mo Community
@@ -72,7 +72,7 @@ Before building workflows, configure these tag sources:
 | $27 Client Ready | `purchased-27` |
 | $17 DM Scripts (bump) | `purchased-bump-dm-scripts` |
 | $37 Templates (bump) | `purchased-bump-templates` |
-| $67 Traffic Kit (bump) | `purchased-bump-traffic` |
+| $67 First $5K Client Playbook (bump) | `purchased-bump-playbook` |
 | $297 Sprint | `purchased-sprint` |
 | $397 Blueprint | `purchased-blueprint` |
 | $47/mo Community | `purchased-community` |
@@ -192,7 +192,7 @@ WAIT: 5 minutes (let other tags settle)
 IF/ELSE: Has ANY of these tags?
     - "purchased-bump-dm-scripts"
     - "purchased-bump-templates"
-    - "purchased-bump-traffic"
+    - "purchased-bump-playbook"
     ├── YES (has ALL 3) → End workflow
     └── NO or PARTIAL → Continue
             ↓

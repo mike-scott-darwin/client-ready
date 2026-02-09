@@ -16,7 +16,7 @@ format: Google Doc
 
 When someone buys the $27 but skips the order bumps, this sequence re-pitches them over the next week.
 
-**Trigger:** Purchased $27, did NOT purchase Bump 1 (DM Scripts), Bump 2 (Templates), or Bump 3 (Traffic Kit)
+**Trigger:** Purchased $27, did NOT purchase Bump 1 (DM Scripts), Bump 2 (Templates), or Bump 3 (First $5K Client Playbook)
 **Timing:** Days 2, 4, and 6 after purchase
 **Send Time:** 2:00 PM (Welcome sequence sends at 8:00 AM — avoids stacking)
 **Goal:** Recover 10-20% of missed bump revenue
@@ -107,8 +107,8 @@ But before you move to the next phase, quick inventory:
 **Do you have templates so you're not starting from scratch?**
 → If not: Plug & Play Templates ($37) [LINK]
 
-**Do you know how to get your first 10 buyers?**
-→ If not: Offer Validation Kit ($67) [LINK]
+**Do you have a plan for landing your first $5K client?**
+→ If not: The First $5K Client Playbook ($67) [LINK]
 
 If you have all three, ignore this. You're set.
 
