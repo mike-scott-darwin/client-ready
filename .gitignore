@@ -3,3 +3,9 @@
 
 # Dependencies
 node_modules/
+
+# Source PDFs (keep local, not tracked — markdown only in repo)
+reference/_source-pdfs/
+
+# Session state
+.vip/local.yaml
