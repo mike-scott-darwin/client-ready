@@ -2,7 +2,7 @@
 type: reference
 status: active
 date: 2026-01-31
-updated: 2026-01-31
+updated: 2026-02-10
 ---
 
 # Testimonials & Proof
@@ -35,12 +35,35 @@ updated: 2026-01-31
 
 ## Client Wins
 
-_Add client testimonials below as they come in._
+### Nicole — Breathwork & Accountability Coach
+
+**Before:** Creating programs and offerings "for women" — broad, unfocused, no clarity on ideal client or messaging
+
+**After:** Clear ideal client, running high-ticket 1-on-1 coaching programs, writing content that organically attracts the right people
+
+**Quote:**
+> "What Michael has taught me over this time is something that has absolutely transformed my business. It has given me such clarity on who I am here to serve, who my ideal client is, how to actually write transformative content without being pushy and salesy and organically call in the women that I desire to work with."
+
+> "I am now running my own high ticket one-on-one coaching programs, something that I actually never thought that I would achieve."
+
+> "He's more than a coach. He's genuinely there because he wants to see you thrive."
+
+**Specifics:**
+- 14 weeks of 1-on-1 coaching
+- Went from broad ("programs for women") to clear ideal client and high-ticket offers
+- Now running high-ticket 1-on-1 coaching programs
+- Clarity on purpose: "I actually really realize what I'm here to do now"
+
+**Source:** VideoPeel video testimonial
+**Date:** 2026-02-10
+**Location:** Northern New South Wales, Australia
+
+---
 
 ### Template
 
 ```markdown
-## [Name] — [Title/Role]
+### [Name] — [Title/Role]
 
 **Before:** [Their situation before]
 
@@ -70,6 +93,8 @@ Use these in ad copy and landing pages:
 | 4.7/5 rating | Landing page | Quality proof |
 | Clients generating sales | Founder post #17 | Transformation proof |
 | 72 hours to new customers | Landing page claim | Speed proof |
+| Nicole: broad → high-ticket 1-on-1 | Video testimonial | Clarity transformation |
+| Nicole: 14 weeks, found purpose | Video testimonial | Depth of engagement |
 
 ---
 
@@ -86,6 +111,7 @@ Ask clients/members:
 
 ## Priority Gaps
 
-- [ ] Collect 3-5 client outcome testimonials (specific results)
+- [x] Video testimonial (Nicole — breathwork coach, clarity transformation)
+- [ ] Collect 2-4 more client outcome testimonials (specific results — revenue, clients landed)
 - [ ] Get screenshot proof of client wins (DMs, sales notifications)
 - [ ] Video testimonial for Ad 4 (Imposter) angle
