@@ -1,0 +1,62 @@
+{
+  "text_dark_01": {
+    "prompt": "Generate a dark moody background image for a Facebook ad. 9:16 aspect ratio (1080x1920px). NO TEXT on the image. This is a background for text overlay. Deep charcoal to black gradient with subtle amber/gold light leak from the left edge. Leave generous clean space in the center-upper area for white text. Minimal texture — slight grain, like film photography. The mood is serious, contemplative, authoritative. No people, no objects. Just atmosphere and light.",
+    "style": "text-on-dark",
+    "pairs_with": "H6 Unaware: Your Marketing Isn't Broken. The Thing You're Marketing Is Unclear.",
+    "awareness": "UNAWARE"
+  },
+  "text_dark_02": {
+    "prompt": "Generate a dark atmospheric background image for a Facebook ad. 9:16 aspect ratio (1080x1920px). NO TEXT on the image. This is a background for text overlay. Near-black background with a soft warm glow in the center, like a single light source illuminating fog or mist. Moody, cinematic feel. Leave clean center space for text overlay. Subtle depth — feels three-dimensional. No people, no objects.",
+    "style": "text-on-dark",
+    "pairs_with": "H7 Unaware: Most Coaches Skip This Step and Then Wonder Why Nothing Converts",
+    "awareness": "UNAWARE"
+  },
+  "text_dark_03": {
+    "prompt": "Generate a dark minimal background image for a Facebook ad. 9:16 aspect ratio (1080x1920px). NO TEXT on the image. This is a background for text overlay. Dark navy to black with a subtle split — left side slightly lighter than right, creating a conceptual before/after divide without any explicit divider. Clean, editorial, high-end feel. Leave center space for text. No people, no objects.",
+    "style": "text-on-dark",
+    "pairs_with": "CU H6 Unaware: Content Doesn't Create Clarity. Clarity Creates Content That Works.",
+    "awareness": "UNAWARE"
+  },
+  "testimonial_renee": {
+    "prompt": "Generate a warm, authentic-looking background for a testimonial ad on Facebook. 9:16 aspect ratio (1080x1920px). NO TEXT on the image. Warm golden-hour lighting on a slightly blurred home office or cozy workspace setting. Think: a real person's space, not a stock photo studio. Soft bokeh, natural daylight coming through a window. The mood is personal, genuine, intimate — like a message from a friend. Leave generous center space for a text testimonial overlay. No people visible.",
+    "style": "lo-fi-testimonial",
+    "pairs_with": "P5 Testimonial: Renee 10 years stuck",
+    "awareness": "PROBLEM AWARE"
+  },
+  "testimonial_wendy": {
+    "prompt": "Generate a warm atmospheric background for a testimonial ad on Facebook. 9:16 aspect ratio (1080x1920px). NO TEXT on the image. Creative workspace with art supplies or sketchbooks slightly out of focus in the background. Warm, inviting lighting. The mood is artistic and authentic — like a behind-the-scenes glimpse of a creative entrepreneur's world. Soft focus, natural tones. Leave clean center space for text overlay. No people visible.",
+    "style": "lo-fi-testimonial",
+    "pairs_with": "P5 Testimonial: Wendy creative procrastination to clarity",
+    "awareness": "PROBLEM AWARE"
+  },
+  "before_after": {
+    "prompt": "Generate a split-composition background image for a Facebook ad. 9:16 aspect ratio (1080x1920px). NO TEXT on the image. Left half is dark, foggy, desaturated grey-blue — representing confusion and chaos. Right half is warm, clear, golden light — representing clarity and direction. The transition between the two halves is a soft gradient, not a hard line. Atmospheric, cinematic. Leave center space clean for text overlay showing a before/after transformation. No people, no objects.",
+    "style": "split-comparison",
+    "pairs_with": "Any Problem Aware primary: I help everyone → I'm the only choice",
+    "awareness": "PROBLEM AWARE"
+  },
+  "comparison": {
+    "prompt": "Generate a clean graphic-style background for a Facebook comparison ad. 9:16 aspect ratio (1080x1920px). NO TEXT on the image. Dark background (near-black) with a subtle grid or blueprint-style line pattern. Two distinct zones: upper zone has a faint red/coral tint (expensive option), lower zone has a faint green/gold tint (smart option). The zones are separated by a subtle horizontal divider line. Clean, modern, editorial feel. Professional but not corporate. Leave both zones with ample space for text overlay.",
+    "style": "graphic-comparison",
+    "pairs_with": "P3 Solution Aware: Agency $3K vs Client Ready $27",
+    "awareness": "SOLUTION AWARE"
+  },
+  "lofi_deep": {
+    "prompt": "Generate an authentic-looking moody background for a long-form Facebook ad. 9:16 aspect ratio (1080x1920px). NO TEXT on the image. Dimly lit desk scene — laptop screen casting a soft blue glow, coffee cup nearby, slightly messy papers or notebooks. Shot from above at an angle, like someone photographed their late-night work session. Natural, imperfect, real. Slightly warm color grading. The mood is late-night realization — someone figuring something out. Leave center area relatively clean for text overlay.",
+    "style": "lo-fi",
+    "pairs_with": "P1 Deep Ad: coaches discovering the real problem was the offer",
+    "awareness": "PROBLEM AWARE"
+  },
+  "lofi_ugc": {
+    "prompt": "Generate a casual, phone-quality style background for a UGC-style Facebook ad. 9:16 aspect ratio (1080x1920px). NO TEXT on the image. Blurred coffee shop or kitchen counter background — warm, natural daylight, the kind of setting where someone would record a quick selfie video. Slightly overexposed highlights, natural color temperature. Think iPhone photo, not DSLR. The mood is personal, conversational, 'just sharing my experience'. Generous center space for text overlay.",
+    "style": "lo-fi",
+    "pairs_with": "P2 UGC: first-person story about being stuck",
+    "awareness": "PROBLEM AWARE"
+  },
+  "pattern_interrupt": {
+    "prompt": "Generate a bold, high-contrast pattern interrupt background for a Facebook ad. 9:16 aspect ratio (1080x1920px). NO TEXT on the image. Stark black background with a single dramatic element: a bright golden/amber spotlight cone illuminating nothing — just empty space where something should be. The contrast is extreme. The mood is provocative — something is missing, something is wrong. This should look DIFFERENT from every other ad in the feed. Leave the illuminated center zone clean for bold text overlay.",
+    "style": "interrupt",
+    "pairs_with": "P4 Pattern Interrupt: The funnel isn't the problem",
+    "awareness": "BRIDGE"
+  }
+}
