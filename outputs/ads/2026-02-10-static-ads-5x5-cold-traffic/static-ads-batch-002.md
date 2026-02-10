@@ -229,11 +229,11 @@ And none of it works the way they expected.
 
 So they blame the marketing. The algorithm changed. The market is saturated. The niche is too competitive. They just need a better strategy.
 
-This is what Cat Howell calls "normalized pain." The coach has accepted that getting clients is supposed to be this hard. That marketing is just a grind you push through.
+It becomes normalized pain. The coach has accepted that getting clients is supposed to be this hard. That marketing is just a grind you push through.
 
-But here is what nobody tells them:
+But here's the part everyone skips:
 
-Marketing only works when the thing you are marketing is clear. When the offer is vague — when even YOU can't explain it in one sentence — no amount of content, ads, or funnels will fix that.
+Marketing only works when the thing you're marketing is clear. When the offer is vague — when even YOU can't explain it in one sentence — no amount of content, ads, or funnels will fix that.
 
 The marketing isn't broken. The offer underneath it is.
 
@@ -275,9 +275,9 @@ This is more common than people realize. Most coaches have expertise. Most coach
 
 They skip that step. They go straight to "how do I get clients?" without answering "what exactly am I selling?"
 
-It is like building a house without a foundation. You can make the walls beautiful, but the whole thing shifts.
+It's like building a house without a foundation. You can make the walls beautiful, but the whole thing shifts.
 
-The extraction process isn't complicated. It is five questions:
+The extraction process isn't complicated. It's five questions:
 
 1. What is your zone of genius — the thing you do that nobody else does the same way?
 2. Who specifically needs that — not a demographic, a real person with a real problem?
@@ -518,16 +518,16 @@ Get the Client Ready Offer System — [link]
 
 ## Primary 6 — Belief Shift (Clarity Unlock) `UNAWARE`
 
-**Hook:** Coaches have been told for years that the secret to getting clients is more content and better marketing but that advice skips the actual problem (135 chars)
+**Hook:** Coaches keep hearing the same advice about getting clients more content and better marketing but that advice skips the actual problem (135 chars)
 
 ```text
-Coaches have been told for years that the secret to getting clients is more content and better marketing but that advice skips the actual problem
+Coaches keep hearing the same advice about getting clients more content and better marketing but that advice skips the actual problem
 
 Here is what the content advice sounds like:
 
 "Post every day. Be consistent. Show up on stories. Go live. Start a podcast. Build a newsletter. Create a lead magnet."
 
-And coaches do it. They post. They show up. They create. They are consistent for weeks. Sometimes months.
+And coaches do it. They post. They show up. They create. They're consistent for weeks. Sometimes months.
 
 And nothing happens.
 
@@ -539,17 +539,17 @@ But the problem isn't the content. The problem isn't the platform. The problem i
 
 The problem is that nobody — including the coach — can clearly explain what the coach actually does.
 
-Think about it. If you can't describe your offer in one sentence that makes a stranger say "tell me more" — how is a piece of content going to do that for you?
+Think about it. When a coach can't describe their offer in one sentence that makes a stranger say "tell me more" — no piece of content is going to do that for them.
 
 Content amplifies clarity. It doesn't create it.
 
-The coaches who seem to effortlessly attract clients aren't better at marketing. They are clearer on what they sell. Their content works because the thing underneath it is specific. Defined. Obvious.
+The coaches who seem to effortlessly attract clients aren't better at marketing. They're clearer on what they sell. Their content works because the thing underneath it is specific. Defined. Obvious.
 
 Most coaches have never gone through the step of extracting that clarity. They jumped straight from "I want to be a coach" to "how do I get clients?" without stopping to answer "what exactly am I selling and to whom?"
 
-That step — the extraction — is what changes everything. Not learning a new content strategy. Not switching platforms. Not posting more.
+That step — the extraction — is what makes the rest work. Not learning a new content strategy. Not switching platforms. Not posting more.
 
-Getting clear on what you sell, who needs it, and why it matters. That is the step.
+Getting clear on what you sell, who needs it, and why it matters. That's the step.
 
 The Client Ready Offer System guides you through that extraction using 5 AI prompts. One afternoon. $27.
 
@@ -575,15 +575,15 @@ They share value. They teach. They inspire. People like the post. Maybe comment.
 
 Same effort. Same platform. Same consistency. Different result.
 
-The variable isn't marketing. It is clarity.
+The variable isn't marketing. It's clarity.
 
 I worked with a coach named Robin who described her situation before the extraction as "a cyclone whirlwind — clutching at straws and throwing them back out hoping someone would catch them." She was posting. She was trying. Nothing was landing.
 
-After going through the extraction process, she said Michael "demystified all the information." Same coach. Same expertise. Same audience. Different result — because the offer was finally clear.
+After going through the extraction process, she said I "demystified all the information." Same coach. Same expertise. Same audience. Different result — because the offer was finally clear.
 
-Robin worked directly with Michael — not the $27 product. But the extraction process is the same.
+Robin worked directly with me in a coaching engagement — not the $27 product. Her results reflect that deeper engagement. But the extraction questions are the same five questions inside the system.
 
-This isn't a marketing problem with a marketing solution. It is a clarity problem with an extraction solution.
+This isn't a marketing problem with a marketing solution. It's a clarity problem with an extraction solution.
 
 The extraction asks five questions most coaches have never been asked:
 

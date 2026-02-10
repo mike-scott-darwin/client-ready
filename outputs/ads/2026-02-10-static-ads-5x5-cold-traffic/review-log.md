@@ -103,3 +103,98 @@ All 6 testimonials (Nicole, Alexia, Renee, Carly, Robin, Wendy) describe results
 - No guarantee misstatements
 - Pattern Interrupts (P4) both clean
 - All headlines clean except noted P3s
+
+---
+---
+
+# Review Pass 2 — New Unaware Primaries (P6, P7 per angle) + Headlines (H6, H7)
+
+**Date:** 2026-02-10
+**Scope:** 4 new primaries + 4 new headlines added after initial review
+
+## Review Summary (Pass 2)
+
+| Lens | P1 | P2 | P3 |
+|------|----|----|-----|
+| FTC Compliance | 0 | 2 | 1 |
+| Meta Policy | 0 | 1 | 3 |
+| Copy Quality | 0 | 2 | 10 |
+| Voice Authenticity | 0 | 5 | 5 |
+| Substantiation | 2 | 1 | 0 |
+
+**After deduplication:** P1: 1 blocking (same root cause as Pass 1), P2: 8 fixes applied, P3: 12 noted
+
+**Status: Same P1 blocker applies** — A2-P7 uses Robin coaching testimonial for $27 product (same testimonial-product mismatch + no typicality from Pass 1).
+
+---
+
+## Pre-Review Fix
+
+| # | Location | Issue | Fix Applied |
+|---|----------|-------|-------------|
+| 0 | A1-P6 | Named "Cat Howell" in ad copy ("This is what Cat Howell calls...") | Changed to "It becomes normalized pain" — removed named reference |
+
+## P2 Fixes Applied (Pass 2)
+
+| # | Location | Issue | Fix Applied |
+|---|----------|-------|-------------|
+| 1 | A1-P6 | "here is what" — missing contraction | "here's the part everyone skips" (also removes guru-reveal phrasing) |
+| 2 | A1-P6 | "you are marketing" — missing contraction | "you're marketing" |
+| 3 | A1-P7 | "It is like" — missing contraction | "It's like" |
+| 4 | A1-P7 | "It is five questions" — missing contraction | "It's five questions" |
+| 5 | A2-P6 | "secret" — banned word per voice.md | Rewrote hook: "Coaches keep hearing the same advice about getting clients" |
+| 6 | A2-P6 | "If you can't describe your offer" — Personal Attributes (you + negative) | Externalized: "When a coach can't describe their offer..." |
+| 7 | A2-P6 | "They are clearer/consistent" + "That is the step" — missing contractions | "They're" / "That's" |
+| 8 | A2-P6 | "changes everything" — hype-adjacent | "makes the rest work" |
+| 9 | A2-P7 | "It is clarity" — missing contraction | "It's clarity" |
+| 10 | A2-P7 | "said Michael" — third-person slip in first-person ad | "said I" |
+| 11 | A2-P7 | "It is a clarity problem" — missing contraction | "It's a clarity problem" |
+| 12 | A2-P7 | Robin testimonial bridge too strong ("the extraction process is the same") | Rewritten: "Her results reflect that deeper engagement. But the extraction questions are the same five questions inside the system." |
+
+## P2 Fixes Applied (Testimonial Disclosure — P1 Mitigation)
+
+| Location | Disclosure |
+|----------|-----------|
+| A2-P7 | "Robin worked directly with me in a coaching engagement — not the $27 product. Her results reflect that deeper engagement." |
+
+---
+
+## P1 — Blocking Issues (Same as Pass 1)
+
+A2-P7's Robin testimonial triggers the same two P1 blockers from Pass 1:
+1. **Testimonial-product mismatch** — coaching testimonial selling $27 self-guided product
+2. **No typicality data** — no reference/proof/typicality.md
+
+The three other new ads (A1-P6, A1-P7, A2-P6) contain zero testimonials and pass clean on all substantiation checks.
+
+---
+
+## P3 — Noted (Not Fixed)
+
+| # | Location | Issue | Notes |
+|---|----------|-------|-------|
+| 1 | All P6/P7 | CTA "Get" is high-commitment for UNAWARE | Consider "See the 5 questions" for future test |
+| 2 | A1-P6 | Abrupt story-to-product transition | Consider bridge sentence in future revision |
+| 3 | A1-P7 | "$3K on design" — verify factual | If composite story, soften to "thousands" |
+| 4 | A2-P6 | Opening list structure mirrors A1-P6 | Noted — structural similarity in-batch |
+| 5 | A1-H6 | Headline resolves own curiosity gap | Consider "Your Marketing Isn't Broken. Something Else Is." for test |
+| 6 | A1-H7 | "This step" is vague | Consider naming the step category |
+| 7 | A2-H6 | Chiastic structure resolves tension | Strong for brand recall, weaker for click-through |
+| 8 | A1-P6 | "nobody tells them" — guru-reveal adjacent | Fixed as part of contraction fix |
+| 9 | A1-P7/A2-P7 | 5-question list appears in both ads | Vary structure if running in same ad set |
+| 10 | A1-P6 | Six "They" sentences in a row | Consider dropping some for punchier fragments |
+| 11 | All P6/P7 | Identical CTA block structure | Vary across ads for Andromeda diversity |
+| 12 | A2-P7 | "you couldn't see" — mild personal attribution | Optional softening |
+
+---
+
+## What Passed Clean (Pass 2)
+
+- A1-P6, A1-P7, A2-P6: Zero testimonials, zero substantiation issues — cleanest ads in the batch
+- All four new headlines pass all 5 lenses
+- A2-H7 ("The Step Between...") rated strongest headline by Copy Quality lens
+- No banned words remaining after "secret" fix
+- All hooks within character limits
+- Awareness level correctly UNAWARE throughout
+- No income/outcome claims in any of the 3 testimonial-free ads
+- "One afternoon" used as process duration, not results timeline — compliant
