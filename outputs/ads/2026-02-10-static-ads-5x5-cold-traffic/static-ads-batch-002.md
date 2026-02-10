@@ -3,7 +3,7 @@ type: output
 subtype: static-ads
 date: 2026-02-10
 status: draft
-review_status: null
+review_status: BLOCKED (P1: testimonial-product mismatch — see review-log.md)
 offer: client-ready
 campaign: 5x5-cold-traffic
 special_ad_category: none
@@ -44,23 +44,21 @@ Still nothing.
 
 Here is what they never considered: the offer was wrong.
 
-Not the funnel. Not the ad creative. Not the algorithm. The thing they were selling did not connect with anyone enough to pull out a credit card.
+Not the funnel. Not the ad creative. Not the algorithm. The thing they were selling didn't connect with anyone enough to pull out a credit card.
 
 I know because I did the same thing. I spent six months building a course nobody bought. The funnel was technically perfect. The offer was a mess. Vague. Too broad. Solving a problem I assumed existed instead of one I validated.
 
-When I finally stopped building infrastructure and started testing the offer itself, everything changed. Not slowly — fast. Because once the offer is right, even a basic funnel works. When the offer is wrong, even a perfect funnel fails.
+When I finally stopped building infrastructure and started testing the offer itself, everything changed. Because once the offer is right, even a basic funnel works. When the offer is wrong, even a perfect funnel fails.
 
 This is the step everyone skips.
 
-Every funnel guru, every ad course, every marketing program assumes you already have an offer worth selling. Cat Howell assumes you have an offer and need an ecosystem. Miles Stutz assumes you have a high-ticket service and need automation. Hernan Vazquez assumes you have a product and need customers.
+Every funnel guru, every ad course, every marketing program assumes you already have an offer worth selling. They teach you ecosystems, automation, customer acquisition — but what if you don't have an offer worth any of that?
 
-What if you do not have an offer worth any of that?
+Six coaches came to me this year with the same root problem. Nicole was creating programs "for women" — so broad nobody knew what she was selling. Alexia was giving sessions at low-ticket prices because she hadn't shaped or packaged a real offer. Renee spent ten years trying to define her niche. Ten years. She couldn't build anything because the foundation didn't exist.
 
-Six coaches came to me this year with the same root problem. Nicole was creating programs "for women" — so broad nobody knew what she was selling. Alexia was giving sessions at low-ticket prices because she had not shaped or packaged a real offer. Renee spent ten years trying to define her niche. Ten years. She could not build anything because the foundation did not exist.
+Renee worked directly with Michael — not the $27 product. But listen to what she said: "I have struggled with this for 10 years and Michael helped me with that in an hour and a half session. He was able to listen, connect the dots, think strategically and put it in words so exactly that I would not ever have been able to do that."
 
-Renee said: "I have struggled with this for 10 years and Michael helped me with that in an hour and a half session. He was able to listen, connect the dots, think strategically and put it in words so exactly that I would not ever have been able to do that."
-
-That is what happens when you fix the offer first. Everything downstream — the funnel, the content, the ads — gets easier because the foundation is solid.
+That's what happens when you fix the offer first. Everything downstream — the funnel, the content, the ads — gets easier because the foundation is solid.
 
 The Client Ready Offer System uses 5 AI prompts to extract your zone of genius, define your ideal client, map their pain points, build your story, and assemble a complete offer document. One afternoon. Not months. Not thousands of dollars. $27.
 
@@ -77,10 +75,10 @@ Get the Client Ready Offer System — [link]
 
 ## Primary 2 — UGC/Native (Before the Funnel)
 
-**Hook:** Here's how even coaches without a clear niche or offer are getting clarity and landing clients in weeks not months or years (127 chars)
+**Hook:** I spent six months building a funnel for an offer nobody wanted and here is what I should have done on day one instead (125 chars)
 
 ```text
-Here's how even coaches without a clear niche or offer are getting clarity and landing clients in weeks not months or years
+I spent six months building a funnel for an offer nobody wanted and here is what I should have done on day one instead
 
 I was stuck for a long time. Had the skills. Had the experience. Could not for the life of me explain what I sold in a way that made people want to buy.
 
@@ -92,9 +90,9 @@ When I finally sat down and worked through the actual extraction — who am I fo
 
 Wendy Wild had the same experience. She was months into "creative procrastination" — on the brink of launching but stuck in analysis paralysis. Questions swirling with no answers.
 
-After going through the process: "Absolute clarity on who I'm serving, exactly what it is that they need and how to deliver that for them." She launched her website and booked her first two sales calls ever in just a few weeks. Clients were asking to pay her.
+After working directly with Michael: "Absolute clarity on who I'm serving, exactly what it is that they need and how to deliver that for them." She launched her website and booked her first two sales calls ever in just a few weeks.
 
-That is what happens when the offer is clear. Marketing stops feeling like guesswork.
+Wendy worked with Michael in a coaching engagement — not the $27 product. But the extraction process is the same. That's what happens when the offer is clear. Marketing stops feeling like guesswork.
 
 The Client Ready Offer System walks you through 5 AI prompts that do the extraction in one afternoon. $27. No course. No coaching calls. Just the prompts, the guide, and a clear offer document at the end.
 
@@ -105,14 +103,14 @@ Get the Client Ready Offer System — [link]
 
 ## Primary 3 — Direct Response (Before the Funnel)
 
-**Hook:** This system eliminates offer confusion months of guessing and content that gets likes but no buyers without a course or agency (133 chars)
+**Hook:** This $27 system replaces the branding agency process that costs thousands and takes weeks and it works in one afternoon (126 chars)
 
 ```text
-This system eliminates offer confusion months of guessing and content that gets likes but no buyers without a course or agency
+This $27 system replaces the branding agency process that costs thousands and takes weeks and it works in one afternoon
 
-The reason your funnel is not converting is probably not the funnel.
+When a funnel isn't converting, the problem is almost never the funnel.
 
-Six coaches came to the same person this year with different niches, different backgrounds, different experience levels. All six had the same root problem: they could not clearly explain what they sell.
+Six coaches came to the same person this year with different niches, different backgrounds, different experience levels. All six had the same root problem: they couldn't clearly explain what they sell.
 
 Not the funnel. Not the ads. The offer.
 
@@ -126,16 +124,20 @@ What the Client Ready Offer System does:
 
 What it replaces:
 
-— $3K-$5K branding agencies that take 6-8 weeks
-— $997+ courses that give you theory without extraction
+— Branding agencies that charge thousands that take 6-8 weeks
+— Expensive courses that give you theory without extraction
 — Months of posting content hoping someone asks "how do I work with you?"
 — The spinning feeling of knowing you are good at something but not being able to package it
 
-What it does not replace: your expertise. That is the point. The system extracts what is already inside you. It does not teach you something new. It translates what you already know into something clear enough to sell.
+What it doesn't replace: your expertise. That is the point. The system extracts what is already inside you. It doesn't teach you something new. It translates what you already know into something clear enough to sell.
 
-Renee spent 10 years stuck. Solved in 90 minutes.
-Wendy spent months frozen. Launched in weeks.
-Nicole went from broad to high-ticket 1-on-1.
+These coaches worked directly with Michael — not the $27 product. But the extraction process is the same:
+
+— Renee: niche defined in 90 minutes after 10 years stuck.
+— Wendy: launched her website in weeks after months frozen.
+— Nicole: found her ideal client and now runs high-ticket 1-on-1.
+
+Results from personalized coaching. The Client Ready Offer System is self-guided. Your results depend on your effort.
 
 $27. One afternoon. Before the funnel. Before the ads. Before everything else.
 
@@ -151,9 +153,9 @@ Get the Client Ready Offer System — [link]
 ```text
 Everyone is selling coaches funnels and nobody is asking the question that actually matters do you have an offer worth building one for
 
-The funnel is not the problem. The offer is.
+The funnel isn't the problem. The offer is. Six coaches figured this out this year — and the 5-prompt extraction that fixed it takes one afternoon.
 
-Fix the offer first. $27. One afternoon.
+$27. Before the funnel. Before the ads.
 
 Get the Client Ready Offer System — [link]
 ```
@@ -175,19 +177,19 @@ She had tried courses. She had tried doing it herself. She is a big picture thin
 
 She said: "I have struggled with this for 10 years and Michael helped me with that in an hour and a half session."
 
-What happened in that session was not new information. Michael listened. Connected the dots. Thought strategically. And put it in words so exactly that Renee said she never could have done it herself.
+What happened in that session wasn't new information. Michael listened. Connected the dots. Thought strategically. And put it in words so exactly that Renee said she never could have done it herself.
 
 "I think I would have struggled for the next 10 years defining my niche market if I didn't meet Michael."
 
-This is not a rare case. Wendy was stuck for months in creative procrastination — launched her website and booked her first two sales calls in weeks. Nicole went from broad programs "for women" to running high-ticket one-on-one coaching. Carly went from unclear on how to use her skills to feeling "completely ready and organised to step 100% into my business confidently."
+This isn't a rare case. Wendy was stuck for months in creative procrastination — launched her website and booked her first two sales calls in weeks. Nicole went from broad programs "for women" to running high-ticket one-on-one coaching. Carly went from unclear on how to use her skills to feeling "completely ready and organised to step 100% into my business confidently."
 
-All six had the same problem: the offer was not clear. Not the marketing. Not the funnel. The offer.
+All six had the same problem: the offer wasn't clear. Not the marketing. Not the funnel. The offer.
 
-The Client Ready Offer System uses 5 AI prompts to do the same extraction. Your zone of genius. Your ideal client. Their pain points. Your story. A complete offer document.
+Renee worked directly with Michael — not the $27 product. But the extraction process she went through is what the Client Ready Offer System is built on. 5 AI prompts that walk you through the same questions: your zone of genius, your ideal client, their pain points, your story. You get a complete offer document at the end.
 
-$27. One afternoon. Before the funnel. Before the ads.
+$27. One afternoon. Self-guided. Before the funnel. Before the ads.
 
-Renee's message to you: "You do not have to take the long road like I have. Please don't wait 10 years."
+Renee's message to you: "You don't have to take the long road like I have. Please don't wait 10 years."
 
 Get the Client Ready Offer System — [link]
 ```
@@ -198,12 +200,12 @@ Get the Client Ready Offer System — [link]
 
 **Headline 1 — Proof-led**
 ```text
-10 Years Stuck on Her Niche — Solved in 90 Minutes
+She Was Stuck for 10 Years — Here's What Finally Worked
 ```
 
 **Headline 2 — Mechanism-led**
 ```text
-5 AI Prompts Extract Your $5K Offer in One Afternoon
+5 AI Prompts That Extract Your Complete Offer in One Afternoon
 ```
 
 **Headline 3 — Outcome-led**
@@ -237,33 +239,33 @@ Core thesis: The answer was already inside them. They just couldn't see it until
 ```text
 How coaches who already have the expertise are discovering the real bottleneck was never skill or knowledge it was articulation
 
-There is a specific kind of stuck that does not get talked about enough.
+There is a specific kind of stuck that doesn't get talked about enough.
 
-It is not the person who needs more training. It is not the person who needs more confidence. It is the person who is genuinely good at what they do — and cannot for the life of them explain it in a way that makes someone want to buy.
+It isn't the person who needs more training. It isn't the person who needs more confidence. It is the person who is genuinely good at what they do — and cannot for the life of them explain it in a way that makes someone want to buy.
 
-They know their subject deeply. They have helped people. They have the results. But when someone asks "what do you do?" they fumble. They give a long, winding answer that sounds different every time. They watch their own clients struggle to refer them because the language does not exist yet.
+They know their subject deeply. They have helped people. They have the results. But when someone asks "what do you do?" they fumble. They give a long, winding answer that sounds different every time. They watch their own clients struggle to refer them because the language doesn't exist yet.
 
-The problem is not knowledge. The problem is translation.
+The problem isn't knowledge. The problem is translation.
 
-I have worked with six coaches in the last year. Every single one had the same pattern. They had the expertise. They had the drive. What they did not have was someone who could listen, connect the dots, and put it into words they could act on.
+I have worked with six coaches in the last year. Every single one had the same pattern. They had the expertise. They had the drive. What they didn't have was someone who could listen, connect the dots, and put it into words they could act on.
 
 Nicole was creating programs "for women." Broad. Unfocused. No clarity on who she was actually for. After working through the extraction, she said: "It has given me such clarity on who I am here to serve, who my ideal client is, how to actually write transformative content."
 
-Alexia was giving sessions at low-ticket prices — not because her work was low value, but because she had not shaped or packaged it. After the process: her business moved to high-ticket. She said Michael helped her "shape it, promote it, understand it, distribute it. And really to believe in myself and to price it as well."
+Alexia was giving sessions at low-ticket prices — not because her work was low value, but because she hadn't shaped or packaged it. After working directly with Michael: her business moved to high-ticket. She said he helped her "shape it, promote it, understand it, distribute it. And really to believe in myself and to price it as well."
 
 Renee — a medical coach from South Africa — had spent ten years stuck on this. Ten years of not being able to define her niche. One ninety-minute session: "He was able to listen, connect the dots, think strategically and put it in words so exactly that I would not ever have been able to do that."
 
-Robin described the before-state perfectly: "I was caught in some kind of cyclone whirlwind where I was just clutching at straws and then throwing them back out there into the cyclone hoping that someone else would catch my straws." After the process: "He demystified all the information."
+Robin said it best: "I was caught in some kind of cyclone whirlwind where I was just clutching at straws and then throwing them back out there into the cyclone hoping that someone else would catch my straws." After the process: "He demystified all the information."
 
 Carly: "No gaps. I feel completely ready and organised to step 100% into my business confidently."
 
 Wendy: "Absolute clarity on who I'm serving, exactly what it is that they need and how to deliver that for them." She went from months of creative procrastination to launching her website and booking her first two sales calls ever.
 
-Six coaches. Six different niches. Same problem: they could not articulate what they sell. Same result: clarity.
+Six coaches. Six different niches. Same problem: they couldn't articulate what they sell. Same result: clarity.
 
-This is not about giving them a system. It is about extracting what is already there and making it clear enough to sell.
+This isn't about giving them a system. It is about extracting what is already there and making it clear enough to sell.
 
-The Client Ready Offer System uses 5 AI prompts to do the same extraction at scale. Your zone of genius. Your ideal client. Their pain points. Your story. A complete offer document you can use tomorrow.
+These coaches all worked directly with Michael in coaching engagements — not the $27 product. But the extraction process they went through is what the Client Ready Offer System is built on. 5 AI prompts that walk you through the same questions. Your zone of genius. Your ideal client. Their pain points. Your story. Self-guided. A complete offer document you can use tomorrow.
 
 $27. One afternoon. The offer was already in you. This gets it out.
 
@@ -274,22 +276,22 @@ Get the Client Ready Offer System — [link]
 
 ## Primary 2 — UGC/Native (Clarity Unlock)
 
-**Hook:** Here's how even experienced coaches who know their stuff but cannot explain what they sell are finally getting the words right (130 chars)
+**Hook:** I could help people get real results but every time someone asked what I do I gave a different answer until I found the problem (134 chars)
 
 ```text
-Here's how even experienced coaches who know their stuff but cannot explain what they sell are finally getting the words right
+I could help people get real results but every time someone asked what I do I gave a different answer until I found the problem
 
 The worst part about being stuck is knowing you are good at what you do and not being able to say it clearly.
 
 I had this problem. I could help people. I could get results. But every time someone asked what I do, I gave a different answer. Too long. Too vague. Not compelling enough to make anyone say "tell me more."
 
-The content did not work because the offer underneath it was unclear. The landing page did not convert because the positioning was muddled. The sales conversations went nowhere because I could not articulate the transformation in one sentence.
+The content didn't work because the offer underneath it was unclear. The landing page didn't convert because the positioning was muddled. The sales conversations went nowhere because I couldn't articulate the transformation in one sentence.
 
-It was not a knowledge problem. It was a translation problem.
+It wasn't a knowledge problem. It was a translation problem.
 
-When I finally went through the extraction process — pulling out the zone of genius, mapping the ideal client, naming the actual pain points — the words appeared. Not new words. My words. The ones that were always there but I could not see because I was too close.
+When I finally went through the extraction process — pulling out the zone of genius, mapping the ideal client, naming the actual pain points — the words appeared. Not new words. My words. The ones that were always there but I couldn't see because I was too close.
 
-Robin called it "demystified." Wendy called it "absolute clarity." Nicole called it "transformative." They are all describing the same moment — when the confusion lifted and they could see what to build.
+Robin called it "demystified." Wendy called it "absolute clarity." Nicole said it gave her "complete clarity." They are all describing the same moment — when the confusion lifted and they could see what to build.
 
 The Client Ready Offer System walks you through 5 AI prompts that force this extraction. Zone of genius. Ideal client. Pain points. Story. Complete offer document.
 
@@ -302,18 +304,18 @@ Get the Client Ready Offer System — [link]
 
 ## Primary 3 — Direct Response (Clarity Unlock)
 
-**Hook:** This system eliminates the blank page problem offer confusion and months of circling without courses coaching calls or agencies (134 chars)
+**Hook:** The reason coaches can't explain what they sell has nothing to do with knowledge it is an articulation problem with a simple fix (134 chars)
 
 ```text
-This system eliminates the blank page problem offer confusion and months of circling without courses coaching calls or agencies
+The reason coaches can't explain what they sell has nothing to do with knowledge it is an articulation problem with a simple fix
 
-The bottleneck for most coaches is not skills. It is not motivation. It is not marketing knowledge.
+The bottleneck for most coaches isn't skills. It isn't motivation. It isn't marketing knowledge.
 
 It is articulation.
 
 They know what they are good at. They cannot explain it in a way that makes someone want to buy.
 
-Six out of six coaches who went through this process described the same transformation: confusion to clarity.
+Coaches who've gone through this process keep describing the same transformation: confusion to clarity.
 
 What the Client Ready Offer System does:
 
@@ -326,8 +328,8 @@ What the Client Ready Offer System does:
 What it replaces:
 
 — Months of staring at a blank page trying to "figure out your niche"
-— $3K-$5K branding agencies that take weeks to deliver what you can extract in an afternoon
-— $997+ courses that teach frameworks without doing the extraction
+— Branding agencies that charge thousands that take weeks to deliver what you can extract in an afternoon
+— Expensive courses that teach frameworks without doing the extraction
 — The spiral of consuming more content and feeling more confused
 
 Results from real coaches:
@@ -339,7 +341,7 @@ Results from real coaches:
 — Carly: "No gaps. Completely ready."
 — Robin: "Demystified all the information."
 
-Individual experiences. Not guaranteed outcomes. But the pattern is consistent: the offer was already there. It needed to be extracted.
+Individual experiences from personalized coaching. The $27 Client Ready Offer System is self-guided. Results depend on your effort and niche.
 
 $27. One afternoon. Before the funnel. Before the ads. Get the offer clear.
 
@@ -350,12 +352,12 @@ Get the Client Ready Offer System — [link]
 
 ## Primary 4 — Pattern Interrupt (Clarity Unlock)
 
-**Hook:** Six coaches six different niches same problem they could not explain what they sell same fix one conversation and the clarity appeared (135 chars)
+**Hook:** Six coaches six different niches same problem they couldn't explain what they sell same fix one conversation and the clarity appeared (135 chars)
 
 ```text
-Six coaches six different niches same problem they could not explain what they sell same fix one conversation and the clarity appeared
+Six coaches six different niches same problem they couldn't explain what they sell same fix one conversation and the clarity appeared
 
-The offer was already inside them. They just could not see it.
+The offer was already inside them. They just couldn't see it. One coach was stuck for 10 years. The extraction took 90 minutes.
 
 5 AI prompts. One afternoon. $27.
 
@@ -373,7 +375,7 @@ How one coach who spent months frozen in creative procrastination launched her w
 
 Wendy Wild coaches artists and creative entrepreneurs. She had the expertise. She had the passion. She had been on the brink of launching for months.
 
-But she could not get started.
+But she couldn't get started.
 
 "I was just feeling stuck, full of fear and doubt and frankly engaging in a whole bunch of very creative procrastination techniques."
 
@@ -383,21 +385,23 @@ Then she went through the extraction process.
 
 "He took me from just feeling stuck to absolute clarity on who I'm serving, exactly what it is that they need and how to deliver that for them."
 
-What happened next surprised even her.
+Here's what happened.
 
-"That has been incredible because it's taken me to finally launching my website and booking my first two sales calls ever in just a few weeks. And these clients are actually asking to pay me."
+"It's taken me to finally launching my website and booking my first two sales calls ever in just a few weeks. And these clients are actually asking to pay me."
+
+Wendy worked directly with Michael in a coaching engagement — not the $27 product. But the extraction process is the same.
 
 Clients asking to pay her. Not Wendy chasing. Not Wendy pitching. Clients coming to her — because the offer was finally clear enough that people understood what she does and wanted it.
 
 "His processes just made answering all the questions that have been swirling around my head so easy to answer and then easy to action."
 
-Wendy is not an edge case. Renee was stuck for ten years — solved in ninety minutes. Robin described going from a "cyclone whirlwind" to demystified clarity. Nicole went from broad to high-ticket. Carly went from scattered to "completely ready."
+Wendy isn't an edge case. Renee was stuck for ten years — solved in ninety minutes. Robin described going from a "cyclone whirlwind" to demystified clarity. Nicole went from broad to high-ticket. Carly went from scattered to "completely ready."
 
 The pattern is the same every time. The expertise was already there. The offer was already there. It needed someone — or something — to extract it.
 
-The Client Ready Offer System uses 5 AI prompts to do that extraction. Zone of genius. Ideal client. Pain points. Story. Complete offer document.
+Wendy and these coaches all worked directly with Michael — not the $27 product. But the extraction process they went through is what the Client Ready Offer System is built on. 5 AI prompts that walk you through the same questions. Zone of genius. Ideal client. Pain points. Story. Self-guided. Complete offer document at the end.
 
-$27. One afternoon. The clarity Wendy found is the same clarity waiting inside your expertise.
+$27. One afternoon. The clarity is waiting inside your expertise. This gets it out.
 
 Get the Client Ready Offer System — [link]
 ```
@@ -408,7 +412,7 @@ Get the Client Ready Offer System — [link]
 
 **Headline 1 — Proof-led**
 ```text
-6 Coaches. 6 Niches. All 6 Had the Same Hidden Problem.
+Coaches From 6 Different Niches Had the Same Hidden Problem
 ```
 
 **Headline 2 — Mechanism-led**
@@ -428,5 +432,5 @@ The Reason Most Coaches Cannot Explain What They Sell
 
 **Headline 5 — Benefit-led**
 ```text
-Stop Circling. Start Selling. Get Offer Clarity for $27.
+Stop Circling. Start Building. Get Offer Clarity This Afternoon.
 ```
