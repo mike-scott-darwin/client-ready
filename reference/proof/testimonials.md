@@ -60,6 +60,30 @@ updated: 2026-02-10
 
 ---
 
+### Alexia — Singer, Vocal & Expression Coach
+
+**Before:** Giving sessions at low-ticket level, underpricing her work, hadn't shaped or packaged her high-ticket offer
+
+**After:** Business running at high-ticket level, getting paid for high-ticket services, offer shaped, promoted, and distributed
+
+**Quote:**
+> "Before I met Michael, I was giving sessions and it was like in a low ticket level. And soon I realized that what I'm doing is much more transformative and life-changing. So then I created a high ticket product and I shaped my services in a whole other way."
+
+> "He helped me so much to shape it, to promote it, to understand it, to distribute it. And really to believe in myself and to price it as well. So now the last months my business is running in a high ticket level."
+
+> "All this combination of professionality and human element is what I really needed to break through, to make this breakthrough in my life and to really take my business into a whole other level."
+
+**Specifics:**
+- Low-ticket → high-ticket services (pricing transformation)
+- Offer shaped, promoted, and distributed with Michael's help
+- Gained pricing confidence ("really to believe in myself and to price it")
+- Credits the combination of professionalism + human element
+
+**Source:** VideoPeel video testimonial
+**Date:** 2026-02-10
+
+---
+
 ### Template
 
 ```markdown
@@ -95,6 +119,8 @@ Use these in ad copy and landing pages:
 | 72 hours to new customers | Landing page claim | Speed proof |
 | Nicole: broad → high-ticket 1-on-1 | Video testimonial | Clarity transformation |
 | Nicole: 14 weeks, found purpose | Video testimonial | Depth of engagement |
+| Alexia: low-ticket → high-ticket | Video testimonial | Pricing transformation |
+| Alexia: shaped, promoted, distributed | Video testimonial | Full-service proof |
 
 ---
 
