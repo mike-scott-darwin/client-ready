@@ -160,6 +160,31 @@ updated: 2026-02-10
 
 ---
 
+### Wendy Wild — Coach for Artists & Creative Entrepreneurs
+
+**Before:** On the brink of launching for months, stuck, full of fear and doubt, "creative procrastination," analysis paralysis, questions swirling with no answers
+
+**After:** Absolute clarity on who she serves and what they need, launched website, booked first two sales calls ever in just a few weeks, clients asking to pay her
+
+**Quote:**
+> "He took me from just feeling stuck, full of fear and doubt and frankly engaging in a whole bunch of very creative procrastination techniques to absolute clarity on who I'm serving, exactly what it is that they need and how to deliver that for them."
+
+> "That has been incredible because it's taken me to finally launching my website and booking my first two sales calls ever in just a few weeks. And these clients are actually asking to pay me."
+
+> "His processes just made answering all the questions that have been swirling around my head so easy to answer and then easy to action."
+
+**Specifics:**
+- Months stuck pre-launch → launched website in weeks
+- First two sales calls ever booked
+- Clients asking to pay her (inbound interest)
+- Pragmatic, thorough processes that cut through analysis paralysis
+- Step-by-step: questions became easy to answer and action
+
+**Source:** VideoPeel video testimonial
+**Date:** 2026-02-10
+
+---
+
 ### Template
 
 ```markdown
@@ -204,6 +229,9 @@ Use these in ad copy and landing pages:
 | Carly: available "at any hour" | Video testimonial | Coach accessibility / support |
 | Robin: "demystified all the information" | Video testimonial | Clarity / simplicity proof |
 | Robin: structure for ADHD mind | Video testimonial | Accessibility / no-jargon proof |
+| Wendy: months stuck → launched + first sales calls | Video testimonial | Speed / launch proof |
+| Wendy: "clients asking to pay me" | Video testimonial | Inbound demand proof |
+| Wendy: "creative procrastination" → clarity | Video testimonial | Overcoming fear / action proof |
 
 ---
 
