@@ -2,7 +2,7 @@
 type: reference
 status: active
 date: 2026-02-01
-updated_from: 2026-01-19
+updated_from: 2026-02-10
 ---
 
 # Proven Messaging Angles
@@ -14,6 +14,8 @@ New angles developed from competitor analysis — see individual files for full 
 1. **[Before the Funnel](before-the-funnel.md)** — Cold traffic positioning against competitors
 2. **[Misalignment](misalignment.md)** — Trust-building, unique story only Michael can tell
 3. **[Content Merry-Go-Round](content-merry-go-round.md)** — Specific pain point, paid traffic as alternative
+
+4. **[Clarity Unlock](clarity-unlock.md)** — Testimonial-proven transformation (6/6 clients), earliest-stage entry point
 
 Decision rationale: `decisions/2026-02-01-angle-prioritization.md`
 

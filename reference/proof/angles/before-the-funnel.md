@@ -54,6 +54,23 @@ use_for: cold traffic, positioning
 | Content hooks | Pattern interrupt |
 | Objection handling | "Do you even have an offer yet?" |
 
+## Testimonial Evidence
+
+Every client came in with the same root problem — the offer was unclear. Not the funnel, not the marketing, not the content.
+
+| Client | Their "Before the Funnel" Problem |
+|--------|-----------------------------------|
+| **Nicole** | Creating programs "for women" — broad, no clear offer or ideal client |
+| **Alexia** | Giving sessions at low-ticket, hadn't shaped or packaged a real offer |
+| **Renee** | 10 years couldn't define niche — couldn't build anything without that foundation |
+| **Carly** | Unclear how to utilize skills for maximum impact — no structured offer |
+| **Robin** | Throwing content randomly — no clear offer underneath the marketing |
+| **Wendy** | Months on the brink of launching — couldn't articulate who she serves or what they need |
+
+**Strongest quotable:** Renee — "I have struggled with this for 10 years and Michael helped me with that in an hour and a half session."
+
+---
+
 ## Competitors This Beats
 
 | Competitor | Their Assumption | Your Counter |

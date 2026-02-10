@@ -62,6 +62,20 @@ The insight: **You can't grow into pain.** If it hurts at $5K/month, it'll hurt 
 | Retargeting | For people who didn't buy first time |
 | Email sequences | Day 2-3 trust building |
 
+## Testimonial Evidence
+
+| Client | Misalignment → Alignment Pattern |
+|--------|----------------------------------|
+| **Nicole** | Found purpose: "I actually really realize what I'm here to do now" — went from broad programs to something she's connected to |
+| **Carly** | "A program that I feel aligned with and that I have complete confidence is going to help my clients" — alignment as the outcome, not just revenue |
+| **Alexia** | Realized "what I'm doing is much more transformative and life-changing" — the misalignment was undervaluing herself |
+
+**Strongest quotable:** Carly — "Michael helped me create a program that I feel aligned with and that I have complete confidence is going to help my clients achieve the results that they're looking for."
+
+**Note:** These testimonials validate the angle's core premise — the transformation isn't just "make money," it's "build something you believe in." Nicole found purpose, Carly found alignment, Alexia found self-worth. The Dissociation Trap angle (related) addresses the deeper version of this for experienced coaches.
+
+---
+
 ## Who This Resonates With
 
 - Coaches who've tried offers that "worked" but felt wrong

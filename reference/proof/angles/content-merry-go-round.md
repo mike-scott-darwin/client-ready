@@ -75,6 +75,19 @@ They've been told: "Post consistently and the clients will come." So they:
 | Grow audience, then sell | Sell first, grow audience from buyers |
 | Organic reach declining | Paid traffic scales |
 
+## Testimonial Evidence
+
+| Client | Content Merry-Go-Round Pattern |
+|--------|-------------------------------|
+| **Robin** | "Caught in some kind of cyclone whirlwind... just clutching at straws and then throwing them back out there" — exact content-without-strategy pain |
+| **Wendy** | Months of "creative procrastination" — on the brink of launching but stuck in the cycle |
+
+**Strongest quotable:** Robin — "I was just clutching at straws and then throwing them back out there into the cyclone hoping that someone else would catch my straws."
+
+**Note:** Robin and Wendy are the direct matches. The other 4 clients had the *precursor* problem — they hadn't even gotten to the content stage because the offer wasn't clear. This reinforces the angle's thesis: content without a clear offer is just noise.
+
+---
+
 ## Who This Resonates With
 
 - Coaches posting 3-5x per week with no sales

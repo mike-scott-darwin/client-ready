@@ -249,6 +249,7 @@ Ask clients/members:
 ## Priority Gaps
 
 - [x] Video testimonial (Nicole — breathwork coach, clarity transformation)
-- [ ] Collect 2-4 more client outcome testimonials (specific results — revenue, clients landed)
+- [x] Collect 2-4 more client outcome testimonials — 6 video testimonials now codified (Nicole, Alexia, Renee, Carly, Robin, Wendy)
 - [ ] Get screenshot proof of client wins (DMs, sales notifications)
 - [ ] Video testimonial for Ad 4 (Imposter) angle
+- [ ] Collect revenue-specific outcomes (dollar figures, client counts) for stronger FTC-defensible proof
