@@ -109,6 +109,32 @@ updated: 2026-02-10
 
 ---
 
+### Carly — Life Coach (Toxic Relationship Recovery)
+
+**Before:** Unclear on how to utilize existing experience and skill set to create maximum impact for clients, no business systems or processes in place
+
+**After:** Aligned program she has complete confidence in, all business management systems and processes set up, clear direction on who she serves, feels "completely ready and organised to step 100% into my business confidently"
+
+**Quote:**
+> "Michael helped me create a program that I feel aligned with and that I have complete confidence is going to help my clients achieve the results that they're looking for."
+
+> "There's no gaps. I feel completely ready and organised to step 100% into my business confidently."
+
+> "He's literally helped me with everything. He's helped me with it all."
+
+**Specifics:**
+- Program creation: aligned offer she believes in 100%
+- Full business setup: systems, processes, back-office operations
+- Ideal client clarity: clear on who she serves and where she's headed
+- Available and responsive: "I could reach out to Michael at any hour of the day and he would be there for me immediately"
+- Sales and marketing expertise: "cuts through a lot of the bullshit"
+
+**Source:** VideoPeel video testimonial
+**Date:** 2026-02-10
+**Location:** Darwin, Australia
+
+---
+
 ### Template
 
 ```markdown
@@ -148,6 +174,9 @@ Use these in ad copy and landing pages:
 | Alexia: shaped, promoted, distributed | Video testimonial | Full-service proof |
 | Renee: 10 years stuck → solved in 1.5 hrs | Video testimonial | Speed of clarity |
 | Renee: "don't wait 10 years" | Video testimonial | Urgency / cost of inaction |
+| Carly: "no gaps, completely ready" | Video testimonial | Completeness / confidence proof |
+| Carly: "helped me with everything" | Video testimonial | Full-service proof |
+| Carly: available "at any hour" | Video testimonial | Coach accessibility / support |
 
 ---
 
