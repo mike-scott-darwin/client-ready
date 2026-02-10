@@ -3,7 +3,8 @@ type: research
 date: 2026-02-10
 source: mining
 topics: [email copy, competitor analysis, Miles Stutz, Digital Snacks, launch sequence]
-linked_decisions: []
+linked_decisions:
+  - 2026-02-10-ad-creative-structure
 status: complete
 ---
 
