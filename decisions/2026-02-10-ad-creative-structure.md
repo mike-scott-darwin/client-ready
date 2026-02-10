@@ -1,7 +1,7 @@
 ---
 type: decision
 date: 2026-02-10
-status: accepted
+status: codified
 urgency: high
 ---
 

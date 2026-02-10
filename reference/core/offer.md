@@ -20,6 +20,14 @@ linked_decisions:
 
 ## The Transformation
 
+**The arc: Confused → Clear → Converting.**
+
+- **Confused:** Have expertise but no clear offer. Different answer every time someone asks "what do you do?"
+- **Clear:** Know exactly what you sell and who it's for. One sentence. No hesitation.
+- **Converting:** Offer sells itself. Clients find you, understand the offer, and buy — without a conversation.
+
+"Client Ready" is the bridge from Clear to Converting. You become client ready when your offer is clear enough to sell without explanation.
+
 **From:** Stuck in the search — trying offers that don't fit, grinding on content that doesn't convert, wondering if you're cut out for this
 
 **To:** An aligned offer you won't abandon, a system that runs without constant hustle, a business built around your life

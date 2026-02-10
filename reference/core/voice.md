@@ -49,6 +49,8 @@ Michael sounds like a smart friend who's figured something out and is explaining
 - "Nobody is coming to save you."
 - "Show what you teach and teach what you show."
 - "The Coach Who Won't Tell You to Quit Your 9-to-5"
+- "From confused to converting."
+- "Confused → Clear → Converting."
 
 ### Transition Phrases
 - Opening: "Here's the truth:" / "Here's what most coaches get wrong:"
@@ -121,6 +123,17 @@ Example:
 > "Comment OFFER and I'll send you the 5 AI prompts that extract your zone of genius."
 
 Note: This drives comments + DM conversations. Use sparingly but effectively for lead gen posts.
+
+**Pattern 9: Outcome Visualization (No Income Claims)**
+> Paint the *feeling* of the "Converting" stage — automation, freedom, clarity — without dollar amounts. Show what their day looks like after, not what their bank account looks like.
+
+Examples:
+> "Wake up to a client who found you, understood your offer, and paid — without a single DM."
+> "Someone reads your landing page at 2am, sees exactly what you do, and buys before you wake up."
+> "Stop explaining what you do. Start having people say 'I need this' before you finish your sentence."
+> "Your offer does the selling. You do the coaching."
+
+**Why not income claims:** Cat Howell uses specific revenue ("$3,500/day," "$96K in low-ticket sales") because she has years of documented results. Client Ready doesn't have that data yet, and FTC risk is high for a $27 self-guided product. Outcome visualization hits the same desire triggers — automation, freedom, "I figured it out" — through experience, not dollars.
 
 ---
 

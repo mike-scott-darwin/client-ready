@@ -3,7 +3,8 @@ type: research
 date: 2026-02-10
 source: mining
 topics: [competitor-analysis, ad-copy, meta-ads, cat-howell]
-linked_decisions: []
+linked_decisions:
+  - 2026-02-10-brand-metaphor-confused-clear-converting
 status: complete
 ---
 
@@ -104,8 +105,8 @@ status: complete
 - FTC disclaimers build trust with the exact audience burned by guru promises. Keep them.
 - Don't add income claims without real revenue data. Cat's approach works for her because she has years of documented results. Client Ready doesn't have that yet.
 
-## Open Questions
+## Open Questions (Resolved)
 
-- What metaphor captures "offer extraction → clarity → business that sells itself"?
-- Should short-form variations be a separate batch or added to existing Batch 002?
-- Is there a way to create "Stripe notification" equivalent desire without income claims?
+- ~~What metaphor captures "offer extraction → clarity → business that sells itself"?~~ → "Confused → Clear → Converting" (see decision: `2026-02-10-brand-metaphor-confused-clear-converting.md`)
+- ~~Should short-form variations be a separate batch or added to existing Batch 002?~~ → Include as compressed versions in next `/ads` batch (production note, not separate decision)
+- ~~Is there a way to create "Stripe notification" equivalent desire without income claims?~~ → Outcome visualization pattern added to `voice.md` Pattern 9
