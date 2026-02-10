@@ -3,7 +3,7 @@ type: output
 subtype: static-ads
 date: 2026-02-10
 status: draft
-review_status: null
+review_status: REVIEW REQUIRED (P1: typicality data missing — see review-log.md)
 offer: client-ready
 campaign: static-ads-batch-003
 special_ad_category: none
@@ -98,7 +98,7 @@ Brand arc: Most coaches are stuck at **Confused**. This angle moves them to **Cl
 ```text
 How coaches with beautiful funnels and zero sales are finally discovering the problem was never the funnel
 
-Here is the pattern I see every single week.
+Here's the pattern I see every single week.
 
 A coach invests $2K-$5K in a funnel. Maybe hires a designer. Gets a landing page built. Email sequences written. Checkout page optimized. Everything looks professional.
 
@@ -114,11 +114,11 @@ They think the machine is broken. But the machine is fine. The thing they put in
 
 I know this because I lived it. Six months building a course nobody bought. The funnel was technically perfect. The offer was a mess — too vague, too broad, solving a problem I assumed existed instead of one I validated.
 
-Here is what changed everything: I stopped building infrastructure and started testing the offer.
+Here's what changed everything: I stopped building infrastructure and started testing the offer.
 
 Renee is a medical coach who spent 10 years trying to define her niche market. Ten years. She couldn't build products, couldn't write marketing, couldn't move forward — because the foundation didn't exist. She worked directly with Michael through coaching (not the $27 product), and in one session that clarity locked in. She said: "I have struggled with this for 10 years and Michael helped me with that in an hour and a half session."
 
-That is the "Before the Funnel" problem. You can't build on a foundation that doesn't exist.
+That's the "Before the Funnel" problem. You can't build on a foundation that doesn't exist.
 
 The Client Ready Offer System is the $27 starting point. Five AI prompts that extract what you actually do well and turn it into an offer document you can test — before spending anything on funnels, ads, or infrastructure.
 
@@ -136,21 +136,21 @@ Link below.
 ### P1 Short-Form (Compressed)
 
 ```text
-She spent $4K on a funnel. Beautiful landing page. Email sequences. The works.
+Beautiful funnel. Landing page. Email sequences. The works.
 Zero sales.
-The funnel wasn't broken. The offer was.
-$27 fixes that before you build anything.
-Link below.
+The funnel wasn't the problem. The offer was.
+$27 to fix the offer before you build anything.
+Grab it here ↓
 ```
 
 ---
 
 ## P2 — UGC/Native (Before the Funnel) `PROBLEM AWARE`
 
-**Hook:** Here is what nobody told me before I spent six months building a course that nobody bought (124 chars)
+**Hook:** I spent six months building a course nobody bought and the problem was never the funnel (96 chars)
 
 ```text
-Here is what nobody told me before I spent six months building a course that nobody bought
+I spent six months building a course nobody bought and the problem was never the funnel
 
 I did everything the gurus said.
 
@@ -174,7 +174,7 @@ It's self-guided. $27. Takes an afternoon. No funnel required — just the offer
 
 Because here's the thing nobody told me: the funnel was never the problem. The offer was.
 
-Link below.
+Grab it here ↓
 ```
 
 ### P2 Short-Form (Compressed)
@@ -191,10 +191,10 @@ $27 to fix the offer before you build anything.
 
 ## P3 — Direct Response (Before the Funnel) `SOLUTION AWARE`
 
-**Hook:** This eliminates vague offers unclear positioning and months of guessing whether anyone will pay for $27 (123 chars)
+**Hook:** This eliminates vague offers, unclear positioning, and months of guessing whether anyone will pay — for $27 (116 chars)
 
 ```text
-This eliminates vague offers unclear positioning and months of guessing whether anyone will pay for $27
+This eliminates vague offers, unclear positioning, and months of guessing whether anyone will pay — for $27
 
 If you're comparing options for getting your coaching offer clear, here's what the Client Ready Offer System does differently:
 
@@ -202,7 +202,7 @@ Most programs teach you funnels, ads, content — and assume you already have an
 
 What you get:
 
-→ 5 AI prompts that extract your zone of genius into a specific, testable offer
+→ 5 AI prompts that extract your core expertise into a specific, testable offer
 → Step-by-step guide from Confused to Clear (no jargon, no 47-page PDF)
 → Complete offer document template with filled example
 → Validation framework — know if it works before spending on infrastructure
@@ -224,17 +224,17 @@ $27. No subscription. No upsell required to get value.
 
 If you're past the "should I do this?" stage and comparing what to use — this is the offer extraction step that comes before everything else.
 
-Link below.
+$27 — grab it here ↓
 ```
 
 ### P3 Short-Form (Compressed)
 
 ```text
 Vague offer? Different answer every time someone asks what you sell?
-5 AI prompts extract your zone of genius into one clear offer.
+5 AI prompts extract what you actually do well into one clear offer.
 One afternoon. $27. No funnel required.
 150+ coaches. 4.7/5 rating.
-Link below.
+Grab it here ↓
 ```
 
 ---
@@ -246,9 +246,7 @@ Link below.
 ```text
 Everyone sells funnels and nobody asks the obvious question first
 
-Do you have an offer worth building a funnel for?
-
-Most coaches skip this step. They build funnels for offers they haven't validated. Spend thousands on infrastructure for something nobody wants to buy.
+Most coaches never ask that question. They skip straight to building. They build funnels for offers they haven't validated. Spend thousands on infrastructure for something nobody wants to buy.
 
 Wrong order.
 
@@ -314,7 +312,7 @@ Link below.
 6 coaches. 6 niches. Same problem.
 It was never the funnel. Never the content. Never the ads.
 The offer was unclear.
-Same framework. $27. Self-guided.
+Coaching results — same framework, $27 self-guided.
 Link below.
 ```
 
@@ -323,7 +321,9 @@ Link below.
 ## HEADLINES — Before the Funnel (5)
 
 **H1 — Proof-Led:**
-10 Years Stuck on Her Niche — Clear in 90 Minutes (coaching result — same framework, $27 self-guided)
+10 Years Stuck on Her Niche — Clear in 90 Minutes*
+
+*Coaching result. The $27 system uses the same extraction framework, self-guided.
 
 **H2 — Mechanism-Led:**
 5 AI Prompts Extract Your Offer in One Afternoon — Before You Build Anything
@@ -353,13 +353,13 @@ Brand arc: Every coach has the expertise. The problem is **extraction** — gett
 ```text
 Every coach who came to me had the same problem and it had nothing to do with marketing funnels or content
 
-Here is what I have noticed after working with dozens of coaches:
+Here's what I've noticed after working with dozens of coaches:
 
 They don't need more frameworks. They don't need another course. They don't need a better content strategy or a new platform or a different ad creative.
 
 They need to be able to explain what they do. In one sentence. Without hesitating.
 
-That sounds simple. It is not.
+That sounds simple. It's not.
 
 Most coaches have real expertise. They've helped real people. They get genuine results. But when someone asks "what do you do?" the answer is different every time.
 
@@ -373,13 +373,13 @@ Wendy — a coach for artists and creative entrepreneurs — was stuck for month
 
 Same pattern every time. The expertise was there. The clarity was missing.
 
-Here is what I learned: you don't need more information. You need extraction. Someone (or something) that pulls what is already inside you and puts it into words clear enough to sell.
+Here's what I learned: you don't need more information. You need extraction. Someone (or something) that pulls what's already inside you and puts it into words clear enough to sell.
 
-That is what the Client Ready Offer System does. Five AI prompts that extract your zone of genius — the thing you do that nobody else does — and turn it into a single, specific offer document.
+That's what the Client Ready Offer System does. Five AI prompts that extract your zone of genius — the thing you do that nobody else does — and turn it into a single, specific offer document.
 
-It is self-guided. $27. Takes an afternoon. Your results depend on your effort and your market.
+It's self-guided. $27. Takes an afternoon. Your results depend on your effort and your market.
 
-But the shift — from Confused to Clear — that is what changes everything downstream. Because once someone can explain what they do in one sentence, the content writes itself. The funnel makes sense. The ads have something real to say.
+But the shift — from Confused to Clear — that's what changes everything downstream. Because once someone can explain what they do in one sentence, the content writes itself. The funnel makes sense. The ads have something real to say.
 
 Wake up knowing exactly what you sell. Stop explaining. Start having people say "I need this."
 
@@ -400,10 +400,10 @@ Link below.
 
 ## P2 — UGC/Native (Clarity Unlock) `PROBLEM AWARE`
 
-**Hook:** Here is the thing I wish someone told me when I couldn't explain what I sold to save my life (123 chars)
+**Hook:** Here's the thing I wish someone told me when I couldn't explain what I sold to save my life (102 chars)
 
 ```text
-Here is the thing I wish someone told me when I couldn't explain what I sold to save my life
+Here's the thing I wish someone told me when I couldn't explain what I sold to save my life
 
 For years, I was the coach who couldn't answer "what do you do?"
 
@@ -413,19 +413,19 @@ I tried fixing it with marketing. More posts. Better content. A new website. A d
 
 The problem was that the offer was trapped in my head. It made sense to ME. It sounded like word salad to everyone else.
 
-I was Confused. And I was trying to market my way out of it. You cannot market your way out of confusion.
+I was Confused. And I was trying to market my way out of it. You can't market your way out of confusion.
 
 What changed: I stopped adding things and started extracting. Instead of building more, I stripped it down. What do I actually do? Who specifically benefits? What exact problem do I solve? What does the result look like?
 
 When those answers got clear, everything else got easy. The content wrote itself. The landing page made sense. People started saying "I need this" instead of "so... what exactly do you do?"
 
-That is the Confused → Clear shift. And the Client Ready system is how I bottled it.
+That's the Confused → Clear shift. And the Client Ready system is how I bottled it.
 
 Five AI prompts. One afternoon. Self-guided. $27.
 
-It will not build your funnel. It will not run your ads. But it will give you the one thing that makes all of that actually work: a clear offer.
+It won't build your funnel. It won't run your ads. But it'll give you the one thing that makes all of that actually work: a clear offer.
 
-Link below.
+Grab it here ↓
 ```
 
 ### P2 Short-Form (Compressed)
@@ -446,9 +446,9 @@ That's the problem. Not the funnel. Not the ads. Not the content.
 ```text
 This turns years of coaching expertise into one clear offer document you can test this afternoon for $27
 
-If you have real expertise but cannot explain what you sell in one sentence — this is the step you are missing.
+If you have real expertise but can't explain what you sell in one sentence — this is the step you're missing.
 
-The Client Ready Offer System extracts what is already inside you:
+The Client Ready Offer System extracts what's already inside you:
 
 → Your zone of genius (the specific thing you do better than anyone)
 → Your ideal client (not demographics — real people with real problems)
@@ -467,13 +467,13 @@ This system handles the Confused → Clear step. One afternoon. Self-guided.
 
 150+ coaches. 4.7/5 rating.
 
-Results vary. This is a self-guided product — your outcomes depend on your expertise, your effort, and your market. But the extraction framework is proven.
+Results vary. This is a self-guided product — your outcomes depend on your expertise, your effort, and your market. But the extraction framework has been tested with real coaching clients.
 
 Your offer does the selling. You do the coaching. It starts here.
 
 $27. No subscription. Full system.
 
-Link below.
+$27 — grab it here ↓
 ```
 
 ### P3 Short-Form (Compressed)
@@ -483,7 +483,7 @@ Real expertise. Can't explain what you sell.
 5 AI prompts extract your offer in one afternoon.
 Stop staring at blank pages. Start with clarity.
 $27. Self-guided. 150+ coaches.
-Link below.
+Grab it here ↓
 ```
 
 ---
@@ -503,7 +503,7 @@ They had the expertise. They had the results. They had helped real people.
 
 They just couldn't put it into words clear enough to sell.
 
-Confused → Clear. That is the shift. And it takes an afternoon, not a year.
+Confused → Clear. That's the shift. And it takes an afternoon, not a year.
 
 $27 self-guided extraction system. The offer is already in you.
 ```
@@ -553,8 +553,8 @@ Link below.
 Renee: 10 years stuck. Clear in 90 minutes.
 Wendy: months paralyzed. First sales calls in weeks.
 Robin: information overload. Simple strategies that work.
-Same framework. $27. Self-guided.
-Link below.
+Coaching results — same framework, $27 self-guided.
+Grab it here ↓
 ```
 
 ---
@@ -562,7 +562,9 @@ Link below.
 ## HEADLINES — Clarity Unlock (5)
 
 **H1 — Proof-Led:**
-6 Coaches. 6 Niches. Same Problem — They Couldn't Explain What They Sell. (coaching results — same framework, $27 self-guided)
+6 Coaches. 6 Niches. Same Problem — They Couldn't Explain What They Sell.*
+
+*Coaching results. The $27 system uses the same extraction framework, self-guided.
 
 **H2 — Mechanism-Led:**
 5 AI Prompts Extract the Offer That's Already Inside You — In One Afternoon
@@ -613,6 +615,12 @@ Every testimonial reference includes:
 - "worked directly with Michael through coaching (not the $27 product)"
 - "self-guided — your results depend on your effort and your market"
 - Clear separation between coaching outcomes and product promise
+
+## Social Proof Claims
+
+- **"150+ coaches"** — Verify against Stripe/GHL purchase count before running. Update number if higher.
+- **"4.7/5 rating"** — Source needed. If from Skool reviews, document. If not yet collected, remove from ads until verifiable.
+- Both claims appear in BtF P3, BtF P3 Short-Form, CU P3, and CU P3 Short-Form.
 
 ## Mix-and-Match Guide
 
