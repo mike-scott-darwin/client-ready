@@ -135,6 +135,31 @@ updated: 2026-02-10
 
 ---
 
+### Robin — Peak Performance Coach (Personal Development)
+
+**Before:** Stuck on marketing, throwing content out randomly hoping it would stick, overwhelmed by information overload, no structure, ADHD "cyclonic mind" making it harder to focus
+
+**After:** Tangible tools, clear structure, demystified marketing, knows how to implement simple and effective strategies
+
+**Quote:**
+> "I was caught in some kind of cyclone whirlwind where I was just clutching at straws and then throwing them back out there into the cyclone hoping that someone else would catch my straws."
+
+> "He demystified all the information that I'd been trying to get my head around for so long and he showed me really clearly how to implement the simple and effective strategies that he teaches."
+
+> "He gave me structure in a way that I actually understand and he didn't throw jargon at me and expect that I would just know what he was talking about."
+
+**Specifics:**
+- Marketing clarity: from random content to structured approach
+- ADHD-friendly: gave structure without jargon
+- Demystified marketing: made complex information simple and actionable
+- Simple strategies: tangible tools she could actually implement
+
+**Source:** VideoPeel video testimonial
+**Date:** 2026-02-10
+**Location:** Wheatbelt, Western Australia
+
+---
+
 ### Template
 
 ```markdown
@@ -177,6 +202,8 @@ Use these in ad copy and landing pages:
 | Carly: "no gaps, completely ready" | Video testimonial | Completeness / confidence proof |
 | Carly: "helped me with everything" | Video testimonial | Full-service proof |
 | Carly: available "at any hour" | Video testimonial | Coach accessibility / support |
+| Robin: "demystified all the information" | Video testimonial | Clarity / simplicity proof |
+| Robin: structure for ADHD mind | Video testimonial | Accessibility / no-jargon proof |
 
 ---
 
