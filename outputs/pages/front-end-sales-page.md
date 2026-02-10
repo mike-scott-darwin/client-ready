@@ -33,15 +33,15 @@ changes: Removed No-Phone Offer framing throughout. Aligned to Client Ready Offe
 
 ### Pre-headline
 
-> STOP BEING "I HELP EVERYONE WITH EVERYTHING." BECOME "I'M THE ONLY CHOICE."
+> EVERY COACH HAS THE EXPERTISE. MOST CAN'T EXPLAIN WHAT THEY SELL.
 
 ### Headline
 
-> EXTRACT YOUR ZONE OF GENIUS INTO ONE CLIENT READY OFFER — IN ONE AFTERNOON
+> CONFUSED TO CLARITY TO CASH. THE $27 SYSTEM THAT TAKES CARE OF THE FIRST TWO.
 
 ### Sub-headline
 
-> The exact system I used to go from "I help everyone with everything" to "I'm the only choice" — in one afternoon. Case study + 5 AI prompts + step-by-step guide.
+> 5 AI prompts extract the offer that's already inside you — so clear that people say yes before you finish your sentence. Case study + step-by-step guide + complete offer document template.
 
 ### CTA Button
 
@@ -448,10 +448,10 @@ INCLUDED FREE
 ### Updated Popup Copy
 
 **Headline:**
-> Extract Your Zone Of Genius Into One Client Ready Offer
+> Confused to Clarity to Cash. The $27 System That Takes Care of the First Two.
 
 **Sub-headline:**
-> The exact system to turn your expertise into an offer so clear it sells itself.
+> 5 AI prompts extract your offer in one afternoon — so clear it sells itself.
 
 **Pricing:**
 > ~~$147.00~~ Only $27.00 Today
@@ -533,11 +533,12 @@ INCLUDED FREE
 
 | Headline | Angle | Test Priority |
 |----------|-------|---------------|
-| Extract Your Zone Of Genius Into One Client Ready Offer — In One Afternoon | Identity + Mechanism (matches winning ad creative) | **High — primary** |
-| Validate Your $5K+ Offer Before You Build Anything — In One Afternoon | Validate + Speed | High |
-| Stop Guessing If Your Offer Will Sell. Validate It In One Afternoon. | Validation + Pain | Medium |
-| What If Your Offer Was So Clear Nobody Needed an Explanation to Buy? | Clarity + Curiosity | Medium |
-| Your Offer Should Sell Itself. Here's How to Build One That Does. | Clarity + Direct | Medium |
+| Confused to Clarity to Cash. The $27 System That Takes Care of the First Two. | Brand arc + price anchor | **High — primary** |
+| Go From "What Do You Even Sell?" to "I Need This" — In One Afternoon | Transformation (before/after in one line) | High |
+| Stop Explaining. Start Having People Say "I Need This" Before You Finish Your Sentence. | Outcome visualization | High |
+| Extract Your Zone Of Genius Into One Client Ready Offer — In One Afternoon | Mechanism + Identity | Medium |
+| Validate Your $5K+ Offer Before You Build Anything — In One Afternoon | Validate + Speed | Medium |
+| The Offer Was Already Inside You. You Just Couldn't See It Until Someone Translated It. | Emotional/Clarity Unlock | Medium |
 | Everyone Teaches Funnels. Nobody Teaches the Offer. | Clarity-First (legacy, still strong) | Medium |
 
 ---
@@ -625,3 +626,4 @@ INCLUDED FREE
 | 2026-02-08 | Aligned to creative mockup — 5 components, removed Wellington, resolved What's Included, updated mockups |
 | 2026-02-08 | Removed No-Phone framing throughout. Aligned to Client Ready Offer positioning per offer.md — validate your $5K+ offer before you build anything |
 | 2026-02-08 | Hero headline aligned to winning ad creative — identity transformation ("I help everyone" → "I'm the only choice") + Zone of Genius mechanism. Checkout popup matched. |
+| 2026-02-10 | Hero rewritten for transformation. Final headline: "Confused to Clarity to Cash. The $27 System That Takes Care of the First Two." Pre-headline, checkout popup, and headline testing table updated. |
