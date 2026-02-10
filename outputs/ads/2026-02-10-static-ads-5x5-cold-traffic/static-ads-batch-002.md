@@ -8,16 +8,34 @@ offer: client-ready
 campaign: 5x5-cold-traffic
 special_ad_category: none
 angles: [before-the-funnel, clarity-unlock]
-framework: 5-primary x 5-headline (from decisions/2026-02-10-ad-creative-structure.md)
+framework: 5-primary x 5-headline + awareness levels (Cat Howell / Schwartz)
 ---
 
-# Campaign Batch 002 — 5x5 Cold Traffic
+# Campaign Batch 002 — 5x5 Cold Traffic (Awareness-Tagged)
 
 Generated: 2026-02-10
+Updated: 2026-02-10 (awareness level tagging + Unaware primaries added)
 Target: Client Ready Offer System ($27)
 Destination: Landing page / checkout
 Creative: Existing video or static image (copy only — no image prompts in this batch)
-Framework: 2 angles × 5 primaries × 5 headlines = 50 testable combinations
+Framework: 2 angles × 7 primaries × 7 headlines = 98 testable combinations
+
+## Awareness Level Distribution
+
+| Level | Primaries | Headlines | Use Case |
+|-------|-----------|-----------|----------|
+| **Unaware** | 4 (P6, P7 per angle) | 4 (H6, H7 per angle) | Scale past $500/day — belief shifts, pattern interrupts |
+| **Problem Aware** | 6 (P1, P2, P5 per angle) | 6 (H1, H3, H5 per angle) | Launch spend $25-500/day — they know they're stuck |
+| **Solution Aware** | 2 (P3 per angle) | 2 (H2 per angle) | Catch researchers — they're comparing options |
+| **Problem→Unaware Bridge** | 2 (P4 per angle) | 2 (H4 per angle) | Transition — works for both segments |
+
+### Ad Naming Convention (Cat Howell)
+
+```
+[Awareness Level] - [Format] - [Destination]
+Example: Problem Aware - Image - Sales Page
+Example: Unaware - Image - Sales Page
+```
 
 ---
 
@@ -27,7 +45,7 @@ Core thesis: Everyone sells you funnels. Nobody asks if you have an offer worth 
 
 ---
 
-## Primary 1 — Deep Ad (Before the Funnel)
+## Primary 1 — Deep Ad (Before the Funnel) `PROBLEM AWARE`
 
 **Hook:** How coaches who spent thousands on funnels are discovering the real problem was never the funnel it was the offer underneath (131 chars)
 
@@ -73,7 +91,7 @@ Get the Client Ready Offer System — [link]
 
 ---
 
-## Primary 2 — UGC/Native (Before the Funnel)
+## Primary 2 — UGC/Native (Before the Funnel) `PROBLEM AWARE`
 
 **Hook:** I spent six months building a funnel for an offer nobody wanted and here is what I should have done on day one instead (125 chars)
 
@@ -101,7 +119,7 @@ Get the Client Ready Offer System — [link]
 
 ---
 
-## Primary 3 — Direct Response (Before the Funnel)
+## Primary 3 — Direct Response (Before the Funnel) `SOLUTION AWARE`
 
 **Hook:** This $27 system replaces the branding agency process that costs thousands and takes weeks and it works in one afternoon (126 chars)
 
@@ -146,7 +164,7 @@ Get the Client Ready Offer System — [link]
 
 ---
 
-## Primary 4 — Pattern Interrupt (Before the Funnel)
+## Primary 4 — Pattern Interrupt (Before the Funnel) `PROBLEM AWARE → UNAWARE BRIDGE`
 
 **Hook:** Everyone is selling coaches funnels and nobody is asking the question that actually matters do you have an offer worth building one for (135 chars)
 
@@ -162,7 +180,7 @@ Get the Client Ready Offer System — [link]
 
 ---
 
-## Primary 5 — Testimonial (Before the Funnel)
+## Primary 5 — Testimonial (Before the Funnel) `PROBLEM AWARE`
 
 **Hook:** One coach spent ten years trying to define her niche market then had a single ninety minute session and the decade long search ended (135 chars)
 
@@ -196,31 +214,121 @@ Get the Client Ready Offer System — [link]
 
 ---
 
+## Primary 6 — Belief Shift (Before the Funnel) `UNAWARE`
+
+**Hook:** Most coaches think the reason they aren't getting clients is because they need better marketing but marketing was never the problem (131 chars)
+
+```text
+Most coaches think the reason they aren't getting clients is because they need better marketing but marketing was never the problem
+
+Think about what happens when a coach isn't getting enough clients.
+
+They post more content. They try a new platform. They sign up for an ads course. They build a landing page. They hire a copywriter. They buy templates.
+
+And none of it works the way they expected.
+
+So they blame the marketing. The algorithm changed. The market is saturated. The niche is too competitive. They just need a better strategy.
+
+This is what Cat Howell calls "normalized pain." The coach has accepted that getting clients is supposed to be this hard. That marketing is just a grind you push through.
+
+But here is what nobody tells them:
+
+Marketing only works when the thing you are marketing is clear. When the offer is vague — when even YOU can't explain it in one sentence — no amount of content, ads, or funnels will fix that.
+
+The marketing isn't broken. The offer underneath it is.
+
+I know because I lived this for years. I wasn't bad at marketing. I was marketing something I hadn't properly defined. The moment I got the offer clear — who it was for, what problem it solved, what the transformation was — the same marketing that had been failing started working.
+
+Not because I learned a new tactic. Because the thing I was selling finally made sense to the person reading it.
+
+If you've been posting, building, and spending without results — consider that the problem might not be what you think it is. It might be one step earlier. The offer.
+
+The Client Ready Offer System uses 5 AI prompts to extract and clarify your offer in one afternoon. $27. Not a course. Not a coaching program. A guided extraction process.
+
+Get the Client Ready Offer System — [link]
+```
+
+---
+
+## Primary 7 — Education (Before the Funnel) `UNAWARE`
+
+**Hook:** A coach asked me to review her funnel last week and I told her the funnel was fine and to stop touching it because the real issue was something else entirely (135 chars)
+
+```text
+A coach asked me to review her funnel last week and I told her the funnel was fine and to stop touching it because the real issue was something else entirely
+
+She had spent $3K on design. The page looked great. The email sequence was solid. The traffic was coming in.
+
+Nobody was buying.
+
+She had been tweaking the funnel for two months. New headline every week. Different images. Changed the button color. Added a video. Removed the video. Added testimonials.
+
+Still nothing.
+
+I asked her one question: "Can you tell me in one sentence what this offer does for someone?"
+
+She talked for four minutes.
+
+That was the problem. Not the funnel. Not the ads. Not the copy. She couldn't explain what she was selling in a way that made someone want to buy.
+
+This is more common than people realize. Most coaches have expertise. Most coaches can help people. But most coaches have never gone through the process of extracting what they actually do into language that sells.
+
+They skip that step. They go straight to "how do I get clients?" without answering "what exactly am I selling?"
+
+It is like building a house without a foundation. You can make the walls beautiful, but the whole thing shifts.
+
+The extraction process isn't complicated. It is five questions:
+
+1. What is your zone of genius — the thing you do that nobody else does the same way?
+2. Who specifically needs that — not a demographic, a real person with a real problem?
+3. What pain points will they pay to solve — not what you think they should want, what they actually want?
+4. What is your story — why should they trust you over every other coach?
+5. What does the complete offer look like — clear enough for a yes or no without a phone call?
+
+Most coaches have never been asked these questions in this order. When they are, the clarity appears. Not because they learn something new. Because they finally articulate what was already there.
+
+The Client Ready Offer System walks you through these 5 questions using AI prompts that guide the extraction. One afternoon. $27.
+
+Get the Client Ready Offer System — [link]
+```
+
+---
+
 ## Headlines — Before the Funnel
 
-**Headline 1 — Proof-led**
+**Headline 1 — Proof-led** `PROBLEM AWARE`
 ```text
 She Was Stuck for 10 Years — Here's What Finally Worked
 ```
 
-**Headline 2 — Mechanism-led**
+**Headline 2 — Mechanism-led** `SOLUTION AWARE`
 ```text
 5 AI Prompts That Extract Your Complete Offer in One Afternoon
 ```
 
-**Headline 3 — Outcome-led**
+**Headline 3 — Outcome-led** `PROBLEM AWARE`
 ```text
 Know Exactly What You Sell — Before You Build Anything
 ```
 
-**Headline 4 — Curiosity-led**
+**Headline 4 — Curiosity-led** `PROBLEM AWARE → UNAWARE BRIDGE`
 ```text
 The Step Every Funnel Guru Skips (and Why Nothing Converts Without It)
 ```
 
-**Headline 5 — Benefit-led**
+**Headline 5 — Benefit-led** `PROBLEM AWARE`
 ```text
 Stop Building Funnels for Offers Nobody Wants
+```
+
+**Headline 6 — Belief Shift** `UNAWARE`
+```text
+Your Marketing Isn't Broken. The Thing You're Marketing Is Unclear.
+```
+
+**Headline 7 — Education** `UNAWARE`
+```text
+Most Coaches Skip This Step and Then Wonder Why Nothing Converts
 ```
 
 ---
@@ -232,7 +340,7 @@ Core thesis: The answer was already inside them. They just couldn't see it until
 
 ---
 
-## Primary 1 — Deep Ad (Clarity Unlock)
+## Primary 1 — Deep Ad (Clarity Unlock) `PROBLEM AWARE`
 
 **Hook:** How coaches who already have the expertise are discovering the real bottleneck was never skill or knowledge it was articulation (133 chars)
 
@@ -274,7 +382,7 @@ Get the Client Ready Offer System — [link]
 
 ---
 
-## Primary 2 — UGC/Native (Clarity Unlock)
+## Primary 2 — UGC/Native (Clarity Unlock) `PROBLEM AWARE`
 
 **Hook:** I could help people get real results but every time someone asked what I do I gave a different answer until I found the problem (134 chars)
 
@@ -302,7 +410,7 @@ Get the Client Ready Offer System — [link]
 
 ---
 
-## Primary 3 — Direct Response (Clarity Unlock)
+## Primary 3 — Direct Response (Clarity Unlock) `SOLUTION AWARE`
 
 **Hook:** The reason coaches can't explain what they sell has nothing to do with knowledge it is an articulation problem with a simple fix (134 chars)
 
@@ -350,7 +458,7 @@ Get the Client Ready Offer System — [link]
 
 ---
 
-## Primary 4 — Pattern Interrupt (Clarity Unlock)
+## Primary 4 — Pattern Interrupt (Clarity Unlock) `PROBLEM AWARE → UNAWARE BRIDGE`
 
 **Hook:** Six coaches six different niches same problem they couldn't explain what they sell same fix one conversation and the clarity appeared (135 chars)
 
@@ -366,7 +474,7 @@ Get the Client Ready Offer System — [link]
 
 ---
 
-## Primary 5 — Testimonial (Clarity Unlock)
+## Primary 5 — Testimonial (Clarity Unlock) `PROBLEM AWARE`
 
 **Hook:** How one coach who spent months frozen in creative procrastination launched her website and booked her first sales calls in weeks (132 chars)
 
@@ -408,29 +516,125 @@ Get the Client Ready Offer System — [link]
 
 ---
 
+## Primary 6 — Belief Shift (Clarity Unlock) `UNAWARE`
+
+**Hook:** Coaches have been told for years that the secret to getting clients is more content and better marketing but that advice skips the actual problem (135 chars)
+
+```text
+Coaches have been told for years that the secret to getting clients is more content and better marketing but that advice skips the actual problem
+
+Here is what the content advice sounds like:
+
+"Post every day. Be consistent. Show up on stories. Go live. Start a podcast. Build a newsletter. Create a lead magnet."
+
+And coaches do it. They post. They show up. They create. They are consistent for weeks. Sometimes months.
+
+And nothing happens.
+
+No leads. No DMs. No clients saying "I want to work with you."
+
+So they blame themselves. Not consistent enough. Not good enough on camera. Wrong platform. Should be on TikTok instead of Instagram. Should be doing reels instead of carousels.
+
+But the problem isn't the content. The problem isn't the platform. The problem isn't the consistency.
+
+The problem is that nobody — including the coach — can clearly explain what the coach actually does.
+
+Think about it. If you can't describe your offer in one sentence that makes a stranger say "tell me more" — how is a piece of content going to do that for you?
+
+Content amplifies clarity. It doesn't create it.
+
+The coaches who seem to effortlessly attract clients aren't better at marketing. They are clearer on what they sell. Their content works because the thing underneath it is specific. Defined. Obvious.
+
+Most coaches have never gone through the step of extracting that clarity. They jumped straight from "I want to be a coach" to "how do I get clients?" without stopping to answer "what exactly am I selling and to whom?"
+
+That step — the extraction — is what changes everything. Not learning a new content strategy. Not switching platforms. Not posting more.
+
+Getting clear on what you sell, who needs it, and why it matters. That is the step.
+
+The Client Ready Offer System guides you through that extraction using 5 AI prompts. One afternoon. $27.
+
+Get the Client Ready Offer System — [link]
+```
+
+---
+
+## Primary 7 — Education (Clarity Unlock) `UNAWARE`
+
+**Hook:** The difference between coaches who attract clients naturally and coaches who chase them has nothing to do with marketing skill or audience size (134 chars)
+
+```text
+The difference between coaches who attract clients naturally and coaches who chase them has nothing to do with marketing skill or audience size
+
+Watch what happens when a coach with a clear offer posts on social media.
+
+They describe a specific problem. A specific person. A specific result. Someone reading it thinks "that's me" and reaches out. Not because the post was viral. Not because the algorithm favored them. Because the offer was clear enough that the right person recognized themselves in it.
+
+Now watch what happens when a coach with an unclear offer posts.
+
+They share value. They teach. They inspire. People like the post. Maybe comment. But nobody buys. Because the post didn't connect to a specific thing they could say yes to.
+
+Same effort. Same platform. Same consistency. Different result.
+
+The variable isn't marketing. It is clarity.
+
+I worked with a coach named Robin who described her situation before the extraction as "a cyclone whirlwind — clutching at straws and throwing them back out hoping someone would catch them." She was posting. She was trying. Nothing was landing.
+
+After going through the extraction process, she said Michael "demystified all the information." Same coach. Same expertise. Same audience. Different result — because the offer was finally clear.
+
+Robin worked directly with Michael — not the $27 product. But the extraction process is the same.
+
+This isn't a marketing problem with a marketing solution. It is a clarity problem with an extraction solution.
+
+The extraction asks five questions most coaches have never been asked:
+
+1. What is your zone of genius?
+2. Who specifically needs it?
+3. What will they pay to solve?
+4. What is your story?
+5. What does the complete offer look like?
+
+When you answer these in order — with AI guiding the extraction — the offer appears. Not a new offer. YOUR offer. The one that was already there but you couldn't see because you were too close.
+
+The Client Ready Offer System. 5 AI prompts. One afternoon. $27.
+
+Get the Client Ready Offer System — [link]
+```
+
+---
+
 ## Headlines — Clarity Unlock
 
-**Headline 1 — Proof-led**
+**Headline 1 — Proof-led** `UNAWARE → PROBLEM AWARE`
 ```text
 Coaches From 6 Different Niches Had the Same Hidden Problem
 ```
 
-**Headline 2 — Mechanism-led**
+**Headline 2 — Mechanism-led** `SOLUTION AWARE`
 ```text
 5 AI Prompts That Extract the Offer Already Inside You
 ```
 
-**Headline 3 — Outcome-led**
+**Headline 3 — Outcome-led** `PROBLEM AWARE`
 ```text
 From Confused to Clear — Your Complete Offer in One Afternoon
 ```
 
-**Headline 4 — Curiosity-led**
+**Headline 4 — Curiosity-led** `UNAWARE → PROBLEM AWARE`
 ```text
 The Reason Most Coaches Cannot Explain What They Sell
 ```
 
-**Headline 5 — Benefit-led**
+**Headline 5 — Benefit-led** `PROBLEM AWARE`
 ```text
 Stop Circling. Start Building. Get Offer Clarity This Afternoon.
+```
+
+**Headline 6 — Belief Shift** `UNAWARE`
+```text
+Content Doesn't Create Clarity. Clarity Creates Content That Works.
+```
+
+**Headline 7 — Education** `UNAWARE`
+```text
+The Step Between "I Want to Coach" and "Here's What I Sell"
 ```
