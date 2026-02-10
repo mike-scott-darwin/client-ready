@@ -84,6 +84,31 @@ updated: 2026-02-10
 
 ---
 
+### Renee — Medical Coach
+
+**Before:** 10 years trying to establish coaching business, unable to define niche market, couldn't build products or messaging without knowing who she was talking to
+
+**After:** Niche market defined in a single 1.5-hour session, clear next steps, can now build products and marketing
+
+**Quote:**
+> "I have struggled with this for 10 years and Michael helped me with that in an hour and a half session. He was able to listen, connect the dots, think strategically and put it in words so exactly that I would not ever have been able to do that."
+
+> "I think I would have struggled for the next 10 years defining my niche market if I didn't meet Michael."
+
+> "You do not have to take the long road like I have. Please don't wait 10 years."
+
+**Specifics:**
+- 10 years stuck on niche definition — solved in 1.5 hours
+- Big picture thinker with complex ideas — Michael translated into concise positioning
+- Now has clear niche, can build products and messaging
+- Describes it as "step one is done, I can now build on it"
+
+**Source:** VideoPeel video testimonial
+**Date:** 2026-02-10
+**Location:** South Africa
+
+---
+
 ### Template
 
 ```markdown
@@ -121,6 +146,8 @@ Use these in ad copy and landing pages:
 | Nicole: 14 weeks, found purpose | Video testimonial | Depth of engagement |
 | Alexia: low-ticket → high-ticket | Video testimonial | Pricing transformation |
 | Alexia: shaped, promoted, distributed | Video testimonial | Full-service proof |
+| Renee: 10 years stuck → solved in 1.5 hrs | Video testimonial | Speed of clarity |
+| Renee: "don't wait 10 years" | Video testimonial | Urgency / cost of inaction |
 
 ---
 
