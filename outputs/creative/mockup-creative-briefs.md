@@ -151,7 +151,32 @@ Keep current teal/cyan + black theme
 ### Promise Badge (prominent)
 **"YOUR COMPLETE CUSTOM STRATEGY — BUILT BY MICHAEL"**
 
-### 6 Components (for mockup devices)
+### Before → After (Designer Reference)
+
+The current mockup has 9+ items with old "Complete Client Ready Funnel" branding. Cut to 6 items, rename everything.
+
+| Device | CURRENT (remove/rename) | NEW (replace with) |
+|--------|------------------------|-------------------|
+| **Main Monitor** | THE COMPLETE CLIENT READY FUNNEL | **THE CLIENT READY BLUEPRINT** — subhead: "Strategy + Copy + GHL Snapshot" |
+| **Laptop (bottom-left)** | COMPREHENSIVE IDEAL CLIENT ANALYSIS | **MESSAGING MAP & ICP** — subhead: "Know Your Buyer, Nail Your Copy" |
+| **Laptop (top-right)** | COMPLETE DAILY CLIENT FUNNEL BLUEPRINT | **100+ PAGE CUSTOM BUNDLE** — subhead: "Everything Written For You" |
+| **Phone (left)** | COMPLETE COPY PACK | **FULL LANDING PAGE COPY** — subhead: "Long-Form, Ready to Paste" |
+| **Phone (right)** | 1-ON-1 INTEGRATION CALL WITH MICHAEL | **1-ON-1 INTEGRATION CALL** — subhead: "60 Minutes With Michael" (keep device, update text) |
+| **Tablet (right)** | ENTIRE PROBLEM SEQUENCE MAPPING | **10-DAY EMAIL SEQUENCE** — subhead: "Welcome + Ascension — Fully Written" |
+
+### Items to REMOVE (not in Blueprint)
+
+These are on the current mockup but are NOT part of the Blueprint product:
+
+| Device | Current Text | Why Remove |
+|--------|-------------|-----------|
+| **Tablet (left)** | COMPLETE FUNNEL ECOSYSTEM | Not a deliverable — Blueprint is strategy + copy, not a funnel build |
+| **Small tablet (left)** | HIGH-TICKET BRIDGE OFFERS | Not a standalone deliverable in Blueprint |
+| **Small tablet (right)** | COMPLETE HIGH-TICKET ECO SYSTEM | Not a Blueprint component |
+| **Box** | COMPLETE 100+ PAGE CUSTOM BUNDLE | Consolidate into Laptop (above) — don't need box AND laptop for same item |
+| **Phone (far right)** | COMPREHENSIVE MESSAGING MAP | Consolidate into Laptop with ICP (above) |
+
+### Final Layout (6 devices, clean)
 
 | Device | Headline | Subhead/Callout |
 |--------|----------|-----------------|
