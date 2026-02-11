@@ -1,7 +1,8 @@
 # Product Mockup Creative Briefs
 
-**Date:** 2026-02-06
-**Purpose:** Guide for designer to update product mockups to align with offer.md
+**Date:** 2026-02-11
+**Purpose:** Guide for designer to create product mockups aligned with offer.md
+**Updated from:** 2026-02-06 version (Bump 3, OTO 2 name, Sprint pricing corrected)
 
 ---
 
@@ -19,7 +20,6 @@
 | **Tablet** | YOUR $5K OFFER — READY TODAY | "One Afternoon, One Offer" |
 | **Phone** | "I'M THE ONLY CHOICE" POSITIONING | "What Makes You Different" |
 | **Laptop** | VALIDATE BEFORE YOU BUILD | "Know It Works First" |
-| **Box** | ONE OFFER YOU WON'T ABANDON | "Aligned = No Burnout" |
 
 ### Value Badges (add as corner elements)
 - "AI-POWERED"
@@ -28,52 +28,64 @@
 - "NO FUNNEL REQUIRED"
 
 ### Components NOT to show (these are in bumps/OTOs)
-- Done For You Landing Pages (Bump 2 / OTO 2)
+- Done For You Landing Pages (OTO 2)
 - 30 Day Email Sequence (Bump 2)
-- Traffic Generation Playbook (was old Bump 3)
-- Client Onboarding System (OTO 1)
-- Testing Frameworks (OTO 1)
+- Traffic Generation Playbook (Sprint)
+- Client Onboarding System (Sprint)
+- Testing Frameworks (Sprint)
 
 ### Color Scheme
 Keep current teal/cyan + black theme
 
 ---
 
-## Mockup 2: OTO 1 — Client Ready Sprint ($97/$297)
+## Mockup 2: Bump 1 — Quick Win DM Scripts ($17)
 
 ### Main Title
-**"THE CLIENT READY SPRINT"**
-(NOT "High Ticket Playbook")
+**"QUICK WIN DM SCRIPTS"**
 
-### 6 Components (for mockup devices)
+### 5 Components
 
 | Device | Headline | Subhead/Callout |
 |--------|----------|-----------------|
-| **Main Monitor** | THE CLIENT READY SPRINT | (Michael photo) |
-| **Box 1** | ZONE OF GENIUS EXTRACTION | "Discover What Makes You The Only Choice" |
-| **Box 2** | AI LANDING PAGE GENERATOR | "Sales Pages in Minutes" |
-| **Box 3** | TRAFFIC GENERATION PLAYBOOK | "Get Buyers Fast" |
-| **Box 4** | A/B TESTING FRAMEWORKS | "Know What's Working" |
-| **Box 5** | CLIENT ONBOARDING SYSTEM | "Deliver Like a Pro" |
-| **Box 6** | ONE-CLICK CAMPAIGN TEMPLATES | "Scale Without Starting Over" |
+| **Phone** | QUICK WIN DM SCRIPTS | "Start Sales Conversations Today" |
+| **Tablet** | THE RECONNECTION SCRIPT | "Warm Up Cold Contacts" |
+| **Spiral Notebook** | THE VALUE DROP SCRIPT | "Lead With Value, Not a Pitch" |
+| **Laptop** | THE SOFT PITCH + FOLLOW-UP | "Close Without Being Pushy" |
+| **Box** | THE "I'M BUILDING SOMETHING" SCRIPT | "Share Your Offer Naturally" |
 
-### Must-Add Badge
-**"INCLUDES SKOOL COMMUNITY ACCESS"**
-(This is a key differentiator — show it prominently)
+### Value Badge
+**"FIRST CONVERSATION IN 5 MINUTES"**
 
-### Optional Pricing Badge
-"SELF-PACED $97 | 4-WEEK SPRINT $297"
-
-### Remove from Current Mockup
-- "30 Email Sequence" (this is Bump 2, not OTO 1)
-- "The Unfair Advantage Framework" (rename to Zone of Genius)
-
-### Color Scheme
-Keep current teal/cyan + black theme
+### Promise
+"Don't wait to make money — start conversations while you build your funnel."
 
 ---
 
-## Mockup 3: Bump 3 — The First $5K Client Playbook ($67)
+## Mockup 3: Bump 2 — Plug & Play Templates ($37)
+
+### Main Title
+**"PLUG & PLAY TEMPLATES"**
+
+### 5 Components
+
+| Device | Headline | Subhead/Callout |
+|--------|----------|-----------------|
+| **Laptop** | PLUG & PLAY TEMPLATES | "Don't Start From Scratch" |
+| **Tablet** | OFFER DOCUMENT TEMPLATE | "With Filled Example" |
+| **Phone** | LANDING PAGE SWIPE FILES | "Proven Layouts, Ready to Use" |
+| **Spiral Notebook** | 30-DAY EMAIL SEQUENCE | "Pre-Written, Tested, Done" |
+| **Box** | MESSAGING MAPS + HEADLINES | "Copy-Paste Hooks & Copy" |
+
+### Value Badge
+**"PLUG IN YOUR OFFER AND GO"**
+
+### Promise
+"Every template you need — fill in the blanks, copy-paste, launch."
+
+---
+
+## Mockup 4: Bump 3 — The First $5K Client Playbook ($67)
 
 ### Main Title
 **"THE FIRST $5K CLIENT PLAYBOOK"**
@@ -82,12 +94,11 @@ Keep current teal/cyan + black theme
 
 | Device | Headline | Subhead/Callout |
 |--------|----------|-----------------|
-| **Main Item** | THE FIRST $5K CLIENT PLAYBOOK | "From Offer to Paying Client" |
-| **Item 1** | PRICING PSYCHOLOGY | "Why $5K Is Easier Than $500" |
-| **Item 2** | 5 CONVERSATION FRAMEWORKS | "Close Without Being Pushy" |
-| **Item 3** | THE WARM 50 PLAN | "Your First 50 People — You Already Know Them" |
-| **Item 4** | OBJECTION PLAYBOOK | "Word-For-Word Responses" |
-| **Item 5** | 3 REAL CLOSING CONVERSATIONS | "Annotated — See What Works" |
+| **Tablet** | THE FIRST $5K CLIENT PLAYBOOK | "From Offer to Paying Client" |
+| **Phone** | PRICING PSYCHOLOGY | "Why $5K Is Easier Than $500" |
+| **Spiral Notebook** | 5 CONVERSATION FRAMEWORKS | "Close Without Being Pushy" |
+| **Laptop** | THE WARM 50 PLAN | "Your First 50 People — You Already Know Them" |
+| **Box** | OBJECTION PLAYBOOK + 3 REAL CONVERSATIONS | "Word-For-Word Responses" |
 
 ### Value Badge
 **"YOUR FIRST $5K CLIENT THIS MONTH"**
@@ -97,46 +108,77 @@ Keep current teal/cyan + black theme
 
 ---
 
-## Mockup 4: OTO 2 — Done-For-You Funnel ($397)
+## Mockup 5: OTO 1 — The Client Ready Sprint ($297)
 
 ### Main Title
-**"DONE-FOR-YOU CLIENT READY FUNNEL"**
+**"THE CLIENT READY SPRINT"**
+
+### 6 Components (for mockup devices)
+
+| Device | Headline | Subhead/Callout |
+|--------|----------|-----------------|
+| **Main Monitor** | THE CLIENT READY SPRINT | (Michael photo) |
+| **Laptop** | ZONE OF GENIUS EXTRACTION | "Discover What Makes You The Only Choice" |
+| **Tablet** | AI LANDING PAGE GENERATOR | "Sales Pages in Minutes" |
+| **Phone** | TRAFFIC GENERATION PLAYBOOK | "Get Buyers Fast" |
+| **Spiral Notebook** | A/B TESTING FRAMEWORKS | "Know What's Working" |
+| **Box** | CLIENT ONBOARDING SYSTEM | "Deliver Like a Pro" |
+
+### Must-Add Badge
+**"INCLUDES SKOOL COMMUNITY ACCESS"**
+(This is a key differentiator — show it prominently)
+
+### Pricing Badge
+**"$297 ONE-TIME — 4 WEEKS WITH MICHAEL"**
+
+### Remove from Current Mockup
+- "30 Email Sequence" (this is Bump 2, not Sprint)
+- "The Unfair Advantage Framework" (rename to Zone of Genius)
+- Any "$97 Self-Paced" reference (killed — Sprint is $297 only)
+- "One-Click Campaign Templates" (cut for cleaner mockup — 6 components max)
+
+### Color Scheme
+Keep current teal/cyan + black theme
+
+---
+
+## Mockup 6: OTO 2 — Client Ready Blueprint ($397)
+
+### Main Title
+**"THE CLIENT READY BLUEPRINT"**
+(NOT "Done-For-You Funnel" — it's a strategy + copy bundle, not a live funnel build)
 
 ### Promise Badge (prominent)
-**"COMPLETE FUNNEL IN 30 DAYS — GUARANTEED"**
+**"YOUR COMPLETE CUSTOM STRATEGY — BUILT BY MICHAEL"**
 
-### 9 Components
+### 6 Components (for mockup devices)
 
-| Device/Box | Headline | Subhead/Callout |
-|------------|----------|-----------------|
-| **Main Monitor** | DONE-FOR-YOU CLIENT READY FUNNEL | "We Build It. You Launch It." |
-| **Box 1** | COMPLETE CLIENT FUNNEL | "Auto-Generates & Converts" |
-| **Box 2** | CLIENT FUNNEL BLUEPRINT | "Your Custom Roadmap" |
-| **Box 3** | 1-ON-1 INTEGRATION CALL | "Launch With Michael" |
-| **Box 4** | HIGH-TICKET BRIDGE OFFERS | "Ascension Built In" |
-| **Box 5** | COMPLETE COPY PACK | "Ads, Emails, Sales Pages" |
-| **Box 6** | MESSAGING MAP | "High-Converting Copy System" |
-| **Box 7** | MARKET RESEARCH & ICP | "Know Your Buyer" |
-| **Box 8** | 100+ PAGE CUSTOM BUNDLE | "Everything Done For You" |
-| **Box 9** | 30-DAY LAUNCH TIMELINE | "Day 1 to Launch Day" |
+| Device | Headline | Subhead/Callout |
+|--------|----------|-----------------|
+| **Main Monitor** | THE CLIENT READY BLUEPRINT | "Strategy + Copy + GHL Snapshot" |
+| **Laptop** | 100+ PAGE CUSTOM BUNDLE | "Everything Written For You" |
+| **Tablet** | FULL LANDING PAGE COPY | "Long-Form, Ready to Paste" |
+| **Phone** | 10-DAY EMAIL SEQUENCE | "Welcome + Ascension — Fully Written" |
+| **Spiral Notebook** | MESSAGING MAP & ICP | "Know Your Buyer, Nail Your Copy" |
+| **Box** | 1-ON-1 INTEGRATION CALL | "60 Minutes With Michael" |
 
 ### Key Differentiators to Highlight
 - **"1-ON-1 WITH MICHAEL"** — Personal touch
 - **"100+ PAGE CUSTOM BUNDLE"** — Tangible deliverable
 - **"30-DAY DELIVERY GUARANTEED"** — Risk reversal
 - **"ONLY 10 SPOTS/MONTH"** — Real scarcity
+- **"GHL SNAPSHOT INCLUDED"** — Starter funnel template
 
 ### Timeline Visual (optional addition)
 ```
-Day 1-3: Onboarding Form
-Week 1-2: Michael Builds Everything
-Week 3: Receive Your Bundle
-Week 4: Integration Call + Launch
-Day 30: Your Funnel Is Live
+Day 1-3: Custom Onboarding Form
+Week 1-2: Michael Creates Your Blueprint
+Week 3: Receive 100+ Page Bundle + GHL Snapshot
+Week 4: 1-on-1 Integration Call + Launch
 ```
 
 ### Value Badges
-- "DONE FOR YOU"
+- "BUILT BY MICHAEL"
 - "30-DAY DELIVERY GUARANTEED"
 - "10 SPOTS/MONTH"
 - "$397 ONE-TIME"
@@ -147,7 +189,7 @@ Day 30: Your Funnel Is Live
 
 ---
 
-## Mockup 5: OTO 3 — Client Ready Community ($47/mo)
+## Mockup 7: OTO 3 — Client Ready Community ($47/mo)
 
 ### Main Title
 **"CLIENT READY COMMUNITY"**
@@ -157,17 +199,16 @@ Day 30: Your Funnel Is Live
 
 ### 5 Components
 
-| Item | Headline | Subhead |
-|------|----------|---------|
-| **Main** | CLIENT READY COMMUNITY | "Never Build Alone" |
-| **Item 1** | WEEKLY HOT SEAT CALLS | "Get Feedback From Michael" |
-| **Item 2** | DM MICHAEL DIRECTLY | "Quick Answers When You're Stuck" |
-| **Item 3** | PRIVATE SKOOL COMMUNITY | "See What's Working For Others" |
-| **Item 4** | RESOURCE LIBRARY | "Templates, Swipes, Frameworks" |
-| **Item 5** | REAL-TIME WINS | "Watch Others Succeed" |
+| Device | Headline | Subhead/Callout |
+|--------|----------|-----------------|
+| **Main Monitor** | CLIENT READY COMMUNITY | "Never Build Alone" |
+| **Laptop** | WEEKLY HOT SEAT CALLS | "Get Feedback From Michael" |
+| **Phone** | DM MICHAEL DIRECTLY | "Quick Answers When You're Stuck" |
+| **Tablet** | PRIVATE SKOOL COMMUNITY | "See What's Working For Others" |
+| **Box** | RESOURCE LIBRARY | "Templates, Swipes, Frameworks" |
 
 ### Key Messaging
-- "For those not ready for Sprint or DFY — but still want support"
+- "For those not ready for Sprint or Blueprint — but still want support"
 - "Try for $1"
 - "Cancel anytime"
 
@@ -183,9 +224,22 @@ Day 30: Your Funnel Is Live
 ### Consistency Across All Mockups
 - Same teal/cyan + black color scheme
 - Same font family
-- Michael's photo on main screen
+- Michael's photo on main monitor screen
 - Professional, tech-forward aesthetic
-- "AI-POWERED" positioning throughout
+- "AI-POWERED" positioning on front-end mockup
+
+### Device Inventory (for designer reference)
+
+Each mockup uses a consistent set of device types:
+
+| Device | Visual | Best For |
+|--------|--------|----------|
+| **Main Monitor** | Desktop screen, largest element | Product title + Michael's photo |
+| **Laptop** | Open laptop, angled | Major system components |
+| **Tablet** | iPad-style, upright or angled | Guides, frameworks, visual content |
+| **Phone** | Smartphone, upright | Quick-access tools, scripts, DM features |
+| **Spiral Notebook** | Physical notebook, slightly open | Prompts, checklists, written frameworks |
+| **Box** | Product box, 3D | Bundled items, systems, kits |
 
 ### Hierarchy
 1. Product name (largest)
