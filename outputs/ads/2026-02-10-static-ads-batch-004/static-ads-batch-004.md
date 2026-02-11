@@ -17,7 +17,7 @@ validated_by: Miles Stutz ad library mining — anti-organic is his #1 angle (~3
 Generated: 2026-02-10
 Target: Client Ready Offer System ($27)
 Destination: Landing page / checkout
-Framework: 1 angle × 5 primaries × 5 headlines + 5 compressed short-form versions = 30 pieces
+Framework: 1 angle × 6 primaries × 6 headlines + 5 compressed short-form versions = 41 pieces
 
 ## What's New in This Batch
 
@@ -116,12 +116,14 @@ Because once the offer is clear, the content writes itself. You stop posting and
 
 Either way, the merry-go-round stops.
 
+Fair warning — there's a community behind this. No pressure to join. But I wanted to be upfront about it because I hate when people pretend there's no backend.
+
 $27. One afternoon. Stop posting into the void.
 
 Link below.
 ```
 
-### P1 Short-Form (Compressed)
+### P1 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
 
 ```text
 12 months of posting. Likes. Comments. Followers.
@@ -169,7 +171,7 @@ It won't grow your following. It won't fix your content calendar. But it'll give
 Grab it here ↓
 ```
 
-### P2 Short-Form (Compressed)
+### P2 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
 
 ```text
 Posted every day for a year. Grew an audience.
@@ -218,7 +220,7 @@ If you're tired of posting and hoping, this is the step that comes before all of
 $27 — grab it here ↓
 ```
 
-### P3 Short-Form (Compressed)
+### P3 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
 
 ```text
 Posting 3-5x per week. Nobody's buying.
@@ -249,7 +251,7 @@ Confused → Clear → Converting. You can't post your way to step 3 if you're s
 $27 gets you from Confused to Clear in one afternoon. Then your content actually has something to say.
 ```
 
-### P4 Short-Form (Compressed)
+### P4 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
 
 ```text
 "Be consistent."
@@ -291,7 +293,7 @@ Stop clutching at straws. Start with the offer.
 Link below.
 ```
 
-### P5 Short-Form (Compressed)
+### P5 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
 
 ```text
 Robin: "Caught in a cyclone whirlwind... clutching at straws and throwing them back out there."
@@ -322,6 +324,35 @@ The Gurus Say "Be Consistent." Nobody Tells You What to Be Consistent About.
 **H5 — Benefit-Led:**
 $27 to Fix the Offer Underneath — So Your Content Actually Converts
 
+**H6 — Price-Forward:** `PROBLEM AWARE`
+$27. One Afternoon. Stop Posting Into the Void and Fix the Offer First.
+
+---
+
+## P6 — Belief Shift (Content Merry-Go-Round) `UNAWARE`
+
+**Hook:** Content amplifies clarity and it does not create it and that is why posting more has never worked (100 chars)
+
+```text
+Content amplifies clarity. It doesn't create it.
+
+If you can't explain what you sell in one sentence, posting 3 times a week is just louder confusion.
+
+The coaches who seem to effortlessly attract clients from their content aren't better at content. They're clearer on what they sell. Their posts work because the thing underneath — the offer — is specific. Defined. Obvious.
+
+Most coaches have never gone through the step of getting the offer clear. They went straight from "I want to be a coach" to "how do I get clients?" and the answer they got was "post content."
+
+So they post. They show up. They're consistent. They get likes and comments and followers.
+
+And nobody buys.
+
+Because content doesn't create clarity. Clarity creates content that works.
+
+If you've been posting consistently and nobody's buying — the problem probably isn't your content strategy. It's one step earlier.
+```
+
+> **Format note:** Pure belief-shift ad — no product pitch, no CTA. Sells the mechanism only. Per Part 12 of ads methodology.
+
 ---
 
 # CREATIVE NOTES
@@ -333,11 +364,12 @@ Every testimonial reference includes:
 - "self-guided — your results depend on your effort and your market"
 - Clear separation between coaching outcomes and product promise
 
-## Social Proof Claims
+## Social Proof Claims ⚠️ UNVERIFIED — DO NOT RUN UNTIL RESOLVED
 
-- **"150+ coaches"** — Verify against Stripe/GHL purchase count before running. Update number if higher.
-- **"4.7/5 rating"** — Source needed. If from Skool reviews, document. If not yet collected, remove from ads until verifiable.
+- **"150+ coaches"** — ⚠️ VERIFY against Stripe/GHL purchase count before running. Update number if higher. If unverifiable, replace with mechanism proof: "5 AI prompts. One afternoon. One clear offer document."
+- **"4.7/5 rating"** — ⚠️ SOURCE NEEDED. If from Skool reviews, document the source. If not yet collected, REMOVE from ads until verifiable.
 - Both claims appear in P3 and P3 Short-Form only.
+- **Per Part 13 of ads methodology:** Price transparency is more effective than social proof claims for low-ticket. If these claims can't be verified, replace with price-forward language instead.
 
 ## Angle-Specific Notes
 

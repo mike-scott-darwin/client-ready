@@ -18,7 +18,7 @@ Updated: 2026-02-10 (awareness level tagging + Unaware primaries added)
 Target: Client Ready Offer System ($27)
 Destination: Landing page / checkout
 Creative: Existing video or static image (copy only — no image prompts in this batch)
-Framework: 2 angles × 7 primaries × 7 headlines = 98 testable combinations
+Framework: 2 angles × 7 primaries × 8 headlines = 112 testable combinations
 
 ## Awareness Level Distribution
 
@@ -83,6 +83,8 @@ The Client Ready Offer System uses 5 AI prompts to extract your zone of genius, 
 You can hire someone to build a funnel afterward. Or build one yourself. But do this first. Because a beautiful funnel built on a broken offer is just an expensive way to confirm nobody wants what you are selling.
 
 Before the funnel. Before the ads. Before the content calendar. Get the offer right.
+
+Fair warning — there's a community behind this. No pressure to join. But I wanted to be upfront about it because I hate when people pretend there's no backend.
 
 $27. One afternoon. The step everyone else skips.
 
@@ -242,11 +244,9 @@ I know because I lived this for years. I wasn't bad at marketing. I was marketin
 Not because I learned a new tactic. Because the thing I was selling finally made sense to the person reading it.
 
 If you've been posting, building, and spending without results — consider that the problem might not be what you think it is. It might be one step earlier. The offer.
-
-The Client Ready Offer System uses 5 AI prompts to extract and clarify your offer in one afternoon. $27. Not a course. Not a coaching program. A guided extraction process.
-
-Get the Client Ready Offer System — [link]
 ```
+
+> **Format note:** Pure belief-shift ad — no product pitch, no CTA. Sells the mechanism only. Per Part 12 of ads methodology.
 
 ---
 
@@ -286,11 +286,9 @@ The extraction process isn't complicated. It's five questions:
 5. What does the complete offer look like — clear enough for a yes or no without a phone call?
 
 Most coaches have never been asked these questions in this order. When they are, the clarity appears. Not because they learn something new. Because they finally articulate what was already there.
-
-The Client Ready Offer System walks you through these 5 questions using AI prompts that guide the extraction. One afternoon. $27.
-
-Get the Client Ready Offer System — [link]
 ```
+
+> **Format note:** Pure belief-shift ad — no product pitch, no CTA. Educates on the mechanism only. Per Part 12 of ads methodology.
 
 ---
 
@@ -329,6 +327,11 @@ Your Marketing Isn't Broken. The Thing You're Marketing Is Unclear.
 **Headline 7 — Education** `UNAWARE`
 ```text
 Most Coaches Skip This Step and Then Wonder Why Nothing Converts
+```
+
+**Headline 8 — Price-Forward** `PROBLEM AWARE`
+```text
+$27 Before You Build the Funnel — Know If Your Offer Works First
 ```
 
 ---
@@ -374,6 +377,8 @@ Six coaches. Six different niches. Same problem: they couldn't articulate what t
 This isn't about giving them a system. It is about extracting what is already there and making it clear enough to sell.
 
 These coaches all worked directly with Michael in coaching engagements — not the $27 product. But the extraction process they went through is what the Client Ready Offer System is built on. 5 AI prompts that walk you through the same questions. Your zone of genius. Your ideal client. Their pain points. Your story. Self-guided. A complete offer document you can use tomorrow.
+
+Fair warning — there's a community behind this. No pressure to join. But I wanted to be upfront about it because I hate when people pretend there's no backend.
 
 $27. One afternoon. The offer was already in you. This gets it out.
 
@@ -550,11 +555,9 @@ Most coaches have never gone through the step of extracting that clarity. They j
 That step — the extraction — is what makes the rest work. Not learning a new content strategy. Not switching platforms. Not posting more.
 
 Getting clear on what you sell, who needs it, and why it matters. That's the step.
-
-The Client Ready Offer System guides you through that extraction using 5 AI prompts. One afternoon. $27.
-
-Get the Client Ready Offer System — [link]
 ```
+
+> **Format note:** Pure belief-shift ad — no product pitch, no CTA. Sells the mechanism only. Per Part 12 of ads methodology.
 
 ---
 
@@ -581,7 +584,7 @@ I worked with a coach named Robin who described her situation before the extract
 
 After going through the extraction process, she said I "demystified all the information." Same coach. Same expertise. Same audience. Different result — because the offer was finally clear.
 
-Robin worked directly with me in a coaching engagement — not the $27 product. Her results reflect that deeper engagement. But the extraction questions are the same five questions inside the system.
+Robin worked directly with me in a coaching engagement. Her results reflect that deeper engagement.
 
 This isn't a marketing problem with a marketing solution. It's a clarity problem with an extraction solution.
 
@@ -593,12 +596,10 @@ The extraction asks five questions most coaches have never been asked:
 4. What is your story?
 5. What does the complete offer look like?
 
-When you answer these in order — with AI guiding the extraction — the offer appears. Not a new offer. YOUR offer. The one that was already there but you couldn't see because you were too close.
-
-The Client Ready Offer System. 5 AI prompts. One afternoon. $27.
-
-Get the Client Ready Offer System — [link]
+When you answer these in order, the offer appears. Not a new offer. YOUR offer. The one that was already there but you couldn't see because you were too close.
 ```
+
+> **Format note:** Pure belief-shift ad — no product pitch, no CTA. Sells the mechanism only. Per Part 12 of ads methodology.
 
 ---
 
@@ -637,4 +638,9 @@ Content Doesn't Create Clarity. Clarity Creates Content That Works.
 **Headline 7 — Education** `UNAWARE`
 ```text
 The Step Between "I Want to Coach" and "Here's What I Sell"
+```
+
+**Headline 8 — Price-Forward** `PROBLEM AWARE`
+```text
+$27 to Extract the Offer That's Already Inside You — One Afternoon
 ```

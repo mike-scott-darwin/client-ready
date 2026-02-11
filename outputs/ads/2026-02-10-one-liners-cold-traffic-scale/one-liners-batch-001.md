@@ -81,6 +81,21 @@ Coaches and consultants validate a $5K+ offer they won't abandon — in one afte
 
 ---
 
+## Format Notes (Feb 11 Update — Per ads methodology Parts 11-12)
+
+**First-class test candidates:** Every one-liner below can run as primary ad text on an image ad. Pair with any image prompt from batches 003-004. These are not secondary copy — test alongside long-form simultaneously.
+
+**Belief-shift candidates (no product pitch, no CTA):** Lines 19, 25, 28 can run as pure belief-shift ads. No link needed. Per Part 12 of ads methodology.
+
+**Ultra-short video candidates:** Any line under 20 words can be animated over 4-6 seconds as a thumb-stopper. Body copy = matching long-form primary.
+
+**Angle clusters for expansion (Part 16):**
+- **Course Graveyard** (lines 3, 6, 11, 30) — potential 4th full copy block
+- **Side Hustle Identity** (lines 10, 22) — potential 5th full copy block
+- **Anti-Guru** (lines 25, 28, 30) — potential 6th full copy block
+
+---
+
 ## One-Liners
 
 1. Most coaches can't explain their offer in one sentence. 5 AI prompts fix that in an afternoon.
@@ -119,7 +134,7 @@ Coaches and consultants validate a $5K+ offer they won't abandon — in one afte
 
 18. Funnels, email sequences, landing pages — it's a lot. Start here instead. One offer. One afternoon. Then build.
 
-19. "Be consistent and the clients will come." Consistency without a clear offer just creates more content nobody buys. The problem was never consistency.
+19. "Be consistent and the clients will come." Consistency without a clear offer just creates more content nobody buys. The problem was never consistency. `BELIEF SHIFT — run without CTA` `USV CANDIDATE`
 
 20. One afternoon. One clear offer. Then you know what to sell before you build anything else. That changes everything.
 
@@ -131,13 +146,13 @@ Coaches and consultants validate a $5K+ offer they won't abandon — in one afte
 
 24. Spent 6 months building a course nobody bought. Or spend one afternoon clarifying the offer first. Different order, different outcome.
 
-25. The market doesn't reward harder work. It rewards clearer offers. Stop grinding and start validating.
+25. The market doesn't reward harder work. It rewards clearer offers. Stop grinding and start validating. `BELIEF SHIFT — run without CTA`
 
 26. Service providers who are great at the work but can't figure out the business side — 5 prompts extract the offer hiding in the expertise.
 
 27. Year 3 of the search. Bought the courses. Tried the content. Started wondering if it's the wrong fit. The problem wasn't the person. It was the offer.
 
-28. Everyone's selling you funnels. Nobody's asking if you have an offer worth building one for. That question changes everything.
+28. Everyone's selling you funnels. Nobody's asking if you have an offer worth building one for. That question changes everything. `BELIEF SHIFT — run without CTA` `USV CANDIDATE`
 
 29. I stopped posting daily and ran ads to a validated offer instead. Having a clear offer changed everything. Yours starts with getting the offer right.
 

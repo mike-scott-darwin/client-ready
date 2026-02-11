@@ -128,12 +128,14 @@ Most coaches are stuck at Stage 1: Confused. They have the expertise but no clea
 
 What you build after that — the funnel, the ads, the content — works because the foundation is right.
 
+Fair warning — there's a community behind this. No pressure to join. But I wanted to be upfront about it because I hate when people pretend there's no backend.
+
 $27. One afternoon. Know if your offer works before you build anything.
 
 Link below.
 ```
 
-### P1 Short-Form (Compressed)
+### P1 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
 
 ```text
 Beautiful funnel. Landing page. Email sequences. The works.
@@ -177,7 +179,7 @@ Because here's the thing nobody told me: the funnel was never the problem. The o
 Grab it here ↓
 ```
 
-### P2 Short-Form (Compressed)
+### P2 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
 
 ```text
 I spent 6 months building a course nobody bought.
@@ -227,7 +229,7 @@ If you're past the "should I do this?" stage and comparing what to use — this 
 $27 — grab it here ↓
 ```
 
-### P3 Short-Form (Compressed)
+### P3 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
 
 ```text
 Vague offer? Different answer every time someone asks what you sell?
@@ -255,7 +257,7 @@ Confused → Clear → Converting. You can't skip to step 3.
 $27 gets you from Confused to Clear in one afternoon.
 ```
 
-### P4 Short-Form (Compressed)
+### P4 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
 
 ```text
 Beautiful funnel. Zero sales.
@@ -306,7 +308,7 @@ $27. One afternoon. The step that comes before the funnel.
 Link below.
 ```
 
-### P5 Short-Form (Compressed)
+### P5 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
 
 ```text
 6 coaches. 6 niches. Same problem.
@@ -336,6 +338,9 @@ The Step Every Funnel Guru Skips (And Why Your Ads Aren't Converting)
 
 **H5 — Benefit-Led:**
 Go From Confused to Clear for $27 — Before You Build Anything
+
+**H6 — Price-Forward:** `PROBLEM AWARE`
+$27 and One Afternoon. That's the Whole Risk. Get the Offer Right First.
 
 ---
 
@@ -381,12 +386,14 @@ It's self-guided. $27. Takes an afternoon. Your results depend on your effort an
 
 But the shift — from Confused to Clear — that's what changes everything downstream. Because once someone can explain what they do in one sentence, the content writes itself. The funnel makes sense. The ads have something real to say.
 
+Fair warning — there's a community behind this. No pressure to join. But I wanted to be upfront about it because I hate when people pretend there's no backend.
+
 Wake up knowing exactly what you sell. Stop explaining. Start having people say "I need this."
 
 Link below.
 ```
 
-### P1 Short-Form (Compressed)
+### P1 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
 
 ```text
 She had 10 years of expertise. Helped dozens of people.
@@ -428,7 +435,7 @@ It won't build your funnel. It won't run your ads. But it'll give you the one th
 Grab it here ↓
 ```
 
-### P2 Short-Form (Compressed)
+### P2 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
 
 ```text
 "What do you do?"
@@ -476,7 +483,7 @@ $27. No subscription. Full system.
 $27 — grab it here ↓
 ```
 
-### P3 Short-Form (Compressed)
+### P3 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
 
 ```text
 Real expertise. Can't explain what you sell.
@@ -508,7 +515,7 @@ Confused → Clear. That's the shift. And it takes an afternoon, not a year.
 $27 self-guided extraction system. The offer is already in you.
 ```
 
-### P4 Short-Form (Compressed)
+### P4 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
 
 ```text
 The offer is already in you.
@@ -547,7 +554,7 @@ $27. One afternoon. Self-guided.
 Link below.
 ```
 
-### P5 Short-Form (Compressed)
+### P5 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
 
 ```text
 Renee: 10 years stuck. Clear in 90 minutes.
@@ -578,6 +585,9 @@ The Offer Was Already Inside Them — They Just Couldn't See It
 **H5 — Benefit-Led:**
 From Confused to Clear for $27 — Know Exactly What You Sell and Who It's For
 
+**H6 — Price-Forward:** `PROBLEM AWARE`
+$27 to Extract What You Already Know Into an Offer That Sells Itself
+
 ---
 
 # CREATIVE NOTES
@@ -603,11 +613,12 @@ These paint the feeling of the Converting stage without dollar amounts.
 
 ## Short-Form Strategy
 
-Every primary has a 3-5 line compressed version. These:
+Every primary has a 3-5 line compressed version. These are **first-class test candidates** (Part 11 of ads methodology), not secondary variants:
 - Use the same angle and psychological entry point
 - Strip to one story beat + one insight + CTA
-- Test well in feed alongside long-form
+- Run as primary ad text alongside long-form on the same image — test both simultaneously
 - Can pair with any headline from the same angle
+- Best candidates for ultra-short video (4-8s): animate the text line by line, body copy = the long-form version
 
 ## Testimonial Disclaimers
 
@@ -616,11 +627,12 @@ Every testimonial reference includes:
 - "self-guided — your results depend on your effort and your market"
 - Clear separation between coaching outcomes and product promise
 
-## Social Proof Claims
+## Social Proof Claims ⚠️ UNVERIFIED — DO NOT RUN UNTIL RESOLVED
 
-- **"150+ coaches"** — Verify against Stripe/GHL purchase count before running. Update number if higher.
-- **"4.7/5 rating"** — Source needed. If from Skool reviews, document. If not yet collected, remove from ads until verifiable.
+- **"150+ coaches"** — ⚠️ VERIFY against Stripe/GHL purchase count before running. Update number if higher. If unverifiable, replace with mechanism proof: "5 AI prompts. One afternoon. One clear offer document."
+- **"4.7/5 rating"** — ⚠️ SOURCE NEEDED. If from Skool reviews, document the source. If not yet collected, REMOVE from ads until verifiable.
 - Both claims appear in BtF P3, BtF P3 Short-Form, CU P3, and CU P3 Short-Form.
+- **Per Part 13 of ads methodology:** Price transparency is more effective than social proof claims for low-ticket. If these claims can't be verified, replace with price-forward language instead.
 
 ## Mix-and-Match Guide
 
@@ -636,3 +648,103 @@ Every testimonial reference includes:
 | CU P3 DR | H2 Mechanism, H5 Benefit | 003_04 Graphic |
 | CU P4 Interrupt | H4 Curiosity | 003_06 Interrupt |
 | CU P5 Testimonial | H1 Proof, H3 Outcome | 003_05 Lo-fi |
+
+---
+
+# PART 3: ULTRA-SHORT VIDEO SCRIPTS (4-8 Seconds)
+
+> Per Part 11 of ads methodology. Animated text over simple background or stock footage. Body copy below = the matching long-form primary. Validated by Cat Howell (5 ads, 4-8s) and Miles Stutz (4 ads, 5-9s).
+
+## USV-001 — Before the Funnel P4 (6 seconds)
+
+**Visual:** Text animates word by word over dark background or 003_03 (domino) image.
+**Body copy below:** BtF P1 Deep (long-form)
+
+```
+Everyone sells funnels.
+Nobody asks the obvious question first.
+```
+
+**Timing:**
+- 0-2s: "Everyone sells funnels."
+- 2-3s: [beat]
+- 3-6s: "Nobody asks the obvious question first."
+
+---
+
+## USV-002 — Clarity Unlock P4 (5 seconds)
+
+**Visual:** Text animates over 003_06 (yarn ball → single thread) image.
+**Body copy below:** CU P1 Deep (long-form)
+
+```
+The offer is already in you.
+You just can't see it yet.
+```
+
+**Timing:**
+- 0-2s: "The offer is already in you."
+- 2-3s: [beat]
+- 3-5s: "You just can't see it yet."
+
+---
+
+## USV-003 — Content Merry-Go-Round P4 (5 seconds)
+
+**Visual:** Text animates over 004_03 (hamster wheel) image.
+**Body copy below:** CMR P1 Deep (long-form from batch 004)
+
+```
+"Be consistent."
+Wrong.
+Be clear.
+```
+
+**Timing:**
+- 0-1.5s: "Be consistent." (in quotes, smaller)
+- 1.5-2.5s: "Wrong." (large, bold, center)
+- 2.5-5s: "Be clear." (calm, clean)
+
+---
+
+## USV-004 — One-Liner #28 (4 seconds)
+
+**Visual:** Text animates over any image. Pure belief-shift — no product.
+**Body copy below:** BtF P1 Deep (long-form)
+
+```
+Everyone's selling you funnels.
+Nobody's asking if you have an offer worth building one for.
+```
+
+**Timing:**
+- 0-1.5s: "Everyone's selling you funnels."
+- 1.5-4s: "Nobody's asking if you have an offer worth building one for."
+
+---
+
+## USV-005 — One-Liner #19 (5 seconds)
+
+**Visual:** Text animates over 004_01 (social feed vs Stripe notification) image.
+**Body copy below:** CMR P1 Deep (long-form from batch 004)
+
+```
+"Be consistent and the clients will come."
+The problem was never consistency.
+```
+
+**Timing:**
+- 0-2s: "Be consistent and the clients will come." (in quotes)
+- 2-3s: [beat]
+- 3-5s: "The problem was never consistency."
+
+---
+
+## Production Notes
+
+- **Tools:** Canva (free), CapCut, or any text animation tool
+- **Background:** Dark (#1a1a1a) or stock footage of someone working at a desk
+- **Font:** Clean sans-serif, white text, large enough for mobile
+- **No talking head needed** — the motion is the scroll-stop, the body copy is the sell
+- **Export:** 9:16 MP4, 4-8 seconds, no audio required (add subtle ambient if desired)
+- **Upload:** As video ad in Meta, with long-form body copy pasted as the primary text
