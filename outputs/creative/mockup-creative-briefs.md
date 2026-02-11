@@ -153,39 +153,20 @@ Keep current teal/cyan + black theme
 
 ### Before → After (Designer Reference)
 
-The current mockup has 9+ items with old "Complete Client Ready Funnel" branding. Cut to 6 items, rename everything.
+Cut from 9+ items to 6. Rename the product from "Funnel" to "Blueprint."
 
-| Device | CURRENT (remove/rename) | NEW (replace with) |
-|--------|------------------------|-------------------|
-| **Main Monitor** | THE COMPLETE CLIENT READY FUNNEL | **THE CLIENT READY BLUEPRINT** — subhead: "Strategy + Copy + GHL Snapshot" |
-| **Laptop (bottom-left)** | COMPREHENSIVE IDEAL CLIENT ANALYSIS | **MESSAGING MAP & ICP** — subhead: "Know Your Buyer, Nail Your Copy" |
-| **Laptop (top-right)** | COMPLETE DAILY CLIENT FUNNEL BLUEPRINT | **100+ PAGE CUSTOM BUNDLE** — subhead: "Everything Written For You" |
-| **Phone (left)** | COMPLETE COPY PACK | **FULL LANDING PAGE COPY** — subhead: "Long-Form, Ready to Paste" |
-| **Phone (right)** | 1-ON-1 INTEGRATION CALL WITH MICHAEL | **1-ON-1 INTEGRATION CALL** — subhead: "60 Minutes With Michael" (keep device, update text) |
-| **Tablet (right)** | ENTIRE PROBLEM SEQUENCE MAPPING | **10-DAY EMAIL SEQUENCE** — subhead: "Welcome + Ascension — Fully Written" |
-
-### Items to REMOVE (not in Blueprint)
-
-These are on the current mockup but are NOT part of the Blueprint product:
-
-| Device | Current Text | Why Remove |
-|--------|-------------|-----------|
-| **Tablet (left)** | COMPLETE FUNNEL ECOSYSTEM | Not a deliverable — Blueprint is strategy + copy, not a funnel build |
-| **Small tablet (left)** | HIGH-TICKET BRIDGE OFFERS | Not a standalone deliverable in Blueprint |
-| **Small tablet (right)** | COMPLETE HIGH-TICKET ECO SYSTEM | Not a Blueprint component |
-| **Box** | COMPLETE 100+ PAGE CUSTOM BUNDLE | Consolidate into Laptop (above) — don't need box AND laptop for same item |
-| **Phone (far right)** | COMPREHENSIVE MESSAGING MAP | Consolidate into Laptop with ICP (above) |
-
-### Final Layout (6 devices, clean)
-
-| Device | Headline | Subhead/Callout |
-|--------|----------|-----------------|
-| **Main Monitor** | THE CLIENT READY BLUEPRINT | "Strategy + Copy + GHL Snapshot" |
-| **Laptop** | 100+ PAGE CUSTOM BUNDLE | "Everything Written For You" |
-| **Tablet** | FULL LANDING PAGE COPY | "Long-Form, Ready to Paste" |
-| **Phone** | 10-DAY EMAIL SEQUENCE | "Welcome + Ascension — Fully Written" |
-| **Spiral Notebook** | MESSAGING MAP & ICP | "Know Your Buyer, Nail Your Copy" |
-| **Box** | 1-ON-1 INTEGRATION CALL | "60 Minutes With Michael" |
+| Before (current mockup) | After (new title) | Device |
+|-------------------------|-------------------|--------|
+| THE COMPLETE CLIENT READY FUNNEL | **THE CLIENT READY BLUEPRINT** | Main Monitor |
+| COMPLETE DAILY CLIENT FUNNEL BLUEPRINT | **100+ PAGE CUSTOM BUNDLE** | Laptop |
+| COMPLETE COPY PACK | **FULL LANDING PAGE COPY** | Tablet |
+| ENTIRE PROBLEM SEQUENCE MAPPING | **10-DAY EMAIL SEQUENCE** | Phone |
+| COMPREHENSIVE IDEAL CLIENT ANALYSIS + COMPREHENSIVE MESSAGING MAP | **MESSAGING MAP & ICP** | Spiral Notebook |
+| 1-ON-1 INTEGRATION CALL WITH MICHAEL | **1-ON-1 INTEGRATION CALL** | Box |
+| COMPLETE FUNNEL ECOSYSTEM | **REMOVE** | — |
+| HIGH-TICKET BRIDGE OFFERS | **REMOVE** | — |
+| COMPLETE HIGH-TICKET ECO SYSTEM | **REMOVE** | — |
+| COMPLETE 100+ PAGE CUSTOM BUNDLE (box) | **REMOVE** (consolidated into Laptop above) | — |
 
 ### Key Differentiators to Highlight
 - **"1-ON-1 WITH MICHAEL"** — Personal touch
