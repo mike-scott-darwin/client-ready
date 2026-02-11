@@ -73,26 +73,27 @@ Keep current teal/cyan + black theme
 
 ---
 
-## Mockup 3: Bump 3 — Offer Validation Kit ($67)
+## Mockup 3: Bump 3 — The First $5K Client Playbook ($67)
 
 ### Main Title
-**"OFFER VALIDATION KIT"**
+**"THE FIRST $5K CLIENT PLAYBOOK"**
 
-### 4 Components
+### 5 Components
 
 | Device | Headline | Subhead/Callout |
 |--------|----------|-----------------|
-| **Main Item** | OFFER VALIDATION KIT | "Know It's Right Before You Build" |
-| **Item 1** | 5 AI VALIDATION PROMPTS | "Instant Feedback On Your Offer" |
-| **Item 2** | 10 REAL OFFER REVIEWS | "Watch Michael Break Down Actual Offers" |
-| **Item 3** | 15-POINT GOOD OFFER CHECKLIST | "Score Yourself — Pass or Fix" |
-| **Item 4** | 5 BEFORE/AFTER EXAMPLES | "See The Transformation" |
+| **Main Item** | THE FIRST $5K CLIENT PLAYBOOK | "From Offer to Paying Client" |
+| **Item 1** | PRICING PSYCHOLOGY | "Why $5K Is Easier Than $500" |
+| **Item 2** | 5 CONVERSATION FRAMEWORKS | "Close Without Being Pushy" |
+| **Item 3** | THE WARM 50 PLAN | "Your First 50 People — You Already Know Them" |
+| **Item 4** | OBJECTION PLAYBOOK | "Word-For-Word Responses" |
+| **Item 5** | 3 REAL CLOSING CONVERSATIONS | "Annotated — See What Works" |
 
 ### Value Badge
-**"DON'T RUN ADS UNTIL YOU PASS"**
+**"YOUR FIRST $5K CLIENT THIS MONTH"**
 
 ### Promise
-"Validate your offer before you build — know it's right without guessing"
+"You have the offer. Now close your first high-ticket client — without feeling like a salesperson."
 
 ---
 
