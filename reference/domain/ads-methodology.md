@@ -1,10 +1,14 @@
 ---
 type: reference
 status: active
-updated: 2026-02-06
+updated: 2026-02-11
 sources:
   - research/2026-02-03-miles-stutz-low-ticket-ads-transcript.md
   - research/consolidated/cat-howell-ads-scaling.md
+  - research/2026-02-11-cat-howell-apify-scrape-synthesis.md
+  - research/2026-02-11-miles-stutz-apify-scrape-synthesis.md
+  - research/2026-02-11-hernan-vazquez-apify-scrape-synthesis.md
+  - research/2026-02-11-the-main-branch-ad-audit.md
 ---
 
 # Low-Ticket Ads Methodology
@@ -182,13 +186,16 @@ Facebook shows your ads to warm audience first (aware/solution aware). Once that
 
 ### Ad Naming Convention
 
-Name ads by awareness level + format + destination:
+Name ads by awareness level + format + length + destination:
 
 ```
 Aware - Image - Order Page
-Solution Aware - Video - Sales Page
-Problem Aware - Carousel - Sales Page
-Unaware - Text - Sales Page
+Solution Aware - Video Short (8s) - Sales Page
+Problem Aware - Image Long Copy - Sales Page
+Problem Aware - Image Compressed - Sales Page
+Unaware - Video Long (14min) - Sales Page
+Belief Shift - Image - Community
+Comment Trigger - Video - DM Sequence
 ```
 
 ---
@@ -281,6 +288,8 @@ CAPI = server-side (accurate, tracks AOV)
 
 **Current reality:** Static ads crushing. Text-on-black works. Video is harder to crack but has more longevity when it works.
 
+**Format mix from competitors (Feb 2026):** Cat 54% video / 25% image / 21% carousel. Miles 61% video / 39% image. Hernan 58% video / 42% image. The shift is toward video — but most "video" ads are ultra-short (4-8s) animated clips, not production pieces. Image ads with long copy remain the conversion workhorses.
+
 ---
 
 ## Part 8: AOV Levers
@@ -340,6 +349,182 @@ Every offer is an argument. To win, establish CIRCUMSTANCE first.
 
 ---
 
+## Part 11: Format Spectrum
+
+### Copy Length Spectrum Testing
+
+Test the same product across multiple copy lengths simultaneously. Don't pick one length — let the algorithm find which resonates with each audience segment.
+
+| Length | Word Count | When It Works | Example |
+|--------|-----------|---------------|---------|
+| Ultra-short | 1-2 sentences | Scroll-stop on image, body copy sells | "How to launch and scale campaigns that work... in 10 minutes or less." |
+| Compressed | 3-5 lines | Paired with strong image, fast pitch | Price + promise + CTA, nothing else |
+| Medium | 300-700 words | Authority + mechanism + single proof point | Name-drops, analogies, one testimonial |
+| Long-form | 800-1,800 words | Full story arc, objection handling, transparent upsell | Deep narrative → pain → reframe → solution → stack → CTA |
+
+**Key insight:** Same product, same image, different copy lengths — test simultaneously. One-liners and compressed versions are first-class test candidates, not secondary variants.
+
+### Format Segmentation
+
+Match format to copy strategy — don't mix:
+
+| Format | Copy Role | Example |
+|--------|-----------|---------|
+| Image ads | Copy IS the ad — long-form in body text | Full narrative, the image stops the scroll |
+| Short video (4-8s) | Animated thumb-stopper — body copy sells | Text animation or single hook clip, real pitch is below |
+| Medium video (1-2 min) | Talking head explainer — short body text | Video carries all information, body is just CTA |
+| Long video (10-20 min) | Full breakdown as paid ad — minimal body | Behind-the-scenes, tutorial, comment capture |
+
+**Rule:** Never put long copy on a video ad. Never put short copy on an image-only ad. The format dictates where the argument lives.
+
+### Ultra-Short Video (4-8 Seconds)
+
+Animated text or single-hook clips. Too short for a pitch — the body copy below does all the selling. Low production cost, high scroll-stop potential.
+
+**Production:** Animate your best one-liner hooks over simple backgrounds or stock footage. No talking head needed. The scroll-stop is the motion; the sale is the text below.
+
+**Validated by:** Cat Howell (5 ads, 4-8s), Miles Stutz (4 ads, 5-9s). Both pair ultra-short video with long body copy.
+
+---
+
+## Part 12: Belief-Shift Ads
+
+Dedicated ads that sell the IDEA without selling the product. Pre-sell the mechanism so future customers arrive already convinced.
+
+### What They Are
+
+Ads with no product pitch, no CTA to buy, or only a soft CTA (community link, comment trigger). They attack a belief that blocks the sale:
+
+| Belief to Shift | Example Ad | Competitor |
+|----------------|------------|------------|
+| "Ads are expensive/risky" | "I can solve almost every problem in my business by simply running more ads" | Miles Stutz |
+| "You need thousands to start" | "Myth: You need thousands. Reality: $10/day is enough." | Miles Stutz |
+| "Targeting matters most" | "Targeting is dead. Creative IS the targeting now." | Hernan Vazquez |
+| "You need testimonials" | "They don't ask for proof. They just need clarity." | Miles Stutz |
+
+### Structure
+
+1. State the common belief
+2. Attack it with personal experience or data
+3. Reframe to the correct belief (your mechanism)
+4. No product pitch — or very soft CTA ("comment X below")
+
+### Why They Work
+
+They create future customers pre-sold on the mechanism before they ever see a product. When they eventually see the product ad, the argument is already won.
+
+### Application
+
+Build belief-shift ads around the core thesis of each angle. For "offer clarity" positioning: ads that sell the idea that most funnels fail because the offer is unclear — without mentioning the $27 product at all.
+
+---
+
+## Part 13: Price Transparency
+
+Every successful low-ticket competitor leads with price in their ads. Price is not buried — it's a feature.
+
+### The Pattern
+
+| Competitor | Price in Ad | Framing |
+|-----------|------------|---------|
+| Cat Howell | "$67" in body copy | Direct |
+| Miles Stutz | "$9 (normally $97)" | Anchored discount |
+| Hernan Vazquez | "$5" / "less than a fancy coffee" | Analogy |
+
+### Why It Works
+
+Low-ticket's advantage IS the price. Hiding it forces the prospect to click to find out — adding friction. Showing it removes the "is this going to be expensive?" objection before they click.
+
+### Implementation
+
+- Lead with price in at least 30% of ads
+- Use comparison framing: "$27 — less than one hour with a business coach"
+- State what it replaces: "$27 to find out if your offer works before you build the funnel"
+- Price-forward headlines are a distinct test variant, not a replacement for value-led headlines
+
+---
+
+## Part 14: Transparent Upsell Disclosure
+
+A trust-building pattern: disclose the upsell in the ad itself.
+
+### The Pattern
+
+> "Fair warning though... There IS an upsell on the next page. [Description of upsell]. No pressure to buy it. But I wanted to be upfront about it. Because I hate when people pretend there's no backend."
+
+**Validated by:** Hernan Vazquez — verbatim in 3+ ads, running 9+ months.
+
+### Why It Works
+
+- Disarms the "what's the catch" objection before they click
+- Builds trust through honesty — positions you as the anti-guru
+- People buy anyway because the transparency itself is persuasive
+- Aligns with "no-BS" positioning
+
+### When to Use
+
+In long-form (800+ word) image ads where the copy IS the pitch. Not appropriate for short-form or video where the pacing would break.
+
+---
+
+## Part 15: Comment-to-DM Automation
+
+An engagement-first ad format that uses comment triggers instead of direct links.
+
+### The Pattern
+
+Ad body ends with "Comment [KEYWORD] below" or "Drop [WORD] and I'll send you the link." Automated DM sequence (via ManyChat or equivalent) delivers the link.
+
+### Why It Works
+
+- Fires engagement signals that feed the algorithm
+- Builds a DM list alongside the email list
+- Comment activity creates social proof on the ad itself
+- Longest-running ads across all competitors use this format (9+ months active)
+
+### Competitor Usage
+
+| Competitor | Comment-Trigger Ads | % of Library |
+|-----------|-------------------|-------------|
+| Hernan Vazquez | 8 ads | 31% |
+| Cat Howell | 4 ads | 14% |
+| Miles Stutz | 3 ads | 13% |
+
+### Requirements
+
+- ManyChat or equivalent automation tool
+- Comment trigger keyword (keep it simple: one word)
+- DM sequence: deliver link → follow up → optional nurture
+
+### When to Implement
+
+Not day-one. Requires ManyChat setup and testing. Best added once core conversion ads are validated and you want to expand acquisition surface.
+
+---
+
+## Part 16: Angle Volume & Diversity
+
+### Benchmark
+
+| Competitor | Copy Blocks | Angles |
+|-----------|------------|--------|
+| Cat Howell | 6-7 | Stripe notifications, personal narrative, ATM, product listing, behind-the-scenes, algorithm, unaware/crickets |
+| Miles Stutz | ~8 | Anti-organic, no-sales-calls, scale/burnout, belief-shift, anti-proof, case study |
+| Hernan Vazquez | 5+ | Old playbook dead, scaling tutorials, creative fatigue, low-ticket for high-ticket, retargeting broken |
+
+### Minimum Viable Angle Library
+
+Target 5-6 distinct copy blocks before scaling spend. Each angle should:
+- Address a different buying reason
+- Map to a different awareness level
+- Use a different emotional entry point
+
+### Expansion Method
+
+Mine existing one-liners and compressed versions for angle clusters. Group one-liners by buying reason — when 3+ one-liners cluster around the same pain, that's a full copy block waiting to be written.
+
+---
+
 ## Key Benchmarks
 
 | Metric | Target | Notes |
@@ -380,6 +565,8 @@ For Andromeda algorithm — messaging diversity matters MORE than creative diver
 | Contrarian | Pattern interrupt | "Imposter syndrome isn't a confidence problem" |
 | Social Proof | Authority | "114 coaches stopped feeling like frauds" |
 | Identity Callout | Who they are | "For the coach wearing someone else's positioning" |
+| Belief Shift | The mechanism | "The reason your funnel doesn't convert has nothing to do with the funnel" |
+| Price-Forward | Low risk | "$27 and one afternoon. That's the whole risk." |
 
 ---
 
