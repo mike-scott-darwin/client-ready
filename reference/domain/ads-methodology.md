@@ -1,7 +1,7 @@
 ---
 type: reference
 status: active
-updated: 2026-02-11
+updated: 2026-02-12
 sources:
   - research/2026-02-03-miles-stutz-low-ticket-ads-transcript.md
   - research/consolidated/cat-howell-ads-scaling.md
@@ -9,6 +9,7 @@ sources:
   - research/2026-02-11-miles-stutz-apify-scrape-synthesis.md
   - research/2026-02-11-hernan-vazquez-apify-scrape-synthesis.md
   - research/2026-02-11-the-main-branch-ad-audit.md
+  - research/2026-02-12-cat-howell-hotseat-feb9.md
 ---
 
 # Low-Ticket Ads Methodology
@@ -93,18 +94,28 @@ This tells your story without making income claims about them.
 - Separate ad sets for TOF/MOF/BOF
 - Interest-based targeting
 - Lookalike audiences
-- Ad set budgets (ABO for scaling)
-- Retargeting campaigns
+- Separate retargeting campaigns
 - Audience exclusions
 
-### New Way
-- **One ad set** with Advantage Plus targeting
-- **Campaign Budget Optimization (CBO)** only
-- **All creative in one ad set**
-- **Target only by country/region** — no interests, no lookalikes, no exclusions
-- Let the algorithm find your audience through your creative
+### The Two-Campaign Architecture
 
-### Campaign Setup Steps
+You need TWO campaigns running simultaneously. Not either/or.
+
+| Campaign | Type | Purpose | Budget | Ad Sets |
+|----------|------|---------|--------|---------|
+| **CBO Main** | CBO, single ad set | All validated creatives, all offers | Bulk of spend | One ad set, broad targeting |
+| **ABO Tester** | ABO, $15/ad set | Test new creatives before graduating | $15 per ad set | One ad set per creative being tested |
+
+**ABO is the testing lane, not the scaling lane.** Test creative at $15/day. Wait for 3-5 sales. If positive ROAS → graduate to CBO using Post ID (keeps social proof). Keep the ABO ad running too — if it's working, don't kill it.
+
+**Why graduate before adding to CBO:**
+> "When you start spending $1000 on those CBOs and you put an ad in there you don't know works... Facebook will typically feed a lot of budget to new ads."
+
+Optional additional campaigns:
+- **Engagement** ($3-25/day) — omnipresence, social proof (see Part 9)
+- **Followers** (small budget) — brand awareness
+
+### CBO Main Setup Steps
 
 1. Click Create → **Sales objective**
 2. Enable **Campaign Budget Optimization**
@@ -120,6 +131,8 @@ This tells your story without making income claims about them.
    - Turn **OFF** all creative enhancements (except maybe music)
    - Turn **OFF** site links
    - Use **"Learn More"** CTA for low-ticket
+
+**All offers in ONE ad set.** Different front-end offers (different prices, different entry points) all sit in the same CBO ad set. Facebook retargets across offers automatically. Separate retargeting campaigns are no longer needed — the algorithm handles it within CBO.
 
 ### Why Single Ads Beat Multi-Variant
 
@@ -202,6 +215,45 @@ Comment Trigger - Video - DM Sequence
 
 ## Part 5: Scaling
 
+### The Four Scaling Strategies
+
+| Strategy | What | When | Who Should Use |
+|----------|------|------|----------------|
+| **1. Multiple Entry Points** | Multiple front-end offers in same CBO campaign | First — easiest, highest converting | Anyone with 2+ offers or upsells that can flip to front-end |
+| **2. Unaware Messaging** | Long-form sales pages + copy for unaware audience | Second — when entry points plateau | Everyone eventually, especially saturated niches |
+| **3. Hyper-Nicheing** | Same offer, messaging tailored to micro-segments | Advanced | Broad audiences (e.g., "coaches" → "agency owners who want low-ticket") |
+| **4. Avatar Expansion** | Same offer, marketed to adjacent audiences | Advanced | When your core audience is tapped |
+
+**Start with #1.** Multiple entry points lets you keep hitting the aware segment (cheap CPAs) longer by giving Facebook more offers to match. Cat added 2 entry points and her CPA dropped back from $100 to profitable. Strategy #2 (unaware messaging) is harder and more expensive — delay it as long as possible.
+
+**Exceptions that delay the need to scale:**
+- Blue ocean niche (high demand, few competitors) — can stretch ad spend much higher before needing these strategies
+- Viral/trending topic — the market is building the aware audience for you (but attracts competition fast)
+
+### Multiple Entry Points (Strategy #1)
+
+Flip existing bumps or upsells into standalone front-end offers. Each one becomes its own order form in the same CBO campaign, same ad set.
+
+> "By simply offering different entry points, someone might say, I don't want ads training, but I wanna learn how to create a sales page."
+
+**Why it works:**
+- Each entry point hits the AWARE segment of a different audience slice
+- Aware audience converts cheap — you keep getting good CPAs without cracking unaware
+- Facebook retargets across offers within the same campaign automatically
+- Someone who rejects one offer sees another — same catalog, different door
+
+**Cat's result:** 4 entry points ($27, $47, $88, $111/mo) in one CBO, one ad set → CPA dropped after adding entries 3 and 4.
+
+### Unaware Sales Pages (Strategy #2)
+
+When entry points aren't enough, build separate landing pages for unaware traffic:
+- Same funnel, same order form — just a different landing page URL
+- Top section uses Persuasion Challenge copy (pattern interrupt → problem → why stuck → solution)
+- Less direct response, more editorial/article feel
+- No buy button until after the copy
+
+**Cat's live split test result:** Facebook "absolutely preferred" the unaware page — cheaper CPCs, higher CTRs.
+
 ### Frequency Rules
 
 | Frequency | Status | Action |
@@ -220,6 +272,35 @@ Comment Trigger - Video - DM Sequence
 
 > "Every time you raise the budget, you should be adding more ads into your ad set."
 
+### The $2,000 Learning Phase
+
+> "If you launch a new campaign with 10 ad creatives at $100/day, Facebook is gonna spread that budget. For the first $2,000 of spend, it won't look profitable."
+
+**The math:** 2% conversion, $3 CPC = 33 clicks = ~$100 per sale. 10 ads × ~$100-200 each for meaningful data = $1,000-2,000 before you can judge.
+
+**Every budget increase triggers a new ~7 day learning phase.** Do NOT panic during this period. Do NOT kill campaigns before $2,000 total spend.
+
+**Why people quit scaling:**
+> "They start to up their budget... spending twice as much but getting the same amount of sales. Three, four days in, they panic and turn everything off. That's so normal."
+
+### Decision Windows
+
+| Window | Use For | Never Use For |
+|--------|---------|---------------|
+| 3-day | Spot budget-eating duds ($300+ spend, zero sales on one ad) | Campaign-level decisions |
+| 7-day | Campaign performance trends, scaling decisions | — |
+| 14-30 day | True performance baseline | — |
+| 24-hour | **Never make decisions on 24-hour data** | Everything |
+
+### Kill Criteria (Individual Ads)
+
+| Situation | Action |
+|-----------|--------|
+| One sale at expected CPA (e.g., $100 spend, $47 sale, $150 AOV) | Keep running — one data point isn't enough |
+| 0.5 ROAS across 2+ sales, CPA nearly 2x target | Kill it |
+| Facebook feeding all budget to one ad, $300+ spend, zero sales | Kill it (check 3-day window) |
+| Consecutive low-AOV sales | Kill — means it's attracting cheap buyers |
+
 ### CPA Reality Check
 
 > "A $100 CPA is quite normal. If your funnel converts at 2% and you are getting $2 link clicks then that's a $100 CPA."
@@ -233,15 +314,6 @@ Comment Trigger - Video - DM Sequence
 Don't chase lowest CPA. Optimize for:
 1. ROAS (are you profitable?)
 2. AOV (are customers spending?)
-
-### Scaling by Targeting Unaware
-
-> "The best way to reduce your CPA at scale is to hyper-segment your ad copy and sales page."
-
-When CPA rises at scale:
-1. It's usually because Facebook depleted the aware segment
-2. Build creative that speaks to problem aware/unaware
-3. Consider separate landing pages for cold traffic
 
 ---
 
@@ -307,7 +379,28 @@ More order bumps nearly **DOUBLED** conversion rates in Cat's split test:
 
 > "When I did a $17 promo, my AOV went right down. More sales, more volume — but they were not buying as many bumps and upsells than when selling at $47 or $67."
 
-### 3. Two-Step Order Forms
+**Cat's data (Feb 2026):** $17 front-end dropped AOV from $140 to $70-80. Buyers at $17 don't buy bumps at the same rate. $47 is her sweet spot — "people paying $47 tend to buy everything."
+
+### 3. Bump Pricing (Higher Converts Better)
+
+Cat's live split test (1 week of data, Feb 2026):
+
+| Version | Bumps | Funnel Conversion Rate |
+|---------|-------|----------------------|
+| A | $17, $33, $55 | 2.3% |
+| B | $33, $44, $55 | **4.0%** |
+
+Higher-priced bumps are converting better. Early data, but directionally strong. Test bump price increases once traffic is running.
+
+### 4. Backend Revenue (The Real Money)
+
+> "Most of you are sitting on a gold mine. You've brought in 300 new customers and haven't offered them a single damn thing on the back."
+
+Cat's revenue split (Jan 2026): $40K from ads directly (ROAS ~1.3) + $40K from backend (email sequences, library, affiliate). Backend is **pure profit** — no ad spend, no COGS.
+
+At scale, your ad account will have a 1-2x ROAS. The real margin comes from selling to existing buyers. Options: email sequences, product library, affiliate products, cross-sells.
+
+### 5. Two-Step Order Forms
 
 > "We usually roll with two-step order forms. First thing: name and email. Then credit card. That way you can do remarketing or abandoned cart sequences."
 

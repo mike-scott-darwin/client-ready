@@ -327,6 +327,12 @@ See: `reference/domain/email-rhythm.md` for full implementation details.
 - Unchecked: May convert better with less aware audiences
 - Run 50/50 split test before scaling
 
+**Bump pricing insight (Cat Howell Feb 2026):** Higher-priced bumps convert better. Her split test: $33/$44/$55 bumps at 4.0% conversion vs $17/$33/$55 at 2.3%. Early data but directionally strong. Test increasing bump prices once baseline data exists.
+
+**Front-end pricing warning:** $17 front-end killed Cat's AOV (dropped from $140 to $70-80). Cheap buyers don't buy bumps/upsells at the same rate. $27 is minimum; $47 is her sweet spot. Client Ready's $27 is in the safe range but monitor AOV closely — if buyers aren't taking bumps, price may need to go up.
+
+**Scaling via entry points (future):** Existing bumps (DM Scripts, $5K Playbook) can become standalone front-end offers once core funnel is validated (30+ sales, $100+ AOV). See `decisions/2026-02-12-scaling-architecture.md`.
+
 ---
 
 ## Ad Strategy Framework
@@ -335,10 +341,11 @@ See: `reference/domain/email-rhythm.md` for full implementation details.
 
 ### Launch Structure
 
-- **4 ad sets:** 3 cold audiences + 1 retargeting
-- **Retargeting budget:** Half of cold budget (almost always wins)
-- **Starting budget:** $50/day (not $100 — too volatile early)
+- **Two campaigns:** CBO main (all validated creative, one ad set) + ABO tester ($15/ad set for new creative)
+- **No separate retargeting** — CBO handles it automatically
+- **Starting budget:** $50-100/day on CBO
 - **Creatives:** 5-10 per launch, 1 short + 1 long copy per image
+- **Expect $2,000 of spend before judging** — learning phase is real, don't panic
 
 ### CPA Decision Thresholds
 
