@@ -258,24 +258,31 @@ Every day, one email goes to your customer list. Not prospects. Buyers.
 - Daily = top of mind when they're ready to ascend
 - Story-first builds relationship; you're not "that person who only pitches"
 
-### The 10-Day Automation
+### The 10-Day Welcome Sequence
 
-New buyers get a 10-day sequence before joining the daily rhythm:
+New buyers get a 10-email sequence over 10 days. **This sequence builds relationship only — no pitches.** All upsell offers are handled by separate parallel recovery sequences running alongside.
 
-| Day | Focus | Offer |
-|-----|-------|-------|
-| 1 | Welcome + quick win | — |
-| 2 | Your story (why you do this) | — |
-| 3 | First case study | Bump they missed |
-| 4 | Common mistake to avoid | Templates ($37) |
-| 5 | Quick tip + value | — |
-| 6 | Client transformation | Sprint ($297) |
-| 7 | Behind-the-scenes | — |
-| 8 | FAQ / objection handling | Blueprint ($397) |
-| 9 | "What happens next" roadmap | — |
-| 10 | Personal invite to Skool | Community |
+| Day | Subject | Focus |
+|-----|---------|-------|
+| 1 | You're in — here's your first win | Quick win + access |
+| 2 | Why I do this (honest answer) | Origin story |
+| 3 | She validated in 3 days | Case study / inspiration |
+| 4 | The mistake that cost me 6 months | Common mistake |
+| 5 | The 2-minute test for your offer | Quick tip |
+| 6 | From stuck to first client in 30 days | Transformation story |
+| 7 | What my morning actually looks like | Behind the scenes |
+| 8 | "What if I'm not ready?" | FAQ / objection |
+| 9 | What happens after $27 | The roadmap |
+| 10 | Come hang out | Community invite |
 
-After Day 10, they join the daily broadcast.
+**Parallel Recovery Sequences (Days 2-8, sent at 2PM alongside 8AM welcome emails):**
+- **Bump Recovery** (3 emails, Days 2/4/6) — pitches only the bumps they missed
+- **OTO Recovery** (3 emails, Days 3/5/7) — Sprint on Days 3/5, Blueprint on Day 7
+- **Community Recovery** (1 email, Day 8) — downsell for buyers who declined all upsells
+
+After Day 10, they join the daily broadcast (Day 11+).
+
+**Implementation:** 6 GHL workflows with separated concerns. See `outputs/emails/ghl-workflow-setup.md` for full setup.
 
 ### Why This Works
 

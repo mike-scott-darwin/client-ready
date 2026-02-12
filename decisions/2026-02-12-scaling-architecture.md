@@ -1,7 +1,7 @@
 ---
 type: decision
 date: 2026-02-12
-status: proposed
+status: accepted
 urgency: normal
 ---
 
