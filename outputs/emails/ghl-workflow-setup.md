@@ -43,13 +43,14 @@ Go to **Settings → Tags** in GHL. Create each tag exactly as written (copy-pas
 - `purchased-blueprint`
 - `purchased-community`
 
-### Sequence Tags
-- `in-nonbuyer-sequence`
-- `in-welcome-sequence`
-- `completed-welcome`
+### Routing Tags
+- `buyer-core`
+- `non-buyer-sequence`
+- `buyer-sequence`
+- `buyer-30-day-complete`
 - `in-daily-broadcast`
 
-**Total: 12 tags.**
+**Total: 13 tags.**
 
 ---
 
@@ -93,14 +94,15 @@ Create these 2 triggers:
 
 **Trigger 1: "Non-Buyer Start"**
 - Event: Tag Added → `lead`
-- Action: Add tag → `in-nonbuyer-sequence`
+- Action: Add tag → `non-buyer-sequence`
 
 **Trigger 2: "Buyer Start"**
 - Event: Tag Added → `purchased-27`
 - Actions (in order):
-  1. Add tag → `in-welcome-sequence`
-  2. Remove tag → `in-nonbuyer-sequence`
-  3. Remove tag → `lead`
+  1. Add tag → `buyer-core`
+  2. Add tag → `buyer-sequence`
+  3. Remove tag → `non-buyer-sequence`
+  4. Remove tag → `lead`
 
 That's it for triggers. Everything else happens inside workflows.
 
@@ -115,7 +117,7 @@ That's it for triggers. Everything else happens inside workflows.
 ### Workflow Trigger
 - Click "Add New Trigger"
 - Type: **Tag Added**
-- Tag: `in-nonbuyer-sequence`
+- Tag: `non-buyer-sequence`
 - Save trigger
 
 ### Build the Steps (in order)
@@ -124,9 +126,9 @@ Click "+" after the trigger to add each step. Build this exact sequence:
 
 ```
 Step 1:  WAIT → Wait for 30 minutes
-Step 2:  IF/ELSE → Contact Tag → Has tag "purchased-27"
+Step 2:  IF/ELSE → Contact Tag → Has tag "buyer-core"
            ├── YES branch:
-           │     Step 2a: REMOVE TAG → "in-nonbuyer-sequence"
+           │     Step 2a: REMOVE TAG → "non-buyer-sequence"
            │     (branch ends — workflow exits)
            └── NO branch: (continue below)
 
@@ -136,8 +138,8 @@ Step 3:  SEND EMAIL → NB01-soft-abandon.html
 
 Step 4:  WAIT → Wait 1 day (until 9:00 AM)
 
-Step 5:  IF/ELSE → Contact Tag → Has tag "purchased-27"
-           ├── YES: REMOVE TAG "in-nonbuyer-sequence" → End
+Step 5:  IF/ELSE → Contact Tag → Has tag "buyer-core"
+           ├── YES: REMOVE TAG "non-buyer-sequence" → End
            └── NO: continue
 
 Step 6:  SEND EMAIL → NB02-cost-of-waiting.html
@@ -145,7 +147,7 @@ Step 6:  SEND EMAIL → NB02-cost-of-waiting.html
 
 Step 7:  WAIT → Wait 2 days (until 9:00 AM) [Day 4]
 
-Step 8:  IF/ELSE → Has tag "purchased-27"
+Step 8:  IF/ELSE → Has tag "buyer-core"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -154,7 +156,7 @@ Step 9:  SEND EMAIL → NB03-objection-killer.html
 
 Step 10: WAIT → Wait 2 days (until 9:00 AM) [Day 6]
 
-Step 11: IF/ELSE → Has tag "purchased-27"
+Step 11: IF/ELSE → Has tag "buyer-core"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -163,7 +165,7 @@ Step 12: SEND EMAIL → NB04-contrarian-hook.html
 
 Step 13: WAIT → Wait 2 days (until 9:00 AM) [Day 8]
 
-Step 14: IF/ELSE → Has tag "purchased-27"
+Step 14: IF/ELSE → Has tag "buyer-core"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -172,7 +174,7 @@ Step 15: SEND EMAIL → NB05-social-proof.html
 
 Step 16: WAIT → Wait 2 days (until 9:00 AM) [Day 10]
 
-Step 17: IF/ELSE → Has tag "purchased-27"
+Step 17: IF/ELSE → Has tag "buyer-core"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -181,7 +183,7 @@ Step 18: SEND EMAIL → NB06-direct-close.html
 
 Step 19: WAIT → Wait 4 days (until 9:00 AM) [Day 14]
 
-Step 20: IF/ELSE → Has tag "purchased-27"
+Step 20: IF/ELSE → Has tag "buyer-core"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -190,7 +192,7 @@ Step 21: SEND EMAIL → NB07-pivot-to-value.html
 
 Step 22: WAIT → Wait 2 days (until 9:00 AM) [Day 16]
 
-Step 23: IF/ELSE → Has tag "purchased-27"
+Step 23: IF/ELSE → Has tag "buyer-core"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -199,7 +201,7 @@ Step 24: SEND EMAIL → NB08-wrong-wrong-wrong.html
 
 Step 25: WAIT → Wait 3 days (until 9:00 AM) [Day 19]
 
-Step 26: IF/ELSE → Has tag "purchased-27"
+Step 26: IF/ELSE → Has tag "buyer-core"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -208,7 +210,7 @@ Step 27: SEND EMAIL → NB09-the-transformation.html
 
 Step 28: WAIT → Wait 3 days (until 9:00 AM) [Day 22]
 
-Step 29: IF/ELSE → Has tag "purchased-27"
+Step 29: IF/ELSE → Has tag "buyer-core"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -217,7 +219,7 @@ Step 30: SEND EMAIL → NB10-the-calculator.html
 
 Step 31: WAIT → Wait 4 days (until 9:00 AM) [Day 26]
 
-Step 32: IF/ELSE → Has tag "purchased-27"
+Step 32: IF/ELSE → Has tag "buyer-core"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -226,14 +228,14 @@ Step 33: SEND EMAIL → NB11-cant-go-it-alone.html
 
 Step 34: WAIT → Wait 4 days (until 9:00 AM) [Day 30]
 
-Step 35: IF/ELSE → Has tag "purchased-27"
+Step 35: IF/ELSE → Has tag "buyer-core"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
 Step 36: SEND EMAIL → NB12-last-call.html
            Subject: "Closing the loop on this"
 
-Step 37: REMOVE TAG → "in-nonbuyer-sequence"
+Step 37: REMOVE TAG → "non-buyer-sequence"
 
 (Workflow ends)
 ```
@@ -257,7 +259,7 @@ Step 37: REMOVE TAG → "in-nonbuyer-sequence"
 
 ### Key Settings
 - **Send time:** 9:00 AM local (except NB01 which sends 30 min after abandon)
-- **Exit condition:** IF/ELSE checks for `purchased-27` before EVERY email
+- **Exit condition:** IF/ELSE checks for `buyer-core` before EVERY email
 - **If they buy at any point:** Workflow exits, tag gets removed, buyer workflows take over
 
 ---
@@ -270,12 +272,12 @@ Step 37: REMOVE TAG → "in-nonbuyer-sequence"
 
 ### Workflow Trigger
 - Type: **Tag Added**
-- Tag: `in-welcome-sequence`
+- Tag: `buyer-sequence`
 
 ### Build the Steps
 
 ```
-Step 1:  REMOVE TAG → "in-nonbuyer-sequence" (cleanup — may not exist, that's fine)
+Step 1:  REMOVE TAG → "non-buyer-sequence" (cleanup — may not exist, that's fine)
 
 Step 2:  SEND EMAIL → BW01-welcome-quick-win.html
            Subject: "You're in — here's your first win"
@@ -326,9 +328,9 @@ Step 19: WAIT → Wait 1 day (until 8:00 AM) [Day 10]
 Step 20: SEND EMAIL → BW10-community-invite.html
            Subject: "Come hang out"
 
-Step 21: REMOVE TAG → "in-welcome-sequence"
+Step 21: REMOVE TAG → "buyer-sequence"
 
-Step 22: ADD TAG → "completed-welcome"
+Step 22: ADD TAG → "buyer-30-day-complete"
 
 Step 23: ADD TAG → "in-daily-broadcast"
 
@@ -353,7 +355,7 @@ Step 23: ADD TAG → "in-daily-broadcast"
 ### Key Settings
 - **Send time:** 8:00 AM local (except BW01 which sends immediately on purchase)
 - **No purchase checks needed** — they already bought
-- **After Day 10:** Tags flip to `completed-welcome` + `in-daily-broadcast`
+- **After Day 10:** Tags flip to `buyer-30-day-complete` + `in-daily-broadcast`
 
 ---
 
@@ -655,15 +657,15 @@ Test with a real contact (yourself or a test email) through each path:
 ### Test Path 1: Non-Buyer
 - [ ] Enter email on checkout, don't pay
 - [ ] Verify `lead` tag applied
-- [ ] Verify `in-nonbuyer-sequence` tag applied (from trigger)
+- [ ] Verify `non-buyer-sequence` tag applied (from trigger)
 - [ ] Wait 30 min — verify NB01 sends
-- [ ] Verify purchase check works: manually add `purchased-27` tag → confirm workflow exits
+- [ ] Verify purchase check works: manually add `buyer-core` tag → confirm workflow exits
 
 ### Test Path 2: Buyer (No Bumps)
 - [ ] Complete $27 purchase (no bumps)
 - [ ] Verify `purchased-27` tag applied
-- [ ] Verify `in-nonbuyer-sequence` removed (from trigger)
-- [ ] Verify `in-welcome-sequence` added (from trigger)
+- [ ] Verify `non-buyer-sequence` removed (from trigger)
+- [ ] Verify `buyer-sequence` added (from trigger)
 - [ ] Verify BW01 sends immediately
 - [ ] Verify Bump Recovery starts (BR01 on Day 2 at 2 PM)
 - [ ] Verify OTO Recovery starts (OR01 on Day 3 at 2 PM)
@@ -683,8 +685,8 @@ Test with a real contact (yourself or a test email) through each path:
 - [ ] Verify Buyer workflows start
 
 ### Post-Welcome
-- [ ] After Day 10: verify `in-welcome-sequence` removed
-- [ ] Verify `completed-welcome` added
+- [ ] After Day 10: verify `buyer-sequence` removed
+- [ ] Verify `buyer-30-day-complete` added
 - [ ] Verify `in-daily-broadcast` added
 - [ ] Verify contact appears in Daily Broadcast segment
 
@@ -693,8 +695,8 @@ Test with a real contact (yourself or a test email) through each path:
 ## Troubleshooting
 
 **Contact getting duplicate emails:**
-- Check they're not in both non-buyer AND buyer sequences (trigger should remove `in-nonbuyer-sequence` on purchase)
-- Verify the "Buyer Start" trigger removes `in-nonbuyer-sequence` tag
+- Check they're not in both non-buyer AND buyer sequences (trigger should remove `non-buyer-sequence` on purchase)
+- Verify the "Buyer Start" trigger removes `non-buyer-sequence` tag
 
 **Contact not receiving emails:**
 - Check tag was added correctly (Settings → Tags → click tag → see contacts)
