@@ -10,10 +10,15 @@ All email sequences for the Client Ready funnel, organized by audience segment.
 Visitor → [1] Non-Buyer Sequence (30 days)
               ↓ (if buys)
           [2] Welcome Sequence (10 days, 8 AM)
+              │   Day 3: consumption branch (opened vs not opened)
+              │   Days 5,7,9: soft ascension P.S.
               ↓ (parallel)
           [3] Recovery Sequences (Days 2-8, 2 PM)
               ↓ (after Day 10)
           [4] Daily Broadcast (ongoing)
+
+Sprint/Blueprint buyers also get:
+          [7] Accountability DM (manual, within 48 hours)
 ```
 
 ---
@@ -52,12 +57,15 @@ Visitor → [1] Non-Buyer Sequence (30 days)
 
 ### New Buyers (Days 1-10)
 1. Purchase $27
-2. Enter **2-buyers-welcome-10-day** (8 AM, relationship)
+2. Enter **2-buyers-welcome-10-day** (8 AM, relationship + iron strike ascension)
+   - Day 3 branches based on product consumption (Advanced Tips vs Quick Start)
+   - Days 5, 7, 9 include soft ascension P.S. sections
 3. Simultaneously enter recovery sequences (2 PM, upsells):
    - **3-buyers-recovery-bumps** if missed bumps
    - **3-buyers-recovery-otos** if missed Sprint/DFY
    - **3-buyers-recovery-community** on Day 8 if still no upsell
-4. After Day 10 → join daily broadcast
+4. Sprint/Blueprint buyers get manual accountability DM within 48 hours (Workflow 7)
+5. After Day 10 → join daily broadcast
 
 ### Long-Term Buyers (Day 11+)
 1. Exit welcome sequence

@@ -5,7 +5,7 @@ date: 2026-02-04
 purpose: Buyer welcome sequence (relationship only)
 trigger: Purchased $27 Client Ready Offer System
 duration: 10 days
-note: NO pitches in this sequence. Recovery sequences handle all upsells.
+note: Relationship-first with soft ascension in iron strike window (Days 5-9). Consumption branch on Day 3.
 ---
 
 # 10-Day Welcome Sequence
@@ -19,31 +19,36 @@ note: NO pitches in this sequence. Recovery sequences handle all upsells.
 
 ## Design Principle
 
-**This sequence does ONE thing: build relationship.**
+**This sequence is relationship-first with soft ascension in the iron strike window.**
 
-All upsell pitches are handled by parallel recovery sequences:
+Research across 6+ practitioners shows ascension probability peaks in the first 7-21 days after purchase. This sequence builds relationship AND includes soft ascension touchpoints on Days 5, 7, and 9.
+
+Hard upsell pitches are still handled by parallel recovery sequences:
 - Bump Recovery (Days 2, 4, 6) → missed bumps
 - OTO Recovery (Days 3, 5, 7) → Sprint/DFY
 - Community Recovery (Day 8) → OTO 3 downsell
 
-Separating concerns prevents email fatigue and lets each sequence do its job well.
+Day 3 branches based on product consumption — different emails for openers vs non-openers.
+
+See `decisions/2026-02-14-ecosystem-architecture-iron-strike.md` for full rationale.
 
 ---
 
 ## Sequence Overview
 
-| Day | Subject | Focus | Pitch? |
-|-----|---------|-------|--------|
-| 1 | You're in — here's your first win | Quick win + access | No |
-| 2 | Why I do this (honest answer) | Origin story | No |
-| 3 | She validated in 3 days | Case study / inspiration | No |
-| 4 | The mistake that cost me 6 months | Common mistake | No |
-| 5 | The 2-minute test for your offer | Quick tip | No |
-| 6 | From stuck to first client in 30 days | Transformation story | No |
-| 7 | What my morning actually looks like | Behind the scenes | No |
-| 8 | "What if I'm not ready?" | FAQ / objection | No |
-| 9 | What happens after $27 | The roadmap | No |
-| 10 | Come hang out | Community invite | No |
+| Day | Subject | Focus | Ascension |
+|-----|---------|-------|-----------|
+| 1 | You're in — here's your first win | Quick win + access | — |
+| 2 | Why I do this (honest answer) | Origin story | — |
+| 3a | Now that you've started... | Advanced tips (if opened product) | Consumption branch |
+| 3b | Haven't started yet? | Quick start (if NOT opened product) | Consumption branch |
+| 4 | The mistake that cost me 6 months | Common mistake | — |
+| 5 | The 2-minute test for your offer | Quick tip | Soft close (Sprint) |
+| 6 | From stuck to first client in 30 days | Transformation story | — |
+| 7 | What my morning actually looks like | Behind the scenes | Soft close (Sprint/Blueprint) |
+| 8 | "What if I'm not ready?" | FAQ / objection | — |
+| 9 | What happens after $27 | The roadmap | Explicit CTA (Sprint vs Blueprint) |
+| 10 | Come hang out | Community invite | — |
 
 ---
 
@@ -105,29 +110,71 @@ Michael
 
 ---
 
-## Day 3: Case Study
+## Day 3: Consumption Branch
 
-**Subject:** She validated in 3 days (here's how)
+**Day 3 sends one of two emails based on whether the buyer has accessed the product.**
+
+### Day 3a: Advanced Tips (if opened product)
+
+**Subject:** Now that you've started — get the most out of Prompt 3
 
 ---
 
 Hey [NAME],
 
-Quick story about Sarah.
+I can see you've started going through the system. Nice.
 
-She'd been "working on her offer" for 4 months. Tweaking. Second-guessing. Stuck in her head.
+Quick tip that most people miss:
 
-She ran through the Client Ready extraction prompts on a Tuesday. By Friday, she had her first paying client.
+**Prompt 3 (the pain points extraction) is where the money is.**
 
-What changed? She stopped perfecting and started testing.
+Most coaches rush through it and write generic answers like "they want more clients" or "they feel stuck."
 
-The offer document gave her something concrete to share. Not a pitch deck. Not a sales page. Just a clear articulation of the transformation and how she delivers it.
+That's not a pain point. That's a category.
 
-She sent it to 5 people she knew. Two said "tell me more." One bought.
+A real pain point sounds like something a real person would say out loud at 11pm:
 
-That's the power of extraction over invention.
+- "I've been posting for a year and nobody's buying"
+- "I can't explain what I do without sounding like every other coach"
+- "I know I'm good at this but I can't figure out what to charge"
 
-How's your extraction going? Reply and let me know where you're at.
+Specific. Emotional. Real.
+
+If your Prompt 3 answers feel vague, go back and rewrite them in the voice of your actual client. What would they text their best friend?
+
+That's the version that sells.
+
+Reply with your best pain point — I'll tell you if it's specific enough.
+
+Michael
+
+### Day 3b: Quick Start (if NOT opened product)
+
+**Subject:** Haven't started yet? Here's the 5-minute version
+
+---
+
+Hey [NAME],
+
+Hey — noticed you haven't jumped into the system yet.
+
+No judgment. Life gets busy.
+
+But here's the thing: the longer you wait, the less likely you'll start. That's not an opinion — it's just how motivation works.
+
+So here's the **5-minute version**:
+
+**Step 1:** Open the guide. [Here's your access link.]
+
+**Step 2:** Skip to the first AI prompt.
+
+**Step 3:** Answer the Zone of Genius question. Just that one. Don't read ahead. Don't try to be perfect.
+
+That single answer starts the whole extraction process. Everything else builds on it.
+
+5 minutes. One question. That's it for today.
+
+Reply and tell me your answer — I'll give you feedback.
 
 Michael
 
@@ -186,6 +233,8 @@ Clarity isn't about being clever. It's about being obvious.
 Try it today. Let me know what happens.
 
 Michael
+
+P.S. — If you've done the test and your offer passed, you're ahead of most people. The next step is building the system around it. That's what the Client Ready Sprint does — we build it together in 30 days.
 
 ---
 
@@ -250,6 +299,8 @@ You do the work once. It keeps working.
 That's what we're building together.
 
 Michael
+
+P.S. — This is what it looks like when the system runs. If you want help building yours, here's how: the Sprint is 4 weeks, done together. The Blueprint is done for you — I build the whole strategy. Either way, the goal is the same morning I just described.
 
 ---
 
@@ -320,6 +371,14 @@ Get the foundation right. Everything else gets easier.
 
 Michael
 
+P.S. — If you've finished Stage 1 and you're ready to move, here's the difference between the next steps:
+
+**The Sprint ($297)** — We build Stages 2-4 together over 4 weeks. Weekly calls, direct chat, accountability. Best if you want to do the work yourself with guidance.
+
+**The Blueprint ($397)** — I build your complete strategy, copy, and funnel template for you. Best if you want it done and ready to implement.
+
+No rush. But if you're feeling the momentum — that's the window to use it.
+
 ---
 
 ## Day 10: Community Invite
@@ -358,19 +417,20 @@ P.S. — Tomorrow you'll start getting my daily emails. Same format: story, offe
 
 ## Automation Notes
 
-| Day | Email | Condition |
-|-----|-------|-----------|
-| 0 | Purchase confirmation | Transactional (separate) |
-| 1 | Welcome + Quick Win | All buyers |
-| 2 | Origin Story | All buyers |
-| 3 | Case Study | All buyers |
-| 4 | Common Mistake | All buyers |
-| 5 | Quick Tip | All buyers |
-| 6 | Transformation Story | All buyers |
-| 7 | Behind the Scenes | All buyers |
-| 8 | FAQ / Objection | All buyers |
-| 9 | The Roadmap | All buyers |
-| 10 | Community Invite | All buyers |
+| Day | Email | Condition | Iron Strike |
+|-----|-------|-----------|-------------|
+| 0 | Purchase confirmation | Transactional (separate) | — |
+| 1 | Welcome + Quick Win | All buyers | — |
+| 2 | Origin Story | All buyers | — |
+| 3a | Advanced Tips | Buyers who opened product | Consumption branch |
+| 3b | Quick Start | Buyers who didn't open product | Consumption branch |
+| 4 | Common Mistake | All buyers | — |
+| 5 | Quick Tip | All buyers | Soft close P.S. |
+| 6 | Transformation Story | All buyers | — |
+| 7 | Behind the Scenes | All buyers | Soft close P.S. |
+| 8 | FAQ / Objection | All buyers | — |
+| 9 | The Roadmap | All buyers | Explicit CTA |
+| 10 | Community Invite | All buyers | — |
 
 **After Day 10:** Add to daily broadcast list.
 
@@ -407,6 +467,6 @@ These run alongside welcome — different sending times to avoid stacking:
 - [x] Direct, not hype
 - [x] Short paragraphs (1-3 sentences)
 - [x] Personal stories
-- [x] NO pitches (recovery handles those)
+- [x] Soft ascension only (P.S. sections on Days 5, 7, 9 — recovery handles hard pitches)
 - [x] PS where natural
 - [x] Reply invitations

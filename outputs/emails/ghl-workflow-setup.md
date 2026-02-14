@@ -1,9 +1,9 @@
 ---
 type: output
 status: active
-date: 2026-02-10
+date: 2026-02-14
 purpose: GHL workflow configuration for email sequences
-updated: Explicit step-by-step for every workflow — no shortcuts
+updated: Iron Strike system — consumption branch, soft ascension, accountability DMs
 ---
 
 # GHL Workflow Setup
@@ -14,16 +14,17 @@ Complete GoHighLevel workflow configuration for the Client Ready email backend. 
 
 ## What You're Building
 
-6 workflows that handle the entire buyer journey automatically:
+7 workflows that handle the entire buyer journey automatically:
 
 | # | Workflow Name | Trigger | Emails | HTML Files |
 |---|---------------|---------|--------|------------|
 | 1 | Non-Buyer Nurture | Entered email, no purchase | 12 emails / 30 days | `nb-sequence/NB01-NB12` |
-| 2 | Buyer Welcome | Purchased $27 | 10 emails / 10 days | `bw-sequence/BW01-BW10` |
+| 2 | Buyer Welcome | Purchased $27 | 10 emails / 10 days (Day 3 branches) | `bw-sequence/BW01-BW10` + `BW03a/BW03b` |
 | 3 | Bump Recovery | Purchased $27, missed bumps | 3 emails (Days 2,4,6) | `br-sequence/BR01-BR03` |
 | 4 | OTO Recovery | Purchased $27, no Sprint/Blueprint | 3 emails (Days 3,5,7) | `or-sequence/OR01-OR03` |
 | 5 | Community Recovery | Purchased $27, no upsells at all | 1 email (Day 8) | `cr-sequence/CR01` |
 | 6 | Daily Broadcast | Day 11+ | Ongoing (7 templates) | `db-sequence/DB01-DB07` |
+| 7 | Accountability DM | Purchased Sprint or Blueprint | Manual DM trigger | (no HTML — manual outreach) |
 
 ---
 
@@ -50,7 +51,13 @@ Go to **Settings → Tags** in GHL. Create each tag exactly as written (copy-pas
 - `buyer-30-day-complete`
 - `in-daily-broadcast`
 
-**Total: 13 tags.**
+### Consumption Tracking Tags
+- `product-accessed`
+
+### Accountability Tags
+- `needs-accountability-dm`
+
+**Total: 15 tags.**
 
 ---
 
@@ -268,7 +275,7 @@ Step 37: REMOVE TAG → "non-buyer-sequence"
 
 **Where:** Automations → Workflows → Create Workflow → Start from Scratch
 
-**Name:** `Buyer Welcome (10-Day)`
+**Name:** `Buyer Welcome (10-Day) — Iron Strike`
 
 ### Workflow Trigger
 - Type: **Tag Added**
@@ -290,8 +297,15 @@ Step 4:  SEND EMAIL → BW02-origin-story.html
 
 Step 5:  WAIT → Wait 1 day (until 8:00 AM) [Day 3]
 
-Step 6:  SEND EMAIL → BW03-case-study.html
-           Subject: "She validated in 3 days"
+         ┌─── CONSUMPTION BRANCH ───┐
+Step 6:  IF/ELSE → Contact Tag → Has tag "product-accessed"
+           ├── YES (opened product):
+           │     Step 6a: SEND EMAIL → BW03a-advanced-tips.html
+           │              Subject: "Now that you've started — get the most out of Prompt 3"
+           └── NO (hasn't opened):
+                 Step 6b: SEND EMAIL → BW03b-quick-start.html
+                          Subject: "Haven't started yet? Here's the 5-minute version"
+         └─── BOTH PATHS CONTINUE ──┘
 
 Step 7:  WAIT → Wait 1 day (until 8:00 AM) [Day 4]
 
@@ -302,6 +316,7 @@ Step 9:  WAIT → Wait 1 day (until 8:00 AM) [Day 5]
 
 Step 10: SEND EMAIL → BW05-quick-tip.html
            Subject: "The 2-minute test for your offer"
+           (Includes soft ascension P.S. — Sprint link)
 
 Step 11: WAIT → Wait 1 day (until 8:00 AM) [Day 6]
 
@@ -312,6 +327,7 @@ Step 13: WAIT → Wait 1 day (until 8:00 AM) [Day 7]
 
 Step 14: SEND EMAIL → BW07-behind-the-scenes.html
            Subject: "What my morning actually looks like"
+           (Includes soft ascension P.S. — Sprint/Blueprint links)
 
 Step 15: WAIT → Wait 1 day (until 8:00 AM) [Day 8]
 
@@ -322,6 +338,7 @@ Step 17: WAIT → Wait 1 day (until 8:00 AM) [Day 9]
 
 Step 18: SEND EMAIL → BW09-the-roadmap.html
            Subject: "What happens after $27"
+           (Includes explicit Sprint vs Blueprint comparison CTA)
 
 Step 19: WAIT → Wait 1 day (until 8:00 AM) [Day 10]
 
@@ -337,24 +354,51 @@ Step 23: ADD TAG → "in-daily-broadcast"
 (Workflow ends)
 ```
 
+### Consumption Branch Setup (Day 3)
+
+**How `product-accessed` tag gets set:**
+
+Option A (GHL Membership Area):
+- If product is delivered via GHL Membership → Settings → Triggers → "Course Started" or "First Login" → Add tag `product-accessed`
+
+Option B (External delivery — PDF/link):
+- Track click on product access link in BW01 email → GHL link tracking → Add tag `product-accessed` on click
+- In BW01, make the product access link a GHL tracked link: Contacts → Triggers → "Link Clicked" → specific link → Add tag `product-accessed`
+
+Option C (Manual fallback):
+- Check download/access logs daily for first 3 days. Add tag manually for buyers who accessed.
+
+**Recommendation:** Option B is simplest — if they click the product link in BW01, they get tagged. No membership area needed.
+
+### Iron Strike Ascension Notes
+
+Days 5, 7, and 9 now include soft ascension closes as P.S. sections:
+- **Day 5:** Sprint link after the quick tip (natural "if you passed the test, here's the next step")
+- **Day 7:** Sprint/Blueprint comparison after behind-the-scenes (natural "this is the system — want help building yours?")
+- **Day 9:** Explicit Sprint vs Blueprint CTA within the roadmap email (natural "you're at Stage 1 — here's how to move to Stage 2-4")
+
+**Voice guard:** These are P.S. additions, not hard sells. The body of each email is unchanged. If the P.S. feels out of place or pushy, remove it — the parallel recovery sequences still handle direct pitching.
+
 ### Buyer Welcome Schedule Summary
 
-| Email | File | Day | Time | Subject |
-|-------|------|-----|------|---------|
-| BW01 | BW01-welcome-quick-win.html | 1 | Immediate | You're in — here's your first win |
-| BW02 | BW02-origin-story.html | 2 | 8:00 AM | Why I do this (honest answer) |
-| BW03 | BW03-case-study.html | 3 | 8:00 AM | She validated in 3 days |
-| BW04 | BW04-common-mistake.html | 4 | 8:00 AM | The mistake that cost me 6 months |
-| BW05 | BW05-quick-tip.html | 5 | 8:00 AM | The 2-minute test for your offer |
-| BW06 | BW06-transformation-story.html | 6 | 8:00 AM | From stuck to first client in 30 days |
-| BW07 | BW07-behind-the-scenes.html | 7 | 8:00 AM | What my morning actually looks like |
-| BW08 | BW08-faq-objection.html | 8 | 8:00 AM | "What if I'm not ready?" |
-| BW09 | BW09-the-roadmap.html | 9 | 8:00 AM | What happens after $27 |
-| BW10 | BW10-community-invite.html | 10 | 8:00 AM | Come hang out |
+| Email | File | Day | Time | Subject | Ascension |
+|-------|------|-----|------|---------|-----------|
+| BW01 | BW01-welcome-quick-win.html | 1 | Immediate | You're in — here's your first win | — |
+| BW02 | BW02-origin-story.html | 2 | 8:00 AM | Why I do this (honest answer) | — |
+| BW03a | BW03a-advanced-tips.html | 3 | 8:00 AM | Now that you've started — get the most out of Prompt 3 | Consumption: opened |
+| BW03b | BW03b-quick-start.html | 3 | 8:00 AM | Haven't started yet? Here's the 5-minute version | Consumption: not opened |
+| BW04 | BW04-common-mistake.html | 4 | 8:00 AM | The mistake that cost me 6 months | — |
+| BW05 | BW05-quick-tip.html | 5 | 8:00 AM | The 2-minute test for your offer | Soft close (Sprint) |
+| BW06 | BW06-transformation-story.html | 6 | 8:00 AM | From stuck to first client in 30 days | — |
+| BW07 | BW07-behind-the-scenes.html | 7 | 8:00 AM | What my morning actually looks like | Soft close (Sprint/Blueprint) |
+| BW08 | BW08-faq-objection.html | 8 | 8:00 AM | "What if I'm not ready?" | — |
+| BW09 | BW09-the-roadmap.html | 9 | 8:00 AM | What happens after $27 | Explicit CTA (Sprint vs Blueprint) |
+| BW10 | BW10-community-invite.html | 10 | 8:00 AM | Come hang out | — |
 
 ### Key Settings
 - **Send time:** 8:00 AM local (except BW01 which sends immediately on purchase)
-- **No purchase checks needed** — they already bought
+- **Day 3 branches** based on `product-accessed` tag (consumption tracking)
+- **Days 5, 7, 9** include soft ascension P.S. sections (iron strike window)
 - **After Day 10:** Tags flip to `buyer-30-day-complete` + `in-daily-broadcast`
 
 ---
@@ -591,32 +635,93 @@ As buyers ascend, they should stop seeing pitches for products they already own.
 
 ---
 
+## STEP 8: Build Workflow 7 — Accountability DM (Sprint/Blueprint)
+
+**Where:** Automations → Workflows → Create Workflow → Start from Scratch
+
+**Name:** `Accountability DM (Sprint/Blueprint Buyers)`
+
+### Purpose
+
+Manual outreach within 48 hours of Sprint or Blueprint purchase. Not automated email — a real DM from Michael. This catches high-value buyers at peak motivation.
+
+### Workflow Trigger
+- Type: **Tag Added**
+- Tag: `purchased-sprint` OR `purchased-blueprint`
+
+### Build the Steps
+
+```
+Step 1:  WAIT → Wait 1 hour
+           (Let purchase settle, don't DM instantly)
+
+Step 2:  INTERNAL NOTIFICATION → Send to Michael
+           Channel: Email or SMS (whichever you check most)
+           Message: "🔔 New [Sprint/Blueprint] buyer: {{contact.name}} ({{contact.email}})
+                     Purchased: {{trigger.tag}}
+                     ACTION: Send accountability DM within 48 hours"
+
+Step 3:  ADD TAG → "needs-accountability-dm"
+
+Step 4:  WAIT → Wait 48 hours
+
+Step 5:  IF/ELSE → Contact Tag → Has tag "needs-accountability-dm"
+           ├── YES (DM not sent yet):
+           │     INTERNAL NOTIFICATION → "⚠️ OVERDUE: Accountability DM for {{contact.name}} not sent yet"
+           └── NO (tag removed = DM was sent):
+                 (Workflow ends)
+```
+
+### The DM Script
+
+Send via Skool DM, Instagram DM, or email reply — wherever the buyer is most active:
+
+> "Hey [name] — saw you grabbed the [Sprint/Blueprint]. Just wanted to make sure you got access to everything. What are you working on right now?"
+
+### After Sending the DM
+
+Remove the `needs-accountability-dm` tag manually after you've sent the DM. This prevents the 48-hour reminder from firing.
+
+### Key Settings
+- **Not an automated email** — this is a manual DM triggered by a notification
+- **48-hour reminder** ensures no buyer falls through the cracks
+- **Remove tag after sending** to mark it done
+- **At scale (20+ per week):** Hire a setter to handle these. Same script. Same energy.
+
+---
+
 ## Complete Buyer Journey — Day by Day
 
 Here's exactly what a buyer who purchased ONLY the $27 (no bumps, no OTOs) receives:
 
-| Day | Time | Sequence | Email | Subject |
-|-----|------|----------|-------|---------|
-| 1 | Immediate | Welcome | BW01 | You're in — here's your first win |
-| 2 | 8:00 AM | Welcome | BW02 | Why I do this (honest answer) |
-| 2 | 2:00 PM | Bump Recovery | BR01 | One thing I forgot to mention... |
-| 3 | 8:00 AM | Welcome | BW03 | She validated in 3 days |
-| 3 | 2:00 PM | OTO Recovery | OR01 | Most people do this alone... |
-| 4 | 8:00 AM | Welcome | BW04 | The mistake that cost me 6 months |
-| 4 | 2:00 PM | Bump Recovery | BR02 | The blank page problem |
-| 5 | 8:00 AM | Welcome | BW05 | The 2-minute test for your offer |
-| 5 | 2:00 PM | OTO Recovery | OR02 | From "maybe someday" to first client in 28 days |
-| 6 | 8:00 AM | Welcome | BW06 | From stuck to first client in 30 days |
-| 6 | 2:00 PM | Bump Recovery | BR03 | Before you move on... |
-| 7 | 8:00 AM | Welcome | BW07 | What my morning actually looks like |
-| 7 | 2:00 PM | OTO Recovery | OR03 | What if I just built your strategy for you? |
-| 8 | 8:00 AM | Welcome | BW08 | "What if I'm not ready?" |
-| 8 | 2:00 PM | Community Recovery | CR01 | Not ready yet? (That's okay) |
-| 9 | 8:00 AM | Welcome | BW09 | What happens after $27 |
-| 10 | 8:00 AM | Welcome | BW10 | Come hang out |
-| 11+ | 8:00 AM | Daily Broadcast | DB01-07 | (rotating daily) |
+| Day | Time | Sequence | Email | Subject | Notes |
+|-----|------|----------|-------|---------|-------|
+| 1 | Immediate | Welcome | BW01 | You're in — here's your first win | |
+| 2 | 8:00 AM | Welcome | BW02 | Why I do this (honest answer) | |
+| 2 | 2:00 PM | Bump Recovery | BR01 | One thing I forgot to mention... | |
+| 3 | 8:00 AM | Welcome | BW03a or BW03b | Advanced Tips / Quick Start | **Consumption branch** |
+| 3 | 2:00 PM | OTO Recovery | OR01 | Most people do this alone... | |
+| 4 | 8:00 AM | Welcome | BW04 | The mistake that cost me 6 months | |
+| 4 | 2:00 PM | Bump Recovery | BR02 | The blank page problem | |
+| 5 | 8:00 AM | Welcome | BW05 | The 2-minute test for your offer | **Soft ascension P.S.** |
+| 5 | 2:00 PM | OTO Recovery | OR02 | From "maybe someday" to first client in 28 days | |
+| 6 | 8:00 AM | Welcome | BW06 | From stuck to first client in 30 days | |
+| 6 | 2:00 PM | Bump Recovery | BR03 | Before you move on... | |
+| 7 | 8:00 AM | Welcome | BW07 | What my morning actually looks like | **Soft ascension P.S.** |
+| 7 | 2:00 PM | OTO Recovery | OR03 | What if I just built your strategy for you? | |
+| 8 | 8:00 AM | Welcome | BW08 | "What if I'm not ready?" | |
+| 8 | 2:00 PM | Community Recovery | CR01 | Not ready yet? (That's okay) | |
+| 9 | 8:00 AM | Welcome | BW09 | What happens after $27 | **Explicit ascension CTA** |
+| 10 | 8:00 AM | Welcome | BW10 | Come hang out | |
+| 11+ | 8:00 AM | Daily Broadcast | DB01-07 | (rotating daily) | |
 
 **Max 2 emails per day.** Morning (8 AM) = relationship. Afternoon (2 PM) = offers.
+
+**Iron Strike additions (Days 3-9):**
+- Day 3 branches based on product consumption (different email for openers vs non-openers)
+- Days 5, 7 add soft ascension P.S. to existing relationship emails
+- Day 9 adds explicit Sprint vs Blueprint comparison CTA
+- Sprint/Blueprint buyers also get a manual accountability DM within 48 hours (Workflow 7)
 
 ---
 
@@ -648,11 +753,12 @@ What someone who entered their email but didn't buy receives:
 Test with a real contact (yourself or a test email) through each path:
 
 ### Pre-Launch
-- [ ] All 12 tags created in GHL
+- [ ] All 15 tags created in GHL (including `product-accessed` and `needs-accountability-dm`)
 - [ ] 2-step order form adds `lead` tag on Step 1
 - [ ] Each product adds correct purchase tag
+- [ ] Product access link in BW01 is a GHL tracked link → triggers `product-accessed` tag
 - [ ] Both GHL triggers created and active
-- [ ] All 6 workflows built and set to ACTIVE
+- [ ] All 7 workflows built and set to ACTIVE
 
 ### Test Path 1: Non-Buyer
 - [ ] Enter email on checkout, don't pay
@@ -670,6 +776,25 @@ Test with a real contact (yourself or a test email) through each path:
 - [ ] Verify Bump Recovery starts (BR01 on Day 2 at 2 PM)
 - [ ] Verify OTO Recovery starts (OR01 on Day 3 at 2 PM)
 - [ ] Verify Community Recovery sends on Day 8 at 2 PM
+
+### Test Path 2b: Consumption Branch (Day 3)
+- [ ] Click product link in BW01 → verify `product-accessed` tag applied
+- [ ] Wait for Day 3 email → verify BW03a (advanced tips) sends
+- [ ] For a separate test contact: do NOT click product link
+- [ ] Wait for Day 3 email → verify BW03b (quick start) sends
+
+### Test Path 2c: Ascension Emails (Days 5, 7, 9)
+- [ ] Day 5: BW05 sends with Sprint P.S. link — verify link works
+- [ ] Day 7: BW07 sends with Sprint/Blueprint P.S. links — verify both work
+- [ ] Day 9: BW09 sends with explicit Sprint vs Blueprint comparison — verify links
+
+### Test Path 2d: Accountability DM (Sprint/Blueprint)
+- [ ] Purchase Sprint → verify `purchased-sprint` tag applied
+- [ ] Verify internal notification sent within 1 hour
+- [ ] Verify `needs-accountability-dm` tag applied
+- [ ] Send DM manually, remove tag
+- [ ] Verify 48-hour reminder does NOT fire (tag removed)
+- [ ] Test reminder: don't remove tag → verify overdue notification at 48 hours
 
 ### Test Path 3: Buyer (With Bumps)
 - [ ] Complete $27 + all 3 bumps
@@ -727,13 +852,13 @@ All email HTML files ready to paste into GHL:
 | Sequence | Folder | Files |
 |----------|--------|-------|
 | Non-Buyer | `nb-sequence/` | NB01 through NB12 (12 files) |
-| Buyer Welcome | `bw-sequence/` | BW01 through BW10 (10 files) |
+| Buyer Welcome | `bw-sequence/` | BW01, BW02, BW03a, BW03b, BW04-BW10 (12 files) |
 | Bump Recovery | `br-sequence/` | BR01 through BR03 (3 files) |
 | OTO Recovery | `or-sequence/` | OR01 through OR03 (3 files) |
 | Community Recovery | `cr-sequence/` | CR01 (1 file) |
 | Daily Broadcast | `db-sequence/` | DB01 through DB07 (7 files) |
 
-**Total: 36 HTML email files.**
+**Total: 38 HTML email files.**
 
 ---
 
