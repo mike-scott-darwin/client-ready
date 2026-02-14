@@ -260,20 +260,28 @@ Every day, one email goes to your customer list. Not prospects. Buyers.
 
 ### The 10-Day Welcome Sequence
 
-New buyers get a 10-email sequence over 10 days. **This sequence builds relationship only — no pitches.** All upsell offers are handled by separate parallel recovery sequences running alongside.
+New buyers get a 10-email sequence over 10 days. **This sequence is relationship-first with soft ascension in the iron strike window (Days 5-9).** Parallel recovery sequences handle direct upsell pitches separately.
 
-| Day | Subject | Focus |
-|-----|---------|-------|
-| 1 | You're in — here's your first win | Quick win + access |
-| 2 | Why I do this (honest answer) | Origin story |
-| 3 | She validated in 3 days | Case study / inspiration |
-| 4 | The mistake that cost me 6 months | Common mistake |
-| 5 | The 2-minute test for your offer | Quick tip |
-| 6 | From stuck to first client in 30 days | Transformation story |
-| 7 | What my morning actually looks like | Behind the scenes |
-| 8 | "What if I'm not ready?" | FAQ / objection |
-| 9 | What happens after $27 | The roadmap |
-| 10 | Come hang out | Community invite |
+| Day | Subject | Focus | Ascension |
+|-----|---------|-------|-----------|
+| 1 | You're in — here's your first win | Quick win + access | — |
+| 2 | Why I do this (honest answer) | Origin story | — |
+| 3 | She validated in 3 days | Case study / inspiration | **Consumption branch** (see below) |
+| 4 | The mistake that cost me 6 months | Common mistake | — |
+| 5 | The 2-minute test for your offer | Quick tip | Soft close: "If you've done the test and you're ready for the next step, the Sprint is where we build it together in 30 days." |
+| 6 | From stuck to first client in 30 days | Transformation story | — |
+| 7 | What my morning actually looks like | Behind the scenes | Soft close: "This is what it looks like when the system runs. If you want help building yours, here's how." |
+| 8 | "What if I'm not ready?" | FAQ / objection | — |
+| 9 | What happens after $27 | The roadmap | Explicit CTA: "You're here. The next step is [Sprint/Blueprint]. Here's the difference." |
+| 10 | Come hang out | Community invite | — |
+
+**Iron Strike Principle:** Research across 6+ practitioners shows ascension probability peaks in the first 7-21 days after purchase. After 3 weeks, it drops significantly. Days 5/7/9 carry soft ascension CTAs within the relationship email — not separate pitches. Same voice, same tone. If it reads like a pitch, rewrite it. See `decisions/2026-02-14-ecosystem-architecture-iron-strike.md`.
+
+**Day 3 Consumption Branch:**
+GHL tracks whether buyers access the product by Day 3. Two paths:
+- **Opened product →** "Advanced Tips" email: "Now that you've started, here's how to get the most out of Prompt 3..."
+- **Hasn't opened →** "Quick Start" email: "Hey, noticed you haven't jumped in yet. Here's the single fastest win — takes 5 minutes..."
+Why: Buyers who consume are exponentially more likely to ascend. Non-consumers need accountability, not more pitching.
 
 **Parallel Recovery Sequences (Days 2-8, sent at 2PM alongside 8AM welcome emails):**
 - **Bump Recovery** (3 emails, Days 2/4/6) — pitches only the bumps they missed
@@ -282,7 +290,16 @@ New buyers get a 10-email sequence over 10 days. **This sequence builds relation
 
 After Day 10, they join the daily broadcast (Day 11+).
 
-**Implementation:** 6 GHL workflows with separated concerns. See `outputs/emails/ghl-workflow-setup.md` for full setup.
+### Accountability Outreach (Sprint/Blueprint Buyers)
+
+Manual DM within 48 hours of Sprint or Blueprint purchase:
+> "Hey [name] — saw you grabbed the [Sprint/Blueprint]. Just wanted to make sure you got access to everything. What are you working on right now?"
+
+Not a sales call. Accountability and support. Opens a conversation that naturally deepens engagement. At current volume: 1-3 DMs per week. When volume exceeds ~20/week, hire a setter.
+
+**Trigger:** GHL notification on Sprint or Blueprint purchase → manual DM within 48 hours.
+
+**Implementation:** 6 GHL workflows with separated concerns + consumption tracking branch + DM notification trigger. See `outputs/emails/ghl-workflow-setup.md` for full setup.
 
 ### Why This Works
 
