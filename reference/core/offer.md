@@ -98,22 +98,22 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 ### Tier 2: OTO 1 — The Client Ready Sprint
 
 **Price:** $297 one-time
-**Format:** 4-week sprint with complete system + live support
+**Format:** 4-week offline course — drip-fed weekly, homework via WhatsApp group
 
 **What's Included:**
-- Complete funnel system
-- The Zone of Genius Extraction Framework
-- AI Landing Page Generator
-- Traffic Generation Playbook
-- A/B Testing Frameworks & Strategies
-- Client Onboarding System & Delivery Frameworks
-- One-Click Campaign Templates (scale your campaigns)
-- Weekly group calls with Michael (4 sessions)
-- Direct chat access during sprint
-- Accountability check-ins
-- Hot seat feedback on your funnel
+- 16 training modules (4 per week, 30-45 min each) — watch at your own pace
+- 16 supporting documents (worksheets, templates, frameworks) — yours to keep forever
+- WhatsApp group access — post homework, ask questions, get feedback from Michael and the group
+- Weekly homework reviews — Michael reviews every submission with written or voice note feedback
+- Mid-week check-ins — Wednesday prompts to keep momentum
 - **Skool Community Access** — private support community with other clients
 - **Promise:** Launch your validated offer in 30 days — or Michael keeps working with you
+
+**The 4 Weeks:**
+- Week 1: Extract and Validate — find your offer, test it with real people
+- Week 2: Build Your Funnel — landing page, checkout, email sequence live
+- Week 3: Launch Traffic — first Meta ad campaign running
+- Week 4: Read, Optimize, Plan Forward — data-driven decisions + 90-day roadmap
 
 **Note:** Sprint is billed as one-time $297. No subscription. No recurring surprise.
 
@@ -339,7 +339,7 @@ See: `reference/domain/email-rhythm.md` for full implementation details.
 | "I don't have an offer yet" | That's exactly what the $27 system solves — extract and validate in one afternoon |
 | "I'm not tech savvy" | The templates are plug-and-play — fill in blanks, copy-paste, done |
 | "I don't have an audience" | Start with your warm audience first. The traffic playbook shows you how to find buyers without ads. |
-| "What if it doesn't work?" | Every product has a money-back guarantee. The Sprint adds personal accountability. |
+| "What if it doesn't work?" | Every product has a money-back guarantee. The Sprint adds personal accountability — Michael reviews your homework and keeps working with you until you launch. |
 | "I don't want another subscription" | No subscriptions in this funnel. Sprint is one-time $297 for 4 weeks. Done. |
 
 ---
