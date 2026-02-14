@@ -78,7 +78,7 @@ The complete funnel system AND 4 weeks of live support to make sure you actually
 - Reading early metrics
 
 **Your deliverables this week:**
-- [ ] Retargeting campaign live
+- [ ] First campaign live
 - [ ] 3+ ad variations running
 - [ ] Tracking pixels verified
 - [ ] First clicks coming in

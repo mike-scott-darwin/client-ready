@@ -147,7 +147,7 @@ Meta's algorithm rewards messaging diversity — not just different images on th
 | Social Proof | Leads with authority |
 | Identity Callout | Makes them self-select |
 
-**Result:** Multiple ads getting purchases, 80-90% bump rates, more resilient campaigns.
+**Result:** Multiple ads getting purchases, stronger bump take rates, more resilient campaigns.
 
 **Your deliverable:** First campaign live with messaging diversity built in
 
@@ -185,7 +185,7 @@ Friday: Weekly checkpoint (WhatsApp summary)
 
 CALLS: Weeks 1, 5, 8
 LOOM: Anytime — send work, get feedback within 24h
-SLACK: Daily check-ins available
+WHATSAPP: Daily check-ins available
 ```
 
 ### What I Expect From You
@@ -238,7 +238,7 @@ What this requires:
 **This is NOT for you if:**
 
 - ✗ You haven't validated anything yet (start with $27 or Sprint)
-- ✗ You want someone to do it FOR you with no input (that's the $397 DFY for the funnel, but you still need to run traffic)
+- ✗ You want someone to do it FOR you with no input (that's the $397 Blueprint — strategy + copy + GHL snapshot, but you still need to run traffic)
 - ✗ You're not sure what you want to offer
 - ✗ You can't commit 5-10 hours/week
 - ✗ You need convincing this is worth it (if you need a call, you're not ready)
@@ -247,17 +247,17 @@ What this requires:
 
 ## FAQ
 
-**Q: How is this different from the $397 DFY?**
+**Q: How is this different from the $397 Blueprint?**
 
-| $397 DFY | $5K Accelerator |
-|----------|-----------------|
-| I build, you implement | We build together |
-| Funnel only | Funnel + traffic + optimization |
+| $397 Blueprint | $5K Accelerator |
+|----------------|-----------------|
+| I create strategy + copy, you implement | We build together |
+| Funnel strategy only | Funnel + traffic + optimization |
 | 30 days | 8 weeks |
 | 1 integration call | 3 strategy calls + unlimited async |
-| Copy deliverables | Full mentorship |
+| Copy deliverables + GHL snapshot | Full mentorship |
 
-DFY = I hand you the assets. Accelerator = I work alongside you for 8 weeks.
+Blueprint = I hand you the strategy and copy. Accelerator = I work alongside you for 8 weeks.
 
 **Q: What if I already have a funnel?**
 

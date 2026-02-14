@@ -436,7 +436,7 @@ The funnel, landing page, and automation come AFTER validation — not before.
 
 **Plug & Play Templates ($37)** — Landing pages, email sequences, messaging maps — don't start from scratch
 
-**Offer Validation Kit ($67)** — AI prompts and checklists to make sure your offer is right before you build
+**The First $5K Client Playbook ($67)** — Pricing psychology, conversation frameworks, and the Warm 50 plan to close your first high-ticket client
 
 **Client Ready Sprint ($297)** — 4 weeks, weekly calls with Michael, launch in 30 days
 

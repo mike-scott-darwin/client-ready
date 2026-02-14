@@ -700,7 +700,7 @@ If you send 5 DMs per day for 2 weeks:
 - ~3-5 sales conversations
 - ~1-2 sales
 
-That's potentially $2K-$10K from 15 minutes per day of DMs.
+That's 1-2 sales from 15 minutes per day of warm outreach.
 
 ---
 
@@ -720,7 +720,7 @@ You have the scripts. Now use them.
 
 **When you're ready to scale:**
 - **Plug & Play Templates ($37)** — Landing pages and email sequences for when DMs turn into "send me more info"
-- **Offer Validation Kit ($67)** — Make sure your offer is right before you build anything
+- **The First $5K Client Playbook ($67)** — Close your first high-ticket client with conversation frameworks and the Warm 50 plan
 
 Questions? Reply to your purchase email or find me in Skool.
 

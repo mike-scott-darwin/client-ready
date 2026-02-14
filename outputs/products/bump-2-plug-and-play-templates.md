@@ -1052,7 +1052,7 @@ You have the templates. Now build.
 **Ongoing:** Document clients and refine messaging
 
 **When you're ready to validate:**
-- **Offer Validation Kit ($67)** — AI prompts, real offer reviews, and checklists to make sure your offer is right
+- **The First $5K Client Playbook ($67)** — Close your first high-ticket client with conversation frameworks and the Warm 50 plan
 
 **When you want support:**
 - **Client Ready Sprint ($297)** — 4 weeks, weekly calls, accountability
