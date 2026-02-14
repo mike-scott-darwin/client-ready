@@ -266,7 +266,8 @@ New buyers get a 10-email sequence over 10 days. **This sequence is relationship
 |-----|---------|-------|
 | 1 | You're in — here's your first win | Quick win + access |
 | 2 | Why I do this (honest answer) | Origin story |
-| 3 | She validated in 3 days | Case study / inspiration |
+| 3a | Now that you've started... | Advanced tips (if opened product) |
+| 3b | Haven't started yet? | Quick start (if NOT opened product) |
 | 4 | The mistake that cost me 6 months | Common mistake |
 | 5 | The 2-minute test for your offer | Quick tip |
 | 6 | From stuck to first client in 30 days | Transformation story |
