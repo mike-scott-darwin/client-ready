@@ -1,0 +1,101 @@
+<!--
+  DYNAMIC URGENCY BANNER — Drop into GHL as a Custom Code element
+
+  How it works:
+  - First visit: sets a cookie with a deadline 5 days from now
+  - Return visits: reads the same cookie, shows the same deadline
+  - Each visitor sees THEIR OWN deadline (not a shared date)
+  - Cookie lasts 30 days, then resets on next visit
+
+  GHL Setup:
+  1. Delete your current static banner element
+  2. Add a "Custom Code" element at the top of the page
+  3. Paste this entire block
+  4. Save and preview
+-->
+
+<div id="cr-urgency-banner" style="
+  background: linear-gradient(90deg, #b8860b, #daa520, #b8860b);
+  text-align: center;
+  padding: 10px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+">
+  <span id="cr-urgency-text" style="
+    color: #000000;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+  "></span>
+</div>
+
+<script>
+(function() {
+  // ===== CONFIG =====
+  var DEADLINE_DAYS = 5;       // Days from first visit
+  var COOKIE_NAME = 'cr_dl';   // Cookie name (short to save space)
+  // ==================
+
+  // Cookie helpers
+  function getCookie(name) {
+    var match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
+    return match ? decodeURIComponent(match[2]) : null;
+  }
+
+  function setCookie(name, value, days) {
+    var d = new Date();
+    d.setTime(d.getTime() + (days * 24 * 60 * 60 * 1000));
+    document.cookie = name + '=' + encodeURIComponent(value) +
+      ';expires=' + d.toUTCString() +
+      ';path=/;SameSite=Lax';
+  }
+
+  // Ordinal suffix (1ST, 2ND, 3RD, 4TH, etc.)
+  function ordinal(n) {
+    if (n > 3 && n < 21) return n + 'TH';
+    switch (n % 10) {
+      case 1: return n + 'ST';
+      case 2: return n + 'ND';
+      case 3: return n + 'RD';
+      default: return n + 'TH';
+    }
+  }
+
+  // Month names
+  var MONTHS = [
+    'JANUARY','FEBRUARY','MARCH','APRIL','MAY','JUNE',
+    'JULY','AUGUST','SEPTEMBER','OCTOBER','NOVEMBER','DECEMBER'
+  ];
+
+  // Get or create deadline
+  var stored = getCookie(COOKIE_NAME);
+  var deadline;
+
+  if (stored) {
+    deadline = new Date(parseInt(stored));
+  } else {
+    deadline = new Date();
+    deadline.setDate(deadline.getDate() + DEADLINE_DAYS);
+    deadline.setHours(0, 0, 0, 0);
+    setCookie(COOKIE_NAME, deadline.getTime().toString(), 30);
+  }
+
+  // Format: "25TH FEBRUARY"
+  var dateStr = ordinal(deadline.getDate()) + ' ' + MONTHS[deadline.getMonth()];
+
+  // Check if deadline has passed
+  var now = new Date();
+  var bannerText;
+
+  if (now > deadline) {
+    bannerText = '\uD83D\uDD25 50% OFF CODE AUTOMATICALLY APPLIED AT CHECKOUT - FINAL HOURS \uD83D\uDD25';
+  } else {
+    bannerText = '\uD83D\uDD25 50% OFF CODE AUTOMATICALLY APPLIED AT CHECKOUT - ENDS ' + dateStr + ' @ 12AM EST \uD83D\uDD25';
+  }
+
+  // Write to banner
+  var el = document.getElementById('cr-urgency-text');
+  if (el) el.textContent = bannerText;
+})();
+</script>
