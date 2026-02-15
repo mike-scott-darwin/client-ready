@@ -20,12 +20,12 @@ Complete GoHighLevel workflow configuration for the Client Ready email backend. 
 |---|---------------|---------|--------|------------|
 | 1 | Non-Buyer Nurture | Entered email, no purchase | 12 emails / 30 days | `nb-sequence/NB01-NB12` |
 | 2 | Buyer Welcome | Purchased $47 | 10 emails / 10 days (Day 3 branches) | `bw-sequence/BW01-BW10` + `BW03a/BW03b` |
-| 3 | OTO Recovery | Purchased $47, no Sprint/Blueprint | 3 emails (Days 3,5,7) | `or-sequence/OR01-OR03` |
-| 4 | Community Recovery | Purchased $47, no upsells at all | 1 email (Day 8) | `cr-sequence/CR01` |
-| 5 | Daily Broadcast | Day 11+ | Ongoing (7 templates) | `db-sequence/DB01-DB07` |
-| 6 | Accountability DM | Purchased Sprint or Blueprint | Manual DM trigger | (no HTML — manual outreach) |
-| 7 | Bump Recovery | Purchased $47, missed bumps | 3 emails (Days 2,4,6) | `br-sequence/BR01-BR03` |
-| 8 | Bump Delivery | Purchased bump product | 3 emails (immediate) | `bd-sequence/BD01-BD03` |
+| 3 | Bump Recovery | Purchased $47, missed bumps | 3 emails (Days 2,4,6) | `br-sequence/BR01-BR03` |
+| 4 | Bump Delivery | Purchased bump product | 3 emails (immediate) | `bd-sequence/BD01-BD03` |
+| 5 | OTO Recovery | Purchased $47, no Sprint/Blueprint | 3 emails (Days 3,5,7) | `or-sequence/OR01-OR03` |
+| 6 | Community Recovery | Purchased $47, no upsells at all | 1 email (Day 8) | `cr-sequence/CR01` |
+| 7 | Accountability DM | Purchased Sprint or Blueprint | Manual DM trigger | (no HTML — manual outreach) |
+| 8 | Daily Broadcast | Day 11+ | Ongoing (7 templates) | `db-sequence/DB01-DB07` |
 
 ---
 
@@ -404,228 +404,7 @@ Days 5, 7, and 9 now include soft ascension closes as P.S. sections:
 
 ---
 
-## STEP 4: Build Workflow 3 — OTO Recovery
-
-**Where:** Automations → Workflows → Create Workflow → Start from Scratch
-
-**Name:** `OTO Recovery (Sprint + Blueprint)`
-
-### Workflow Trigger
-- Type: **Tag Added**
-- Tag: `purchased-47`
-
-### Build the Steps
-
-```
-Step 1:  WAIT → Wait 5 minutes
-           (Let OTO purchase tags settle)
-
-Step 2:  IF/ELSE → Contact Tag → Has tag "purchased-sprint" OR "purchased-blueprint"
-           ├── YES: End workflow — they already upgraded
-           └── NO: continue
-
-Step 3:  WAIT → Wait until Day 3, 2:00 PM
-
-Step 4:  IF/ELSE → Contact Tag → Has tag "purchased-sprint"
-           ├── YES: skip (bought Sprint since workflow started)
-           └── NO:
-                 SEND EMAIL → OR01-sprint-pitch.html
-                 Subject: "Most people do this alone (you don't have to)"
-
-Step 5:  WAIT → Wait until Day 5, 2:00 PM
-
-Step 6:  IF/ELSE → Contact Tag → Has tag "purchased-sprint"
-           ├── YES: skip
-           └── NO:
-                 SEND EMAIL → OR02-sprint-story.html
-                 Subject: "From 'maybe someday' to first client in 28 days"
-
-Step 7:  WAIT → Wait until Day 7, 2:00 PM
-
-Step 8:  IF/ELSE → Contact Tag → Has tag "purchased-blueprint"
-           ├── YES: skip (already bought Blueprint)
-           └── NO:
-                 SEND EMAIL → OR03-blueprint-pitch.html
-                 Subject: "What if I just built your strategy for you?"
-
-(Workflow ends)
-```
-
-### OTO Recovery Schedule Summary
-
-| Email | File | Day | Time | Subject | Pitches |
-|-------|------|-----|------|---------|---------|
-| OR01 | OR01-sprint-pitch.html | 3 | 2:00 PM | Most people do this alone... | $297 Sprint |
-| OR02 | OR02-sprint-story.html | 5 | 2:00 PM | From "maybe someday" to first client in 28 days | $297 Sprint |
-| OR03 | OR03-blueprint-pitch.html | 7 | 2:00 PM | What if I just built your strategy for you? | $397 Blueprint |
-
-### Key Settings
-- **Send time:** 2:00 PM local
-- **Days 3 and 5 pitch Sprint.** Day 7 pivots to Blueprint.
-- **If they buy Sprint mid-sequence:** Day 5 and 7 emails skip the Sprint pitch. Day 7 still offers Blueprint.
-- **If they buy Blueprint at any point:** Email 3 skips (they got something better)
-
----
-
-## STEP 5: Build Workflow 4 — Community Recovery
-
-**Where:** Automations → Workflows → Create Workflow → Start from Scratch
-
-**Name:** `Community Recovery (Downsell)`
-
-### Workflow Trigger
-- Type: **Tag Added**
-- Tag: `purchased-47`
-
-### Build the Steps
-
-```
-Step 1:  WAIT → Wait until Day 8, 2:00 PM
-
-Step 2:  IF/ELSE → Contact Tag → Has ANY of these tags:
-           "purchased-sprint" OR
-           "purchased-blueprint" OR
-           "purchased-community"
-           ├── YES: End workflow (they already upgraded to something)
-           └── NO: continue (said no to everything)
-
-Step 3:  SEND EMAIL → CR01-community-downsell.html
-           Subject: "Not ready yet? (That's okay)"
-
-(Workflow ends)
-```
-
-### Community Recovery Schedule Summary
-
-| Email | File | Day | Time | Subject | Pitches |
-|-------|------|-----|------|---------|---------|
-| CR01 | CR01-community-downsell.html | 8 | 2:00 PM | Not ready yet? (That's okay) | $47/mo Community ($1 trial) |
-
-### Key Settings
-- **Only 1 email** — this is the downsell for people who said no to Sprint AND Blueprint
-- **Day 8** = after OTO Recovery is done (Days 3, 5, 7)
-- **Checks all three upgrade tags** — if they bought anything higher, skip this entirely
-
----
-
-## STEP 6: Set Up Daily Broadcast (Workflow 5)
-
-**Where:** This is NOT a workflow in the same sense. It's a segment + manual/scheduled sends.
-
-### 7A: Create the Segment
-
-Go to **Contacts → Smart Lists** (or Segments):
-
-**Name:** `Daily Broadcast List`
-
-**Filter:**
-```
-Tag: "in-daily-broadcast" = TRUE
-AND
-Tag: "unsubscribed" ≠ TRUE
-```
-
-### 7B: Choose Your Send Method
-
-**Option A: Manual Daily Send (Recommended to Start)**
-1. Each morning, write your email (15-20 min)
-2. Go to **Marketing → Emails → Create Email**
-3. Select the `Daily Broadcast List` segment
-4. Write or paste your email
-5. Send
-
-**Option B: Pre-Loaded Weekly Rotation**
-1. Go to **Marketing → Emails → Campaigns**
-2. Create 7 email templates using the HTML files:
-
-| Day | File | Subject | Offer Pitched |
-|-----|------|---------|---------------|
-| Monday | DB01-monday-frontend.html | The coach who couldn't explain what she does | $47 Front-end |
-| Tuesday | DB02-tuesday-templates.html | I stared at the blank page for 3 hours | $67 Templates |
-| Wednesday | DB03-wednesday-sprint.html | The difference between "knowing" and "doing" | $297 Sprint |
-| Thursday | DB04-thursday-blueprint.html | Some people have time. Some people have money. | $397 Blueprint |
-| Friday | DB05-friday-backend.html | When you're ready for the next level | $5K Accelerator (reply "BUILD") |
-| Saturday | DB06-saturday-community.html | The loneliest part of building | $47/mo Community |
-| Sunday | DB07-sunday-free-value.html | The question that changes everything | No pitch |
-
-3. Schedule each to send at 8:00 AM on its corresponding day
-4. Set to recurring weekly
-5. Target: `Daily Broadcast List` segment
-
-### 7C: Segmentation for Owned Products
-
-As buyers ascend, they should stop seeing pitches for products they already own. In each broadcast email:
-
-- Use GHL's conditional content blocks (IF tag exists → show alternative CTA)
-- Or create separate email versions per segment
-
-| If Buyer Has | Skip Pitch For | On Day |
-|--------------|----------------|--------|
-| `purchased-bump-templates` | $67 Templates | Tuesday |
-| `purchased-sprint` | $297 Sprint | Wednesday |
-| `purchased-blueprint` | $397 Blueprint | Thursday |
-| `purchased-community` | $47/mo Community | Saturday |
-
-**Keep the story. Swap the CTA.** The story is the value — just change what you link to at the end.
-
----
-
-## STEP 7: Build Workflow 6 — Accountability DM (Sprint/Blueprint)
-
-**Where:** Automations → Workflows → Create Workflow → Start from Scratch
-
-**Name:** `Accountability DM (Sprint/Blueprint Buyers)`
-
-### Purpose
-
-Manual outreach within 48 hours of Sprint or Blueprint purchase. Not automated email — a real DM from Michael. This catches high-value buyers at peak motivation.
-
-### Workflow Trigger
-- Type: **Tag Added**
-- Tag: `purchased-sprint` OR `purchased-blueprint`
-
-### Build the Steps
-
-```
-Step 1:  WAIT → Wait 1 hour
-           (Let purchase settle, don't DM instantly)
-
-Step 2:  INTERNAL NOTIFICATION → Send to Michael
-           Channel: Email or SMS (whichever you check most)
-           Message: "🔔 New [Sprint/Blueprint] buyer: {{contact.name}} ({{contact.email}})
-                     Purchased: {{trigger.tag}}
-                     ACTION: Send accountability DM within 48 hours"
-
-Step 3:  ADD TAG → "needs-accountability-dm"
-
-Step 4:  WAIT → Wait 48 hours
-
-Step 5:  IF/ELSE → Contact Tag → Has tag "needs-accountability-dm"
-           ├── YES (DM not sent yet):
-           │     INTERNAL NOTIFICATION → "⚠️ OVERDUE: Accountability DM for {{contact.name}} not sent yet"
-           └── NO (tag removed = DM was sent):
-                 (Workflow ends)
-```
-
-### The DM Script
-
-Send via Skool DM, Instagram DM, or email reply — wherever the buyer is most active:
-
-> "Hey [name] — saw you grabbed the [Sprint/Blueprint]. Just wanted to make sure you got access to everything. What are you working on right now?"
-
-### After Sending the DM
-
-Remove the `needs-accountability-dm` tag manually after you've sent the DM. This prevents the 48-hour reminder from firing.
-
-### Key Settings
-- **Not an automated email** — this is a manual DM triggered by a notification
-- **48-hour reminder** ensures no buyer falls through the cracks
-- **Remove tag after sending** to mark it done
-- **At scale (20+ per week):** Hire a setter to handle these. Same script. Same energy.
-
----
-
-## STEP 8: Build Workflow 7 — Bump Recovery
+## STEP 4: Build Workflow 3 — Bump Recovery
 
 **Where:** Automations → Workflows → Create Workflow → Start from Scratch
 
@@ -691,7 +470,7 @@ Step 8:  IF/ELSE → Contact Tag → Has ANY missing bump tags
 
 ---
 
-## STEP 9: Build Workflow 8 — Bump Delivery
+## STEP 5: Build Workflow 4 — Bump Delivery
 
 **Where:** Automations → Workflows → Create Workflow → Start from Scratch
 
@@ -703,7 +482,7 @@ Unlike recovery workflows that pitch missed products, bump delivery onboards wha
 
 ### Build 3 Simple Workflows (One Per Bump)
 
-**Workflow 8a: DM Scripts Delivery**
+**Workflow 4a: DM Scripts Delivery**
 
 Trigger: Tag Added → `purchased-bump-dm-scripts`
 
@@ -713,7 +492,7 @@ Step 2:  SEND EMAIL → BD01-dm-scripts-delivery.html
            Subject: "Your DM scripts are ready — do this in the next 5 minutes"
 ```
 
-**Workflow 8b: Templates Delivery**
+**Workflow 4b: Templates Delivery**
 
 Trigger: Tag Added → `purchased-bump-templates`
 
@@ -723,7 +502,7 @@ Step 2:  SEND EMAIL → BD02-templates-delivery.html
            Subject: "Your templates are ready — start with this one"
 ```
 
-**Workflow 8c: Playbook Delivery**
+**Workflow 4c: Playbook Delivery**
 
 Trigger: Tag Added → `purchased-bump-playbook`
 
@@ -746,6 +525,227 @@ Step 2:  SEND EMAIL → BD03-playbook-delivery.html
 - **Each fires independently** — buyer could get 1, 2, or all 3
 - **Immediate delivery** — these are onboarding emails, not scheduled sends
 - **Cross-sell bridges:** Each email leads to the limitation of what they bought and bridges to the next product (see 5-buyers-bump-delivery.md for full copy)
+
+---
+
+## STEP 6: Build Workflow 5 — OTO Recovery
+
+**Where:** Automations → Workflows → Create Workflow → Start from Scratch
+
+**Name:** `OTO Recovery (Sprint + Blueprint)`
+
+### Workflow Trigger
+- Type: **Tag Added**
+- Tag: `purchased-47`
+
+### Build the Steps
+
+```
+Step 1:  WAIT → Wait 5 minutes
+           (Let OTO purchase tags settle)
+
+Step 2:  IF/ELSE → Contact Tag → Has tag "purchased-sprint" OR "purchased-blueprint"
+           ├── YES: End workflow — they already upgraded
+           └── NO: continue
+
+Step 3:  WAIT → Wait until Day 3, 2:00 PM
+
+Step 4:  IF/ELSE → Contact Tag → Has tag "purchased-sprint"
+           ├── YES: skip (bought Sprint since workflow started)
+           └── NO:
+                 SEND EMAIL → OR01-sprint-pitch.html
+                 Subject: "Most people do this alone (you don't have to)"
+
+Step 5:  WAIT → Wait until Day 5, 2:00 PM
+
+Step 6:  IF/ELSE → Contact Tag → Has tag "purchased-sprint"
+           ├── YES: skip
+           └── NO:
+                 SEND EMAIL → OR02-sprint-story.html
+                 Subject: "From 'maybe someday' to first client in 28 days"
+
+Step 7:  WAIT → Wait until Day 7, 2:00 PM
+
+Step 8:  IF/ELSE → Contact Tag → Has tag "purchased-blueprint"
+           ├── YES: skip (already bought Blueprint)
+           └── NO:
+                 SEND EMAIL → OR03-blueprint-pitch.html
+                 Subject: "What if I just built your strategy for you?"
+
+(Workflow ends)
+```
+
+### OTO Recovery Schedule Summary
+
+| Email | File | Day | Time | Subject | Pitches |
+|-------|------|-----|------|---------|---------|
+| OR01 | OR01-sprint-pitch.html | 3 | 2:00 PM | Most people do this alone... | $297 Sprint |
+| OR02 | OR02-sprint-story.html | 5 | 2:00 PM | From "maybe someday" to first client in 28 days | $297 Sprint |
+| OR03 | OR03-blueprint-pitch.html | 7 | 2:00 PM | What if I just built your strategy for you? | $397 Blueprint |
+
+### Key Settings
+- **Send time:** 2:00 PM local
+- **Days 3 and 5 pitch Sprint.** Day 7 pivots to Blueprint.
+- **If they buy Sprint mid-sequence:** Day 5 and 7 emails skip the Sprint pitch. Day 7 still offers Blueprint.
+- **If they buy Blueprint at any point:** Email 3 skips (they got something better)
+
+---
+
+## STEP 7: Build Workflow 6 — Community Recovery
+
+**Where:** Automations → Workflows → Create Workflow → Start from Scratch
+
+**Name:** `Community Recovery (Downsell)`
+
+### Workflow Trigger
+- Type: **Tag Added**
+- Tag: `purchased-47`
+
+### Build the Steps
+
+```
+Step 1:  WAIT → Wait until Day 8, 2:00 PM
+
+Step 2:  IF/ELSE → Contact Tag → Has ANY of these tags:
+           "purchased-sprint" OR
+           "purchased-blueprint" OR
+           "purchased-community"
+           ├── YES: End workflow (they already upgraded to something)
+           └── NO: continue (said no to everything)
+
+Step 3:  SEND EMAIL → CR01-community-downsell.html
+           Subject: "Not ready yet? (That's okay)"
+
+(Workflow ends)
+```
+
+### Community Recovery Schedule Summary
+
+| Email | File | Day | Time | Subject | Pitches |
+|-------|------|-----|------|---------|---------|
+| CR01 | CR01-community-downsell.html | 8 | 2:00 PM | Not ready yet? (That's okay) | $47/mo Community ($1 trial) |
+
+### Key Settings
+- **Only 1 email** — this is the downsell for people who said no to Sprint AND Blueprint
+- **Day 8** = after OTO Recovery is done (Days 3, 5, 7)
+- **Checks all three upgrade tags** — if they bought anything higher, skip this entirely
+
+---
+
+## STEP 8: Build Workflow 7 — Accountability DM (Sprint/Blueprint)
+
+**Where:** Automations → Workflows → Create Workflow → Start from Scratch
+
+**Name:** `Accountability DM (Sprint/Blueprint Buyers)`
+
+### Purpose
+
+Manual outreach within 48 hours of Sprint or Blueprint purchase. Not automated email — a real DM from Michael. This catches high-value buyers at peak motivation.
+
+### Workflow Trigger
+- Type: **Tag Added**
+- Tag: `purchased-sprint` OR `purchased-blueprint`
+
+### Build the Steps
+
+```
+Step 1:  WAIT → Wait 1 hour
+           (Let purchase settle, don't DM instantly)
+
+Step 2:  INTERNAL NOTIFICATION → Send to Michael
+           Channel: Email or SMS (whichever you check most)
+           Message: "🔔 New [Sprint/Blueprint] buyer: {{contact.name}} ({{contact.email}})
+                     Purchased: {{trigger.tag}}
+                     ACTION: Send accountability DM within 48 hours"
+
+Step 3:  ADD TAG → "needs-accountability-dm"
+
+Step 4:  WAIT → Wait 48 hours
+
+Step 5:  IF/ELSE → Contact Tag → Has tag "needs-accountability-dm"
+           ├── YES (DM not sent yet):
+           │     INTERNAL NOTIFICATION → "⚠️ OVERDUE: Accountability DM for {{contact.name}} not sent yet"
+           └── NO (tag removed = DM was sent):
+                 (Workflow ends)
+```
+
+### The DM Script
+
+Send via Skool DM, Instagram DM, or email reply — wherever the buyer is most active:
+
+> "Hey [name] — saw you grabbed the [Sprint/Blueprint]. Just wanted to make sure you got access to everything. What are you working on right now?"
+
+### After Sending the DM
+
+Remove the `needs-accountability-dm` tag manually after you've sent the DM. This prevents the 48-hour reminder from firing.
+
+### Key Settings
+- **Not an automated email** — this is a manual DM triggered by a notification
+- **48-hour reminder** ensures no buyer falls through the cracks
+- **Remove tag after sending** to mark it done
+- **At scale (20+ per week):** Hire a setter to handle these. Same script. Same energy.
+
+---
+
+## STEP 9: Set Up Daily Broadcast (Workflow 8)
+
+**Where:** This is NOT a workflow in the same sense. It's a segment + manual/scheduled sends.
+
+### 9A: Create the Segment
+
+Go to **Contacts → Smart Lists** (or Segments):
+
+**Name:** `Daily Broadcast List`
+
+**Filter:**
+```
+Tag: "in-daily-broadcast" = TRUE
+AND
+Tag: "unsubscribed" ≠ TRUE
+```
+
+### 9B: Choose Your Send Method
+
+**Option A: Manual Daily Send (Recommended to Start)**
+1. Each morning, write your email (15-20 min)
+2. Go to **Marketing → Emails → Create Email**
+3. Select the `Daily Broadcast List` segment
+4. Write or paste your email
+5. Send
+
+**Option B: Pre-Loaded Weekly Rotation**
+1. Go to **Marketing → Emails → Campaigns**
+2. Create 7 email templates using the HTML files:
+
+| Day | File | Subject | Offer Pitched |
+|-----|------|---------|---------------|
+| Monday | DB01-monday-frontend.html | The coach who couldn't explain what she does | $47 Front-end |
+| Tuesday | DB02-tuesday-templates.html | I stared at the blank page for 3 hours | $67 Templates |
+| Wednesday | DB03-wednesday-sprint.html | The difference between "knowing" and "doing" | $297 Sprint |
+| Thursday | DB04-thursday-blueprint.html | Some people have time. Some people have money. | $397 Blueprint |
+| Friday | DB05-friday-backend.html | When you're ready for the next level | $5K Accelerator (reply "BUILD") |
+| Saturday | DB06-saturday-community.html | The loneliest part of building | $47/mo Community |
+| Sunday | DB07-sunday-free-value.html | The question that changes everything | No pitch |
+
+3. Schedule each to send at 8:00 AM on its corresponding day
+4. Set to recurring weekly
+5. Target: `Daily Broadcast List` segment
+
+### 9C: Segmentation for Owned Products
+
+As buyers ascend, they should stop seeing pitches for products they already own. In each broadcast email:
+
+- Use GHL's conditional content blocks (IF tag exists → show alternative CTA)
+- Or create separate email versions per segment
+
+| If Buyer Has | Skip Pitch For | On Day |
+|--------------|----------------|--------|
+| `purchased-bump-templates` | $67 Templates | Tuesday |
+| `purchased-sprint` | $297 Sprint | Wednesday |
+| `purchased-blueprint` | $397 Blueprint | Thursday |
+| `purchased-community` | $47/mo Community | Saturday |
+
+**Keep the story. Swap the CTA.** The story is the value — just change what you link to at the end.
 
 ---
 
@@ -784,7 +784,7 @@ Here's exactly what a buyer who purchased ONLY the $47 (no bumps, no OTOs) recei
 - Day 3 branches based on product consumption (different email for openers vs non-openers)
 - Days 5, 7 add soft ascension P.S. to existing relationship emails
 - Day 9 adds explicit Sprint vs Blueprint comparison CTA
-- Sprint/Blueprint buyers also get a manual accountability DM within 48 hours (Workflow 6)
+- Sprint/Blueprint buyers also get a manual accountability DM within 48 hours (Workflow 7)
 
 ---
 
