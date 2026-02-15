@@ -66,15 +66,22 @@ Go to **Settings → Tags** in GHL. Create each tag exactly as written (copy-pas
 
 Tags need to fire automatically when things happen. Set up these sources BEFORE building workflows.
 
-### 1A: 2-Step Order Form → `lead` Tag
+### 1A: 2-Step Order Form → `lead` Tag (via Workflow)
 
-**Where:** Your checkout page form settings (ClickFunnels / GHL funnel page)
+**Where:** Automations → Workflows → Create Workflow → Start from Scratch
 
-1. Open your checkout page editor
-2. Find the 2-step order form
-3. In form settings, find "On Step 1 Submit" or "Form Submission" actions
-4. Add action: **Add Tag → `lead`**
-5. This fires when someone enters their email, even if they don't pay
+GHL's 2-step order form doesn't have a tag-adding option in the form builder. Use a Workflow instead.
+
+**Name:** `Lead Tag on Step 1`
+
+1. Add trigger: **Order Form Submission Started**
+2. Filter to your checkout funnel/page if the option is available
+3. Add action: **Add Tag → `lead`**
+4. Save and publish the workflow
+
+This fires when someone submits Step 1 (enters their email), even if they never pay. The `lead` tag then feeds into Trigger 1 ("Non-Buyer Start") in STEP 1C below.
+
+**If "Order Form Submission Started" isn't available** in your GHL version, use **"Form Submitted"** or **"Contact Created"** as the trigger instead — both fire on Step 1 submission.
 
 ### 1B: Products → Purchase Tags
 
