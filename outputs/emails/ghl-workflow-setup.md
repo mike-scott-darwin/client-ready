@@ -66,22 +66,9 @@ Go to **Settings → Tags** in GHL. Create each tag exactly as written (copy-pas
 
 Tags need to fire automatically when things happen. Set up these sources BEFORE building workflows.
 
-### 1A: 2-Step Order Form → `lead` Tag (via Workflow)
+### 1A: 2-Step Order Form → `lead` Tag
 
-**Where:** Automations → Workflows → Create Workflow → Start from Scratch
-
-GHL's 2-step order form doesn't have a tag-adding option in the form builder. Use a Workflow instead.
-
-**Name:** `Lead Tag on Step 1`
-
-1. Add trigger: **Order Form Submission Started**
-2. Filter to your checkout funnel/page if the option is available
-3. Add action: **Add Tag → `lead`**
-4. Save and publish the workflow
-
-This fires when someone submits Step 1 (enters their email), even if they never pay. The `lead` tag then feeds into Trigger 1 ("Non-Buyer Start") in STEP 1C below.
-
-**If "Order Form Submission Started" isn't available** in your GHL version, use **"Form Submitted"** or **"Contact Created"** as the trigger instead — both fire on Step 1 submission.
+GHL's 2-step order form doesn't have a tag-adding option in the form builder. Use a standalone GHL Trigger instead (see Trigger 1 in STEP 1C below).
 
 ### 1B: Products → Purchase Tags
 
@@ -101,17 +88,22 @@ For each product, add the corresponding tag on purchase:
 
 **If using Stripe directly (not GHL payments):** Set up Zapier or GHL's Stripe integration to add the same tags on purchase events.
 
-### 1C: GHL Triggers (Simple Tag Routing)
+### 1C: GHL Triggers (Events → Tags)
 
 **Where:** Settings → Automations → Triggers
 
-Create these 2 triggers:
+All workflows run on tags. Triggers convert events into tags. Create these 3 triggers:
 
-**Trigger 1: "Non-Buyer Start"**
+**Trigger 1: "Lead Capture"**
+- Event: **Order Form Submission Started** (fires when someone submits Step 1 of the 2-step form)
+- Action: Add tag → `lead`
+- If "Order Form Submission Started" isn't available in your GHL version, use **"Form Submitted"** or **"Contact Created"** instead
+
+**Trigger 2: "Non-Buyer Start"**
 - Event: Tag Added → `lead`
 - Action: Add tag → `non-buyer-sequence`
 
-**Trigger 2: "Buyer Start"**
+**Trigger 3: "Buyer Start"**
 - Event: Tag Added → `purchased-47`
 - Actions (in order):
   1. Add tag → `buyer-core`
@@ -824,10 +816,10 @@ Test with a real contact (yourself or a test email) through each path:
 
 ### Pre-Launch
 - [ ] All 15 tags created in GHL (including `product-accessed` and `needs-accountability-dm`)
-- [ ] 2-step order form adds `lead` tag on Step 1
+- [ ] "Lead Capture" trigger adds `lead` tag on Step 1 form submission
 - [ ] Each product adds correct purchase tag
 - [ ] Product access link in BW01 is a GHL tracked link → triggers `product-accessed` tag
-- [ ] Both GHL triggers created and active
+- [ ] All 3 GHL triggers created and active
 - [ ] All 8 workflows built and set to ACTIVE
 
 ### Test Path 1: Non-Buyer
