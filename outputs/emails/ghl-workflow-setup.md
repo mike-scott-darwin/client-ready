@@ -62,56 +62,41 @@ Go to **Settings → Tags** in GHL. Create each tag exactly as written (copy-pas
 
 ---
 
-## STEP 1: Configure Tag Sources
+## STEP 1: Create All Triggers
 
-Tags need to fire automatically when things happen. Set up these sources BEFORE building workflows.
+**Where:** Automations → Workflows → Create Workflow → Start from Scratch
 
-### 1A: 2-Step Order Form → `lead` Tag
+All workflows run on tags. Triggers convert events (form submissions, purchases) into tags. Set up each trigger as a simple 1-step Workflow.
 
-GHL's 2-step order form doesn't have a tag-adding option in the form builder. Use a standalone GHL Trigger instead (see Trigger 1 in STEP 1C below).
+### Purchase Triggers
 
-### 1B: Products → Purchase Tags
+One trigger per product. Each fires on **Payment Received** (or **Order Submitted**), filtered to the specific product.
 
-**Where:** Payments → Products → [each product] → Settings → Tags
+| # | Trigger Name | Event Filter | Action |
+|---|-------------|--------------|--------|
+| 1 | Lead Capture | Order Form Submission Started | Add tag → `lead` |
+| 2 | Core Purchase | Payment Received → Client Ready ($47) | Add tag → `purchased-47` |
+| 3 | DM Scripts Purchase | Payment Received → DM Scripts ($37) | Add tag → `purchased-bump-dm-scripts` |
+| 4 | Templates Purchase | Payment Received → Templates ($67) | Add tag → `purchased-bump-templates` |
+| 5 | Playbook Purchase | Payment Received → Playbook ($97) | Add tag → `purchased-bump-playbook` |
+| 6 | Sprint Purchase | Payment Received → Sprint ($297) | Add tag → `purchased-sprint` |
+| 7 | Blueprint Purchase | Payment Received → Blueprint ($397) | Add tag → `purchased-blueprint` |
+| 8 | Community Purchase | Payment Received → Community ($47/mo) | Add tag → `purchased-community` |
 
-For each product, add the corresponding tag on purchase:
+**For Trigger 1 (Lead Capture):** If "Order Form Submission Started" isn't available in your GHL version, use **"Form Submitted"** or **"Contact Created"** instead.
 
-| Product | Go To | Add Tag |
-|---------|-------|---------|
-| $47 Client Ready Offer System | Payments → Products → Client Ready → Tags | `purchased-47` |
-| $37 DM Scripts (Order Bump 1) | Payments → Products → DM Scripts → Tags | `purchased-bump-dm-scripts` |
-| $67 Templates (Order Bump 2) | Payments → Products → Templates → Tags | `purchased-bump-templates` |
-| $97 First $5K Client Playbook (Order Bump 3) | Payments → Products → Playbook → Tags | `purchased-bump-playbook` |
-| $297 Sprint (OTO 1) | Payments → Products → Sprint → Tags | `purchased-sprint` |
-| $397 Blueprint (OTO 2) | Payments → Products → Blueprint → Tags | `purchased-blueprint` |
-| $47/mo Community (OTO 3) | Payments → Products → Community → Tags | `purchased-community` |
+**If using Stripe directly (not GHL payments):** Use Zapier or GHL's Stripe integration to fire the same tags on purchase events.
 
-**If using Stripe directly (not GHL payments):** Set up Zapier or GHL's Stripe integration to add the same tags on purchase events.
+### Routing Triggers
 
-### 1C: GHL Triggers (Events → Tags)
+These chain off purchase tags to set up workflow routing:
 
-**Where:** Settings → Automations → Triggers
+| # | Trigger Name | Event | Actions |
+|---|-------------|-------|---------|
+| 9 | Non-Buyer Start | Tag Added → `lead` | Add tag → `non-buyer-sequence` |
+| 10 | Buyer Start | Tag Added → `purchased-47` | Add `buyer-core`, `buyer-sequence`; Remove `non-buyer-sequence`, `lead` |
 
-All workflows run on tags. Triggers convert events into tags. Create these 3 triggers:
-
-**Trigger 1: "Lead Capture"**
-- Event: **Order Form Submission Started** (fires when someone submits Step 1 of the 2-step form)
-- Action: Add tag → `lead`
-- If "Order Form Submission Started" isn't available in your GHL version, use **"Form Submitted"** or **"Contact Created"** instead
-
-**Trigger 2: "Non-Buyer Start"**
-- Event: Tag Added → `lead`
-- Action: Add tag → `non-buyer-sequence`
-
-**Trigger 3: "Buyer Start"**
-- Event: Tag Added → `purchased-47`
-- Actions (in order):
-  1. Add tag → `buyer-core`
-  2. Add tag → `buyer-sequence`
-  3. Remove tag → `non-buyer-sequence`
-  4. Remove tag → `lead`
-
-That's it for triggers. Everything else happens inside workflows.
+**Total: 10 triggers.** That's it. Everything else happens inside workflows.
 
 ---
 
@@ -816,10 +801,8 @@ Test with a real contact (yourself or a test email) through each path:
 
 ### Pre-Launch
 - [ ] All 15 tags created in GHL (including `product-accessed` and `needs-accountability-dm`)
-- [ ] "Lead Capture" trigger adds `lead` tag on Step 1 form submission
-- [ ] Each product adds correct purchase tag
+- [ ] All 10 triggers created and active (8 purchase + 2 routing)
 - [ ] Product access link in BW01 is a GHL tracked link → triggers `product-accessed` tag
-- [ ] All 3 GHL triggers created and active
 - [ ] All 8 workflows built and set to ACTIVE
 
 ### Test Path 1: Non-Buyer
