@@ -26,7 +26,7 @@ Test variants and implementation fixes for the front-end landing page.
 
 ### [HEADER BAR]
 
-**50% OFF — $27 Today (Regular $54)**
+**50% OFF — $47 Today (Regular $54)**
 
 ---
 
@@ -38,7 +38,7 @@ Test variants and implementation fixes for the front-end landing page.
 
 New customers in 72 hours. Even if you've never ran ads or built a funnel.
 
-**[GET INSTANT ACCESS — $27 →]**
+**[GET INSTANT ACCESS — $47 →]**
 
 ⭐⭐⭐⭐⭐ 4.7/5 based on 100+ verified students
 
@@ -94,14 +94,14 @@ No course. No fluff. Just the prompts that work.
 
 **Get The Client Ready Offer System**
 
-~~$54~~ **$27** — One-time payment
+~~$94~~ **$47** — One-time payment
 
 ✓ 5 AI prompts that extract your offer
 ✓ Step-by-step guide
 ✓ Offer document template
 ✓ Validation checklist
 
-**[GET INSTANT ACCESS — $27 →]**
+**[GET INSTANT ACCESS — $47 →]**
 
 🔒 30-Day Money Back Guarantee
 
@@ -121,7 +121,7 @@ Keep "working on your offer" for another few months.
 
 Or spend one afternoon, extract your zone of genius, and know if it sells.
 
-**$27. One afternoon. Let's go.**
+**$47. One afternoon. Let's go.**
 
 **[GET INSTANT ACCESS →]**
 
@@ -133,11 +133,11 @@ Or spend one afternoon, extract your zone of genius, and know if it sells.
 
 | Current | Change To |
 |---------|-----------|
-| $17.00 | $27.00 |
-| $17 | $27 |
-| $147 $17.00 | $54 $27.00 |
-| Saving $130.00 | Saving $27.00 |
-| "refund you your $17.00" | "refund you your $27.00" |
+| $17.00 | $47.00 |
+| $17 | $47 |
+| $147 $17.00 | $54 $47.00 |
+| Saving $130.00 | Saving $47.00 |
+| "refund you your $17.00" | "refund you your $47.00" |
 
 ### Deadline Fix
 
@@ -176,7 +176,7 @@ Insert the "Who It's For" section from `front-end-sales-page.md` in one of these
 
 ## 4. IMPLEMENTATION CHECKLIST
 
-- [ ] Fix all $17 → $27 references
+- [ ] Fix all $17 → $47 references
 - [ ] Remove/update January deadline
 - [ ] Add "Who It's For" section to current page
 - [ ] Build minimal landing page version

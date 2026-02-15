@@ -43,7 +43,7 @@ use_for: cold traffic, positioning
 
 - "Test, validate, build" (mechanism)
 - "15 Minutes" angle (speed)
-- "$27 to validate" (low-risk entry)
+- "$47 to validate" (low-risk entry)
 
 ## Use In
 

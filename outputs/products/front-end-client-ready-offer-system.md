@@ -400,7 +400,7 @@ The best validation is someone paying you.
 
 Use the offer document in DMs, on calls, or in emails. You don't need a landing page — you need a conversation.
 
-**If you grabbed the Quick Win DM Scripts ($17), use those to start conversations TODAY.**
+**If you grabbed the Quick Win DM Scripts ($37), use those to start conversations TODAY.**
 
 ### Step 3: Then Build Infrastructure
 
@@ -432,11 +432,11 @@ The funnel, landing page, and automation come AFTER validation — not before.
 
 ## Need More Help?
 
-**Quick Win DM Scripts ($17)** — Start conversations today with copy-paste scripts
+**Quick Win DM Scripts ($37)** — Start conversations today with copy-paste scripts
 
-**Plug & Play Templates ($37)** — Landing pages, email sequences, messaging maps — don't start from scratch
+**Plug & Play Templates ($67)** — Landing pages, email sequences, messaging maps — don't start from scratch
 
-**The First $5K Client Playbook ($67)** — Pricing psychology, conversation frameworks, and the Warm 50 plan to close your first high-ticket client
+**The First $5K Client Playbook ($97)** — Pricing psychology, conversation frameworks, and the Warm 50 plan to close your first high-ticket client
 
 **Client Ready Sprint ($297)** — 4 weeks, weekly calls with Michael, launch in 30 days
 

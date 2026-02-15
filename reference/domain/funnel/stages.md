@@ -12,9 +12,9 @@ updated_from: 2026-01-23
 ```
 AWARENESS (Content / Ads)
     ↓
-MICRO-COMMITMENT ($27 Front-End)
+MICRO-COMMITMENT ($47 Front-End)
     ↓
-ORDER BUMPS ($17 + $37 + $67)
+ORDER BUMPS ($37 + $67 + $97)
     ↓
 OTO 1: Client Ready Sprint ($297) + Community Access
     ↓
@@ -45,11 +45,11 @@ RETENTION (Results → Referrals → Case Studies)
 
 ---
 
-## Stage 2: Micro-Commitment — $27 Front-End
+## Stage 2: Micro-Commitment — $47 Front-End
 
 **Goal:** They make first purchase
 
-**Product:** Client Ready Offer System ($27)
+**Product:** Client Ready Offer System ($47)
 
 **Trigger:**
 - Paid ads to cold traffic
@@ -58,25 +58,25 @@ RETENTION (Results → Referrals → Case Studies)
 - Content about offer creation
 
 **What happens:**
-- Buy $27 Client Ready Offer System
+- Buy $47 Client Ready Offer System
 - See 3 order bump offers
 - Enter OTO sequence
 - Experience the methodology
 
 **Metrics to track:**
-- Conversion rate from ads to $27
+- Conversion rate from ads to $47
 - Front-end purchase volume
 
 ---
 
-## Stage 3: Order Bumps — $17 + $37 + $67
+## Stage 3: Order Bumps — $37 + $67 + $97
 
 **Goal:** Increase average order value
 
 **Products:**
-- **Bump 1: $17** — Quick Win DM Scripts (start conversations today)
-- **Bump 2: $37** — Plug & Play Templates (landing pages, emails, headlines)
-- **Bump 3: $67** — The First $5K Client Playbook
+- **Bump 1: $37** — Quick Win DM Scripts (start conversations today)
+- **Bump 2: $67** — Plug & Play Templates (landing pages, emails, headlines)
+- **Bump 3: $97** — The First $5K Client Playbook
 
 **What happens:**
 - Customer sees checkbox offers on order form
@@ -86,7 +86,7 @@ RETENTION (Results → Referrals → Case Studies)
 **Metrics to track:**
 - Individual bump take rates (target: 25-35% each)
 - Combined bump rate
-- Average order value (target: $120-150)
+- Average order value (target: $90-110)
 
 ---
 
@@ -216,13 +216,13 @@ See: `reference/domain/accelerator-delivery.md`
 
 | Metric | Target |
 |--------|--------|
-| Front-end price | $27 |
+| Front-end price | $47 |
 | Bump 1 rate | 25-35% |
 | Bump 2 rate | 25-35% |
 | Bump 3 rate | 25-35% |
 | OTO 1 rate | 10-15% |
 | OTO 2 rate | 5-10% |
-| Average order value | $120-150 |
-| Max cart value | $842 |
+| Average order value | $90-110 |
+| Max cart value | $942 |
 | Accelerator close rate | Track by source |
 | Customer acquisition cost | < AOV |

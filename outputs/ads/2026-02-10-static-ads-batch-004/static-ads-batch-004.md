@@ -15,7 +15,7 @@ validated_by: Miles Stutz ad library mining — anti-organic is his #1 angle (~3
 # Campaign Batch 004 — Static Ads (Content Merry-Go-Round)
 
 Generated: 2026-02-10
-Target: Client Ready Offer System ($27)
+Target: Client Ready Offer System ($47)
 Destination: Landing page / checkout
 Framework: 1 angle × 6 primaries × 6 headlines + 5 compressed short-form versions = 41 pieces
 
@@ -23,7 +23,7 @@ Framework: 1 angle × 6 primaries × 6 headlines + 5 compressed short-form versi
 
 - **Content Merry-Go-Round** — First ad batch for Priority 3 angle (validated by Miles Stutz competitor research as top-performing anti-organic angle)
 - **Anti-content positioning** — Targets coaches posting daily with zero sales. Shifts blame from "I'm bad at content" to "the offer underneath is unclear"
-- **Paid traffic as alternative** — Positions $27 system as the step that makes paid traffic possible
+- **Paid traffic as alternative** — Positions $47 system as the step that makes paid traffic possible
 - **"Confused → Clear → Converting"** brand metaphor carried forward from Batch 003
 - **Compressed short-form** (3-5 lines) for every primary
 
@@ -102,7 +102,7 @@ Here's what nobody told them: content only converts when the offer underneath is
 
 If you can't explain what you sell in one sentence — if someone has to ask "so... what exactly do you do?" — more content won't fix that. More content just amplifies the confusion.
 
-Robin is a peak performance coach who was caught in exactly this cycle. She described it as being "caught in some kind of cyclone whirlwind where I was just clutching at straws and then throwing them back out there into the cyclone hoping that someone else would catch my straws." She worked directly with Michael through coaching (not the $27 product), and that chaos became structure.
+Robin is a peak performance coach who was caught in exactly this cycle. She described it as being "caught in some kind of cyclone whirlwind where I was just clutching at straws and then throwing them back out there into the cyclone hoping that someone else would catch my straws." She worked directly with Michael through coaching (not the $47 product), and that chaos became structure.
 
 That's the Content Merry-Go-Round. Post, hope, repeat. The gurus call it "building an audience." I call it noise without signal.
 
@@ -110,7 +110,7 @@ The fix isn't more content. It's clarity. It's knowing exactly what you sell, wh
 
 That's the Confused → Clear shift. And it doesn't take 12 more months of posting. It takes an afternoon.
 
-The Client Ready Offer System is $27. Five AI prompts that extract what you actually do well and turn it into a clear, testable offer document. Self-guided. No content strategy required — just the offer.
+The Client Ready Offer System is $47. Five AI prompts that extract what you actually do well and turn it into a clear, testable offer document. Self-guided. No content strategy required — just the offer.
 
 Because once the offer is clear, the content writes itself. You stop posting and hoping. You start posting with purpose — or you skip content entirely and run paid traffic.
 
@@ -118,7 +118,7 @@ Either way, the merry-go-round stops.
 
 Fair warning — there's a community behind this. No pressure to join. But I wanted to be upfront about it because I hate when people pretend there's no backend.
 
-$27. One afternoon. Stop posting into the void.
+$47. One afternoon. Stop posting into the void.
 
 Link below.
 ```
@@ -129,7 +129,7 @@ Link below.
 12 months of posting. Likes. Comments. Followers.
 Zero sales.
 The content isn't the problem. The offer underneath is.
-$27 to get the offer clear. One afternoon.
+$47 to get the offer clear. One afternoon.
 Link below.
 ```
 
@@ -164,7 +164,7 @@ What changed: I stopped posting and started extracting. What do I actually do? W
 
 When those answers got clear, two things happened. The content I did post actually resonated — because it had something real behind it. And I could finally run paid traffic because the offer was clear enough to sell to cold strangers.
 
-The Client Ready system is how I bottled that shift. Five AI prompts. One afternoon. Self-guided. $27.
+The Client Ready system is how I bottled that shift. Five AI prompts. One afternoon. Self-guided. $47.
 
 It won't grow your following. It won't fix your content calendar. But it'll give you the one thing that makes all of it actually work: a clear offer.
 
@@ -178,7 +178,7 @@ Posted every day for a year. Grew an audience.
 Nobody bought.
 Wasn't the algorithm. Wasn't the content style. Wasn't the platform.
 I couldn't explain what I sold. That was the whole problem.
-$27 to fix the offer. One afternoon.
+$47 to fix the offer. One afternoon.
 Grab it here ↓
 ```
 
@@ -186,10 +186,10 @@ Grab it here ↓
 
 ## P3 — Direct Response (Content Merry-Go-Round) `SOLUTION AWARE`
 
-**Hook:** This replaces 12 months of posting with one afternoon of offer extraction — for $27 (90 chars)
+**Hook:** This replaces 12 months of posting with one afternoon of offer extraction — for $47 (90 chars)
 
 ```text
-This replaces 12 months of posting with one afternoon of offer extraction — for $27
+This replaces 12 months of posting with one afternoon of offer extraction — for $47
 
 If you've been posting content consistently and nobody's buying, you don't have a content problem. You have an offer problem.
 
@@ -211,13 +211,13 @@ The gurus say "be consistent." I say "be clear." Clarity converts. Consistency w
 
 Self-guided. Results depend on your effort and your market.
 
-$27. No subscription. No content calendar required.
+$47. No subscription. No content calendar required.
 
 150+ coaches have used this system. 4.7/5 rating.
 
 If you're tired of posting and hoping, this is the step that comes before all of it — the offer.
 
-$27 — grab it here ↓
+$47 — grab it here ↓
 ```
 
 ### P3 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
@@ -227,7 +227,7 @@ Posting 3-5x per week. Nobody's buying.
 It's not a content problem. It's an offer problem.
 5 AI prompts extract your offer in one afternoon.
 Stop posting and hoping. Start with clarity.
-$27. 150+ coaches. 4.7/5 rating.
+$47. 150+ coaches. 4.7/5 rating.
 Grab it here ↓
 ```
 
@@ -248,7 +248,7 @@ Wrong order.
 
 Confused → Clear → Converting. You can't post your way to step 3 if you're stuck at step 1.
 
-$27 gets you from Confused to Clear in one afternoon. Then your content actually has something to say.
+$47 gets you from Confused to Clear in one afternoon. Then your content actually has something to say.
 ```
 
 ### P4 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
@@ -258,7 +258,7 @@ $27 gets you from Confused to Clear in one afternoon. Then your content actually
 Wrong.
 Be clear.
 You can't post your way out of a confusing offer.
-$27. One afternoon. Offer clarity first.
+$47. One afternoon. Offer clarity first.
 ```
 
 ---
@@ -276,7 +276,7 @@ But marketing? She described it as being "caught in some kind of cyclone whirlwi
 
 That's the Content Merry-Go-Round in one sentence. Post, hope, repeat.
 
-Through working directly with Michael in coaching (not the $27 product), Robin got what she'd been missing. She said Michael "demystified all the information that I'd been trying to get my head around for so long and he showed me really clearly how to implement the simple and effective strategies that he teaches."
+Through working directly with Michael in coaching (not the $47 product), Robin got what she'd been missing. She said Michael "demystified all the information that I'd been trying to get my head around for so long and he showed me really clearly how to implement the simple and effective strategies that he teaches."
 
 No jargon. No "just post more." Structure she could actually understand and use.
 
@@ -284,7 +284,7 @@ Wendy had a similar pattern. Months of "very creative procrastination" — on th
 
 Same pattern both times. The content wasn't the problem. The clarity was missing.
 
-The Client Ready Offer System uses the same extraction framework — self-guided, $27, one afternoon. Your results depend on your effort and your market.
+The Client Ready Offer System uses the same extraction framework — self-guided, $47, one afternoon. Your results depend on your effort and your market.
 
 But the shift — from posting into the void to knowing exactly what you sell — that's what changes everything.
 
@@ -299,7 +299,7 @@ Link below.
 Robin: "Caught in a cyclone whirlwind... clutching at straws and throwing them back out there."
 Wendy: months stuck. Then clarity. First sales calls ever in weeks.
 Same pattern: the content wasn't the problem. The offer was.
-Coaching results — same framework, $27 self-guided.
+Coaching results — same framework, $47 self-guided.
 Link below.
 ```
 
@@ -310,7 +310,7 @@ Link below.
 **H1 — Proof-Led:**
 She Posted for a Year. Grew an Audience. Made Zero Sales. Then She Fixed the Offer.*
 
-*Coaching result. The $27 system uses the same extraction framework, self-guided.
+*Coaching result. The $47 system uses the same extraction framework, self-guided.
 
 **H2 — Mechanism-Led:**
 5 AI Prompts Replace 12 Months of Posting — Extract Your Offer in One Afternoon
@@ -322,10 +322,10 @@ Stop Posting Into the Void. Know Exactly What You Sell Before You Create Another
 The Gurus Say "Be Consistent." Nobody Tells You What to Be Consistent About.
 
 **H5 — Benefit-Led:**
-$27 to Fix the Offer Underneath — So Your Content Actually Converts
+$47 to Fix the Offer Underneath — So Your Content Actually Converts
 
 **H6 — Price-Forward:** `PROBLEM AWARE`
-$27. One Afternoon. Stop Posting Into the Void and Fix the Offer First.
+$47. One Afternoon. Stop Posting Into the Void and Fix the Offer First.
 
 ---
 
@@ -360,7 +360,7 @@ If you've been posting consistently and nobody's buying — the problem probably
 ## Testimonial Disclaimers
 
 Every testimonial reference includes:
-- "worked directly with Michael through coaching (not the $27 product)"
+- "worked directly with Michael through coaching (not the $47 product)"
 - "self-guided — your results depend on your effort and your market"
 - Clear separation between coaching outcomes and product promise
 

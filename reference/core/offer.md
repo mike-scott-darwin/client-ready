@@ -60,7 +60,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 
 ## The Value Ladder
 
-### Tier 1: $27 Low-Ticket Funnel
+### Tier 1: Low-Ticket Funnel
 
 **Front-End: $47 — Client Ready Offer System**
 - PDF guide + AI prompts
@@ -242,7 +242,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 
 ## Email Ascension System
 
-**The engine that turns $27 buyers into $5K clients — without phone calls.**
+**The engine that turns $47 buyers into $5K clients — without phone calls.**
 
 ### Daily Email Rhythm
 
@@ -273,7 +273,7 @@ New buyers get a 10-email sequence over 10 days. **This sequence is relationship
 | 6 | From stuck to first client in 30 days | Transformation story |
 | 7 | What my morning actually looks like | Behind the scenes |
 | 8 | "What if I'm not ready?" | FAQ / objection |
-| 9 | What happens after $27 | The roadmap |
+| 9 | What happens after $47 | The roadmap |
 | 10 | Come hang out | Community invite |
 
 **Ascension touchpoints (iron strike window):**

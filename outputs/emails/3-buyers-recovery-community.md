@@ -14,9 +14,9 @@ format: Google Doc
 
 ## Overview
 
-When someone buys the $27 but says "no" to both Sprint and Blueprint, this email offers the Community as a lower-commitment option.
+When someone buys the $47 but says "no" to both Sprint and Blueprint, this email offers the Community as a lower-commitment option.
 
-**Trigger:** Purchased $27, did NOT purchase Sprint ($297) OR Blueprint ($397)
+**Trigger:** Purchased $47, did NOT purchase Sprint ($297) OR Blueprint ($397)
 **Timing:** Day 8 after purchase
 **Send Time:** 2:00 PM (Welcome sequence sends at 8:00 AM — avoids stacking)
 **Goal:** Convert 5-10% of "no" buyers to recurring community members
@@ -45,7 +45,7 @@ Maybe you thought: "Not right now."
 
 That's fine. Seriously.
 
-Those are bigger commitments. You might not be there yet. You might want to work through the $27 system first and see results before investing more.
+Those are bigger commitments. You might not be there yet. You might want to work through the $47 system first and see results before investing more.
 
 I get it.
 
@@ -84,7 +84,7 @@ P.S. — This isn't a replacement for Sprint or Blueprint. It's for people who w
 ## Automation Logic
 
 ```
-IF purchased $27
+IF purchased $47
 AND NOT purchased Sprint ($297)
 AND NOT purchased Blueprint ($397)
 AND NOT purchased Community ($47/mo)

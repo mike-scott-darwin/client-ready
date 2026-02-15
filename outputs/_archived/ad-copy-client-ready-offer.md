@@ -1,4 +1,4 @@
-# Ad Copy Examples — Client Ready Offer ($27)
+# Ad Copy Examples — Client Ready Offer ($47)
 
 Generated: 2026-01-30
 Updated: 2026-01-31 (Landing page congruency pass)
@@ -46,10 +46,10 @@ Use these headlines across all ads. Meta shows the headline next to the CTA butt
 
 | Level | Headline |
 |-------|----------|
-| **Unaware** | Why your coaching business needs a phone call to sell — $27 |
-| **Problem-Aware** | Stop Selling on Calls. Start Selling on Clarity — $27 |
-| **Solution-Aware** | Build Your No-Phone Offer — $27 |
-| **Most Aware** | Client Ready Offer — get it now for $27 |
+| **Unaware** | Why your coaching business needs a phone call to sell — $47 |
+| **Problem-Aware** | Stop Selling on Calls. Start Selling on Clarity — $47 |
+| **Solution-Aware** | Build Your No-Phone Offer — $47 |
+| **Most Aware** | Client Ready Offer — get it now for $47 |
 
 ### Description (Below Headline)
 
@@ -91,7 +91,7 @@ No guessing. No ideal client worksheets. No pretending to be something you're no
 
 Just YOU — clarified. And new customers in 72 hours.
 
-$27 to go from "I help everyone with everything" to "I'm the only choice."
+$47 to go from "I help everyone with everything" to "I'm the only choice."
 
 👉 clientreadyoffer.com
 
@@ -119,7 +119,7 @@ Your story. Your transformation. Your lived experience.
 
 That's not a niche. That's a moat.
 
-$27. 15 minutes. New customers in 72 hours.
+$47. 15 minutes. New customers in 72 hours.
 
 👉 clientreadyoffer.com
 
@@ -151,7 +151,7 @@ It pulls out:
 
 Result? New customers in 72 hours — even if you've never ran ads or built a funnel.
 
-$27. No branding coach required.
+$47. No branding coach required.
 
 👉 clientreadyoffer.com
 
@@ -181,7 +181,7 @@ It's extracting your zone of genius — the thing that's actually true to who yo
 
 That's what the Client Ready Offer does. 15 minutes. AI does 90% of the work.
 
-$27 to stop feeling like a fraud and start getting customers who already want what you do.
+$47 to stop feeling like a fraud and start getting customers who already want what you do.
 
 👉 clientreadyoffer.com
 
@@ -235,7 +235,7 @@ DMs from strangers. "How do I work with you?" messages. New customers in 72 hour
 
 Not because I posted more. Because I finally knew what I was selling.
 
-$27 to extract yours in 15 minutes.
+$47 to extract yours in 15 minutes.
 
 👉 clientreadyoffer.com
 
@@ -262,9 +262,9 @@ Here's what I can tell you:
 → 15 minutes to extract your zone of genius
 → AI does 90% of the work
 → New customers in 72 hours (even without ads or a funnel)
-→ $27 — less than lunch
+→ $47 — less than lunch
 
-Worst case? You wasted $27 and learned what doesn't resonate.
+Worst case? You wasted $47 and learned what doesn't resonate.
 
 Best case? You go from "I help everyone with everything" to "I'm the only choice."
 
@@ -320,7 +320,7 @@ clientreadyoffer.com
 - Video training = value-first approach builds trust
 
 **Original Version (Pre-Congruency):**
-> Headline: "Discover Your Unfair Advantage $27"
+> Headline: "Discover Your Unfair Advantage $47"
 > CTA: "→ Discover Your Unfair Advantage"
 > Body used "unfair advantage" instead of "zone of genius"
 
@@ -346,7 +346,7 @@ That's the difference between guessing and knowing.
 
 Build a No-Phone Offer using extraction, not selection.
 
-$27. 5 AI prompts. One afternoon.
+$47. 5 AI prompts. One afternoon.
 
 → The Client Ready Offer
 
@@ -388,7 +388,7 @@ clientreadyoffer.com
 > 114 sales in 30 days. Here's what I learned.
 
 **Body:**
-One month ago I launched a $27 low-ticket offer.
+One month ago I launched a $47 low-ticket offer.
 
 114 sales later, here's what I know now:
 
@@ -404,7 +404,7 @@ Extracting your zone of genius first.
 
 That's what the Client Ready Offer does. 15 minutes. AI does 90% of the work.
 
-$27 to stop guessing and start knowing.
+$47 to stop guessing and start knowing.
 
 👉 clientreadyoffer.com
 
@@ -445,7 +445,7 @@ It's easy to let templates and guru advice replace original thinking. Easy to bu
 
 The Client Ready Offer helps you extract what's actually yours. Not a niche you picked because it "made sense." The transformation you've actually lived.
 
-$27. 15 minutes. Find the thing that's actually true — before you start over from scratch.
+$47. 15 minutes. Find the thing that's actually true — before you start over from scratch.
 
 👉 clientreadyoffer.com
 
@@ -555,7 +555,7 @@ Meta's Andromeda algorithm rewards **messaging diversity**, not just creative di
 - Contrarian positioning ("worst advice", "backwards")
 - Specific timeframes (15 minutes, 72 hours)
 - Emotional pain points (imposter syndrome, wrong clients)
-- Low price anchor ($27)
+- Low price anchor ($47)
 - AI mechanism (modern, fast, effortless)
 - Landing page congruency ("zone of genius", "Client Ready Offer", "72 hours")
 
@@ -570,7 +570,7 @@ Meta's Andromeda algorithm rewards **messaging diversity**, not just creative di
 | Product name | "Client Ready Offer" | "Client Ready Offer" | ✅ |
 | Timeline | "One afternoon" | "In one afternoon" | ✅ |
 | Transformation | Sales calls → No-Phone clarity | Same | ✅ |
-| Price | "$27" | "$27" | ✅ |
+| Price | "$47" | "$47" | ✅ |
 | Method | "5 AI prompts" | "5 AI prompts" | ✅ |
 
 **Previous congruency (deprecated):** "15 minutes", "72 hours", "I help everyone → I'm the only choice" — these were the old positioning. Ads should now lead with No-Phone Offer framing.

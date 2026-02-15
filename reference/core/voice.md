@@ -133,7 +133,7 @@ Examples:
 > "Stop explaining what you do. Start having people say 'I need this' before you finish your sentence."
 > "Your offer does the selling. You do the coaching."
 
-**Why not income claims:** Cat Howell uses specific revenue ("$3,500/day," "$96K in low-ticket sales") because she has years of documented results. Client Ready doesn't have that data yet, and FTC risk is high for a $27 self-guided product. Outcome visualization hits the same desire triggers — automation, freedom, "I figured it out" — through experience, not dollars.
+**Why not income claims:** Cat Howell uses specific revenue ("$3,500/day," "$96K in low-ticket sales") because she has years of documented results. Client Ready doesn't have that data yet, and FTC risk is high for a $47 self-guided product. Outcome visualization hits the same desire triggers — automation, freedom, "I figured it out" — through experience, not dollars.
 
 ---
 
@@ -163,7 +163,7 @@ Examples:
 | Type | Description | What To Do |
 |------|-------------|------------|
 | **Not Ready** | Don't have expertise yet, just want to "be a coach" | Direct to free content, not a fit |
-| **Stuck** | Have skills but can't package them — perfect fit | $27 system to validate |
+| **Stuck** | Have skills but can't package them — perfect fit | $47 system to validate |
 | **Ready** | Validated offer, need systems to scale | 1:1 funnel build |
 
 ---
@@ -208,7 +208,7 @@ Examples:
 ## Call-to-Action Patterns
 
 ### Two-Option Close (Borrowed Pattern)
-1. **DIY:** "$27 Client Ready Offer System — create your offer doc in one afternoon"
+1. **DIY:** "$47 Client Ready Offer System — create your offer doc in one afternoon"
 2. **Done-With-You:** "Apply for 1:1 Funnel Build if you want me to do it with you"
 
 ### No-Pressure Positioning

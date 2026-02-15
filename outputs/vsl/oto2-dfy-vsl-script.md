@@ -1,6 +1,6 @@
 # OTO 2: Client Ready Blueprint — VSL Script
 
-**Target:** Coaches/consultants who just purchased the $27 Client Ready Offer System
+**Target:** Coaches/consultants who just purchased the $47 Client Ready Offer System
 **Transformation:** From "now I have to figure out my funnel strategy myself" to "Michael creates your complete custom Blueprint in 30 days"
 **Runtime:** 4-6 minutes (OTO upsell — viewers are already buyers, keep it tight)
 **Tone:** Confident, direct, personal — emphasize 1-on-1 with Michael
@@ -175,7 +175,7 @@ You want your funnel strategy done right the first time, by someone who's create
 
 This is NOT for you if:
 
-You have no idea what you want to offer yet. Go through the $27 system first. Extract your zone of genius. Then come back.
+You have no idea what you want to offer yet. Go through the $47 system first. Extract your zone of genius. Then come back.
 
 You want to learn how to do this yourself. The Sprint is better for you — $297, you learn the whole system.
 

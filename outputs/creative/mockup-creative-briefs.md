@@ -6,7 +6,7 @@
 
 ---
 
-## Mockup 1: Front-End — Client Ready Offer System ($27)
+## Mockup 1: Front-End — Client Ready Offer System ($47)
 
 ### Main Title
 **"THE CLIENT READY OFFER SYSTEM"**
@@ -39,7 +39,7 @@ Keep current teal/cyan + black theme
 
 ---
 
-## Mockup 2: Bump 1 — Quick Win DM Scripts ($17)
+## Mockup 2: Bump 1 — Quick Win DM Scripts ($37)
 
 ### Main Title
 **"QUICK WIN DM SCRIPTS"**
@@ -62,7 +62,7 @@ Keep current teal/cyan + black theme
 
 ---
 
-## Mockup 3: Bump 2 — Plug & Play Templates ($37)
+## Mockup 3: Bump 2 — Plug & Play Templates ($67)
 
 ### Main Title
 **"PLUG & PLAY TEMPLATES"**
@@ -85,7 +85,7 @@ Keep current teal/cyan + black theme
 
 ---
 
-## Mockup 4: Bump 3 — The First $5K Client Playbook ($67)
+## Mockup 4: Bump 3 — The First $5K Client Playbook ($97)
 
 ### Main Title
 **"THE FIRST $5K CLIENT PLAYBOOK"**

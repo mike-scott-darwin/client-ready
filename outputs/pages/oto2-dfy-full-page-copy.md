@@ -169,7 +169,7 @@ You also get my pre-built GoHighLevel snapshot — a ready-made funnel template 
 
 ❌ You're not ready to launch within the next 30 days
 
-❌ You don't have clarity on your expertise yet (start with the $27 system first)
+❌ You don't have clarity on your expertise yet (start with the $47 system first)
 
 ❌ You're looking for a magic button — this still requires your input on the onboarding form
 

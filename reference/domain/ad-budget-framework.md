@@ -11,10 +11,10 @@ source: Cat Howell Profit Lab data + Miles Stutz research + funnel math
 
 | Scenario | AOV | How |
 |----------|-----|-----|
-| Front-end only | $27 | No bumps taken |
-| 1 bump average | $54 | $27 + one bump |
-| Target AOV | $120-150 | Multiple bumps (per Cat Howell benchmarks) |
-| Max cart | $148 | $27 + $17 + $37 + $67 (all 3 bumps) |
+| Front-end only | $47 | No bumps taken |
+| 1 bump average | $54 | $47 + one bump |
+| Target AOV | $90-110 | Multiple bumps (per Cat Howell benchmarks) |
+| Max cart | $248 | $47 + $37 + $67 + $97 (all 3 bumps) |
 
 **Breakeven:** CPA = AOV. Every dollar of AOV above CPA is front-end profit. OTOs and email backend are pure profit on top.
 

@@ -4,12 +4,12 @@ status: active
 date: 2026-01-25
 product: Client Ready Offer System
 format: Email Sequence
-trigger: Purchased $27 front-end
+trigger: Purchased $47 front-end
 ---
 
 # Buyer Email Sequence (30 Days)
 
-**Trigger:** Purchased Client Ready Offer System ($27)
+**Trigger:** Purchased Client Ready Offer System ($47)
 **Goal:** Onboard → Surface Limitations → Ascend to Sprint ($297) → DFY ($397) → Backend ($5K+)
 **Tone:** Miles Stutz style + Michael Scott voice
 **Emails:** 14 over 30 days
@@ -21,7 +21,7 @@ trigger: Purchased $27 front-end
 | Phase | Days | Emails | Purpose |
 |-------|------|--------|---------|
 | **Onboarding** | 0-3 | 3 | Get them to COMPLETE the prompts |
-| **Limitation** | 5-8 | 2 | Surface what the $27 doesn't do |
+| **Limitation** | 5-8 | 2 | Surface what the $47 doesn't do |
 | **Sprint Pitch** | 10-16 | 4 | Ascend to $297 Sprint (or $97 Self-Paced) |
 | **DFY Bridge** | 20-24 | 3 | Pitch $397 DFY for "no time" folks |
 | **Backend Seed** | 28-30 | 2 | Plant seed for $5K+ 1:1 |
@@ -33,7 +33,7 @@ trigger: Purchased $27 front-end
 **Miles Stutz Insight:**
 > "Lead customers to the LIMITATIONS of their purchase to create a need for the next step."
 
-**The $27 Limitation:**
+**The $47 Limitation:**
 They now have a clear, validated offer document. But:
 - They don't have a landing page
 - They don't have traffic
@@ -159,7 +159,7 @@ If you're stuck on any of the prompts, reply and tell me where. I'll help you th
 
 Michael
 
-PS. Tomorrow I'm going to tell you about the thing the $27 system doesn't do. It's important. Finish your offer doc first.
+PS. Tomorrow I'm going to tell you about the thing the $47 system doesn't do. It's important. Finish your offer doc first.
 
 ---
 
@@ -169,7 +169,7 @@ PS. Tomorrow I'm going to tell you about the thing the $27 system doesn't do. It
 
 ## Email 4: The Limitation
 **Send:** Day 5
-**Subject:** What the $27 system doesn't do
+**Subject:** What the $47 system doesn't do
 
 ---
 
@@ -388,7 +388,7 @@ If you're a self-starter who just needs templates — the $97 Self-Paced has eve
 
 If you want someone to build it FOR you — that's OTO 2 (I'll tell you about that soon).
 
-And if you're not ready for any of this yet — no worries. Keep working through the $27 system. The offers aren't going anywhere.
+And if you're not ready for any of this yet — no worries. Keep working through the $47 system. The offers aren't going anywhere.
 
 But if you've been sitting on your offer doc for more than a week without launching...
 
@@ -544,7 +544,7 @@ That's my 1:1 Funnel Build.
 
 **Who it's not for:**
 
-- People who haven't validated yet (start with the $27 system)
+- People who haven't validated yet (start with the $47 system)
 - People who want to DIY (get the Sprint)
 - People looking for a quick fix
 
@@ -609,11 +609,11 @@ PS. If you've been through the Client Ready system and you're still not sure wha
 
 | Bought | Skip Emails | Tag |
 |--------|-------------|-----|
-| $27 only | None | core-buyer |
-| $27 + bumps | None | core-buyer-bumps |
-| $27 + Sprint | 6-9 (Sprint pitch) | sprint-buyer |
-| $27 + DFY | 6-12 (Sprint + DFY pitch) | dfy-buyer |
-| $27 + Sprint + DFY | 6-12 | full-stack-buyer |
+| $47 only | None | core-buyer |
+| $47 + bumps | None | core-buyer-bumps |
+| $47 + Sprint | 6-9 (Sprint pitch) | sprint-buyer |
+| $47 + DFY | 6-12 (Sprint + DFY pitch) | dfy-buyer |
+| $47 + Sprint + DFY | 6-12 | full-stack-buyer |
 
 **Universal rule:** If they buy any product, immediately remove from pitch emails for that product.
 
@@ -625,8 +625,8 @@ PS. If you've been through the Client Ready system and you're still not sure wha
 |--------|--------|
 | Open rate (Phase 1) | 60%+ |
 | Open rate (Phase 3-4) | 35%+ |
-| Sprint conversion (from $27 buyers) | 5-10% |
-| DFY conversion (from $27 buyers) | 2-5% |
+| Sprint conversion (from $47 buyers) | 5-10% |
+| DFY conversion (from $47 buyers) | 2-5% |
 | Backend call booking rate | 1-2% |
 
 ---

@@ -43,12 +43,12 @@ Decision rationale: `decisions/2026-02-01-angle-prioritization.md`
 - Implies simplicity
 - Counters the "it takes months" belief
 
-**Use in:** Lead magnet, $27 offer, ads
+**Use in:** Lead magnet, $47 offer, ads
 
 ---
 
-### 3. The "$27 to $5K" Ladder Angle
-**Hook:** "Validate with $27 low ticket offers and scale to $5K+ high ticket clients"
+### 3. The "$47 to $5K" Ladder Angle
+**Hook:** "Validate with $47 low ticket offers and scale to $5K+ high ticket clients"
 
 **Why it works:**
 - Shows the path (not a leap)
@@ -91,7 +91,7 @@ Decision rationale: `decisions/2026-02-01-angle-prioritization.md`
 - Reduces perceived effort
 - Curiosity driver
 
-**Use in:** $27 offer, lead magnet, content
+**Use in:** $47 offer, lead magnet, content
 
 ---
 

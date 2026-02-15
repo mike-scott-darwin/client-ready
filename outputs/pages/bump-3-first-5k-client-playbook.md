@@ -8,7 +8,7 @@ linked_decisions:
   - decisions/2026-02-01-bump-restructure.md
 ---
 
-# Bump 3: The First $5K Client Playbook ($67)
+# Bump 3: The First $5K Client Playbook ($97)
 
 ---
 
@@ -133,7 +133,7 @@ The first $5K client changes everything. Not just the money — the confidence. 
 
 ---
 
-**One-Time Investment: ~~$297~~ $67**
+**One-Time Investment: ~~$497~~ $97**
 
 No subscription. No fluff. The frameworks, the plan, the responses, the real conversations. Everything you need to close your first $5K client.
 

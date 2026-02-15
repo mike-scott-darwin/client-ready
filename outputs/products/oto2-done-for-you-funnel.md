@@ -230,7 +230,7 @@ This is a completion guarantee. You're paying for a finished strategy document â
 - You're ready to implement and launch once you have the Blueprint
 
 **Not a fit:**
-- You have no idea what you want to offer (start with the $27 system)
+- You have no idea what you want to offer (start with the $47 system)
 - You want to learn how to do this yourself (get the Sprint instead)
 - You're not planning to actually implement and launch
 - You want the full build done for you â€” bespoke pages, GHL setup, the works (that's the $5K Accelerator)

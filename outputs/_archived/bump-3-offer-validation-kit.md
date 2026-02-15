@@ -22,7 +22,7 @@ You're not going to make that mistake.
 ## How to Use This Kit
 
 **Step 1: Complete your offer document first**
-Use the Client Ready Offer System (your $27 purchase) to extract your offer. Don't skip this step — you need something to validate.
+Use the Client Ready Offer System (your $47 purchase) to extract your offer. Don't skip this step — you need something to validate.
 
 **Step 2: Run all 5 AI prompts**
 Copy each prompt into ChatGPT, Claude, or any AI. Paste your offer document when prompted. Takes 15-20 minutes total.

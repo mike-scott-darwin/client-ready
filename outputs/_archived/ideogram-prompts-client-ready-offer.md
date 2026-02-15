@@ -24,7 +24,7 @@ Clean advertising graphic, crumpled receipt showing itemized list: "Branding Coa
 
 **Option B — Before/After Price Contrast**
 ```
-Split screen comparison ad, left side shows "$3,000" in gray with sad face emoji and text "Still couldn't answer 'what do you do?'", right side shows "$27" in bold gold with confident checkmark and text "Fixed in 15 minutes", dark navy background, modern typography, high contrast
+Split screen comparison ad, left side shows "$3,000" in gray with sad face emoji and text "Still couldn't answer 'what do you do?'", right side shows "$47" in bold gold with confident checkmark and text "Fixed in 15 minutes", dark navy background, modern typography, high contrast
 
 --aspect 1:1 --style design
 ```
@@ -173,21 +173,21 @@ Person at laptop surrounded by content creation setup (ring light, mic), looking
 
 **Option A — Direct Address**
 ```
-Simple clean ad graphic, large friendly text "Still thinking about it?", below shows product mockup or simple offer summary "$27 - 15 minutes - Your zone of genius extracted", warm inviting colors, soft gold background, gentle nudge aesthetic, retargeting ad style
+Simple clean ad graphic, large friendly text "Still thinking about it?", below shows product mockup or simple offer summary "$47 - 15 minutes - Your zone of genius extracted", warm inviting colors, soft gold background, gentle nudge aesthetic, retargeting ad style
 
 --aspect 1:1 --style design
 ```
 
 **Option B — Worst/Best Case**
 ```
-Two-column comparison graphic, left column "Worst case:" with text "$27 spent, learned what doesn't work", right column "Best case:" with text "Clients who already want what you do", balanced neutral design, decision-making framework, retargeting conversion ad
+Two-column comparison graphic, left column "Worst case:" with text "$47 spent, learned what doesn't work", right column "Best case:" with text "Clients who already want what you do", balanced neutral design, decision-making framework, retargeting conversion ad
 
 --aspect 1:1 --style design
 ```
 
 **Option C — Simple Reminder**
 ```
-Minimalist ad graphic, sticky note or reminder style, handwritten text "You already know you need this", simple "$27" below with arrow pointing right, warm cream background, authentic hand-drawn feel, soft retargeting approach
+Minimalist ad graphic, sticky note or reminder style, handwritten text "You already know you need this", simple "$47" below with arrow pointing right, warm cream background, authentic hand-drawn feel, soft retargeting approach
 
 --aspect 4:5 --style design
 ```

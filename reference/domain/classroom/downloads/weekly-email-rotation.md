@@ -16,7 +16,7 @@ format: Spreadsheet
 
 | Day | Offer | Price | Why This Day |
 |-----|-------|-------|--------------|
-| **Monday** | Front-end ($27) | $27 | Fresh week, entry point |
+| **Monday** | Front-end ($47) | $47 | Fresh week, entry point |
 | **Tuesday** | Templates | $37 | "Don't start from scratch" |
 | **Wednesday** | Sprint | $297 | Midweek momentum |
 | **Thursday** | DFY Funnel | $397 | "Let me do it for you" |
@@ -30,7 +30,7 @@ format: Spreadsheet
 
 ### Monday
 **Story:** How I validated my first offer in one afternoon
-**Offer:** $27 Client Ready Offer System
+**Offer:** $47 Client Ready Offer System
 **CTA:** "Grab it here: [link]"
 
 ### Tuesday

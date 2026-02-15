@@ -37,7 +37,7 @@ date: 2026-02-10
 - **Why:** Removed unsubstantiated 72-hour timeline claim. No typicality data supports this. Reframed as clarity outcome.
 
 ### #29 — Founder results with implied ROI
-- **Before:** "Switched from posting daily to running $50/day in ads with a validated $27 offer. First 114 sales took 30 days. Not 12 months."
+- **Before:** "Switched from posting daily to running $50/day in ads with a validated $47 offer. First 114 sales took 30 days. Not 12 months."
 - **After:** "I stopped posting daily and ran ads to a validated offer instead. Having a clear offer changed everything. Yours starts with getting the offer right."
 - **Why:** Removed specific sales count, ad spend, and timeframe that together created a calculable ROI claim.
 
@@ -54,7 +54,7 @@ date: 2026-02-10
 ### #14 — Product mismatch (bump vs core offer)
 - **Before:** "If you're a coach who hates DMs and sales calls, 5 copy-paste scripts start real conversations without the cringe."
 - **After:** "Coaches who hate selling but need clients — this builds an offer clear enough that people come to you. No cold DMs required."
-- **Why:** DM scripts are the $17 order bump, not the $27 core offer. Rewritten to reference the core offer's benefit.
+- **Why:** DM scripts are the $17 order bump, not the $47 core offer. Rewritten to reference the core offer's benefit.
 
 ### #17 — Unsubstantiated $5K client claim
 - **Before:** "Coaches with half your experience are landing $5K clients."

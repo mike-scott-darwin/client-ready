@@ -14,9 +14,9 @@ format: Google Doc
 
 ## Overview
 
-When someone buys the $27 (and maybe bumps) but skips the OTOs, this sequence re-pitches the Sprint ($297) and Blueprint ($397) over the next week.
+When someone buys the $47 (and maybe bumps) but skips the OTOs, this sequence re-pitches the Sprint ($297) and Blueprint ($397) over the next week.
 
-**Trigger:** Purchased $27, did NOT purchase OTO1 (Sprint) or OTO2 (Blueprint)
+**Trigger:** Purchased $47, did NOT purchase OTO1 (Sprint) or OTO2 (Blueprint)
 **Timing:** Days 3, 5, and 7 after purchase
 **Send Time:** 2:00 PM (Welcome sequence sends at 8:00 AM — avoids stacking)
 **Goal:** Recover 5-10% of missed OTO revenue
@@ -133,7 +133,7 @@ Michael
 ## Automation Logic
 
 ```
-IF purchased $27
+IF purchased $47
 AND NOT purchased Sprint ($297)
 AND NOT purchased DFY ($397)
 THEN send all 3 emails

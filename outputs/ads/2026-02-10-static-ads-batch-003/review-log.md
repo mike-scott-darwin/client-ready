@@ -16,11 +16,11 @@ lenses: [ftc-compliance, meta-policy, copy-quality, voice-authenticity, substant
 
 ## P1 — Blocking (1 issue)
 
-### P1-1: No typicality data for $27 product
+### P1-1: No typicality data for $47 product
 **Lenses:** FTC Compliance, Substantiation
 **Status:** OPEN — requires data collection, not a copy fix
 
-Testimonials reference coaching outcomes (Renee's "10 years → 90 minutes," Wendy's "first sales calls in weeks"). FTC requires typicality data showing what AVERAGE $27 buyers achieve. Without `reference/proof/typicality.md`, these ads carry regulatory risk.
+Testimonials reference coaching outcomes (Renee's "10 years → 90 minutes," Wendy's "first sales calls in weeks"). FTC requires typicality data showing what AVERAGE $47 buyers achieve. Without `reference/proof/typicality.md`, these ads carry regulatory risk.
 
 **Action required:** Collect average buyer outcome data before scaling ad spend. Ads can run at test budget; do not scale until typicality file exists.
 
@@ -35,7 +35,7 @@ Testimonials reference coaching outcomes (Renee's "10 years → 90 minutes," Wen
 
 ### P2-2: BtF H1 + CU H1 — Parenthetical disclaimers in headlines
 **Lens:** Copy Quality
-**Issue:** Headlines read awkwardly with inline parenthetical disclaimers: "10 Years Stuck... (coaching result — same framework, $27 self-guided)"
+**Issue:** Headlines read awkwardly with inline parenthetical disclaimers: "10 Years Stuck... (coaching result — same framework, $47 self-guided)"
 **Fix:** Moved disclaimers to asterisk footnote format below headline. Clean headline + visible disclaimer.
 
 ### P2-3: BtF P4 — "Do you have an offer..." direct question
@@ -46,12 +46,12 @@ Testimonials reference coaching outcomes (Renee's "10 years → 90 minutes," Wen
 ### P2-4: BtF P3 hook — Missing commas
 **Lens:** Copy Quality
 **Issue:** "This eliminates vague offers unclear positioning and months of guessing" — no commas in a list, hurts scannability.
-**Fix:** Added commas and em dash: "This eliminates vague offers, unclear positioning, and months of guessing whether anyone will pay — for $27"
+**Fix:** Added commas and em dash: "This eliminates vague offers, unclear positioning, and months of guessing whether anyone will pay — for $47"
 
 ### P2-5: CTA monotony — "Link below" on every ad
 **Lens:** Copy Quality
 **Issue:** 13 of 14 CTAs were "Link below." Repetitive across the batch.
-**Fix:** Varied CTAs by ad type: Deep/Testimonial ads keep "Link below." UGC ads use "Grab it here ↓". DR ads use "$27 — grab it here ↓". Mixed treatment on short-forms.
+**Fix:** Varied CTAs by ad type: Deep/Testimonial ads keep "Link below." UGC ads use "Grab it here ↓". DR ads use "$47 — grab it here ↓". Mixed treatment on short-forms.
 
 ### P2-6: Uncontracted language throughout
 **Lens:** Voice Authenticity
@@ -74,7 +74,7 @@ Testimonials reference coaching outcomes (Renee's "10 years → 90 minutes," Wen
 
 ### P3-1: Short-form P5 versions — Missing coaching disclaimer
 **Status:** FIXED
-**Fix:** Both BtF P5 and CU P5 short-forms now include "Coaching results — same framework, $27 self-guided."
+**Fix:** Both BtF P5 and CU P5 short-forms now include "Coaching results — same framework, $47 self-guided."
 
 ### P3-2: "150+ coaches" and "4.7/5 rating" — Source documentation
 **Status:** NOTED

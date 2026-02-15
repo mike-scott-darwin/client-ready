@@ -19,7 +19,7 @@
 
 | Product | Price | What It Solves |
 |---------|-------|----------------|
-| Client Ready Offer System | $27 | WHAT is my offer? |
+| Client Ready Offer System | $47 | WHAT is my offer? |
 | Bump 1: DM Scripts | $17 | Start conversations NOW |
 | Bump 2: Templates | $37 | HOW do I build it? |
 | Bump 3: Traffic Kit | $67 | HOW do I sell it? |
@@ -29,7 +29,7 @@
 | OTO 3: Community | $47/mo | Downsell for "no" buyers ($1 trial) |
 | Accelerator | $5,000 | No-phone 8-week intensive |
 
-**Max cart:** $842 | **Target AOV:** $120-150 [offer.md]
+**Max cart:** $942 | **Target AOV:** $90-110 [offer.md]
 
 ---
 
@@ -68,7 +68,7 @@
 | Feb 5 | Identity work → DFY + Sprint Soul Extraction | "Income leaps follow identity leaps" |
 | Feb 3 | Content strategy: X + LinkedIn + Newsletter | Newsletter-first, repurpose to social |
 | Feb 3 | Funnel optimization (Cat Howell) | Test bump sequence $67→$37→$17 |
-| Feb 1 | Add Bump 1 ($17 DM Scripts) | 3 bumps doubled conversion (Cat data) |
+| Feb 1 | Add Bump 1 ($37 DM Scripts) | 3 bumps doubled conversion (Cat data) |
 | Feb 1 | Bump restructure | Templates $37, Traffic $67 |
 
 ---

@@ -8,7 +8,7 @@ format: Google Doc
 
 # 10-Day Welcome Sequence Template
 
-**Automated emails for new $27 buyers**
+**Automated emails for new $47 buyers**
 
 ---
 
@@ -16,7 +16,7 @@ format: Google Doc
 
 New buyers get this sequence before joining daily broadcasts. Goal: build relationship, recover missed upsells, introduce the full value ladder.
 
-**Trigger:** Purchase of $27 Client Ready Offer System
+**Trigger:** Purchase of $47 Client Ready Offer System
 **Duration:** 10 days
 **Then:** Add to daily broadcast list
 
@@ -272,7 +272,7 @@ Michael
 
 ## Day 9: The Roadmap (No Pitch)
 
-**Subject:** What happens after $27
+**Subject:** What happens after $47
 
 **Body:**
 

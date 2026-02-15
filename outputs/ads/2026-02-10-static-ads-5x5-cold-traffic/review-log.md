@@ -28,15 +28,15 @@ date: 2026-02-10
 
 `reference/proof/typicality.md` does not exist. All testimonials describe specific outcomes (niche defined, website launched, sales calls booked, moved to high-ticket) without data on what the AVERAGE buyer achieves. Required for Tier 2 (coaching/education) outcome claims.
 
-**Action needed:** Collect typicality data from $27 product buyers OR limit testimonials to process descriptions only.
+**Action needed:** Collect typicality data from $47 product buyers OR limit testimonials to process descriptions only.
 
 ### 2. Testimonial-Product Mismatch
 
-All 6 testimonials (Nicole, Alexia, Renee, Carly, Robin, Wendy) describe results from personalized 1-on-1 coaching with Michael. The ads sell a $27 self-guided PDF + AI prompts product.
+All 6 testimonials (Nicole, Alexia, Renee, Carly, Robin, Wendy) describe results from personalized 1-on-1 coaching with Michael. The ads sell a $47 self-guided PDF + AI prompts product.
 
-**Mitigation applied:** Added coaching disclosures to every ad that uses testimonials ("worked directly with Michael — not the $27 product" + "self-guided" language). This reduces but does not eliminate the risk.
+**Mitigation applied:** Added coaching disclosures to every ad that uses testimonials ("worked directly with Michael — not the $47 product" + "self-guided" language). This reduces but does not eliminate the risk.
 
-**Action needed:** Collect testimonials from actual $27 product buyers OR accept the mitigated risk with current disclosures.
+**Action needed:** Collect testimonials from actual $47 product buyers OR accept the mitigated risk with current disclosures.
 
 ---
 
@@ -49,7 +49,7 @@ All 6 testimonials (Nicole, Alexia, Renee, Carly, Robin, Wendy) describe results
 | 3 | A1-P1 | "Not slowly — fast" speed claim | Removed |
 | 4 | A1-P2 | Hook too formulaic ("Here's how even...") | Rewritten to story-first: "I spent six months building a funnel..." |
 | 5 | A2-P2 | Hook too formulaic (same "Here's how even...") | Rewritten to first-person: "I could help people get real results but..." |
-| 6 | A1-P3 | Hook overloaded, no mechanism | Rewritten: "This $27 system replaces the branding agency process..." |
+| 6 | A1-P3 | Hook overloaded, no mechanism | Rewritten: "This $47 system replaces the branding agency process..." |
 | 7 | A2-P3 | Hook overloaded, duplicate structure | Rewritten to angle thesis: "The reason coaches can't explain..." |
 | 8 | A1-P3 | "your funnel is not converting" — Personal Attributes | Changed to "When a funnel isn't converting..." |
 | 9 | A1-H2 | "$5K Offer" implied earnings | Changed to "Your Complete Offer" |
@@ -66,13 +66,13 @@ All 6 testimonials (Nicole, Alexia, Renee, Carly, Robin, Wendy) describe results
 
 | Location | Disclosure Added |
 |----------|-----------------|
-| A1-P1 | "Renee worked directly with Michael — not the $27 product." |
-| A1-P2 | "Wendy worked with Michael in a coaching engagement — not the $27 product." |
-| A1-P3 | "These coaches worked directly with Michael — not the $27 product." + "Results from personalized coaching. The Client Ready Offer System is self-guided." |
-| A1-P5 | "Renee worked directly with Michael — not the $27 product. But the extraction process she went through is what the Client Ready Offer System is built on." |
-| A2-P1 | "These coaches all worked directly with Michael in coaching engagements — not the $27 product." |
-| A2-P3 | "Individual experiences from personalized coaching. The $27 Client Ready Offer System is self-guided." |
-| A2-P5 | "Wendy worked directly with Michael in a coaching engagement — not the $27 product." + end disclosure |
+| A1-P1 | "Renee worked directly with Michael — not the $47 product." |
+| A1-P2 | "Wendy worked with Michael in a coaching engagement — not the $47 product." |
+| A1-P3 | "These coaches worked directly with Michael — not the $47 product." + "Results from personalized coaching. The Client Ready Offer System is self-guided." |
+| A1-P5 | "Renee worked directly with Michael — not the $47 product. But the extraction process she went through is what the Client Ready Offer System is built on." |
+| A2-P1 | "These coaches all worked directly with Michael in coaching engagements — not the $47 product." |
+| A2-P3 | "Individual experiences from personalized coaching. The $47 Client Ready Offer System is self-guided." |
+| A2-P5 | "Wendy worked directly with Michael in a coaching engagement — not the $47 product." + end disclosure |
 
 ---
 
@@ -82,7 +82,7 @@ All 6 testimonials (Nicole, Alexia, Renee, Carly, Robin, Wendy) describe results
 |---|----------|-------|-------|
 | 1 | A1-H1 | Renee headline compression | Softened to "She Was Stuck for 10 Years — Here's What Finally Worked" |
 | 2 | A2-H1 | "All 6" framing | Changed to "Coaches From 6 Different Niches" |
-| 3 | A2-H5 | Price in headline | Changed to "This Afternoon" instead of "$27" |
+| 3 | A2-H5 | Price in headline | Changed to "This Afternoon" instead of "$47" |
 | 4 | All ads | CTA uniformity | Noted — test CTA variants in future batch |
 | 5 | A1-P3 vs A2-P3 | Direct Response body overlap | Noted — differentiate further in future |
 | 6 | A2-P1 | Deep Ad wall of proof (6 testimonials) | Noted — consider cutting to 3 in future |
@@ -97,7 +97,7 @@ All 6 testimonials (Nicole, Alexia, Renee, Carly, Robin, Wendy) describe results
 - No banned words in ad copy (hype, guru language)
 - Awareness level correct for cold traffic throughout
 - All testimonial quotes verified accurate against testimonials.md
-- $27 price accurate per offer.md
+- $47 price accurate per offer.md
 - "One afternoon" claim substantiated by offer promise
 - No fake scarcity or urgency
 - No guarantee misstatements
@@ -124,7 +124,7 @@ All 6 testimonials (Nicole, Alexia, Renee, Carly, Robin, Wendy) describe results
 
 **After deduplication:** P1: 1 blocking (same root cause as Pass 1), P2: 8 fixes applied, P3: 12 noted
 
-**Status: Same P1 blocker applies** — A2-P7 uses Robin coaching testimonial for $27 product (same testimonial-product mismatch + no typicality from Pass 1).
+**Status: Same P1 blocker applies** — A2-P7 uses Robin coaching testimonial for $47 product (same testimonial-product mismatch + no typicality from Pass 1).
 
 ---
 
@@ -155,14 +155,14 @@ All 6 testimonials (Nicole, Alexia, Renee, Carly, Robin, Wendy) describe results
 
 | Location | Disclosure |
 |----------|-----------|
-| A2-P7 | "Robin worked directly with me in a coaching engagement — not the $27 product. Her results reflect that deeper engagement." |
+| A2-P7 | "Robin worked directly with me in a coaching engagement — not the $47 product. Her results reflect that deeper engagement." |
 
 ---
 
 ## P1 — Blocking Issues (Same as Pass 1)
 
 A2-P7's Robin testimonial triggers the same two P1 blockers from Pass 1:
-1. **Testimonial-product mismatch** — coaching testimonial selling $27 self-guided product
+1. **Testimonial-product mismatch** — coaching testimonial selling $47 self-guided product
 2. **No typicality data** — no reference/proof/typicality.md
 
 The three other new ads (A1-P6, A1-P7, A2-P6) contain zero testimonials and pass clean on all substantiation checks.

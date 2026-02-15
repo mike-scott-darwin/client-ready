@@ -314,14 +314,14 @@ Clean before-and-after split design. Left side: a messy tangled web of sticky no
 
 **Ideogram prompt:**
 ```
-Dark charcoal background. Clean modern typography layout. Top line in small teal text: "Years of expertise." Large bold white text in center: "One clear offer." Bottom line in small amber text: "One afternoon. $27." Minimalist. Generous whitespace. Square 1:1 format.
+Dark charcoal background. Clean modern typography layout. Top line in small teal text: "Years of expertise." Large bold white text in center: "One clear offer." Bottom line in small amber text: "One afternoon. $47." Minimalist. Generous whitespace. Square 1:1 format.
 ```
 
 **Canva direction:**
 - Dark charcoal (#1A1A1A) background
 - "Years of expertise." (Montserrat Light, teal, 24pt, top-center)
 - "One clear offer." (Montserrat Bold, white, 72pt, center)
-- "One afternoon. $27." (Montserrat Medium, amber, 28pt, below center)
+- "One afternoon. $47." (Montserrat Medium, amber, 28pt, below center)
 - Lots of space — let the message breathe
 
 ---

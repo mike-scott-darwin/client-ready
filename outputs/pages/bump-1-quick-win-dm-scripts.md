@@ -11,7 +11,7 @@ linked_research:
   - research/2026-02-01-cat-howell-scaling-split-tests.md
 ---
 
-# Bump 1: Quick Win DM Scripts ($17)
+# Bump 1: Quick Win DM Scripts ($37)
 
 ---
 

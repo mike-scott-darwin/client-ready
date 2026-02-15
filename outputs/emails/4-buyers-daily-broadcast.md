@@ -58,7 +58,7 @@ Every email follows the same structure:
 
 | Day | Offer | Price | Link Text |
 |-----|-------|-------|-----------|
-| Monday | Front-end | $27 | "Grab it here" |
+| Monday | Front-end | $47 | "Grab it here" |
 | Tuesday | Templates | $37 | "Get the templates" |
 | Wednesday | Sprint | $297 | "Join the Sprint" |
 | Thursday | Blueprint | $397 | "Get your custom blueprint" |
@@ -72,7 +72,7 @@ Every email follows the same structure:
 
 ## Example Emails (One Per Day)
 
-### Monday — Front-End ($27)
+### Monday — Front-End ($47)
 
 **Subject:** The coach who couldn't explain what she does
 
@@ -102,7 +102,7 @@ If that's you — the Client Ready Offer System fixes it in one afternoon.
 
 5 AI prompts that extract what you actually do and turn it into an offer document you can send to anyone.
 
-$27: [LINK]
+$47: [LINK]
 
 Michael
 
@@ -110,7 +110,7 @@ P.S. — Lisa went through the system last week. Her new one-liner: "I help firs
 
 ---
 
-### Tuesday — Templates ($37)
+### Tuesday — Templates ($67)
 
 **Subject:** I stared at the blank page for 3 hours
 
@@ -224,7 +224,7 @@ Michael
 
 ---
 
-Most of my emails are about the $27-$397 range.
+Most of my emails are about the $47-$397 range.
 
 Today's different.
 
@@ -246,7 +246,7 @@ What you get:
 - Traffic and scaling strategy
 - Ongoing support until you hit your revenue goal
 
-This isn't for everyone. Most people should stay in the $27-$397 range until they've proven the offer.
+This isn't for everyone. Most people should stay in the $47-$397 range until they've proven the offer.
 
 But if you're past that stage and want a partner, not a product...
 
@@ -383,7 +383,7 @@ As buyers ascend, remove them from pitches for products they own:
 
 | Bought | Stop Pitching |
 |--------|---------------|
-| Templates ($37) | Tuesday emails skip offer section |
+| Templates ($67) | Tuesday emails skip offer section |
 | Sprint ($297) | Wednesday emails skip offer section |
 | Blueprint ($397) | Thursday emails skip offer section |
 | Community ($47/mo) | Saturday emails skip offer section |
@@ -408,7 +408,7 @@ As buyers ascend, remove them from pitches for products they own:
 
 ```
 Buyer Journey:
-$27 Purchase → 10-Day Welcome → Daily Broadcast → Backend ($5K)
+$47 Purchase → 10-Day Welcome → Daily Broadcast → Backend ($5K)
 
 Where daily emails fit:
 ├── Day 1-10: Welcome sequence (automated)

@@ -719,8 +719,8 @@ You have the scripts. Now use them.
 - Have conversations with responders
 
 **When you're ready to scale:**
-- **Plug & Play Templates ($37)** — Landing pages and email sequences for when DMs turn into "send me more info"
-- **The First $5K Client Playbook ($67)** — Close your first high-ticket client with conversation frameworks and the Warm 50 plan
+- **Plug & Play Templates ($67)** — Landing pages and email sequences for when DMs turn into "send me more info"
+- **The First $5K Client Playbook ($97)** — Close your first high-ticket client with conversation frameworks and the Warm 50 plan
 
 Questions? Reply to your purchase email or find me in Skool.
 

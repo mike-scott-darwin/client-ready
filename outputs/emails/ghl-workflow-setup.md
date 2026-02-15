@@ -19,10 +19,10 @@ Complete GoHighLevel workflow configuration for the Client Ready email backend. 
 | # | Workflow Name | Trigger | Emails | HTML Files |
 |---|---------------|---------|--------|------------|
 | 1 | Non-Buyer Nurture | Entered email, no purchase | 12 emails / 30 days | `nb-sequence/NB01-NB12` |
-| 2 | Buyer Welcome | Purchased $27 | 10 emails / 10 days (Day 3 branches) | `bw-sequence/BW01-BW10` + `BW03a/BW03b` |
-| 3 | Bump Recovery | Purchased $27, missed bumps | 3 emails (Days 2,4,6) | `br-sequence/BR01-BR03` |
-| 4 | OTO Recovery | Purchased $27, no Sprint/Blueprint | 3 emails (Days 3,5,7) | `or-sequence/OR01-OR03` |
-| 5 | Community Recovery | Purchased $27, no upsells at all | 1 email (Day 8) | `cr-sequence/CR01` |
+| 2 | Buyer Welcome | Purchased $47 | 10 emails / 10 days (Day 3 branches) | `bw-sequence/BW01-BW10` + `BW03a/BW03b` |
+| 3 | Bump Recovery | Purchased $47, missed bumps | 3 emails (Days 2,4,6) | `br-sequence/BR01-BR03` |
+| 4 | OTO Recovery | Purchased $47, no Sprint/Blueprint | 3 emails (Days 3,5,7) | `or-sequence/OR01-OR03` |
+| 5 | Community Recovery | Purchased $47, no upsells at all | 1 email (Day 8) | `cr-sequence/CR01` |
 | 6 | Daily Broadcast | Day 11+ | Ongoing (7 templates) | `db-sequence/DB01-DB07` |
 | 7 | Accountability DM | Purchased Sprint or Blueprint | Manual DM trigger | (no HTML — manual outreach) |
 
@@ -83,10 +83,10 @@ For each product, add the corresponding tag on purchase:
 
 | Product | Go To | Add Tag |
 |---------|-------|---------|
-| $27 Client Ready Offer System | Payments → Products → Client Ready → Tags | `purchased-27` |
-| $17 DM Scripts (Order Bump 1) | Payments → Products → DM Scripts → Tags | `purchased-bump-dm-scripts` |
-| $37 Templates (Order Bump 2) | Payments → Products → Templates → Tags | `purchased-bump-templates` |
-| $67 First $5K Client Playbook (Order Bump 3) | Payments → Products → Playbook → Tags | `purchased-bump-playbook` |
+| $47 Client Ready Offer System | Payments → Products → Client Ready → Tags | `purchased-27` |
+| $37 DM Scripts (Order Bump 1) | Payments → Products → DM Scripts → Tags | `purchased-bump-dm-scripts` |
+| $67 Templates (Order Bump 2) | Payments → Products → Templates → Tags | `purchased-bump-templates` |
+| $97 First $5K Client Playbook (Order Bump 3) | Payments → Products → Playbook → Tags | `purchased-bump-playbook` |
 | $297 Sprint (OTO 1) | Payments → Products → Sprint → Tags | `purchased-sprint` |
 | $397 Blueprint (OTO 2) | Payments → Products → Blueprint → Tags | `purchased-blueprint` |
 | $47/mo Community (OTO 3) | Payments → Products → Community → Tags | `purchased-community` |
@@ -337,7 +337,7 @@ Step 16: SEND EMAIL → BW08-faq-objection.html
 Step 17: WAIT → Wait 1 day (until 8:00 AM) [Day 9]
 
 Step 18: SEND EMAIL → BW09-the-roadmap.html
-           Subject: "What happens after $27"
+           Subject: "What happens after $47"
            (Includes explicit Sprint vs Blueprint comparison CTA)
 
 Step 19: WAIT → Wait 1 day (until 8:00 AM) [Day 10]
@@ -392,7 +392,7 @@ Days 5, 7, and 9 now include soft ascension closes as P.S. sections:
 | BW06 | BW06-transformation-story.html | 6 | 8:00 AM | From stuck to first client in 30 days | — |
 | BW07 | BW07-behind-the-scenes.html | 7 | 8:00 AM | What my morning actually looks like | Soft close (Sprint/Blueprint) |
 | BW08 | BW08-faq-objection.html | 8 | 8:00 AM | "What if I'm not ready?" | — |
-| BW09 | BW09-the-roadmap.html | 9 | 8:00 AM | What happens after $27 | Explicit CTA (Sprint vs Blueprint) |
+| BW09 | BW09-the-roadmap.html | 9 | 8:00 AM | What happens after $47 | Explicit CTA (Sprint vs Blueprint) |
 | BW10 | BW10-community-invite.html | 10 | 8:00 AM | Come hang out | — |
 
 ### Key Settings
@@ -417,7 +417,7 @@ Days 5, 7, and 9 now include soft ascension closes as P.S. sections:
 
 ```
 Step 1:  WAIT → Wait 5 minutes
-           (Let all purchase tags settle — bumps tag at same time as $27)
+           (Let all purchase tags settle — bumps tag at same time as $47)
 
 Step 2:  IF/ELSE → Contact Tag → Has ALL of these tags:
            "purchased-bump-dm-scripts" AND
@@ -458,8 +458,8 @@ Step 8:  IF/ELSE → Contact Tag → Has ANY missing bump tags
 
 | Email | File | Day | Time | Subject | Pitches |
 |-------|------|-----|------|---------|---------|
-| BR01 | BR01-dm-scripts.html | 2 | 2:00 PM | One thing I forgot to mention... | $17 DM Scripts |
-| BR02 | BR02-templates.html | 4 | 2:00 PM | The blank page problem | $37 Templates |
+| BR01 | BR01-dm-scripts.html | 2 | 2:00 PM | One thing I forgot to mention... | $37 DM Scripts |
+| BR02 | BR02-templates.html | 4 | 2:00 PM | The blank page problem | $67 Templates |
 | BR03 | BR03-last-chance.html | 6 | 2:00 PM | Before you move on... | All missed bumps |
 
 ### Key Settings
@@ -605,8 +605,8 @@ Tag: "unsubscribed" ≠ TRUE
 
 | Day | File | Subject | Offer Pitched |
 |-----|------|---------|---------------|
-| Monday | DB01-monday-frontend.html | The coach who couldn't explain what she does | $27 Front-end |
-| Tuesday | DB02-tuesday-templates.html | I stared at the blank page for 3 hours | $37 Templates |
+| Monday | DB01-monday-frontend.html | The coach who couldn't explain what she does | $47 Front-end |
+| Tuesday | DB02-tuesday-templates.html | I stared at the blank page for 3 hours | $67 Templates |
 | Wednesday | DB03-wednesday-sprint.html | The difference between "knowing" and "doing" | $297 Sprint |
 | Thursday | DB04-thursday-blueprint.html | Some people have time. Some people have money. | $397 Blueprint |
 | Friday | DB05-friday-backend.html | When you're ready for the next level | $5K Accelerator (reply "BUILD") |
@@ -626,7 +626,7 @@ As buyers ascend, they should stop seeing pitches for products they already own.
 
 | If Buyer Has | Skip Pitch For | On Day |
 |--------------|----------------|--------|
-| `purchased-bump-templates` | $37 Templates | Tuesday |
+| `purchased-bump-templates` | $67 Templates | Tuesday |
 | `purchased-sprint` | $297 Sprint | Wednesday |
 | `purchased-blueprint` | $397 Blueprint | Thursday |
 | `purchased-community` | $47/mo Community | Saturday |
@@ -692,7 +692,7 @@ Remove the `needs-accountability-dm` tag manually after you've sent the DM. This
 
 ## Complete Buyer Journey — Day by Day
 
-Here's exactly what a buyer who purchased ONLY the $27 (no bumps, no OTOs) receives:
+Here's exactly what a buyer who purchased ONLY the $47 (no bumps, no OTOs) receives:
 
 | Day | Time | Sequence | Email | Subject | Notes |
 |-----|------|----------|-------|---------|-------|
@@ -711,7 +711,7 @@ Here's exactly what a buyer who purchased ONLY the $27 (no bumps, no OTOs) recei
 | 7 | 2:00 PM | OTO Recovery | OR03 | What if I just built your strategy for you? | |
 | 8 | 8:00 AM | Welcome | BW08 | "What if I'm not ready?" | |
 | 8 | 2:00 PM | Community Recovery | CR01 | Not ready yet? (That's okay) | |
-| 9 | 8:00 AM | Welcome | BW09 | What happens after $27 | **Explicit ascension CTA** |
+| 9 | 8:00 AM | Welcome | BW09 | What happens after $47 | **Explicit ascension CTA** |
 | 10 | 8:00 AM | Welcome | BW10 | Come hang out | |
 | 11+ | 8:00 AM | Daily Broadcast | DB01-07 | (rotating daily) | |
 
@@ -768,7 +768,7 @@ Test with a real contact (yourself or a test email) through each path:
 - [ ] Verify purchase check works: manually add `buyer-core` tag → confirm workflow exits
 
 ### Test Path 2: Buyer (No Bumps)
-- [ ] Complete $27 purchase (no bumps)
+- [ ] Complete $47 purchase (no bumps)
 - [ ] Verify `purchased-27` tag applied
 - [ ] Verify `non-buyer-sequence` removed (from trigger)
 - [ ] Verify `buyer-sequence` added (from trigger)
@@ -797,7 +797,7 @@ Test with a real contact (yourself or a test email) through each path:
 - [ ] Test reminder: don't remove tag → verify overdue notification at 48 hours
 
 ### Test Path 3: Buyer (With Bumps)
-- [ ] Complete $27 + all 3 bumps
+- [ ] Complete $47 + all 3 bumps
 - [ ] Verify all bump tags applied
 - [ ] Verify Bump Recovery workflow exits at Step 2 (all bumps owned)
 - [ ] Verify Welcome still runs normally

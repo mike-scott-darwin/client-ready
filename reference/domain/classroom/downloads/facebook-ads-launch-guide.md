@@ -6,7 +6,7 @@ You've built your client ready offer. You've created your funnel. Now comes the 
 
 Most coaches fail at this step because they either never launch ads (staying stuck in organic posting forever), or they launch ads without a proven system and burn thousands of dollars learning expensive lessons.
 
-Here's the reality: Facebook ads for low-ticket offers ($17-$97) work differently than high-ticket campaigns. You need immediate conversions, not long nurture sequences. You need volume, not just a handful of perfect prospects. And you need profitability from day one, not months of "testing" before you see ROI.
+Here's the reality: Facebook ads for low-ticket offers ($37-$97) work differently than high-ticket campaigns. You need immediate conversions, not long nurture sequences. You need volume, not just a handful of perfect prospects. And you need profitability from day one, not months of "testing" before you see ROI.
 
 In this module, you'll learn the exact four-step system to launch profitable Facebook ads that generate 100+ customers per week — using proven ad frameworks, proper tracking, strategic audiences, and optimized campaign structures.
 
@@ -30,8 +30,8 @@ Most coaches treat OTOs as part of their break-even calculation. This is dangero
 
 | Revenue Source | Role | Target |
 |----------------|------|--------|
-| Front-end ($27) | Covers ~25% of ad spend | CPA around $100 |
-| Bumps ($17 + $37 + $67 = $121) | Covers remaining 75% | 50%+ combined take rate |
+| Front-end ($47) | Covers ~25% of ad spend | CPA around $100 |
+| Bumps ($37 + $67 + $97 = $201) | Covers remaining 75% | 50%+ combined take rate |
 | OTOs ($97-$397) | **Pure profit** | 10-20% conversion |
 | Backend ($5K) | Scale profit | Email ascension |
 
@@ -51,7 +51,7 @@ If your CPA is $100 and your front-end + bumps generate $100+ per customer:
 
 **What To Test First (In Order):**
 
-1. **Bump sequence** — Test $67 → $37 → $17 (anchor effect)
+1. **Bump sequence** — Test $97 → $67 → $37 (anchor effect)
 2. **Bump copy** — Specific numbers, price anchoring, exclusivity
 3. **Bump pricing** — Small adjustments can 2x take rates
 4. **Pre-checked vs unchecked** — Test both
@@ -365,7 +365,7 @@ Facebook ads for low-ticket offers work when you follow this exact sequence:
 5. **Let the algorithm learn** — Give it 3-5 days before major changes
 6. **Scale what works** — Increase budget on winners, kill losers
 
-This isn't theory — it's the exact system that generates 100-300 buyers per week for coaches selling $17-$97 offers. The tracking ensures accuracy, the audiences target the right people, the ad copy stops scrolling, and the campaign structure lets Facebook optimize.
+This isn't theory — it's the exact system that generates 100-300 buyers per week for coaches selling $37-$97 offers. The tracking ensures accuracy, the audiences target the right people, the ad copy stops scrolling, and the campaign structure lets Facebook optimize.
 
 Install the system, launch conservatively, optimize based on data, and scale what's profitable.
 
@@ -381,11 +381,11 @@ Your first 100 customers are waiting. Time to turn on the ads.
 
 | Source | Your Funnel | Role |
 |--------|-------------|------|
-| Front-end | $27 | Covers ~25% of CPA |
-| Bump 1 | $17 | Part of self-liquidating |
-| Bump 2 | $37 | Part of self-liquidating |
-| Bump 3 | $67 | Part of self-liquidating |
-| **Checkout total** | **$148 max** | **Should cover CPA** |
+| Front-end | $47 | Covers ~25% of CPA |
+| Bump 1 | $37 | Part of self-liquidating |
+| Bump 2 | $67 | Part of self-liquidating |
+| Bump 3 | $97 | Part of self-liquidating |
+| **Checkout total** | **$248 max** | **Should cover CPA** |
 | OTOs | $97-$397 | **Pure profit** |
 | Backend | $5,000 | **Scale profit** |
 

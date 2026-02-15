@@ -4,12 +4,12 @@ status: draft
 date: 2026-02-08
 product: Front-End - The Client Ready Offer
 format: Sales Page Copy (GHL Ready)
-price: $27 (testing $9 variant)
+price: $47 (testing $9 variant)
 updated_from: 2026-02-08
 changes: Removed No-Phone Offer framing throughout. Aligned to Client Ready Offer positioning — validate your $5K+ offer before you build anything. Updated case study, bonuses, headline options, mockup text, checkout popup.
 ---
 
-# Front-End Sales Page: The Client Ready Offer ($27)
+# Front-End Sales Page: The Client Ready Offer ($47)
 
 **Instructions:** Each section below maps to a section on the GHL page. Copy-paste into the page builder. Notes in [brackets] are for you, not for the page.
 
@@ -20,10 +20,10 @@ changes: Removed No-Phone Offer framing throughout. Aligned to Client Ready Offe
 [Replace the expired January banner]
 
 **Option A (Launch pricing — honest):**
-> CLIENT READY V1.0 LAUNCH PRICING — $27 WHILE WE BUILD CASE STUDIES
+> CLIENT READY V1.0 LAUNCH PRICING — $47 WHILE WE BUILD CASE STUDIES
 
 **Option B (Simple urgency):**
-> LIMITED LAUNCH PRICING — GET INSTANT ACCESS FOR $27 TODAY
+> LIMITED LAUNCH PRICING — GET INSTANT ACCESS FOR $47 TODAY
 
 [Do NOT use a fake countdown or expired date. The V1.0 launch framing is honest and works.]
 
@@ -37,7 +37,7 @@ changes: Removed No-Phone Offer framing throughout. Aligned to Client Ready Offe
 
 ### Headline
 
-> CONFUSED TO CLARITY TO CASH. THE $27 SYSTEM THAT TAKES CARE OF THE FIRST TWO.
+> CONFUSED TO CLARITY TO CASH. THE $47 SYSTEM THAT TAKES CARE OF THE FIRST TWO.
 
 ### Sub-headline
 
@@ -45,19 +45,19 @@ changes: Removed No-Phone Offer framing throughout. Aligned to Client Ready Offe
 
 ### CTA Button
 
-> GET INSTANT ACCESS — $27
+> GET INSTANT ACCESS — $47
 > 30 Day Money Back Guarantee
 
-[Update product mockup image to show $27 price, not $17]
+[Update product mockup image to show $47 price, not $17]
 
 ---
 
 ## PRICING SIDEBAR (Right Column)
 
-> Only ~~$147~~ $27.00
+> Only ~~$147~~ $47.00
 > You're Instantly Saving $120.00
 
-> As part of our Client Ready Offer V1.0 launch to gather success stories, you can get instant access for just $27 today. This isn't marketing hype — we're genuinely building case studies and will return to full price once we have enough testimonials.
+> As part of our Client Ready Offer V1.0 launch to gather success stories, you can get instant access for just $47 today. This isn't marketing hype — we're genuinely building case studies and will return to full price once we have enough testimonials.
 
 > **82% OFF** Launch Pricing
 
@@ -350,7 +350,7 @@ INSTANT ACCESS | INCLUDED
 ### Section Header
 
 > PLUS 9 BONUSES FOR FREE...
-> When You Get Client Ready Offer for ~~$147~~ just $27 today!
+> When You Get Client Ready Offer for ~~$147~~ just $47 today!
 
 ### Bonus 1: AI Offer Prompt Library
 Collection of proven AI prompts that extract profitable offer ideas from your expertise and create high-converting content in minutes.
@@ -402,7 +402,7 @@ INCLUDED FREE
 
 > And I want you to be comfortable with this purchase.
 
-> And even though it's only $27.00 — you worked for that money and it counts. Like my grandpa used to say "Test drive the car before you drive it off the lot"...
+> And even though it's only $47.00 — you worked for that money and it counts. Like my grandpa used to say "Test drive the car before you drive it off the lot"...
 
 > So here's what I've arranged:
 
@@ -412,7 +412,7 @@ INCLUDED FREE
 
 > Then just shoot us an email at michael@michaelscott.io and request a refund within 30 days.
 
-> We'll refund you your $27.00 and let you keep the Client Ready Offer free of charge.
+> We'll refund you your $47.00 and let you keep the Client Ready Offer free of charge.
 
 > How's that for a money back guarantee? I'd say pretty good!
 
@@ -429,8 +429,8 @@ INCLUDED FREE
 
 ## STICKY BOTTOM BAR
 
-> Only ~~$147~~ $27.00 Today
-> Download Client Ready Offer For ~~$147~~ Just $27.00!
+> Only ~~$147~~ $47.00 Today
+> Download Client Ready Offer For ~~$147~~ Just $47.00!
 > Delivered Instantly. Start learning in the next 2 minutes.
 
 ---
@@ -448,20 +448,20 @@ INCLUDED FREE
 ### Updated Popup Copy
 
 **Headline:**
-> Confused to Clarity to Cash. The $27 System That Takes Care of the First Two.
+> Confused to Clarity to Cash. The $47 System That Takes Care of the First Two.
 
 **Sub-headline:**
 > 5 AI prompts extract your offer in one afternoon — so clear it sells itself.
 
 **Pricing:**
-> ~~$147.00~~ Only $27.00 Today
+> ~~$147.00~~ Only $47.00 Today
 > (You're Instantly Saving $120.00)
 
 **Body:**
 > Case study + 5 AI prompts + offer document template. Delivered instantly. Start building in the next 2 minutes.
 
 **CTA Button:**
-> GET INSTANT ACCESS — $27
+> GET INSTANT ACCESS — $47
 > 30-Day Money Back Guarantee
 
 ### Updated Product Mockup Text
@@ -473,26 +473,26 @@ INCLUDED FREE
 | Tablet | 5 AI Prompts That Extract Your Genius |
 | Phone | Your $5K Offer Ready Today |
 
-[Update mockup image: change $17 badge to $27. Replace legacy module names with above. Keep Michael's photo — it builds trust.]
+[Update mockup image: change $17 badge to $47. Replace legacy module names with above. Keep Michael's photo — it builds trust.]
 
 ---
 
 ## ORDER BUMP COPY (Checkout Page)
 
-### Bump 1: Quick Win DM Scripts — $17 (was $97)
+### Bump 1: Quick Win DM Scripts — $37 (was $97)
 
-> **YES! Add Quick Win DM Scripts ($17)**
-> Start sales conversations TODAY while you build. 5 copy-paste scripts for warm outreach — first conversation in 5 minutes. ~~$97~~ → $17
+> **YES! Add Quick Win DM Scripts ($37)**
+> Start sales conversations TODAY while you build. 5 copy-paste scripts for warm outreach — first conversation in 5 minutes. ~~$497~~ → $97
 
-### Bump 2: Plug & Play Templates — $37 (was $197)
+### Bump 2: Plug & Play Templates — $67 (was $197)
 
-> **YES! Add Plug & Play Templates ($37)**
-> Don't start from scratch. Complete offer document template (with filled example), landing page swipe files, 30-day evergreen email sequence, messaging maps, and copy-paste headlines. ~~$197~~ → $37
+> **YES! Add Plug & Play Templates ($67)**
+> Don't start from scratch. Complete offer document template (with filled example), landing page swipe files, 30-day evergreen email sequence, messaging maps, and copy-paste headlines. ~~$497~~ → $97
 
-### Bump 3: The First $5K Client Playbook — $67 (was $297)
+### Bump 3: The First $5K Client Playbook — $97 (was $297)
 
-> **YES! Add The First $5K Client Playbook ($67)**
-> You have the offer. Now close your first high-ticket client. Pricing psychology behind $5K+ offers, 5 conversation frameworks that close without being pushy, the Warm 50 activation plan (your first 50 people to reach out to), and word-for-word objection responses. Plus 3 real annotated closing conversations. ~~$297~~ → $67
+> **YES! Add The First $5K Client Playbook ($97)**
+> You have the offer. Now close your first high-ticket client. Pricing psychology behind $5K+ offers, 5 conversation frameworks that close without being pushy, the Warm 50 activation plan (your first 50 people to reach out to), and word-for-word objection responses. Plus 3 real annotated closing conversations. ~~$497~~ → $97
 
 ---
 
@@ -500,7 +500,7 @@ INCLUDED FREE
 
 [Same 4-device mockup format as front-end. Send to designer with updated text below.]
 
-### Bump 1: Quick Win DM Scripts ($17)
+### Bump 1: Quick Win DM Scripts ($37)
 
 | Device | Text |
 |--------|------|
@@ -509,7 +509,7 @@ INCLUDED FREE
 | Tablet | First Conversation in 5 Minutes |
 | Phone | Start Selling Today |
 
-### Bump 2: Plug & Play Templates ($37)
+### Bump 2: Plug & Play Templates ($67)
 
 | Device | Text |
 |--------|------|
@@ -518,7 +518,7 @@ INCLUDED FREE
 | Tablet | 30-Day Evergreen Email Sequence |
 | Phone | Headlines and Hooks Library |
 
-### Bump 3: The First $5K Client Playbook ($67)
+### Bump 3: The First $5K Client Playbook ($97)
 
 | Device | Text |
 |--------|------|
@@ -533,7 +533,7 @@ INCLUDED FREE
 
 | Headline | Angle | Test Priority |
 |----------|-------|---------------|
-| Confused to Clarity to Cash. The $27 System That Takes Care of the First Two. | Brand arc + price anchor | **High — primary** |
+| Confused to Clarity to Cash. The $47 System That Takes Care of the First Two. | Brand arc + price anchor | **High — primary** |
 | Go From "What Do You Even Sell?" to "I Need This" — In One Afternoon | Transformation (before/after in one line) | High |
 | Stop Explaining. Start Having People Say "I Need This" Before You Finish Your Sentence. | Outcome visualization | High |
 | Extract Your Zone Of Genius Into One Client Ready Offer — In One Afternoon | Mechanism + Identity | Medium |
@@ -626,4 +626,4 @@ INCLUDED FREE
 | 2026-02-08 | Aligned to creative mockup — 5 components, removed Wellington, resolved What's Included, updated mockups |
 | 2026-02-08 | Removed No-Phone framing throughout. Aligned to Client Ready Offer positioning per offer.md — validate your $5K+ offer before you build anything |
 | 2026-02-08 | Hero headline aligned to winning ad creative — identity transformation ("I help everyone" → "I'm the only choice") + Zone of Genius mechanism. Checkout popup matched. |
-| 2026-02-10 | Hero rewritten for transformation. Final headline: "Confused to Clarity to Cash. The $27 System That Takes Care of the First Two." Pre-headline, checkout popup, and headline testing table updated. |
+| 2026-02-10 | Hero rewritten for transformation. Final headline: "Confused to Clarity to Cash. The $47 System That Takes Care of the First Two." Pre-headline, checkout popup, and headline testing table updated. |

@@ -15,7 +15,7 @@ framework: 5-primary x 5-headline + awareness levels (Cat Howell / Schwartz)
 
 Generated: 2026-02-10
 Updated: 2026-02-10 (awareness level tagging + Unaware primaries added)
-Target: Client Ready Offer System ($27)
+Target: Client Ready Offer System ($47)
 Destination: Landing page / checkout
 Creative: Existing video or static image (copy only — no image prompts in this batch)
 Framework: 2 angles × 7 primaries × 8 headlines = 112 testable combinations
@@ -74,11 +74,11 @@ Every funnel guru, every ad course, every marketing program assumes you already 
 
 Six coaches came to me this year with the same root problem. Nicole was creating programs "for women" — so broad nobody knew what she was selling. Alexia was giving sessions at low-ticket prices because she hadn't shaped or packaged a real offer. Renee spent ten years trying to define her niche. Ten years. She couldn't build anything because the foundation didn't exist.
 
-Renee worked directly with Michael — not the $27 product. But listen to what she said: "I have struggled with this for 10 years and Michael helped me with that in an hour and a half session. He was able to listen, connect the dots, think strategically and put it in words so exactly that I would not ever have been able to do that."
+Renee worked directly with Michael — not the $47 product. But listen to what she said: "I have struggled with this for 10 years and Michael helped me with that in an hour and a half session. He was able to listen, connect the dots, think strategically and put it in words so exactly that I would not ever have been able to do that."
 
 That's what happens when you fix the offer first. Everything downstream — the funnel, the content, the ads — gets easier because the foundation is solid.
 
-The Client Ready Offer System uses 5 AI prompts to extract your zone of genius, define your ideal client, map their pain points, build your story, and assemble a complete offer document. One afternoon. Not months. Not thousands of dollars. $27.
+The Client Ready Offer System uses 5 AI prompts to extract your zone of genius, define your ideal client, map their pain points, build your story, and assemble a complete offer document. One afternoon. Not months. Not thousands of dollars. $47.
 
 You can hire someone to build a funnel afterward. Or build one yourself. But do this first. Because a beautiful funnel built on a broken offer is just an expensive way to confirm nobody wants what you are selling.
 
@@ -86,7 +86,7 @@ Before the funnel. Before the ads. Before the content calendar. Get the offer ri
 
 Fair warning — there's a community behind this. No pressure to join. But I wanted to be upfront about it because I hate when people pretend there's no backend.
 
-$27. One afternoon. The step everyone else skips.
+$47. One afternoon. The step everyone else skips.
 
 Get the Client Ready Offer System — [link]
 ```
@@ -112,9 +112,9 @@ Wendy Wild had the same experience. She was months into "creative procrastinatio
 
 After working directly with Michael: "Absolute clarity on who I'm serving, exactly what it is that they need and how to deliver that for them." She launched her website and booked her first two sales calls ever in just a few weeks.
 
-Wendy worked with Michael in a coaching engagement — not the $27 product. But the extraction process is the same. That's what happens when the offer is clear. Marketing stops feeling like guesswork.
+Wendy worked with Michael in a coaching engagement — not the $47 product. But the extraction process is the same. That's what happens when the offer is clear. Marketing stops feeling like guesswork.
 
-The Client Ready Offer System walks you through 5 AI prompts that do the extraction in one afternoon. $27. No course. No coaching calls. Just the prompts, the guide, and a clear offer document at the end.
+The Client Ready Offer System walks you through 5 AI prompts that do the extraction in one afternoon. $47. No course. No coaching calls. Just the prompts, the guide, and a clear offer document at the end.
 
 Get the Client Ready Offer System — [link]
 ```
@@ -123,10 +123,10 @@ Get the Client Ready Offer System — [link]
 
 ## Primary 3 — Direct Response (Before the Funnel) `SOLUTION AWARE`
 
-**Hook:** This $27 system replaces the branding agency process that costs thousands and takes weeks and it works in one afternoon (126 chars)
+**Hook:** This $47 system replaces the branding agency process that costs thousands and takes weeks and it works in one afternoon (126 chars)
 
 ```text
-This $27 system replaces the branding agency process that costs thousands and takes weeks and it works in one afternoon
+This $47 system replaces the branding agency process that costs thousands and takes weeks and it works in one afternoon
 
 When a funnel isn't converting, the problem is almost never the funnel.
 
@@ -151,7 +151,7 @@ What it replaces:
 
 What it doesn't replace: your expertise. That is the point. The system extracts what is already inside you. It doesn't teach you something new. It translates what you already know into something clear enough to sell.
 
-These coaches worked directly with Michael — not the $27 product. But the extraction process is the same:
+These coaches worked directly with Michael — not the $47 product. But the extraction process is the same:
 
 — Renee: niche defined in 90 minutes after 10 years stuck.
 — Wendy: launched her website in weeks after months frozen.
@@ -159,7 +159,7 @@ These coaches worked directly with Michael — not the $27 product. But the extr
 
 Results from personalized coaching. The Client Ready Offer System is self-guided. Your results depend on your effort.
 
-$27. One afternoon. Before the funnel. Before the ads. Before everything else.
+$47. One afternoon. Before the funnel. Before the ads. Before everything else.
 
 Get the Client Ready Offer System — [link]
 ```
@@ -175,7 +175,7 @@ Everyone is selling coaches funnels and nobody is asking the question that actua
 
 The funnel isn't the problem. The offer is. Six coaches figured this out this year — and the 5-prompt extraction that fixed it takes one afternoon.
 
-$27. Before the funnel. Before the ads.
+$47. Before the funnel. Before the ads.
 
 Get the Client Ready Offer System — [link]
 ```
@@ -205,9 +205,9 @@ This isn't a rare case. Wendy was stuck for months in creative procrastination �
 
 All six had the same problem: the offer wasn't clear. Not the marketing. Not the funnel. The offer.
 
-Renee worked directly with Michael — not the $27 product. But the extraction process she went through is what the Client Ready Offer System is built on. 5 AI prompts that walk you through the same questions: your zone of genius, your ideal client, their pain points, your story. You get a complete offer document at the end.
+Renee worked directly with Michael — not the $47 product. But the extraction process she went through is what the Client Ready Offer System is built on. 5 AI prompts that walk you through the same questions: your zone of genius, your ideal client, their pain points, your story. You get a complete offer document at the end.
 
-$27. One afternoon. Self-guided. Before the funnel. Before the ads.
+$47. One afternoon. Self-guided. Before the funnel. Before the ads.
 
 Renee's message to you: "You don't have to take the long road like I have. Please don't wait 10 years."
 
@@ -331,7 +331,7 @@ Most Coaches Skip This Step and Then Wonder Why Nothing Converts
 
 **Headline 8 — Price-Forward** `PROBLEM AWARE`
 ```text
-$27 Before You Build the Funnel — Know If Your Offer Works First
+$47 Before You Build the Funnel — Know If Your Offer Works First
 ```
 
 ---
@@ -376,11 +376,11 @@ Six coaches. Six different niches. Same problem: they couldn't articulate what t
 
 This isn't about giving them a system. It is about extracting what is already there and making it clear enough to sell.
 
-These coaches all worked directly with Michael in coaching engagements — not the $27 product. But the extraction process they went through is what the Client Ready Offer System is built on. 5 AI prompts that walk you through the same questions. Your zone of genius. Your ideal client. Their pain points. Your story. Self-guided. A complete offer document you can use tomorrow.
+These coaches all worked directly with Michael in coaching engagements — not the $47 product. But the extraction process they went through is what the Client Ready Offer System is built on. 5 AI prompts that walk you through the same questions. Your zone of genius. Your ideal client. Their pain points. Your story. Self-guided. A complete offer document you can use tomorrow.
 
 Fair warning — there's a community behind this. No pressure to join. But I wanted to be upfront about it because I hate when people pretend there's no backend.
 
-$27. One afternoon. The offer was already in you. This gets it out.
+$47. One afternoon. The offer was already in you. This gets it out.
 
 Get the Client Ready Offer System — [link]
 ```
@@ -408,7 +408,7 @@ Robin called it "demystified." Wendy called it "absolute clarity." Nicole said i
 
 The Client Ready Offer System walks you through 5 AI prompts that force this extraction. Zone of genius. Ideal client. Pain points. Story. Complete offer document.
 
-$27. One afternoon. The clarity was always inside you. This gets it out.
+$47. One afternoon. The clarity was always inside you. This gets it out.
 
 Get the Client Ready Offer System — [link]
 ```
@@ -454,9 +454,9 @@ Results from real coaches:
 — Carly: "No gaps. Completely ready."
 — Robin: "Demystified all the information."
 
-Individual experiences from personalized coaching. The $27 Client Ready Offer System is self-guided. Results depend on your effort and niche.
+Individual experiences from personalized coaching. The $47 Client Ready Offer System is self-guided. Results depend on your effort and niche.
 
-$27. One afternoon. Before the funnel. Before the ads. Get the offer clear.
+$47. One afternoon. Before the funnel. Before the ads. Get the offer clear.
 
 Get the Client Ready Offer System — [link]
 ```
@@ -472,7 +472,7 @@ Six coaches six different niches same problem they couldn't explain what they se
 
 The offer was already inside them. They just couldn't see it. One coach was stuck for 10 years. The extraction took 90 minutes.
 
-5 AI prompts. One afternoon. $27.
+5 AI prompts. One afternoon. $47.
 
 Get the Client Ready Offer System — [link]
 ```
@@ -502,7 +502,7 @@ Here's what happened.
 
 "It's taken me to finally launching my website and booking my first two sales calls ever in just a few weeks. And these clients are actually asking to pay me."
 
-Wendy worked directly with Michael in a coaching engagement — not the $27 product. But the extraction process is the same.
+Wendy worked directly with Michael in a coaching engagement — not the $47 product. But the extraction process is the same.
 
 Clients asking to pay her. Not Wendy chasing. Not Wendy pitching. Clients coming to her — because the offer was finally clear enough that people understood what she does and wanted it.
 
@@ -512,9 +512,9 @@ Wendy isn't an edge case. Renee was stuck for ten years — solved in ninety min
 
 The pattern is the same every time. The expertise was already there. The offer was already there. It needed someone — or something — to extract it.
 
-Wendy and these coaches all worked directly with Michael — not the $27 product. But the extraction process they went through is what the Client Ready Offer System is built on. 5 AI prompts that walk you through the same questions. Zone of genius. Ideal client. Pain points. Story. Self-guided. Complete offer document at the end.
+Wendy and these coaches all worked directly with Michael — not the $47 product. But the extraction process they went through is what the Client Ready Offer System is built on. 5 AI prompts that walk you through the same questions. Zone of genius. Ideal client. Pain points. Story. Self-guided. Complete offer document at the end.
 
-$27. One afternoon. The clarity is waiting inside your expertise. This gets it out.
+$47. One afternoon. The clarity is waiting inside your expertise. This gets it out.
 
 Get the Client Ready Offer System — [link]
 ```
@@ -642,5 +642,5 @@ The Step Between "I Want to Coach" and "Here's What I Sell"
 
 **Headline 8 — Price-Forward** `PROBLEM AWARE`
 ```text
-$27 to Extract the Offer That's Already Inside You — One Afternoon
+$47 to Extract the Offer That's Already Inside You — One Afternoon
 ```

@@ -167,7 +167,7 @@ Trading time for money              Business built around your life
 
 INVESTMENT:
 
-$27
+$47
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -551,7 +551,7 @@ This framework comes from Eugene Schwartz's *Breakthrough Advertising* and is us
 
 | Level | What They Know | How to Speak to Them |
 |-------|---------------|----------------------|
-| **Aware** | Know you, know your offer, ready to buy | Direct: "Here's the link. $27. Get it now." |
+| **Aware** | Know you, know your offer, ready to buy | Direct: "Here's the link. $47. Get it now." |
 | **Solution Aware** | Know solutions exist, comparing options | Differentiation: "Why this beats [alternative]" |
 | **Problem Aware** | Feel the pain, haven't committed to solving | Agitation: "Are you still [painful activity]?" |
 | **Unaware** | Don't even know they have a problem | Pattern interrupt: "You've been told [normalized belief]..." |
@@ -1052,7 +1052,7 @@ You have the templates. Now build.
 **Ongoing:** Document clients and refine messaging
 
 **When you're ready to validate:**
-- **The First $5K Client Playbook ($67)** — Close your first high-ticket client with conversation frameworks and the Warm 50 plan
+- **The First $5K Client Playbook ($97)** — Close your first high-ticket client with conversation frameworks and the Warm 50 plan
 
 **When you want support:**
 - **Client Ready Sprint ($297)** — 4 weeks, weekly calls, accountability

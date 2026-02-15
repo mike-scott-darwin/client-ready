@@ -10,7 +10,7 @@ linked_research:
   - research/2026-02-01-miles-stutz-dfy-delivery-copy.md
 ---
 
-# Bump 2: Plug & Play Templates ($37)
+# Bump 2: Plug & Play Templates ($67)
 
 ---
 
@@ -117,7 +117,7 @@ Templates aren't cheating. They're what separates coaches who launch from coache
 
 ---
 
-**One-Time Investment: ~~$197~~ $37**
+**One-Time Investment: ~~$297~~ $67**
 
 No subscription. No upsell inside. Just the templates that let you move fast.
 

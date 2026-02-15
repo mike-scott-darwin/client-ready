@@ -9,18 +9,18 @@ updated_from: 2026-01-19
 
 ## Key Conversion Points
 
-### 1. $27 Offer Sales Page
+### 1. $47 Offer Sales Page
 
 **URL:** https://clientreadyoffer.com/implement
 **Purpose:** Convert cold traffic → paying customer
-**Price:** $27
+**Price:** $47
 **CTA:** Buy Now
 
 **Key elements:**
 - Promise: Build an offer so clear it sells without a sales call — in one afternoon
 - AI-assisted methodology
 - Instant delivery
-- Order bumps: $17 + $37 + $67
+- Order bumps: $37 + $67 + $97
 
 ---
 
@@ -31,9 +31,9 @@ updated_from: 2026-01-19
 
 | Bump | Price | Promise |
 |------|-------|---------|
-| Bump 1: Quick Win DM Scripts | $17 | First conversation in 5 minutes |
-| Bump 2: Plug & Play Templates | $37 | Don't start from scratch |
-| Bump 3: The First $5K Client Playbook | $67 | The playbook for landing your first high-ticket client |
+| Bump 1: Quick Win DM Scripts | $37 | First conversation in 5 minutes |
+| Bump 2: Plug & Play Templates | $67 | Don't start from scratch |
+| Bump 3: The First $5K Client Playbook | $97 | The playbook for landing your first high-ticket client |
 
 ---
 
@@ -84,7 +84,7 @@ updated_from: 2026-01-19
 | 1 | Welcome + quick win | — |
 | 2 | Your story (why you do this) | — |
 | 3 | First case study | Bump they missed |
-| 4 | Common mistake to avoid | Templates ($37) |
+| 4 | Common mistake to avoid | Templates ($67) |
 | 5 | Quick tip + value | — |
 | 6 | Client transformation | Sprint ($297) |
 | 7 | Behind-the-scenes | — |

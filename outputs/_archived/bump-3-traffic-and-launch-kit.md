@@ -118,7 +118,7 @@ A system that gets buyers — whether you want to become a content influencer or
 
 ## The Math
 
-One customer at $27 pays for almost half this kit.
+One customer at $47 pays for almost half this kit.
 
 One high-ticket client ($2K+) makes this look like a rounding error.
 
@@ -126,7 +126,7 @@ The only question: Do you want to figure out traffic yourself — or use what's 
 
 ---
 
-**One-Time Investment: ~~$297~~ $67**
+**One-Time Investment: ~~$497~~ $97**
 
 No subscription. No fluff. Just the traffic kit that gets you buyers.
 

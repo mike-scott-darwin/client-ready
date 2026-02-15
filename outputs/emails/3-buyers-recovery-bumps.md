@@ -14,9 +14,9 @@ format: Google Doc
 
 ## Overview
 
-When someone buys the $27 but skips the order bumps, this sequence re-pitches them over the next week.
+When someone buys the $47 but skips the order bumps, this sequence re-pitches them over the next week.
 
-**Trigger:** Purchased $27, did NOT purchase Bump 1 (DM Scripts), Bump 2 (Templates), or Bump 3 (First $5K Client Playbook)
+**Trigger:** Purchased $47, did NOT purchase Bump 1 (DM Scripts), Bump 2 (Templates), or Bump 3 (First $5K Client Playbook)
 **Timing:** Days 2, 4, and 6 after purchase
 **Send Time:** 2:00 PM (Welcome sequence sends at 8:00 AM — avoids stacking)
 **Goal:** Recover 10-20% of missed bump revenue
@@ -47,7 +47,7 @@ That's why I created the Quick Win DM Scripts — 5 copy-paste messages for warm
 
 These aren't cold DM templates. They're for people who already know you.
 
-Originally $97. Yours for $17: [LINK]
+Originally $197. Yours for $37: [LINK]
 
 Use them today. Have a conversation by tonight.
 
@@ -102,13 +102,13 @@ You've got the Client Ready system. You're doing the extraction. Good.
 But before you move to the next phase, quick inventory:
 
 **Do you have a way to start conversations?**
-→ If not: Quick Win DM Scripts ($17) [LINK]
+→ If not: Quick Win DM Scripts ($37) [LINK]
 
 **Do you have templates so you're not starting from scratch?**
-→ If not: Plug & Play Templates ($37) [LINK]
+→ If not: Plug & Play Templates ($67) [LINK]
 
 **Do you have a plan for landing your first $5K client?**
-→ If not: The First $5K Client Playbook ($67) [LINK]
+→ If not: The First $5K Client Playbook ($97) [LINK]
 
 If you have all three, ignore this. You're set.
 
@@ -123,11 +123,11 @@ Michael
 ## Automation Logic
 
 ```
-IF purchased $27
+IF purchased $47
 AND NOT purchased any bump
 THEN send all 3 emails
 
-IF purchased $27
+IF purchased $47
 AND purchased some bumps but not others
 THEN send emails pitching only the missed bumps
 

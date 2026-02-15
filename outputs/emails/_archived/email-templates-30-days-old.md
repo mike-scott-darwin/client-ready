@@ -284,7 +284,7 @@
 
 ## Applying to Client Ready
 
-### For $27 Front-End (Client Ready Offer Guide)
+### For $47 Front-End (Client Ready Offer Guide)
 - **Soft Teach:** Show WHAT a clear offer looks like, not HOW to build one
 - **Wrong Wrong Wrong:** Attack vague offers, transformation-speak
 - **Everyone Says:** Debunk "niche down" advice

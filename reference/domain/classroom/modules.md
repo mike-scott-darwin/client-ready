@@ -21,10 +21,10 @@ All content available in free Skool community. Core modules drip over 72 hours.
 **Value Ladder Reference:**
 | Tier | Product | Price |
 |------|---------|-------|
-| Front-end | Client Ready Offer System | $27 |
-| Bump 1 | Quick Win DM Scripts | $17 |
-| Bump 2 | Plug & Play Templates | $37 |
-| Bump 3 | The First $5K Client Playbook | $67 |
+| Front-end | Client Ready Offer System | $47 |
+| Bump 1 | Quick Win DM Scripts | $37 |
+| Bump 2 | Plug & Play Templates | $67 |
+| Bump 3 | The First $5K Client Playbook | $97 |
 | OTO 1 | Client Ready Sprint (4-week) | $297 |
 | OTO 2 | Client Ready Blueprint | $397 |
 | Backend | Client Ready Accelerator | $5,000 |
@@ -44,7 +44,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
   - **No offer yet?** → Start with Phase 1 (Extraction)
   - **Have an offer, no funnel?** → Start with Phase 2 (Build)
   - **Have a funnel, need traffic?** → Start with Phase 3 (Launch)
-- How the value ladder works ($27 → $5K path)
+- How the value ladder works ($47 → $5K path)
 - What's included at each tier (Sprint vs Blueprint vs Accelerator)
 - The philosophy: "You can't grow into pain" — alignment before scale
 
@@ -59,7 +59,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 **The Promise:** Validate your $5K+ offer before you build anything — in one afternoon.
 
 **Content includes:**
-- Zone of genius extraction using the 5 AI prompts from the $27 system
+- Zone of genius extraction using the 5 AI prompts from the $47 system
 - Ideal client definition (the "Ever Evolving Avatar")
 - Pain points and solutions mapping
 - Story and proof elements
@@ -68,7 +68,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 
 **Key deliverable:** Complete offer document ready to test with warm audience
 
-**What this enables:** You can start selling TODAY — before building any funnel. DM scripts ($17 bump) help you start conversations immediately.
+**What this enables:** You can start selling TODAY — before building any funnel. DM scripts ($37 bump) help you start conversations immediately.
 
 **Drip:** Available after 72 hours
 
@@ -83,9 +83,9 @@ All content available in free Skool community. Core modules drip over 72 hours.
 **The Promise:** Don't start from scratch — plug in your offer and go.
 
 **Content includes:**
-- Funnel architecture: $27 front-end → bumps → OTOs → email ascension → backend
+- Funnel architecture: $47 front-end → bumps → OTOs → email ascension → backend
 - Landing page setup using AI Landing Page Generator
-- Order bumps: DM Scripts ($17), Templates ($37), The First $5K Client Playbook ($67)
+- Order bumps: DM Scripts ($37), Templates ($67), The First $5K Client Playbook ($97)
 - Checkout/payment integration
 - 10-day welcome sequence automation
 - Daily email rhythm system
@@ -93,7 +93,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 **Key deliverable:** Complete funnel live and accepting payments, with email system turning buyers into repeat customers
 
 **Products that accelerate this phase:**
-- $37 Plug & Play Templates — Landing page swipes, email sequences
+- $67 Plug & Play Templates — Landing page swipes, email sequences
 - $297 Sprint — 4-week implementation with live support
 - $397 Blueprint — Michael creates your complete funnel strategy in 30 days
 
@@ -114,13 +114,13 @@ All content available in free Skool community. Core modules drip over 72 hours.
 - Paid traffic fundamentals for Meta/Facebook/Instagram
 - The metrics that matter: 1% CTR = good, 2% = great, 3% = exceptional
 - Testing offers: 150-200 unique outbound clicks before judging
-- Scaling from $27 buyers to $5K Accelerator clients
+- Scaling from $47 buyers to $5K Accelerator clients
 - No-Phone Offers: selling $2K-$5K without sales calls
 
 **Key deliverable:** First campaign launched, traffic flowing, path to high-ticket clear
 
 **Products that accelerate this phase:**
-- $67 The First $5K Client Playbook
+- $97 The First $5K Client Playbook
 - $297 Sprint — Weekly calls, hot seat feedback on campaigns
 - $5,000 Accelerator — Done-with-you funnel + traffic in 8 weeks
 
@@ -152,13 +152,13 @@ All content available in free Skool community. Core modules drip over 72 hours.
 
 **Content includes:**
 - Offer document examples (completed Client Ready extractions)
-- Landing page swipes (proven layouts from the $37 Templates)
+- Landing page swipes (proven layouts from the $67 Templates)
 - Email templates:
   - 10-day welcome sequence
   - Daily email examples (story → offer → CTA)
   - Install offer recovery emails
   - OTO recovery emails
-- DM scripts (the 5 scripts from $17 bump)
+- DM scripts (the 5 scripts from $37 bump)
 - Ad creative examples (hooks, images, copy)
 - High-ticket offer page examples
 - Pricing and positioning examples across niches
@@ -192,7 +192,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 
 #### 1.2 AI Offer Extraction
 
-**What it covers:** Using the 5 AI prompts from the $27 Client Ready Offer System to rapidly extract and structure your offer components.
+**What it covers:** Using the 5 AI prompts from the $47 Client Ready Offer System to rapidly extract and structure your offer components.
 
 **What you'll learn:**
 - Prompt 1: Zone of Genius Extraction — What you do that nobody else does
@@ -232,7 +232,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 - The core message components (problem, solution, transformation, proof)
 - How to translate your offer into different formats
 - The "one pizza, get pizza" principle — headline congruency across touchpoints
-- Copy-paste headlines and hooks (from the $37 Templates bump)
+- Copy-paste headlines and hooks (from the $67 Templates bump)
 - Testing which messages resonate
 
 **Benefit:** Stop reinventing your messaging for every piece of content. One map, infinite applications.
@@ -274,7 +274,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 - The landing page structure that converts (headline → problem → solution → proof → offer → CTA)
 - How to feed your offer document to AI for instant copy generation
 - The "one pizza, get pizza" principle — headline must match ad headline
-- Swipe files from proven layouts (included in $37 Templates)
+- Swipe files from proven layouts (included in $67 Templates)
 - Testing headlines and measuring what works
 
 **Benefit:** Stop staring at blank pages. Your offer document becomes landing page copy in minutes.
@@ -285,18 +285,18 @@ All content available in free Skool community. Core modules drip over 72 hours.
 
 #### 2.3 The Order Bump Formula
 
-**What it covers:** Adding the three order bumps that increase AOV from $27 to $148 (target: $120-150).
+**What it covers:** Adding the three order bumps that increase AOV from $47 to $248 (target: $90-110).
 
 **What you'll learn:**
 - The three Client Ready bumps and why they work:
-  - **Bump 1: Quick Win DM Scripts ($17)** — Immediate action, start conversations today
-  - **Bump 2: Plug & Play Templates ($37)** — Skip the blank page problem
-  - **Bump 3: The First $5K Client Playbook ($67)** — The playbook for landing your first high-ticket client
+  - **Bump 1: Quick Win DM Scripts ($37)** — Immediate action, start conversations today
+  - **Bump 2: Plug & Play Templates ($67)** — Skip the blank page problem
+  - **Bump 3: The First $5K Client Playbook ($97)** — The playbook for landing your first high-ticket client
 - Bump psychology: why adding 3 bumps can 2x conversion (Cat Howell data)
 - Placement and copy for each bump
 - How to create bumps for YOUR value ladder
 
-**Benefit:** Turn a $27 sale into a $148 sale without any extra traffic.
+**Benefit:** Turn a $47 sale into a $248 sale without any extra traffic.
 
 **Outcome:** Three order bumps designed, written, and added to your checkout.
 
@@ -321,11 +321,11 @@ All content available in free Skool community. Core modules drip over 72 hours.
 
 #### 2.5 Rapid Product Creation
 
-**What it covers:** Creating your digital product quickly without perfectionism — the $27 front-end and any bumps.
+**What it covers:** Creating your digital product quickly without perfectionism — the $47 front-end and any bumps.
 
 **What you'll learn:**
 - The "good enough to ship" standard — what actually matters
-- Product formats: PDF guide + AI prompts (like the $27 system), video training, templates
+- Product formats: PDF guide + AI prompts (like the $47 system), video training, templates
 - Using AI to accelerate creation (not replace your expertise)
 - Delivery setup: where to host, how to grant access
 - The principle: solve ONE problem completely, don't solve everything partially
@@ -386,7 +386,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
   - Day 1: Welcome + quick win
   - Day 2: Your story (why you do this)
   - Day 3: First case study → pitch missed bump
-  - Day 4: Common mistake to avoid → Templates ($37)
+  - Day 4: Common mistake to avoid → Templates ($67)
   - Day 5: Quick tip + value (no pitch)
   - Day 6: Client transformation → Sprint ($297)
   - Day 7: Behind-the-scenes (no pitch)
@@ -617,7 +617,7 @@ When ads aren't converting, check in order:
 | 4 | CTR acceptable? | Over 1% | Hook problem |
 | 5 | Ad "keeps the scent"? | LP matches ad | Fix landing page |
 | 6 | Messaging/positioning? | Clear USP | Biggest culprit — rewrite |
-| 7 | Pricing right? | $17-67 cold | Test price points |
+| 7 | Pricing right? | $37-97 cold | Test price points |
 | 8 | Do you actually care? | Yes | Wrong offer |
 
 **Scaling Method**
@@ -656,7 +656,7 @@ Set up in this order:
 
 | Level | Who They Are | What They're Thinking | Your Creative Approach |
 |-------|--------------|----------------------|------------------------|
-| **Aware** | Knows you, knows your product | "I want that thing Michael sells" | Direct: "$27 — Get the System Now" |
+| **Aware** | Knows you, knows your product | "I want that thing Michael sells" | Direct: "$47 — Get the System Now" |
 | **Solution Aware** | Knows solutions exist, shopping | "I need help with my offer, what options are there?" | "Why this beats courses/coaches/content" |
 | **Problem Aware** | Knows they're stuck, not solutions | "Nothing's working, I've tried everything" | "Been at this 2+ years? The problem isn't you." |
 | **Unaware** | Thinks struggle is normal | "Building a business just takes time, right?" | "Everyone says it takes 3+ years. They're wrong." |
@@ -678,7 +678,7 @@ Then Facebook exhausts that audience and shifts to cold (problem aware + unaware
 For every campaign, create at least 4 ads — one for each awareness level:
 
 **For Client Ready:**
-1. **Aware:** "Client Ready Offer System — $27. Validate your $5K+ offer in one afternoon."
+1. **Aware:** "Client Ready Offer System — $47. Validate your $5K+ offer in one afternoon."
 2. **Solution Aware:** "Stop buying courses. Stop posting content. Here's what actually works."
 3. **Problem Aware:** "Been at this 2+ years? Bought courses? Nothing clicking? The problem isn't you."
 4. **Unaware:** "Everyone says building a coaching business takes 3+ years. They're wrong."
@@ -717,14 +717,14 @@ Examples:
 
 #### 3.8 Advanced Selling Strategies
 
-**What it covers:** Advanced techniques for scaling beyond initial validation — from $27 buyers to $5K clients.
+**What it covers:** Advanced techniques for scaling beyond initial validation — from $47 buyers to $5K clients.
 
 **What you'll learn:**
-- The ascension path: $27 → bumps → Sprint → Blueprint → Accelerator
+- The ascension path: $47 → bumps → Sprint → Blueprint → Accelerator
 - Using email to warm up to higher tiers (Daily Email Rhythm)
 - Retargeting buyers with higher-tier offers
 - When to introduce the $5K Accelerator
-- The math: how many $27 buyers to support one $5K sale
+- The math: how many $47 buyers to support one $5K sale
 - **Engagement campaigns for omnipresence** (scaling tactic)
 
 **Engagement Campaigns (For Scaling)**
@@ -821,7 +821,7 @@ When you're spending $500+/day, add low-cost engagement campaigns for omnipresen
 **What it covers:** No-Phone works best when people already know and trust you. This lesson shows how your funnel builds that trust.
 
 **What you'll learn:**
-- The ascension path: $27 → bumps → Sprint → Accelerator
+- The ascension path: $47 → bumps → Sprint → Accelerator
 - Why buyers of lower tiers are pre-qualified for No-Phone
 - Using daily emails to warm up to higher tiers
 - The "ready signal" — when someone is ready for your No-Phone offer
@@ -839,12 +839,12 @@ Real-world walkthroughs showing the Client Ready system in action — not theory
 
 #### Low Ticket Validation Funnel
 
-**What it covers:** Complete walkthrough of building the $27 Client Ready funnel from scratch.
+**What it covers:** Complete walkthrough of building the $47 Client Ready funnel from scratch.
 
 **What you'll see:**
 - Offer extraction using the 5 AI prompts
 - Landing page build (copy + design)
-- Order bump setup ($17, $37, $67)
+- Order bump setup ($37, $67, $97)
 - Checkout configuration
 - OTO pages (Sprint + Blueprint)
 - Email automation setup

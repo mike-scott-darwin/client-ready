@@ -48,7 +48,7 @@ Ensure landing page includes:
 - [x] "Client Ready Offer" product name
 - [x] "15 minutes or less" timeline
 - [x] "New customers in 72 hours" outcome
-- [x] "$27" price point
+- [x] "$47" price point
 - [x] "I help everyone with everything" → "I'm the only choice" transformation
 - [ ] "114 sales in 30 days" proof point (ADD THIS)
 

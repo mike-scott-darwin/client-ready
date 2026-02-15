@@ -19,7 +19,7 @@ Before starting:
 - [ ] Domain verified for sending
 - [ ] Sales page URL ready
 - [ ] Checkout/payment processor connected (Stripe recommended)
-- [ ] Products created in GHL ($27, $17, $37, $67, $297, $397, $47/mo)
+- [ ] Products created in GHL ($47, $17, $37, $67, $297, $397, $47/mo)
 
 ---
 
@@ -30,10 +30,10 @@ Go to **Settings → Tags** and create all of these tags before building trigger
 ### Purchase Tags (auto-added by products on payment — see Part 3 for setup)
 | Tag Name | Purpose |
 |----------|---------|
-| `purchased-27` | Bought $27 front-end |
-| `purchased-bump-dm-scripts` | Bought $17 DM Scripts bump |
-| `purchased-bump-templates` | Bought $37 Templates bump |
-| `purchased-bump-playbook` | Bought $67 First $5K Client Playbook bump |
+| `purchased-27` | Bought $47 front-end |
+| `purchased-bump-dm-scripts` | Bought $37 DM Scripts bump |
+| `purchased-bump-templates` | Bought $67 Templates bump |
+| `purchased-bump-playbook` | Bought $97 First $5K Client Playbook bump |
 | `purchased-sprint` | Bought $297 Sprint |
 | `purchased-blueprint` | Bought $397 Blueprint |
 | `purchased-community` | Bought $47/mo Community |
@@ -42,7 +42,7 @@ Go to **Settings → Tags** and create all of these tags before building trigger
 | Tag Name | Purpose |
 |----------|---------|
 | `lead` | Entered email on checkout Step 1 (auto-tagged by order form) |
-| `buyer-core` | Confirmed $27 buyer (added by Trigger 2) |
+| `buyer-core` | Confirmed $47 buyer (added by Trigger 2) |
 | `buyer-sprint` | Confirmed Sprint buyer (added by Trigger 3) |
 | `buyer-blueprint` | Confirmed Blueprint buyer (added by Trigger 4) |
 
@@ -65,7 +65,7 @@ Go to **Settings → Tags** and create all of these tags before building trigger
 ### Link Tracking Tags (added by trigger links — see Part 7)
 | Tag Name | Purpose |
 |----------|---------|
-| `clicked-sales-page` | Clicked $27 sales page link in email |
+| `clicked-sales-page` | Clicked $47 sales page link in email |
 | `clicked-sprint` | Clicked Sprint page link in email |
 | `clicked-blueprint` | Clicked Blueprint page link in email |
 
@@ -126,7 +126,7 @@ Action 3: Remove Contact Tag → "non-buyer-sequence"
 Action 4: Remove Contact Tag → "lead"
 ```
 
-**How `purchased-27` gets added:** Configure your $27 product in GHL to auto-tag with `purchased-27` on successful payment. The Buyer Workflow (Part 5) listens for the `buyer-sequence` tag. The Non-Buyer Workflow stops itself because it checks for `buyer-core` before every email.
+**How `purchased-27` gets added:** Configure your $47 product in GHL to auto-tag with `purchased-27` on successful payment. The Buyer Workflow (Part 5) listens for the `buyer-sequence` tag. The Non-Buyer Workflow stops itself because it checks for `buyer-core` before every email.
 
 ### Trigger 3: Sprint Purchase
 
@@ -154,10 +154,10 @@ Configure each product in GHL to auto-add its purchase tag:
 
 | Product | Auto-Tag on Purchase |
 |---------|---------------------|
-| $27 Client Ready | `purchased-27` |
-| $17 DM Scripts (bump) | `purchased-bump-dm-scripts` |
-| $37 Templates (bump) | `purchased-bump-templates` |
-| $67 First $5K Client Playbook (bump) | `purchased-bump-playbook` |
+| $47 Client Ready | `purchased-27` |
+| $37 DM Scripts (bump) | `purchased-bump-dm-scripts` |
+| $67 Templates (bump) | `purchased-bump-templates` |
+| $97 First $5K Client Playbook (bump) | `purchased-bump-playbook` |
 | $297 Sprint | `purchased-sprint` |
 | $397 Blueprint | `purchased-blueprint` |
 | $47/mo Community | `purchased-community` |
@@ -465,7 +465,7 @@ Before going live:
 ### Segmentation Tests:
 - [ ] Buy Sprint → verify skips emails 6-9
 - [ ] Buy Blueprint → verify skips emails 6-12
-- [ ] Buy $27 during non-buyer sequence → verify switches
+- [ ] Buy $47 during non-buyer sequence → verify switches
 
 ---
 
@@ -515,7 +515,7 @@ Create a GHL dashboard or use the reporting tab to track:
 | Open Rate (Emails 1-6) | Email Stats | 40%+ |
 | Open Rate (Emails 7-12) | Email Stats | 25%+ |
 | Click Rate | Email Stats | 3-5% |
-| Conversion to $27 | Tag count: buyer-core | 3-5% |
+| Conversion to $47 | Tag count: buyer-core | 3-5% |
 | Unsubscribe Rate | Email Stats | <1% |
 
 ### Buyer Sequence
