@@ -3,7 +3,7 @@ type: output
 status: draft
 date: 2026-02-01
 product: Order Bump 2
-price: $37
+price: $67
 linked_decisions:
   - decisions/2026-02-01-bump-restructure.md
 linked_research:
@@ -22,7 +22,7 @@ linked_research:
 
 **Yes, include the "Never Start From Scratch" Template Pack with my order!**
 
-**ONE-TIME OFFER — ONLY $37:** Get my complete template pack: 1 offer document template (with filled example), 3 proven landing page layouts, 30-day email sequence (pre-written), and 25+ copy-paste headlines that convert. Simply open the template, fill in your offer details, and you're done — in an afternoon instead of a week. These are the same templates I use for my own funnels. Not available anywhere else. (This $197 bundle is only $37 on this page — grab it now before you leave.)
+**ONE-TIME OFFER — ONLY $67:** Get my complete template pack: 1 offer document template (with filled example), 3 proven landing page layouts, 30-day email sequence (pre-written), and 25+ copy-paste headlines that convert. Simply open the template, fill in your offer details, and you're done — in an afternoon instead of a week. These are the same templates I use for my own funnels. Not available anywhere else. (This $297 bundle is only $67 on this page — grab it now before you leave.)
 
 ☐ Add to my order
 

@@ -3,7 +3,7 @@ type: output
 status: draft
 date: 2026-02-01
 product: Order Bump 1 (First bump shown)
-price: $17
+price: $37
 linked_decisions:
   - decisions/2026-02-01-research-synthesis-funnel-optimizations.md
 linked_research:
@@ -23,7 +23,7 @@ linked_research:
 
 **Yes, include the "5 Quick Win DM Scripts" to start conversations TODAY!**
 
-**GRAB THIS NO-BRAINER ADD-ON — ONLY $17:** While you're building your Client Ready Offer, why wait to make money? Get my 5 copy-paste DM scripts that start real sales conversations with your warm list — today. These scripts have started hundreds of real sales conversations. Simply open, customize with your name, and send. First conversation in 5 minutes. (You can't get these anywhere else — only $17 on this page.)
+**GRAB THIS NO-BRAINER ADD-ON — ONLY $37:** While you're building your Client Ready Offer, why wait to make money? Get my 5 copy-paste DM scripts that start real sales conversations with your warm list — today. These scripts have started hundreds of real sales conversations. Simply open, customize with your name, and send. First conversation in 5 minutes. (You can't get these anywhere else — only $37 on this page.)
 
 ☐ Add to my order
 
@@ -96,7 +96,7 @@ The funnel comes later. The conversations start now.
 
 ## The Math
 
-One high-ticket client ($2K+) = 100x return on this $17 investment.
+One high-ticket client ($2K+) = 100x return on this $37 investment.
 
 One "yes, let's talk" = validation that your offer has legs.
 
@@ -131,7 +131,7 @@ One conversation = more clarity than a week of "working on your offer."
 
 ---
 
-**One-Time Investment: $17**
+**One-Time Investment: ~~$197~~ $37**
 
 No subscription. 5 scripts. First conversation in 5 minutes.
 

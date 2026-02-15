@@ -3,7 +3,7 @@ type: output
 status: draft
 date: 2026-02-08
 product: Order Bump 3 (Third bump shown)
-price: $67
+price: $97
 linked_decisions:
   - decisions/2026-02-01-bump-restructure.md
 ---
@@ -20,7 +20,7 @@ linked_decisions:
 
 **Yes, include "The First $5K Client Playbook" so I can close my first high-ticket client!**
 
-**ONE-TIME OFFER — ONLY $67:** You have the offer. Now someone needs to pay you. Get my complete closing system: pricing psychology behind $5K+ offers, 5 conversation frameworks that close without being pushy, the Warm 50 activation plan (your first 50 people to reach out to — you already know them), word-for-word objection responses, and 3 real annotated closing conversations. This is the bridge between "I have a great offer" and "someone just paid me $5,000." (This $297 playbook is only $67 on this page.)
+**ONE-TIME OFFER — ONLY $97:** You have the offer. Now someone needs to pay you. Get my complete closing system: pricing psychology behind $5K+ offers, 5 conversation frameworks that close without being pushy, the Warm 50 activation plan (your first 50 people to reach out to — you already know them), word-for-word objection responses, and 3 real annotated closing conversations. This is the bridge between "I have a great offer" and "someone just paid me $5,000." (This $497 playbook is only $97 on this page.)
 
 ☐ Add to my order
 
@@ -89,7 +89,7 @@ From 50 warm conversations:
 
 One $5K client from 50 conversations = **$100 per conversation.** That's the math.
 
-And one $5K client from a $67 playbook? That's a 74x return.
+And one $5K client from a $97 playbook? That's a 74x return.
 
 ---
 
