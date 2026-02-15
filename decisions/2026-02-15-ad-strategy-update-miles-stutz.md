@@ -1,7 +1,7 @@
 ---
 type: decision
 date: 2026-02-15
-status: accepted
+status: codified
 urgency: high
 linked_research:
   - research/2026-02-15-miles-stutz-hot-seat-transcript.md

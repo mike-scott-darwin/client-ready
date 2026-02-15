@@ -370,13 +370,27 @@ See: `reference/domain/email-rhythm.md` for full implementation details.
 
 **From Miles Stutz + Cat Howell research (Feb 2026).**
 
-### Launch Structure
+### Launch Strategy: Front-End First
 
-- **Two campaigns:** CBO main (all validated creative, one ad set) + ABO tester ($15/ad set for new creative)
-- **No separate retargeting** — CBO handles it automatically
-- **Starting budget:** $50-100/day on CBO
-- **Creatives:** 5-10 per launch, 1 short + 1 long copy per image
+**Phase 1 (Launch):** Short-form sales page + 3 order bumps + thank you page. No OTOs. Prove the front-end converts before adding complexity. OTO pages (Sprint, Blueprint, Community) wait in reserve.
+
+**Trigger to add OTOs:** 30+ sales AND AOV consistently $100+ from bumps alone.
+
+**Ascension still happens** — via email sequences and mid-funnel branding, not immediate post-purchase OTO pages.
+
+### Ad Testing Structure
+
+- **Testing campaigns (ABO):** $50/ad set budget, 8-10 ads per ad set, launch 3 new ad sets per week
+- **Creative mix per ad set:** 2-3 B-roll videos with overlay text + 2-3 static images. Each creative gets one short-form copy and one long-form copy (= 8-10 ads total)
+- **Scale campaigns (CBO/ASC):** Pick monthly winners, move into Advantage Sales Campaign with one ad set, 5-6 winning ads inside, $100/day starting budget
+- **No separate retargeting in acquisition campaigns** — CBO/ASC handles it automatically
 - **Expect $2,000 of spend before judging** — learning phase is real, don't panic
+
+### Targeting
+
+- Always run one ad set worldwide (broader, cheaper CPMs)
+- Always run one ad set high-income countries only: US, UK, Canada, Germany
+- Compare performance between the two — worldwide often has lower CTR but cheaper CPA
 
 ### CPA Decision Thresholds
 
@@ -386,7 +400,7 @@ For your funnel (AOV $100-120):
 |-----|--------|
 | > $150-200 | Kill the ad |
 | $80-120 | Let it run, monitor |
-| < $80 | Scale 20% every 48 hours |
+| < $80 | Scale 20% every 48 hours (both testing and scale campaigns) |
 
 ### The $300 Rule
 
@@ -404,6 +418,7 @@ For your funnel (AOV $100-120):
 
 | Metric | Target | Calculation |
 |--------|--------|-------------|
+| Checkout CVR | 30% | Completed purchases / checkout page views |
 | AOV | $100-120 | Total revenue / orders |
 | Combined bump rate | 50%+ | Orders with ANY bump / total orders (Cat Howell benchmark) |
 | Bump 1 ($17) | Track | Bump 1 purchases / orders |
@@ -429,3 +444,35 @@ For your funnel (AOV $100-120):
 | Sales page conversion | 10%+ | Purchases / opt-ins |
 
 **Track in Stripe/GHL, not Meta.** Meta over-attributes.
+
+### Mid-Funnel Branding Campaigns
+
+**The single highest-ROI mid-funnel activity** (Miles Stutz, Feb 2026).
+
+**What it is:** Meta engagement campaigns optimized for through-play video views. Not selling — just you being useful. Retargets your buyer audience so they see your face constantly.
+
+**Setup:**
+- Campaign type: Engagement (video views, through-play)
+- 5-10 head-talking videos, 90 seconds to 3 minutes
+- Source: existing Instagram posts (no new content needed)
+- Take the post ID from Instagram
+- Budget: $5/day per ad to start
+- Target: retarget all buyer/visitor audiences first, then expand to cold
+
+**When to launch:** After 50-100 front-end sales (need audience to retarget). Start with 5 videos at $5/day each ($25/day total). Scale as audience grows.
+
+**Why it works:** Creates frequency and familiarity at scale. Buyers see your face 6+ times. When they're ready to ascend (Sprint, Blueprint, Accelerator), you're the obvious choice. Replaces "post and pray" organic strategy. Works alongside email — double exposure on two channels.
+
+**Miles' results at scale:** 40,000-person retargeting audience, $250/day, frequency of 6, selling profitably from retargeting alone. Gets DM sales from people he's never spoken to.
+
+### 5-Second Test (Pre-Launch Gate)
+
+Before spending money on any page, it must pass this test. Look at the page for 5 seconds and answer:
+
+1. **Who is this for?** — Target audience visible instantly
+2. **Why am I here?** — The payoff/result they'll get
+3. **Why should I care?** — Unique differentiator (mechanism + without statements)
+4. **Why should I believe?** — Trust signals, testimonials, proof
+5. **What do I do next?** — Clear CTA
+
+If you can't answer all five instantly, the page isn't ready for traffic.
