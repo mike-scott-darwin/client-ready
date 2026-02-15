@@ -37,13 +37,12 @@ There was something I didn't mention clearly on the checkout page, and I want to
 
 The offer extraction is step one. But the fastest path to your first client? **Starting conversations.**
 
-That's why I created the Quick Win DM Scripts — 5 copy-paste messages for warm outreach:
+That's why I created the Quick Win DM Scripts — 10 copy-paste scripts plus a complete conversation system for warm outreach:
 
-1. **The Reconnection** — Reach out to someone you haven't talked to in months
-2. **The Value Drop** — Share something helpful without pitching
-3. **The Soft Pitch** — Introduce your offer without being salesy
-4. **The "I'm Building Something"** — Get feedback that turns into sales
-5. **The Follow-Up** — Re-engage someone who went quiet
+- **10 scripts** for every situation — reconnection, value drop, soft pitch, referral ask, direct ask, and 5 more
+- **The A-C-A Conversation Framework** — how to move from first message to booked call
+- **Word-for-word objection handlers** — what to say when they go quiet or push back
+- **Contact tracking template** — so no conversation falls through the cracks
 
 These aren't cold DM templates. They're for people who already know you.
 
@@ -69,17 +68,20 @@ If you're staring at a blank landing page wondering what to write... you're not 
 
 That's the hardest part for most people. Not the strategy — the execution.
 
-Which is why I put together the Plug & Play Templates:
+Which is why I put together the Plug & Play Templates — 8 complete template packs:
 
-- **Offer document template** (with filled example)
-- **Landing page swipe files** (proven layouts)
+- **Offer document template** (with filled Client Ready example)
+- **3 landing page swipe files** (short-form, long-form, VSL — pick your traffic)
 - **30-day email sequence** (pre-written, tested)
-- **Messaging maps and client profiles**
-- **Copy-paste headlines and hooks**
+- **50+ copy-paste headlines and hooks**
+- **Awareness-level messaging maps** (cold, warm, hot — different copy for each)
+- **Client profile templates**
+- **8 promo campaign templates** (flash sales, founding member pricing, referral drives, cash injection)
+- **Contact tracking template**
 
 You don't start from scratch. You start from something that works and make it yours.
 
-Originally $197. Yours for $37: [LINK]
+Originally $197. Yours for $67: [LINK]
 
 Skip the blank page.
 

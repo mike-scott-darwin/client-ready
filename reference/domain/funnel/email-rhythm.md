@@ -19,6 +19,7 @@ linked_research:
 
 | Days | Sequence | Purpose | Pitches? |
 |------|----------|---------|----------|
+| 0 | Bump Delivery | Onboard bump purchases | No (cross-sell bridge) |
 | 1-10 | Welcome | Relationship, quick wins | No |
 | 2,4,6 | Bump Recovery | Re-pitch missed bumps | Yes (PM) |
 | 3,5,7 | OTO Recovery | Re-pitch Sprint/Blueprint | Yes (PM) |
@@ -30,6 +31,7 @@ linked_research:
 **Files:** All sequences in [`outputs/emails/`](../../../outputs/emails/)
 - [1-non-buyers-30-day.md](../../../outputs/emails/1-non-buyers-30-day.md)
 - [2-buyers-welcome-10-day.md](../../../outputs/emails/2-buyers-welcome-10-day.md)
+- [5-buyers-bump-delivery.md](../../../outputs/emails/5-buyers-bump-delivery.md)
 - [3-buyers-recovery-bumps.md](../../../outputs/emails/3-buyers-recovery-bumps.md)
 - [3-buyers-recovery-otos.md](../../../outputs/emails/3-buyers-recovery-otos.md)
 - [3-buyers-recovery-community.md](../../../outputs/emails/3-buyers-recovery-community.md)

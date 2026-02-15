@@ -14,7 +14,7 @@ Complete GoHighLevel workflow configuration for the Client Ready email backend. 
 
 ## What You're Building
 
-7 workflows that handle the entire buyer journey automatically:
+8 workflows that handle the entire buyer journey automatically:
 
 | # | Workflow Name | Trigger | Emails | HTML Files |
 |---|---------------|---------|--------|------------|
@@ -25,6 +25,7 @@ Complete GoHighLevel workflow configuration for the Client Ready email backend. 
 | 5 | Community Recovery | Purchased $47, no upsells at all | 1 email (Day 8) | `cr-sequence/CR01` |
 | 6 | Daily Broadcast | Day 11+ | Ongoing (7 templates) | `db-sequence/DB01-DB07` |
 | 7 | Accountability DM | Purchased Sprint or Blueprint | Manual DM trigger | (no HTML — manual outreach) |
+| 8 | Bump Delivery | Purchased bump product | 3 emails (immediate) | `bd-sequence/BD01-BD03` |
 
 ---
 
@@ -36,7 +37,7 @@ Go to **Settings → Tags** in GHL. Create each tag exactly as written (copy-pas
 - `lead`
 
 ### Purchase Tags
-- `purchased-27`
+- `purchased-47`
 - `purchased-bump-dm-scripts`
 - `purchased-bump-templates`
 - `purchased-bump-playbook`
@@ -83,7 +84,7 @@ For each product, add the corresponding tag on purchase:
 
 | Product | Go To | Add Tag |
 |---------|-------|---------|
-| $47 Client Ready Offer System | Payments → Products → Client Ready → Tags | `purchased-27` |
+| $47 Client Ready Offer System | Payments → Products → Client Ready → Tags | `purchased-47` |
 | $37 DM Scripts (Order Bump 1) | Payments → Products → DM Scripts → Tags | `purchased-bump-dm-scripts` |
 | $67 Templates (Order Bump 2) | Payments → Products → Templates → Tags | `purchased-bump-templates` |
 | $97 First $5K Client Playbook (Order Bump 3) | Payments → Products → Playbook → Tags | `purchased-bump-playbook` |
@@ -104,7 +105,7 @@ Create these 2 triggers:
 - Action: Add tag → `non-buyer-sequence`
 
 **Trigger 2: "Buyer Start"**
-- Event: Tag Added → `purchased-27`
+- Event: Tag Added → `purchased-47`
 - Actions (in order):
   1. Add tag → `buyer-core`
   2. Add tag → `buyer-sequence`
@@ -411,7 +412,7 @@ Days 5, 7, and 9 now include soft ascension closes as P.S. sections:
 
 ### Workflow Trigger
 - Type: **Tag Added**
-- Tag: `purchased-27`
+- Tag: `purchased-47`
 
 ### Build the Steps
 
@@ -477,7 +478,7 @@ Step 8:  IF/ELSE → Contact Tag → Has ANY missing bump tags
 
 ### Workflow Trigger
 - Type: **Tag Added**
-- Tag: `purchased-27`
+- Tag: `purchased-47`
 
 ### Build the Steps
 
@@ -540,7 +541,7 @@ Step 8:  IF/ELSE → Contact Tag → Has tag "purchased-blueprint"
 
 ### Workflow Trigger
 - Type: **Tag Added**
-- Tag: `purchased-27`
+- Tag: `purchased-47`
 
 ### Build the Steps
 
@@ -690,6 +691,64 @@ Remove the `needs-accountability-dm` tag manually after you've sent the DM. This
 
 ---
 
+## STEP 9: Build Workflow 8 — Bump Delivery
+
+**Where:** Automations → Workflows → Create Workflow → Start from Scratch
+
+**Name:** `Bump Delivery (Onboarding)`
+
+### About This Workflow
+
+Unlike recovery workflows that pitch missed products, bump delivery onboards what they already bought. Each bump gets its own simple workflow — deliver the product, give a quick-start action, and bridge to the most relevant next product.
+
+### Build 3 Simple Workflows (One Per Bump)
+
+**Workflow 8a: DM Scripts Delivery**
+
+Trigger: Tag Added → `purchased-bump-dm-scripts`
+
+```
+Step 1:  WAIT → Wait 5 minutes (let all tags settle)
+Step 2:  SEND EMAIL → BD01-dm-scripts-delivery.html
+           Subject: "Your DM scripts are ready — do this in the next 5 minutes"
+```
+
+**Workflow 8b: Templates Delivery**
+
+Trigger: Tag Added → `purchased-bump-templates`
+
+```
+Step 1:  WAIT → Wait 5 minutes
+Step 2:  SEND EMAIL → BD02-templates-delivery.html
+           Subject: "Your templates are ready — start with this one"
+```
+
+**Workflow 8c: Playbook Delivery**
+
+Trigger: Tag Added → `purchased-bump-playbook`
+
+```
+Step 1:  WAIT → Wait 5 minutes
+Step 2:  SEND EMAIL → BD03-playbook-delivery.html
+           Subject: "Your playbook is ready — start with the Warm 50"
+```
+
+### Bump Delivery Schedule Summary
+
+| Email | File | Trigger Tag | Time | Subject |
+|-------|------|-------------|------|---------|
+| BD01 | BD01-dm-scripts-delivery.html | `purchased-bump-dm-scripts` | +5 min | Your DM scripts are ready — do this in the next 5 minutes |
+| BD02 | BD02-templates-delivery.html | `purchased-bump-templates` | +5 min | Your templates are ready — start with this one |
+| BD03 | BD03-playbook-delivery.html | `purchased-bump-playbook` | +5 min | Your playbook is ready — start with the Warm 50 |
+
+### Key Settings
+- **5-minute wait:** Let all purchase tags settle before sending
+- **Each fires independently** — buyer could get 1, 2, or all 3
+- **Immediate delivery** — these are onboarding emails, not scheduled sends
+- **Cross-sell bridges:** Each email leads to the limitation of what they bought and bridges to the next product (see 5-buyers-bump-delivery.md for full copy)
+
+---
+
 ## Complete Buyer Journey — Day by Day
 
 Here's exactly what a buyer who purchased ONLY the $47 (no bumps, no OTOs) receives:
@@ -716,6 +775,10 @@ Here's exactly what a buyer who purchased ONLY the $47 (no bumps, no OTOs) recei
 | 11+ | 8:00 AM | Daily Broadcast | DB01-07 | (rotating daily) | |
 
 **Max 2 emails per day.** Morning (8 AM) = relationship. Afternoon (2 PM) = offers.
+
+**Bump delivery (if bumps purchased):**
+- Within 5 minutes of purchase: BD01/BD02/BD03 (whichever bumps they bought)
+- These fire at checkout, before the welcome sequence starts
 
 **Iron Strike additions (Days 3-9):**
 - Day 3 branches based on product consumption (different email for openers vs non-openers)
@@ -769,7 +832,7 @@ Test with a real contact (yourself or a test email) through each path:
 
 ### Test Path 2: Buyer (No Bumps)
 - [ ] Complete $47 purchase (no bumps)
-- [ ] Verify `purchased-27` tag applied
+- [ ] Verify `purchased-47` tag applied
 - [ ] Verify `non-buyer-sequence` removed (from trigger)
 - [ ] Verify `buyer-sequence` added (from trigger)
 - [ ] Verify BW01 sends immediately
@@ -795,6 +858,14 @@ Test with a real contact (yourself or a test email) through each path:
 - [ ] Send DM manually, remove tag
 - [ ] Verify 48-hour reminder does NOT fire (tag removed)
 - [ ] Test reminder: don't remove tag → verify overdue notification at 48 hours
+
+### Test Path 2e: Bump Delivery
+- [ ] Purchase $47 + DM Scripts bump
+- [ ] Verify `purchased-bump-dm-scripts` tag applied
+- [ ] Wait 5 min — verify BD01 sends
+- [ ] Verify BD01 includes product access link and quick-start action
+- [ ] Test with all 3 bumps — verify BD01, BD02, BD03 all send independently
+- [ ] Verify cross-sell bridge links work in each email
 
 ### Test Path 3: Buyer (With Bumps)
 - [ ] Complete $47 + all 3 bumps
@@ -857,8 +928,9 @@ All email HTML files ready to paste into GHL:
 | OTO Recovery | `or-sequence/` | OR01 through OR03 (3 files) |
 | Community Recovery | `cr-sequence/` | CR01 (1 file) |
 | Daily Broadcast | `db-sequence/` | DB01 through DB07 (7 files) |
+| Bump Delivery | `bd-sequence/` | BD01 through BD03 (3 files) |
 
-**Total: 38 HTML email files.**
+**Total: 41 HTML email files.**
 
 ---
 
@@ -871,4 +943,5 @@ All email HTML files ready to paste into GHL:
 - [3-buyers-recovery-otos.md](3-buyers-recovery-otos.md) — OTO recovery copy
 - [3-buyers-recovery-community.md](3-buyers-recovery-community.md) — Community recovery copy
 - [4-buyers-daily-broadcast.md](4-buyers-daily-broadcast.md) — Daily broadcast templates
+- [5-buyers-bump-delivery.md](5-buyers-bump-delivery.md) — Bump delivery/onboarding emails
 - [reference/domain/funnel/email-rhythm.md](../../reference/domain/funnel/email-rhythm.md) — Strategy reference
