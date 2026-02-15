@@ -21,9 +21,9 @@ linked_research:
 
 ---
 
-**Yes, include the "5 Quick Win DM Scripts" to start conversations TODAY!**
+**Yes, include the "Quick Win DM Scripts" to start conversations TODAY!**
 
-**GRAB THIS NO-BRAINER ADD-ON — ONLY $37:** While you're building your Client Ready Offer, why wait to make money? Get my 5 copy-paste DM scripts that start real sales conversations with your warm list — today. These scripts have started hundreds of real sales conversations. Simply open, customize with your name, and send. First conversation in 5 minutes. (You can't get these anywhere else — only $37 on this page.)
+**GRAB THIS NO-BRAINER ADD-ON — ONLY $37:** While you're building your Client Ready Offer, why wait to make money? Get 10 copy-paste DM scripts, a complete DM conversation system, and objection handlers that turn warm contacts into sales conversations — today. The Reconnection, Value Drop, Soft Pitch, Direct Ask, Referral Ask, and 5 more. Plus the 6-step conversation framework so you know what to say after they reply. Simply open, customize, and send. First conversation in 5 minutes. (You can't get these anywhere else — only $37 on this page.)
 
 ☐ Add to my order
 
@@ -35,7 +35,7 @@ linked_research:
 
 # Start Sales Conversations Today — While You Build
 
-**5 copy-paste DM scripts that turn your warm list into sales conversations.**
+**10 copy-paste DM scripts + a complete conversation system that turns your warm list into paying clients.**
 
 ---
 
@@ -51,32 +51,51 @@ People who already know you. Past colleagues. LinkedIn connections. Friends of f
 
 ## What Just Happened Here
 
-✅ While other coaches wait months to "launch properly" — you'll have sales conversations this week
+✅ While other coaches wait months to "launch properly" — you'll have 10 conversation starters and sales conversations this week
 
-✅ While they're perfecting their landing page — you'll know who's actually interested
+✅ While they freeze up after "hey, interested!" — you'll have the 6-step conversation framework to close
 
 ✅ While they're wondering if anyone will buy — you'll have real feedback (or real money)
 
-✅ While they build in silence — you'll build with momentum
+✅ While they hear "too expensive" and give up — you'll have word-for-word objection handlers ready
 
 ---
 
 ## What's Inside
 
-**Script 1: The Reconnection**
-Reach out to someone you haven't talked to in a while. No pitch. Just genuine reconnection that naturally leads to "what are you working on?"
+**The Core 5 Scripts**
 
-**Script 2: The Value Drop**
-Share something useful, position yourself as the expert, open the door to a deeper conversation.
+**Script 1: The Reconnection** — Reach out to someone you haven't talked to in a while. No pitch. Just genuine reconnection that naturally leads to "what are you working on?"
 
-**Script 3: The Soft Pitch**
-For people who've shown interest before. Direct but not pushy. Gets a yes or no fast.
+**Script 2: The Value Drop** — Share something useful, position yourself as the expert, open the door to a deeper conversation.
 
-**Script 4: The "I'm Building Something" Script**
-Perfect for when you're still figuring it out. Turns your audience into collaborators, not just buyers.
+**Script 3: The Soft Pitch** — For people who've shown interest before. Direct but not pushy. Gets a yes or no fast.
 
-**Script 5: The Follow-Up**
-Most sales happen in the follow-up. This script reopens conversations that went cold — without being annoying.
+**Script 4: The "I'm Building Something" Script** — Perfect for when you're still figuring it out. Turns your audience into collaborators, not just buyers.
+
+**Script 5: The Follow-Up** — Most sales happen in the follow-up. This script reopens conversations that went cold — without being annoying.
+
+**The Quick Cash 5 Scripts**
+
+**Script 6: The No-Brainer Question** — Discover what prospects actually need to say yes. Often closes the deal immediately.
+
+**Script 7: The Reactivation** — Go through old leads who fell through the cracks. Most leads aren't lost — they're waiting.
+
+**Script 8: The Win-Back** — Re-engage past clients who already trust you. 10x easier to close than new leads.
+
+**Script 9: The Referral Ask** — Your best clients know other people just like them. They want to help — they just need to be asked.
+
+**Script 10: The Direct Ask** — For hot prospects. Cut to the chase. No funnel, no fancy copy — just ask.
+
+**PLUS: The Complete DM Conversation System**
+
+**The 6-Step Conversation Flow** — What to say after they respond. Opener, qualifying, goal, current state, need, help. Turns any script into a closing conversation.
+
+**The A-C-A Framework** — Acknowledge, Compliment, Ask. Makes every response feel natural, not like an interrogation.
+
+**Objection Handlers** — Word-for-word responses for "I can't afford it," "I need to think about it," "Can I get back to you?" and "I'm not sure if this is for me."
+
+**Contact Tracking Template** — Log every conversation, track responses, know exactly where each prospect stands.
 
 ---
 
@@ -96,11 +115,14 @@ The funnel comes later. The conversations start now.
 
 ## The Math
 
-One high-ticket client ($2K+) = 100x return on this $37 investment.
+If you send 5 DMs per day for 2 weeks:
+- 70 conversations started
+- 30-40 responses (50%+ response rate on warm outreach)
+- 10-15 interested conversations
+- 3-5 sales conversations
+- 1-2 sales
 
-One "yes, let's talk" = validation that your offer has legs.
-
-One conversation = more clarity than a week of "working on your offer."
+One high-ticket client = 100x return on this 37 investment. And that's from 15 minutes per day.
 
 ---
 
@@ -133,6 +155,6 @@ One conversation = more clarity than a week of "working on your offer."
 
 **One-Time Investment: ~~$197~~ $37**
 
-No subscription. 5 scripts. First conversation in 5 minutes.
+No subscription. 10 scripts. Complete conversation system. First conversation in 5 minutes.
 
 **[Add Quick Win DM Scripts to My Order →]**

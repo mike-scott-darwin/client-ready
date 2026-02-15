@@ -69,27 +69,32 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - **Promise:** Validate your $5K+ offer before you build anything — in one afternoon
 
 **Order Bump 1: $37 — Quick Win DM Scripts**
-- 5 copy-paste DM scripts for warm outreach
-- The Reconnection, Value Drop, Soft Pitch, "I'm Building Something", and Follow-Up scripts
+- 10 copy-paste DM scripts (Core 5 + Quick Cash 5) for warm outreach
+- Complete DM conversation system: 6-step flow, A-C-A framework, qualifying progression
+- Objection handlers for price, timing, hesitation, and fit objections
+- Contact tracking template
 - Start sales conversations today — while you build your funnel
 - **Promise:** First conversation in 5 minutes — don't wait to make money
 - ~~$197~~ → $37
 
 **Order Bump 2: $67 — Plug & Play Templates**
 - Complete offer document template (with filled example)
-- Landing page swipe files (proven layouts)
-- 30-day evergreen email sequence (pre-written, tested)
+- 3 landing page swipe files (short-form, long-form, VSL page)
+- 30-day evergreen email sequence (pre-written, week by week)
 - Messaging maps and client profile templates
-- Copy-paste headlines and hooks
+- Awareness level messaging map (4 buyer awareness levels)
+- 50+ copy-paste headlines and hooks
+- 8 promo and quick cash campaign templates (flash sales, referral drives, founding member pricing, cash injection campaigns)
 - **Promise:** Don't start from scratch — plug in your offer and go
 - ~~$297~~ → $67
 
 **Order Bump 3: $97 — The First $5K Client Playbook**
-- Pricing psychology behind $5K+ offers (why charging more is easier than charging less)
+- Pricing psychology behind 5K+ offers (why charging more is easier than charging less)
+- 3-question Pricing Confidence Framework
 - 5 conversation frameworks for closing without being pushy
-- The Warm 50 activation plan (your first 50 people to share with — you already know them)
-- Objection playbook with word-for-word responses
-- 3 real closing conversations, annotated
+- The Warm 50 activation plan (5 categories, 4-week activation sequence)
+- Objection playbook with 5 word-for-word scenario responses
+- 3 real closing conversations, fully annotated
 - **Promise:** Close your first high-ticket client — without feeling like a salesperson
 - ~~$497~~ → $97
 
