@@ -20,6 +20,17 @@ source: Cat Howell Profit Lab data + Miles Stutz research + funnel math
 
 **Note:** Don't count OTO or backend revenue until it's built and proven. Front-end must self-liquidate on its own.
 
+### AOV by Bump Rate
+
+| Scenario | Bump 1 (37) | Bump 2 (67) | Bump 3 (97) | AOV | vs CPA |
+|----------|-------------|-------------|-------------|-----|--------|
+| Conservative | 25% | 15% | 10% | ~80 | Losing ~20/sale |
+| Moderate | 35% | 25% | 15% | ~91 | Near breakeven |
+| Aggressive | 40% | 30% | 20% | ~101 | Self-liquidating |
+| Cat benchmark | 50%+ combined | — | — | 100-120 | Profitable |
+
+**Read this as:** At moderate bump rates, you need ~91 AOV to cover a ~100 CPA. At aggressive rates, front-end self-liquidates and every OTO/email sale is pure profit.
+
 ---
 
 ## CPA Math
@@ -49,6 +60,10 @@ At 2% sales page conversion and $2 CPC:
 | $100/day (recommended) | $3,000/mo | ~30 days |
 
 **Budget $3,000 for first 30 days.** This is validation investment, not expected return.
+
+**Net cash needed:** At $100 CPA and ~$90 AOV, you lose ~$10/sale during validation. Over 30 sales that's ~$300 net loss + ad spend timing gaps. Realistic cash outlay: $3,000 upfront, ~$2,700 returned as revenue over 30 days. Net cost of validation: ~$300-600.
+
+**Why $47 matters:** At the old $27 front-end, realistic AOV was $52-58 — losing $40-60 per sale during validation. That would need $5,000+ cash and return far less. The $47 price point cuts validation cost by 80%.
 
 **Rules during validation:**
 - Expect $2,000 of spend before judging — learning phase is real
