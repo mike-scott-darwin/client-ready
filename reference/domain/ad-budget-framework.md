@@ -12,7 +12,7 @@ source: Cat Howell Profit Lab data + Miles Stutz research + funnel math
 | Scenario | AOV | How |
 |----------|-----|-----|
 | Front-end only | $47 | No bumps taken |
-| 1 bump average | $54 | $47 + one bump |
+| 1 bump average | $114 | $47 + avg bump ($67) |
 | Target AOV | $90-110 | Multiple bumps (per Cat Howell benchmarks) |
 | Max cart | $248 | $47 + $37 + $67 + $97 (all 3 bumps) |
 

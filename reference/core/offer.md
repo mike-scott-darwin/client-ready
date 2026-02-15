@@ -73,7 +73,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - The Reconnection, Value Drop, Soft Pitch, "I'm Building Something", and Follow-Up scripts
 - Start sales conversations today — while you build your funnel
 - **Promise:** First conversation in 5 minutes — don't wait to make money
-- ~~$497~~ → $97
+- ~~$197~~ → $37
 
 **Order Bump 2: $67 — Plug & Play Templates**
 - Complete offer document template (with filled example)
@@ -82,7 +82,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - Messaging maps and client profile templates
 - Copy-paste headlines and hooks
 - **Promise:** Don't start from scratch — plug in your offer and go
-- ~~$497~~ → $97
+- ~~$297~~ → $67
 
 **Order Bump 3: $97 — The First $5K Client Playbook**
 - Pricing psychology behind $5K+ offers (why charging more is easier than charging less)
