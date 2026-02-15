@@ -20,11 +20,11 @@ Complete GoHighLevel workflow configuration for the Client Ready email backend. 
 |---|---------------|---------|--------|------------|
 | 1 | Non-Buyer Nurture | Entered email, no purchase | 12 emails / 30 days | `nb-sequence/NB01-NB12` |
 | 2 | Buyer Welcome | Purchased $47 | 10 emails / 10 days (Day 3 branches) | `bw-sequence/BW01-BW10` + `BW03a/BW03b` |
-| 3 | Bump Recovery | Purchased $47, missed bumps | 3 emails (Days 2,4,6) | `br-sequence/BR01-BR03` |
-| 4 | OTO Recovery | Purchased $47, no Sprint/Blueprint | 3 emails (Days 3,5,7) | `or-sequence/OR01-OR03` |
-| 5 | Community Recovery | Purchased $47, no upsells at all | 1 email (Day 8) | `cr-sequence/CR01` |
-| 6 | Daily Broadcast | Day 11+ | Ongoing (7 templates) | `db-sequence/DB01-DB07` |
-| 7 | Accountability DM | Purchased Sprint or Blueprint | Manual DM trigger | (no HTML — manual outreach) |
+| 3 | OTO Recovery | Purchased $47, no Sprint/Blueprint | 3 emails (Days 3,5,7) | `or-sequence/OR01-OR03` |
+| 4 | Community Recovery | Purchased $47, no upsells at all | 1 email (Day 8) | `cr-sequence/CR01` |
+| 5 | Daily Broadcast | Day 11+ | Ongoing (7 templates) | `db-sequence/DB01-DB07` |
+| 6 | Accountability DM | Purchased Sprint or Blueprint | Manual DM trigger | (no HTML — manual outreach) |
+| 7 | Bump Recovery | Purchased $47, missed bumps | 3 emails (Days 2,4,6) | `br-sequence/BR01-BR03` |
 | 8 | Bump Delivery | Purchased bump product | 3 emails (immediate) | `bd-sequence/BD01-BD03` |
 
 ---
@@ -404,73 +404,7 @@ Days 5, 7, and 9 now include soft ascension closes as P.S. sections:
 
 ---
 
-## STEP 4: Build Workflow 3 — Bump Recovery
-
-**Where:** Automations → Workflows → Create Workflow → Start from Scratch
-
-**Name:** `Bump Recovery (Missed Order Bumps)`
-
-### Workflow Trigger
-- Type: **Tag Added**
-- Tag: `purchased-47`
-
-### Build the Steps
-
-```
-Step 1:  WAIT → Wait 5 minutes
-           (Let all purchase tags settle — bumps tag at same time as $47)
-
-Step 2:  IF/ELSE → Contact Tag → Has ALL of these tags:
-           "purchased-bump-dm-scripts" AND
-           "purchased-bump-templates" AND
-           "purchased-bump-playbook"
-           ├── YES (has all 3 bumps): End workflow — nothing to recover
-           └── NO (missing at least one): continue
-
-Step 3:  WAIT → Wait until Day 2, 2:00 PM
-
-Step 4:  IF/ELSE → Contact Tag → Has tag "purchased-bump-dm-scripts"
-           ├── YES: (skip — they already have DM Scripts)
-           └── NO:
-                 SEND EMAIL → BR01-dm-scripts.html
-                 Subject: "One thing I forgot to mention..."
-
-Step 5:  WAIT → Wait until Day 4, 2:00 PM
-
-Step 6:  IF/ELSE → Contact Tag → Has tag "purchased-bump-templates"
-           ├── YES: (skip — they already have Templates)
-           └── NO:
-                 SEND EMAIL → BR02-templates.html
-                 Subject: "The blank page problem"
-
-Step 7:  WAIT → Wait until Day 6, 2:00 PM
-
-Step 8:  IF/ELSE → Contact Tag → Has ANY missing bump tags
-           (Check: does NOT have dm-scripts OR does NOT have templates OR does NOT have playbook)
-           ├── All bumps now owned: (skip)
-           └── Still missing something:
-                 SEND EMAIL → BR03-last-chance.html
-                 Subject: "Before you move on..."
-
-(Workflow ends)
-```
-
-### Bump Recovery Schedule Summary
-
-| Email | File | Day | Time | Subject | Pitches |
-|-------|------|-----|------|---------|---------|
-| BR01 | BR01-dm-scripts.html | 2 | 2:00 PM | One thing I forgot to mention... | $37 DM Scripts |
-| BR02 | BR02-templates.html | 4 | 2:00 PM | The blank page problem | $67 Templates |
-| BR03 | BR03-last-chance.html | 6 | 2:00 PM | Before you move on... | All missed bumps |
-
-### Key Settings
-- **Send time:** 2:00 PM local (afternoon = offers, morning = welcome)
-- **Smart skipping:** Checks which bumps are missing before each email — only pitches what they don't have
-- **5-minute initial wait:** Critical — gives bump purchase tags time to register
-
----
-
-## STEP 5: Build Workflow 4 — OTO Recovery
+## STEP 4: Build Workflow 3 — OTO Recovery
 
 **Where:** Automations → Workflows → Create Workflow → Start from Scratch
 
@@ -533,7 +467,7 @@ Step 8:  IF/ELSE → Contact Tag → Has tag "purchased-blueprint"
 
 ---
 
-## STEP 6: Build Workflow 5 — Community Recovery
+## STEP 5: Build Workflow 4 — Community Recovery
 
 **Where:** Automations → Workflows → Create Workflow → Start from Scratch
 
@@ -574,7 +508,7 @@ Step 3:  SEND EMAIL → CR01-community-downsell.html
 
 ---
 
-## STEP 7: Set Up Daily Broadcast (Workflow 6)
+## STEP 6: Set Up Daily Broadcast (Workflow 5)
 
 **Where:** This is NOT a workflow in the same sense. It's a segment + manual/scheduled sends.
 
@@ -636,7 +570,7 @@ As buyers ascend, they should stop seeing pitches for products they already own.
 
 ---
 
-## STEP 8: Build Workflow 7 — Accountability DM (Sprint/Blueprint)
+## STEP 7: Build Workflow 6 — Accountability DM (Sprint/Blueprint)
 
 **Where:** Automations → Workflows → Create Workflow → Start from Scratch
 
@@ -688,6 +622,72 @@ Remove the `needs-accountability-dm` tag manually after you've sent the DM. This
 - **48-hour reminder** ensures no buyer falls through the cracks
 - **Remove tag after sending** to mark it done
 - **At scale (20+ per week):** Hire a setter to handle these. Same script. Same energy.
+
+---
+
+## STEP 8: Build Workflow 7 — Bump Recovery
+
+**Where:** Automations → Workflows → Create Workflow → Start from Scratch
+
+**Name:** `Bump Recovery (Missed Order Bumps)`
+
+### Workflow Trigger
+- Type: **Tag Added**
+- Tag: `purchased-47`
+
+### Build the Steps
+
+```
+Step 1:  WAIT → Wait 5 minutes
+           (Let all purchase tags settle — bumps tag at same time as $47)
+
+Step 2:  IF/ELSE → Contact Tag → Has ALL of these tags:
+           "purchased-bump-dm-scripts" AND
+           "purchased-bump-templates" AND
+           "purchased-bump-playbook"
+           ├── YES (has all 3 bumps): End workflow — nothing to recover
+           └── NO (missing at least one): continue
+
+Step 3:  WAIT → Wait until Day 2, 2:00 PM
+
+Step 4:  IF/ELSE → Contact Tag → Has tag "purchased-bump-dm-scripts"
+           ├── YES: (skip — they already have DM Scripts)
+           └── NO:
+                 SEND EMAIL → BR01-dm-scripts.html
+                 Subject: "One thing I forgot to mention..."
+
+Step 5:  WAIT → Wait until Day 4, 2:00 PM
+
+Step 6:  IF/ELSE → Contact Tag → Has tag "purchased-bump-templates"
+           ├── YES: (skip — they already have Templates)
+           └── NO:
+                 SEND EMAIL → BR02-templates.html
+                 Subject: "The blank page problem"
+
+Step 7:  WAIT → Wait until Day 6, 2:00 PM
+
+Step 8:  IF/ELSE → Contact Tag → Has ANY missing bump tags
+           (Check: does NOT have dm-scripts OR does NOT have templates OR does NOT have playbook)
+           ├── All bumps now owned: (skip)
+           └── Still missing something:
+                 SEND EMAIL → BR03-last-chance.html
+                 Subject: "Before you move on..."
+
+(Workflow ends)
+```
+
+### Bump Recovery Schedule Summary
+
+| Email | File | Day | Time | Subject | Pitches |
+|-------|------|-----|------|---------|---------|
+| BR01 | BR01-dm-scripts.html | 2 | 2:00 PM | One thing I forgot to mention... | $37 DM Scripts |
+| BR02 | BR02-templates.html | 4 | 2:00 PM | The blank page problem | $67 Templates |
+| BR03 | BR03-last-chance.html | 6 | 2:00 PM | Before you move on... | All missed bumps |
+
+### Key Settings
+- **Send time:** 2:00 PM local (afternoon = offers, morning = welcome)
+- **Smart skipping:** Checks which bumps are missing before each email — only pitches what they don't have
+- **5-minute initial wait:** Critical — gives bump purchase tags time to register
 
 ---
 
@@ -784,7 +784,7 @@ Here's exactly what a buyer who purchased ONLY the $47 (no bumps, no OTOs) recei
 - Day 3 branches based on product consumption (different email for openers vs non-openers)
 - Days 5, 7 add soft ascension P.S. to existing relationship emails
 - Day 9 adds explicit Sprint vs Blueprint comparison CTA
-- Sprint/Blueprint buyers also get a manual accountability DM within 48 hours (Workflow 7)
+- Sprint/Blueprint buyers also get a manual accountability DM within 48 hours (Workflow 6)
 
 ---
 
@@ -821,7 +821,7 @@ Test with a real contact (yourself or a test email) through each path:
 - [ ] Each product adds correct purchase tag
 - [ ] Product access link in BW01 is a GHL tracked link → triggers `product-accessed` tag
 - [ ] Both GHL triggers created and active
-- [ ] All 7 workflows built and set to ACTIVE
+- [ ] All 8 workflows built and set to ACTIVE
 
 ### Test Path 1: Non-Buyer
 - [ ] Enter email on checkout, don't pay
