@@ -315,7 +315,7 @@ From Miles Stutz research:
 
 Most coaches email weekly (or never). Daily = compound advantage.
 
-See: `reference/domain/email-rhythm.md` for full implementation details.
+See: `reference/domain/funnel/email-rhythm.md` for full implementation details.
 
 ---
 

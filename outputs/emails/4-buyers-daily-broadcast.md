@@ -424,4 +424,4 @@ Where daily emails fit:
 - [install-offer-recovery-sequence.md](../classroom/downloads/install-offer-recovery-sequence.md) — Bump recovery
 - [oto-recovery-sequence.md](../classroom/downloads/oto-recovery-sequence.md) — OTO recovery
 - [community-recovery-sequence.md](../classroom/downloads/community-recovery-sequence.md) — Community downsell
-- [email-rhythm.md](../email-rhythm.md) — Strategy overview
+- [email-rhythm.md](../../reference/domain/funnel/email-rhythm.md) — Strategy overview

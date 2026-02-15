@@ -168,7 +168,7 @@ RETENTION (Results → Referrals → Case Studies)
 - Specific pain points → Relevant offer
 - Time-based → Sprint cohort invites
 
-See: `reference/domain/email-rhythm.md`
+See: `reference/domain/funnel/email-rhythm.md`
 
 ---
 
@@ -189,7 +189,7 @@ See: `reference/domain/email-rhythm.md`
 - Source (which tier they came from)
 - Results achieved
 
-See: `reference/domain/accelerator-delivery.md`
+See: `reference/domain/delivery/accelerator.md`
 
 ---
 

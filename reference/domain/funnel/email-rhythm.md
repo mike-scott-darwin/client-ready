@@ -27,13 +27,13 @@ linked_research:
 
 **Timing:** Welcome sends 8:00 AM. Recovery sends 2:00 PM. Max 2 emails/day.
 
-**Files:** All sequences in [`outputs/emails/`](../../outputs/emails/)
-- [1-non-buyers-30-day.md](../../outputs/emails/1-non-buyers-30-day.md)
-- [2-buyers-welcome-10-day.md](../../outputs/emails/2-buyers-welcome-10-day.md)
-- [3-buyers-recovery-bumps.md](../../outputs/emails/3-buyers-recovery-bumps.md)
-- [3-buyers-recovery-otos.md](../../outputs/emails/3-buyers-recovery-otos.md)
-- [3-buyers-recovery-community.md](../../outputs/emails/3-buyers-recovery-community.md)
-- [4-buyers-daily-broadcast.md](../../outputs/emails/4-buyers-daily-broadcast.md)
+**Files:** All sequences in [`outputs/emails/`](../../../outputs/emails/)
+- [1-non-buyers-30-day.md](../../../outputs/emails/1-non-buyers-30-day.md)
+- [2-buyers-welcome-10-day.md](../../../outputs/emails/2-buyers-welcome-10-day.md)
+- [3-buyers-recovery-bumps.md](../../../outputs/emails/3-buyers-recovery-bumps.md)
+- [3-buyers-recovery-otos.md](../../../outputs/emails/3-buyers-recovery-otos.md)
+- [3-buyers-recovery-community.md](../../../outputs/emails/3-buyers-recovery-community.md)
+- [4-buyers-daily-broadcast.md](../../../outputs/emails/4-buyers-daily-broadcast.md)
 
 ---
 
@@ -106,7 +106,7 @@ New buyers get this before joining daily broadcasts. **NO pitches** — recovery
 
 **After Day 10:** They join the daily broadcast list.
 
-See [2-buyers-welcome-10-day.md](../../outputs/emails/2-buyers-welcome-10-day.md) for full copy.
+See [2-buyers-welcome-10-day.md](../../../outputs/emails/2-buyers-welcome-10-day.md) for full copy.
 
 ---
 
@@ -190,6 +190,6 @@ Where emails fit:
 
 ## See Also
 
-- [`outputs/emails/`](../../outputs/emails/) — All email sequences (README has overview)
+- [`outputs/emails/`](../../../outputs/emails/) — All email sequences (README has overview)
 - `reference/core/offer.md` — Email Ascension System section
 - `vip/.claude/skills/ads/references/miles-stutz/swipe-digital-snacks-emails.txt` — Full swipe file

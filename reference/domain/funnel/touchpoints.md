@@ -98,7 +98,7 @@ updated_from: 2026-01-19
 - Rotate offers across the week
 - Revenue on demand from buyer list
 
-See: `reference/domain/email-rhythm.md`
+See: `reference/domain/funnel/email-rhythm.md`
 
 ---
 

@@ -871,4 +871,4 @@ All email HTML files ready to paste into GHL:
 - [3-buyers-recovery-otos.md](3-buyers-recovery-otos.md) — OTO recovery copy
 - [3-buyers-recovery-community.md](3-buyers-recovery-community.md) — Community recovery copy
 - [4-buyers-daily-broadcast.md](4-buyers-daily-broadcast.md) — Daily broadcast templates
-- [reference/domain/email-rhythm.md](../../reference/domain/email-rhythm.md) — Strategy reference
+- [reference/domain/funnel/email-rhythm.md](../../reference/domain/funnel/email-rhythm.md) — Strategy reference

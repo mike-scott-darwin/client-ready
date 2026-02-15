@@ -77,7 +77,7 @@ Sprint/Blueprint buyers also get:
 
 ## Strategy Reference
 
-See [reference/domain/email-rhythm.md](../../reference/domain/email-rhythm.md) for:
+See [reference/domain/funnel/email-rhythm.md](../../reference/domain/funnel/email-rhythm.md) for:
 - Why daily emails work
 - Writing process (15-20 min)
 - Story sources

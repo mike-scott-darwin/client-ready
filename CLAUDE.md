@@ -109,7 +109,7 @@ Direct. No-BS. Engineering mindset. Short sentences. "Wrong." "Test, validate, b
 |------|--------|
 | Testimonials | ❌ None collected yet |
 | 1:1 pricing | ⚠️ "$5K+" — exact price TBD |
-| Email sequences | ✅ 6 workflows defined in `reference/domain/email-rhythm.md` |
+| Email sequences | ✅ 6 workflows defined in `reference/domain/funnel/email-rhythm.md` |
 | Application page | ⚠️ Not yet built |
 | OTO 3 page | ⚠️ Skool membership page not built yet |
 | Content strategy | ✅ Defined in `reference/domain/content-strategy.md` |
