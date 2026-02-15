@@ -54,7 +54,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - **Paid traffic over content merry-go-round** — Stop posting for 12 months hoping someone buys
 - **Validate before you build** — Know it works before investing in infrastructure
 - **Alignment + automation** — Not scale for scale's sake
-- **Self-liquidating checkout** — Bumps cover ad spend; OTOs and backend are pure profit, not survival. Don't scale until checkout AOV is $100+.
+- **Self-liquidating checkout** — Front-end ($47) + bumps ($37/$67/$97) cover ad spend without OTOs. OTOs and backend are pure profit. Don't scale until checkout AOV is $90+.
 
 ---
 
@@ -62,36 +62,36 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 
 ### Tier 1: $27 Low-Ticket Funnel
 
-**Front-End: $27 — Client Ready Offer System**
+**Front-End: $47 — Client Ready Offer System**
 - PDF guide + AI prompts
 - 5 AI prompts that extract zone of genius, ideal client, pain points, story, and assemble complete offer
 - Step-by-step guide + offer document template
 - **Promise:** Validate your $5K+ offer before you build anything — in one afternoon
 
-**Order Bump 1: $17 — Quick Win DM Scripts**
+**Order Bump 1: $37 — Quick Win DM Scripts**
 - 5 copy-paste DM scripts for warm outreach
 - The Reconnection, Value Drop, Soft Pitch, "I'm Building Something", and Follow-Up scripts
 - Start sales conversations today — while you build your funnel
 - **Promise:** First conversation in 5 minutes — don't wait to make money
-- ~~$97~~ → $17
+- ~~$497~~ → $97
 
-**Order Bump 2: $37 — Plug & Play Templates**
+**Order Bump 2: $67 — Plug & Play Templates**
 - Complete offer document template (with filled example)
 - Landing page swipe files (proven layouts)
 - 30-day evergreen email sequence (pre-written, tested)
 - Messaging maps and client profile templates
 - Copy-paste headlines and hooks
 - **Promise:** Don't start from scratch — plug in your offer and go
-- ~~$197~~ → $37
+- ~~$497~~ → $97
 
-**Order Bump 3: $67 — The First $5K Client Playbook**
+**Order Bump 3: $97 — The First $5K Client Playbook**
 - Pricing psychology behind $5K+ offers (why charging more is easier than charging less)
 - 5 conversation frameworks for closing without being pushy
 - The Warm 50 activation plan (your first 50 people to share with — you already know them)
 - Objection playbook with word-for-word responses
 - 3 real closing conversations, annotated
 - **Promise:** Close your first high-ticket client — without feeling like a salesperson
-- ~~$297~~ → $67
+- ~~$497~~ → $97
 
 ---
 
@@ -210,7 +210,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - Post-launch optimization session (Week 8)
 
 **Who This Is For:**
-- Already validated your offer (bought the $27 or Sprint)
+- Already validated your offer (bought the $47 or Sprint)
 - Want speed + expert guidance, not DIY
 - Ready to invest in getting it right the first time
 
@@ -225,17 +225,17 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 
 | Step | Price | Type |
 |------|-------|------|
-| Front-end | $27 | One-time |
-| Bump 1 (DM Scripts) | $17 | One-time |
-| Bump 2 (Templates) | $37 | One-time |
-| Bump 3 (First $5K Client Playbook) | $67 | One-time |
+| Front-end | $47 | One-time |
+| Bump 1 (DM Scripts) | $37 | One-time |
+| Bump 2 (Templates) | $67 | One-time |
+| Bump 3 (First $5K Client Playbook) | $97 | One-time |
 | OTO 1 (Sprint) | $297 | One-time |
 | OTO 2 (Blueprint) | $397 | One-time |
 | OTO 3 (Community) | $47/mo | Recurring ($1 trial) |
 | Backend (Accelerator) | $5,000 | No-Phone Offer |
 
-**Max One-Time Cart Value:** $842 ($27 + $17 + $37 + $67 + $297 + $397)
-**Target AOV:** $120-150 (with 3 bumps per Cat Howell data showing 2x conversion lift)
+**Max One-Time Cart Value:** $1,002 ($47 + $37 + $67 + $97 + $297 + $397)
+**Target AOV:** $90-110 (front-end + bumps only, no OTOs — self-liquidating target)
 **Recurring potential:** OTO 3 adds $47/month per retained member
 
 ---
@@ -336,7 +336,7 @@ See: `reference/domain/email-rhythm.md` for full implementation details.
 
 | Objection | Response |
 |-----------|----------|
-| "I don't have an offer yet" | That's exactly what the $27 system solves — extract and validate in one afternoon |
+| "I don't have an offer yet" | That's exactly what the $47 system solves — extract and validate in one afternoon |
 | "I'm not tech savvy" | The templates are plug-and-play — fill in blanks, copy-paste, done |
 | "I don't have an audience" | Start with your warm audience first. The traffic playbook shows you how to find buyers without ads. |
 | "What if it doesn't work?" | Every product has a money-back guarantee. The Sprint adds personal accountability — Michael reviews your homework and keeps working with you until you launch. |
@@ -360,7 +360,7 @@ See: `reference/domain/email-rhythm.md` for full implementation details.
 
 **Bump pricing insight (Cat Howell Feb 2026):** Higher-priced bumps convert better. Her split test: $33/$44/$55 bumps at 4.0% conversion vs $17/$33/$55 at 2.3%. Early data but directionally strong. Test increasing bump prices once baseline data exists.
 
-**Front-end pricing warning:** $17 front-end killed Cat's AOV (dropped from $140 to $70-80). Cheap buyers don't buy bumps/upsells at the same rate. $27 is minimum; $47 is her sweet spot. Client Ready's $27 is in the safe range but monitor AOV closely — if buyers aren't taking bumps, price may need to go up.
+**Front-end pricing warning:** $17 front-end killed Cat's AOV (dropped from $140 to $70-80). Cheap buyers don't buy bumps/upsells at the same rate. $27 is minimum; $47 is her sweet spot. Client Ready moved from $27 to $47 based on this data. At $47, front-end + bumps target self-liquidating AOV of $90-110.
 
 **Scaling via entry points (future):** Existing bumps (DM Scripts, $5K Playbook) can become standalone front-end offers once core funnel is validated (30+ sales, $100+ AOV). See `decisions/2026-02-12-scaling-architecture.md`.
 
@@ -421,9 +421,9 @@ For your funnel (AOV $100-120):
 | Checkout CVR | 30% | Completed purchases / checkout page views |
 | AOV | $100-120 | Total revenue / orders |
 | Combined bump rate | 50%+ | Orders with ANY bump / total orders (Cat Howell benchmark) |
-| Bump 1 ($17) | Track | Bump 1 purchases / orders |
-| Bump 2 ($37) | Track | Bump 2 purchases / orders |
-| Bump 3 ($67) | Track | Bump 3 purchases / orders |
+| Bump 1 ($37) | Track | Bump 1 purchases / orders |
+| Bump 2 ($67) | Track | Bump 2 purchases / orders |
+| Bump 3 ($97) | Track | Bump 3 purchases / orders |
 
 **Note:** Cat's 50% benchmark = half of all buyers take at least one bump. Individual bump rates will be lower. Don't scale ads until AOV is consistently $100+.
 
