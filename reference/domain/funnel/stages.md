@@ -74,9 +74,9 @@ RETENTION (Results → Referrals → Case Studies)
 **Goal:** Increase average order value
 
 **Products:**
-- **Bump 1: $37** — Quick Win DM Scripts (start conversations today)
-- **Bump 2: $67** — Plug & Play Templates (landing pages, emails, headlines)
-- **Bump 3: $97** — The First $5K Client Playbook
+- **Bump 1: $37** — Quick Win DM Scripts (10 scripts + conversation system + objection handlers)
+- **Bump 2: $67** — Plug & Play Templates (8 template packs, 50+ headlines, promo campaigns)
+- **Bump 3: $97** — The First $5K Client Playbook (closing frameworks, Warm 50 plan, objection playbook)
 
 **What happens:**
 - Customer sees checkbox offers on order form

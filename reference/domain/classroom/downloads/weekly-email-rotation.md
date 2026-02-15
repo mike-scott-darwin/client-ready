@@ -17,9 +17,9 @@ format: Spreadsheet
 | Day | Offer | Price | Why This Day |
 |-----|-------|-------|--------------|
 | **Monday** | Front-end ($47) | $47 | Fresh week, entry point |
-| **Tuesday** | Templates | $37 | "Don't start from scratch" |
+| **Tuesday** | Templates | $67 | "Don't start from scratch" |
 | **Wednesday** | Sprint | $297 | Midweek momentum |
-| **Thursday** | DFY Funnel | $397 | "Let me do it for you" |
+| **Thursday** | Blueprint | $397 | "Let me build yours" |
 | **Friday** | Accelerator | $5,000 | Big decision energy |
 | **Saturday** | Skool Community | Free | Soft touch, engagement |
 | **Sunday** | No pitch OR recap | — | Rest or weekly roundup |
@@ -35,7 +35,7 @@ format: Spreadsheet
 
 ### Tuesday
 **Story:** The landing page that took me 6 hours (and why you don't need to do that)
-**Offer:** $37 Plug & Play Templates
+**Offer:** $67 Plug & Play Templates
 **CTA:** "Skip the blank page: [link]"
 
 ### Wednesday
@@ -44,8 +44,8 @@ format: Spreadsheet
 **CTA:** "Join the next sprint: [link]"
 
 ### Thursday
-**Story:** Why I started offering done-for-you
-**Offer:** $397 DFY Funnel
+**Story:** Why I started offering the Blueprint
+**Offer:** $397 Client Ready Blueprint
 **CTA:** "Let me build yours: [link]"
 
 ### Friday

@@ -158,7 +158,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
   - Daily email examples (story → offer → CTA)
   - Install offer recovery emails
   - OTO recovery emails
-- DM scripts (the 5 scripts from $37 bump)
+- DM scripts (the 10 scripts + conversation system from $37 bump)
 - Ad creative examples (hooks, images, copy)
 - High-ticket offer page examples
 - Pricing and positioning examples across niches
@@ -232,7 +232,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 - The core message components (problem, solution, transformation, proof)
 - How to translate your offer into different formats
 - The "one pizza, get pizza" principle — headline congruency across touchpoints
-- Copy-paste headlines and hooks (from the $67 Templates bump)
+- 50+ copy-paste headlines and hooks (from the $67 Templates bump)
 - Testing which messages resonate
 
 **Benefit:** Stop reinventing your messaging for every piece of content. One map, infinite applications.
@@ -289,9 +289,9 @@ All content available in free Skool community. Core modules drip over 72 hours.
 
 **What you'll learn:**
 - The three Client Ready bumps and why they work:
-  - **Bump 1: Quick Win DM Scripts ($37)** — Immediate action, start conversations today
-  - **Bump 2: Plug & Play Templates ($67)** — Skip the blank page problem
-  - **Bump 3: The First $5K Client Playbook ($97)** — The playbook for landing your first high-ticket client
+  - **Bump 1: Quick Win DM Scripts ($37)** — 10 scripts + complete DM conversation system + objection handlers
+  - **Bump 2: Plug & Play Templates ($67)** — 8 template packs, 50+ headlines, promo campaigns
+  - **Bump 3: The First $5K Client Playbook ($97)** — Closing frameworks, Warm 50 activation plan, objection playbook
 - Bump psychology: why adding 3 bumps can 2x conversion (Cat Howell data)
 - Placement and copy for each bump
 - How to create bumps for YOUR value ladder
