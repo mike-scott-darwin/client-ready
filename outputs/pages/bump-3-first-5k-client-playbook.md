@@ -36,7 +36,7 @@ linked_decisions:
 
 ---
 
-You just built your Client Ready Offer. You know who it's for, what it solves, and why you're the right person.
+Once you've built your Client Ready Offer, you'll know who it's for, what it solves, and why you're the right person.
 
 Now what?
 
@@ -54,7 +54,7 @@ That's not going to be you.
 
 ✅ While they freeze up on sales calls — you'll have 5 frameworks that close without pitching
 
-✅ While they underprice out of fear — the 3-question Pricing Confidence Framework shows you exactly why 5K is easier to sell than 500
+✅ While they underprice out of fear — the 3-question Pricing Confidence Framework shows you how to price at the level your expertise deserves
 
 ✅ While they wonder what to say when someone says "too expensive" — you'll have 5 word-for-word objection responses ready
 

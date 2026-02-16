@@ -23,7 +23,7 @@ linked_research:
 
 **Yes, include the "Quick Win DM Scripts" to start conversations TODAY!**
 
-**GRAB THIS NO-BRAINER ADD-ON — ONLY $37:** While you're building your Client Ready Offer, why wait to make money? Get 10 copy-paste DM scripts, a complete DM conversation system, and objection handlers that turn warm contacts into sales conversations — today. The Reconnection, Value Drop, Soft Pitch, Direct Ask, Referral Ask, and 5 more. Plus the 6-step conversation framework so you know what to say after they reply. Simply open, customize, and send. First conversation in 5 minutes. (You can't get these anywhere else — only $37 on this page.)
+**ADD THIS TO YOUR ORDER — ONLY $37:** While you're building your Client Ready Offer, why wait to make money? Get 10 copy-paste DM scripts, a complete DM conversation system, and objection handlers that turn warm contacts into sales conversations — today. The Reconnection, Value Drop, Soft Pitch, Direct Ask, Referral Ask, and 5 more. Plus the 6-step conversation framework so you know what to say after they reply. Simply open, customize, and send. First conversation in 5 minutes. (You can't get these anywhere else — only $37 on this page.)
 
 ☐ Add to my order
 
@@ -39,9 +39,7 @@ linked_research:
 
 ---
 
-You just got the Client Ready Offer System. Smart.
-
-But here's the thing: you have a warm list RIGHT NOW.
+As you work through the Client Ready Offer, here’s something worth knowing: you have a warm list RIGHT NOW.
 
 People who already know you. Past colleagues. LinkedIn connections. Friends of friends. People who've been watching you figure this out.
 

@@ -2,6 +2,7 @@
 type: decision
 date: 2026-02-14
 status: codified
+applied_to_pages: 2026-02-16
 urgency: high
 ---
 

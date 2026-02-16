@@ -17,14 +17,13 @@ Complete page copy in order. Ready for developer implementation.
 
 ## [TOP BAR]
 
-**IMPORTANT:** DO NOT CLOSE THIS WINDOW OR CLICK THE 'BACK BUTTON'
-Your order is 100% secure, but it's not complete yet. Watch the welcome message below to proceed to the next page.
+Your order is processing. Watch the message below while we set up your access.
 
 ---
 
 ## [HERO SECTION]
 
-**🔊 PLAY THE VIDEO TO TURN ON SOUND**
+**PLAY THE VIDEO TO TURN ON SOUND**
 
 # DON'T BUILD ALONE — GET WEEKLY COACHING, DIRECT ACCESS TO MICHAEL, AND A COMMUNITY OF COACHES BUILDING ALONGSIDE YOU
 
@@ -38,7 +37,7 @@ Please Watch This Short Video In Full While Your Account Is Being Created.
 
 ## [HEADLINE AFTER VIDEO]
 
-**🔔 NEW MEMBER ONE TIME OFFER:**
+**NEW MEMBER ONE TIME OFFER:**
 
 # WHAT IF YOU HAD A COACH AND COMMUNITY IN YOUR CORNER — FOR JUST $1?
 
@@ -76,7 +75,7 @@ And you can try it for just $1.
 
 ## [COMPONENT 1]
 
-### 📞 Weekly Group Hot Seat Calls With Michael
+### Weekly Group Hot Seat Calls With Michael
 
 Every week, I show up live. Bring your questions. Share your screen. Get direct feedback on your funnel, your copy, your ads — whatever you're working on. Everyone learns from everyone's hot seat.
 
@@ -84,7 +83,7 @@ Every week, I show up live. Bring your questions. Share your screen. Get direct 
 
 ## [COMPONENT 2]
 
-### 💬 DM Michael Directly
+### DM Michael Directly
 
 Got a quick question that can't wait for the next call? DM me inside Skool. I respond within 24 hours (usually faster). Use it when you're stuck, need a second opinion, or want feedback on something specific.
 
@@ -92,7 +91,7 @@ Got a quick question that can't wait for the next call? DM me inside Skool. I re
 
 ## [COMPONENT 3]
 
-### 👀 See What's Working For Other Coaches
+### See What's Working For Other Coaches
 
 The community is full of coaches at every stage — some just starting, some already generating clients. See their wins, their lessons, their funnels. Learn from what's working across different niches.
 
@@ -100,7 +99,7 @@ The community is full of coaches at every stage — some just starting, some alr
 
 ## [COMPONENT 4]
 
-### 📚 Resource Library
+### Resource Library
 
 Templates, swipe files, frameworks — everything from the Client Ready ecosystem, organized and searchable. Grab what you need, when you need it.
 
@@ -132,7 +131,7 @@ Templates, swipe files, frameworks — everything from the Client Ready ecosyste
 
 ## [OFFER BOX]
 
-**🔔 NEW MEMBER ONE TIME OFFER:**
+**NEW MEMBER ONE TIME OFFER:**
 
 # JOIN THE CLIENT READY COMMUNITY
 

@@ -17,20 +17,19 @@ Complete page copy in order. Ready for developer implementation.
 
 ## [TOP BAR]
 
-**IMPORTANT:** DO NOT CLOSE THIS WINDOW OR CLICK THE 'BACK BUTTON'
-Your order is 100% secure, but it's not complete yet. Watch the welcome message below to proceed to the next page.
+Your order is processing. Watch the message below while we set up your access.
 
 ---
 
 ## [HERO SECTION]
 
-**⭐ SPECIAL ONE-TIME INVITATION**
+**ONE STEP FURTHER**
 
 # LAUNCH YOUR VALIDATED OFFER IN 30 DAYS — WITH MY COMPLETE SYSTEM AND LIVE SUPPORT
 
 Get the complete funnel system, weekly calls with me, and direct access for 4 weeks. I'll help you go from offer document to live funnel generating customers — or I keep working with you until you do.
 
-**This is a one-time invitation — only available right now, on this page.**
+**This is a one-time offer. It won’t appear again after you leave this page.**
 
 ---
 
@@ -52,27 +51,23 @@ Get the complete funnel system, weekly calls with me, and direct access for 4 we
 
 Michael here...
 
-Congratulations on getting Client Ready Offer! You now have everything you need to **build a validated offer that's clear enough to sell itself**.
+You just picked up the Client Ready Offer — the system for extracting and validating your offer.
 
-But here's what I've learned after teaching 100+ students...
+But here's what I've learned: **knowing what makes a clear offer and actually getting it in front of people are two different things.**
 
-Knowing what makes a converting Offer and **actually getting it in front of the right people FAST** are two completely different things.
+Most people spend weeks building funnels, writing sequences, and setting up systems after they validate. Many never launch at all.
 
-**9/10 people spend weeks building funnels**, writing sequences, and setting up systems. Many never launch at all.
+Here's my honest interest in this: **I need you to succeed** — otherwise I can't build case studies or get referrals from your results.
 
-As a Coach - your Coach... **It's in my interest to guarantee you actually get a return on investment and get results** - otherwise I can't build testimonials or get referrals from your success.
+So I asked myself: **"How do I make sure people actually launch?"**
 
-After seeing hundreds of Offer Creation courses collect digital dust, I asked myself:
+The answer: **Give them a complete funnel system AND work with them live for 4 weeks.**
 
-**"How can I GUARANTEE my students launch their validated offer and start generating customers?"**
+That's the **Client Ready Sprint**. Instead of building everything yourself...
 
-The answer: **Give them my complete system AND work with them live for 4 weeks.**
+...you copy my complete funnel system and go from validated offer to **live funnel generating customers** — instead of spending weeks building from scratch.
 
-I created the **Client Ready Sprint** - as the name implies, instead of building everything yourself...
-
-...Smart entrepreneurs can now **copy my complete funnel system** and go from Client Ready Offer document to **live funnel generating customers** instead of spending weeks building from scratch.
-
-**And you won't do it alone.** Weekly calls, direct chat access, hot seat feedback on YOUR funnel, and a community of coaches building alongside you.
+**And you don't do it alone.** Weekly calls, direct chat access, hot seat feedback on YOUR funnel, and a community of coaches building alongside you.
 
 ---
 
@@ -84,15 +79,15 @@ I created the **Client Ready Sprint** - as the name implies, instead of building
 
 ## [CORE OFFER]
 
-### 🎯 Get My Profit Sales Funnel
+### Get My Profit Sales Funnel
 
-The exact sales funnels I used to profitably scale from $0/day to ad spend resulting in 30+ new paid customers... Just replace the fill-in-the-blanks and you're live - no building from scratch required.
+The exact sales funnel templates I use — landing page, checkout, email sequences. Replace the fill-in-the-blanks with your offer details and you're live. No building from scratch.
 
 ---
 
 ## [BONUS #1]
 
-### 🎁 BONUS #1: The Zone of Genius Extraction Framework
+### BONUS #1: The Zone of Genius Extraction Framework
 
 Extract what makes you uniquely valuable, package it into high-converting offers people MUST have, and get all the sales copy, pages, and slides needed to sell them.
 
@@ -100,7 +95,7 @@ Extract what makes you uniquely valuable, package it into high-converting offers
 
 ## [BONUS #2]
 
-### 🎁 BONUS #2: AI Landing Page Generator
+### BONUS #2: AI Landing Page Generator
 
 My proven AI prompts that creates your landing page copy in minutes (not days!) that converts skeptical prospects into buyers for your medium and high ticket offers.
 
@@ -108,7 +103,7 @@ My proven AI prompts that creates your landing page copy in minutes (not days!) 
 
 ## [BONUS #3]
 
-### 🎁 BONUS #3: Traffic Generation Playbook
+### BONUS #3: Traffic Generation Playbook
 
 Complete playbook on how to generate traffic from organic and paid content that converts curious prospects into medium and high-ticket clients.
 
@@ -116,7 +111,7 @@ Complete playbook on how to generate traffic from organic and paid content that 
 
 ## [BONUS #4]
 
-### 🎁 BONUS #4: A/B Testing Frameworks & Strategies
+### BONUS #4: A/B Testing Frameworks & Strategies
 
 Use my exact templates to quickly test your offer and funnel to see what's converting and what to focus on to optimize and scale it further.
 
@@ -124,7 +119,7 @@ Use my exact templates to quickly test your offer and funnel to see what's conve
 
 ## [BONUS #5]
 
-### 🎁 BONUS #5: Client Onboarding System and Delivery Frameworks
+### BONUS #5: Client Onboarding System and Delivery Frameworks
 
 Complete technical setup for quickly onboarding your clients, getting paid, and how best to deliver your coaching services without the overwhelm.
 
@@ -132,7 +127,7 @@ Complete technical setup for quickly onboarding your clients, getting paid, and 
 
 ## [FAST-ACTION BONUS]
 
-### 🔥 FAST-ACTION BONUS ONLY: One-Click Campaign Templates That Scale
+### BONUS: One-Click Campaign Templates That Scale
 
 Ready-to-launch campaign templates you can deploy immediately. Just plug in your offer and go.
 
@@ -178,13 +173,9 @@ Ready-to-launch campaign templates you can deploy immediately. Just plug in your
 
 ### What Sprint Members Are Saying:
 
-> "Finally launched my offer after months of overthinking. Had my first paying client within 2 weeks."
-> — *[Add real testimonial when available]*
+**DEVELOPER: DO NOT PUBLISH PLACEHOLDER QUOTES. Either replace with real testimonials or remove this entire section from the live page.**
 
-> "The accountability was exactly what I needed. Michael's feedback on my landing page made all the difference."
-> — *[Add real testimonial when available]*
-
-*[Developer note: Remove this section entirely if no testimonials available yet. Do not use placeholder quotes on live page.]*
+*[Add real Sprint member testimonials here when available.]*
 
 ---
 
@@ -202,7 +193,7 @@ Ready-to-launch campaign templates you can deploy immediately. Just plug in your
 
 ## [OFFER BOX]
 
-**🔔 NEW MEMBER ONE TIME OFFER:**
+**NEW MEMBER ONE TIME OFFER:**
 
 # GET INSTANT ACCESS TO THE COMPLETE CLIENT READY SPRINT
 
@@ -240,7 +231,7 @@ Ready-to-launch campaign templates you can deploy immediately. Just plug in your
 
 ---
 
-**🛡️ GUARANTEE:** Launch your validated offer in 30 days — or Michael keeps working with you until you do.
+**GUARANTEE:** Launch your validated offer in 30 days — or Michael keeps working with you until you do.
 
 ---
 

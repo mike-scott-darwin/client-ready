@@ -18,14 +18,13 @@ Complete page copy in order. Ready for developer implementation.
 
 ## [TOP BAR]
 
-**IMPORTANT:** DO NOT CLOSE THIS WINDOW OR CLICK THE 'BACK BUTTON'
-Your order is 100% secure, but it's not complete yet. Watch the welcome message below to proceed to the next page.
+Your order is processing. Watch the message below while we set up your access.
 
 ---
 
 ## [HERO SECTION]
 
-**🔊 PLAY THE VIDEO TO TURN ON SOUND**
+**PLAY THE VIDEO TO TURN ON SOUND**
 
 # GET YOUR COMPLETE CUSTOM FUNNEL BLUEPRINT — BUILT BY MICHAEL, READY TO IMPLEMENT
 
@@ -39,9 +38,9 @@ Please Watch This Short Video In Full While Your Account Is Being Created.
 
 ## [HEADLINE AFTER VIDEO]
 
-**🔔 NEW MEMBER ONE TIME OFFER:**
+**NEW MEMBER ONE TIME OFFER:**
 
-# WHAT IF YOUR ENTIRE FUNNEL STRATEGY WAS DONE — AND ALL YOU HAD TO DO WAS IMPLEMENT IT?
+# YOUR COMPLETE FUNNEL STRATEGY — BUILT BY MICHAEL, READY TO IMPLEMENT
 
 ---
 
@@ -83,19 +82,19 @@ Here's everything included in your Blueprint:
 
 ## [9 COMPONENTS - ROW 1]
 
-### 🎯 1. Complete Offer Extraction + Positioning
+### 1. Complete Offer Extraction + Positioning
 
 I extract your Zone of Genius, identify your ONE problem, and build a complete offer document that positions you as the obvious choice. This is the foundation everything else is built on.
 
 ---
 
-### 📄 2. Full Landing Page Copy
+### 2. Full Landing Page Copy
 
 A complete long-form sales page — written, structured, and ready to paste into your page builder. 20 headline options included so you can test what converts best.
 
 ---
 
-### 💰 3. Order Bump Strategy + Copy
+### 3. Order Bump Strategy + Copy
 
 3 order bumps designed and written specifically for your offer. Strategy document explains why each bump works and how they stack to increase your average order value.
 
@@ -103,19 +102,19 @@ A complete long-form sales page — written, structured, and ready to paste into
 
 ## [9 COMPONENTS - ROW 2]
 
-### 🛒 4. Checkout Optimization
+### 4. Checkout Optimization
 
 Copy and layout recommendations for your checkout page. Where to place bumps, what proof elements to include, how to reduce cart abandonment.
 
 ---
 
-### ✉️ 5. 10-Day Email Welcome Sequence
+### 5. 10-Day Email Welcome Sequence
 
 Fully written. Day-by-day. Subject lines, body copy, CTAs. Takes your new buyer from "just purchased" to "ready for the next offer" — on autopilot.
 
 ---
 
-### 🔄 6. Ascension + Recovery Emails
+### 6. Ascension + Recovery Emails
 
 Missed upsell recovery sequences and ascension emails that bring buyers back to offers they skipped. These are the emails most coaches never write — and where significant revenue hides.
 
@@ -123,25 +122,25 @@ Missed upsell recovery sequences and ascension emails that bring buyers back to 
 
 ## [9 COMPONENTS - ROW 3]
 
-### 📢 7. Ad Creative Direction
+### 7. Ad Creative Direction
 
 10 hook variations, 5 primary text options, and image/video guidelines. Not vague "tips" — specific copy you can hand to a designer or run yourself.
 
 ---
 
-### 🗺️ 8. Messaging Map
+### 8. Messaging Map
 
 One document that keeps your copy consistent across every touchpoint — landing page, emails, ads, social. Core messages, channel adaptations, copy-paste snippets.
 
 ---
 
-### 🔍 9. Market Research + ICP Analysis
+### 9. Market Research + ICP Analysis
 
 Detailed ideal client research. Competitive landscape. Positioning opportunities. This is the homework most coaches skip — and it's why their copy falls flat.
 
 ---
 
-### 🚀 BONUS: GHL Snapshot — Your Starter Funnel Template
+### BONUS: GHL Snapshot — Your Starter Funnel Template
 
 You also get my pre-built GoHighLevel snapshot — a ready-made funnel template you load into your account. Paste your custom blueprint copy into the snapshot and you're live. No building pages from scratch.
 
@@ -157,7 +156,7 @@ You also get my pre-built GoHighLevel snapshot — a ready-made funnel template 
 
 ✅ You're ready to implement and launch — you just need the blueprint
 
-✅ You want Michael personally creating your strategy (not AI-generated fluff)
+✅ You want Michael personally creating your strategy (not generic templates — custom to your business)
 
 ✅ You have expertise and clients would pay — you just need the funnel plan
 
@@ -169,7 +168,7 @@ You also get my pre-built GoHighLevel snapshot — a ready-made funnel template 
 
 ❌ You're not ready to launch within the next 30 days
 
-❌ You don't have clarity on your expertise yet (start with the $47 system first)
+❌ You don't have clarity on your expertise yet (work through the Client Ready Offer first — the onboarding form takes 15 minutes after that)
 
 ❌ You're looking for a magic button — this still requires your input on the onboarding form
 
@@ -183,9 +182,9 @@ We walk through your entire blueprint together. Implementation questions answere
 
 ---
 
-**REGULAR PRICE: ~~$997~~**
+# $397 ONE-TIME
 
-# ONLY A ONE TIME INVESTMENT OF $397
+*No subscription. Custom strategy delivered in 30 days.*
 
 ---
 

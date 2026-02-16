@@ -38,9 +38,7 @@ linked_research:
 
 ---
 
-You just grabbed the Client Ready Offer System. Smart move.
-
-Here's what usually happens next for most coaches:
+When you're ready to build your funnel, here's what usually happens for most coaches:
 
 ❌ They open a blank Google Doc and freeze
 ❌ They spend 3 days "figuring out" the landing page
@@ -110,7 +108,7 @@ Document who actually buys — role, situation, trigger event, objections, resul
 
 ## This Is About Momentum
 
-You validated your offer. Now speed matters.
+When you're ready to implement, speed matters.
 
 Every day you spend "figuring out" the funnel is a day you're not selling.
 

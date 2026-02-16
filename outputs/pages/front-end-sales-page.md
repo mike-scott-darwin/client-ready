@@ -284,7 +284,7 @@ changes: Removed No-Phone Offer framing throughout. Aligned to Client Ready Offe
 
 > Or skip the hustle and go straight to getting paid for what you're worth by solving your clients' most burning problem TODAY and then re-selling them to solve more problems to become a long term client.
 
-> The Client Ready Offer isn't just a business strategy. It's freedom from the "business as usual" model that's keeping you guessing where your next client is going to come from and one bad decision away from quitting and going back to your corporate job.
+> The Client Ready Offer replaces guesswork with a system. You stop hoping. You start knowing.
 
 > Ready to stop hoping your offer will convert and start getting paid?
 
@@ -299,7 +299,7 @@ changes: Removed No-Phone Offer framing throughout. Aligned to Client Ready Offe
 
 > HERE'S EVERYTHING YOU'RE GETTING INSIDE CLIENT READY OFFER
 
-> Here's the complete system that's helped 150+ experts stop giving away their expertise for free and start generating 100+ sales a day.
+> Here's the complete system that helps coaches stop giving away their expertise for free and start generating sales consistently.
 
 [Use the creative mockup image showing "The Client Ready Offer" with the 5 component boxes around it]
 
@@ -357,7 +357,7 @@ Collection of proven AI prompts that extract profitable offer ideas from your ex
 INCLUDED FREE
 
 ### Bonus 2: 55+ High-Converting Hooks & Fill in the Blanks Headlines
-Proven headline formulas and hooks that stop scrolling and convert cold traffic into buyers instantly. Just fill in your details and launch.
+Proven headline formulas and hooks that stop scrolling and convert cold traffic into buyers fast. Just fill in your details and launch.
 INCLUDED FREE
 
 ### Bonus 3: Client Ready Offer Scorecard
@@ -385,7 +385,7 @@ Map your customer's complete transformation journey to identify every profitable
 INCLUDED FREE
 
 ### Bonus 9: Lifetime Direct Email Support Access
-Get your questions answered as you build your Client Ready ecosystem — direct support to ensure your success with no time limits. For a lifetime.
+Get your questions answered as you build your Client Ready ecosystem — direct support as you build, with no time limits. For a lifetime.
 INCLUDED FREE
 
 ---
@@ -482,12 +482,12 @@ INCLUDED FREE
 ### Bump 1: Quick Win DM Scripts — $37 (was $97)
 
 > **YES! Add Quick Win DM Scripts ($37)**
-> Start sales conversations TODAY while you build. 5 copy-paste scripts for warm outreach — first conversation in 5 minutes. ~~$497~~ → $97
+> Start sales conversations TODAY while you build. 10 copy-paste scripts for warm outreach — first conversation in 5 minutes. ~~$197~~ → $37
 
 ### Bump 2: Plug & Play Templates — $67 (was $197)
 
 > **YES! Add Plug & Play Templates ($67)**
-> Don't start from scratch. Complete offer document template (with filled example), landing page swipe files, 30-day evergreen email sequence, messaging maps, and copy-paste headlines. ~~$497~~ → $97
+> Don't start from scratch. Complete offer document template (with filled example), landing page swipe files, 30-day evergreen email sequence, messaging maps, and copy-paste headlines. ~~$297~~ → $67
 
 ### Bump 3: The First $5K Client Playbook — $97 (was $297)
 
