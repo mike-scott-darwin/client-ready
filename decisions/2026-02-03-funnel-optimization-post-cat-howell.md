@@ -1,6 +1,6 @@
 ---
 type: decision
-status: active
+status: superseded
 date: 2026-02-03
 linked_research:
   - research/2026-02-03-cat-howell-hotseat-scaling.md

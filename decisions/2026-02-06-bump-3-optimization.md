@@ -1,7 +1,7 @@
 ---
 type: decision
 date: 2026-02-06
-status: open
+status: codified
 urgency: high
 linked_research:
   - research/2026-02-06-cat-howell-aov-benchmarks.md

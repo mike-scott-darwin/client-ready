@@ -1,7 +1,7 @@
 ---
 type: decision
 date: 2026-01-25
-status: pending
+status: superseded
 linked_research:
   - research/2026-01-25-self-liquidating-offers-claude-code.md
   - research/2026-01-23-cat-howell-low-ticket-ecosystem.md

@@ -1,7 +1,7 @@
 ---
 type: decision
 date: 2026-02-06
-status: active
+status: superseded
 urgency: high
 ---
 
