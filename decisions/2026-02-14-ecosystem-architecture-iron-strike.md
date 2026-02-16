@@ -1,7 +1,7 @@
 ---
 type: decision
 date: 2026-02-14
-status: accepted
+status: codified
 urgency: high
 linked_research:
   - research/2026-02-14-low-ticket-to-high-ticket-ecosystem-gemini.md

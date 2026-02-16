@@ -35,13 +35,14 @@ Decision rationale: `decisions/2026-02-01-angle-prioritization.md`
 
 ---
 
-### 2. The "15 Minutes" Angle
-**Hook:** "Create your complete offer document in 15 minutes"
+### 2. The "One Afternoon" Angle
+**Hook:** "Validate your offer in one afternoon"
 
 **Why it works:**
-- Specific timeframe (not "fast" — exactly 15 minutes)
-- Implies simplicity
+- Specific but realistic timeframe
+- Implies simplicity without overpromising
 - Counters the "it takes months" belief
+- Consistent across all ad batches and sales page
 
 **Use in:** Lead magnet, $47 offer, ads
 

@@ -190,7 +190,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 
 ---
 
-### Tier 4: $5K — Client Ready Accelerator (No-Phone Offer)
+### Tier 4: $5K — Client Ready Accelerator
 
 **Price:** $5,000 one-time
 **Format:** Done-with-you intensive

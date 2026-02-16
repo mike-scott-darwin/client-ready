@@ -124,7 +124,7 @@ Coaches and consultants validate a $5K+ offer they won't abandon — in one afte
 
 13. Charging premium rates doesn't require confidence. It requires an offer clear enough that the price makes sense. That's what this builds.
 
-14. Coaches who hate selling but need clients — this builds an offer clear enough that people come to you. No cold DMs required.
+14. Coaches who hate selling but need clients — this builds an offer clear enough that people come to you. No cold outreach required.
 
 15. Building alone with no feedback is why the offer stays fuzzy. 150+ coaches are inside working on their offers right now.
 

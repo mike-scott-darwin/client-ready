@@ -1,7 +1,7 @@
 ---
 type: decision
 date: 2026-02-15
-status: accepted
+status: codified
 urgency: high
 linked_decisions:
   - decisions/2026-02-01-bump-restructure.md
