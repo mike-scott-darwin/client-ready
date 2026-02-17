@@ -46,7 +46,6 @@ Go to **Settings → Tags** in GHL. Create each tag exactly as written (copy-pas
 - `purchased-community`
 
 ### Routing Tags
-- `buyer-core`
 - `non-buyer-sequence`
 - `buyer-30-day-complete`
 - `in-daily-broadcast`
@@ -57,7 +56,7 @@ Go to **Settings → Tags** in GHL. Create each tag exactly as written (copy-pas
 ### Accountability Tags
 - `needs-accountability-dm`
 
-**Total: 14 tags.**
+**Total: 13 tags.**
 
 ---
 
@@ -116,7 +115,7 @@ Click "+" after the trigger to add each step. Build this exact sequence:
 
 ```
 Step 1:  WAIT → Wait for 30 minutes
-Step 2:  IF/ELSE → Contact Tag → Has tag "buyer-core"
+Step 2:  IF/ELSE → Contact Tag → Has tag "purchased-47"
            ├── YES branch:
            │     Step 2a: REMOVE TAG → "non-buyer-sequence"
            │     (branch ends — workflow exits)
@@ -128,7 +127,7 @@ Step 3:  SEND EMAIL → NB01-soft-abandon.html
 
 Step 4:  WAIT → Wait 1 day (until 9:00 AM)
 
-Step 5:  IF/ELSE → Contact Tag → Has tag "buyer-core"
+Step 5:  IF/ELSE → Contact Tag → Has tag "purchased-47"
            ├── YES: REMOVE TAG "non-buyer-sequence" → End
            └── NO: continue
 
@@ -137,7 +136,7 @@ Step 6:  SEND EMAIL → NB02-cost-of-waiting.html
 
 Step 7:  WAIT → Wait 2 days (until 9:00 AM) [Day 4]
 
-Step 8:  IF/ELSE → Has tag "buyer-core"
+Step 8:  IF/ELSE → Has tag "purchased-47"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -146,7 +145,7 @@ Step 9:  SEND EMAIL → NB03-objection-killer.html
 
 Step 10: WAIT → Wait 2 days (until 9:00 AM) [Day 6]
 
-Step 11: IF/ELSE → Has tag "buyer-core"
+Step 11: IF/ELSE → Has tag "purchased-47"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -155,7 +154,7 @@ Step 12: SEND EMAIL → NB04-contrarian-hook.html
 
 Step 13: WAIT → Wait 2 days (until 9:00 AM) [Day 8]
 
-Step 14: IF/ELSE → Has tag "buyer-core"
+Step 14: IF/ELSE → Has tag "purchased-47"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -164,7 +163,7 @@ Step 15: SEND EMAIL → NB05-social-proof.html
 
 Step 16: WAIT → Wait 2 days (until 9:00 AM) [Day 10]
 
-Step 17: IF/ELSE → Has tag "buyer-core"
+Step 17: IF/ELSE → Has tag "purchased-47"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -173,7 +172,7 @@ Step 18: SEND EMAIL → NB06-direct-close.html
 
 Step 19: WAIT → Wait 4 days (until 9:00 AM) [Day 14]
 
-Step 20: IF/ELSE → Has tag "buyer-core"
+Step 20: IF/ELSE → Has tag "purchased-47"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -182,7 +181,7 @@ Step 21: SEND EMAIL → NB07-pivot-to-value.html
 
 Step 22: WAIT → Wait 2 days (until 9:00 AM) [Day 16]
 
-Step 23: IF/ELSE → Has tag "buyer-core"
+Step 23: IF/ELSE → Has tag "purchased-47"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -191,7 +190,7 @@ Step 24: SEND EMAIL → NB08-wrong-wrong-wrong.html
 
 Step 25: WAIT → Wait 3 days (until 9:00 AM) [Day 19]
 
-Step 26: IF/ELSE → Has tag "buyer-core"
+Step 26: IF/ELSE → Has tag "purchased-47"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -200,7 +199,7 @@ Step 27: SEND EMAIL → NB09-the-transformation.html
 
 Step 28: WAIT → Wait 3 days (until 9:00 AM) [Day 22]
 
-Step 29: IF/ELSE → Has tag "buyer-core"
+Step 29: IF/ELSE → Has tag "purchased-47"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -209,7 +208,7 @@ Step 30: SEND EMAIL → NB10-the-calculator.html
 
 Step 31: WAIT → Wait 4 days (until 9:00 AM) [Day 26]
 
-Step 32: IF/ELSE → Has tag "buyer-core"
+Step 32: IF/ELSE → Has tag "purchased-47"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -218,7 +217,7 @@ Step 33: SEND EMAIL → NB11-cant-go-it-alone.html
 
 Step 34: WAIT → Wait 4 days (until 9:00 AM) [Day 30]
 
-Step 35: IF/ELSE → Has tag "buyer-core"
+Step 35: IF/ELSE → Has tag "purchased-47"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -249,8 +248,8 @@ Step 37: REMOVE TAG → "non-buyer-sequence"
 
 ### Key Settings
 - **Send time:** 9:00 AM local (except NB01 which sends 30 min after abandon)
-- **Exit condition:** IF/ELSE checks for `buyer-core` before EVERY email
-- **If they buy at any point:** Workflow exits, tag gets removed, buyer workflows take over
+- **Exit condition:** IF/ELSE checks for `purchased-47` before EVERY email
+- **If they buy at any point:** Workflow exits, non-buyer tag gets removed, buyer workflows take over
 
 ---
 
@@ -267,72 +266,71 @@ Step 37: REMOVE TAG → "non-buyer-sequence"
 ### Build the Steps
 
 ```
-Step 1:  ADD TAG → "buyer-core"
-Step 2:  REMOVE TAG → "non-buyer-sequence" (cleanup — may not exist, that's fine)
-Step 3:  REMOVE TAG → "lead" (cleanup)
+Step 1:  REMOVE TAG → "non-buyer-sequence" (cleanup — may not exist, that's fine)
+Step 2:  REMOVE TAG → "lead" (cleanup)
 
-Step 4:  SEND EMAIL → BW01-welcome-quick-win.html
+Step 3:  SEND EMAIL → BW01-welcome-quick-win.html
            Subject: "You're in — here's your first win"
            (Send immediately — don't wait)
 
-Step 5:  WAIT → Wait 1 day (until 8:00 AM) [Day 2]
+Step 4:  WAIT → Wait 1 day (until 8:00 AM) [Day 2]
 
-Step 6:  SEND EMAIL → BW02-origin-story.html
+Step 5:  SEND EMAIL → BW02-origin-story.html
            Subject: "Why I do this (honest answer)"
 
-Step 7:  WAIT → Wait 1 day (until 8:00 AM) [Day 3]
+Step 6:  WAIT → Wait 1 day (until 8:00 AM) [Day 3]
 
          ┌─── CONSUMPTION BRANCH ───┐
-Step 8:  IF/ELSE → Contact Tag → Has tag "product-accessed"
+Step 7:  IF/ELSE → Contact Tag → Has tag "product-accessed"
            ├── YES (opened product):
-           │     Step 8a: SEND EMAIL → BW03a-advanced-tips.html
+           │     Step 7a: SEND EMAIL → BW03a-advanced-tips.html
            │              Subject: "Now that you've started — get the most out of Prompt 3"
            └── NO (hasn't opened):
-                 Step 8b: SEND EMAIL → BW03b-quick-start.html
+                 Step 7b: SEND EMAIL → BW03b-quick-start.html
                           Subject: "Haven't started yet? Here's the 5-minute version"
          └─── BOTH PATHS CONTINUE ──┘
 
-Step 9:  WAIT → Wait 1 day (until 8:00 AM) [Day 4]
+Step 8:  WAIT → Wait 1 day (until 8:00 AM) [Day 4]
 
-Step 10: SEND EMAIL → BW04-common-mistake.html
+Step 9:  SEND EMAIL → BW04-common-mistake.html
            Subject: "The mistake that cost me 6 months"
 
-Step 11: WAIT → Wait 1 day (until 8:00 AM) [Day 5]
+Step 10: WAIT → Wait 1 day (until 8:00 AM) [Day 5]
 
-Step 12: SEND EMAIL → BW05-quick-tip.html
+Step 11: SEND EMAIL → BW05-quick-tip.html
            Subject: "The 2-minute test for your offer"
            (Includes soft ascension P.S. — Sprint link)
 
-Step 13: WAIT → Wait 1 day (until 8:00 AM) [Day 6]
+Step 12: WAIT → Wait 1 day (until 8:00 AM) [Day 6]
 
-Step 14: SEND EMAIL → BW06-transformation-story.html
+Step 13: SEND EMAIL → BW06-transformation-story.html
            Subject: "From stuck to first client in 30 days"
 
-Step 15: WAIT → Wait 1 day (until 8:00 AM) [Day 7]
+Step 14: WAIT → Wait 1 day (until 8:00 AM) [Day 7]
 
-Step 16: SEND EMAIL → BW07-behind-the-scenes.html
+Step 15: SEND EMAIL → BW07-behind-the-scenes.html
            Subject: "What my morning actually looks like"
            (Includes soft ascension P.S. — Sprint/Blueprint links)
 
-Step 17: WAIT → Wait 1 day (until 8:00 AM) [Day 8]
+Step 16: WAIT → Wait 1 day (until 8:00 AM) [Day 8]
 
-Step 18: SEND EMAIL → BW08-faq-objection.html
+Step 17: SEND EMAIL → BW08-faq-objection.html
            Subject: "What if I'm not ready?"
 
-Step 19: WAIT → Wait 1 day (until 8:00 AM) [Day 9]
+Step 18: WAIT → Wait 1 day (until 8:00 AM) [Day 9]
 
-Step 20: SEND EMAIL → BW09-the-roadmap.html
+Step 19: SEND EMAIL → BW09-the-roadmap.html
            Subject: "What happens after $47"
            (Includes explicit Sprint vs Blueprint comparison CTA)
 
-Step 21: WAIT → Wait 1 day (until 8:00 AM) [Day 10]
+Step 20: WAIT → Wait 1 day (until 8:00 AM) [Day 10]
 
-Step 22: SEND EMAIL → BW10-community-invite.html
+Step 21: SEND EMAIL → BW10-community-invite.html
            Subject: "Come hang out"
 
-Step 23: ADD TAG → "buyer-30-day-complete"
+Step 22: ADD TAG → "buyer-30-day-complete"
 
-Step 24: ADD TAG → "in-daily-broadcast"
+Step 23: ADD TAG → "in-daily-broadcast"
 
 (Workflow ends)
 ```
@@ -798,7 +796,7 @@ What someone who entered their email but didn't buy receives:
 Test with a real contact (yourself or a test email) through each path:
 
 ### Pre-Launch
-- [ ] All 14 tags created in GHL (including `product-accessed` and `needs-accountability-dm`)
+- [ ] All 13 tags created in GHL (including `product-accessed` and `needs-accountability-dm`)
 - [ ] All 9 triggers created and active (8 purchase + 1 routing)
 - [ ] Product access link in BW01 is a GHL tracked link → triggers `product-accessed` tag
 - [ ] All 8 workflows built and set to ACTIVE
@@ -808,13 +806,12 @@ Test with a real contact (yourself or a test email) through each path:
 - [ ] Verify `lead` tag applied
 - [ ] Verify `non-buyer-sequence` tag applied (from trigger)
 - [ ] Wait 30 min — verify NB01 sends
-- [ ] Verify purchase check works: manually add `buyer-core` tag → confirm workflow exits
+- [ ] Verify purchase check works: manually add `purchased-47` tag → confirm workflow exits
 
 ### Test Path 2: Buyer (No Bumps)
 - [ ] Complete $47 purchase (no bumps)
 - [ ] Verify `purchased-47` tag applied
-- [ ] Verify `non-buyer-sequence` removed (by Buyer Welcome workflow Step 2)
-- [ ] Verify `buyer-core` added (from Buyer Welcome workflow Step 1)
+- [ ] Verify `non-buyer-sequence` removed (by Buyer Welcome workflow Step 1)
 - [ ] Verify BW01 sends immediately
 - [ ] Verify Bump Recovery starts (BR01 on Day 2 at 2 PM)
 - [ ] Verify OTO Recovery starts (OR01 on Day 3 at 2 PM)
@@ -872,7 +869,7 @@ Test with a real contact (yourself or a test email) through each path:
 
 **Contact getting duplicate emails:**
 - Check they're not in both non-buyer AND buyer sequences (trigger should remove `non-buyer-sequence` on purchase)
-- Verify the Buyer Welcome workflow removes `non-buyer-sequence` tag (Step 2)
+- Verify the Buyer Welcome workflow removes `non-buyer-sequence` tag (Step 1)
 
 **Contact not receiving emails:**
 - Check tag was added correctly (Settings → Tags → click tag → see contacts)
