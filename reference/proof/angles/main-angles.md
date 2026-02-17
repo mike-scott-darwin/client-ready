@@ -98,6 +98,13 @@ Decision rationale: `decisions/2026-02-01-angle-prioritization.md`
 
 ## Secondary Angles (To Test)
 
+### The "Don't Buy This" Angle (2026 Research)
+"Don't buy this system... if you hate having an offer that sells itself."
+- Reverse psychology — filters for high-intent buyers, increases curiosity
+- Per `research/2026-02-17-meta-ads-strategies-2026-gemini.md`
+- 3 variations in `one-liners-batch-001.md` (#31, #32, #33)
+- Best as ugly static format (Notes app screenshot or text-on-plain-background)
+
 ### The "No 47-Page Guide" Angle
 "Most guides are 47 pages long and leave you more confused than when you started."
 - Anti-complexity positioning

@@ -7,9 +7,13 @@ linked_research:
   - research/2026-01-25-self-liquidating-offers-claude-code.md
   - research/2026-01-25-miles-stutz-consolidated.md
   - research/2026-01-25-hernan-vazquez-competitor-mining.md
+  - research/2026-02-17-abo-vs-cbo-campaign-structure.md
+  - research/2026-02-17-andromeda-tiktok-mining.md
+  - research/2026-02-17-meta-ads-strategies-2026-gemini.md
 linked_decisions:
   - decisions/2026-02-01-angle-prioritization.md
   - decisions/2026-02-01-bump-restructure.md
+  - decisions/2026-02-17-ad-strategy-framework-update.md
 ---
 
 # Offer
@@ -54,7 +58,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - **Paid traffic over content merry-go-round** — Stop posting for 12 months hoping someone buys
 - **Validate before you build** — Know it works before investing in infrastructure
 - **Alignment + automation** — Not scale for scale's sake
-- **Self-liquidating checkout** — Front-end ($47) + bumps ($37/$67/$97) cover ad spend without OTOs. OTOs and backend are pure profit. Don't scale until checkout AOV is $90+.
+- **Self-liquidating checkout** — Front-end (~~$197~~ $47) + bumps ($37/$67/$97) + OTOs cover ad spend. Backend is pure profit. Don't scale until checkout AOV is $90+.
 
 ---
 
@@ -62,7 +66,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 
 ### Tier 1: Low-Ticket Funnel
 
-**Front-End: $47 — Client Ready Offer System**
+**Front-End: ~~$197~~ $47 — Client Ready Offer System**
 - PDF guide + AI prompts
 - 5 AI prompts that extract zone of genius, ideal client, pain points, story, and assemble complete offer
 - Step-by-step guide + offer document template
@@ -373,29 +377,86 @@ See: `reference/domain/funnel/email-rhythm.md` for full implementation details.
 
 ## Ad Strategy Framework
 
-**From Miles Stutz + Cat Howell research (Feb 2026).**
+**From Miles Stutz + Cat Howell + Andromeda/2026 deep research (Feb 2026).**
+
+### Post-Andromeda Principles
+
+These override all tactical advice below. If a tactic conflicts with these principles, the principle wins.
+
+1. **Creative IS targeting.** Post-Andromeda, Meta's algorithm operates at the account level. Your ad copy and visuals are the primary audience signal. Broad targeting is the default.
+2. **Radical Creative Variance.** Testing minor variations (button colors, slight copy tweaks) is dead. Test entirely different concepts — Silent Review vs Founder Story vs Problem/Solution — to reach different pockets of the broad audience.
+3. **What's NOT working in 2026:** Interest stacking (restricts AI, raises CPMs), micro-budget ad sets ($5/day never exits learning phase), naked VSL pages (video-only pages bounce hard), manual placements ("Feed Only" is a mistake — Advantage+ Placements finds cheaper inventory), lookalikes as primary targeting (algorithm does it better automatically).
 
 ### Launch Strategy: Front-End First
 
-**Phase 1 (Launch):** Short-form sales page + 3 order bumps + thank you page. No OTOs. Prove the front-end converts before adding complexity. OTO pages (Sprint, Blueprint, Community) wait in reserve.
+**Phase 1 (Launch):** Short-form sales page + 3 order bumps + OTOs (Sprint, Blueprint, Community) + thank you page. Full funnel from day one.
 
-**Trigger to add OTOs:** 30+ sales AND AOV consistently $100+ from bumps alone.
+### Pre-Launch Requirements
 
-**Ascension still happens** — via email sequences and mid-funnel branding, not immediate post-purchase OTO pages.
+- **CAPI (Conversions API):** Server-side tracking that bypasses browser cookie blocking (iOS 14+). Improves "Event Match Quality" score, lowers CPMs. Set up before first dollar of ad spend.
+- **Hybrid VSL landing page** (see Landing Page Structure below)
+- **5-Second Test** passed on all pages (see below)
 
-### Ad Testing Structure
+### Three-Stage Campaign Pipeline
 
-- **Testing campaigns (ABO):** $50/ad set budget, 8-10 ads per ad set, launch 3 new ad sets per week
-- **Creative mix per ad set:** 2-3 B-roll videos with overlay text + 2-3 static images. Each creative gets one short-form copy and one long-form copy (= 8-10 ads total)
-- **Scale campaigns (CBO/ASC):** Pick monthly winners, move into Advantage Sales Campaign with one ad set, 5-6 winning ads inside, $100/day starting budget
-- **No separate retargeting in acquisition campaigns** — CBO/ASC handles it automatically
-- **Expect $2,000 of spend before judging** — learning phase is real, don't panic
+Not interchangeable. Each stage has a different job.
+
+**Stage 1: ABO Testing (Permanent Sandbox)**
+- Campaign type: ABO, Sales objective
+- One CONCEPT per ad set (Pain, Mechanism, Social Proof) — variants within
+- $50/day per ad set, 3 ad sets minimum
+- Launch 3 new ad sets per week
+- Creative mix per ad set: 2-3 B-roll videos with overlay text + 2-3 static images, each with short-form and long-form copy
+- Run 72 hours untouched before judging
+- **$20 rule for low-ticket:** Winners reveal themselves after ~$20 of spend per concept. Faster signal than higher-ticket offers.
+- This campaign NEVER turns off. It's your permanent testing sandbox.
+
+**Stage 2: CBO Winners**
+- Graduate winners from ABO via **Post ID extraction** (retains social proof — likes, comments, shares)
+- Broad CBO, one ad set, 5-6 winning ads inside
+- $100/day starting budget
+- Scale 20% every 2-3 days as long as CPA holds
+- **Cost Caps for scaling:** At higher spend, use Cost Caps (target CPA bidding) instead of Lowest Cost. Set cap slightly above target CPA — Meta only spends when it finds conversions at that price. Protects profitability on volatile days.
+- Need 10+ sales per creative before graduating to CBO (statistical significance)
+
+**Stage 3: ASC Scaling (Advantage+ Shopping)**
+- Only with matured pixel + proven creatives
+- Can lower CPA by 17-30% but: no audience targeting control (black box), struggles to exclude past purchasers, over-indexes on retargeting at low volume
+- Not interchangeable with CBO — this is the final stage, not an alternative to Stage 2
+
+### 70/20/10 Budget Split
+
+| Allocation | Budget | Campaign |
+|-----------|--------|----------|
+| Scaling | 70% | Broad CBO, best creatives |
+| Testing | 20% | ABO sandbox, new concepts |
+| Retargeting | 10% | Optional, or fold into scaling |
+
+**Launch phase flip:** At launch, reverse to 70% testing / 30% scaling (no winners yet). Shift ratio as winners emerge.
+
+For $150/day launch: $105 scaling / $30 testing / $15 retargeting. But flip at launch: $105 testing / $45 scaling.
 
 ### Targeting
 
+- Broad is default (creative IS targeting)
 - Always run one ad set worldwide (broader, cheaper CPMs)
 - Always run one ad set high-income countries only: US, UK, Canada, Germany
 - Compare performance between the two — worldwide often has lower CTR but cheaper CPA
+- No separate retargeting in acquisition campaigns — the algorithm handles it within broad (allocates 20-30% of spend automatically)
+
+### Creative Format Rankings (2026)
+
+1. **"Ugly" static text-on-background** — Notes app screenshots, tweet formats, high-contrast text on plain backgrounds. Driving 60-70% of conversions for many accounts. They read as content, not ads.
+2. **Silent Review** — Screen recording of the product (PDF, prompts, templates) without speaking. Facial reactions + text overlay only. Feels native, breaks the pattern of "shouting" marketers. TikTok-native, high trust.
+3. **B-roll with text overlay** — Still strong, already in the framework.
+4. **Founder face-to-camera** — Essential for brand building, not the best performer for cold traffic.
+5. **AI UGC** — Good for volume testing ($100 vs $1000 per asset) but buyers spot deepfakes.
+6. **Human UGC** — Highest trust for hero assets.
+
+**Client Ready applications:**
+- **Silent Review:** Screen recording of the 5 AI prompts in action, or scrolling through the offer document template with reaction shots and text overlay.
+- **Ugly static:** One-liners batch screenshotted as Notes app entries or tweet formats.
+- **"Don't Buy This" hook:** "Don't buy this system... if you hate having an offer that sells itself." Reverse psychology — filters for high-intent buyers, increases curiosity.
 
 ### CPA Decision Thresholds
 
@@ -411,11 +472,25 @@ For your funnel (AOV $100-120):
 
 > "If you spend $300 without a sale, change the snack. Don't optimize — change the offer."
 
+**$20 rule (low-ticket shortcut):** For a $47 product, winners reveal themselves after ~$20 of spend per concept. If a concept hasn't shown signal by $20, it's probably not going to.
+
 **Testing priority when stuck:**
 1. Offer (biggest impact)
 2. Headline
 3. Price
 4. Design
+
+### Landing Page Structure: Hybrid VSL
+
+Naked VSLs (video-only pages) are dying — high bounce rates from cold traffic. The winning format is the Hybrid VSL:
+
+1. **Headline** — Big promise, visible instantly
+2. **VSL video** — 5-15 min, founder + B-roll of product
+3. **Long-form text** — Entire script adapted to readable copy BELOW the video
+4. **Visual evidence** — GIFs/screenshots of the actual product being used (the PDF, the AI prompts, the offer document template)
+5. **Mobile-first** — 80%+ of traffic is mobile
+
+**Why it works:** Buyers who won't watch a video can still read the pitch. Visual evidence proves the product is REAL. Your case study and personal story are defensible assets that AI-generated ads can't replicate.
 
 ### Target Metrics
 

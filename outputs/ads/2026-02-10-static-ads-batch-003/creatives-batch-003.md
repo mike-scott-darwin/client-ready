@@ -428,6 +428,17 @@ Warm off-white textured background. Large decorative teal quotation marks at top
 - **Short-forms** share the same image as their parent primary.
 - **Headlines** are separate text — they sit above the image in Meta Ads Manager, not on the image.
 
+### Radical Creative Variance (Feb 2026 Research Update)
+
+Per `research/2026-02-17-meta-ads-strategies-2026-gemini.md`: Test entirely different FORMAT CATEGORIES against each other in separate ABO ad sets:
+
+1. **"Ugly" static** (Notes app screenshots, tweet format) — #1 performing format in 2026
+2. **Silent Review** (screen recording + face reactions, no speaking) — #2 performing format
+3. **Polished static** (this batch) — still valid, ranked #4
+4. **B-roll with text overlay** — strong, needs footage produced
+
+These polished creatives serve a different pocket of the broad audience. Test ugly static and Silent Review ALONGSIDE them as separate concepts. See `ugc-creative-shot-list.md` for full production guides.
+
 ## Ideogram Settings
 
 When generating in Ideogram:

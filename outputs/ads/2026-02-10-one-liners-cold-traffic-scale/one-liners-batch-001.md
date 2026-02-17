@@ -78,6 +78,9 @@ Coaches and consultants validate a $5K+ offer they won't abandon — in one afte
 | 28 | Curiosity/Reframe | Offer vs funnel |
 | 29 | Transformation | Paid traffic result |
 | 30 | Problem Agitation | Guru fatigue |
+| 31 | Reverse Psychology | Offer clarity |
+| 32 | Reverse Psychology | Content fatigue |
+| 33 | Reverse Psychology | Self-qualification |
 
 ---
 
@@ -89,10 +92,17 @@ Coaches and consultants validate a $5K+ offer they won't abandon — in one afte
 
 **Ultra-short video candidates:** Any line under 20 words can be animated over 4-6 seconds as a thumb-stopper. Body copy = matching long-form primary.
 
+**"Ugly Static" format (2026 research — #1 performing creative format):**
+Every one-liner below is a candidate for Notes app screenshot, tweet screenshot, or text-on-plain-background. See `ugc-creative-shot-list.md` for production instructions. Best candidates: #1, #2, #19, #25, #28, #31, #32, #33.
+
+**"Don't Buy This" reverse psychology hooks (lines 31-33):**
+Per `research/2026-02-17-meta-ads-strategies-2026-gemini.md` — filters for high-intent buyers, increases curiosity. Run as ugly static or text overlays.
+
 **Angle clusters for expansion (Part 16):**
 - **Course Graveyard** (lines 3, 6, 11, 30) — potential 4th full copy block
 - **Side Hustle Identity** (lines 10, 22) — potential 5th full copy block
 - **Anti-Guru** (lines 25, 28, 30) — potential 6th full copy block
+- **"Don't Buy This"** (lines 31, 32, 33) — potential reverse psychology concept block
 
 ---
 
@@ -157,3 +167,9 @@ Coaches and consultants validate a $5K+ offer they won't abandon — in one afte
 29. I stopped posting daily and ran ads to a validated offer instead. Having a clear offer changed everything. Yours starts with getting the offer right.
 
 30. Bought another expert's playbook. Followed the steps. Didn't work. Because it wasn't built around what makes you different. This system extracts that first.
+
+31. Don't buy this system. Seriously. Not if you love explaining your offer for 4 minutes and watching people's eyes glaze over. `"DON'T BUY THIS" HOOK — reverse psychology, high-intent filter`
+
+32. Don't buy this if you hate having an offer that sells itself. Keep guessing. Keep posting. Keep hoping. `"DON'T BUY THIS" HOOK`
+
+33. Don't buy this if you already know exactly what you sell, who it's for, and can say it in one sentence. You don't need it. Everyone else does. `"DON'T BUY THIS" HOOK`

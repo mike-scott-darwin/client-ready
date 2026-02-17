@@ -209,3 +209,91 @@ The 5 USV scripts from batch 003 work best as:
 - **Screen recording:** Show the AI extracting an offer while the line appears as text overlay
 
 These replace the need for any AI-generated animated clips.
+
+---
+
+## "UGLY" STATIC FORMAT (2026 Research — #1 Performing Format)
+
+Per `research/2026-02-17-meta-ads-strategies-2026-gemini.md`: "Ugly" static ads — Notes app screenshots, tweet formats, text-on-plain-background — are driving 60-70% of conversions for many accounts. They read as content, not ads.
+
+**These are different from the polished text overlays in batch 003.** The point is they look like someone just typed a thought and screenshotted it. No brand colors. No design.
+
+### Format A: Notes App Screenshot
+1. Open iPhone Notes app
+2. Type one of the one-liners from `one-liners-batch-001.md`
+3. Screenshot the note
+4. Run as-is — no cropping, no editing, no brand overlay
+
+**Best one-liners for this format:**
+- #1: "Most coaches can't explain their offer in one sentence. 5 AI prompts fix that in an afternoon."
+- #2: "Posting 3x a week for 12 months and nobody's buying. It's not the algorithm. It's the offer underneath."
+- #19: "Be consistent and the clients will come." — Consistency without a clear offer just creates more content nobody buys.
+- #25: "The market doesn't reward harder work. It rewards clearer offers."
+- #28: "Everyone's selling you funnels. Nobody's asking if you have an offer worth building one for."
+
+### Format B: Tweet Screenshot
+1. Type one-liner as a tweet (or tweet-format image in Canva — dark mode preferred)
+2. Include profile pic and name (Michael Scott) for authenticity
+3. Screenshot or export
+4. No hashtags, no call to action — just the thought
+
+### Format C: Text-on-Plain Background
+1. Open Canva, white or black background
+2. Type one line in a clean font (no brand typography)
+3. High contrast: white text on black, or black text on white
+4. No logo, no brand colors, no design elements
+5. Should look like it took 10 seconds to make
+
+**Production time:** 15 minutes for 10 variations. These are the fastest creative assets to produce and test.
+
+**Testing note:** Per Radical Creative Variance principle, test these as an entirely separate CONCEPT from polished graphics (batch 003/004). Run ugly static vs. polished graphic vs. Silent Review as separate ad sets in ABO.
+
+---
+
+## SILENT REVIEW FORMAT (2026 Research — #2 Performing Format)
+
+Per `research/2026-02-17-meta-ads-strategies-2026-gemini.md`: User scrolls through the product without speaking — facial expressions + text overlays only. Feels native, lowers sales resistance.
+
+### Shot List
+
+**Silent Review 001: AI Prompts Walkthrough**
+- Screen record the 5 AI prompts being used in real time
+- Camera: split screen or picture-in-picture showing your face reacting
+- Text overlays: "This is the zone of genius extraction..." → "Now it's mapping pain points..." → "And here's the complete offer document"
+- NO SPEAKING. Facial reactions only (surprise, nodding, pointing at screen)
+- Duration: 30-60 seconds
+- Music: Trending TikTok background audio or ambient
+
+**Silent Review 002: Offer Document Scroll**
+- Screen record scrolling through a completed offer document template
+- Camera: face reaction in corner (optional)
+- Text overlays: "This is what clarity looks like" → "One afternoon" → "$47"
+- Duration: 15-30 seconds
+
+**Silent Review 003: Before/After Scroll**
+- Part 1: Scroll through a messy, vague "offer brainstorm" (sticky notes, crossed-out ideas)
+- Part 2: Scroll through the clean, finished offer document
+- Text overlay: "Before the system" → "After one afternoon"
+- Duration: 15-30 seconds
+
+### Production Notes
+- Film with iPhone in portrait (9:16)
+- CapCut or InShot for text overlays + picture-in-picture
+- No ring light — natural light, authentic setting
+- The worse the "production quality," the better it performs
+- **Body copy below:** Pair with any long-form primary from batches 002-004
+
+---
+
+## CREATIVE FORMAT TESTING HIERARCHY (Per 2026 Research)
+
+Test these as SEPARATE CONCEPTS in separate ABO ad sets (Radical Variance principle).
+
+| Priority | Format | Assets Needed | Production Time |
+|----------|--------|---------------|-----------------|
+| 1 | Ugly static (Notes/tweet/plain text) | One-liners screenshotted | 15 min |
+| 2 | Silent Review | Screen recording + face cam | 1-2 hours |
+| 3 | B-roll with text overlay | Stock footage + CapCut | 1-2 hours |
+| 4 | Polished static (batch 003/004 graphics) | Ideogram/Canva | Already done |
+| 5 | Founder face-to-camera | iPhone selfie video | 30 min |
+| 6 | UGC real photos (this shot list) | iPhone photos | 1 hour |
