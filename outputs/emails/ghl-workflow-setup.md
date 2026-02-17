@@ -19,7 +19,7 @@ Complete GoHighLevel workflow configuration for the Client Ready email backend. 
 | # | Workflow Name | Trigger | Emails | HTML Files |
 |---|---------------|---------|--------|------------|
 | 1 | Non-Buyer Nurture | Entered email, no purchase | 12 emails / 30 days | `nb-sequence/NB01-NB12` |
-| 2 | Buyer Welcome | Purchased $47 | 10 emails / 10 days (Day 3 branches) | `bw-sequence/BW01-BW10` + `BW03a/BW03b` |
+| 2 | Buyer Welcome | Tag: `purchased-47` | 10 emails / 10 days (Day 3 branches) | `bw-sequence/BW01-BW10` + `BW03a/BW03b` |
 | 3 | Bump Recovery | Purchased $47, missed bumps | 3 emails (Days 2,4,6) | `br-sequence/BR01-BR03` |
 | 4 | Bump Delivery | Purchased bump product | 3 emails (immediate) | `bd-sequence/BD01-BD03` |
 | 5 | OTO Recovery | Purchased $47, no Sprint/Blueprint | 3 emails (Days 3,5,7) | `or-sequence/OR01-OR03` |
@@ -48,7 +48,6 @@ Go to **Settings → Tags** in GHL. Create each tag exactly as written (copy-pas
 ### Routing Tags
 - `buyer-core`
 - `non-buyer-sequence`
-- `buyer-sequence`
 - `buyer-30-day-complete`
 - `in-daily-broadcast`
 
@@ -58,7 +57,7 @@ Go to **Settings → Tags** in GHL. Create each tag exactly as written (copy-pas
 ### Accountability Tags
 - `needs-accountability-dm`
 
-**Total: 15 tags.**
+**Total: 14 tags.**
 
 ---
 
@@ -89,14 +88,13 @@ One trigger per product. Each fires on **Payment Received** (or **Order Submitte
 
 ### Routing Triggers
 
-These chain off purchase tags to set up workflow routing:
+One routing trigger for non-buyers. Buyer routing is handled inside the Buyer Welcome workflow itself (no extra trigger needed).
 
 | # | Trigger Name | Event | Actions |
 |---|-------------|-------|---------|
 | 9 | Non-Buyer Start | Tag Added → `lead` | Add tag → `non-buyer-sequence` |
-| 10 | Buyer Start | Tag Added → `purchased-47` | Add `buyer-core`, `buyer-sequence`; Remove `non-buyer-sequence`, `lead` |
 
-**Total: 10 triggers.** That's it. Everything else happens inside workflows.
+**Total: 9 triggers.** That's it. Everything else happens inside workflows.
 
 ---
 
@@ -264,77 +262,77 @@ Step 37: REMOVE TAG → "non-buyer-sequence"
 
 ### Workflow Trigger
 - Type: **Tag Added**
-- Tag: `buyer-sequence`
+- Tag: `purchased-47`
 
 ### Build the Steps
 
 ```
-Step 1:  REMOVE TAG → "non-buyer-sequence" (cleanup — may not exist, that's fine)
+Step 1:  ADD TAG → "buyer-core"
+Step 2:  REMOVE TAG → "non-buyer-sequence" (cleanup — may not exist, that's fine)
+Step 3:  REMOVE TAG → "lead" (cleanup)
 
-Step 2:  SEND EMAIL → BW01-welcome-quick-win.html
+Step 4:  SEND EMAIL → BW01-welcome-quick-win.html
            Subject: "You're in — here's your first win"
            (Send immediately — don't wait)
 
-Step 3:  WAIT → Wait 1 day (until 8:00 AM) [Day 2]
+Step 5:  WAIT → Wait 1 day (until 8:00 AM) [Day 2]
 
-Step 4:  SEND EMAIL → BW02-origin-story.html
+Step 6:  SEND EMAIL → BW02-origin-story.html
            Subject: "Why I do this (honest answer)"
 
-Step 5:  WAIT → Wait 1 day (until 8:00 AM) [Day 3]
+Step 7:  WAIT → Wait 1 day (until 8:00 AM) [Day 3]
 
          ┌─── CONSUMPTION BRANCH ───┐
-Step 6:  IF/ELSE → Contact Tag → Has tag "product-accessed"
+Step 8:  IF/ELSE → Contact Tag → Has tag "product-accessed"
            ├── YES (opened product):
-           │     Step 6a: SEND EMAIL → BW03a-advanced-tips.html
+           │     Step 8a: SEND EMAIL → BW03a-advanced-tips.html
            │              Subject: "Now that you've started — get the most out of Prompt 3"
            └── NO (hasn't opened):
-                 Step 6b: SEND EMAIL → BW03b-quick-start.html
+                 Step 8b: SEND EMAIL → BW03b-quick-start.html
                           Subject: "Haven't started yet? Here's the 5-minute version"
          └─── BOTH PATHS CONTINUE ──┘
 
-Step 7:  WAIT → Wait 1 day (until 8:00 AM) [Day 4]
+Step 9:  WAIT → Wait 1 day (until 8:00 AM) [Day 4]
 
-Step 8:  SEND EMAIL → BW04-common-mistake.html
+Step 10: SEND EMAIL → BW04-common-mistake.html
            Subject: "The mistake that cost me 6 months"
 
-Step 9:  WAIT → Wait 1 day (until 8:00 AM) [Day 5]
+Step 11: WAIT → Wait 1 day (until 8:00 AM) [Day 5]
 
-Step 10: SEND EMAIL → BW05-quick-tip.html
+Step 12: SEND EMAIL → BW05-quick-tip.html
            Subject: "The 2-minute test for your offer"
            (Includes soft ascension P.S. — Sprint link)
 
-Step 11: WAIT → Wait 1 day (until 8:00 AM) [Day 6]
+Step 13: WAIT → Wait 1 day (until 8:00 AM) [Day 6]
 
-Step 12: SEND EMAIL → BW06-transformation-story.html
+Step 14: SEND EMAIL → BW06-transformation-story.html
            Subject: "From stuck to first client in 30 days"
 
-Step 13: WAIT → Wait 1 day (until 8:00 AM) [Day 7]
+Step 15: WAIT → Wait 1 day (until 8:00 AM) [Day 7]
 
-Step 14: SEND EMAIL → BW07-behind-the-scenes.html
+Step 16: SEND EMAIL → BW07-behind-the-scenes.html
            Subject: "What my morning actually looks like"
            (Includes soft ascension P.S. — Sprint/Blueprint links)
 
-Step 15: WAIT → Wait 1 day (until 8:00 AM) [Day 8]
+Step 17: WAIT → Wait 1 day (until 8:00 AM) [Day 8]
 
-Step 16: SEND EMAIL → BW08-faq-objection.html
+Step 18: SEND EMAIL → BW08-faq-objection.html
            Subject: "What if I'm not ready?"
 
-Step 17: WAIT → Wait 1 day (until 8:00 AM) [Day 9]
+Step 19: WAIT → Wait 1 day (until 8:00 AM) [Day 9]
 
-Step 18: SEND EMAIL → BW09-the-roadmap.html
+Step 20: SEND EMAIL → BW09-the-roadmap.html
            Subject: "What happens after $47"
            (Includes explicit Sprint vs Blueprint comparison CTA)
 
-Step 19: WAIT → Wait 1 day (until 8:00 AM) [Day 10]
+Step 21: WAIT → Wait 1 day (until 8:00 AM) [Day 10]
 
-Step 20: SEND EMAIL → BW10-community-invite.html
+Step 22: SEND EMAIL → BW10-community-invite.html
            Subject: "Come hang out"
 
-Step 21: REMOVE TAG → "buyer-sequence"
+Step 23: ADD TAG → "buyer-30-day-complete"
 
-Step 22: ADD TAG → "buyer-30-day-complete"
-
-Step 23: ADD TAG → "in-daily-broadcast"
+Step 24: ADD TAG → "in-daily-broadcast"
 
 (Workflow ends)
 ```
@@ -800,8 +798,8 @@ What someone who entered their email but didn't buy receives:
 Test with a real contact (yourself or a test email) through each path:
 
 ### Pre-Launch
-- [ ] All 15 tags created in GHL (including `product-accessed` and `needs-accountability-dm`)
-- [ ] All 10 triggers created and active (8 purchase + 2 routing)
+- [ ] All 14 tags created in GHL (including `product-accessed` and `needs-accountability-dm`)
+- [ ] All 9 triggers created and active (8 purchase + 1 routing)
 - [ ] Product access link in BW01 is a GHL tracked link → triggers `product-accessed` tag
 - [ ] All 8 workflows built and set to ACTIVE
 
@@ -815,8 +813,8 @@ Test with a real contact (yourself or a test email) through each path:
 ### Test Path 2: Buyer (No Bumps)
 - [ ] Complete $47 purchase (no bumps)
 - [ ] Verify `purchased-47` tag applied
-- [ ] Verify `non-buyer-sequence` removed (from trigger)
-- [ ] Verify `buyer-sequence` added (from trigger)
+- [ ] Verify `non-buyer-sequence` removed (by Buyer Welcome workflow Step 2)
+- [ ] Verify `buyer-core` added (from Buyer Welcome workflow Step 1)
 - [ ] Verify BW01 sends immediately
 - [ ] Verify Bump Recovery starts (BR01 on Day 2 at 2 PM)
 - [ ] Verify OTO Recovery starts (OR01 on Day 3 at 2 PM)
@@ -863,7 +861,7 @@ Test with a real contact (yourself or a test email) through each path:
 - [ ] Verify Buyer workflows start
 
 ### Post-Welcome
-- [ ] After Day 10: verify `buyer-sequence` removed
+- [ ] After Day 10: verify workflow completed
 - [ ] Verify `buyer-30-day-complete` added
 - [ ] Verify `in-daily-broadcast` added
 - [ ] Verify contact appears in Daily Broadcast segment
@@ -874,7 +872,7 @@ Test with a real contact (yourself or a test email) through each path:
 
 **Contact getting duplicate emails:**
 - Check they're not in both non-buyer AND buyer sequences (trigger should remove `non-buyer-sequence` on purchase)
-- Verify the "Buyer Start" trigger removes `non-buyer-sequence` tag
+- Verify the Buyer Welcome workflow removes `non-buyer-sequence` tag (Step 2)
 
 **Contact not receiving emails:**
 - Check tag was added correctly (Settings → Tags → click tag → see contacts)
