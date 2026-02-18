@@ -49,6 +49,28 @@ linked_decisions:
 
 The funnel isn't the point. The alignment is the point. The funnel is how we deliver freedom.
 
+### Messaging Bridge: Offer → Machine
+
+The front-end ($47) solves **what to sell.** The OTOs solve **how to sell it.** These are two halves of the same method, not two separate products.
+
+The bridge is a single idea planted throughout the buyer journey:
+
+> "A clear offer without a system to sell it is just a good idea sitting in a Google Doc. The system is a low-ticket funnel with paid ads."
+
+The buyer should arrive at the OTO page already thinking "I need a machine" — not hearing about it for the first time. But the front-end must still feel complete on its own. The bridge is a seed, not a pitch.
+
+**Touchpoints where the bridge appears:**
+1. Sales page mechanism section — name the full 4-step arc, explain why steps 3-4 come later
+2. Thank-you / delivery page — one bridge sentence before OTO
+3. Welcome emails Days 5/7/9 — reframe soft CTAs around the funnel gap
+4. OTO 1 page — open with the gap the front-end just created
+5. Recovery emails — reframe around "offer without a machine"
+6. Cold ads — "The Machine" angle targets coaches who have offers but no system
+
+**Calibration test:** Read the sales page and ask: "Would I feel satisfied buying ONLY the $47?" If yes, the bridge is right. If the $47 feels incomplete without the Sprint, pull back.
+
+Decision: `decisions/2026-02-17-funnel-ads-messaging-bridge.md`
+
 ---
 
 ## Key Philosophy

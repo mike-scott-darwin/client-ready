@@ -51,17 +51,19 @@ Get the complete funnel system, weekly calls with me, and direct access for 4 we
 
 Michael here...
 
-You just picked up the Client Ready Offer — the system for extracting and validating your offer.
+You just validated your offer. That's Step 1 — and most coaches never even get here.
 
-But here's what I've learned: **knowing what makes a clear offer and actually getting it in front of people are two different things.**
+But a clear offer without a machine to sell it is just a good idea sitting in a Google Doc.
 
-Most people spend weeks building funnels, writing sequences, and setting up systems after they validate. Many never launch at all.
+Step 2 is the machine: a simple funnel, paid ads, and an email system that puts your offer in front of buyers every day. **That's what the Sprint builds.**
+
+Most people spend weeks after validation trying to figure out funnels, writing sequences, and setting up systems on their own. Many never launch at all.
 
 Here's my honest interest in this: **I need you to succeed** — otherwise I can't build case studies or get referrals from your results.
 
-So I asked myself: **"How do I make sure people actually launch?"**
+So I asked myself: **"How do I make sure people actually build the machine?"**
 
-The answer: **Give them a complete funnel system AND work with them live for 4 weeks.**
+The answer: **Give them the complete system AND work with them live for 4 weeks.**
 
 That's the **Client Ready Sprint**. Instead of building everything yourself...
 

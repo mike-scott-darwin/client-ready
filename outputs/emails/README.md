@@ -80,6 +80,20 @@ Sprint/Blueprint buyers also get:
 
 ---
 
+## Messaging Bridge
+
+The $47 = "what to sell." The OTOs = "how to sell it." The bridge is **"the machine"** — a simple funnel, paid ads, and email system.
+
+- **Days 1-4:** No bridge. Relationship only.
+- **Days 5, 7, 9:** Seed "the machine" in the P.S. — never pitch.
+- **OTO Recovery:** Sprint/Blueprint = "build the machine." Explicit pitch.
+- **Bump Recovery / Delivery:** No bridge. Bumps are tools.
+- **Daily Broadcast:** Sprint/Blueprint days use machine framing.
+
+See `decisions/2026-02-17-funnel-ads-messaging-bridge.md` for rationale.
+
+---
+
 ## Strategy Reference
 
 See [reference/domain/funnel/email-rhythm.md](../../reference/domain/funnel/email-rhythm.md) for:

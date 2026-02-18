@@ -16,8 +16,9 @@ New angles developed from competitor analysis — see individual files for full 
 3. **[Content Merry-Go-Round](content-merry-go-round.md)** — Specific pain point, paid traffic as alternative
 
 4. **[Clarity Unlock](clarity-unlock.md)** — Testimonial-proven transformation (6/6 clients), earliest-stage entry point
+5. **[The Machine](the-machine.md)** — Bridges offer validation to funnel + ads system, targets coaches with offers but no delivery system
 
-Decision rationale: `decisions/2026-02-01-angle-prioritization.md`
+Decision rationale: `decisions/2026-02-01-angle-prioritization.md`, `decisions/2026-02-17-funnel-ads-messaging-bridge.md`
 
 ---
 

@@ -197,6 +197,8 @@ changes: Removed No-Phone Offer framing throughout. Aligned to Client Ready Offe
 > **Step 3:** You walk out with a complete offer document — validated, positioned, and ready to share.
 
 > That's it. No 8-module curriculum. No 47-page theory. A case study, 5 prompts, and a template.
+>
+> This is Step 1 of the Client Ready Method — extract and validate. Step 2 is the machine: a simple funnel and paid ads that put your offer in front of buyers every day. But you can't build a machine for an offer nobody wants. So we start here.
 
 ---
 
@@ -284,7 +286,7 @@ changes: Removed No-Phone Offer framing throughout. Aligned to Client Ready Offe
 
 > Or skip the hustle and go straight to getting paid for what you're worth by solving your clients' most burning problem TODAY and then re-selling them to solve more problems to become a long term client.
 
-> The Client Ready Offer replaces guesswork with a system. You stop hoping. You start knowing.
+> The Client Ready Offer replaces guesswork with a system. You stop hoping. You start knowing. And once you know what you're selling — and you've proven people want it — you're ready for the part that actually makes money: a machine that sells it for you while you sleep.
 
 > Ready to stop hoping your offer will convert and start getting paid?
 

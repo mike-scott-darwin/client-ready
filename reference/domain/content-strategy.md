@@ -62,7 +62,7 @@ $47 → Sprint → Accelerator
 | Pillar | What It Covers | Example Topics |
 |--------|----------------|----------------|
 | **Offer Creation** | Validation, pricing, positioning | "How to validate before you build", "The $47 test", "Why your offer isn't selling" |
-| **Funnel Strategy** | Value ladders, bumps, OTOs, email | "Why most coaches build backwards", "The bump nobody talks about", "Email > content" |
+| **Funnel Strategy** | Low-ticket funnels with paid ads as the machine that replaces content marketing. Value ladders, bumps, OTOs, email ascension. The bridge from offer validation to a system that sells. | "Why most coaches build backwards", "The bump nobody talks about", "Email > content", "A validated offer without a machine is just a Google Doc", "Stop selling in DMs — build a funnel", "$50/day in ads beats 12 months of posting" |
 | **Anti-Guru** | Contrarian takes, no-BS truth | "You can't grow into pain", "Stop posting, start selling", "The guru lie" |
 | **Behind the Scenes** | Real numbers, real struggles | "114 sales: what I learned", "What actually happened this week", "The mistake I made" |
 

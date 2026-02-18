@@ -175,6 +175,24 @@ When someone engages heavily (opens 5+ emails in a week):
 
 ---
 
+## Messaging Bridge: Offer → Machine
+
+**Principle:** The $47 solves "what to sell." The OTOs solve "how to sell it." The bridge between them is "the machine" — a simple funnel, paid ads, and email system that puts your offer in front of buyers every day.
+
+| Touchpoint | Bridge Level | Rule |
+|------------|-------------|------|
+| Welcome Days 1-4 | None | Pure relationship, consumption |
+| Welcome Days 5, 7, 9 | Seed (P.S.) | Plant "the machine" — never pitch |
+| OTO Recovery (Days 3, 5, 7) | Explicit | Sprint/Blueprint = "build the machine" |
+| Bump Recovery | None | Bumps are tools, not the machine |
+| Daily Broadcast | Rotate | Sprint/Blueprint days use machine framing |
+
+**Calibration test:** Would someone feel satisfied buying ONLY the $47? If the bridge language makes them feel incomplete without the OTO, it's too heavy. Dial back.
+
+**Decision:** `decisions/2026-02-17-funnel-ads-messaging-bridge.md`
+
+---
+
 ## Integration with Funnel
 
 ```
