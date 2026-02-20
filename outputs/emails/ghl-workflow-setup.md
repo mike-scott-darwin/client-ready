@@ -703,7 +703,7 @@ Tag: "unsubscribed" ≠ TRUE
 | Tuesday | DB02-tuesday-templates.html | I stared at the blank page for 3 hours | $67 Templates |
 | Wednesday | DB03-wednesday-sprint.html | The difference between "knowing" and "doing" | $297 Sprint |
 | Thursday | DB04-thursday-blueprint.html | Some people have time. Some people have money. | $397 Blueprint |
-| Friday | DB05-friday-backend.html | When you're ready for the next level | $5K Accelerator (reply "BUILD") |
+| Friday | DB05-friday-backend.html | When you're ready for the next level | $5K Accelerator (reply "ACCELERATOR") |
 | Saturday | DB06-saturday-community.html | The loneliest part of building | $47/mo Community |
 | Sunday | DB07-sunday-free-value.html | The question that changes everything | No pitch |
 
