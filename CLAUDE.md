@@ -27,12 +27,15 @@ Michael Scott helps coaches validate their offers before building — scale from
 | Bump 1 | $37 | Quick Win DM Scripts |
 | Bump 2 | $67 | Plug & Play Templates |
 | Bump 3 | $97 | The First $5K Client Playbook |
+| Standalone | $57 | The One-Page Funnel (portal training) |
+| Standalone | $97 | Plug & Play Funnel Snapshot (portal + GHL affiliate) |
 | OTO 1 | $297 | Client Ready Sprint (4-week, one-time) |
 | OTO 2 | $397 | Client Ready Blueprint (custom strategy + GHL snapshot) |
 | OTO 3 | $47/mo | Client Ready Community ($1 trial) |
 | Backend | $5K+ | Client Ready Accelerator |
 
-**Max cart:** $942 | **Target AOV:** $90-110 | **Recurring:** OTO 3 adds $47/mo
+**Max cart:** $1,096 | **Target AOV:** $90-110 | **Recurring:** OTO 3 ($47/mo) + GHL affiliate (~$39/mo)
+**Delivery:** All low-ticket products deliver through GHL training portal (not Google Docs)
 
 ---
 

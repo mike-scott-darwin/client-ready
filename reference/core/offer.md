@@ -102,6 +102,98 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - **Promise:** Close your first high-ticket client — without feeling like a salesperson
 - ~~$497~~ → $97
 
+**Standalone Training: $57 — The One-Page Funnel**
+- Hybrid VSL landing page structure (headline + video + long-form text + visual evidence)
+- AI-assisted copy generation from your offer document
+- Mobile-first design principles + GHL template
+- The 5-Second Test (pre-launch gate)
+- Step-by-step walkthrough: offer document → landing page copy → live page
+- **Promise:** Build your landing page in one afternoon — not from scratch, from your offer
+- Not an order bump — standalone portal training and second ad entry point
+- **Ad angle:** Reaches "I have an offer but no page" buyers (different from the $47 "I need to figure out my offer" buyer)
+
+**Standalone Training: $97 — The Plug & Play Funnel Snapshot**
+- Pre-built GHL snapshot of the complete Client Ready funnel: landing page, checkout, order bumps, OTO pages, email sequences
+- Video walkthrough: import snapshot → customize copy → connect Stripe → go live
+- Includes the same funnel architecture Michael uses — not a generic template
+- **Requires a GHL account** — GHL affiliate link embedded in training (40% recurring commission per referral)
+- **Promise:** Your complete funnel installed in one afternoon — just swap in your offer
+- Not an order bump — standalone portal training and GHL affiliate trigger
+- **Ad angle:** "Stop building from scratch — import a proven funnel and customize it"
+
+**How Snapshot differs from Blueprint ($397):**
+
+| | Funnel Snapshot ($97) | Blueprint ($397) |
+|---|---|---|
+| Who builds it | You, with template | Michael, custom |
+| Copy | Generic — you swap in your offer | Michael writes your copy |
+| Strategy | Self-service video walkthrough | Custom strategy document |
+| GHL snapshot | Standard template | Customized to your business |
+| Support | Video walkthrough only | 60-min integration call |
+
+**GHL Affiliate Layer:**
+- GHL pays 40% recurring commission (~$39/mo per referral on $97/mo plan)
+- Snapshot training is the strongest affiliate trigger — buyers literally can't use it without GHL
+- The One-Page Funnel ($57) also includes GHL affiliate link as optional ("here's how to build this in GHL")
+- Phase 2 classroom modules (funnel installation) include affiliate link
+- Every GHL referral = recurring revenue on top of product revenue
+
+---
+
+### Training Portal Ecosystem
+
+**All low-ticket products deliver through a GHL membership portal — not Google Docs.**
+
+Every buyer gets portal access. Their purchased training(s) are unlocked. All other trainings appear as locked tiles with titles, descriptions, and preview images. The portal itself is a passive storefront.
+
+**Architecture:**
+```
+GHL Membership Portal (Content Library)
+  ├── Client Ready Offer System ($47) — unlocked on purchase
+  ├── Quick Win DM Scripts ($37) — locked/unlockable
+  ├── Plug & Play Templates ($67) — locked/unlockable
+  ├── The First $5K Client Playbook ($97) — locked/unlockable
+  ├── The One-Page Funnel ($57) — locked/unlockable
+  ├── The Plug & Play Funnel Snapshot ($97) — locked/unlockable [GHL affiliate trigger]
+  └── [Future trainings] — locked/unlockable
+
+Skool Community (Support & Engagement)
+  ├── Discussion, weekly calls, accountability
+  └── NOT where training content lives
+```
+
+**How bumps and portal coexist:**
+- Order bumps stay on checkout at $37/$67/$97 — nothing changes at point of sale
+- Bumps now unlock portal tiles instead of delivering Google Doc links
+- Declined bumps appear as locked tiles in portal → second-chance conversion
+- Each training includes a 3-5 min video walkthrough (not just a PDF download)
+
+**How the portal compounds revenue:**
+- Every portal login is a sales impression — no email required
+- Clicking a locked tile triggers one-click purchase using card on file (GHL in-app upsell)
+- Second-chance bump recovery: declined bumps stay visible as locked tiles
+- Every new training = new standalone ad campaign = new entry point into the same portal
+
+**Multiple entry points (post-validation, after 30+ sales):**
+
+| Entry Point | Ad Angle | Portal Effect |
+|-------------|----------|---------------|
+| $47 Offer System | "Validate your $5K offer in one afternoon" | Sees 5 other trainings locked |
+| $37 DM Scripts | "First client conversation in 5 minutes" | Sees 5 other trainings locked |
+| $57 One-Page Funnel | "Build your landing page in one afternoon" | Sees 5 other trainings locked |
+| $97 Funnel Snapshot | "Import a proven funnel — customize in one afternoon" | Sees 5 other trainings locked + GHL affiliate |
+
+**Metrics:**
+
+| Metric | Target |
+|--------|--------|
+| Portal login rate | 60%+ of buyers |
+| In-portal cross-sell rate | 10-15% of logged-in users |
+| Second-chance bump conversion | 5-10% |
+| CLV (30-day) | $90-120 |
+
+See: `decisions/2026-02-18-training-portal-ecosystem.md`
+
 ---
 
 ### Tier 2: OTO 1 — The Client Ready Sprint
@@ -238,14 +330,18 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 | Bump 1 (DM Scripts) | $37 | One-time |
 | Bump 2 (Templates) | $67 | One-time |
 | Bump 3 (First $5K Client Playbook) | $97 | One-time |
+| Standalone (The One-Page Funnel) | $57 | One-time (portal training, not a bump) |
+| Standalone (Plug & Play Funnel Snapshot) | $97 | One-time (portal training + GHL affiliate trigger) |
 | OTO 1 (Sprint) | $297 | One-time |
 | OTO 2 (Blueprint) | $397 | One-time |
 | OTO 3 (Community) | $47/mo | Recurring ($1 trial) |
 | Backend (Accelerator) | $5,000 | No-Phone Offer |
 
-**Max One-Time Cart Value:** $1,002 ($47 + $37 + $67 + $97 + $297 + $397)
+**Max One-Time Cart Value:** $1,156 ($47 + $37 + $67 + $97 + $57 + $97 + $297 + $397)
 **Target AOV:** $90-110 (front-end + bumps only, no OTOs — self-liquidating target)
 **Recurring potential:** OTO 3 adds $47/month per retained member
+**Portal cross-sell potential:** One-Page Funnel ($57) + Funnel Snapshot ($97) + second-chance bumps add to 30-day CLV
+**GHL affiliate potential:** ~$39/mo recurring per Funnel Snapshot buyer who signs up for GHL
 
 ---
 
