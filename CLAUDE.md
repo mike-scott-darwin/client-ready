@@ -138,3 +138,11 @@ Direct. No-BS. Engineering mindset. Short sentences. "Wrong." "Test, validate, b
 ```
 /ad-review    # Compliance + quality check
 ```
+
+**Local skills (this repo):**
+```
+/product-doc       # Generate product documentation
+/landing-page      # Hybrid VSL landing page copy
+/email-sequence    # GHL email sequence drafter
+/mine              # Competitor intelligence mining
+```
