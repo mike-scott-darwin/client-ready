@@ -110,7 +110,7 @@ Direct. No-BS. Engineering mindset. Short sentences. "Wrong." "Test, validate, b
 
 | Area | Status |
 |------|--------|
-| Testimonials | ❌ None collected yet |
+| Testimonials | ⚠️ **#1 priority gap** — trigger case study collection at 5 sales |
 | 1:1 pricing | ⚠️ "$5K+" — exact price TBD |
 | Email sequences | ✅ 6 workflows defined in `reference/domain/funnel/email-rhythm.md` |
 | Application page | ⚠️ Not yet built |

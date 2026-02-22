@@ -7,7 +7,7 @@ offer: client-ready
 angle: content-merry-go-round
 consolidated_from: [2026-02-10-static-ads-batch-004]
 framework: 6 primaries x 6 headlines + short-form compressed versions
-validated_by: Miles Stutz ad library mining — anti-organic is his #1 angle (~30% of 40-50+ active ads)
+validated_by: Miles Stutz ad library mining — anti-organic was his #1 angle (~30%) in Feb 11, collapsed to 3% by Feb 22 after full account reset. Angle still viable for Client Ready (different audience stage) but no longer Miles' primary play.
 ---
 
 # Content Merry-Go-Round — Ad Copy
@@ -406,3 +406,14 @@ Every testimonial reference includes:
 3. P3 (Direct Response) is for solution-aware retargeting — add when retargeting pool is built
 4. Run each primary with both long-form AND short-form simultaneously on the same image (Miles Stutz dual-length strategy)
 5. Pair each primary with 2-3 headlines for testing
+
+### Link Description (Ads Manager)
+
+Use across ALL Content Merry-Go-Round ads. AI-forward — leads with the mechanism.
+
+> Stop posting. Start selling. 5 AI prompts build the offer your content should've been selling all along. $47.
+
+**Alt (pain-forward):**
+> 6 months of content. Zero clients. The problem isn't your content — it's your offer. 5 AI prompts fix it in one afternoon. $47.
+
+Per Decision 2 (`decisions/2026-02-22-miles-stutz-mining-response.md`): AI should be headline-level, not buried.

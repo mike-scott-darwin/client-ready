@@ -94,6 +94,34 @@ Decision rationale: `decisions/2026-02-01-angle-prioritization.md`
 
 **Use in:** $47 offer, lead magnet, content
 
+**Elevation note (Feb 2026):** AI should be headline-level, not buried in product details. Miles Stutz leads with "AI-powered system" in link descriptions across 113 ads. Test: "5 AI prompts that build your $5K offer in one afternoon." Position AI as the speed mechanism — why it takes one afternoon instead of one month. Keep the human element: "AI does the heavy lifting, you make the decisions." See `decisions/2026-02-22-miles-stutz-mining-response.md` Decision 2.
+
+---
+
+---
+
+## Hook Patterns
+
+Reusable structures that can be applied across multiple angles.
+
+### Counterintuitive Reveal
+**Template:** `[I don't/stopped doing X] + [unexpected positive result] + [curiosity bridge to mechanism]`
+
+**Why it works:** Contradicts the reader's assumption, creates curiosity gap, positions your method as the non-obvious answer.
+
+**Client Ready examples:**
+- "I don't sell $5K coaching packages. I sell a $47 system — and the $5K clients come to me."
+- "I stopped doing sales calls. My close rate went up."
+- "I don't tell coaches to quit their 9-to-5. That's exactly why they trust me enough to buy."
+- "I stopped posting content daily. My revenue doubled." (Content Merry-Go-Round + Counterintuitive)
+
+**Origin:** Miles Stutz Feb 2026 — his #1 hook (54x repetitions): "I don't chase high-ticket clients... still made $750K." Adapted without income claims.
+
+**Rules:**
+- No unsubstantiated income claims — use transformation claims instead
+- The "unexpected result" must be true and defensible
+- Works best as opening line in long-form copy, not as standalone one-liners
+
 ---
 
 ## Secondary Angles (To Test)
@@ -116,6 +144,15 @@ Decision rationale: `decisions/2026-02-01-angle-prioritization.md`
 ### The "Stop Overthinking" Angle
 "The biggest mistake I see coaches make? They create the offer and then sit on it."
 - Calls out analysis paralysis
+
+### The "Anti-Customization" Angle
+"Stop customizing your offer for every prospect. Build one that works for all of them."
+- Enemy: The belief that every client needs a custom offer
+- Reframe: "Custom" = unfocused. Clear, repeatable = scalable.
+- Hooks: "I used to rewrite my offer for every single lead. Then I realized: if it needs rewriting, it's not clear enough." / "The coaches charging $5K+ don't have 10 different offers. They have one. It's just that clear."
+- Pairs with "One Afternoon" angle (one template + one afternoon = done)
+- See full angle file: [anti-customization.md](anti-customization.md)
+- Origin: Miles Stutz Feb 2026, lightly tested (2 ads). Directly applicable to Client Ready's template-based approach.
 
 ---
 

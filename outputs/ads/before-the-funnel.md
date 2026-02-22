@@ -467,6 +467,19 @@ Every testimonial reference includes:
 - Both claims appear in P3 and P3 Short-Form.
 - **Per Part 13 of ads methodology:** Price transparency is more effective than social proof claims for low-ticket. If these claims can't be verified, replace with price-forward language instead.
 
+## Link Description (Ads Manager)
+
+Use across ALL Before the Funnel ads. AI-forward — leads with the mechanism.
+
+> 5 AI prompts extract your $5K offer in one afternoon. Self-guided system. $47 — before you build anything.
+
+**Alt (price-forward):**
+> $47 and one afternoon. 5 AI prompts that turn your expertise into a clear, testable offer. Money-back guarantee.
+
+Per Decision 2 (`decisions/2026-02-22-miles-stutz-mining-response.md`): AI should be headline-level, not buried.
+
+---
+
 ## Mix-and-Match Guide
 
 | Primary | Best Headlines | Best Image |
