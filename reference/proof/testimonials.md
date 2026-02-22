@@ -7,6 +7,8 @@ updated: 2026-02-10
 
 # Testimonials & Proof
 
+> **#1 Priority Gap:** External case study acquisition. Trigger: after 5 sales, actively solicit one detailed story (name, niche, specific result, timeline, one quote). Even a partial result ("got clarity on their offer in 2 hours") unlocks case study ad angles, landing page proof, checkout snippets, and email stories. See `decisions/2026-02-22-miles-stutz-mining-response.md` Decision 5.
+
 ## Founder Case Study — Michael Scott
 
 **Milestone:** 114 sales in first 30 days of launch

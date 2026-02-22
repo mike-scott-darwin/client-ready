@@ -465,7 +465,7 @@ See: `reference/domain/funnel/email-rhythm.md` for full implementation details.
 
 **Bump pricing insight (Cat Howell Feb 2026):** Higher-priced bumps convert better. Her split test: $33/$44/$55 bumps at 4.0% conversion vs $17/$33/$55 at 2.3%. Early data but directionally strong. Test increasing bump prices once baseline data exists.
 
-**Front-end pricing warning:** $17 front-end killed Cat's AOV (dropped from $140 to $70-80). Cheap buyers don't buy bumps/upsells at the same rate. $27 is minimum; $47 is her sweet spot. Client Ready moved from $27 to $47 based on this data. At $47, front-end + bumps target self-liquidating AOV of $90-110.
+**Front-end pricing warning:** $17 front-end killed Cat's AOV (dropped from $140 to $70-80). Cheap buyers don't buy bumps/upsells at the same rate. $27 is minimum; $47 is her sweet spot. Client Ready moved from $27 to $47 based on this data. At $47, front-end + bumps target self-liquidating AOV of $90-110. **External validation (Feb 2026):** Miles Stutz killed his $7 front-end (digitalsnacks.co) entirely and moved to $17 (rapidascension.freeclientsystem.com). Cheap front-ends attract cheap buyers who don't ascend. $47 remains the right price point for buyer quality.
 
 **Scaling via entry points (future):** Existing bumps (DM Scripts, $5K Playbook) can become standalone front-end offers once core funnel is validated (30+ sales, $100+ AOV). See `decisions/2026-02-12-scaling-architecture.md`.
 
@@ -490,7 +490,7 @@ These override all tactical advice below. If a tactic conflicts with these princ
 ### Pre-Launch Requirements
 
 - **CAPI (Conversions API):** Server-side tracking that bypasses browser cookie blocking (iOS 14+). Improves "Event Match Quality" score, lowers CPMs. Set up before first dollar of ad spend.
-- **Hybrid VSL landing page** (see Landing Page Structure below)
+- **Landing page split test:** Run two variants from launch — Variant A: Hybrid VSL (headline + video + long-form text + visual evidence) vs Variant B: Static mockup (headline + product screenshots + long-form text + visual evidence). Same copy, same offer, same checkout. 50/50 split, $50/day minimum per variant. Judge after 30 sales per variant. If within 20% after 50 sales each, keep video (brand compounds). See `decisions/2026-02-22-miles-stutz-mining-response.md` Decision 7.
 - **5-Second Test** passed on all pages (see below)
 
 ### Three-Stage Campaign Pipeline
@@ -503,6 +503,7 @@ Not interchangeable. Each stage has a different job.
 - $50/day per ad set, 3 ad sets minimum
 - Launch 3 new ad sets per week
 - Creative mix per ad set: 2-3 B-roll videos with overlay text + 2-3 static images, each with short-form and long-form copy
+- **5 images per copy block minimum:** Same body copy across 5 different image creatives. Let Meta find which visual works for each audience segment. Image types to test: product mockup, lifestyle, text-on-background, bold color interrupt, device screen. (Miles Stutz Feb 2026: runs 54 images on same copy block.)
 - Run 72 hours untouched before judging
 - **$20 rule for low-ticket:** Winners reveal themselves after ~$20 of spend per concept. Faster signal than higher-ticket offers.
 - This campaign NEVER turns off. It's your permanent testing sandbox.
