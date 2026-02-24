@@ -71,7 +71,7 @@ No 4-week commitment. No custom blueprint deliverables. Just a place to not buil
 
 If you said "no" to Sprint and Blueprint but still want support — this is for you.
 
-Try it for $1: [LINK]
+Try it for $1: https://www.skool.com/high-ticket-playbook-9467/about
 
 Cancel anytime. No hard feelings.
 

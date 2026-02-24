@@ -56,15 +56,15 @@ Every email follows the same structure:
 
 ## Weekly Offer Rotation
 
-| Day | Offer | Price | Link Text |
-|-----|-------|-------|-----------|
-| Monday | Front-end | $47 | "Grab it here" |
-| Tuesday | Templates | $37 | "Get the templates" |
-| Wednesday | Sprint | $297 | "Join the Sprint" |
-| Thursday | Blueprint | $397 | "Get your custom blueprint" |
-| Friday | Accelerator | $5K | "Reply BUILD" |
-| Saturday | Community | $47/mo | "Join us in Skool" |
-| Sunday | Free value | — | "Reply and tell me" |
+| Day | Offer | Price | Link Text | URL |
+|-----|-------|-------|-----------|-----|
+| Monday | Front-end | $47 | "Get the System" | https://clientreadyoffer.com/implement |
+| Tuesday | Templates | $67 | "Get the Templates" | https://clientreadyoffer.com/implement |
+| Wednesday | Sprint | $297 | "Join the Sprint" | https://clientreadyoffer.com/croto1-sp |
+| Thursday | Blueprint | $397 | "Get your Blueprint" | https://clientreadyoffer.com/croto2-sp |
+| Friday | Accelerator | $5K | "Reply BUILD" | Reply trigger (no link) |
+| Saturday | Community | $47/mo | "Join the Community" | https://www.skool.com/high-ticket-playbook-9467/about |
+| Sunday | Free value | — | "Reply and tell me" | Reply trigger (no link) |
 
 **Note:** Friday's backend pitch is soft (reply trigger, not direct link). This qualifies serious buyers.
 
@@ -102,7 +102,7 @@ If that's you — the Client Ready Offer System fixes it in one afternoon.
 
 5 AI prompts that extract what you actually do and turn it into an offer document you can send to anyone.
 
-$47: [LINK]
+$47: https://clientreadyoffer.com/implement
 
 Michael
 
@@ -140,7 +140,7 @@ That's why I put together the Plug & Play Templates bundle — offer docs, landi
 
 You don't invent. You adapt.
 
-$37: [LINK]
+$67: https://clientreadyoffer.com/implement
 
 Michael
 
@@ -177,7 +177,7 @@ Not more information. Implementation with someone in your corner.
 
 You come in with your offer doc. You leave with a launched funnel.
 
-If you've been "knowing" for a while and want to start "doing": [LINK]
+If you've been "knowing" for a while and want to start "doing": https://clientreadyoffer.com/croto1-sp
 
 Michael
 
@@ -212,7 +212,7 @@ You fill out an onboarding form. I build your strategy. You implement.
 
 $397. Limited to 10/month (real limit — I do the work).
 
-If "build my strategy for me" sounds better than "I'll figure it out": [LINK]
+If "build my strategy for me" sounds better than "I'll figure it out": https://clientreadyoffer.com/croto2-sp
 
 Michael
 
@@ -282,7 +282,7 @@ Weekly hot seats. Direct access to me. See what's working for others in real-tim
 
 $47/month. First month is $1 to try it.
 
-If building alone is getting old: [LINK]
+If building alone is getting old: https://www.skool.com/high-ticket-playbook-9467/about
 
 Michael
 
