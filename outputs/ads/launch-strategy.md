@@ -22,30 +22,40 @@ linked_decisions:
 
 ---
 
-## Campaign Structure: ABO First → CBO Scale
+## Campaign Structure: Lean Start → Sequential Scale
 
-Launch = 100% ABO. No CBO at launch. Zero winners yet.
+Launch lean. Validate one angle. Fund the next angle with revenue.
 
-| Stage | When | Structure |
-|-------|------|-----------|
-| **ABO Testing** | Day 1 (launch) | 4 ad sets, $50/day each, broad targeting |
-| **CBO Winners** | After 10+ sales per creative | Graduate winners via Post ID extraction |
-| **ASC Scaling** | After 100+ sales, matured pixel | Final stage only |
+| Stage | When | Budget | Structure |
+|-------|------|--------|-----------|
+| **Stage 1: Validate** | Day 1 (launch) | $30/day | 1 ad set (Before the Funnel), 3-4 ads, broad targeting |
+| **Stage 2: Expand** | After 10+ sales, CPA confirmed | $60/day | Add angle 2 (Content Merry-Go-Round) |
+| **Stage 3: Scale** | After 30 sales (validated) | $90/day | Add angle 3 (Clarity Unlock) |
+| **Stage 4: Full** | After AOV confirmed $100+ | $200/day | Add angle 4 (Misalignment) or graduate winners to CBO |
+| **CBO Winners** | After 10+ sales per creative | Shift budget | Graduate winners via Post ID extraction |
+| **ASC Scaling** | After 100+ sales, matured pixel | — | Final stage only |
 
-**Why ABO first (not CBO):**
-- One concept per ad set forces equal spend across all 4 angles
-- CBO at $200/day would let Meta pick one "winner" before you have real data — starving the other 3 angles
-- $20 rule for a $47 product — you know within 1-2 days per concept what's working
-- Graduate winners to CBO only after 10+ sales per creative
+**Why sequential (not all 4 at once):**
+- $30/day can't support 4 ad sets — each would get $7.50/day, not enough signal
+- One angle at $30/day = each ad gets ~$8-10/day — clean data within a week
+- Revenue from Stage 1 funds Stage 2. Each stage pays for the next.
+- $20 rule still applies — at $30/day you know within 2-3 days what's working
 
-**Cat Howell recommends CBO from the start** — one ad set, all creative inside. Her method works at $500+/day where the algorithm has enough data to optimize. At $200/day across 4 angles, ABO gives cleaner signal on which angle actually works. Once you have winners, CBO is the right home for them — this is where Cat's framework takes over.
+**Why Before the Funnel first:**
+- Strongest positioning angle — differentiates from every other coach offer ad
+- Bridges Problem Aware → Unaware — reaches the widest cold audience
+- USV candidate — "Everyone's selling you funnels" is the most contrarian hook
+
+**Cat Howell alignment:** Her lean start method is $25-30/day, one angle, 3-4 ads. Validate it, then add angles as budget grows. CBO comes later when you have proven winners and $100+/day to give the algorithm enough data.
 
 **The graduation path:**
-1. Run ABO 72 hours untouched
-2. At $20 spend, anything with zero signal (no clicks, no adds to cart) — kill that image, keep the copy block
-3. At 10+ sales on a creative — extract Post ID, move to CBO campaign
-4. CBO: one ad set, 5-6 proven winners, Advantage Plus targeting, $100/day starting budget
-5. Scale CBO by adding more winning creative (Cat: *"Every time you raise the budget, you should be adding more ads into your ad set."*)
+1. Run Stage 1 for 72 hours untouched
+2. At $20 spend per ad, anything with zero signal (no clicks, no adds to cart) — kill that image, keep the copy block
+3. At 10+ sales — CPA is confirmed, add Stage 2 angle
+4. At 30 sales — validated. Add Stage 3 angle.
+5. At $100+ AOV confirmed — go to $200/day (Stage 4) or graduate winners to CBO
+6. CBO: one ad set, 5-6 proven winners, Advantage Plus targeting, $100/day starting budget
+7. Scale CBO by adding more winning creative (Cat: *"Every time you raise the budget, you should be adding more ads into your ad set."*)
 
 ---
 
@@ -56,24 +66,35 @@ Each ad set = one angle. Within each:
 | Element | Count | Details |
 |---------|-------|---------|
 | Copy blocks | 1 | Best primary (P1) — keep it lean so each ad gets enough spend |
-| Images per copy block | 5 | Product mockup, lifestyle, text-on-background, bold color interrupt, device screen |
+| Images | 3 | Ugly static, product reveal, before/after |
 | Video creatives | 1 | Silent review or B-roll with text overlay |
-| **Total ads per ad set** | **6** | 5 image + 1 video |
+| **Total ads per ad set** | **4** | 3 image + 1 video |
 
-At $50/day with 6 ads, each ad gets ~$8/day. Cat Howell's math: at $2 CPC, need $100 spend (~12 days per ad) to expect one sale. With 12 ads per ad set, each ad only gets $4/day — takes too long to collect signal. **Lean ad sets = faster data.**
+At $30/day with 3-4 ads, each ad gets ~$8-10/day. Cat Howell's math: at $2 CPC, need $100 spend (~12 days per ad) to expect one sale. **Lean ad sets = faster data.**
 
-## Total Launch Creative
+## Stage 1 Launch Creative (Before the Funnel Only)
 
 | | Count |
 |--|-------|
-| Ad sets | 4 |
-| Ads per ad set | 6 |
-| **Total ads at launch** | **24** |
-| Image creatives needed | **20** (4 angles × 1 copy block × 5 images) |
-| Video creatives needed | **4** (4 angles × 1 video) |
-| **Total creatives to produce** | **24** |
+| Ad sets | 1 |
+| Ads per ad set | 4 |
+| **Total ads at launch** | **4** |
+| Image creatives needed | **3** (1 ugly static + 1 product reveal + 1 before/after) |
+| Video creatives needed | **1** (silent review preferred) |
+| **Total creatives to produce** | **4** |
 
-**Week 2 expansion:** Add second copy block per angle (P2 or P3) once you've killed zero-signal images from the first block. Scale by feeding the algorithm more creative, not just raising budget.
+## Full Creative Pipeline (All 4 Stages)
+
+| Stage | Angle | New Creatives | Running Total |
+|-------|-------|---------------|---------------|
+| 1 | Before the Funnel | 4 | 4 |
+| 2 | Content Merry-Go-Round | 4 | 8 |
+| 3 | Clarity Unlock | 4 | 12 |
+| 4 | Misalignment | 4 | 16 |
+
+**Produce only what you need for the current stage.** Don't build 16 creatives on day 1. Build 4, validate, then produce the next 4 when revenue triggers the next stage.
+
+**Within each stage:** Once an ad proves out (10+ sales), add more creative to that angle — second copy block (P2), additional ugly statics, new before/after variants. Scale by feeding the algorithm more creative, not just raising budget.
 
 ---
 
@@ -88,32 +109,48 @@ Build in this order — fastest to produce, highest-performing format first:
 | 3 | Silent Review video | 1-2 hrs each | Screen recording scrolling through the system with reaction shots + text overlay |
 | 4 | B-roll + text overlay | 1-2 hrs each | Footage of working + text overlay with hooks |
 
-**Fastest launch path:** Produce all 40 static images first (can be done in one day with ugly statics). Add videos in week 1.
+**Fastest launch path:** Produce 3 static images + 1 video for Before the Funnel. Can be done in one session (under 2 hours). You're live the same day.
 
 ---
 
 ## Daily Spend
 
-### Launch: $200/day
+### Stage 1 — Validate: $30/day (~$900/month)
 
 | Allocation | Budget | What |
 |-----------|--------|------|
-| ABO Testing | $200/day | 4 ad sets × $50/day (all 4 angles) |
+| ABO Testing | $30/day | 1 ad set (Before the Funnel), 3-4 ads |
 | CBO Scaling | $0 | Nothing to scale yet |
 | Retargeting | $0 | Algorithm handles it within broad |
 
-### After Winners Emerge (Week 2-3): $200/day
+**Expected at $30/day:** ~15 clicks/day at $2 CPC → ~9 sales/month at 2% CVR → ~$900 revenue at $100 AOV. Break-even on front-end. Backend + recurring = profit.
+
+### Stage 2 — Expand: $60/day (~$1,800/month)
 
 | Allocation | Budget | What |
 |-----------|--------|------|
-| ABO Testing | $60/day (30%) | Keep testing new copy blocks + images |
+| Before the Funnel | $30/day | Proven — keep running |
+| Content Merry-Go-Round | $30/day | New angle testing |
+
+**Trigger:** 10+ sales from Stage 1 with confirmed CPA. Revenue from Stage 1 funds Stage 2.
+
+### Stage 3 — Scale: $90/day (~$2,700/month)
+
+| Allocation | Budget | What |
+|-----------|--------|------|
+| Winning angles | $60/day | Best performers from Stages 1-2 |
+| Clarity Unlock | $30/day | New angle testing |
+
+**Trigger:** 30 total sales (validated). Revenue self-funding.
+
+### Stage 4 — Full: $200/day (~$6,000/month)
+
+| Allocation | Budget | What |
+|-----------|--------|------|
+| ABO Testing | $60/day (30%) | New angles + creative refresh |
 | CBO Scaling | $140/day (70%) | Proven winners only |
 
-**Reduced budget option:** Drop to 3 ad sets at $150/day. Run Before the Funnel, Content Merry-Go-Round, and Clarity Unlock first. Add Misalignment in week 2.
-
-**Minimum viable:** $150/day (3 ad sets). Below that you can't test 3 concepts with enough spend to collect signal.
-
-**Lean start option (Cat Howell's method):** $30/day, one angle (Before the Funnel), 3-4 ads. Validate it, then add angles as budget grows. Sequential, not parallel. Takes longer but works on a tighter budget.
+**Trigger:** AOV confirmed $100+ consistently. Only reach this stage when the funnel is proven and revenue supports it.
 
 ---
 
@@ -224,30 +261,49 @@ If ads aren't converting, check in this order:
 
 ---
 
-## Week 1 Checklist
+## Stage 1 Checklist (Before First Ad Dollar)
 
-- [ ] CAPI (server-side tracking) set up before first ad dollar — use Stape.io ($10/mo) or dev setup
-- [ ] Both landing page variants live in GHL (50/50 split)
-- [ ] 20 image creatives produced (ugly statics first)
-- [ ] 4 video creatives produced (1 per angle — silent review preferred)
-- [ ] 4 ABO ad sets created (one per angle, broad targeting)
+- [ ] CAPI (server-side tracking) set up — use Stape.io ($10/mo) or dev setup
+- [ ] Landing page live in GHL
+- [ ] 3 image creatives produced for Before the Funnel (ugly static, product reveal, before/after)
+- [ ] 1 video creative produced for Before the Funnel (silent review preferred)
+- [ ] 1 ABO ad set created (Before the Funnel, broad targeting)
 - [ ] All ads: "Learn More" CTA, Advantage+ Creative OFF, site links OFF
 - [ ] Ad naming convention applied: `[Awareness] - [Format] - [Angle]`
-- [ ] Link descriptions added to all ads (AI-forward)
-- [ ] $200/day budget set ($50/ad set)
+- [ ] Link description added to all ads (AI-forward)
+- [ ] $30/day budget set
 - [ ] Ads Manager columns set: Frequency, Results, Cost/Result, ROAS, AOV, Amount Spent, CTR, CPC, LP Views
 - [ ] 72-hour hands-off period — no changes until Day 4
 
-## Week 2 Actions
+## After 72 Hours
 
 - [ ] Review $20 rule — kill zero-signal images
-- [ ] Check frequency on all ads — anything 3.0+ is fatigued
-- [ ] Add second copy block per winning angle (P2 or P3) with 5 new images each
-- [ ] Identify first CBO candidates (10+ sales per creative)
+- [ ] Check frequency — anything 3.0+ is fatigued
+- [ ] Replace killed creatives with new variants (different ugly static or before/after)
+- [ ] Monitor CPA — target under $100
+
+## Stage 2 Trigger (10+ Sales, CPA Confirmed)
+
+- [ ] Produce 4 creatives for Content Merry-Go-Round
+- [ ] Create second ABO ad set at $30/day
+- [ ] Budget now $60/day total
+- [ ] Add second copy block to Before the Funnel if performing (P2 + 3 new images)
+
+## Stage 3 Trigger (30 Sales — Validated)
+
+- [ ] Produce 4 creatives for Clarity Unlock
+- [ ] Create third ABO ad set at $30/day
+- [ ] Budget now $90/day total
+- [ ] Check AOV — if $100+, begin planning Stage 4
+
+## Stage 4 Trigger (AOV $100+ Confirmed)
+
+- [ ] Produce 4 creatives for Misalignment
+- [ ] Identify CBO candidates (10+ sales per creative)
 - [ ] Extract Post IDs for winners
 - [ ] Launch CBO campaign with winners at $100/day
 - [ ] Begin 70/30 budget flip (scaling/testing)
-- [ ] Check AOV — don't scale past $200/day until AOV is $100+ consistently
+- [ ] Budget now $200/day — fully funded by revenue
 
 ---
 
