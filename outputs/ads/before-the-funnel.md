@@ -16,6 +16,36 @@ Brand arc: Most coaches are stuck at **Confused**. This angle moves them to **Cl
 
 ---
 
+## Lean Launch: Stage 1 Setup
+
+**This is the first angle to run.** $30/day ABO, 4 ads (3 images + 1 video). See `outputs/ads/launch-strategy.md`.
+
+### Copy Block for Stage 1
+
+**Primary:** P4 Pattern Interrupt (short, punchy, cold-proven format)
+**Headline:** H7 Belief Shift — "Your Marketing Isn't Broken. The Thing You're Marketing Is Unclear."
+
+**Why P4:** At $30/day with 3-4 ads, each ad needs to earn its spend fast. P4 is the shortest primary — pattern interrupt format stops the scroll without requiring a long read. It carries the core thesis ("wrong order") in under 60 words. Long-form primaries (P1, P2, P5) are Stage 2 expansions once you've proven the angle works.
+
+**Why H7:** Bridges Problem Aware → Unaware. Challenges the assumption that marketing is the problem. Creates the "wait, what?" moment that makes them read the primary.
+
+### Stage 1 Ad Matrix
+
+| Ad | Image | Copy | Headline |
+|----|-------|------|----------|
+| 1 | BtF-01 Ugly Static | P4 Pattern Interrupt | H7 Belief Shift |
+| 2 | BtF-02 Product Reveal | P4 Pattern Interrupt | H7 Belief Shift |
+| 3 | BtF-03 Before/After | P4 Pattern Interrupt | H7 Belief Shift |
+| 4 | BtF-V1 Silent Review Video | P4 Pattern Interrupt | H7 Belief Shift |
+
+Same copy block across all 4 ads. Different creative formats test which IMAGE stops the scroll — not which copy converts. One variable at a time.
+
+### Stage 2 Expansion (After 10+ Sales)
+
+Add second copy block: **P1 Deep** (long-form) with **H1 Proof** headline. Pair with 3 new images (testimonial proof, section zoom, new ugly static). This tests long-form vs. short-form on the same angle.
+
+---
+
 ## Awareness Level Distribution
 
 | Level | Primaries | Headlines |
