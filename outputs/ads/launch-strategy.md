@@ -22,16 +22,16 @@ linked_decisions:
 
 ---
 
-## Campaign Structure: Lean Start → Sequential Scale
+## Campaign Structure: ABO Lean Start → Sequential Scale
 
-Launch lean. Validate one angle. Fund the next angle with revenue.
+Launch lean with ABO (Ad Set Budget Optimization). Validate one angle. Fund the next angle with revenue. Stages 1-3 are 100% ABO — each ad set gets its own fixed daily budget. CBO only enters at Stage 4 when you have proven winners.
 
 | Stage | When | Budget | Structure |
 |-------|------|--------|-----------|
-| **Stage 1: Validate** | Day 1 (launch) | $30/day | 1 ad set (Before the Funnel), 3-4 ads, broad targeting |
-| **Stage 2: Expand** | After 10+ sales, CPA confirmed | $60/day | Add angle 2 (Content Merry-Go-Round) |
-| **Stage 3: Scale** | After 30 sales (validated) | $90/day | Add angle 3 (Clarity Unlock) |
-| **Stage 4: Full** | After AOV confirmed $100+ | $200/day | Add angle 4 (Misalignment) or graduate winners to CBO |
+| **Stage 1: Validate** | Day 1 (launch) | $30/day | ABO — 1 ad set (Before the Funnel), 3-4 ads, broad targeting |
+| **Stage 2: Expand** | After 10+ sales, CPA confirmed | $60/day | ABO — Add angle 2 (Content Merry-Go-Round), $30/day each |
+| **Stage 3: Scale** | After 30 sales (validated) | $90/day | ABO — Add angle 3 (Clarity Unlock), $30/day each |
+| **Stage 4: Full** | After AOV confirmed $100+ | $200/day | ABO testing ($60) + CBO winners ($140) |
 | **CBO Winners** | After 10+ sales per creative | Shift budget | Graduate winners via Post ID extraction |
 | **ASC Scaling** | After 100+ sales, matured pixel | — | Final stage only |
 
