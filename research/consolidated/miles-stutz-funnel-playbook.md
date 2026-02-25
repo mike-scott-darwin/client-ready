@@ -139,6 +139,16 @@ From Digital Snacks community member:
 
 **Same traffic. Same core offer. Just better monetization.**
 
+### Over-Converting Bumps = Headline Signal (Feb 24 Call)
+
+If a bump converts at 40%+, that is a signal. Pull that bump copy UP into the front-end headline.
+
+**Miles' example:** A bump about "use my AI prompt that tells you what you should be selling" converted at 43%. He changed the headline to include "AI-powered system" language. Immediate winner.
+
+**The principle:** Bumps are a low-stakes testing ground. High bump conversion means the language resonates. Use that language in the highest-leverage position (the headline) to increase overall funnel throughput.
+
+**Application:** Once bump data exists, check which bump converts highest. That copy tells you what cold traffic actually wants.
+
 ---
 
 ## Landing Pages
