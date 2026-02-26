@@ -9,3 +9,6 @@ reference/_source-pdfs/
 
 # Session state
 .vip/local.yaml
+.env
+.x-poster-state.json
+scripts/*.log
