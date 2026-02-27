@@ -1,7 +1,7 @@
 ---
 type: decision
 date: 2026-02-17
-status: draft
+status: superseded
 urgency: normal
 linked_research:
   - research/2026-02-17-devon-openclaw-automation-update.md
@@ -144,3 +144,7 @@ Park these. Revisit when monthly revenue is consistent and predictable.
 - `decisions/2026-02-15-openclaw-deployment-plan.md` remains the deployment blueprint; this decision adds phasing and Devon's learnings on top
 - `decisions/2026-02-03-content-strategy.md` may need a content pipeline section when Phase 1 activates
 - When Phase 0 items are completed, they become inputs to existing reference files (voice.md, content-strategy.md)
+
+## Superseded (2026-02-27)
+
+Phase 2 (DigitalOcean) killed. Content pipeline now runs as Phase 0 (Claude Code + Python scripts + launchd). Intent sniping keyword list and content pipeline map remain useful inputs but the phasing described here no longer applies. See decisions/2026-02-24-content-automation-rollout.md and reference/domain/openclaw-automation.md for current architecture.

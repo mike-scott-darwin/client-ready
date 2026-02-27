@@ -255,14 +255,14 @@ _Add frameworks extracted from mining and research here._
 
 ## Next Actions
 
-- [ ] Set up Beehiiv account
-- [ ] Optimize X bio with newsletter link
-- [ ] Optimize LinkedIn headline and about section
-- [ ] Write first newsletter
-- [ ] Create first week of content
+- [x] Set up Beehiiv account
+- [x] Optimize X bio with newsletter link
+- [x] Optimize LinkedIn headline and about section
+- [x] Write first newsletter
+- [x] Create first week of content
 - [ ] Set up weekly metrics tracking
 
 ---
 
-*Last updated: 2026-02-03*
+*Last updated: 2026-02-27*
 *Decision: decisions/2026-02-03-content-strategy.md*
