@@ -4,6 +4,7 @@ status: draft
 date: 2026-02-27
 linked_research:
   - research/consolidated/openclaw-autonomous-agents.md
+  - research/2026-02-27-obsidian-claude-code-workflow-mining.md
 linked_decisions:
   - decisions/2026-02-24-content-automation-rollout.md
   - decisions/2026-02-03-content-strategy.md
@@ -20,6 +21,8 @@ How OpenClaw serves Client Ready -- not a generic overview, but the specific job
 OpenClaw is the execution layer. Client Ready's reference files (soul, offer, audience, voice) are the guardrails. The agent reads from reference and acts on content, ads, email, and community -- but never touches the source of truth.
 
 One sentence: OpenClaw turns the thinking work you already do in Claude Code into outputs that ship while you sleep.
+
+With the Obsidian journal layer, it also captures raw thinking from your phone, finds patterns across sessions, and graduates ideas into content or reference updates.
 
 ---
 
@@ -112,6 +115,7 @@ A single message every morning with everything you need to decide where to spend
 - Community: new Skool members, unanswered questions, upcoming calls
 - Open decisions: any decision files in the repo that are still in draft status
 - Git summary: what changed in the last 24 hours
+- Journal patterns: recurring themes from journal/ this week, graduation candidates (see Job 8)
 
 **Cost:** Less than 1 cent per day using cheap model tiers.
 
@@ -119,7 +123,7 @@ A single message every morning with everything you need to decide where to spend
 
 ## Job 5: Content Recycling
 
-Once content/published/ accumulates 30+ posts with engagement data, the agent can identify patterns.
+Once content/published/ accumulates 30+ posts with engagement data, the agent can identify patterns. The journal layer (Job 8) adds a second input: raw ideas that keep recurring before they become content.
 
 **What the agent does:**
 
@@ -128,6 +132,7 @@ Once content/published/ accumulates 30+ posts with engagement data, the agent ca
 - Populates the Content Bank tables in content-strategy.md (currently empty)
 - Suggests which content to recycle or expand into threads/newsletters
 - Feeds performance data back into /think sessions
+- Cross-references journal graduation candidates against top-performing published content to identify high-potential angles
 
 **Autonomy tier:** Tier 1 (writes to content-strategy.md Content Bank section only).
 
@@ -135,14 +140,19 @@ Once content/published/ accumulates 30+ posts with engagement data, the agent ca
 
 ## Job 6: Voice-Note Pipeline
 
-The voice dump process already exists in the domain reference. With whisper-cpp on the M1, the agent can:
+The voice dump process already exists in the domain reference. With whisper-cpp on the M1 and the journal layer, voice memos follow a two-path flow.
+
+**Content path (explicit):** You say "content:" or "thread:" before your memo. Agent transcribes, shapes into a draft using voice.md, saves to content/drafts/ for review in the Content topic. This is the "talk into phone at 6am, posts go out by 9am" workflow.
+
+**Journal path (default):** All other voice memos land in journal/ as timestamped entries. No shaping, no formatting -- raw transcription with a date and source tag. These feed the weekly graduation scan (Job 8). Ideas that keep recurring get promoted to content or reference.
+
+The agent can:
 
 - Accept voice memos via Telegram/Discord
 - Transcribe locally (audio never leaves the machine)
-- Shape into content drafts using voice.md as the style guide
-- Save to content/drafts/ for review in the Content topic
-
-This is the "talk into phone at 6am, posts go out by 9am" workflow from the content automation decision.
+- Route to content/drafts/ or journal/ based on intent prefix
+- Tag journal entries with [[wiki links]] to existing reference files
+- Include raw memos in the weekly graduation scan
 
 **Performance:** whisper-cpp runs on Intel at 2-4 seconds per 30-second memo (CPU-only). M1 will be significantly faster with Metal acceleration. Model: ggml-base.en.bin (142MB).
 
@@ -159,6 +169,47 @@ The ad strategy defines mid-funnel branding campaigns (engagement campaigns for 
 
 **Autonomy tier:** Tier 0. Read and report only.
 
+
+---
+
+## Job 8: Journal Intelligence
+
+The journal layer turns the phone from an approval-only device into a thinking capture device. Raw ideas, observations, and half-thoughts flow into journal/ via messaging or Obsidian daily notes. The agent triages, connects, and graduates them.
+
+**How capture works:**
+
+Quick thought from phone: message the General topic. Agent writes to journal/YYYY-MM-DD.md with timestamp and source tag. Voice memo from phone: transcribed via whisper-cpp, saved to journal/ (default path). Obsidian daily note from laptop: written directly, syncs via git push, agent picks up on next pull.
+
+**What the agent does daily (journal triage):**
+
+- Scan new journal entries for mentions of existing reference concepts
+- Add [[wiki links]] where entries connect to offer, audience, voice, or soul
+- Tag entries with content pillars where applicable (Offer Creation, Funnel Strategy, Anti-Guru, Behind the Scenes)
+- Flag entries that mention the same topic as a previous entry (pattern signal)
+
+**What the agent does weekly (graduation scan, Sunday):**
+
+- Scan all journal entries from the past 7 days
+- Identify themes that appeared 3+ times (signal vs noise)
+- Draft graduation candidates: each one becomes either a content draft or a reference update suggestion
+- Send graduation report to Research topic for review
+- You reply with approve, skip, or edit for each candidate
+
+**What the agent does weekly (positioning check, Sunday):**
+
+- /ghost test: answer 3 core positioning questions "as Mike" using only reference files
+- If the answers sound generic, flag that reference needs enrichment
+- /drift check: compare content-strategy.md stated cadence vs git log actual publishing behavior over past 30 days
+- Send positioning report to Research topic
+
+**What the agent does monthly:**
+
+- /drift deep: compare soul.md stated mission vs actual time allocation (derived from git activity, journal themes, and content topics)
+- Surface any disconnects between what you say matters and where your time goes
+- This is the "infrastructure loop" detector -- catches automation-as-avoidance patterns before they compound
+
+**Autonomy tier:** Tier 1 for journal/ writes (triage, linking, tagging). Tier 0 for graduation suggestions and positioning reports (human reviews and decides).
+
 ---
 
 ## Repository Access Model
@@ -174,6 +225,7 @@ Applied to Client Ready's specific directories:
 | content/scheduled/ | Read/Write | Approved content awaiting posting |
 | content/published/ | Read/Write | Archived posts with engagement metrics |
 | outputs/ | Read/Write | Generated batches |
+| journal/ | Read/Write | Raw thinking capture, daily notes, voice transcriptions |
 
 The agent creates branches and opens PRs for anything outside content/ and outputs/. You review and merge from your phone.
 
@@ -185,7 +237,7 @@ OpenClaw supports isolated conversation topics. Each topic has separate context,
 
 | Topic | Purpose | System Prompt Focus |
 |-------|---------|-------------------|
-| **General** | Lightweight routing, thought capture, quick questions | Default voice, minimal guardrails |
+| **General** | Journal capture, thought intake, quick questions, routing | Default voice, journal-write enabled, minimal guardrails |
 | **Content** | Draft review, approval loop, posting confirmation | Voice-aware, self-critique guardrails, content-strategy.md loaded |
 | **Ops** | Ad alerts, email metrics, morning briefs, diagnostics | Numbers-focused, safety ladder enforcement |
 | **Research** | Think cycle support, research file creation | Reference-heavy, decision-linking prompts |
@@ -259,7 +311,7 @@ Core settings for Client Ready:
 Create in the OpenClaw workspace directory:
 
 - MEMORY.md (~2K) -- Persistent facts: Client Ready business context, API keys location, repo paths
-- AGENTS.md (~2K) -- Operating contract: autonomy tiers, what to never do, priorities
+- AGENTS.md (~2.5K) -- Operating contract: autonomy tiers, what to never do, priorities, journal triage rules (what to graduate, what to leave, what to connect)
 - USER.md (~1K) -- Identity: Michael Scott, preferences, timezone (ACST)
 - TOOLS.md (~1K) -- Infrastructure: repo paths, API endpoints, launchd agents, GHL webhook URLs
 - SOUL.md (~700) -- Pointer to reference/core/soul.md with key principles extracted
@@ -290,8 +342,11 @@ Create in the OpenClaw workspace directory:
 | 9:00 PM | Daily metrics summary (Jobs 2, 3) | Primary | ~0.001 |
 | 3:00 AM | Config backup | Shell (no model) | 0 |
 | 4:20 AM | Model bakeoff | Python script | ~0.003 |
+| 10:00 PM | Journal triage (Job 8) | Primary | ~0.002 |
+| Sunday 6:00 AM | Graduation scan + positioning check (Job 8) | Escalation | ~0.01 |
+| 1st of month 6:00 AM | Monthly drift deep (Job 8) | Escalation | ~0.02 |
 
-Full cron suite: approximately 0.007/day.
+Full cron suite: approximately 0.01/day (plus weekly/monthly Job 8 runs).
 
 ### Security Hardening
 
@@ -311,6 +366,8 @@ Full cron suite: approximately 0.007/day.
 5. Trigger manual git pull -- agent confirms repo state
 6. Run morning brief manually -- message arrives with correct sections
 7. Post one test tweet via agent approval flow -- confirm post appears on X
+8. Send a quick thought to General topic -- confirm it lands in journal/ as a daily note
+9. Send a voice memo to General topic -- confirm it transcribes and saves to journal/
 
 ### ClawHub Security Warning
 
@@ -325,7 +382,7 @@ Full cron suite: approximately 0.007/day.
 - Making strategic decisions (decisions/ stays human-written)
 - Replacing GHL for email automation (GHL handles workflows, OpenClaw monitors)
 
-OpenClaw is the monitoring and distribution layer. It does not think for you. It ships what you have already thought through.
+OpenClaw is the monitoring, distribution, and capture layer. It does not think for you. It ships what you have already thought through, and captures raw thinking so nothing falls through the cracks.
 
 ---
 
