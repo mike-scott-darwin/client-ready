@@ -96,6 +96,11 @@ $47 → Sprint → Accelerator
 - "No webinar. No VSL. Just a $47 offer and a system."
 - "The 'guru playbook' is broken. Here's what works instead."
 - "You don't need a personal brand. You need paying clients."
+- "Stop buying prompt packs. Start building your context."
+- "ChatGPT writes garbage because you gave it nothing to work with."
+- "AI is an amplifier. Feed it chaos, get polished chaos back."
+- "Everyone's chasing the perfect prompt. The answer is a system, not a sentence."
+- "Prompts without a system are ingredients without a kitchen."
 
 ### Thread Starters
 - "I spent [X] learning [Y]. Here's what actually works:"
