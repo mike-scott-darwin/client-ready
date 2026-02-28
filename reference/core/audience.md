@@ -33,6 +33,22 @@ updated_from: 2026-01-25
 
 "I've been at this for two years. I've bought courses. I've posted content. Nothing's working. Everyone else seems to have it figured out. What if the gurus lied? What if I'm just not cut out for this?"
 
+## Voice of Customer
+
+Real language from real people in the transition. Use these patterns in copy -- they're how the audience actually talks about the problem.
+
+**The Misalignment Discovery Sequence (Mark D.):**
+> "At first I thought it was my system -- no, nothing much changed to what was working for years. Then I thought I was burned out. I just couldn't get alignment. This has been a very valuable lesson."
+
+They blame tactics first, then blame themselves, before finally realizing the foundation is wrong. This is the diagnostic journey Client Ready shortcircuits.
+
+**The Golden Handcuffs Exit (Tom S.):**
+> "I was earning a substantial income and advancing every six months, which led some to call me crazy for leaving. However, the higher I climbed, the more I became entangled in office politics. The values presented to the public do not reflect those actually practiced within the company; this hypocrisy undermines motivation, not productivity."
+
+Earning well. Advancing fast. Still leaving. Because values misalignment doesn't kill your skills -- it kills the will to use them. This is stuck pattern 11 spoken by someone who made the leap.
+
+---
+
 ## Pain Points
 
 1. **The search** — Years of trying different approaches, nothing quite fits

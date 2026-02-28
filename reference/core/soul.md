@@ -181,6 +181,8 @@ Here's what Alex Hormozi said in his Tony Robbins interview:
 
 He was *dissociated*. Executing brilliantly. Feeling nothing.
 
+That's not just entrepreneurs. It's the corporate professional who was earning well, advancing fast, and still walked away -- because the values presented to the public didn't reflect those practiced inside. The hypocrisy doesn't undermine productivity. It undermines motivation. You don't lose skills when values misalign. You lose the will to use them.
+
 That's most business owners. They outsource the thinking — to agencies, to AI, to templates, to gurus — and then wonder why they feel like operators instead of contributors. They're doing the work but they've lost the thread of why.
 
 This is what I'm fighting against. Not just the content merry-go-round. Not just the grind. The deeper problem: building a business you can't feel anymore.
