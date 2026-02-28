@@ -59,6 +59,11 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - **Validate before you build** — Know it works before investing in infrastructure
 - **Alignment + automation** — Not scale for scale's sake
 - **Self-liquidating checkout** — Front-end (~~$197~~ $47) + bumps ($37/$67/$97) + OTOs cover ad spend. Backend is pure profit. Don't scale until checkout AOV is $90+.
+- **Good enough to launch, then refine** -- Most decisions don't require perfect information. They require good judgment applied to good-enough data. The obsession with precision masks fear of making the call.
+- **Extraction over templates** -- Client Ready pulls out what you already know and builds from that. Not "here's my system, copy it." Your zone of genius, your voice, your strengths. Translation, not inspiration.
+- **Framework over feelings** -- The sprint provides structure that moves you forward even when self-doubt shows up. You don't have to trust your feelings when there's a framework doing the heavy lifting.
+- **The foundation compounds** -- The discipline you're building today won't pay off this quarter. The systems you're implementing won't show results this month. But it's stacking. Quietly. Relentlessly.
+- **Strategic presence over constant availability** -- Paid traffic lets you be deliberate about where you show up. Value doesn't come from being everywhere. It comes from being strategic.
 
 ---
 

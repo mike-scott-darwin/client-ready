@@ -43,6 +43,35 @@ updated_from: 2026-01-25
 6. **Wrong advice** — Told to hustle harder, scale faster, push through the pain
 7. **Starting to doubt** — Wondering if the problem is them (it's not — it's building something misaligned)
 
+
+## The Stuck Patterns
+
+The pain points describe what's happening. These patterns describe why they can't move.
+
+1. **Avoidance-as-prudence.** They call it "not ready yet" or "still researching." It's fear of starting dressed up as caution. The hard thing is usually hard for about fifteen minutes -- but every day they delay, those fifteen minutes feel more like fifteen hours.
+
+2. **Relitigating past failures.** Every hour spent explaining what went wrong is an hour not spent building what comes next. They're stuck in the grieving phase instead of the problem-solving phase.
+
+3. **Mistaking the dip for failure.** They invested in something new and it got harder, not easier. They interpreted the dip as proof it wasn't working -- when it was actually the cost of leveling up. They quit at the right time for the wrong reason.
+
+4. **Confusing silence with stagnation.** No immediate results = "it's not working." They stop watering the seed because they can't see the root system forming. The wins that look sudden to outsiders are never sudden to the people who lived through the invisible phase.
+
+5. **Perfection as procrastination.** They optimize for accuracy when direction matters more. Fourteen tabs open, three courses half-finished, and still no offer live. The obsession with getting it right masks fear of making the call.
+
+6. **Identity mismatch.** They're forcing someone else's playbook. The guru told them to do reels, write daily, build a community -- none of it fits who they are. The exhaustion isn't from the work. It's from the performance.
+
+7. **Confusing availability with value.** Always reachable, always responsive, always saying yes. They think they're being helpful. They're actually teaching people their time has no cost -- and burning out in the process.
+
+8. **Labeling setbacks as proof.** The post that got 3 likes = "nobody wants what I have." The refund request = "my offer is bad." They're emotionally fused to every data point instead of reading patterns.
+
+9. **Expertise as a cage.** They know too much. Five courses, 200 hours of YouTube, all the books. The knowledge itself became the obstacle -- they see every risk, every complication, every reason to wait.
+
+10. **Over-chasing.** Jumping between niches, pivoting every month, starting a new offer before finishing the last one. Not focused, just busy. When you chase everything, you catch nothing.
+
+11. **Safety as slow death.** They left the 9-to-5 -- then rebuilt the same comfort zone in their coaching business. Safe offers, safe content, safe positioning. They're not burning out. They're rusting out.
+
+---
+
 ## What They've Tried
 
 - Watched hours of YouTube content on "how to start a coaching business"

@@ -35,6 +35,19 @@ Michael sounds like a smart friend who's figured something out and is explaining
 | **Confident** | Knows his stuff. Doesn't apologize for having opinions. |
 | **Conversational** | Writes like he talks. Contractions. Short sentences. |
 | **Anti-guru** | Actively rejects hype, fluff, and overcomplicated advice. |
+| **Practically optimistic** | Not pretending everything is fine. Not complaining. Just moving. Refuses to let circumstances dictate the next move. |
+| **Concrete** | Uses specific examples to make abstract ideas tangible. Shows the math, not the theory. |
+| **Calm** | The loudest person in the room rarely drives lasting change. Direct but not loud. Controlled, not performative. |
+
+---
+
+## Voice Mechanics
+
+**Reframing is the core skill.** Same facts, different frame, different outcome. "You failed at content" becomes "the content treadmill was designed to fail you." "You're not cut out for this" becomes "you had the wrong offer, not the wrong skills." Every piece of content reframes the guru narrative.
+
+**Directness comes from not needing approval.** You say what you think because you've already let go of needing everyone to agree. The world isn't holding its breath for your opinion -- and that's freeing.
+
+**Clarity challenges itself.** Clarity doesn't mean you've got the whole picture. A smart friend challenges their own assumptions, not just yours.
 
 ---
 
