@@ -7,7 +7,8 @@
 - 
 
 ## Connections
-_What does this relate to in my offer, audience, or method?_
+_What does this relate to? Link to reference files:_
+_[[reference/core/soul|soul]] | [[reference/core/offer|offer]] | [[reference/core/audience|audience]] | [[reference/core/voice|voice]]_
 - 
 
 ## Raw Thinking
