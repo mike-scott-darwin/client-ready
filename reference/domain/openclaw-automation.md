@@ -28,11 +28,13 @@ With the Obsidian journal layer, it also captures raw thinking from your phone, 
 
 ## Phase 0 vs Phase 3
 
-Phase 0 (now): Claude Code + Python scripts + launchd for scheduling. You create content in Claude Code, scripts post on schedule. Works for most jobs but requires your Mac to be open and has no approval loop from your phone.
+Phase 0 (now): Claude Code + Python scripts + launchd for scheduling. You create content in Claude Code, scripts post on schedule. Claude Code mobile (launched Feb 2026) gives phone access to the full repo -- /think, /start, journal entries, reference edits, all from your phone. This eliminates the primary reason for the Telegram/Discord approval gateway.
 
-Phase 3 (M1 Mac Mini): OpenClaw gateway running 24/7 with Telegram/Discord approval. Content distribution, monitoring, voice pipeline, morning briefs -- all running autonomously with human-in-the-loop via messaging. The M1 runs headless in clamshell mode as a dedicated agent workstation.
+Phase 3 (M1 Mac Mini): Deferred until ad spend is live and monitoring jobs have data. The M1 adds always-on autonomous crons (morning briefs, ad monitoring, journal intelligence) and local whisper-cpp for voice pipeline. These capabilities only matter when there is volume to monitor and voice input to transcribe.
 
-Phase 2 (DigitalOcean cloud) is skipped. The Feb 25 evaluation concluded that Claude Code + Python + launchd handles most jobs, and the M1 handles everything else. No cloud server needed.
+Phase 2 (DigitalOcean cloud) is skipped. The Feb 25 evaluation concluded that Claude Code + Python + launchd handles most jobs. Claude Code mobile further reduces the gap.
+
+**M1 trigger (revised):** Not "when hardware arrives" but "when paid ads are running and you need 24/7 monitoring." Until then, MacBook + launchd + Claude Code mobile covers everything.
 
 ---
 
@@ -265,12 +267,12 @@ Nine model aliases configured. Daily bakeoff at 4:20 AM rotates candidates weekl
 
 | Phase | When | What | Monthly Cost |
 |-------|------|------|-------------|
-| Phase 0 (now) | Feb 2026 | Claude Code + Python scripts + launchd | ~100 (Claude subscription) |
-| Phase 3 | When M1 Mac Mini arrives | Native OpenClaw + local inference + whisper-cpp | One-time hardware + ~52 API |
+| Phase 0 (now) | Feb 2026 | Claude Code + Claude Code mobile + Python scripts + launchd + enrichment scanner | ~100 (Claude subscription) |
+| Phase 3 | When paid ads are live and monitoring has data | M1 Mac Mini + OpenClaw + local inference + whisper-cpp | One-time hardware + ~52 API |
 
-Phase 2 (DigitalOcean cloud) is skipped. Claude Code + Python + launchd handles most jobs during Phase 0. The M1 adds the always-on gateway, Telegram/Discord approval loop, voice pipeline, and autonomous cron suite.
+Phase 2 (DigitalOcean cloud) is skipped. Claude Code mobile eliminated the phone approval loop gap. The enrichment scanner handles daily journal triage locally.
 
-**Trigger for Phase 3 setup:** M1 Mac Mini arrives and is connected to network.
+**Trigger for Phase 3 setup:** Paid ads running with daily spend, requiring 24/7 monitoring (Jobs 2, 3, 7). NOT hardware arrival -- business traction.
 
 ---
 
@@ -383,6 +385,8 @@ Full cron suite: approximately 0.01/day (plus weekly/monthly Job 8 runs).
 - Replacing GHL for email automation (GHL handles workflows, OpenClaw monitors)
 
 OpenClaw is the monitoring, distribution, and capture layer. It does not think for you. It ships what you have already thought through, and captures raw thinking so nothing falls through the cracks.
+
+**Phase 0 enrichment flywheel (active now):** journal/ folder for raw thinking capture, enrichment-scanner.py for daily cross-referencing against reference files, Claude Code mobile for phone access. The flywheel: capture (journal) > connect (scanner) > decide (/think) > codify (reference) > create (content/ads) > observe (analytics) > capture again.
 
 ---
 
