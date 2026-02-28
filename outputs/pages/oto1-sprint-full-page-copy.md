@@ -171,11 +171,7 @@ Ready-to-launch campaign templates you can deploy immediately. Just plug in your
 
 ## [PROOF SECTION]
 
-### What Sprint Members Are Saying:
-
-**DEVELOPER: DO NOT PUBLISH PLACEHOLDER QUOTES. Either replace with real testimonials or remove this entire section from the live page.**
-
-*[Add real Sprint member testimonials here when available.]*
+*[Section removed — add real Sprint member testimonials when available.]*
 
 ---
 
@@ -183,11 +179,11 @@ Ready-to-launch campaign templates you can deploy immediately. Just plug in your
 
 ## THIS IS PERFECT FOR:
 
-🧑‍💼 Entrepreneurs who want to skip the DIY phase and go straight to profits
+— Entrepreneurs who want to skip the DIY phase and go straight to profits
 
-🧑‍💼 Coaches who prefer proven systems over trial, error and tech headaches
+— Coaches who prefer proven systems over trial, error and tech headaches
 
-🧑‍💼 Anyone ready to invest in speed and certainty over slow building
+— Anyone ready to invest in speed and certainty over slow building
 
 ---
 
@@ -235,7 +231,7 @@ Ready-to-launch campaign templates you can deploy immediately. Just plug in your
 
 ---
 
-**REGULAR PRICE: ~~$497~~**
+**REGULAR PRICE: $497**
 
 Yours Today - Just One Payment Of
 
@@ -292,7 +288,7 @@ Use the system. Complete the sprint. If you don't have a validated offer ready t
 
 | Item | Amount |
 |------|--------|
-| List Price | ~~$497~~ |
+| List Price | $497 |
 | **Charged** | **$297** |
 
 **GHL implementation:** Set OTO price to $297.
