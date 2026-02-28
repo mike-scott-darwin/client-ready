@@ -4,6 +4,7 @@ status: active
 date: 2026-02-03
 linked_decisions:
   - decisions/2026-02-03-content-strategy.md
+  - decisions/2026-02-24-content-automation-rollout.md
 ---
 
 # Content Strategy
@@ -53,7 +54,7 @@ $47 → Sprint → Accelerator
 | **Friday** | — | 3-5 tweets | Post (contrarian take) |
 | **Weekend** | Batch next week | Light engagement | — |
 
-**Time investment:** ~6-8 hrs/week
+**Time investment:** ~2-3 hrs/week (Phase 0 — batch-draft with Claude, manual posting)
 
 ---
 
@@ -246,15 +247,58 @@ _Add frameworks extracted from mining and research here._
 
 ---
 
+## Automation Pipeline
+
+Git-tracked content production. All content lives in `content/` with full audit trail.
+
+```
+content/
+├── drafts/       → Agent or human creates content here
+├── scheduled/    → Approved content waiting to publish
+└── published/    → Posted content with engagement metadata
+```
+
+### Phases
+
+| Phase | What | Time/Week | Cost/Mo | Status |
+|-------|------|-----------|---------|--------|
+| **0: Manual** | Batch-draft with Claude, manual posting | 2-3 hrs | $0 | **Active** |
+| **1: Scheduled** | Typefully + Buffer APIs, agent drafts, human reviews | <1 hr | ~$30 | March 2026 |
+| **2: OpenClaw** | Always-on agent, Telegram approvals, auto-publish | 15 min/day | ~$87 | Q2 2026 |
+| **3: Voice-Note** | Talk → transcribe → agent shapes → posts | 15 min/day | TBD | Q3 2026 |
+
+**Phase gates:** Each phase requires 4+ weeks of proven performance before graduating.
+
+### Phase 0 Workflow (Current)
+
+1. Monday: Batch-draft a week of content using `/organic` or Claude Code
+2. Save to `content/drafts/` — each piece gets frontmatter (platform, type, angle, pillar)
+3. Review and edit
+4. Post manually via Typefully (X) and LinkedIn native
+5. Move to `content/published/` with engagement data after posting
+6. Sunday: Review metrics, update Content Bank tables
+
+**Trigger to enter Phase 1:** Consistent 4+ weeks of content shipping with measurable engagement data.
+
+### Key Principle
+
+> "OpenClaw READS from your business repo. Business truth stays in the business repo."
+
+Reference files are the canon. Content is derivative. The automation layer never touches the source of truth — it only reads from `reference/` and writes to `content/`.
+
+---
+
 ## Tools
 
-| Purpose | Tool |
-|---------|------|
-| Newsletter | Beehiiv |
-| Scheduling (X) | Typefully or native |
-| Scheduling (LinkedIn) | Native or Buffer |
-| Analytics | Platform native + spreadsheet |
-| Content calendar | Notion or spreadsheet |
+| Purpose | Tool | Phase |
+|---------|------|-------|
+| Newsletter | Beehiiv | 0+ |
+| Scheduling (X) | Typefully (manual → API) | 0 (manual), 1+ (API) |
+| Scheduling (LinkedIn) | Native or Buffer | 0 (native), 1+ (Buffer) |
+| Analytics | Platform native + spreadsheet | 0-1 |
+| Content calendar | Git (`content/drafts/` directory) | 0+ |
+| Automation | OpenClaw + DigitalOcean | 2+ |
+| Transcription | whisper-cpp (local) | 3 |
 
 ---
 
@@ -265,9 +309,13 @@ _Add frameworks extracted from mining and research here._
 - [x] Optimize LinkedIn headline and about section
 - [x] Write first newsletter
 - [x] Create first week of content
+- [x] Set up `content/` pipeline directories (drafts, scheduled, published)
 - [ ] Set up weekly metrics tracking
+- [ ] Ship 4 consecutive weeks of content (Phase 0 → Phase 1 gate)
+- [ ] Set up Typefully API connection (Phase 1 prerequisite)
+- [ ] Set up Buffer for LinkedIn scheduling (Phase 1 prerequisite)
 
 ---
 
-*Last updated: 2026-02-27*
-*Decision: decisions/2026-02-03-content-strategy.md*
+*Last updated: 2026-02-28*
+*Decisions: decisions/2026-02-03-content-strategy.md, decisions/2026-02-24-content-automation-rollout.md*

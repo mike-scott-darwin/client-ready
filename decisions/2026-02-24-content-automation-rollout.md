@@ -1,6 +1,6 @@
 ---
 type: decision
-status: accepted
+status: codified
 date: 2026-02-24
 linked_research:
   - research/2026-02-21-devon-openclaw-5-day-setup-skool.md
