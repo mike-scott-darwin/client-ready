@@ -34,7 +34,7 @@ $30/day → $60 → $90 → $200. One angle at a time. Each stage funded by reve
 |---|-------|------|-----------|
 | 1 | **[Before the Funnel](./before-the-funnel.md)** | "Everyone's selling you funnels. Nobody's asking: do you have an offer worth building one for?" | Problem Aware → Unaware |
 | 2 | **[Content Merry-Go-Round](./content-merry-go-round.md)** | "You've been posting for 12 months. Getting likes. Nobody's buying." | Problem Aware |
-| 3 | **[Clarity Unlock](./clarity-unlock.md)** | "Most coaches can't explain their offer in one sentence. 5 AI prompts fix that in an afternoon." | Solution Aware |
+| 3 | **[Clarity Unlock](./clarity-unlock.md)** | "Most coaches can't explain their offer in one sentence. Fix that in one afternoon." | Solution Aware |
 | 4 | **[Misalignment](./misalignment.md)** | "I burned down a business that was working. Best decision I ever made." | Unaware (belief shift) |
 
 These 4 angles cover all awareness levels. When Before the Funnel and Misalignment perform, you're reaching the unaware market that scales.
@@ -75,7 +75,7 @@ Full ad copy: [before-the-funnel.md](./before-the-funnel.md)
 - [ ] 1 ABO campaign → 1 ad set (Before the Funnel), broad targeting
 - [ ] All ads: "Learn More" CTA, Advantage+ Creative OFF, site links OFF, creative enhancements OFF
 - [ ] Ad naming: `Problem Aware - [Format] - Before the Funnel`
-- [ ] Link description: "5 AI prompts extract your $5K offer in one afternoon. Self-guided system. $47."
+- [ ] Link description: "Build a clear, testable $5K offer in one afternoon. Self-guided system. $47."
 - [ ] $30/day budget set
 - [ ] Ads Manager columns: Frequency, Results, Cost/Result, ROAS, AOV, Amount Spent, CTR, CPC, LP Views
 - [ ] **72-hour hands-off period — no changes until Day 4**
@@ -235,9 +235,9 @@ Every ad, every stage:
 
 ## Link Description (All Ads)
 
-> 5 AI prompts extract your $5K offer in one afternoon. Self-guided system. $47.
+> Build a clear, testable $5K offer in one afternoon. Self-guided system. $47.
 
-AI-forward. Before social proof, before the mechanism, before the price.
+Outcome-forward. Lead with what it does, not how it works. AI appears in the copy once they're hooked.
 
 ---
 
