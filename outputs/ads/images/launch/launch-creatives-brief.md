@@ -95,7 +95,7 @@ The offer wasn't clear. Fix that first.
 
 **CTA:** "$47 — link below"
 
-**Why:** This is already working. Use a slightly different crop or scroll position to create visual variety from the video thumbnail.
+Use a different crop or scroll position from the video thumbnail for visual variety.
 
 ---
 
@@ -129,7 +129,7 @@ $5,000.
 
 **CTA:** "$47 — link below"
 
-**Why:** The transformation IS the product. Show the exact output the system creates.
+The output IS the ad. Show what they actually get.
 
 ---
 
@@ -215,7 +215,7 @@ just creates more content nobody buys.
 
 **CTA:** "$47 — link below"
 
-**Why:** Positions the system as the alternative to the content treadmill.
+Show the system — not more content advice.
 
 ---
 
@@ -232,14 +232,14 @@ just creates more content nobody buys.
 
 ```
 1 afternoon. 1 clear offer.
-First client: week 2.
+Now you know what to sell.
 ```
 
 **Title overlay:** "Stop posting. Start selling."
 
 **CTA:** "$47 — link below"
 
-**Why:** The visual gap between effort (365 posts) and result (0 clients) vs. effort (1 afternoon) and result (first client) is the whole argument.
+365 posts, 0 clients vs. 1 afternoon, 1 client. The gap sells it.
 
 ---
 
@@ -256,7 +256,7 @@ First client: week 2.
 
 **CTA:** "$47 — link below"
 
-**Why:** Robin's quote IS the content merry-go-round. Exact customer language.
+Robin's exact words. No rewrite needed.
 
 ---
 
@@ -264,13 +264,11 @@ First client: week 2.
 
 **Screen:** Screenshot zoomed into Prompt 2 — "Ideal Client Profile" or the section that shows who to sell to (not who to post for).
 
-**Title overlay:** "The offer your content should've been selling all along"
+**Title overlay:** "What to fix before you post again"
 
 **Face cam:** Your face, bottom-left.
 
 **CTA:** "$47 — link below"
-
-**Why:** Reframes content as a symptom of unclear offer — the system fixes the root cause.
 
 ---
 
@@ -296,10 +294,11 @@ in one sentence.
 Alt:
 
 ```
-The answer was already inside you.
+You've explained what you do
+a hundred times.
 
-You just couldn't see it
-until someone translated it.
+Nobody bought because
+you never said it clearly once.
 ```
 
 ---
@@ -314,7 +313,7 @@ until someone translated it.
 
 **CTA:** "$47 — link below"
 
-**Why:** This is your working creative format. The completed output IS the clarity unlock.
+Same format as the working ad. Different scroll position.
 
 ---
 
@@ -335,18 +334,18 @@ flexible depending on the situation...
 **Right side (AFTER):** Clean one-liner from the system:
 
 ```
-"I help new coaches validate a
-$5K offer in one afternoon —
-so they stop guessing and start selling."
+I help burnt-out tech managers
+build a 90-day resilience practice
+so they stop losing their best people.
 
-Clear. Specific. Sells itself.
+$5,000.
 ```
 
 **Title overlay:** "Same person. Same expertise. Different offer."
 
 **CTA:** "$47 — link below"
 
-**Why:** The before text is painfully relatable. Every coach has given that rambling answer. The after is what clarity sounds like.
+Same format as the working before/after ad.
 
 ---
 
@@ -363,7 +362,7 @@ Clear. Specific. Sells itself.
 
 **CTA:** "$47 — link below"
 
-**Why:** Wendy went from months of "creative procrastination" to absolute clarity. That's the product promise delivered.
+Wendy's exact words. Let the quote do the work.
 
 ---
 
@@ -371,13 +370,11 @@ Clear. Specific. Sells itself.
 
 **Screen:** Screenshot zoomed into Prompt 3 — the "Client Ready Offer" prompt that builds the actual offer document.
 
-**Title overlay:** "The prompt that writes your offer for you"
+**Title overlay:** "The prompt that builds your offer"
 
 **Face cam:** Your face, bottom-left.
 
 **CTA:** "$47 — link below"
-
-**Why:** AI does the heavy lifting. Shows the specific mechanism. Curiosity about what the prompt actually says.
 
 ---
 
@@ -421,7 +418,7 @@ it'll hurt worse at $50K/month.
 
 **CTA:** "$47 — link below"
 
-**Why:** The Misalignment angle is about building the wrong offer. This prompt is the direct solution.
+Shows the first step: make sure you're building the right thing.
 
 ---
 
@@ -452,7 +449,7 @@ losing team members to burnout.
 
 **CTA:** "$47 — link below"
 
-**Why:** This is the Misalignment story in visual form. Multiple failed attempts → one clear thing.
+Same before/after format. List of failed offers → one that works.
 
 ---
 
@@ -469,7 +466,7 @@ losing team members to burnout.
 
 **CTA:** "$47 — link below"
 
-**Why:** Carly's quote is the strongest Misalignment testimonial. Alignment as the outcome, not just revenue.
+Carly's exact words. Alignment over revenue — that's the Misalignment angle.
 
 ---
 
@@ -483,7 +480,7 @@ losing team members to burnout.
 
 **CTA:** "$47 — link below"
 
-**Why:** The engineering approach — validate first. Directly addresses the fear of building the wrong thing again.
+Test before you build. That's the whole point.
 
 ---
 
