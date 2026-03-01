@@ -36,9 +36,9 @@ Brand arc: Most coaches are stuck at **Confused**. This angle moves them to **Cl
 | 1 | BtF-01 Ugly Static | P4 Pattern Interrupt | H7 Belief Shift |
 | 2 | BtF-02 Product Reveal | P4 Pattern Interrupt | H7 Belief Shift |
 | 3 | BtF-03 Before/After | P4 Pattern Interrupt | H7 Belief Shift |
-| 4 | BtF-V1 Silent Review Video | P4 Pattern Interrupt | H7 Belief Shift |
+| 4 | BtF-V1 Prompt Walkthrough Video | P4 Pattern Interrupt | H2 Mechanism |
 
-Same copy block across all 4 ads. Different creative formats test which IMAGE stops the scroll — not which copy converts. One variable at a time.
+Same copy block across all 4 ads. 3 image ads use H7 (belief shift). Video uses H2 (outcome-forward) because the video shows the mechanism — the headline states the result.
 
 ### Stage 2 Expansion (After 10+ Sales)
 
