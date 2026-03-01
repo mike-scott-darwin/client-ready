@@ -294,6 +294,8 @@ The coaches who seem to effortlessly attract clients from their content aren't b
 
 Most coaches have never gone through the step of getting the offer clear. They went straight from "I want to be a coach" to "how do I get clients?" and the answer they got was "post content."
 
+But it gets worse. The content advice isn’t just ineffective — it’s someone else’s playbook. The guru said do reels. Write daily. Build a community. For some coaches, none of that fits who they are. The exhaustion isn’t from the work. It’s from the performance.
+
 So they post. They show up. They're consistent. They get likes and comments and followers.
 
 And nobody buys.

@@ -231,7 +231,7 @@ Grab it here ↓
 ```text
 Everyone sells funnels and nobody asks the obvious question first
 
-Most coaches never ask that question. They skip straight to building. They build funnels for offers they haven't validated. Spend thousands on infrastructure for something nobody wants to buy.
+Most coaches never ask that question. Some skip straight to building. Some skip to "still researching" — fourteen tabs open, three courses half-finished, no offer live. Both are the same trap.
 
 Wrong order.
 

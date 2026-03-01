@@ -81,6 +81,14 @@ Coaches and consultants validate a $5K+ offer they won't abandon — in one afte
 | 31 | Reverse Psychology | Offer clarity |
 | 32 | Reverse Psychology | Content fatigue |
 | 33 | Reverse Psychology | Self-qualification |
+| 34 | Stuck Pattern | Avoidance-as-prudence |
+| 35 | Stuck Pattern/Reframe | Mistaking the dip |
+| 36 | Stuck Pattern | Identity mismatch |
+| 37 | Stuck Pattern/Reframe | Labeling setbacks |
+| 38 | Stuck Pattern | Expertise as cage |
+| 39 | Stuck Pattern | Safety as slow death |
+| 40 | Stuck Pattern | Confusing silence |
+| 41 | Stuck Pattern | Relitigating failures |
 
 ---
 
@@ -103,6 +111,7 @@ Per `research/2026-02-17-meta-ads-strategies-2026-gemini.md` — filters for hig
 - **Side Hustle Identity** (lines 10, 22) — potential 5th full copy block
 - **Anti-Guru** (lines 25, 28, 30) — potential 6th full copy block
 - **"Don't Buy This"** (lines 31, 32, 33) — potential reverse psychology concept block
+- **Stuck Patterns** (lines 34-41) — enrichment-derived hooks from audience.md stuck patterns, belief-shift candidates
 
 ---
 
@@ -173,3 +182,20 @@ Per `research/2026-02-17-meta-ads-strategies-2026-gemini.md` — filters for hig
 32. Don't buy this if you hate having an offer that sells itself. Keep guessing. Keep posting. Keep hoping. `"DON'T BUY THIS" HOOK`
 
 33. Don't buy this if you already know exactly what you sell, who it's for, and can say it in one sentence. You don't need it. Everyone else does. `"DON'T BUY THIS" HOOK`
+
+
+34. Fourteen tabs open. Three courses half-finished. No offer live. That’s not research. It’s avoidance with a study plan. `Stuck Pattern: Avoidance-as-prudence` `BELIEF SHIFT — run without CTA`
+
+35. They quit at the right time for the wrong reason. The dip wasn’t proof it failed — it was the cost of leveling up. `Stuck Pattern: Mistaking the dip` `BELIEF SHIFT — run without CTA`
+
+36. The guru said do reels. Post daily. Build a community. None of it fit who they are. The exhaustion isn’t from the work. It’s from the performance. `Stuck Pattern: Identity mismatch` `BELIEF SHIFT — run without CTA`
+
+37. The post got 3 likes and they decided nobody wants what they have. One data point isn’t a verdict. It’s noise. `Stuck Pattern: Labeling setbacks` `BELIEF SHIFT — run without CTA`
+
+38. Five courses. 200 hours of YouTube. Every framework in the book. The knowledge became the cage. They don’t need more information. They need extraction. `Stuck Pattern: Expertise as a cage`
+
+39. Left the 9-to-5. Built a coaching business. Same safe offers. Same safe content. Same comfort zone, different address. Not burning out. Rusting out. `Stuck Pattern: Safety as slow death` `USV CANDIDATE`
+
+40. No results yet so they stopped. Pulled the plant up to check the roots. The wins that look sudden to outsiders are never sudden to the people who lived through the invisible phase. `Stuck Pattern: Confusing silence` `BELIEF SHIFT — run without CTA`
+
+41. Every hour spent relitigating what went wrong is an hour not building what comes next. The grieving phase has a shelf life. `Stuck Pattern: Relitigating failures` `BELIEF SHIFT — run without CTA`
