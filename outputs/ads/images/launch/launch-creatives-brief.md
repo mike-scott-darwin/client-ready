@@ -139,7 +139,7 @@ The output IS the ad. Show what they actually get.
 
 **Script outline:**
 1. Open on the system intro page — text overlay: "Everyone sells funnels. Nobody asks the obvious question first."
-2. Scroll through the 5 prompts — text overlay: "5 AI prompts. One afternoon."
+2. Scroll through the 5 prompts — text overlay: "One afternoon. One clear offer."
 3. Show a completed offer document — text overlay: "This is what clarity looks like."
 4. End frame: "$47 — link below"
 
@@ -288,7 +288,7 @@ Notes app, dark mode:
 Most coaches can't explain their offer
 in one sentence.
 
-5 AI prompts fix that in an afternoon.
+Fix that in one afternoon. $47.
 ```
 
 Alt:
@@ -307,7 +307,7 @@ you never said it clearly once.
 
 **Screen:** Screenshot showing a completed offer document — the final output. Clean, structured, one-page.
 
-**Title overlay:** "How 5 AI prompts build your $5K offer"
+**Title overlay:** "Build your $5K offer in one afternoon"
 
 **Face cam:** Your face, bottom-right.
 

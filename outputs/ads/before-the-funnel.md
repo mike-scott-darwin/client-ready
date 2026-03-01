@@ -387,7 +387,7 @@ Most coaches have never been asked these questions in this order. When they are,
 *Coaching result. The $47 system uses the same extraction framework, self-guided.
 
 **H2 — Mechanism-Led:** `SOLUTION AWARE`
-5 AI Prompts Extract Your Offer in One Afternoon — Before You Build Anything
+Build Your $5K Offer in One Afternoon — Before You Spend a Dollar on Funnels
 
 **H3 — Outcome-Led:** `PROBLEM AWARE`
 Stop Guessing. Know Exactly What You Sell Before You Spend a Dollar on Funnels.
@@ -490,14 +490,14 @@ Every testimonial reference includes:
 
 ## Link Description (Ads Manager)
 
-Use across ALL Before the Funnel ads. AI-forward — leads with the mechanism.
+Use across ALL Before the Funnel ads. Outcome-forward — lead with what it does, not how it works.
 
-> 5 AI prompts extract your $5K offer in one afternoon. Self-guided system. $47 — before you build anything.
+> Build a clear, testable $5K offer in one afternoon. Self-guided system. $47 — before you build anything.
 
 **Alt (price-forward):**
-> $47 and one afternoon. 5 AI prompts that turn your expertise into a clear, testable offer. Money-back guarantee.
+> $47 and one afternoon. Turn your expertise into a clear, testable offer — before you spend a dollar on funnels. Money-back guarantee.
 
-Per Decision 2 (`decisions/2026-02-22-miles-stutz-mining-response.md`): AI should be headline-level, not buried.
+AI is the mechanism, not the lead. Outcome first — AI appears in the copy and creative once they're already hooked.
 
 ---
 
