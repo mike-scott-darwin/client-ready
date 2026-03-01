@@ -13,6 +13,7 @@ import os
 import sys
 import json
 import re
+import shutil
 from datetime import datetime
 from pathlib import Path
 
@@ -20,6 +21,7 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).parent.parent
 ENV_FILE = REPO_ROOT / ".env"
 DRAFTS_DIR = REPO_ROOT / "content" / "drafts"
+PUBLISHED_DIR = REPO_ROOT / "content" / "published"
 STATE_FILE = REPO_ROOT / ".x-poster-state.json"
 LOG_FILE = REPO_ROOT / "scripts" / "x-poster.log"
 
@@ -172,9 +174,29 @@ def main():
         state[today] = posted_today
         save_state(state)
         log(f"Tweet {next_index + 1} posted: https://x.com/mikescot/status/{tweet_id}")
+
+        # Move to published/ after all tweets for the day are posted
+        if next_index + 1 >= len(tweets):
+            move_to_published(draft_path)
     else:
         log(f"Failed to post tweet {next_index + 1}.")
         sys.exit(1)
+
+
+def move_to_published(filepath):
+    """Move draft to published/ and update frontmatter status."""
+    PUBLISHED_DIR.mkdir(parents=True, exist_ok=True)
+    dest = PUBLISHED_DIR / filepath.name
+
+    # Update frontmatter before moving
+    content = filepath.read_text()
+    content = re.sub(r'status:\s*draft', 'status: published', content)
+    content = re.sub(r'published_date:\s*null',
+                     f'published_date: {datetime.now().strftime("%Y-%m-%d")}',
+                     content)
+    dest.write_text(content)
+    filepath.unlink()
+    log(f"Moved {filepath.name} → content/published/")
 
 
 if __name__ == "__main__":
