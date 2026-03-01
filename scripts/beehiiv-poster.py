@@ -297,5 +297,6 @@ def move_to_published(filepath):
     log(f"Moved {filepath.name} → content/published/")
 
 
+
 if __name__ == "__main__":
     main()
