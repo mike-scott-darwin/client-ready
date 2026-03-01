@@ -36,9 +36,9 @@ No AI-generated images. No staged laptops. No metaphors. Real product. Real proo
 | **Product reveal** | Screenshot of actual system section + title overlay + face cam | 10 min |
 | **Before/after** | Split: confused offer → clear offer from the system | 10 min |
 
-**Video:** Silent review — screen recording scrolling through the system + face cam + text overlay. 1-2 hours.
+**Video:** Prompt walkthrough — screen recording of you running the prompts in GPT + face cam + subtitles. ~45 min to 1 hour.
 
-**Total Stage 1 production time: ~90 minutes. You're live the same day.**
+**Total Stage 1 production time: ~80 minutes. You're live the same day.**
 
 ---
 
@@ -133,19 +133,27 @@ The output IS the ad. Show what they actually get.
 
 ---
 
-### BtF-V1: Silent Review Video
+### BtF-V1: Prompt Walkthrough Video
 
-**Format:** Screen recording scrolling through the Client Ready Offer System + face cam circle overlay + text overlay with hooks.
+**Format:** Screen recording of you inputting the AI prompts into GPT + face cam circle overlay + subtitles.
 
-**Script outline:**
-1. Open on the system intro page — text overlay: "Everyone sells funnels. Nobody asks the obvious question first."
-2. Scroll through the 5 prompts — text overlay: "One afternoon. One clear offer."
-3. Show a completed offer document — text overlay: "This is what clarity looks like."
+**Headline (Meta):** H2 — "Build Your $5K Offer in One Afternoon — Before You Spend a Dollar on Funnels"
+
+**Title overlay (first frame):** "Build your $5K offer in one afternoon"
+
+**What to record:** Open GPT, paste each prompt, show the output being generated. The viewer watches the system work in real time. Subtitles describe what's happening at each step.
+
+**Subtitle sequence:**
+1. Prompt 1 going in — "Extract your Zone of Genius"
+2. GPT generating output — "One afternoon. One clear offer."
+3. Final offer document taking shape — "This is what clarity looks like."
 4. End frame: "$47 — link below"
 
-**Production:** CapCut or similar. Face cam circle bottom-right. No voiceover needed (silent review). Add captions if using spoken audio.
+**Production:** CapCut. Face cam circle (left or right). Subtitles bold, high contrast (yellow/white on black bar). No voiceover needed — subtitles carry the story.
 
-**Time:** 1-2 hours.
+**Time:** ~45 min to 1 hour (10-15 min recording + 30-45 min editing in CapCut).
+
+**Note:** BtF-V1 uses H2 (outcome-forward) instead of H7 (belief shift) because the video shows the mechanism — the headline should state the result. The 3 image ads keep H7.
 
 ---
 
@@ -491,7 +499,7 @@ Test before you build. That's the whole point.
 - [ ] BtF-01: Notes app, dark mode → type and screenshot (+ alt). Crop to 1:1 and 9:16.
 - [ ] BtF-02: Screenshot system intro page → add face cam + title overlay + CTA in Canva/CapCut
 - [ ] BtF-03: Type "before" text in Notes app + screenshot "after" from system → side-by-side in Canva + CTA
-- [ ] BtF-V1: Screen record scrolling through system + face cam overlay + text hooks in CapCut
+- [ ] BtF-V1: Screen record running prompts in GPT + face cam overlay + subtitles in CapCut
 
 **That's it. 4 creatives. Go live.**
 
@@ -536,7 +544,7 @@ Test before you build. That's the whole point.
 | BtF-01 | Problem Aware - Ugly Static - Before the Funnel |
 | BtF-02 | Problem Aware - Product Reveal - Before the Funnel |
 | BtF-03 | Problem Aware - Before After - Before the Funnel |
-| BtF-V1 | Problem Aware - Silent Review - Before the Funnel |
+| BtF-V1 | Problem Aware - Prompt Walkthrough - Before the Funnel |
 
 **Stage 2+ (add when triggered):**
 

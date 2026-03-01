@@ -71,7 +71,7 @@ Full ad copy: [before-the-funnel.md](./before-the-funnel.md)
 - [ ] CAPI (server-side tracking) set up — Stape.io ($10/mo) or dev setup
 - [ ] Landing page live in GHL (two variants: hybrid VSL + static mockup, 50/50 split)
 - [ ] 3 image creatives produced (ugly static, product reveal, before/after)
-- [ ] 1 video creative produced (silent review)
+- [ ] 1 video creative produced (prompt walkthrough — screen record running prompts in GPT)
 - [ ] 1 ABO campaign → 1 ad set (Before the Funnel), broad targeting
 - [ ] All ads: "Learn More" CTA, Advantage+ Creative OFF, site links OFF, creative enhancements OFF
 - [ ] Ad naming: `Problem Aware - [Format] - Before the Funnel`
