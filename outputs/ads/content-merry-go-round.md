@@ -418,4 +418,4 @@ Use across ALL Content Merry-Go-Round ads. AI-forward — leads with the mechani
 **Alt (pain-forward):**
 > 6 months of content. Zero clients. The problem isn't your content — it's your offer. 5 AI prompts fix it in one afternoon. $47.
 
-Per Decision 2 (`decisions/2026-02-22-miles-stutz-mining-response.md`): AI should be headline-level, not buried.
+Per Decision 2 ([decisions/2026-02-22-miles-stutz-mining-response.md](../../decisions/2026-02-22-miles-stutz-mining-response.md)): AI should be headline-level, not buried.

@@ -18,7 +18,7 @@ Brand arc: Most coaches are stuck at **Confused**. This angle moves them to **Cl
 
 ## Lean Launch: Stage 1 Setup
 
-**This is the first angle to run.** $30/day ABO, 4 ads (3 images + 1 video). See `outputs/ads/launch-strategy.md`.
+**This is the first angle to run.** $30/day ABO, 4 ads (3 images + 1 video). See [launch-strategy.md](./launch-strategy.md).
 
 ### Copy Block for Stage 1
 
@@ -59,7 +59,7 @@ Add second copy block: **P1 Deep** (long-form) with **H1 Proof** headline. Pair 
 
 # CREATIVES
 
-All creatives are UGC — real product screenshots, face cam, Notes app. No AI-generated images. See `outputs/ads/images/launch/launch-creatives-brief.md` for full production specs per stage.
+All creatives are UGC — real product screenshots, face cam, Notes app. No AI-generated images. See [launch-creatives-brief.md](./images/launch/launch-creatives-brief.md) for full production specs per stage.
 
 | Format | What It Is |
 |--------|-----------|
@@ -497,7 +497,7 @@ Use across ALL Before the Funnel ads. AI-forward — leads with the mechanism.
 **Alt (price-forward):**
 > $47 and one afternoon. 5 AI prompts that turn your expertise into a clear, testable offer. Money-back guarantee.
 
-Per Decision 2 (`decisions/2026-02-22-miles-stutz-mining-response.md`): AI should be headline-level, not buried.
+Per Decision 2 ([decisions/2026-02-22-miles-stutz-mining-response.md](../../decisions/2026-02-22-miles-stutz-mining-response.md)): AI should be headline-level, not buried.
 
 ---
 

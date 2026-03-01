@@ -452,7 +452,7 @@ Use across ALL Clarity Unlock ads. AI-forward — leads with the mechanism.
 **Alt (outcome-forward):**
 > Your expertise is the offer. 5 AI prompts pull it out and put it on paper. One afternoon. $47. Money-back guarantee.
 
-Per Decision 2 (`decisions/2026-02-22-miles-stutz-mining-response.md`): AI should be headline-level, not buried.
+Per Decision 2 ([decisions/2026-02-22-miles-stutz-mining-response.md](../../decisions/2026-02-22-miles-stutz-mining-response.md)): AI should be headline-level, not buried.
 
 ---
 

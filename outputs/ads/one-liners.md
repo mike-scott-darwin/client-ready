@@ -101,10 +101,10 @@ Coaches and consultants validate a $5K+ offer they won't abandon — in one afte
 **Ultra-short video candidates:** Any line under 20 words can be animated over 4-6 seconds as a thumb-stopper. Body copy = matching long-form primary.
 
 **"Ugly Static" format (2026 research — #1 performing creative format):**
-Every one-liner below is a candidate for Notes app screenshot, tweet screenshot, or text-on-plain-background. See `creative-guide.md` for production instructions. Best candidates: #1, #2, #19, #25, #28, #31, #32, #33.
+Every one-liner below is a candidate for Notes app screenshot, tweet screenshot, or text-on-plain-background. See [creative-guide.md](./creative-guide.md) for production instructions. Best candidates: #1, #2, #19, #25, #28, #31, #32, #33.
 
 **"Don't Buy This" reverse psychology hooks (lines 31-33):**
-Per `research/2026-02-17-meta-ads-strategies-2026-gemini.md` — filters for high-intent buyers, increases curiosity. Run as ugly static or text overlays.
+Per [research/2026-02-17-meta-ads-strategies-2026-gemini.md](../../research/2026-02-17-meta-ads-strategies-2026-gemini.md) — filters for high-intent buyers, increases curiosity. Run as ugly static or text overlays.
 
 **Angle clusters for expansion:**
 - **Course Graveyard** (lines 3, 6, 11, 30) — potential 4th full copy block
