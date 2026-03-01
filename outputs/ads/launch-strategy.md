@@ -17,10 +17,10 @@ $30/day → $60 → $90 → $200. One angle at a time. Each stage funded by reve
 
 | Stage | Budget | Angle | Trigger | Monthly Cost |
 |-------|--------|-------|---------|-------------|
-| **1. Validate** | $30/day | Before the Funnel | Day 1 — launch | ~$900 |
-| **2. Expand** | $60/day | + Content Merry-Go-Round | 10+ sales, CPA confirmed | ~$1,800 |
-| **3. Scale** | $90/day | + Clarity Unlock | 30 sales validated | ~$2,700 |
-| **4. Full** | $200/day | + Misalignment + CBO | AOV $100+ confirmed | ~$6,000 |
+| **1. Validate** | $30/day | [Before the Funnel](./before-the-funnel.md) | Day 1 — launch | ~$900 |
+| **2. Expand** | $60/day | + [Content Merry-Go-Round](./content-merry-go-round.md) | 10+ sales, CPA confirmed | ~$1,800 |
+| **3. Scale** | $90/day | + [Clarity Unlock](./clarity-unlock.md) | 30 sales validated | ~$2,700 |
+| **4. Full** | $200/day | + [Misalignment](./misalignment.md) + CBO | AOV $100+ confirmed | ~$6,000 |
 
 **Method:** ABO (Ad Set Budget Optimization) for Stages 1-3. Each ad set gets its own fixed daily budget. CBO only enters at Stage 4 with proven winners.
 
@@ -32,10 +32,10 @@ $30/day → $60 → $90 → $200. One angle at a time. Each stage funded by reve
 
 | # | Angle | Hook | Awareness |
 |---|-------|------|-----------|
-| 1 | **Before the Funnel** | "Everyone's selling you funnels. Nobody's asking: do you have an offer worth building one for?" | Problem Aware → Unaware |
-| 2 | **Content Merry-Go-Round** | "You've been posting for 12 months. Getting likes. Nobody's buying." | Problem Aware |
-| 3 | **Clarity Unlock** | "Most coaches can't explain their offer in one sentence. Fix that in one afternoon." | Solution Aware |
-| 4 | **Misalignment** | "I burned down a business that was working. Best decision I ever made." | Unaware (belief shift) |
+| 1 | **[Before the Funnel](./before-the-funnel.md)** | "Everyone's selling you funnels. Nobody's asking: do you have an offer worth building one for?" | Problem Aware → Unaware |
+| 2 | **[Content Merry-Go-Round](./content-merry-go-round.md)** | "You've been posting for 12 months. Getting likes. Nobody's buying." | Problem Aware |
+| 3 | **[Clarity Unlock](./clarity-unlock.md)** | "Most coaches can't explain their offer in one sentence. Fix that in one afternoon." | Solution Aware |
+| 4 | **[Misalignment](./misalignment.md)** | "I burned down a business that was working. Best decision I ever made." | Unaware (belief shift) |
 
 These 4 angles cover all awareness levels. When Before the Funnel and Misalignment perform, you're reaching the unaware market that scales.
 
@@ -63,8 +63,8 @@ Same copy block + headline across all 4 ads. Only the image format changes. Test
 - **P4 Pattern Interrupt:** "Everyone sells funnels and nobody asks the obvious question first" — shortest primary, under 60 words, earns spend fast at $30/day
 - **H7 Belief Shift:** "Your Marketing Isn't Broken. The Thing You're Marketing Is Unclear."
 
-Full creative specs: `outputs/ads/images/launch/launch-creatives-brief.md`
-Full ad copy: `outputs/ads/before-the-funnel.md`
+Full creative specs: [launch-creatives-brief.md](./images/launch/launch-creatives-brief.md)
+Full ad copy: [before-the-funnel.md](./before-the-funnel.md)
 
 ### Pre-Launch Checklist
 
@@ -101,8 +101,8 @@ If CPA is above $100 after 10 sales, don't expand — troubleshoot first (see Tr
 
 | Ad Set | Budget | Status |
 |--------|--------|--------|
-| Before the Funnel | $30/day | Keep running (proven) |
-| Content Merry-Go-Round | $30/day | New — testing |
+| [Before the Funnel](./before-the-funnel.md) | $30/day | Keep running (proven) |
+| [Content Merry-Go-Round](./content-merry-go-round.md) | $30/day | New — testing |
 
 ### What to Produce (~45 min)
 
@@ -112,10 +112,10 @@ If CPA is above $100 after 10 sales, don't expand — troubleshoot first (see Tr
 
 ### Stage 2 Checklist
 
-- [ ] Produce 4 creatives for Content Merry-Go-Round
+- [ ] Produce 4 creatives for [Content Merry-Go-Round](./content-merry-go-round.md)
 - [ ] Create second ABO ad set at $30/day (CMR angle, broad targeting)
 - [ ] Budget now $60/day total
-- [ ] Add second copy block to Before the Funnel (P1 Deep + H1 Proof + 3 new images)
+- [ ] Add second copy block to [Before the Funnel](./before-the-funnel.md) (P1 Deep + H1 Proof + 3 new images)
 - [ ] Monitor both ad sets independently — $20 kill rule applies to each
 - [ ] Check frequency on BtF ads — may need creative refresh after 2-3 weeks
 
@@ -132,7 +132,7 @@ If CPA is above $100 after 10 sales, don't expand — troubleshoot first (see Tr
 | Ad Set | Budget | Status |
 |--------|--------|--------|
 | Winning angles (BtF + CMR) | $60/day | Best performers from Stages 1-2 |
-| Clarity Unlock | $30/day | New — testing |
+| [Clarity Unlock](./clarity-unlock.md) | $30/day | New — testing |
 
 ### What to Produce (~45 min)
 
@@ -140,7 +140,7 @@ If CPA is above $100 after 10 sales, don't expand — troubleshoot first (see Tr
 
 ### Stage 3 Checklist
 
-- [ ] Produce 4 creatives for Clarity Unlock
+- [ ] Produce 4 creatives for [Clarity Unlock](./clarity-unlock.md)
 - [ ] Create third ABO ad set at $30/day (CU angle, broad targeting)
 - [ ] Budget now $90/day total
 - [ ] Kill underperforming ads from Stages 1-2, replace with fresh creative
@@ -173,7 +173,7 @@ This is the first time CBO enters. You now have enough proven winners and enough
 
 ### Stage 4 Checklist
 
-- [ ] Produce 4 creatives for Misalignment
+- [ ] Produce 4 creatives for [Misalignment](./misalignment.md)
 - [ ] Identify CBO candidates — any ad with 10+ sales
 - [ ] Extract Post IDs for winners (keeps likes/comments/shares)
 - [ ] Launch CBO campaign with 5-6 winners at $100/day+
@@ -297,12 +297,12 @@ If ads aren't converting, check in this order:
 
 ## Source Files
 
-- **Ad copy:** `outputs/ads/before-the-funnel.md`, `outputs/ads/clarity-unlock.md`, `outputs/ads/content-merry-go-round.md`
-- **Creative briefs:** `outputs/ads/images/launch/launch-creatives-brief.md`
-- **One-liners (ugly static source):** `outputs/ads/one-liners.md`
-- **Creative production guide:** `outputs/ads/creative-guide.md`
-- **Angle details:** `reference/proof/angles/`
-- **Cat Howell consolidated:** `research/consolidated/cat-howell-ads-scaling.md`
-- **Cat Howell AOV benchmarks:** `research/2026-02-06-cat-howell-aov-benchmarks.md`
-- **Miles Stutz mining:** `research/2026-02-22-miles-stutz-ad-library-mining.md`
-- **Decisions:** `decisions/2026-02-22-miles-stutz-mining-response.md`, `decisions/2026-02-17-ad-strategy-framework-update.md`
+- **Ad copy:** [before-the-funnel.md](./before-the-funnel.md), [clarity-unlock.md](./clarity-unlock.md), [content-merry-go-round.md](./content-merry-go-round.md), [misalignment.md](./misalignment.md)
+- **Creative briefs:** [launch-creatives-brief.md](./images/launch/launch-creatives-brief.md)
+- **One-liners (ugly static source):** [one-liners.md](./one-liners.md)
+- **Creative production guide:** [creative-guide.md](./creative-guide.md)
+- **Angle details:** [angles/](../../reference/proof/angles/)
+- **Cat Howell consolidated:** [cat-howell-ads-scaling.md](../../research/consolidated/cat-howell-ads-scaling.md)
+- **Cat Howell AOV benchmarks:** [2026-02-06-cat-howell-aov-benchmarks.md](../../research/2026-02-06-cat-howell-aov-benchmarks.md)
+- **Miles Stutz mining:** [2026-02-22-miles-stutz-ad-library-mining.md](../../research/2026-02-22-miles-stutz-ad-library-mining.md)
+- **Decisions:** [2026-02-22-miles-stutz-mining-response.md](../../decisions/2026-02-22-miles-stutz-mining-response.md), [2026-02-17-ad-strategy-framework-update.md](../../decisions/2026-02-17-ad-strategy-framework-update.md)

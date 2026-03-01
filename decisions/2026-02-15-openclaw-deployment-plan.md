@@ -1,7 +1,7 @@
 ---
 type: decision
 date: 2026-02-15
-status: accepted
+status: superseded
 urgency: normal
 ---
 
@@ -97,3 +97,7 @@ No reference files affected yet. This is an infrastructure decision. When ready 
 - content/drafts, content/scheduled, content/published folders become active pipeline locations
 - content-strategy.md may need a section on distribution automation
 - Morning brief format and approval workflow to be defined during setup
+
+## Superseded (2026-02-27)
+
+Phase 2 (DigitalOcean) killed. Feb 25 evaluation concluded that Claude Code + Python + launchd handles Phase 0, and M1 Mac Mini handles Phase 3. No cloud server needed. The definitive setup guide is now reference/domain/openclaw-automation.md.

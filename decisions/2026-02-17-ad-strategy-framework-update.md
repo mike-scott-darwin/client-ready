@@ -1,7 +1,7 @@
 ---
 type: decision
 date: 2026-02-17
-status: accepted
+status: codified
 urgency: high
 linked_research:
   - research/2026-02-17-abo-vs-cbo-campaign-structure.md
@@ -127,3 +127,7 @@ Updates:
 ## Risk
 
 Low. These are research-backed refinements to an existing framework. All changes are additive or corrective — nothing structural changes about the funnel or pricing.
+
+## Codified (2026-02-27)
+
+All 12 decisions applied to offer.md Ad Strategy Framework section. Three-stage pipeline, one concept per ad set, Post ID extraction, 70/20/10 budget split, Post-Andromeda principles, creative format rankings, Cost Caps, CAPI requirement, hybrid VSL structure, and anti-patterns list — all live in reference.

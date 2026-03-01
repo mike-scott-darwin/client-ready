@@ -40,7 +40,7 @@ New customers in 72 hours. Even if you've never ran ads or built a funnel.
 
 **[GET INSTANT ACCESS — $47 →]**
 
-⭐⭐⭐⭐⭐ 4.7/5 based on 100+ verified students
+★★★★★ Rated by verified students
 
 ---
 
@@ -68,9 +68,9 @@ No course. No fluff. Just the prompts that work.
 
 ### [PROOF — 2 testimonials max]
 
-> "Ryan makes $1k/mo selling a Transformation Fitness Program for men over 40 — using a Client Ready Offer"
+> "Ryan makes $14k/mo selling a Transformation Fitness Program for men over 40 — using a Client Ready Offer"
 
-> "Alesia generated $7,500 in her first week using a Client Ready Offer — all without Ads"
+> "Alexia generated $7,500 in her first week using a Client Ready Offer — all without Ads"
 
 [Screenshot of Stripe dashboard showing sales]
 
@@ -94,7 +94,7 @@ No course. No fluff. Just the prompts that work.
 
 **Get The Client Ready Offer System**
 
-~~$94~~ **$47** — One-time payment
+**$47** — One-time payment
 
 ✓ 5 AI prompts that extract your offer
 ✓ Step-by-step guide

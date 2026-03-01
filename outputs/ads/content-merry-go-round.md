@@ -294,6 +294,8 @@ The coaches who seem to effortlessly attract clients from their content aren't b
 
 Most coaches have never gone through the step of getting the offer clear. They went straight from "I want to be a coach" to "how do I get clients?" and the answer they got was "post content."
 
+But it gets worse. The content advice isn’t just ineffective — it’s someone else’s playbook. The guru said do reels. Write daily. Build a community. For some coaches, none of that fits who they are. The exhaustion isn’t from the work. It’s from the performance.
+
 So they post. They show up. They're consistent. They get likes and comments and followers.
 
 And nobody buys.
@@ -416,4 +418,4 @@ Use across ALL Content Merry-Go-Round ads. AI-forward — leads with the mechani
 **Alt (pain-forward):**
 > 6 months of content. Zero clients. The problem isn't your content — it's your offer. 5 AI prompts fix it in one afternoon. $47.
 
-Per Decision 2 (`decisions/2026-02-22-miles-stutz-mining-response.md`): AI should be headline-level, not buried.
+Per Decision 2 ([decisions/2026-02-22-miles-stutz-mining-response.md](../../decisions/2026-02-22-miles-stutz-mining-response.md)): AI should be headline-level, not buried.

@@ -54,17 +54,16 @@ changes: Removed No-Phone Offer framing throughout. Aligned to Client Ready Offe
 
 ## PRICING SIDEBAR (Right Column)
 
-> Only ~~$147~~ $47.00
-> You're Instantly Saving $120.00
+> Launch Price: $47.00
+> Building case studies — limited-time pricing
 
 > As part of our Client Ready Offer V1.0 launch to gather success stories, you can get instant access for just $47 today. This isn't marketing hype — we're genuinely building case studies and will return to full price once we have enough testimonials.
 
-> **82% OFF** Launch Pricing
+> **Launch Pricing** — Case studies in progress
 
 > **GET INSTANT ACCESS**
 > 30 Day Money Back Guarantee
 
-> 4.7 / 5 based on 150+ verified students
 
 > Backed by my 30-day money back guarantee. You'll love the Client Ready Offer — or I'll give you your money back AND let you keep your program.
 
@@ -212,7 +211,7 @@ changes: Removed No-Phone Offer framing throughout. Aligned to Client Ready Offe
 
 ### Section Header
 
-> HEAR IT FROM 150+ HAPPY CUSTOMERS:
+> HEAR IT FROM OUR CUSTOMERS:
 
 ### Ryan Testimonial
 
@@ -350,7 +349,7 @@ INSTANT ACCESS | INCLUDED
 ### Section Header
 
 > PLUS 9 BONUSES FOR FREE...
-> When You Get Client Ready Offer for ~~$147~~ just $47 today!
+> When You Get Client Ready Offer for just $47 today!
 
 ### Bonus 1: AI Offer Prompt Library
 Collection of proven AI prompts that extract profitable offer ideas from your expertise and create high-converting content in minutes.
@@ -423,14 +422,13 @@ INCLUDED FREE
 > **GET INSTANT ACCESS**
 > 30 DAY MONEY BACK GUARANTEE
 
-> 4.7 / 5 based on 150+ verified students
 
 ---
 
 ## STICKY BOTTOM BAR
 
-> Only ~~$147~~ $47.00 Today
-> Download Client Ready Offer For ~~$147~~ Just $47.00!
+> $47.00 Today
+> Download Client Ready Offer For Just $47.00!
 > Delivered Instantly. Start learning in the next 2 minutes.
 
 ---
@@ -454,11 +452,11 @@ INCLUDED FREE
 > 5 AI prompts extract your offer in one afternoon — so clear it sells itself.
 
 **Pricing:**
-> ~~$147.00~~ Only $47.00 Today
-> (You're Instantly Saving $120.00)
+> $47.00 Today
+> Launch pricing — case studies in progress
 
 **Body:**
-> Case study + 5 AI prompts + offer document template. Delivered instantly. Start building in the next 2 minutes.
+> Case study + 5 AI prompts + offer document template. Delivered immediately. Start building in the next 2 minutes.
 
 **CTA Button:**
 > GET INSTANT ACCESS — $47
@@ -482,17 +480,17 @@ INCLUDED FREE
 ### Bump 1: Quick Win DM Scripts — $37 (was $97)
 
 > **YES! Add Quick Win DM Scripts ($37)**
-> Start sales conversations TODAY while you build. 10 copy-paste scripts for warm outreach — first conversation in 5 minutes. ~~$197~~ → $37
+> Start sales conversations TODAY while you build. 10 copy-paste scripts for warm outreach — first conversation in 5 minutes. $37
 
 ### Bump 2: Plug & Play Templates — $67 (was $197)
 
 > **YES! Add Plug & Play Templates ($67)**
-> Don't start from scratch. Complete offer document template (with filled example), landing page swipe files, 30-day evergreen email sequence, messaging maps, and copy-paste headlines. ~~$297~~ → $67
+> Don't start from scratch. Complete offer document template (with filled example), landing page swipe files, 30-day evergreen email sequence, messaging maps, and copy-paste headlines. $67
 
 ### Bump 3: The First $5K Client Playbook — $97 (was $297)
 
 > **YES! Add The First $5K Client Playbook ($97)**
-> You have the offer. Now close your first high-ticket client. Pricing psychology behind $5K+ offers, 5 conversation frameworks that close without being pushy, the Warm 50 activation plan (your first 50 people to reach out to), and word-for-word objection responses. Plus 3 real annotated closing conversations. ~~$497~~ → $97
+> You have the offer. Now close your first high-ticket client. Pricing psychology behind $5K+ offers, 5 conversation frameworks that close without being pushy, the Warm 50 activation plan (your first 50 people to reach out to), and word-for-word objection responses. Plus 3 real annotated closing conversations. $97
 
 ---
 

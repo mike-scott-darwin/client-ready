@@ -9,3 +9,17 @@ reference/_source-pdfs/
 
 # Session state
 .vip/local.yaml
+.env
+.x-poster-state.json
+scripts/*.log
+
+# Obsidian metadata
+.obsidian/
+journal/.obsidian/
+
+# Poster state files
+.x-poster-state.json
+.linkedin-poster-state.json
+
+# Poster venv
+.venv-poster/

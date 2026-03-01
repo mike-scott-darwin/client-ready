@@ -151,7 +151,7 @@ One high-ticket client = 100x return on this 37 investment. And that's from 15 m
 
 ---
 
-**One-Time Investment: ~~$197~~ $37**
+**One-Time Investment: $37**
 
 No subscription. 10 scripts. Complete conversation system. First conversation in 5 minutes.
 

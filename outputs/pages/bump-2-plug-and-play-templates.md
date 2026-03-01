@@ -130,7 +130,7 @@ Templates aren't cheating. They're what separates coaches who launch from coache
 
 ---
 
-**One-Time Investment: ~~$297~~ $67**
+**One-Time Investment: $67**
 
 No subscription. No upsell inside. 8 complete template packs, 50+ headlines, and every promo campaign you will ever need.
 
