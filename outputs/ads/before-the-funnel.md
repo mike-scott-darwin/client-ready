@@ -25,9 +25,9 @@ Brand arc: Most coaches are stuck at **Confused**. This angle moves them to **Cl
 **Primary:** P4 Pattern Interrupt (short, punchy, cold-proven format)
 **Headline:** H7 Belief Shift — "Your Marketing Isn't Broken. The Thing You're Marketing Is Unclear."
 
-**Why P4:** At $30/day with 3-4 ads, each ad needs to earn its spend fast. P4 is the shortest primary — pattern interrupt format stops the scroll without requiring a long read. It carries the core thesis ("wrong order") in under 60 words. Long-form primaries (P1, P2, P5) are Stage 2 expansions once you've proven the angle works.
+**Why P4:** Shortest primary. Under 60 words. At $30/day each ad needs to earn its spend fast. Long-form (P1, P2, P5) = Stage 2 expansions.
 
-**Why H7:** Bridges Problem Aware → Unaware. Challenges the assumption that marketing is the problem. Creates the "wait, what?" moment that makes them read the primary.
+**Why H7:** Challenges the assumption that marketing is the problem. Makes them stop and read the primary.
 
 ### Stage 1 Ad Matrix
 
@@ -57,25 +57,16 @@ Add second copy block: **P1 Deep** (long-form) with **H1 Proof** headline. Pair 
 
 ---
 
-# IMAGE PROMPTS
+# CREATIVES
 
-## 003_01 — Graphic (Authority/Framework)
+All creatives are UGC — real product screenshots, face cam, Notes app. No AI-generated images. See `outputs/ads/images/launch/launch-creatives-brief.md` for full production specs per stage.
 
-**Prompt:** A clean, modern split-screen composition. Left side: a beautiful but empty storefront with perfect signage but no customers inside, shot through glass. Right side: a simple handwritten sign on a table that reads "SOLD OUT" with a line of people behind it. Muted teal and warm amber tones. Cinematic lighting. Minimalist. No text overlay — designed for 9:16 with safe zone content centered in the middle 1:1 square.
-
-**Mood:** The contrast between infrastructure without substance vs. substance without infrastructure.
-
-## 003_02 — Lo-fi (UGC/Authentic)
-
-**Prompt:** A candid overhead shot of a messy desk covered in sticky notes, open notebooks, a laptop showing a blank document, and a coffee cup. One single sticky note in the center reads nothing — it's blank. Natural window light. Warm, slightly desaturated. iPhone photo aesthetic. Authentic, not staged. 9:16 format with subject centered for 1:1 crop.
-
-**Mood:** The overwhelm of trying to build without clarity. The blank page problem.
-
-## 003_03 — Interrupt (Pattern Break)
-
-**Prompt:** A single domino standing at the front of a long chain of falling dominoes, but this first domino is glowing bright gold while all the others are matte grey. Dark background. Dramatic spotlight. The gold domino is clearly the catalyst. Cinematic, high contrast. 9:16 with domino centered for 1:1 safe zone.
-
-**Mood:** One thing has to be right first — the offer — and everything else follows.
+| Format | What It Is |
+|--------|-----------|
+| **Ugly Static** | Notes app, dark mode — type the hook and screenshot |
+| **Product Reveal** | Screenshot of actual system section + face cam circle + title overlay |
+| **Before/After** | Split: messy offer text → clean offer from the system |
+| **Silent Review** | Screen recording scrolling through system + face cam + text overlay |
 
 ---
 
@@ -422,7 +413,7 @@ Most Coaches Skip This Step and Then Wonder Why Nothing Converts
 
 ## USV-001 — P4 Pattern Interrupt (6 seconds)
 
-**Visual:** Text animates word by word over dark background or 003_03 (domino) image.
+**Visual:** Text animates word by word over dark background.
 **Body copy below:** P1 Deep (long-form)
 
 ```
@@ -512,10 +503,10 @@ Per Decision 2 (`decisions/2026-02-22-miles-stutz-mining-response.md`): AI shoul
 
 ## Mix-and-Match Guide
 
-| Primary | Best Headlines | Best Image |
-|---------|---------------|------------|
-| P1 Deep | H1 Proof, H4 Curiosity | 003_01 Graphic |
-| P2 UGC | H3 Outcome, H5 Benefit | 003_02 Lo-fi |
-| P3 DR | H2 Mechanism, H5 Benefit | 003_01 Graphic |
-| P4 Interrupt | H4 Curiosity | 003_03 Interrupt |
-| P5 Testimonial | H1 Proof, H3 Outcome | 003_02 Lo-fi |
+| Primary | Best Headlines | Best Creative Format |
+|---------|---------------|---------------------|
+| P1 Deep | H1 Proof, H4 Curiosity | Product Reveal, Testimonial Proof |
+| P2 UGC | H3 Outcome, H5 Benefit | Ugly Static, Before/After |
+| P3 DR | H2 Mechanism, H5 Benefit | Product Reveal, Section Zoom |
+| P4 Interrupt | H4 Curiosity | Ugly Static, Silent Review |
+| P5 Testimonial | H1 Proof, H3 Outcome | Testimonial Proof, Before/After |
