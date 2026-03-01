@@ -35,6 +35,7 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).parent.parent
 ENV_FILE = REPO_ROOT / ".env"
 DRAFTS_DIR = REPO_ROOT / "content" / "drafts"
+PUBLISHED_DIR = REPO_ROOT / "content" / "published"
 STATE_FILE = REPO_ROOT / ".beehiiv-poster-state.json"
 LOG_FILE = REPO_ROOT / "scripts" / "beehiiv-poster.log"
 
@@ -270,6 +271,7 @@ def main():
             state["posted_files"] = list(posted_files)
             save_state(state)
             log(f"  -> {status}: {post_id}")
+            move_to_published(draft_path)
             success_count += 1
         else:
             log(f"  -> FAILED: {draft_path.name}")
@@ -278,6 +280,22 @@ def main():
 
     if success_count < len(to_post):
         sys.exit(1)
+
+
+def move_to_published(filepath):
+    """Move draft to published/ and update frontmatter status."""
+    PUBLISHED_DIR.mkdir(parents=True, exist_ok=True)
+    dest = PUBLISHED_DIR / filepath.name
+
+    content = filepath.read_text()
+    content = re.sub(r'status:\s*draft', 'status: published', content)
+    content = re.sub(r'published_date:\s*null',
+                     f'published_date: {datetime.now().strftime("%Y-%m-%d")}',
+                     content)
+    dest.write_text(content)
+    filepath.unlink()
+    log(f"Moved {filepath.name} → content/published/")
+
 
 
 if __name__ == "__main__":
