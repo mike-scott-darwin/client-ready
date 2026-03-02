@@ -69,6 +69,24 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 
 ## The Value Ladder
 
+```mermaid
+graph TD
+    FE["<b>47 Offer System</b><br/>Front-End Entry Point"] --> B1["37 DM Scripts<br/>Order Bump 1"]
+    FE --> B2["67 Templates<br/>Order Bump 2"]
+    FE --> B3["97 Playbook<br/>Order Bump 3"]
+    FE --> OTO1["297 Sprint<br/>OTO 1 — 7-Day Implementation"]
+    OTO1 --> OTO2["397 Blueprint<br/>OTO 2 — Done-With-You"]
+    OTO2 --> HT["5K+ Accelerator<br/>High-Ticket 1:1"]
+    
+    ST1["57 One-Page Funnel<br/>Standalone Training"] -.-> Portal
+    ST2["97 Funnel Snapshot<br/>Standalone + GHL Affiliate"] -.-> Portal
+    FE --> Portal["GHL Training Portal<br/>All Products Deliver Here"]
+    
+    style FE fill:#4a9eff,color:#fff
+    style HT fill:#ff6b35,color:#fff
+    style Portal fill:#2d2d2d,color:#fff
+```
+
 ### Tier 1: Low-Ticket Funnel
 
 **Front-End: ~~$197~~ $47 — Client Ready Offer System**

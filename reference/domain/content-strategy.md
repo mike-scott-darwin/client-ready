@@ -27,6 +27,29 @@ High-intent signals → DM conversations
 $47 → Sprint → Accelerator
 ```
 
+```mermaid
+graph TD
+    NL["<b>Weekly Newsletter</b><br/>Keystone — Tuesday"] --> TH["2 X Threads<br/>Tuesday + Thursday"]
+    NL --> LI["3-5 LinkedIn Posts<br/>Weekdays"]
+    NL --> TW["3-5 Daily Tweets<br/>Observations + Replies"]
+    
+    TH --> ENG["Engagement<br/>Replies + DMs"]
+    LI --> ENG
+    TW --> ENG
+    
+    ENG --> SUB["Newsletter Signup<br/>Bio Link + Thread CTA"]
+    SUB --> NL
+    
+    ENG --> DM["DM Conversations<br/>High-Intent Signals"]
+    DM --> FE["47 Front-End"]
+    FE --> SP["Sprint + Accelerator"]
+    
+    style NL fill:#4a9eff,color:#fff
+    style FE fill:#ff6b35,color:#fff
+    style SP fill:#ff6b35,color:#fff
+```
+
+
 **Philosophy:** Write once, repurpose everywhere. Email is the revenue engine; social is discovery.
 
 ---
