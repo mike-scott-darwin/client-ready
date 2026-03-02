@@ -197,7 +197,7 @@ Skool Community (Support & Engagement)
 | Second-chance bump conversion | 5-10% |
 | CLV (30-day) | $90-120 |
 
-See: `decisions/2026-02-18-training-portal-ecosystem.md`
+See: [decisions/2026-02-18-training-portal-ecosystem.md](../../decisions/2026-02-18-training-portal-ecosystem.md)
 
 ---
 
@@ -392,7 +392,7 @@ New buyers get a 10-email sequence over 10 days. **This sequence is relationship
 - **Day 7:** Soft close after behind the scenes — "This is what it looks like when the system runs. If you want help building yours, here's how."
 - **Day 9:** Explicit CTA in roadmap email — "You're here. The next step is [Sprint/Blueprint]. Here's the difference."
 
-**Iron Strike Principle:** Research across 6+ practitioners shows ascension probability peaks in the first 7-21 days after purchase. After 3 weeks, it drops significantly. Days 5/7/9 carry soft ascension CTAs within the relationship email — not separate pitches. Same voice, same tone. If it reads like a pitch, rewrite it. See `decisions/2026-02-14-ecosystem-architecture-iron-strike.md`.
+**Iron Strike Principle:** Research across 6+ practitioners shows ascension probability peaks in the first 7-21 days after purchase. After 3 weeks, it drops significantly. Days 5/7/9 carry soft ascension CTAs within the relationship email — not separate pitches. Same voice, same tone. If it reads like a pitch, rewrite it. See [decisions/2026-02-14-ecosystem-architecture-iron-strike.md](../../decisions/2026-02-14-ecosystem-architecture-iron-strike.md).
 
 **Day 3 Consumption Branch:**
 GHL tracks whether buyers access the product by Day 3. Two paths:
@@ -416,7 +416,7 @@ Not a sales call. Accountability and support. Opens a conversation that naturall
 
 **Trigger:** GHL notification on Sprint or Blueprint purchase → manual DM within 48 hours.
 
-**Implementation:** 6 GHL workflows with separated concerns + consumption tracking branch + DM notification trigger. See `outputs/emails/ghl-workflow-setup.md` for full setup.
+**Implementation:** 6 GHL workflows with separated concerns + consumption tracking branch + DM notification trigger. See [outputs/emails/ghl-workflow-setup.md](../../outputs/emails/ghl-workflow-setup.md) for full setup.
 
 ### Why This Works
 
@@ -425,7 +425,7 @@ From Miles Stutz research:
 
 Most coaches email weekly (or never). Daily = compound advantage.
 
-See: `reference/domain/funnel/email-rhythm.md` for full implementation details.
+See: [reference/domain/funnel/email-rhythm.md](../domain/funnel/email-rhythm.md) for full implementation details.
 
 ---
 
@@ -472,7 +472,7 @@ See: `reference/domain/funnel/email-rhythm.md` for full implementation details.
 
 **Front-end pricing warning:** $17 front-end killed Cat's AOV (dropped from $140 to $70-80). Cheap buyers don't buy bumps/upsells at the same rate. $27 is minimum; $47 is her sweet spot. Client Ready moved from $27 to $47 based on this data. At $47, front-end + bumps target self-liquidating AOV of $90-110. **External validation (Feb 2026):** Miles Stutz killed his $7 front-end (digitalsnacks.co) entirely and moved to $17 (rapidascension.freeclientsystem.com). Cheap front-ends attract cheap buyers who don't ascend. $47 remains the right price point for buyer quality.
 
-**Scaling via entry points (future):** Existing bumps (DM Scripts, $5K Playbook) can become standalone front-end offers once core funnel is validated (30+ sales, $100+ AOV). See `decisions/2026-02-12-scaling-architecture.md`.
+**Scaling via entry points (future):** Existing bumps (DM Scripts, $5K Playbook) can become standalone front-end offers once core funnel is validated (30+ sales, $100+ AOV). See [decisions/2026-02-12-scaling-architecture.md](../../decisions/2026-02-12-scaling-architecture.md).
 
 ---
 
@@ -495,7 +495,7 @@ These override all tactical advice below. If a tactic conflicts with these princ
 ### Pre-Launch Requirements
 
 - **CAPI (Conversions API):** Server-side tracking that bypasses browser cookie blocking (iOS 14+). Improves "Event Match Quality" score, lowers CPMs. Set up before first dollar of ad spend.
-- **Landing page split test:** Run two variants from launch — Variant A: Hybrid VSL (headline + video + long-form text + visual evidence) vs Variant B: Static mockup (headline + product screenshots + long-form text + visual evidence). Same copy, same offer, same checkout. 50/50 split, $50/day minimum per variant. Judge after 30 sales per variant. If within 20% after 50 sales each, keep video (brand compounds). See `decisions/2026-02-22-miles-stutz-mining-response.md` Decision 7.
+- **Landing page split test:** Run two variants from launch — Variant A: Hybrid VSL (headline + video + long-form text + visual evidence) vs Variant B: Static mockup (headline + product screenshots + long-form text + visual evidence). Same copy, same offer, same checkout. 50/50 split, $50/day minimum per variant. Judge after 30 sales per variant. If within 20% after 50 sales each, keep video (brand compounds). See [decisions/2026-02-22-miles-stutz-mining-response.md](../../decisions/2026-02-22-miles-stutz-mining-response.md) Decision 7.
 - **5-Second Test** passed on all pages (see below)
 
 ### Three-Stage Campaign Pipeline
@@ -658,3 +658,15 @@ Before spending money on any page, it must pass this test. Look at the page for 
 5. **What do I do next?** — Clear CTA
 
 If you can't answer all five instantly, the page isn't ready for traffic.
+
+---
+
+## See Also
+
+- [soul.md](./soul.md) — The beliefs behind the offer ("you can't grow into pain")
+- [audience.md](./audience.md) — Who buys and the buyer journey
+- [voice.md](./voice.md) — How the offer is communicated
+- [content-strategy.md](../domain/content-strategy.md) — The distribution engine (newsletter-first)
+- [testimonials.md](../proof/testimonials.md) — Proof and client wins
+- [launch-strategy.md](../../outputs/ads/launch-strategy.md) — Ad scaling roadmap for the front-end
+- [main-angles.md](../proof/angles/main-angles.md) — Messaging angles for ad campaigns

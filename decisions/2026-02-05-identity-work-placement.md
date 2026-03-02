@@ -232,3 +232,14 @@ Today's research surfaced a key insight: the transformation prospects NEED is an
 1. Does adding identity work to Sprint justify a price increase ($297 → $397)?
 2. Should "Soul Extraction" be a separate sellable asset later?
 3. How do we measure if identity work improves results? (testimonial quality? retention? completion rate?)
+
+---
+
+## Related Files
+
+**Research:**
+  - [2026-02-05-personal-mastery-framework.md](../research/2026-02-05-personal-mastery-framework.md)
+  - [2026-02-05-million-dollar-roadmap.md](../research/2026-02-05-million-dollar-roadmap.md)
+  - [2026-02-05-steph-hughson-future.md](../research/2026-02-05-steph-hughson-future.md)
+  - [2026-02-05-taki-moore-future.md](../research/2026-02-05-taki-moore-future.md)
+  - [2026-02-05-iman-gadzhi-future.md](../research/2026-02-05-iman-gadzhi-future.md)

@@ -214,3 +214,15 @@ Help people build businesses they won't burn down.
 Not the biggest business. Not the fastest scale. The right business — for them.
 
 That's the work.
+
+---
+
+## See Also
+
+- [offer.md](./offer.md) — What we sell and the mechanism that delivers the promise
+- [audience.md](./audience.md) — Who we serve and the stuck patterns keeping them there
+- [voice.md](./voice.md) — How we communicate these beliefs
+- [testimonials.md](../proof/testimonials.md) — Proof the approach works
+- [content-strategy.md](../domain/content-strategy.md) — How we distribute the message
+- [main-angles.md](../proof/angles/main-angles.md) — How soul beliefs become ad angles
+- [misalignment.md](../../outputs/ads/misalignment.md) — Ads built from companion beliefs and the dissociation trap

@@ -131,3 +131,12 @@ Low. These are research-backed refinements to an existing framework. All changes
 ## Codified (2026-02-27)
 
 All 12 decisions applied to offer.md Ad Strategy Framework section. Three-stage pipeline, one concept per ad set, Post ID extraction, 70/20/10 budget split, Post-Andromeda principles, creative format rankings, Cost Caps, CAPI requirement, hybrid VSL structure, and anti-patterns list — all live in reference.
+
+---
+
+## Related Files
+
+**Research:**
+  - [2026-02-17-abo-vs-cbo-campaign-structure.md](../research/2026-02-17-abo-vs-cbo-campaign-structure.md)
+  - [2026-02-17-andromeda-tiktok-mining.md](../research/2026-02-17-andromeda-tiktok-mining.md)
+  - [2026-02-17-meta-ads-strategies-2026-gemini.md](../research/2026-02-17-meta-ads-strategies-2026-gemini.md)

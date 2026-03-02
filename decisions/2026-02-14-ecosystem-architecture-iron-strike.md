@@ -106,3 +106,12 @@ Reference files affected:
 - No new reference files needed — this extends existing architecture
 - GHL implementation needed: consumption tracking workflow, DM notification trigger
 
+---
+
+## Related Files
+
+**Research:**
+  - [2026-02-14-low-ticket-to-high-ticket-ecosystem-gemini.md](../research/2026-02-14-low-ticket-to-high-ticket-ecosystem-gemini.md)
+
+**Decisions:**
+  - [2026-02-12-scaling-architecture.md](./2026-02-12-scaling-architecture.md)

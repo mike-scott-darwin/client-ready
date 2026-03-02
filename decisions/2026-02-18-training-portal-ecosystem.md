@@ -179,3 +179,15 @@ Every entry point funnels into the same portal → same backend → same $5K Acc
 - `reference/core/offer.md` — Added Training Portal Ecosystem section after Value Ladder. Documents portal architecture, two new trainings (The One-Page Funnel $57, The Plug & Play Funnel Snapshot $97), delivery upgrade, GHL affiliate layer, and multiple entry point strategy. Updated Funnel Metrics table.
 - `CLAUDE.md` — Updated funnel table with both new standalone trainings and GHL affiliate recurring revenue.
 - `reference/domain/classroom/modules.md` — Note that the portal replaces Google Doc delivery. Training content aligns with existing module structure.
+
+---
+
+## Related Files
+
+**Research:**
+  - [2026-02-18-training-portal-ecosystem-gemini.md](../research/2026-02-18-training-portal-ecosystem-gemini.md)
+  - [2026-02-14-low-ticket-to-high-ticket-ecosystem-gemini.md](../research/2026-02-14-low-ticket-to-high-ticket-ecosystem-gemini.md)
+
+**Decisions:**
+  - [2026-02-12-scaling-architecture.md](./2026-02-12-scaling-architecture.md)
+  - [2026-02-14-ecosystem-architecture-iron-strike.md](./2026-02-14-ecosystem-architecture-iron-strike.md)

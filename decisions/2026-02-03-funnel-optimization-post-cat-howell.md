@@ -521,3 +521,11 @@ At 5% CVR, $2 CPC → $40 per sale
 | 8 | Awareness creative | 4 ads minimum (one per level) |
 | 9 | CAPI setup | Implement for AOV optimization |
 | 10 | Pricing validation | $27 confirmed in sweet spot |
+
+---
+
+## Related Files
+
+**Research:**
+  - [2026-02-03-cat-howell-hotseat-scaling.md](../research/2026-02-03-cat-howell-hotseat-scaling.md)
+  - [2026-02-03-cat-howell-low-ticket-ads-course.md](../research/2026-02-03-cat-howell-low-ticket-ads-course.md)

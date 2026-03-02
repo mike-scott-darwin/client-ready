@@ -38,3 +38,10 @@ supersedes:
 - Key philosophy: updated self-liquidating line to include OTOs
 - Ad strategy launch section: replaced "no OTOs" with full funnel launch
 - Removed OTO trigger gate (30+ sales / $100+ AOV requirement)
+
+---
+
+## Related Files
+
+**Supersedes:**
+  - [2026-02-15-ad-strategy-update-miles-stutz.md (decision #2 only — "Launch Without OTOs")](./2026-02-15-ad-strategy-update-miles-stutz.md (decision #2 only — "Launch Without OTOs"))

@@ -200,3 +200,12 @@ From research + Michael's voice:
 ## Status
 
 **ACCEPTED** — Ready to codify to `reference/domain/content-strategy.md`
+
+---
+
+## Related Files
+
+**Research:**
+  - [2026-02-03-linkedin-coach-content-research.md](../research/2026-02-03-linkedin-coach-content-research.md)
+  - [2026-02-03-x-twitter-coach-content-research.md](../research/2026-02-03-x-twitter-coach-content-research.md)
+  - [2026-02-03-newsletter-first-strategy-research.md](../research/2026-02-03-newsletter-first-strategy-research.md)

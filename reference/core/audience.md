@@ -151,3 +151,15 @@ When you're making choices about your business — pricing, positioning, deliver
 | **Validated** | Offer works, need to build | Systems and accountability | $297 Sprint |
 | **Building** | Need help implementing | Custom funnel strategy | $397 Blueprint |
 | **Scaling** | Ready for high-ticket | Hands-on support | $5K+ 1:1 |
+
+---
+
+## See Also
+
+- [soul.md](./soul.md) — Why we serve this audience ("the search taught me something")
+- [offer.md](./offer.md) — What we offer them at each stage (buyer journey)
+- [voice.md](./voice.md) — How we talk to them (anti-guru, direct, no-BS)
+- [testimonials.md](../proof/testimonials.md) — Real client transformations
+- [main-angles.md](../proof/angles/main-angles.md) — How pain points become ad angles
+- [misalignment.md](../../outputs/ads/misalignment.md) — Ads built from stuck patterns and voice-of-customer quotes
+- [one-liners.md](../../outputs/ads/one-liners.md) — Ad hooks mapped to stuck patterns (#34-41)

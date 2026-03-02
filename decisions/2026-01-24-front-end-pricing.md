@@ -162,3 +162,17 @@ Review after 100 front-end purchases to compare:
 - Conversion rate at $27 vs industry benchmarks
 - AOV achieved vs $80-150 target
 - Self-liquidating ratio (ad spend : front-end revenue)
+
+---
+
+## Related Files
+
+**Research:**
+  - [2026-01-23-cat-howell-low-ticket-ecosystem.md](../research/2026-01-23-cat-howell-low-ticket-ecosystem.md)
+  - [2026-01-25-self-liquidating-offers-claude-code.md](../research/2026-01-25-self-liquidating-offers-claude-code.md)
+  - [2026-01-25-miles-stutz-consolidated.md](../research/2026-01-25-miles-stutz-consolidated.md)
+  - [2026-01-25-hernan-vazquez-competitor-mining.md](../research/2026-01-25-hernan-vazquez-competitor-mining.md)
+
+**Codified to:**
+  - [offer.md](../reference/core/offer.md)
+  - [CLAUDE.md](../CLAUDE.md)

@@ -244,3 +244,12 @@ Miles moving UP from $7 to $17 validates the principle: cheap front-ends attract
 ## Risk
 
 All 6 decisions are low-risk. No pricing changes. No positioning changes. No structural changes. All are either documentation (evidence capture), additive (new angle), or refinement (creative testing method). The mining validated existing strategy more than it challenged it.
+
+---
+
+## Related Files
+
+**Research:**
+  - [2026-02-22-miles-stutz-ad-library-mining.md](../research/2026-02-22-miles-stutz-ad-library-mining.md)
+  - [2026-02-11-miles-stutz-apify-scrape-synthesis.md](../research/2026-02-11-miles-stutz-apify-scrape-synthesis.md)
+  - [2026-02-10-miles-stutz-ad-library-mining.md](../research/2026-02-10-miles-stutz-ad-library-mining.md)

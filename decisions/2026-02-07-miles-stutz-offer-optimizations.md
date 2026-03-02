@@ -183,3 +183,12 @@ audience.md gets a new pain point section: "stuck on sales calls" with Miles' ma
 | $9 price test | Run $9 vs $27 split test with $300 per variant | Do first (cheapest to test) |
 | Case study reframe | Restructure front-end product: story first, tools second | Do second (before scaling ads) |
 | No-Phone positioning | Update audience pain points + offer language + ad angles | Do alongside case study reframe |
+
+---
+
+## Related Files
+
+**Research:**
+  - [2026-02-07-miles-stutz-no-phone-offer-training.md](../research/2026-02-07-miles-stutz-no-phone-offer-training.md)
+  - [2026-02-07-miles-stutz-digital-snack-hotseat.md](../research/2026-02-07-miles-stutz-digital-snack-hotseat.md)
+  - [2026-02-03-miles-stutz-low-ticket-ads-transcript.md](../research/2026-02-03-miles-stutz-low-ticket-ads-transcript.md)

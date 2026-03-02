@@ -223,3 +223,17 @@ Need to determine: What's validated, what should change, what to test next.
 - Third micro-bump ($17 DM Scripts) already present
 - Added "Checkout Optimization" section (proof + pre-check testing)
 - Added "Ad Strategy Framework" section (launch structure, CPA thresholds, $300 rule, target metrics)
+
+---
+
+## Related Files
+
+**Research:**
+  - [2026-01-27-miles-stutz-call-ads-strategy.md](../research/2026-01-27-miles-stutz-call-ads-strategy.md)
+  - [2026-02-01-miles-stutz-dfy-delivery-copy.md](../research/2026-02-01-miles-stutz-dfy-delivery-copy.md)
+  - [2026-02-01-miles-stutz-template-product-structure.md](../research/2026-02-01-miles-stutz-template-product-structure.md)
+  - [2026-02-01-order-bump-copy-swipes.md](../research/2026-02-01-order-bump-copy-swipes.md)
+  - [2026-02-01-digital-snacks-case-study-500-sales.md](../research/2026-02-01-digital-snacks-case-study-500-sales.md)
+  - [2026-02-01-ad-analysis-cpa-aov-framework.md](../research/2026-02-01-ad-analysis-cpa-aov-framework.md)
+  - [2026-02-01-funnel-metrics-benchmarks-miles-feedback.md](../research/2026-02-01-funnel-metrics-benchmarks-miles-feedback.md)
+  - [2026-02-01-cat-howell-scaling-split-tests.md](../research/2026-02-01-cat-howell-scaling-split-tests.md)

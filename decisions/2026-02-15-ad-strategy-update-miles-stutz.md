@@ -87,3 +87,11 @@ Banked two research files from Miles Stutz (Feb 10 hot seat call + member funnel
 - Add 5-second test to checkout optimization section
 
 **No other reference files affected.** All changes are within the Ad Strategy Framework and Checkout Optimization sections of offer.md.
+
+---
+
+## Related Files
+
+**Research:**
+  - [2026-02-15-miles-stutz-hot-seat-transcript.md](../research/2026-02-15-miles-stutz-hot-seat-transcript.md)
+  - [2026-02-15-miles-stutz-low-ticket-funnel-data-mining.md](../research/2026-02-15-miles-stutz-low-ticket-funnel-data-mining.md)

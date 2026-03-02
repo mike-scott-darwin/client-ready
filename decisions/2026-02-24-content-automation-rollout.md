@@ -116,3 +116,15 @@ This is already how Client Ready works. `reference/` is the canon. Content is de
 | Newsletter sent | 1x/week | 1x/week automated |
 | Review time | 2-3 hrs/week | <1 hr/week |
 | Engagement growth | Baseline established | 20% MoM growth |
+
+---
+
+## Related Files
+
+**Research:**
+  - [2026-02-21-devon-openclaw-5-day-setup-skool.md](../research/2026-02-21-devon-openclaw-5-day-setup-skool.md)
+  - [2026-02-21-devon-autonomous-agents-skool.md](../research/2026-02-21-devon-autonomous-agents-skool.md)
+
+**Decisions:**
+  - [2026-02-03-content-strategy.md](./2026-02-03-content-strategy.md)
+  - [2026-02-17-automation-phase-sequencing.md](./2026-02-17-automation-phase-sequencing.md)

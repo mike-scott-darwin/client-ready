@@ -196,3 +196,10 @@ Rationale:
 - [ ] Compile 5 before/after offer examples
 - [ ] Update checkout page copy
 - [ ] Test for 30 purchases before evaluating
+
+---
+
+## Related Files
+
+**Research:**
+  - [2026-02-06-cat-howell-aov-benchmarks.md](../research/2026-02-06-cat-howell-aov-benchmarks.md)

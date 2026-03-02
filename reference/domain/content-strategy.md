@@ -318,4 +318,15 @@ Reference files are the canon. Content is derivative. The automation layer never
 ---
 
 *Last updated: 2026-02-28*
-*Decisions: decisions/2026-02-03-content-strategy.md, decisions/2026-02-24-content-automation-rollout.md*
+*Decisions: [2026-02-03-content-strategy.md](../../decisions/2026-02-03-content-strategy.md), [2026-02-24-content-automation-rollout.md](../../decisions/2026-02-24-content-automation-rollout.md)*
+
+---
+
+## See Also
+
+- [soul.md](../core/soul.md) — WHY behind the content
+- [audience.md](../core/audience.md) — WHO we are creating for
+- [voice.md](../core/voice.md) — HOW we write and speak
+- [offer.md](../core/offer.md) — The value ladder content promotes
+- [main-angles.md](../proof/angles/main-angles.md) — Angles that map to content pillars
+- [testimonials.md](../proof/testimonials.md) — Proof points to weave into content

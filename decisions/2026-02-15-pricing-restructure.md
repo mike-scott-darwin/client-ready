@@ -76,3 +76,14 @@ Raise all front-end prices:
 - Funnel metrics table: update all prices
 - Bump tracking rows: update prices
 - CPA thresholds: may need adjustment for higher AOV
+
+---
+
+## Related Files
+
+**Research:**
+  - [2026-02-15-miles-stutz-hot-seat-transcript.md](../research/2026-02-15-miles-stutz-hot-seat-transcript.md)
+  - [2026-02-15-miles-stutz-low-ticket-funnel-data-mining.md](../research/2026-02-15-miles-stutz-low-ticket-funnel-data-mining.md)
+
+**Decisions:**
+  - [2026-02-15-ad-strategy-update-miles-stutz.md](./2026-02-15-ad-strategy-update-miles-stutz.md)

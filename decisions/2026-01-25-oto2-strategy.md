@@ -189,3 +189,13 @@ This delivers:
 - [ ] Update `reference/core/offer.md` with new pricing/positioning
 - [ ] Update sales page copy
 - [ ] If adding OTO3: Create new product file and funnel stage
+
+---
+
+## Related Files
+
+**Research:**
+  - [2026-01-25-self-liquidating-offers-claude-code.md](../research/2026-01-25-self-liquidating-offers-claude-code.md)
+  - [2026-01-23-cat-howell-low-ticket-ecosystem.md](../research/2026-01-23-cat-howell-low-ticket-ecosystem.md)
+  - [2026-01-25-cat-howell-competitor-mining.md](../research/2026-01-25-cat-howell-competitor-mining.md)
+  - [2026-01-25-hernan-vazquez-competitor-mining.md](../research/2026-01-25-hernan-vazquez-competitor-mining.md)

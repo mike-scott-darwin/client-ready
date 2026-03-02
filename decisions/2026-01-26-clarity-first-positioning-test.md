@@ -261,3 +261,15 @@ We're not restructuring the offer stack based on a hypothesis. We're testing the
 
 *Session date: 2026-01-26*
 *Decision status: Superseded — the "clarity first" insight evolved into the sharper No-Phone Offer positioning (Feb 7, 2026). Same core insight (the problem is the offer, not the funnel), better language. See `decisions/2026-02-07-miles-stutz-offer-optimizations.md`.*
+
+---
+
+## Related Files
+
+**Research:**
+  - [cat-howell.md](../research/competitors/cat-howell.md)
+  - [miles-stutz.md](../research/competitors/miles-stutz.md)
+  - [hernan-vazquez.md](../research/competitors/hernan-vazquez.md)
+
+**Superseded by:**
+  - [2026-02-07-miles-stutz-offer-optimizations.md](./2026-02-07-miles-stutz-offer-optimizations.md)

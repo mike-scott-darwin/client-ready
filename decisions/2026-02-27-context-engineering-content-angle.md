@@ -36,3 +36,10 @@ content-strategy.md: New hooks added to Anti-Guru section of Hooks Library
 ## Risk
 
 None. This is a content angle addition, not a structural change.
+
+---
+
+## Related Files
+
+**Research:**
+  - [2026-02-27-context-engineering-youtube.md](../research/2026-02-27-context-engineering-youtube.md)

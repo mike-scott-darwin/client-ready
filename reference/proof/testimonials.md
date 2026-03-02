@@ -7,7 +7,7 @@ updated: 2026-02-10
 
 # Testimonials & Proof
 
-> **#1 Priority Gap:** External case study acquisition. Trigger: after 5 sales, actively solicit one detailed story (name, niche, specific result, timeline, one quote). Even a partial result ("got clarity on their offer in 2 hours") unlocks case study ad angles, landing page proof, checkout snippets, and email stories. See `decisions/2026-02-22-miles-stutz-mining-response.md` Decision 5.
+> **#1 Priority Gap:** External case study acquisition. Trigger: after 5 sales, actively solicit one detailed story (name, niche, specific result, timeline, one quote). Even a partial result ("got clarity on their offer in 2 hours") unlocks case study ad angles, landing page proof, checkout snippets, and email stories. See [decisions/2026-02-22-miles-stutz-mining-response.md](../../decisions/2026-02-22-miles-stutz-mining-response.md) Decision 5.
 
 ## Founder Case Study — Michael Scott
 
@@ -255,3 +255,14 @@ Ask clients/members:
 - [ ] Get screenshot proof of client wins (DMs, sales notifications)
 - [ ] Video testimonial for Ad 4 (Imposter) angle
 - [ ] Collect revenue-specific outcomes (dollar figures, client counts) for stronger FTC-defensible proof
+
+---
+
+## See Also
+
+- [audience.md](../core/audience.md) — Audience profile these testimonials represent
+- [offer.md](../core/offer.md) — Products that generated these results
+- [soul.md](../core/soul.md) — The beliefs clients validate through transformation
+- [main-angles.md](./angles/main-angles.md) — How proof maps to ad angles
+- [clarity-unlock.md](../../outputs/ads/clarity-unlock.md) — Ads using clarity transformation proof
+- [before-the-funnel.md](../../outputs/ads/before-the-funnel.md) — Ads using testimonial proof

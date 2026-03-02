@@ -88,3 +88,10 @@ P.S. I'm The Coach Who Won't Tell You to Quit Your 9-to-5 yet!
 ## Resolution (2026-02-27)
 
 Copy applied to live Skool about page. Pricing model confirmed: community is free for buyers who enter through the OTO funnel. Direct access available at 47/month as a downsell for non-buyers.
+
+---
+
+## Related Files
+
+**Decisions:**
+  - [2026-02-14-funnel-congruence-audit.md](./2026-02-14-funnel-congruence-audit.md)

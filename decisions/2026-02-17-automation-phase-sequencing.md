@@ -148,3 +148,15 @@ Park these. Revisit when monthly revenue is consistent and predictable.
 ## Superseded (2026-02-27)
 
 Phase 2 (DigitalOcean) killed. Content pipeline now runs as Phase 0 (Claude Code + Python scripts + launchd). Intent sniping keyword list and content pipeline map remain useful inputs but the phasing described here no longer applies. See decisions/2026-02-24-content-automation-rollout.md and reference/domain/openclaw-automation.md for current architecture.
+
+---
+
+## Related Files
+
+**Research:**
+  - [2026-02-17-devon-openclaw-automation-update.md](../research/2026-02-17-devon-openclaw-automation-update.md)
+
+**Decisions:**
+  - [2026-02-15-openclaw-deployment-plan.md](./2026-02-15-openclaw-deployment-plan.md)
+  - [2026-02-14-ecosystem-architecture-iron-strike.md](./2026-02-14-ecosystem-architecture-iron-strike.md)
+  - [2026-02-03-content-strategy.md](./2026-02-03-content-strategy.md)

@@ -17,7 +17,7 @@ New angles developed from competitor analysis — see individual files for full 
 
 4. **[Clarity Unlock](clarity-unlock.md)** — Testimonial-proven transformation (6/6 clients), earliest-stage entry point
 
-Decision rationale: `decisions/2026-02-01-angle-prioritization.md`
+Decision rationale: [decisions/2026-02-01-angle-prioritization.md](../../../decisions/2026-02-01-angle-prioritization.md)
 
 ---
 
@@ -94,7 +94,7 @@ Decision rationale: `decisions/2026-02-01-angle-prioritization.md`
 
 **Use in:** $47 offer, lead magnet, content
 
-**Elevation note (Feb 2026):** AI should be headline-level, not buried in product details. Miles Stutz leads with "AI-powered system" in link descriptions across 113 ads. Test: "5 AI prompts that build your $5K offer in one afternoon." Position AI as the speed mechanism — why it takes one afternoon instead of one month. Keep the human element: "AI does the heavy lifting, you make the decisions." See `decisions/2026-02-22-miles-stutz-mining-response.md` Decision 2.
+**Elevation note (Feb 2026):** AI should be headline-level, not buried in product details. Miles Stutz leads with "AI-powered system" in link descriptions across 113 ads. Test: "5 AI prompts that build your $5K offer in one afternoon." Position AI as the speed mechanism — why it takes one afternoon instead of one month. Keep the human element: "AI does the heavy lifting, you make the decisions." See [decisions/2026-02-22-miles-stutz-mining-response.md](../../../decisions/2026-02-22-miles-stutz-mining-response.md) Decision 2.
 
 ---
 
@@ -129,7 +129,7 @@ Reusable structures that can be applied across multiple angles.
 ### The "Don't Buy This" Angle (2026 Research)
 "Don't buy this system... if you hate having an offer that sells itself."
 - Reverse psychology — filters for high-intent buyers, increases curiosity
-- Per `research/2026-02-17-meta-ads-strategies-2026-gemini.md`
+- Per [research/2026-02-17-meta-ads-strategies-2026-gemini.md](../../../research/2026-02-17-meta-ads-strategies-2026-gemini.md)
 - 3 variations in `one-liners-batch-001.md` (#31, #32, #33)
 - Best as ugly static format (Notes app screenshot or text-on-plain-background)
 
@@ -164,3 +164,13 @@ _Track which angles perform best in different contexts:_
 |-------|---------|--------|------|
 | | | | |
 
+---
+
+## See Also
+
+- [audience.md](../../core/audience.md) — Pain points and stuck patterns these angles target
+- [voice.md](../../core/voice.md) — Voice mechanics applied in ad copy
+- [soul.md](../../core/soul.md) — Core beliefs that power the angles
+- [testimonials.md](../testimonials.md) — Proof mapped to each angle
+- [launch-strategy.md](../../../outputs/ads/launch-strategy.md) — How angles deploy in the ad campaign
+- [one-liners.md](../../../outputs/ads/one-liners.md) — Short-form hooks by angle

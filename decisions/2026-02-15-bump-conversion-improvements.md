@@ -139,3 +139,11 @@ Output files affected:
 - Bump pricing (37/67/97) -- recently updated, no change needed
 - Bump order (1/2/3) -- current order is correct (lowest friction first)
 - Funnel stages or touchpoints -- copy changes only, no structural changes
+
+---
+
+## Related Files
+
+**Decisions:**
+  - [2026-02-01-bump-restructure.md](./2026-02-01-bump-restructure.md)
+  - [2026-02-14-info-products-congruence-audit.md](./2026-02-14-info-products-congruence-audit.md)
