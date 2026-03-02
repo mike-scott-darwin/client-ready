@@ -3,8 +3,8 @@ type: decision
 status: codified
 date: 2026-02-24
 linked_research:
-  - research/2026-02-21-devon-openclaw-5-day-setup-skool.md
-  - research/2026-02-21-devon-autonomous-agents-skool.md
+  - research/archived/2026-02-21-devon-openclaw-5-day-setup-skool.md
+  - research/archived/2026-02-21-devon-autonomous-agents-skool.md
 linked_decisions:
   - decisions/2026-02-03-content-strategy.md
   - decisions/2026-02-17-automation-phase-sequencing.md
@@ -122,8 +122,8 @@ This is already how Client Ready works. `reference/` is the canon. Content is de
 ## Related Files
 
 **Research:**
-  - [2026-02-21-devon-openclaw-5-day-setup-skool.md](../research/2026-02-21-devon-openclaw-5-day-setup-skool.md)
-  - [2026-02-21-devon-autonomous-agents-skool.md](../research/2026-02-21-devon-autonomous-agents-skool.md)
+  - [2026-02-21-devon-openclaw-5-day-setup-skool.md](../research/archived/2026-02-21-devon-openclaw-5-day-setup-skool.md)
+  - [2026-02-21-devon-autonomous-agents-skool.md](../research/archived/2026-02-21-devon-autonomous-agents-skool.md)
 
 **Decisions:**
   - [2026-02-03-content-strategy.md](./2026-02-03-content-strategy.md)

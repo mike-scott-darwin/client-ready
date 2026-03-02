@@ -2,7 +2,7 @@
 type: output
 subtype: static-ads
 status: draft
-review_status: REVIEW REQUIRED (P1: typicality data missing — see batch-003 review-log.md)
+review_status: "REVIEW REQUIRED (P1: typicality data missing — see batch-003 review-log.md)"
 offer: client-ready
 angle: content-merry-go-round
 consolidated_from: [2026-02-10-static-ads-batch-004]

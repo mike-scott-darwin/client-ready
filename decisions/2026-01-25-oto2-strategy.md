@@ -3,10 +3,10 @@ type: decision
 date: 2026-01-25
 status: superseded
 linked_research:
-  - research/2026-01-25-self-liquidating-offers-claude-code.md
-  - research/2026-01-23-cat-howell-low-ticket-ecosystem.md
-  - research/2026-01-25-cat-howell-competitor-mining.md
-  - research/2026-01-25-hernan-vazquez-competitor-mining.md
+  - research/_archived/2026-01-25-self-liquidating-offers-claude-code.md
+  - research/_archived/2026-01-23-cat-howell-low-ticket-ecosystem.md
+  - research/_archived/2026-01-25-cat-howell-competitor-mining.md
+  - research/_archived/2026-01-25-hernan-vazquez-competitor-mining.md
 ---
 
 # OTO2 Strategy Decision
@@ -195,7 +195,7 @@ This delivers:
 ## Related Files
 
 **Research:**
-  - [2026-01-25-self-liquidating-offers-claude-code.md](../research/2026-01-25-self-liquidating-offers-claude-code.md)
-  - [2026-01-23-cat-howell-low-ticket-ecosystem.md](../research/2026-01-23-cat-howell-low-ticket-ecosystem.md)
-  - [2026-01-25-cat-howell-competitor-mining.md](../research/2026-01-25-cat-howell-competitor-mining.md)
-  - [2026-01-25-hernan-vazquez-competitor-mining.md](../research/2026-01-25-hernan-vazquez-competitor-mining.md)
+  - [2026-01-25-self-liquidating-offers-claude-code.md](../research/_archived/2026-01-25-self-liquidating-offers-claude-code.md)
+  - [2026-01-23-cat-howell-low-ticket-ecosystem.md](../research/_archived/2026-01-23-cat-howell-low-ticket-ecosystem.md)
+  - [2026-01-25-cat-howell-competitor-mining.md](../research/_archived/2026-01-25-cat-howell-competitor-mining.md)
+  - [2026-01-25-hernan-vazquez-competitor-mining.md](../research/_archived/2026-01-25-hernan-vazquez-competitor-mining.md)

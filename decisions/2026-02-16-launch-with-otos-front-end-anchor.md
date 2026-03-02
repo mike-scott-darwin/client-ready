@@ -44,4 +44,4 @@ supersedes:
 ## Related Files
 
 **Supersedes:**
-  - [2026-02-15-ad-strategy-update-miles-stutz.md (decision #2 only — "Launch Without OTOs")](./2026-02-15-ad-strategy-update-miles-stutz.md (decision #2 only — "Launch Without OTOs"))
+  - [2026-02-15-ad-strategy-update-miles-stutz.md](./2026-02-15-ad-strategy-update-miles-stutz.md) (decision #2 only — "Launch Without OTOs")

@@ -420,8 +420,8 @@ Where daily emails fit:
 
 ## See Also
 
-- [welcome-sequence-10-day.md](welcome-sequence-10-day.md) — Pre-broadcast sequence
-- [install-offer-recovery-sequence.md](../classroom/downloads/install-offer-recovery-sequence.md) — Bump recovery
-- [oto-recovery-sequence.md](../classroom/downloads/oto-recovery-sequence.md) — OTO recovery
-- [community-recovery-sequence.md](../classroom/downloads/community-recovery-sequence.md) — Community downsell
+- [welcome-sequence-10-day.md](./2-buyers-welcome-10-day.md) — Pre-broadcast sequence
+- [install-offer-recovery-sequence.md](../../reference/domain/classroom/downloads/install-offer-recovery-sequence.md) — Bump recovery
+- [oto-recovery-sequence.md](../../reference/domain/classroom/downloads/oto-recovery-sequence.md) — OTO recovery
+- [community-recovery-sequence.md](../../reference/domain/classroom/downloads/community-recovery-sequence.md) — Community downsell
 - [email-rhythm.md](../../reference/domain/funnel/email-rhythm.md) — Strategy overview

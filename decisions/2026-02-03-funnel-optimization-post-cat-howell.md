@@ -3,8 +3,8 @@ type: decision
 status: superseded
 date: 2026-02-03
 linked_research:
-  - research/2026-02-03-cat-howell-hotseat-scaling.md
-  - research/2026-02-03-cat-howell-low-ticket-ads-course.md
+  - research/_archived/2026-02-03-cat-howell-hotseat-scaling.md
+  - research/_archived/2026-02-03-cat-howell-low-ticket-ads-course.md
 ---
 
 # Funnel Optimization — Post Cat Howell Hot Seat
@@ -527,5 +527,5 @@ At 5% CVR, $2 CPC → $40 per sale
 ## Related Files
 
 **Research:**
-  - [2026-02-03-cat-howell-hotseat-scaling.md](../research/2026-02-03-cat-howell-hotseat-scaling.md)
-  - [2026-02-03-cat-howell-low-ticket-ads-course.md](../research/2026-02-03-cat-howell-low-ticket-ads-course.md)
+  - [2026-02-03-cat-howell-hotseat-scaling.md](../research/_archived/2026-02-03-cat-howell-hotseat-scaling.md)
+  - [2026-02-03-cat-howell-low-ticket-ads-course.md](../research/_archived/2026-02-03-cat-howell-low-ticket-ads-course.md)

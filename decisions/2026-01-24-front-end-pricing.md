@@ -3,10 +3,10 @@ type: decision
 date: 2026-01-25
 status: codified
 linked_research:
-  - research/2026-01-23-cat-howell-low-ticket-ecosystem.md
-  - research/2026-01-25-self-liquidating-offers-claude-code.md
-  - research/2026-01-25-miles-stutz-consolidated.md
-  - research/2026-01-25-hernan-vazquez-competitor-mining.md
+  - research/_archived/2026-01-23-cat-howell-low-ticket-ecosystem.md
+  - research/_archived/2026-01-25-self-liquidating-offers-claude-code.md
+  - research/_archived/2026-01-25-miles-stutz-consolidated.md
+  - research/_archived/2026-01-25-hernan-vazquez-competitor-mining.md
 supersedes: null
 codified_to:
   - reference/core/offer.md
@@ -168,10 +168,10 @@ Review after 100 front-end purchases to compare:
 ## Related Files
 
 **Research:**
-  - [2026-01-23-cat-howell-low-ticket-ecosystem.md](../research/2026-01-23-cat-howell-low-ticket-ecosystem.md)
-  - [2026-01-25-self-liquidating-offers-claude-code.md](../research/2026-01-25-self-liquidating-offers-claude-code.md)
-  - [2026-01-25-miles-stutz-consolidated.md](../research/2026-01-25-miles-stutz-consolidated.md)
-  - [2026-01-25-hernan-vazquez-competitor-mining.md](../research/2026-01-25-hernan-vazquez-competitor-mining.md)
+  - [2026-01-23-cat-howell-low-ticket-ecosystem.md](../research/_archived/2026-01-23-cat-howell-low-ticket-ecosystem.md)
+  - [2026-01-25-self-liquidating-offers-claude-code.md](../research/_archived/2026-01-25-self-liquidating-offers-claude-code.md)
+  - [2026-01-25-miles-stutz-consolidated.md](../research/_archived/2026-01-25-miles-stutz-consolidated.md)
+  - [2026-01-25-hernan-vazquez-competitor-mining.md](../research/_archived/2026-01-25-hernan-vazquez-competitor-mining.md)
 
 **Codified to:**
   - [offer.md](../reference/core/offer.md)

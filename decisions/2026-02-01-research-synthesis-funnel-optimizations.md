@@ -3,14 +3,14 @@ type: decision
 date: 2026-02-01
 status: codified
 linked_research:
-  - research/2026-01-27-miles-stutz-call-ads-strategy.md
-  - research/2026-02-01-miles-stutz-dfy-delivery-copy.md
-  - research/2026-02-01-miles-stutz-template-product-structure.md
-  - research/2026-02-01-order-bump-copy-swipes.md
-  - research/2026-02-01-digital-snacks-case-study-500-sales.md
-  - research/2026-02-01-ad-analysis-cpa-aov-framework.md
-  - research/2026-02-01-funnel-metrics-benchmarks-miles-feedback.md
-  - research/2026-02-01-cat-howell-scaling-split-tests.md
+  - research/_archived/2026-01-27-miles-stutz-call-ads-strategy.md
+  - research/_archived/2026-02-01-miles-stutz-dfy-delivery-copy.md
+  - research/_archived/2026-02-01-miles-stutz-template-product-structure.md
+  - research/_archived/2026-02-01-order-bump-copy-swipes.md
+  - research/_archived/2026-02-01-digital-snacks-case-study-500-sales.md
+  - research/_archived/2026-02-01-ad-analysis-cpa-aov-framework.md
+  - research/_archived/2026-02-01-funnel-metrics-benchmarks-miles-feedback.md
+  - research/_archived/2026-02-01-cat-howell-scaling-split-tests.md
 ---
 
 # Research Synthesis: Funnel Optimization Decisions
@@ -229,11 +229,11 @@ Need to determine: What's validated, what should change, what to test next.
 ## Related Files
 
 **Research:**
-  - [2026-01-27-miles-stutz-call-ads-strategy.md](../research/2026-01-27-miles-stutz-call-ads-strategy.md)
-  - [2026-02-01-miles-stutz-dfy-delivery-copy.md](../research/2026-02-01-miles-stutz-dfy-delivery-copy.md)
-  - [2026-02-01-miles-stutz-template-product-structure.md](../research/2026-02-01-miles-stutz-template-product-structure.md)
-  - [2026-02-01-order-bump-copy-swipes.md](../research/2026-02-01-order-bump-copy-swipes.md)
-  - [2026-02-01-digital-snacks-case-study-500-sales.md](../research/2026-02-01-digital-snacks-case-study-500-sales.md)
-  - [2026-02-01-ad-analysis-cpa-aov-framework.md](../research/2026-02-01-ad-analysis-cpa-aov-framework.md)
-  - [2026-02-01-funnel-metrics-benchmarks-miles-feedback.md](../research/2026-02-01-funnel-metrics-benchmarks-miles-feedback.md)
-  - [2026-02-01-cat-howell-scaling-split-tests.md](../research/2026-02-01-cat-howell-scaling-split-tests.md)
+  - [2026-01-27-miles-stutz-call-ads-strategy.md](../research/_archived/2026-01-27-miles-stutz-call-ads-strategy.md)
+  - [2026-02-01-miles-stutz-dfy-delivery-copy.md](../research/_archived/2026-02-01-miles-stutz-dfy-delivery-copy.md)
+  - [2026-02-01-miles-stutz-template-product-structure.md](../research/_archived/2026-02-01-miles-stutz-template-product-structure.md)
+  - [2026-02-01-order-bump-copy-swipes.md](../research/_archived/2026-02-01-order-bump-copy-swipes.md)
+  - [2026-02-01-digital-snacks-case-study-500-sales.md](../research/_archived/2026-02-01-digital-snacks-case-study-500-sales.md)
+  - [2026-02-01-ad-analysis-cpa-aov-framework.md](../research/_archived/2026-02-01-ad-analysis-cpa-aov-framework.md)
+  - [2026-02-01-funnel-metrics-benchmarks-miles-feedback.md](../research/_archived/2026-02-01-funnel-metrics-benchmarks-miles-feedback.md)
+  - [2026-02-01-cat-howell-scaling-split-tests.md](../research/_archived/2026-02-01-cat-howell-scaling-split-tests.md)

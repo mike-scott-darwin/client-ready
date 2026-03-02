@@ -3,7 +3,7 @@ type: output
 subtype: static-ads
 date: 2026-02-10
 status: draft
-review_status: BLOCKED (P1: testimonial-product mismatch — see review-log.md)
+review_status: "BLOCKED (P1: testimonial-product mismatch — see review-log.md)"
 offer: client-ready
 campaign: 5x5-cold-traffic
 special_ad_category: none

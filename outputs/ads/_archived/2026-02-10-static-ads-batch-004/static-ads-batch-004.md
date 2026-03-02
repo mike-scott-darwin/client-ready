@@ -3,7 +3,7 @@ type: output
 subtype: static-ads
 date: 2026-02-10
 status: draft
-review_status: REVIEW REQUIRED (P1: typicality data missing — see batch-003 review-log.md)
+review_status: "REVIEW REQUIRED (P1: typicality data missing — see batch-003 review-log.md)"
 offer: client-ready
 campaign: static-ads-batch-004
 special_ad_category: none

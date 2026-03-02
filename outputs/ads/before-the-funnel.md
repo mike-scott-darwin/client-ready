@@ -2,7 +2,7 @@
 type: output
 subtype: static-ads
 status: draft
-review_status: REVIEW REQUIRED (P1: typicality data missing — see review-log.md)
+review_status: "REVIEW REQUIRED (P1: typicality data missing — see review-log.md)"
 offer: client-ready
 angle: before-the-funnel
 consolidated_from: [2026-02-10-static-ads-batch-003, 2026-02-10-static-ads-5x5-cold-traffic]

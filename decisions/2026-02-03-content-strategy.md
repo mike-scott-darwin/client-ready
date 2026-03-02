@@ -3,9 +3,9 @@ type: decision
 date: 2026-02-03
 status: codified
 linked_research:
-  - research/2026-02-03-linkedin-coach-content-research.md
-  - research/2026-02-03-x-twitter-coach-content-research.md
-  - research/2026-02-03-newsletter-first-strategy-research.md
+  - research/_archived/2026-02-03-linkedin-coach-content-research.md
+  - research/_archived/2026-02-03-x-twitter-coach-content-research.md
+  - research/_archived/2026-02-03-newsletter-first-strategy-research.md
 ---
 
 # Content Strategy Decision
@@ -206,6 +206,6 @@ From research + Michael's voice:
 ## Related Files
 
 **Research:**
-  - [2026-02-03-linkedin-coach-content-research.md](../research/2026-02-03-linkedin-coach-content-research.md)
-  - [2026-02-03-x-twitter-coach-content-research.md](../research/2026-02-03-x-twitter-coach-content-research.md)
-  - [2026-02-03-newsletter-first-strategy-research.md](../research/2026-02-03-newsletter-first-strategy-research.md)
+  - [2026-02-03-linkedin-coach-content-research.md](../research/_archived/2026-02-03-linkedin-coach-content-research.md)
+  - [2026-02-03-x-twitter-coach-content-research.md](../research/_archived/2026-02-03-x-twitter-coach-content-research.md)
+  - [2026-02-03-newsletter-first-strategy-research.md](../research/_archived/2026-02-03-newsletter-first-strategy-research.md)
