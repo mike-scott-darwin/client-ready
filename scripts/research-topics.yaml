@@ -1,0 +1,156 @@
+# Deep Research Topic Rotation
+# Bot reads this file nightly to determine what to research.
+# Topics rotate by day of week. Each topic targets specific reference files.
+#
+# Usage: OpenClaw cron reads this at 2:00 AM, runs Gemini deep research,
+# saves findings to research/YYYY-MM-DD-<slug>-gemini.md
+#
+# To add/change topics: edit this file and push to GitHub.
+# The M1 bot picks up changes on next git pull (runs every 15 min).
+
+rotation:
+  monday:
+    slug: offer-validation
+    title: "Offer Validation and Micro-Testing"
+    enhances:
+      - reference/core/offer.md
+    prompt: >
+      Research current offer validation frameworks for solo coaches and service
+      providers selling low-ticket digital products (under 100). Focus on:
+      - Micro-testing methods that work WITHOUT an audience (cold traffic validation)
+      - Specific signals that separate dead offers from viable ones (conversion rate
+        thresholds, refund rates, engagement patterns)
+      - Decision frameworks for when to pivot vs persist on an offer
+      - Real case studies from coaches who validated offers in 7 days or less
+      - How validation changes when the front-end is a self-liquidating offer
+        vs a free lead magnet
+      Skip generic "survey your audience" advice. Find data-backed methods
+      and contrarian approaches that challenge conventional wisdom.
+
+  tuesday:
+    slug: high-ticket-no-phone
+    title: "High-Ticket Sales Without Phone Calls"
+    enhances:
+      - reference/core/offer.md
+    prompt: >
+      Research how coaches and service providers sell 5K+ programs without
+      sales calls or discovery sessions. Focus on:
+      - Async selling methods (email sequences, video applications, DM frameworks)
+        that close high-ticket without a call
+      - Objection psychology specific to "no-call" positioning — what objections
+        arise when there's no human conversation before purchase?
+      - Case studies from practitioners who've cracked no-phone high-ticket
+        (specific numbers, conversion rates, deal sizes)
+      - How trust-building changes when the entire sales process is async
+      - The role of a low-ticket front-end in warming buyers for high-ticket
+        (does a 47 buyer convert to 5K+ better than a free-lead buyer?)
+      Find real examples, not theory. Prioritize people selling to other
+      coaches/consultants, not B2B enterprise.
+
+  wednesday:
+    slug: email-ascension-benchmarks
+    title: "Email Ascension and Mid-Ticket Conversion"
+    enhances:
+      - reference/domain/content-strategy.md
+    prompt: >
+      Research email marketing benchmarks and ascension strategies for coaches
+      selling mid-ticket products (200-500 range) from a buyer email list.
+      Focus on:
+      - Conversion rates from customer email list to mid-ticket upsell
+        (what's realistic for a 297-397 offer?)
+      - Optimal timing for upsell offers after initial purchase
+        (iron strike window — does the "Days 5-9 peak" hold at scale?)
+      - Daily email broadcast strategies for buyer lists (vs prospect lists)
+      - Downsell recovery rates — when someone declines a 297 offer,
+        what percentage converts on a 47/month community downsell?
+      - Email engagement benchmarks for service provider audiences
+        (open rates, click rates, reply rates — what's good?)
+      Prioritize data from coaches/course creators, not ecommerce.
+      Include specific numbers and case studies where possible.
+
+  thursday:
+    slug: audience-stuck-patterns
+    title: "Audience Segmentation by Stuck Pattern"
+    enhances:
+      - reference/core/audience.md
+    prompt: >
+      Research how coaches and service providers identify and segment prospects
+      by their specific "stuck pattern" — the psychological trap keeping them
+      from progress. Focus on:
+      - Behavioral signals in initial interactions (DMs, comments, email replies)
+        that reveal which stuck pattern someone is in
+      - How messaging should differ for "avoidance-as-prudence" prospects vs
+        "expertise paralysis" vs "perfection procrastination" types
+      - Which stuck patterns correlate with highest lifetime value
+        (who is most likely to buy AND implement?)
+      - Early-stage filtering: how to identify serious buyers vs perpetual
+        researchers in the first 48 hours
+      - How the "people in transition" audience (9-to-5ers building a side
+        business) differs from full-time entrepreneurs in buying psychology
+      Find research from coaching, therapy, behavioral psychology, and
+      creator economy spaces. Skip generic persona advice.
+
+  friday:
+    slug: meta-ads-low-ticket
+    title: "Meta Ads for Low-Ticket Coach Offers"
+    enhances:
+      - reference/core/offer.md
+    prompt: >
+      Research current Meta (Facebook/Instagram) advertising strategies for
+      coaches selling low-ticket digital products (47-97 range). Focus on:
+      - Creative formats winning right now for sub-100 offers (static image vs
+        video vs UGC vs text-on-background — what's actually converting?)
+      - CPM and CPA benchmarks for coach-to-coach targeting in 2026
+      - Landing page formats that convert cold traffic on low-ticket
+        (hybrid VSL vs static page vs checkout-first)
+      - How Advantage+ and broad targeting perform for coaching offers
+        vs interest-based targeting
+      - Self-liquidating offer economics: what AOV is needed to break even
+        on ad spend at current CPAs?
+      - Retargeting strategies for people who hit the page but didn't buy
+      Prioritize recent data (last 6 months). Skip strategies from 2023
+      or earlier — the platform has changed significantly.
+
+  saturday:
+    slug: creator-positioning
+    title: "Authority Positioning Without Personal Brand Dependency"
+    enhances:
+      - reference/core/voice.md
+    prompt: >
+      Research how coaches and service providers build authority and
+      differentiation without relying purely on personal brand equity. Focus on:
+      - System-based positioning vs personality-based positioning
+        (selling the framework, not the person)
+      - How to differentiate when competitors use the same "no-guru" or
+        "anti-guru" angle (everyone claims to be the honest one)
+      - Authority signals that work for unknown coaches with small audiences
+        (what builds trust faster than follower count?)
+      - The role of transparency (real numbers, behind-the-scenes) as a
+        positioning strategy — when does it help vs hurt?
+      - Case studies of coaches who built 6-figure businesses with less than
+        5K followers by leading with systems over personality
+      Find contrarian insights. The "just be authentic" advice is everywhere —
+      what actually works for unknown coaches entering a crowded market?
+
+  sunday:
+    slug: content-pipeline-metrics
+    title: "Content-to-Cash Pipeline Benchmarks"
+    enhances:
+      - reference/domain/content-strategy.md
+    prompt: >
+      Research content marketing benchmarks and conversion metrics for coaches
+      using a newsletter-first content strategy. Focus on:
+      - Newsletter signup cost benchmarks from organic content (X/Twitter,
+        LinkedIn) vs paid ads — what's a good CAC for a newsletter subscriber?
+      - Newsletter-to-buyer conversion rates for coaching businesses
+        (subscriber to first purchase — what's realistic?)
+      - Organic content engagement benchmarks for coaching/consulting niche
+        on X and LinkedIn (impressions, engagement rate, follower growth)
+      - The newsletter-first model vs the social-first model — which drives
+        more revenue per hour invested for solo coaches?
+      - DM conversation to buyer conversion rates — when someone responds
+        to a tweet or LinkedIn post, what percentage becomes a customer?
+      - Weekly publishing cadence data: is more always better, or is there
+        a diminishing returns point?
+      Prioritize data from solo coaches and small teams, not media companies.
+      Include specific benchmarks with sample sizes where possible.
