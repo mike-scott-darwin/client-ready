@@ -1,0 +1,65 @@
+# Intent Sniping — X Search Keywords
+# Bot searches for these phrases to find Client Ready's audience in the wild.
+# Drafts helpful replies in Mike's voice. Mike approves via Telegram.
+#
+# Update keywords as you learn what resonates.
+# The M1 bot picks up changes on next git pull.
+
+# People struggling with offers
+offer_keywords:
+  - "don't know what to charge"
+  - "pricing my coaching"
+  - "undercharging" coaching
+  - "offer is confusing"
+  - "no one is buying" coach
+  - "can't sell my coaching"
+  - "what should I charge" coaching
+
+# People stuck in the content grind
+content_grind_keywords:
+  - "posting every day" "no clients"
+  - "content isn't converting"
+  - "tired of posting" coach
+  - "social media" "waste of time" coaching
+  - "content treadmill"
+  - "creating content" "no results"
+
+# People disillusioned with gurus/courses
+anti_guru_keywords:
+  - "another course" "didn't work"
+  - "guru" "scam" coaching
+  - "spent thousands" "no results" coaching
+  - "coaching program" "waste of money"
+  - "course collector"
+  - "information overload" business
+
+# People in transition (9-to-5 to coaching)
+transition_keywords:
+  - "leaving my 9 to 5" coaching
+  - "side hustle" "coaching business"
+  - "want to be a coach" "don't know where to start"
+  - "quit my job" coaching
+  - "building a coaching business" stuck
+  - "first coaching client"
+
+# People struggling with funnels/tech
+funnel_keywords:
+  - "funnel isn't working"
+  - "landing page" "no conversions"
+  - "email list" "not growing" coach
+  - "webinar" "nobody showed up"
+  - "sales page" "no sales"
+
+# Reply rules
+reply_rules:
+  tone: "Direct, helpful, no pitch. Share one insight that reframes their problem."
+  style: "Short (2-3 sentences max). End with a question or observation, not a CTA."
+  never:
+    - Link to your product or funnel
+    - Say "DM me" or "check my bio"
+    - Use coach-speak or jargon
+    - Be condescending or preachy
+  examples:
+    - "Most coaches underprice because they're selling time instead of transformation. The fix isn't 'charge your worth' — it's packaging the outcome so the price makes sense without a conversation."
+    - "The content grind only works if content is your product. For coaches, email converts 5-10x better than social posts. One good email to 200 people beats 30 tweets to 5000 followers."
+    - "You don't need another course. You need to test one offer with 50 real people and see what happens. Everything else is avoidance disguised as preparation."
