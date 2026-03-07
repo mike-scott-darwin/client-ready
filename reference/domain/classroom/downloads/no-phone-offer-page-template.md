@@ -70,7 +70,7 @@ _______________________________________________
 ### Example:
 
 **This is for you if:**
-- You've bought the Client Ready Offer System or Sprint
+- You've bought the Client Ready Offer System or joined the Community
 - You know your offer works — you've made sales
 - You want a complete funnel, not just templates
 - You're ready to invest $5,000 to save months of trial and error
@@ -245,7 +245,7 @@ Payment plan available: 2x $2,600
 ### Include these:
 
 1. **"What if I haven't validated my offer yet?"**
-   → [Answer: This isn't for you yet. Go through the Sprint first.]
+   → [Answer: This isn't for you yet. Join the Community first.]
 
 2. **"How much of my time does this require?"**
    → [Answer: Expect 3-5 hours/week for your part.]
@@ -291,7 +291,7 @@ Payment plan available: 2x $2,600
 
 **This is NOT for you if:**
 
-- You haven't made any sales yet (start with the $47 system or Sprint)
+- You haven't made any sales yet (start with the $47 system or Community)
 - You want someone to "do it all" with zero input from you (this is done-WITH-you)
 - You're looking for the cheapest option (this is the premium path)
 - You need a sales call to feel confident (if you need convincing, you're not ready)

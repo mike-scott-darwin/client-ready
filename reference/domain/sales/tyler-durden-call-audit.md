@@ -139,7 +139,7 @@ What can we do to optimize the offer OR presentation of it?
 **Primary use case:** Accelerator ($5K) follow-ups if someone doesn't immediately buy.
 
 **Sections most relevant:**
-- Section 4 (Maybe/Not Right Now) — for Sprint or Accelerator maybes
+- Section 4 (Maybe/Not Right Now) — for DFY Offer Build or Accelerator maybes
 - Section 5 (Re-Entry Path) — templates adapt to any price point
 - Section 6 (Airport Moment) — for high-ticket only
 

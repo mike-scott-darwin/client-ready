@@ -148,9 +148,9 @@ When you're making choices about your business — pricing, positioning, deliver
 | Stage | State | What They Need | Product |
 |-------|-------|----------------|---------|
 | **Stuck** | Have expertise, no clear offer | Extract and validate | $47 Offer System |
-| **Validated** | Offer works, need to build | Systems and accountability | $297 Sprint |
-| **Building** | Need help implementing | Custom funnel strategy | $397 Blueprint |
-| **Scaling** | Ready for high-ticket | Hands-on support | $5K+ 1:1 |
+| **Validated** | Offer works, need it built | Done-for-you offer creation | $197 DFY Offer Build |
+| **Building** | Need accountability + community | Weekly calls, templates, peer support | $97/mo Community |
+| **Scaling** | Ready for high-ticket | Hands-on done-with-you intensive | $5K Accelerator |
 
 ---
 

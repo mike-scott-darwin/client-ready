@@ -24,7 +24,7 @@ Daily → 3-5 tweets (observations, one-liners, replies)
     ↓
 High-intent signals → DM conversations
     ↓
-$47 → Sprint → Accelerator
+$47 → DFY / Community → Accelerator
 ```
 
 ```mermaid
@@ -42,7 +42,7 @@ graph TD
     
     ENG --> DM["DM Conversations<br/>High-Intent Signals"]
     DM --> FE["47 Front-End"]
-    FE --> SP["Sprint + Accelerator"]
+    FE --> SP["DFY / Community + Accelerator"]
     
     style NL fill:#4a9eff,color:#fff
     style FE fill:#ff6b35,color:#fff
@@ -175,7 +175,7 @@ Daily emails (trust + offers)
     ↓
 $47 front-end
     ↓
-Bumps + OTOs (Sprint, Blueprint, Community)
+Bumps + OTOs (DFY Offer Build, Newsletter, Community)
     ↓
 Email ascension
     ↓

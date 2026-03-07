@@ -16,8 +16,9 @@ This document defines how the Accelerator is delivered — a done-with-you inten
 
 > "This isn't coaching. This is building together."
 
-The Accelerator is different from the Sprint:
-- **Sprint:** You do the work, I guide you on calls
+The Accelerator is different from the Community or DFY Offer Build:
+- **Community:** You do the work, guided by curriculum and group calls
+- **DFY Offer Build:** I build your offer document, you implement
 - **Accelerator:** We build together, I do heavy lifting, you make decisions
 
 At any moment, an Accelerator client should know:
@@ -30,7 +31,7 @@ At any moment, an Accelerator client should know:
 ## Who This Is For
 
 Accelerator clients have already:
-- Validated their offer (bought $47, did Sprint, or have existing traction)
+- Validated their offer (bought $47, gone through Community curriculum, or have existing traction)
 - Decided they want speed + expert guidance, not DIY
 - Committed to invest in getting it right the first time
 
@@ -143,7 +144,7 @@ Call structure:
 - Email sequences drafted:
   - 10-day welcome sequence
   - Daily email templates (first 7 days of broadcast)
-  - Ascension emails (Sprint → Blueprint → Accelerator)
+  - Ascension emails (Community → DFY Offer Build → Accelerator)
 - Checkout page copy
 - Order bump copy
 
@@ -459,17 +460,17 @@ At $5,000, that's ~$52-78/hour effective rate. Scale by raising price or reducin
 
 ---
 
-## Accelerator vs. Sprint vs. Blueprint
+## Accelerator vs. Community vs. DFY Offer Build
 
-| Dimension | Sprint ($297) | Blueprint ($397) | Accelerator ($5K) |
-|-----------|---------------|-------------------|-------------------|
-| Duration | 4 weeks | 30 days | 8 weeks |
-| Format | Group + DIY | Custom strategy doc | Done-with-you |
-| Calls | 4 group calls | 1 integration call | 3 strategy calls (1:1) |
-| Async | Chat access | Skool community | Unlimited WhatsApp + Loom |
-| Who does work | Client builds | Client implements strategy | Both build together |
-| Best for | Validate + launch | Need strategy + copy done | Scale + optimize |
-| Outcome | Offer validated, funnel live | Custom funnel strategy + GHL snapshot | Profitable, scaling |
+| Dimension | Community ($97/mo) | DFY Offer Build ($197) | DFY Lite ($97) | Accelerator ($5K) |
+|-----------|---------------------|------------------------|----------------|-------------------|
+| Duration | Ongoing | ~1 week turnaround | ~1 week turnaround | 8 weeks |
+| Format | Group + curriculum | Done-for-you | Done-for-you (lighter) | Done-with-you |
+| Calls | Weekly group hot seats | None (async delivery) | None (async delivery) | 3 strategy calls (1:1) |
+| Async | DM access + community | Questionnaire → deliverable | Questionnaire → deliverable | Unlimited WhatsApp + Loom |
+| Who does work | Client (guided) | Michael builds offer doc | Michael builds offer doc | Both build together |
+| Best for | Ongoing support + curriculum | Need offer built fast | Downsell from DFY | Scale + optimize |
+| Outcome | Validated offer, community support | Complete offer document | Streamlined offer document | Profitable, scaling |
 
 ---
 

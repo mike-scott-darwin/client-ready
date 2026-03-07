@@ -92,14 +92,14 @@ GHL handles the email workflows (welcome sequence, bump recovery, OTO recovery, 
 - Consumption tracking: what percentage of buyers access the portal by Day 3?
 - Recovery sequence conversion: are declined bumps converting via email?
 - Daily broadcast unsubscribe rate (signal for voice drift)
-- Sprint/Blueprint purchase notifications for accountability DM trigger
+- DFY Offer Build/Community purchase notifications for accountability DM trigger
 
 **What the agent does:**
 
 - Morning brief includes email metrics alongside ad and content metrics
 - Flags when consumption rate drops below 50% (buyers not using the product)
 - Flags when any recovery sequence outperforms the welcome sequence (signal to adjust timing)
-- Reminds you to send accountability DMs within 48 hours of Sprint/Blueprint purchases
+- Reminds you to send accountability DMs within 48 hours of DFY Offer Build/Community purchases
 
 **Autonomy tier:** Tier 0 (read-only on GHL data). Tier 1 for filing metric summaries to the repo.
 

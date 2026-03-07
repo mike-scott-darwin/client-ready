@@ -76,28 +76,29 @@ Pricing psychology, conversation frameworks, the Warm 50 activation plan, object
 
 - **Promise:** Close your first high-ticket client — without feeling like a salesperson
 
-### OTO 1: $297 — Client Ready Sprint
+### OTO 1: $197 — DFY Offer Build
 
-4-week offline course. 16 training modules, 16 supporting documents, WhatsApp group with homework reviews, weekly check-ins, and Skool community access. Michael reviews every submission.
+Michael builds your complete offer document — positioning, messaging, pricing — from an 8-question intake questionnaire (10-15 min). You get a done-for-you offer document ready to implement.
 
-- **Promise:** Launch your validated offer in 30 days — or Michael keeps working with you
+- **Promise:** Your offer, built by Michael — skip the guesswork
 
-### OTO 2: $397 — Client Ready Blueprint
+### OTO 1 Downsell: $97 — DFY Lite
 
-Custom strategy document + copy + GHL snapshot. Michael builds your complete funnel strategy — offer extraction, landing page copy, bump strategy, email sequences, ad creative direction, messaging map, market research. Plus a 60-minute integration call.
+Streamlined version of the DFY Offer Build for buyers who decline at $197.
 
-- 10 per month capacity (real scarcity)
-- **Promise:** Your complete custom funnel strategy — built by Michael, ready to implement
+### OTO 2: $97/mo — Client Ready Community
 
-### OTO 3: $47/mo — Client Ready Community
-
-Skool membership with weekly group hot seats, direct DM access to Michael, and resource library. $1 first month trial. Positioned as a downsell for buyers who declined Sprint and Blueprint.
+Skool membership with weekly group hot seats, direct DM access to Michael, full Sprint curriculum, and resource library. Includes the complete 4-week validated-offer curriculum.
 
 - **Promise:** Never build alone
 
+### OTO 3: $37/mo — Client Ready Newsletter
+
+Ongoing insights, strategies, and updates delivered monthly. Lightweight recurring for those who want to stay connected without full Community access.
+
 ### Backend: $5K — Client Ready Accelerator
 
-Done-with-you intensive. 8 weeks. 3 strategy calls, unlimited async support, complete funnel architecture built together. No sales call required — if you need convincing, go through the Sprint first.
+Done-with-you intensive. 8 weeks. 3 strategy calls, unlimited async support, complete funnel architecture built together. No sales call required — if you need convincing, go through the Community first.
 
 - **Promise:** Profitable funnel or we keep working until it is
 
@@ -111,12 +112,13 @@ Done-with-you intensive. 8 weeks. 3 strategy calls, unlimited async support, com
 | Bump 1 (DM Scripts) | $37 | One-time |
 | Bump 2 (Templates) | $67 | One-time |
 | Bump 3 (Playbook) | $97 | One-time |
-| OTO 1 (Sprint) | $297 | One-time |
-| OTO 2 (Blueprint) | $397 | One-time |
-| OTO 3 (Community) | $47/mo | Recurring ($1 trial) |
+| OTO 1 (DFY Offer Build) | $197 | One-time |
+| OTO 1 Downsell (DFY Lite) | $97 | One-time |
+| OTO 2 (Community) | $97/mo | Recurring |
+| OTO 3 (Newsletter) | $37/mo | Recurring |
 | Backend (Accelerator) | $5,000 | One-time |
 
-**Max cart value:** $942 | **Target AOV:** $90-110 | **Recurring:** OTO 3 adds $47/mo
+**Max cart value:** $542 (one-time) | **Target AOV:** $90-110 | **Recurring:** Community ($97/mo) + Newsletter ($37/mo)
 
 ---
 
@@ -134,8 +136,6 @@ Done-with-you intensive. 8 weeks. 3 strategy calls, unlimited async support, com
 ## Key URLs
 
 - **Sales Page:** https://clientreadyoffer.com/implement
-- **Sprint:** https://clientreadyoffer.com/sprint
-- **Blueprint:** https://clientreadyoffer.com/client-ready-blueprint
 - **Skool Community:** https://www.skool.com/high-ticket-playbook-9467
 
 ---
