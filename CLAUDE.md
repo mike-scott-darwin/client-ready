@@ -29,13 +29,17 @@ Michael Scott helps coaches validate their offers before building — scale from
 | Bump 3 | $97 | The First $5K Client Playbook |
 | Standalone | $57 | The One-Page Funnel (portal training) |
 | Standalone | $97 | Plug & Play Funnel Snapshot (portal + GHL affiliate) |
-| OTO 1 | $297 | Client Ready Sprint (4-week, one-time) |
-| OTO 2 | $397 | Client Ready Blueprint (custom strategy + GHL snapshot) |
-| OTO 3 | $47/mo | Client Ready Community ($1 trial) |
-| Backend | $5K+ | Client Ready Accelerator |
+| OTO 1 | $197 | DFY Offer Build (AI-built ICP + offer doc + copy + ad hooks + 30-day community trial) |
+| Downsell | $97 | DFY Lite (ICP + offer doc + 30-day community trial) |
+| OTO 2 | $37/mo | "What's Working Now" Newsletter (continuity) |
+| Community | $97/mo | Client Ready Community (30-day trial via DFY, then $97/mo month-to-month) |
+| Backend | $5K+ | Client Ready Accelerator (sold from community) |
 
-**Max cart:** $1,096 | **Target AOV:** $90-110 | **Recurring:** OTO 3 ($47/mo) + GHL affiliate (~$39/mo)
-**Delivery:** All low-ticket products deliver through GHL training portal (not Google Docs)
+**Checkout AOV target:** $90-110 | **Full funnel AOV:** ~$135 | **90-day value per buyer:** ~$260
+**Recurring:** Community ($97/mo) + Newsletter ($37/mo) + GHL affiliate (~$39/mo)
+**Delivery:** All low-ticket products deliver through GHL training portal. DFY via Claude API + Michael review.
+**Community = engine:** Sprint curriculum + weekly calls live in community. Accelerator spots announced there first.
+**Decision:** [decisions/2026-03-07-dfy-upsell-community-first.md](decisions/2026-03-07-dfy-upsell-community-first.md)
 
 ---
 
@@ -113,8 +117,11 @@ Direct. No-BS. Engineering mindset. Short sentences. "Wrong." "Test, validate, b
 | Testimonials | ⚠️ **#1 priority gap** — trigger case study collection at 5 sales |
 | 1:1 pricing | ⚠️ "$5K+" — exact price TBD |
 | Email sequences | ✅ 6 workflows defined in `reference/domain/funnel/email-rhythm.md` |
-| Application page | ⚠️ Not yet built |
-| OTO 3 page | ⚠️ Skool membership page not built yet |
+| DFY OTO page | ⚠️ Not yet built — need GHL page for $197 DFY Offer Build |
+| DFY Lite downsell page | ⚠️ Not yet built |
+| DFY API integration | ⚠️ Claude API + GHL webhook pipeline not yet wired |
+| Community pricing | ⚠️ Need to set $97/mo in GHL with 30-day trial logic |
+| Newsletter OTO page | ⚠️ "What's Working Now" $37/mo page not yet built |
 | Content strategy | ✅ Defined in `reference/domain/content-strategy.md` |
 
 ---
