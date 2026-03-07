@@ -301,7 +301,7 @@ Step 10: WAIT → Wait 1 day (until 8:00 AM) [Day 5]
 
 Step 11: SEND EMAIL → BW05-quick-tip.html
            Subject: "The 2-minute test for your offer"
-           (Includes soft ascension P.S. — Sprint link)
+           (Includes soft ascension P.S. — DFY link)
 
 Step 12: WAIT → Wait 1 day (until 8:00 AM) [Day 6]
 
@@ -312,7 +312,7 @@ Step 14: WAIT → Wait 1 day (until 8:00 AM) [Day 7]
 
 Step 15: SEND EMAIL → BW07-behind-the-scenes.html
            Subject: "What my morning actually looks like"
-           (Includes soft ascension P.S. — Sprint/Blueprint links)
+           (Includes soft ascension P.S. — DFY links)
 
 Step 16: WAIT → Wait 1 day (until 8:00 AM) [Day 8]
 
@@ -323,7 +323,7 @@ Step 18: WAIT → Wait 1 day (until 8:00 AM) [Day 9]
 
 Step 19: SEND EMAIL → BW09-the-roadmap.html
            Subject: "What happens after $47"
-           (Includes explicit Sprint vs Blueprint comparison CTA)
+           (Includes explicit DFY Offer Build CTA)
 
 Step 20: WAIT → Wait 1 day (until 8:00 AM) [Day 10]
 
@@ -614,7 +614,7 @@ Step 3:  SEND EMAIL → CR01-community-downsell.html
 
 ---
 
-## STEP 8: Build Workflow 7 — Accountability DM (Sprint/Blueprint)
+## STEP 8: Build Workflow 7 — Accountability DM (DFY Buyers)
 
 **Where:** Automations → Workflows → Create Workflow → Start from Scratch
 
@@ -830,7 +830,7 @@ Test with a real contact (yourself or a test email) through each path:
 - [ ] Day 7: BW07 sends with DFY P.S. link — verify link works
 - [ ] Day 9: BW09 sends with explicit DFY CTA — verify link works
 
-### Test Path 2d: Accountability DM (Sprint/Blueprint)
+### Test Path 2d: Accountability DM (DFY Buyers)
 - [ ] Purchase DFY → verify `purchased-dfy` tag applied
 - [ ] Verify internal notification sent within 1 hour
 - [ ] Verify `needs-accountability-dm` tag applied

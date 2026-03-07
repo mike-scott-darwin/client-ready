@@ -1,50 +1,39 @@
-## INTERNAL: AI Generation Workflow
+## INTERNAL: DFY Offer Build — AI Generation Workflow
 
 **For Michael's use only — not shared with clients**
 
-### Step 1: Receive Completed Onboarding Form
+### Step 1: Receive Completed Questionnaire
 
-Client fills out the form (45-60 min). Once received, proceed to Step 2.
+Client answers 8 questions (10-15 minutes). Once received, proceed to Step 2.
 
-### Step 2: Paste Into Master Generation Prompt
+### Step 2: Paste Into Generation Prompt
 
-Copy the prompt below, paste into Claude, replace `[PASTE FORM RESPONSES HERE]` with client's answers.
+Copy the prompt below, paste into Claude, replace `[PASTE QUESTIONNAIRE RESPONSES HERE]` with client's answers.
 
 ---
 
-### THE MASTER GENERATION PROMPT
+### THE DFY GENERATION PROMPT
 
 ```
-You are helping me create a complete Client Ready Blueprint for a coaching client. I'll paste their onboarding form responses below. Generate ALL deliverables in sequence.
+You are helping me create a DFY Offer Build package for a coaching client. I'll paste their 8-question questionnaire responses below. Generate ALL 4 deliverables in sequence.
 
 ---
 
-## CLIENT ONBOARDING FORM RESPONSES
+## CLIENT QUESTIONNAIRE RESPONSES
 
-[PASTE FORM RESPONSES HERE]
-
----
-
-## GENERATE THE FOLLOWING DELIVERABLES
-
-Work through each section. Be specific, use their exact language where possible, and make everything ready to use.
+[PASTE QUESTIONNAIRE RESPONSES HERE]
 
 ---
 
-### DELIVERABLE 1: ZONE OF GENIUS STATEMENT
+## GENERATE THE FOLLOWING 4 DELIVERABLES
 
-Based on Sections 1-2 of the form, create:
-
-A single statement following this format:
-"I help [specific person] achieve [specific outcome] through [unique approach/methodology]."
-
-Make it specific, memorable, and differentiated.
+Work through each deliverable. Be specific, use their exact language where possible, and make everything ready to use.
 
 ---
 
-### DELIVERABLE 2: IDEAL CLIENT PROFILE (ICP)
+### DELIVERABLE 1: IDEAL CLIENT PROFILE (ICP)
 
-Based on Section 3, create a complete profile:
+Based on the questionnaire, create a complete profile:
 
 **Who They Are:**
 - Role/situation (not demographics)
@@ -64,43 +53,14 @@ Based on Section 3, create a complete profile:
 **Red Flags (Who to Avoid):**
 - 3-5 disqualifiers
 
----
-
-### DELIVERABLE 3: PAIN POINTS MAP
-
-Based on Section 4, organize into:
-
-**Surface Pains (what they SAY):**
-- Bullet list of 5-7 surface-level complaints
-
-**Deep Pains (what they FEAR):**
-- Bullet list of 3-5 deeper fears
-
-**Hidden Desires (what they WANT but won't admit):**
-- Bullet list of 2-3 secret wants
-
 **Core Pain Statement:**
 One sentence that captures the essence of their struggle, written in THEIR words.
 
 ---
 
-### DELIVERABLE 4: ORIGIN STORY (200 words)
+### DELIVERABLE 2: OFFER DOCUMENT
 
-Based on Section 5, write a compelling origin story:
-
-Structure:
-1. The Struggle (relatable starting point)
-2. The Discovery (what changed everything)
-3. The Transformation (proof it works)
-4. The Mission (why they help others now)
-
-Keep it under 200 words. Make it personal and specific.
-
----
-
-### DELIVERABLE 5: OFFER DOCUMENT
-
-Based on Section 6 + all previous deliverables, create:
+Based on questionnaire + ICP, create:
 
 **[OFFER NAME]**
 
@@ -122,19 +82,19 @@ Based on Section 6 + all previous deliverables, create:
 - **[Component 1]** — [What it does for them]
 - **[Component 2]** — [What it does for them]
 - **[Component 3]** — [What it does for them]
-[Add more as needed based on their form]
+[Add more as needed based on their questionnaire]
 
 **The Transformation:**
 - **Before:** [Current state]
 - **After:** [Desired state]
 
-**Investment:** [Price from form]
+**Investment:** [Price from questionnaire]
 
-**Timeline:** [Duration from form]
+**Timeline:** [Duration from questionnaire]
 
 ---
 
-### DELIVERABLE 6: LANDING PAGE COPY
+### DELIVERABLE 3: LANDING PAGE COPY
 
 Create complete landing page copy with these sections:
 
@@ -165,11 +125,10 @@ Create complete landing page copy with these sections:
 
 **TESTIMONIALS SECTION:**
 - Placeholder: [INSERT TESTIMONIALS HERE]
-- Or: Note if they provided any in form
+- Or: Note if they provided any in questionnaire
 
 **FAQ:**
 - 5-7 common objections as questions with answers
-- Based on Section 7 objections
 
 **FINAL CTA:**
 - Recap the transformation
@@ -181,137 +140,40 @@ Create complete landing page copy with these sections:
 
 ---
 
-### DELIVERABLE 7: EMAIL WELCOME SEQUENCE (10 emails)
+### DELIVERABLE 4: AD HOOKS (5 variations)
 
-Create a 10-day welcome sequence for new buyers:
+Create 5 ad hook packages for Meta (Facebook/Instagram):
 
-**Email 1 (Day 0): Welcome + Quick Win**
-- Subject line
-- Body (deliver immediate value, set expectations)
-
-**Email 2 (Day 1): Your Story**
-- Subject line
-- Body (origin story, build connection)
-
-**Email 3 (Day 2): First Case Study**
-- Subject line
-- Body (client transformation or their own results)
-- Soft pitch: [relevant upsell]
-
-**Email 4 (Day 3): Common Mistake**
-- Subject line
-- Body (mistake to avoid, position as guide)
-- Soft pitch: [relevant upsell]
-
-**Email 5 (Day 4): Quick Tip**
-- Subject line
-- Body (actionable tip, pure value)
-
-**Email 6 (Day 5): Client Transformation**
-- Subject line
-- Body (deeper case study)
-- Soft pitch: [next tier offer]
-
-**Email 7 (Day 6): Behind the Scenes**
-- Subject line
-- Body (how you work, philosophy)
-
-**Email 8 (Day 7): FAQ / Objection**
-- Subject line
-- Body (address biggest objection)
-- Soft pitch: [relevant offer]
-
-**Email 9 (Day 8): The Roadmap**
-- Subject line
-- Body (what success looks like, next steps)
-
-**Email 10 (Day 9): Personal Invite**
-- Subject line
-- Body (invite to community or next step)
-
----
-
-### DELIVERABLE 8: AD COPY (5 variations)
-
-Create 5 ad variations for Meta (Facebook/Instagram):
-
-**Ad 1: Pain Agitation**
+**Hook 1: Pain Agitation**
+- Hook line (first line that stops scroll)
 - Primary text (125 words max)
 - Headline (5-7 words)
-- Description (one line)
 
-**Ad 2: Transformation Promise**
+**Hook 2: Transformation Promise**
+- Hook line
 - Primary text
 - Headline
-- Description
 
-**Ad 3: "If You..." Qualifier**
+**Hook 3: "If You..." Qualifier**
+- Hook line
 - Primary text
 - Headline
-- Description
 
-**Ad 4: Story Hook**
+**Hook 4: Story Hook**
+- Hook line
 - Primary text (mini origin story)
 - Headline
-- Description
 
-**Ad 5: Social Proof / Results**
-- Primary text (results-focused)
+**Hook 5: Contrarian / Pattern Interrupt**
+- Hook line
+- Primary text
 - Headline
-- Description
 
-For each ad, include:
-- Hook (first line that stops scroll)
-- Body
-- CTA
-
----
-
-### DELIVERABLE 9: MESSAGING MAP
-
-Compile all copy into a reference document:
-
-**Core Messages:**
-- Zone of genius statement
-- Transformation promise (one sentence)
-- Core pain statement
-- Unique mechanism name
-
-**Headlines Library:**
-- 10 headline variations
-
-**Hook Library:**
-- 10 scroll-stopping hooks for ads/content
-
-**Objection Responses:**
-- Each objection from form + response
-
-**Voice Notes:**
-- Key phrases to use
-- Words to avoid
-- Tone guidelines
-
----
-
-### DELIVERABLE 10: MARKET RESEARCH SUMMARY
-
-Based on Section 7, create:
-
-**Competitive Landscape:**
-- Competitor 1: [Name] — What they do, strengths, weaknesses
-- Competitor 2: [Name] — What they do, strengths, weaknesses
-- Competitor 3: [Name] — What they do, strengths, weaknesses
-
-**Positioning:**
-- How [client name] is different
-- Unique angle
-- Why someone would choose them over alternatives
-
-**Market Gaps:**
-- What competitors miss that this client addresses
-
-**Recommended Positioning Statement:**
-One sentence that captures their unique position in the market.
+For each hook, write across awareness levels:
+- Hooks 1-2: Problem Aware
+- Hook 3: Solution Aware
+- Hook 4: Unaware (story pulls them in)
+- Hook 5: Unaware (challenges assumptions)
 
 ---
 
@@ -319,53 +181,48 @@ One sentence that captures their unique position in the market.
 
 Generate each deliverable with clear headers. Make everything copy-paste ready. Use the client's actual language wherever possible.
 
-Total output should be approximately 8,000-12,000 words across all deliverables.
+Total output should be approximately 4,000-6,000 words across all 4 deliverables.
 ```
 
 ---
 
-### Step 3: Review & Refine (2-3 hours)
+### Step 3: Review & Refine (1-2 hours)
 
-After AI generates, review for:
-- [ ] Zone of genius is specific and differentiated
-- [ ] ICP matches real people they've helped
+After AI generates, Michael reviews for:
+- [ ] ICP matches real people they've described
 - [ ] Pain points use THEIR language, not jargon
-- [ ] Origin story is authentic
 - [ ] Offer document is clear and complete
 - [ ] Landing page flows and addresses objections
-- [ ] Emails have personality
-- [ ] Ads have strong hooks
-- [ ] Messaging map is usable
+- [ ] Ad hooks have strong, specific openers
+- [ ] Everything is consistent across all 4 deliverables
 
 ### Step 4: Package & Deliver
 
-Organize into Google Doc or Notion:
+Send as a single document (Google Doc or PDF):
 
 ```
-[Client Name] - Client Ready Blueprint/
-├── 01-Zone-of-Genius-Statement
-├── 02-Ideal-Client-Profile
-├── 03-Pain-Points-Map
-├── 04-Origin-Story
-├── 05-Offer-Document
-├── 06-Landing-Page-Copy
-├── 07-Email-Welcome-Sequence
-├── 08-Ad-Copy-Variations
-├── 09-Messaging-Map
-├── 10-Market-Research
-└── 00-Quick-Start-Guide
+[Client Name] - DFY Offer Build/
+├── 01-Ideal-Client-Profile
+├── 02-Offer-Document
+├── 03-Landing-Page-Copy
+└── 04-Ad-Hooks (5 variations)
 ```
 
 ### Time Breakdown
 
 | Step | Time |
 |------|------|
-| Receive form | — |
+| Receive questionnaire | — |
 | Paste + run prompt | 2 min |
-| AI generates | 15-20 min |
-| Review + refine | 2-3 hours |
-| Package | 30 min |
-| Integration call | 60 min |
-| **Total** | **~4-5 hours** |
+| AI generates | 5-10 min |
+| Review + refine | 1-2 hours |
+| Package | 15 min |
+| **Total** | **~1.5-2.5 hours** |
 
-**Effective rate at $397:** ~$80-100/hour
+**Effective rate at $197:** ~$80-130/hour
+
+### DFY Lite ($97) — Reduced Scope
+
+If the client purchased the downsell, only generate Deliverables 1 and 2 (ICP + Offer Document). Skip landing page copy and ad hooks.
+
+**Effective rate at $97:** ~$65-100/hour (less review time needed)

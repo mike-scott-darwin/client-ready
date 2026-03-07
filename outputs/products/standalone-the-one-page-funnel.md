@@ -499,9 +499,9 @@ You have a live landing page. Now you need traffic.
 
 **The Plug & Play Funnel Snapshot ($97)** — Want the complete funnel, not just the landing page? Import a pre-built GHL snapshot with checkout, bumps, OTOs, and email sequences. Customize and go live.
 
-**Client Ready Sprint ($297)** — 4 weeks with Michael. Weekly calls, homework reviews, launch support. Build your entire system — offer, page, traffic — in 30 days.
+**DFY Offer Build ($197)** — You answer 8 questions. We build your ICP, offer doc, landing page copy, and 5 ad hooks in 48 hours. Plus a 30-day community trial.
 
-**Client Ready Blueprint ($397)** — Michael creates your complete custom funnel strategy. You get custom copy, a GHL snapshot built for your business, and a 60-min integration call.
+**Client Ready Community ($97/mo)** — Weekly hot seat calls, sprint curriculum, DFY templates, DM access to Michael. The room where coaches build together.
 
 Questions? Reply to your purchase email or find me in Skool.
 
