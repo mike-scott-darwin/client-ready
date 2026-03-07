@@ -438,9 +438,11 @@ The funnel, landing page, and automation come AFTER validation — not before.
 
 **The First $5K Client Playbook ($97)** — Pricing psychology, conversation frameworks, and the Warm 50 plan to close your first high-ticket client
 
-**Client Ready Sprint ($297)** — 4 weeks, weekly calls with Michael, launch in 30 days
+**DFY Offer Build ($197)** — You answer 8 questions. We build your ICP, offer doc, landing page copy, and 5 ad hooks in 48 hours. Plus a 30-day community trial.
 
-**Client Ready Blueprint ($397)** — I create your complete custom funnel strategy in 30 days. Delivery guaranteed.
+**Client Ready Community ($97/mo)** — Weekly hot seat calls, sprint curriculum, DFY templates, DM access to Michael. The room where coaches build together.
+
+**"What's Working Now" Newsletter ($37/mo)** — Monthly deep-dive on what's actually converting right now for Client Ready members. Templates, breakdowns, and swipe files.
 
 Questions? Reply to your purchase email or find me in Skool.
 

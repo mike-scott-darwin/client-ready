@@ -18,7 +18,7 @@ This isn't coaching. This isn't courses. This is us building your business infra
 
 ## Why No Sales Call Was Required
 
-You're here because you already know what you want. You've been through the $47 system, maybe the Sprint. You've validated your offer. You don't need convincing — you need execution.
+You're here because you already know what you want. You've been through the $47 system, maybe the DFY build. You've validated your offer. You don't need convincing — you need execution.
 
 The 4 principles that made this a No-Phone Offer:
 
@@ -229,7 +229,7 @@ What this requires:
 
 **You're a perfect fit if:**
 
-- ✓ You've already validated your offer (bought the $47 or Sprint, made sales)
+- ✓ You've already validated your offer (bought the $47 or DFY build, made sales)
 - ✓ You want speed + expert guidance, not DIY
 - ✓ You're ready to invest in getting it right the first time
 - ✓ You have 5-10 hours/week for 8 weeks
@@ -237,8 +237,8 @@ What this requires:
 
 **This is NOT for you if:**
 
-- ✗ You haven't validated anything yet (start with $47 or Sprint)
-- ✗ You want someone to do it FOR you with no input (that's the $397 Blueprint — strategy + copy + GHL snapshot, but you still need to run traffic)
+- ✗ You haven't validated anything yet (start with $47 or DFY build)
+- ✗ You just want offer assets built (that's the $197 DFY Offer Build — ICP, offer doc, landing page copy, ad hooks, delivered in 48 hours)
 - ✗ You're not sure what you want to offer
 - ✗ You can't commit 5-10 hours/week
 - ✗ You need convincing this is worth it (if you need a call, you're not ready)
@@ -247,17 +247,17 @@ What this requires:
 
 ## FAQ
 
-**Q: How is this different from the $397 Blueprint?**
+**Q: How is this different from the $197 DFY Offer Build?**
 
-| $397 Blueprint | $5K Accelerator |
-|----------------|-----------------|
-| I create strategy + copy, you implement | We build together |
-| Funnel strategy only | Funnel + traffic + optimization |
-| 30 days | 8 weeks |
-| 1 integration call | 3 strategy calls + unlimited async |
-| Copy deliverables + GHL snapshot | Full mentorship |
+| $197 DFY Offer Build | $5K Accelerator |
+|----------------------|-----------------|
+| I build your offer assets | We build your entire business system together |
+| 4 deliverables (ICP, offer doc, landing page, ad hooks) | Funnel + traffic + optimization + scaling |
+| 48-hour delivery | 8 weeks |
+| No calls | 3 strategy calls + unlimited async |
+| Assets only | Full mentorship |
 
-Blueprint = I hand you the strategy and copy. Accelerator = I work alongside you for 8 weeks.
+DFY = I hand you the offer assets. Accelerator = I work alongside you for 8 weeks building the complete machine.
 
 **Q: What if I already have a funnel?**
 

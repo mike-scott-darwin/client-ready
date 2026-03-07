@@ -243,7 +243,7 @@ Not trying to convince you of anything — genuinely curious what would make it 
 ```
 Hey Rachel,
 
-I'd love to know... what would it need to look like for the Client Ready Sprint to be a no-brainer for you?
+I'd love to know... what would it need to look like for the DFY Offer Build to be a no-brainer for you?
 
 Not trying to convince you of anything — genuinely curious what would make it an obvious yes (or if it's just not the right fit).
 ```
@@ -323,7 +323,7 @@ Hope you're doing well! Been thinking about you.
 
 We worked together on your offer positioning last year — how's that going? Any new challenges that have come up since?
 
-I have a few spots open for the Sprint and thought of you. No pressure — just wanted to let you know since you already know how I work.
+I have the DFY Offer Build available and thought of you. No pressure — just wanted to let you know since you already know how I work.
 ```
 
 ---
@@ -353,7 +353,7 @@ Hey Kevin,
 
 Quick favor to ask.
 
-We have a few spots open for the Client Ready Sprint right now. Do you happen to know any other coaches who might be struggling to nail their offer and get paying clients?
+We have the DFY Offer Build available right now. Do you happen to know any other coaches who might be struggling to nail their offer and get paying clients?
 
 If so, I'd love an intro. And if they sign up, I'll give you $100 off your next purchase.
 
@@ -383,7 +383,7 @@ You in? DM me if you want details.
 ```
 Hey Maria,
 
-Being direct: I have 3 spots open in the Sprint and it's only $297 to get started.
+Being direct: the DFY Offer Build is only $197 — I build your complete offer package in 48 hours.
 
 Given that you mentioned struggling to articulate what you actually do for clients, I think this could really help you get that clarity.
 
@@ -393,11 +393,11 @@ You in? DM me if you want details.
 **Pro tip:** This also works as a public post:
 
 ```
-I have 3 spots to work with me this month.
+I build your complete offer package in 48 hours.
 
-If you're a coach who's great at what you do but can't seem to get paying clients — this is for you.
+If you're a coach who's great at what you do but can't explain what you sell — this is for you.
 
-$297 to get started. DM me "IN" if you want details.
+$197 to get started. DM me "IN" if you want details.
 ```
 
 ---

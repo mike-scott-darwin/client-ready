@@ -286,4 +286,4 @@ Before sending to client:
 - [ ] Price recommendation makes sense for their market
 - [ ] Ad hooks cover all awareness levels, not just "aware"
 - [ ] The bridge to their higher-ticket offer is clear and natural
-- [ ] Would I send this to a $397 Blueprint client? If not, what's missing?
+- [ ] Would I send this to a $5K Accelerator client? If not, what's missing?
