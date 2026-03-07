@@ -499,7 +499,7 @@ You have a live landing page. Now you need traffic.
 
 **The Plug & Play Funnel Snapshot ($97)** — Want the complete funnel, not just the landing page? Import a pre-built GHL snapshot with checkout, bumps, OTOs, and email sequences. Customize and go live.
 
-**DFY Offer Build ($197)** — You answer 8 questions. We build your ICP, offer doc, landing page copy, and 5 ad hooks in 48 hours. Plus a 30-day community trial.
+**DFY Offer Build ($197)** — You answer 11 questions. We build your ICP, offer doc, ready-to-send sales doc, and 5 ad hooks in 48 hours. Plus a 30-day community trial.
 
 **Client Ready Community ($97/mo)** — Weekly hot seat calls, sprint curriculum, DFY templates, DM access to Michael. The room where coaches build together.
 

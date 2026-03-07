@@ -234,7 +234,7 @@ Try it today. Let me know what happens.
 
 Michael
 
-P.S. — If you've done the test and your offer passed, you're ahead of most people. The next step is getting it built out properly. That's what the DFY Offer Build does — we build your ICP, offer doc, landing page copy, and ad hooks for you. 48 hours, done.
+P.S. — If you've done the test and your offer passed, you're ahead of most people. The next step is getting it built out properly. That's what the DFY Offer Build does — we build your ICP, offer doc, ready-to-send sales doc, and ad hooks for you. 48 hours, done.
 
 ---
 
@@ -300,7 +300,7 @@ That's what we're building together.
 
 Michael
 
-P.S. — This is what it looks like when the system runs. If you want help building yours, the DFY Offer Build creates your complete offer assets in 48 hours — ICP, offer doc, landing page copy, ad hooks. All built for you. That's the fastest path to the morning I just described.
+P.S. — This is what it looks like when the system runs. If you want help building yours, the DFY Offer Build creates your complete offer assets in 48 hours — ICP, offer doc, ready-to-send sales doc, ad hooks. All built for you. That's the fastest path to the morning I just described.
 
 ---
 
@@ -373,7 +373,7 @@ Michael
 
 P.S. — If you've finished Stage 1 and you're ready to move, here's the fastest path:
 
-**DFY Offer Build ($197)** — We build your ICP, offer doc, landing page copy, and 5 ad hooks for you. Fill out a 10-minute questionnaire, get everything back in 48 hours. Plus a 30-day community trial so you have support deploying it.
+**DFY Offer Build ($197)** — We build your ICP, offer doc, ready-to-send sales doc, and 5 ad hooks for you. Fill out a 10-minute questionnaire, get everything back in 48 hours. Plus a 30-day community trial so you have support deploying it.
 
 No rush. But if you're feeling the momentum — that's the window to use it.
 

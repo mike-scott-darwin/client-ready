@@ -6,7 +6,7 @@ updated: 2026-03-07
 
 # DFY Offer Build — Intake Questionnaire
 
-**Purpose:** Canonical 8-question intake for DFY Offer Build ($197) and DFY Lite ($97) clients.
+**Purpose:** Canonical 11-question intake for DFY Offer Build ($197) and DFY Lite ($97) clients.
 
 **Form:** GHL form titled "Your Offer Builder — Quick Intake"
 **Submission URL:** https://forms.gle/vtX5Pvc5cSNzcA34A *(needs updating to GHL form)*
@@ -14,9 +14,9 @@ updated: 2026-03-07
 
 ---
 
-## The 8 Questions
+## The 11 Questions
 
-Each question maps directly to the 4 deliverables (ICP, Offer Doc, Landing Page Copy, Ad Hooks).
+Each question maps directly to the 4 deliverables (ICP, Offer Doc, Google Offer Doc, Ad Hooks).
 
 ### 1. What do you do?
 **Label:** `what_you_do`
@@ -28,19 +28,19 @@ Each question maps directly to the 4 deliverables (ICP, Offer Doc, Landing Page 
 **Label:** `best_client`
 **Type:** Long text
 **Prompt:** "Describe one real person you've helped (or want to help). What were they struggling with? What did they do for work? What was their life like before and after? If you haven't had clients yet, describe the person you'd most love to work with."
-**Maps to:** ICP (primary source), Landing Page (problem section)
+**Maps to:** ICP (primary source), Google Offer Doc (who's it for section)
 
 ### 3. What result do you deliver?
 **Label:** `result`
 **Type:** Long text
 **Prompt:** "What's different about someone's life or business 90 days after working with you? Be specific. 'They feel better' isn't enough. 'They have 3 paying clients and stopped second-guessing their offer' is."
-**Maps to:** Offer Doc (transformation), Landing Page (headline + CTA), Ad Hooks
+**Maps to:** Offer Doc (transformation), Google Offer Doc (headline + proof), Ad Hooks
 
 ### 4. What's your process?
 **Label:** `process`
 **Type:** Long text
 **Prompt:** "Walk me through the steps you take someone through. What do you do first, second, third? Even if it's informal — describe how you actually help people, start to finish."
-**Maps to:** Offer Doc (mechanism), Landing Page (mechanism section)
+**Maps to:** Offer Doc (mechanism), Google Offer Doc (tease + mechanism section)
 
 ### 5. What makes you different?
 **Label:** `differentiator`
@@ -52,19 +52,43 @@ Each question maps directly to the 4 deliverables (ICP, Offer Doc, Landing Page 
 **Label:** `story`
 **Type:** Long text
 **Prompt:** "Why do you do this? What happened that led you here? The messy version is better than the polished version."
-**Maps to:** Landing Page (about section), Ad Hooks (story hook)
+**Maps to:** Google Offer Doc (backstory section), Ad Hooks (story hook)
 
 ### 7. What do you charge now (and want to charge)?
 **Label:** `pricing`
 **Type:** Short text
 **Prompt:** "Current price and desired price. Example: 'Currently $500/session, want to sell a $3K package' or 'Haven't charged yet, thinking $2K-5K.'"
-**Maps to:** Offer Doc (pricing recommendation, price anchoring)
+**Maps to:** Offer Doc (pricing recommendation, price anchoring), Google Offer Doc (price reveal)
 
 ### 8. What's stopping you from getting more clients right now?
 **Label:** `stuck_point`
 **Type:** Long text
 **Prompt:** "Be honest. Is it your offer? Your confidence? No funnel? No traffic? Don't know where to find people? This helps us prioritize what to build first."
-**Maps to:** Landing Page (problem section), Ad Hooks (pain agitation hook), Offer Doc (objection handling)
+**Maps to:** Google Offer Doc (push section), Ad Hooks (pain agitation hook), Offer Doc (objection handling)
+
+### 9. How do your clients describe their problem in their own words?
+**Label:** `client_language`
+**Type:** Long text
+**Prompt:** "Copy-paste a real DM, email, or comment if you have one. If not, write what they typically say when they first reach out. Their exact words are gold for your copy."
+**Maps to:** Google Offer Doc (headline, benefits, future pacing), Ad Hooks (all hooks), ICP (psychographics)
+
+### 10. What have your clients tried before that didn't work?
+**Label:** `failed_solutions`
+**Type:** Long text
+**Prompt:** "Courses, other coaches, DIY, free YouTube content, templates — what did they try and why did it fail? This helps us position your offer against the alternatives."
+**Maps to:** Google Offer Doc (counterintuitive tease), Ad Hooks (problem aware + contrarian), Offer Doc (problem section)
+
+### 11. What objections do people have before buying from you?
+**Label:** `objections`
+**Type:** Long text
+**Prompt:** "Price, time, skepticism, 'I've tried this before,' 'I'm not ready' — what do people say before they decide? Include the ones you hear most, even if they feel awkward."
+**Maps to:** Google Offer Doc (push / not for section), Offer Doc (objection handling), Ad Hooks (solution aware hook)
+
+### Optional: Best-performing content
+**Label:** `content_links`
+**Type:** Long text
+**Prompt:** "Share links to 2-3 posts, emails, or videos that got the best response from your audience. This helps us match your voice and tone in the deliverables."
+**Maps to:** Voice matching across all deliverables
 
 ---
 
@@ -87,16 +111,20 @@ Include these on the form:
 
 ## Question → Deliverable Map
 
-| Question | ICP | Offer Doc | Landing Page | Ad Hooks |
-|----------|-----|-----------|--------------|----------|
+| Question | ICP | Offer Doc | Google Offer Doc | Ad Hooks |
+|----------|-----|-----------|-----------------|----------|
 | 1. What you do | x | x | x | x |
-| 2. Best client | **PRIMARY** | | x | |
-| 3. Result | | x | x | x |
-| 4. Process | | **PRIMARY** | x | |
+| 2. Best client | **PRIMARY** | | who's it for | |
+| 3. Result | | x | headline + proof | x |
+| 4. Process | | **PRIMARY** | tease + mechanism | |
 | 5. Differentiator | x | | | **PRIMARY** |
-| 6. Story | | | **PRIMARY** | x |
-| 7. Pricing | | **PRIMARY** | x | |
-| 8. Stuck point | | x | x | x |
+| 6. Story | | | **backstory** | x |
+| 7. Pricing | | **PRIMARY** | price reveal | |
+| 8. Stuck point | | x | push section | x |
+| 9. Client language | x | | **benefits + future pacing** | **PRIMARY** |
+| 10. Failed solutions | | x | **counterintuitive tease** | x |
+| 11. Objections | | **PRIMARY** | push / not for | x |
+| Optional: Content | voice | voice | voice | voice |
 
 ---
 

@@ -6,7 +6,7 @@
 
 ## What You Just Got
 
-You answer 8 questions. I build everything for you. $197 one-time.
+You answer 11 questions. I build everything for you. $197 one-time.
 
 No DIY. No blank pages. No second-guessing. You fill out a short questionnaire (10-15 minutes), and within 48 hours you have a complete offer package in your inbox — reviewed by me personally before delivery.
 
@@ -22,7 +22,7 @@ No DIY. No blank pages. No second-guessing. You fill out a short questionnaire (
 |---|-------------|--------------|
 | 1 | **Ideal Client Profile** | Complete ICP — who they are, their struggle, why they're ready, red flags to avoid |
 | 2 | **Offer Document** | Full offer doc — headline, who it's for, the problem, the solution, what's included, transformation, pricing |
-| 3 | **Landing Page Copy** | Complete long-form sales page — hero, problem, solution, what's included, FAQ, CTA, guarantee |
+| 3 | **Google Offer Doc** | Ready-to-send sales doc — copy into Google Docs, send to your warm audience, get hand-raisers today |
 | 4 | **5 Ad Hooks** | Meta ad copy across awareness levels — pain agitation, transformation, qualifier, story, contrarian |
 
 ### The Community Trial
@@ -36,7 +36,7 @@ No DIY. No blank pages. No second-guessing. You fill out a short questionnaire (
 
 ---
 
-## The Questionnaire (8 Questions)
+## The Questionnaire (11 Questions)
 
 This is where it starts. 10-15 minutes of your time.
 
@@ -48,6 +48,11 @@ This is where it starts. 10-15 minutes of your time.
 6. **What's your story?** (Why do you do this? What happened that led you here?)
 7. **What do you charge now (and want to charge)?** (Current price and desired price)
 8. **What's stopping you from getting more clients?** (Be honest — offer, confidence, funnel, traffic?)
+9. **How do your clients describe their problem in their own words?** (Copy-paste a real DM, email, or comment if you have one)
+10. **What have your clients tried before that didn't work?** (Courses, coaches, DIY, free content — what failed them?)
+11. **What objections do people have before buying from you?** (Price, time, skepticism, "I've tried this before" — what stops them?)
+
+**Optional:** Share links to your best-performing content (posts, emails, videos) — helps us match your voice.
 
 ---
 
@@ -98,7 +103,7 @@ A: The $47 system teaches you to extract your own offer using AI prompts. The DF
 A: You get one revision round included. If the direction is off, I'll adjust based on your feedback.
 
 **Q: Do I need tech skills to use the deliverables?**
-A: No. The landing page copy is ready to paste into any page builder (GHL, Carrd, WordPress). The ad hooks are ready to paste into Meta Ads Manager. Copy, paste, publish.
+A: No. The sales doc is ready to copy into a Google Doc and send to your warm audience. The ad hooks are ready to paste into Meta Ads Manager.
 
 **Q: What about the community trial?**
 A: You get 30 days free in the Client Ready Community. If you love it, it continues at $97/month. If not, cancel before 30 days and you're never charged. No friction.

@@ -101,20 +101,20 @@ RETENTION (Results --> Referrals --> Case Studies)
 
 **Goal:** Upsell to done-for-you offer creation + community trial
 
-**Product:** AI-built deliverables (ICP + offer document + landing page copy + 5 ad hooks) + 30-day free community trial
+**Product:** AI-built deliverables (ICP + offer document + ready-to-send sales doc + 5 ad hooks) + 30-day free community trial
 
 **What happens:**
 - Customer lands on OTO page after checkout
 - Video explains: "We'll build your offer for you"
 - Pitch: same methodology from $47 product, but we run it FOR you using AI + Michael's review
 - One-click purchase (card already on file)
-- Buyer redirected to 8-question onboarding form on thank you page
+- Buyer redirected to 11-question onboarding form on thank you page
 - Form submission triggers Claude API — deliverables generated in ~30 seconds
 - Michael reviews (~10 min) and delivers within 24-48 hours
 - 30-day community trial activates automatically
 
 **If they say NO — Downsell: DFY Lite ($97):**
-- Stripped version: ICP + offer document only (no landing page copy, no ad hooks)
+- Stripped version: ICP + offer document only (no sales doc, no ad hooks)
 - Same 30-day community trial included
 - Same onboarding form, shorter output
 
@@ -154,7 +154,7 @@ See: `outputs/dfy-upsell/system-prompt.md` for Claude API spec
 **Goal:** Activate buyers, trigger DFY build, get them into portal
 
 **What happens:**
-- **DFY buyers:** Thank you page shows onboarding form (8 questions). Completion triggers Claude API pipeline.
+- **DFY buyers:** Thank you page shows onboarding form (11 questions). Completion triggers Claude API pipeline.
 - **Non-DFY buyers:** Thank you page shows portal access + welcome video + "here's your first step."
 - All buyers get portal login with purchased products unlocked, other products visible as locked tiles.
 

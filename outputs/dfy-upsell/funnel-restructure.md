@@ -81,7 +81,7 @@ $47 Front-End
 
 | Product | Position | What It Does |
 |---------|---------|-------------|
-| DFY Offer Build ($197) | OTO 1 | AI builds their ICP, offer doc, landing page copy, ad hooks. 30-day community trial included. |
+| DFY Offer Build ($197) | OTO 1 | AI builds their ICP, offer doc, ready-to-send sales doc, ad hooks. 30-day community trial included. |
 | DFY Lite ($97) | Downsell to OTO 1 | AI builds ICP + offer doc only. 30-day community trial included. |
 | "What's Working Now" ($37/mo) | OTO 2 | Monthly newsletter — tested offers, templates, breakdowns. Low-friction recurring. (Mirrors Terrance's continuity offer.) |
 
@@ -364,7 +364,7 @@ Sprint doesn't disappear — it becomes community content.
 | Blueprint Element | Where It Goes |
 |-------------------|--------------|
 | ICP + offer extraction | DFY upsell ($197) — AI-automated |
-| Landing page copy | DFY upsell ($197) — AI-automated |
+| Google offer doc | DFY upsell ($197) — AI-automated |
 | Ad creative direction | DFY upsell ($197) — AI-automated |
 | Custom GHL snapshot | Accelerator ($5K) — premium feature |
 | 60-min integration call | Accelerator ($5K) — premium feature |

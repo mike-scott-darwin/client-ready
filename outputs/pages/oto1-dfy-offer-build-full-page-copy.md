@@ -27,7 +27,7 @@ Your order is processing. Watch the message below while we set up your access.
 
 # GET YOUR COMPLETE OFFER BUILT FOR YOU — DELIVERED IN 48 HOURS
 
-You answer 8 questions. We build your ICP document, offer document, landing page copy, and 5 ad hooks. Michael reviews every deliverable before it hits your inbox.
+You answer 11 questions. We build your ICP document, offer document, ready-to-send sales doc, and 5 ad hooks. Michael reviews every deliverable before it hits your inbox.
 
 **This is a one-time offer. It won't appear again after you leave this page.**
 
@@ -40,7 +40,7 @@ You answer 8 questions. We build your ICP document, offer document, landing page
 **Components shown:**
 - ICP Document
 - Offer Document
-- Landing Page Copy
+- Ready-to-Send Sales Doc
 - 5 Ad Hook Variations
 
 ---
@@ -61,7 +61,7 @@ Here's my honest interest in this: **I need you to succeed.** I can't build case
 
 So I built something specifically for this gap.
 
-**The DFY Offer Build.** You fill out an 8-question questionnaire — takes about 10-15 minutes. Then my AI system extracts your positioning, builds your deliverables, and I personally review every output before it goes to you.
+**The DFY Offer Build.** You fill out a short questionnaire — 11 questions — takes about 10-15 minutes. Then my AI system extracts your positioning, builds your deliverables, and I personally review every output before it goes to you.
 
 You get a complete, working offer — not a template. YOUR offer. Built from YOUR answers. Reviewed by me. Delivered in 48 hours.
 
@@ -95,9 +95,9 @@ Your validated offer — extracted, structured, and positioned. What you sell, w
 
 ## [DELIVERABLE #3]
 
-### Your Landing Page Copy
+### Your Ready-to-Send Sales Doc
 
-Complete landing page copy — headline, subheadline, body, bullet points, CTA. Ready to drop into any page builder. Written specifically for your offer and your audience. Not a fill-in-the-blank template. Actual copy built from your ICP and offer docs.
+A complete sales document — headline, subheadline, body, bullet points, CTA. Ready to copy into a Google Doc and send to your warm audience today. Written specifically for your offer and your audience. Not a fill-in-the-blank template. Actual copy built from your ICP and offer docs.
 
 ---
 
@@ -119,7 +119,7 @@ Eight questions about your expertise, your audience, and what you deliver. Be sp
 
 **Step 2: AI + Michael Build Your Offer**
 
-My AI system extracts your positioning and builds all four deliverables from your answers. Then I personally review every output — the ICP, the offer doc, the landing page copy, the hooks. Nothing ships until I sign off on it.
+My AI system extracts your positioning and builds all four deliverables from your answers. Then I personally review every output — the ICP, the offer doc, the sales doc, the hooks. Nothing ships until I sign off on it.
 
 **Step 3: Delivered in 48 Hours**
 
@@ -154,7 +154,7 @@ The assets get you clear. The community helps you stay clear while you test, val
 
 - A clear ICP document — you know exactly who you're talking to
 - A complete offer document — you can explain what you sell in 30 seconds
-- Landing page copy ready to go live today
+- Sales doc ready to send to your warm audience today
 - 5 ad hooks ready to test this week
 - A 30-day community trial for support while you deploy
 - Zero guesswork about what to say or who to say it to
@@ -200,7 +200,7 @@ The assets get you clear. The community helps you stay clear while you test, val
 
 - ICP Document — your ideal client, clearly defined
 - Offer Document — your validated offer, structured and positioned
-- Landing Page Copy — complete, ready to deploy
+- Ready-to-Send Sales Doc — complete, ready to deploy
 - 5 Ad Hook Variations — tested angles, ready to run
 - Michael's personal review on every deliverable
 - 48-hour delivery
@@ -265,7 +265,7 @@ If you fill out the questionnaire and I don't deliver all four assets within 48 
 
 6. **If buyer declines ($197):** Route to downsell page — DFY Lite at $97. That is a separate file.
 
-7. **Questionnaire:** Must be built in GHL. 8 questions. Triggered immediately after purchase.
+7. **Questionnaire:** Must be built in GHL. 11 questions + 1 optional. Triggered immediately after purchase.
 
 8. **Delivery mechanism:** Deliverables sent via email or GHL portal within 48 hours of questionnaire completion.
 
@@ -301,8 +301,8 @@ Consider testing:
 |-------------|-----|-----|
 | Product | Client Ready Sprint (4-week course + live coaching) | DFY Offer Build (AI-powered, Michael-reviewed) |
 | Price | $297 | $197 |
-| Delivery model | 4-week course with weekly calls, direct chat, accountability | 8-question questionnaire, AI build, Michael review, 48-hour delivery |
-| What's included | 5 modules, 6 bonuses, 4 weeks live support, Skool access | 4 deliverables (ICP doc, offer doc, landing page copy, 5 ad hooks) + 30-day community trial |
+| Delivery model | 4-week course with weekly calls, direct chat, accountability | 11-question questionnaire, AI build, Michael review, 48-hour delivery |
+| What's included | 5 modules, 6 bonuses, 4 weeks live support, Skool access | 4 deliverables (ICP doc, offer doc, ready-to-send sales doc, 5 ad hooks) + 30-day community trial |
 | Marginal cost | High (Michael's time every week for 4 weeks) | Near-zero (~$0.15-0.30 per AI generation + ~10 min review) |
 | Hero headline | "LAUNCH YOUR VALIDATED OFFER IN 30 DAYS" | "GET YOUR COMPLETE OFFER BUILT FOR YOU — DELIVERED IN 48 HOURS" |
 | Opening copy angle | "Knowing vs doing" — gap between system and launch | "System vs YOUR offer" — gap between having templates and having your offer built |

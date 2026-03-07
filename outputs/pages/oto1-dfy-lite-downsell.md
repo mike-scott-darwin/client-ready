@@ -35,7 +35,7 @@ Michael here...
 
 Look, I get it. The full DFY build wasn't the right move. No pressure.
 
-But here's what I know from working with coaches: **the ICP document and the offer document are where most people get stuck.** Not the landing page. Not the ad hooks. The foundation.
+But here's what I know from working with coaches: **the ICP document and the offer document are where most people get stuck.** Not the sales doc. Not the ad hooks. The foundation.
 
 Get those two right and everything else gets simpler. Get them wrong and nothing downstream works.
 
@@ -143,7 +143,7 @@ No thanks, I'll build my ICP and offer document myself.
 
 3. **$97 is ONE-TIME** — not a subscription. The community trial is separate and clearly stated as $97/mo after 30 days.
 
-4. **2 deliverables only** — ICP Document + Offer Document. No landing page copy, no ad hooks. That distinction matters.
+4. **2 deliverables only** — ICP Document + Offer Document. No sales doc, no ad hooks. That distinction matters.
 
 5. **24-48 hour delivery** — this is a firm commitment shown on the page.
 

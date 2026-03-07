@@ -438,7 +438,7 @@ The funnel, landing page, and automation come AFTER validation — not before.
 
 **The First $5K Client Playbook ($97)** — Pricing psychology, conversation frameworks, and the Warm 50 plan to close your first high-ticket client
 
-**DFY Offer Build ($197)** — You answer 8 questions. We build your ICP, offer doc, landing page copy, and 5 ad hooks in 48 hours. Plus a 30-day community trial.
+**DFY Offer Build ($197)** — You answer 11 questions. We build your ICP, offer doc, ready-to-send sales doc, and 5 ad hooks in 48 hours. Plus a 30-day community trial.
 
 **Client Ready Community ($97/mo)** — Weekly hot seat calls, sprint curriculum, DFY templates, DM access to Michael. The room where coaches build together.
 

@@ -78,7 +78,7 @@ Pricing psychology, conversation frameworks, the Warm 50 activation plan, object
 
 ### OTO 1: $197 — DFY Offer Build
 
-Michael builds your complete offer document — positioning, messaging, pricing — from an 8-question intake questionnaire (10-15 min). You get a done-for-you offer document ready to implement.
+Michael builds your complete offer document — positioning, messaging, pricing — from an 11-question intake questionnaire (10-15 min). You get a done-for-you offer document ready to implement.
 
 - **Promise:** Your offer, built by Michael — skip the guesswork
 

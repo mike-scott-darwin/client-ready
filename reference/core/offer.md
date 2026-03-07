@@ -155,7 +155,7 @@ graph TD
 |---|---|---|
 | Who builds it | You, with template | AI + Michael review |
 | Copy | Generic — you swap in your offer | AI-generated from your inputs, Michael-reviewed |
-| Strategy | Self-service video walkthrough | ICP + offer doc + landing page copy + ad hooks |
+| Strategy | Self-service video walkthrough | ICP + offer doc + ready-to-send sales doc + ad hooks |
 | GHL snapshot | Standard template | No snapshot — deliverables are documents |
 | Support | Video walkthrough only | 30-day community trial included |
 
@@ -232,13 +232,13 @@ See: [decisions/2026-02-18-training-portal-ecosystem.md](../../decisions/2026-02
 **What's Included:**
 - **ICP Document** — demographics, psychographics, awareness levels, buying triggers, disqualifiers
 - **Offer Document** — named mechanism, transformation, stack, price recommendation, objection handling
-- **Landing Page Copy** — complete ready-to-paste copy (headline through PS)
+- **Google Offer Doc** — ready-to-send sales doc for warm audiences (headline through PS)
 - **5 Ad Hook Variations** — one per awareness level, short-form + long-form for each
 - **30-day free trial** to Client Ready Community ($97/mo after trial)
 - **Promise:** Your offer built for you — delivered in 24-48 hours
 
 **How it works:**
-- Buyer fills out 8-question onboarding form on thank you page
+- Buyer fills out 11-question onboarding form on thank you page
 - Form triggers Claude API with Client Ready methodology baked in
 - AI generates all 4 deliverables in ~30 seconds
 - Michael reviews every output (~10 min) before delivery
@@ -247,7 +247,7 @@ See: [decisions/2026-02-18-training-portal-ecosystem.md](../../decisions/2026-02
 **Cost per generation:** ~$0.15-0.30 (Claude API). Gross margin ~99% before ad costs.
 
 **Downsell: DFY Lite ($97)**
-- ICP + offer document only (no landing page copy, no ad hooks)
+- ICP + offer document only (no sales doc, no ad hooks)
 - Same 30-day community trial included
 - Same onboarding form, shorter output
 
@@ -467,7 +467,7 @@ See: [reference/domain/funnel/email-rhythm.md](../domain/funnel/email-rhythm.md)
 > "If you don't get results using our templates and support, send us an email at any time and we'll refund every penny of your investment — no questions asked."
 
 **DFY Delivery Guarantee (OTO 1 - $197 DFY Offer Build):**
-> "Your ICP, offer document, landing page copy, and ad hooks — delivered in 48 hours. If we miss that, you get a free month of community on top of your trial."
+> "Your ICP, offer document, ready-to-send sales doc, and ad hooks — delivered in 48 hours. If we miss that, you get a free month of community on top of your trial."
 
 **Community Guarantee:**
 > "Month-to-month. Cancel anytime. If the first call doesn't blow your mind, cancel before your trial ends and you pay nothing."
