@@ -58,7 +58,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - **Paid traffic over content merry-go-round** — Stop posting for 12 months hoping someone buys
 - **Validate before you build** — Know it works before investing in infrastructure
 - **Alignment + automation** — Not scale for scale's sake
-- **Self-liquidating checkout** — Front-end (~~$197~~ $47) + bumps ($37/$67/$97) + OTOs cover ad spend. Backend is pure profit. Don't scale until checkout AOV is $90+.
+- **Self-liquidating checkout** — Front-end (~~$197~~ $47) + bumps ($37/$67/$97) + DFY upsell ($197) cover ad spend. Community + Accelerator = pure profit. Don't scale until checkout AOV is $90+.
 - **Good enough to launch, then refine** -- Most decisions don't require perfect information. They require good judgment applied to good-enough data. The obsession with precision masks fear of making the call.
 - **Extraction over templates** -- Client Ready pulls out what you already know and builds from that. Not "here's my system, copy it." Your zone of genius, your voice, your strengths. Translation, not inspiration.
 - **Framework over feelings** -- The sprint provides structure that moves you forward even when self-doubt shows up. You don't have to trust your feelings when there's a framework doing the heavy lifting.
@@ -74,15 +74,20 @@ graph TD
     FE["<b>47 Offer System</b><br/>Front-End Entry Point"] --> B1["37 DM Scripts<br/>Order Bump 1"]
     FE --> B2["67 Templates<br/>Order Bump 2"]
     FE --> B3["97 Playbook<br/>Order Bump 3"]
-    FE --> OTO1["297 Sprint<br/>OTO 1 — 7-Day Implementation"]
-    OTO1 --> OTO2["397 Blueprint<br/>OTO 2 — Done-With-You"]
-    OTO2 --> HT["5K+ Accelerator<br/>High-Ticket 1:1"]
-    
+    FE --> DFY["197 DFY Offer Build<br/>OTO 1 + Community Trial"]
+    DFY -->|no| DFYL["97 DFY Lite<br/>Downsell + Community Trial"]
+    DFY --> NL["37/mo Newsletter<br/>OTO 2 — Continuity"]
+    DFYL --> NL
+    DFY --> COM["97/mo Community<br/>THE ENGINE"]
+    DFYL --> COM
+    COM --> HT["5K+ Accelerator<br/>Sold From Community"]
+
     ST1["57 One-Page Funnel<br/>Standalone Training"] -.-> Portal
     ST2["97 Funnel Snapshot<br/>Standalone + GHL Affiliate"] -.-> Portal
     FE --> Portal["GHL Training Portal<br/>All Products Deliver Here"]
-    
+
     style FE fill:#4a9eff,color:#fff
+    style COM fill:#22c55e,color:#fff
     style HT fill:#ff6b35,color:#fff
     style Portal fill:#2d2d2d,color:#fff
 ```
@@ -219,93 +224,90 @@ See: [decisions/2026-02-18-training-portal-ecosystem.md](../../decisions/2026-02
 
 ---
 
-### Tier 2: OTO 1 — The Client Ready Sprint
+### Tier 2: OTO 1 — DFY Offer Build
 
-**Price:** $297 one-time
-**Format:** 4-week offline course — drip-fed weekly, homework via WhatsApp group
+**Price:** $197 one-time
+**Format:** AI-built deliverables + Michael review + 30-day community trial
 
 **What's Included:**
-- 16 training modules (4 per week, 30-45 min each) — watch at your own pace
-- 16 supporting documents (worksheets, templates, frameworks) — yours to keep forever
-- WhatsApp group access — post homework, ask questions, get feedback from Michael and the group
-- Weekly homework reviews — Michael reviews every submission with written or voice note feedback
-- Mid-week check-ins — Wednesday prompts to keep momentum
-- **Skool Community Access** — private support community with other clients
-- **Promise:** Launch your validated offer in 30 days — or Michael keeps working with you
+- **ICP Document** — demographics, psychographics, awareness levels, buying triggers, disqualifiers
+- **Offer Document** — named mechanism, transformation, stack, price recommendation, objection handling
+- **Landing Page Copy** — complete ready-to-paste copy (headline through PS)
+- **5 Ad Hook Variations** — one per awareness level, short-form + long-form for each
+- **30-day free trial** to Client Ready Community ($97/mo after trial)
+- **Promise:** Your offer built for you — delivered in 24-48 hours
 
-**The 4 Weeks:**
-- Week 1: Extract and Validate — find your offer, test it with real people
-- Week 2: Build Your Funnel — landing page, checkout, email sequence live
-- Week 3: Launch Traffic — first Meta ad campaign running
-- Week 4: Read, Optimize, Plan Forward — data-driven decisions + 90-day roadmap
+**How it works:**
+- Buyer fills out 8-question onboarding form on thank you page
+- Form triggers Claude API with Client Ready methodology baked in
+- AI generates all 4 deliverables in ~30 seconds
+- Michael reviews every output (~10 min) before delivery
+- Delivered within 24-48 hours
 
-**Note:** Sprint is billed as one-time $297. No subscription. No recurring surprise.
+**Cost per generation:** ~$0.15-0.30 (Claude API). Gross margin ~99% before ad costs.
+
+**Downsell: DFY Lite ($97)**
+- ICP + offer document only (no landing page copy, no ad hooks)
+- Same 30-day community trial included
+- Same onboarding form, shorter output
+
+See: `outputs/dfy-upsell/system-prompt.md` for full API spec and questionnaire
 
 ---
 
-### Tier 3: $397 — Client Ready Blueprint (OTO 2)
+### Tier 2.5: OTO 2 — "What's Working Now" Newsletter
 
-**Price:** $397 one-time
-**Format:** Custom strategy document + copy + GHL snapshot
-**Capacity:** 10 per month (real scarcity)
-
-**What's Included (9 components — all created by Michael):**
-- Offer extraction + positioning document
-- Full landing page copy (long-form, ready to paste)
-- Order bump strategy + copy (3 bumps designed and written)
-- Checkout optimization (copy + layout recommendations)
-- 10-day email welcome sequence (fully written)
-- Ascension/recovery email sequences
-- Ad creative direction (hooks, copy, image guidelines)
-- Messaging map (consistent copy across all touchpoints)
-- Market research + ICP analysis
-- 60-minute 1-on-1 integration call with Michael
-- GHL snapshot (starter funnel template — buyer pastes Blueprint copy into it)
-- Skool community access (same community as Sprint buyers)
-
-**Timeline:**
-- Day 1-3: Custom onboarding form
-- Week 1-2: Michael creates your complete Client Ready Blueprint (all 9 components)
-- Week 3: Receive 100+ page custom bundle + GHL snapshot
-- Week 4: 1-on-1 integration call — walk through implementation
-- After call: Buyer pastes copy into GHL snapshot and launches
-
-**Guarantee:** Custom Blueprint delivered in 30 days — or Michael keeps working until it's done
-
-**Promise:** Your complete custom funnel strategy — built by Michael, ready to implement. Strategy + copy + GHL snapshot, not a fully built live funnel. Full build = $5K Accelerator (sold via email after onboarding).
-
----
-
-### Tier 3.5: $47/month — Client Ready Community (OTO 3)
-
-**Price:** $47/month (first month $1)
-**Format:** Membership community
-**Position:** Downsell after Sprint/Blueprint — for those who said "no" but still want support
+**Price:** $37/month (immediate charge, no trial)
+**Format:** Monthly deliverable
+**Position:** Shown to ALL buyers after OTO 1 (not conditional)
 
 **What's Included:**
-- Private Skool community access
-- Weekly group hot seat calls with Michael
-- DM Michael directly for quick questions
-- See what's working for other coaches in real-time
-- Resource library (templates, swipes, frameworks)
-
-**Who This Is For:**
-- Said "no" to Sprint ($297) — not ready for 4-week commitment
-- Said "no" to Blueprint ($397) — don't need custom strategy yet
-- Still want support and accountability while building
-
-**Routing note:** Sprint and Blueprint buyers already have Skool Community Access. Only show OTO 3 to buyers who declined both OTO 1 and OTO 2. In GHL, conditionally skip this page for Sprint or Blueprint purchasers.
-
-**Pitch:**
-> "Not ready for the Sprint? Get community access — weekly hot seats, DM Michael directly, see what's working for other coaches. $1 for your first month."
+- Monthly breakdown of one tested offer — the ads, the page, the numbers
+- Templates from that month's tests
+- What worked, what didn't, what changed
 
 **Why It Works:**
-- Captures buyers who want support but aren't ready for bigger commitment
-- Creates recurring revenue stream
-- Trial model proven by Cat Howell
-- Doesn't cannibalize higher offers — it's a downsell for "no" buyers
+- Low-friction recurring ($37/mo feels like nothing after a $47-$197 purchase)
+- Bridges to community: "Want the calls and DM access too?"
+- Content is a byproduct of what Michael is already doing
 
-**Promise:** Never build alone — get answers, feedback, and see what's working for others
+---
+
+### Tier 3: $97/month — Client Ready Community (THE ENGINE)
+
+**Price:** $97/month, month-to-month, cancel anytime
+**Format:** Membership community (Skool)
+**Position:** Central engine — everything pushes INTO community, high-ticket sells FROM community
+
+**How Members Enter:**
+- 30-day free trial bundled with DFY Offer Build ($197) or DFY Lite ($97)
+- Direct sign-up via email pitch or portal ($97/mo, no trial)
+- Accelerator graduates stay as alumni
+
+**What's Included:**
+- Weekly hot seat calls with Michael (live coaching)
+- Sprint curriculum as self-paced learning path (Extract → Validate → Build → Launch)
+- DFY templates of the month (tested assets Michael is actually running)
+- "What's Working Now" breakdowns
+- DM access to Michael
+- Peer accountability + wins
+
+**What Moved Into Community:**
+- Sprint ($297) weekly calls → community calls
+- Sprint 4-week curriculum → community learning path (always available)
+- Blueprint community access → all community members
+
+**Positioning:**
+> "Month-to-month. Cancel anytime. You stay because the calls and templates are worth it — not because you're locked in. No annual. No commitment you can't walk away from."
+
+**Community → Accelerator Pipeline:**
+- Members watch Michael coach for 30-90 days
+- They see other members get results
+- They ask "how do I work with you 1:1?"
+- Michael announces limited spots → community members take them in minutes
+- No sales page needed. Invoice sent. Paid. Done.
+
+**Promise:** The room where coaches build together — weekly calls, tested templates, direct access to Michael
 
 ---
 
@@ -334,14 +336,22 @@ See: [decisions/2026-02-18-training-portal-ecosystem.md](../../decisions/2026-02
 - Post-launch optimization session (Week 8)
 
 **Who This Is For:**
-- Already validated your offer (bought the $47 or Sprint)
+- Community members who've been watching Michael coach for 30-90 days
+- Already validated their offer (bought the $47 or DFY)
 - Want speed + expert guidance, not DIY
 - Ready to invest in getting it right the first time
 
 **Guarantee:** Profitable funnel or we keep working until it is
 
+**How They Buy (Community-First):**
+- Michael announces limited spots in community ("5 spots open this month")
+- Community members who've watched him coach already trust the quality
+- They respond — invoice sent directly
+- No sales page needed, no call needed — onboarding within 48 hours
+- Fallback: No-phone offer page still exists for email-driven buyers not in community
+
 **Why No Sales Call:**
-> "If you need a sales call to decide, this isn't for you yet. Go through the Sprint first. This is for people who already know they want it done right — they just need the how."
+> "If you need a sales call to decide, this isn't for you yet. You've been in the community. You've seen the work. This is for people who already know — they just need to start."
 
 ---
 
@@ -355,16 +365,20 @@ See: [decisions/2026-02-18-training-portal-ecosystem.md](../../decisions/2026-02
 | Bump 3 (First $5K Client Playbook) | $97 | One-time |
 | Standalone (The One-Page Funnel) | $57 | One-time (portal training, not a bump) |
 | Standalone (Plug & Play Funnel Snapshot) | $97 | One-time (portal training + GHL affiliate trigger) |
-| OTO 1 (Sprint) | $297 | One-time |
-| OTO 2 (Blueprint) | $397 | One-time |
-| OTO 3 (Community) | $47/mo | Recurring ($1 trial) |
-| Backend (Accelerator) | $5,000 | No-Phone Offer |
+| OTO 1 (DFY Offer Build) | $197 | One-time + 30-day community trial |
+| Downsell (DFY Lite) | $97 | One-time + 30-day community trial |
+| OTO 2 (Newsletter) | $37/mo | Recurring (immediate charge) |
+| Community | $97/mo | Recurring (month-to-month after trial) |
+| Backend (Accelerator) | $5,000 | Sold from community |
 
-**Max One-Time Cart Value:** $1,156 ($47 + $37 + $67 + $97 + $57 + $97 + $297 + $397)
-**Target AOV:** $90-110 (front-end + bumps only, no OTOs — self-liquidating target)
-**Recurring potential:** OTO 3 adds $47/month per retained member
+**Max One-Time Cart Value:** $545 ($47 + $37 + $67 + $97 + $197 + first $37 newsletter)
+**Checkout AOV target:** $90-110 (front-end + bumps — self-liquidating)
+**Full funnel AOV:** ~$135 (including OTOs)
+**90-day value per buyer:** ~$260 (including recurring + Accelerator attribution)
+**Recurring streams:** Community ($97/mo) + Newsletter ($37/mo) + GHL affiliate (~$39/mo)
 **Portal cross-sell potential:** One-Page Funnel ($57) + Funnel Snapshot ($97) + second-chance bumps add to 30-day CLV
 **GHL affiliate potential:** ~$39/mo recurring per Funnel Snapshot buyer who signs up for GHL
+**DFY cost per generation:** ~$0.15-0.30 (Claude API) — near-zero marginal cost
 
 ---
 
@@ -406,9 +420,9 @@ New buyers get a 10-email sequence over 10 days. **This sequence is relationship
 
 **Ascension touchpoints (iron strike window):**
 - **Day 3:** Consumption branch — splits based on product access (see below)
-- **Day 5:** Soft close after quick tip — "If you've done the test and you're ready for the next step, the Sprint is where we build it together in 30 days."
-- **Day 7:** Soft close after behind the scenes — "This is what it looks like when the system runs. If you want help building yours, here's how."
-- **Day 9:** Explicit CTA in roadmap email — "You're here. The next step is [Sprint/Blueprint]. Here's the difference."
+- **Day 5:** Soft close after quick tip — "If you've done the test and you're ready for the next step, let us build your offer for you. $197 — delivered in 48 hours."
+- **Day 7:** Soft close after behind the scenes — "This is what it looks like when the system runs. Want to skip the DIY? Here's how."
+- **Day 9:** Explicit CTA in roadmap email — "You're here. The next step is the community — weekly calls, tested templates, direct access. Here's how to join."
 
 **Iron Strike Principle:** Research across 6+ practitioners shows ascension probability peaks in the first 7-21 days after purchase. After 3 weeks, it drops significantly. Days 5/7/9 carry soft ascension CTAs within the relationship email — not separate pitches. Same voice, same tone. If it reads like a pitch, rewrite it. See [decisions/2026-02-14-ecosystem-architecture-iron-strike.md](../../decisions/2026-02-14-ecosystem-architecture-iron-strike.md).
 
@@ -420,17 +434,17 @@ Why: Buyers who consume are exponentially more likely to ascend. Non-consumers n
 
 **Parallel Recovery Sequences (Days 2-8, sent at 2PM alongside 8AM welcome emails):**
 - **Bump Recovery** (3 emails, Days 2/4/6) — pitches only the bumps they missed
-- **OTO Recovery** (3 emails, Days 3/5/7) — Sprint on Days 3/5, Blueprint on Day 7
-- **Community Recovery** (1 email, Day 8) — downsell for buyers who declined all upsells
+- **DFY Recovery** (2 emails, Days 3/5) — DFY Offer Build for buyers who declined at checkout
+- **Community Recovery** (1 email, Day 8) — direct community sign-up for buyers not on trial
 
 After Day 10, they join the daily broadcast (Day 11+).
 
-### Accountability Outreach (Sprint/Blueprint Buyers)
+### Accountability Outreach (DFY Buyers)
 
-Manual DM within 48 hours of Sprint or Blueprint purchase:
-> "Hey [name] — saw you grabbed the [Sprint/Blueprint]. Just wanted to make sure you got access to everything. What are you working on right now?"
+Manual DM within 48 hours of DFY purchase:
+> "Hey [name] — saw you grabbed the DFY Offer Build. Just wanted to make sure you filled out the onboarding form. Once you do, we'll have your deliverables back in 24-48 hours. What are you working on right now?"
 
-Not a sales call. Accountability and support. Opens a conversation that naturally deepens engagement. At current volume: 1-3 DMs per week. When volume exceeds ~20/week, hire a setter.
+Not a sales call. Accountability and support. Opens a conversation that naturally deepens engagement and drives community trial activation. At current volume: 1-3 DMs per week. When volume exceeds ~20/week, hire a setter.
 
 **Trigger:** GHL notification on Sprint or Blueprint purchase → manual DM within 48 hours.
 
@@ -452,11 +466,11 @@ See: [reference/domain/funnel/email-rhythm.md](../domain/funnel/email-rhythm.md)
 **30-Day Money Back (All Products):**
 > "If you don't get results using our templates and support, send us an email at any time and we'll refund every penny of your investment — no questions asked."
 
-**Completion Guarantee (OTO 2 - $397 Blueprint):**
-> "Your custom Blueprint delivered in 30 days — or I keep working until it's done. No extra charge. No excuses."
+**DFY Delivery Guarantee (OTO 1 - $197 DFY Offer Build):**
+> "Your ICP, offer document, landing page copy, and ad hooks — delivered in 48 hours. If we miss that, you get a free month of community on top of your trial."
 
-**Sprint Guarantee (OTO 1 - $297 Sprint):**
-> "Launch your validated offer in 30 days — or Michael keeps working with you until you do."
+**Community Guarantee:**
+> "Month-to-month. Cancel anytime. If the first call doesn't blow your mind, cancel before your trial ends and you pay nothing."
 
 ---
 
@@ -468,7 +482,7 @@ See: [reference/domain/funnel/email-rhythm.md](../domain/funnel/email-rhythm.md)
 | "I'm not tech savvy" | The templates are plug-and-play — fill in blanks, copy-paste, done |
 | "I don't have an audience" | Start with your warm audience first. The traffic playbook shows you how to find buyers without ads. |
 | "What if it doesn't work?" | Every product has a money-back guarantee. The Sprint adds personal accountability — Michael reviews your homework and keeps working with you until you launch. |
-| "I don't want another subscription" | No subscriptions in this funnel. Sprint is one-time $297 for 4 weeks. Done. |
+| "I don't want another subscription" | The community is month-to-month. Cancel anytime. No annual. No lock-in. You stay because the calls and templates are worth it — not because you're trapped. |
 
 ---
 
@@ -661,7 +675,7 @@ Naked VSLs (video-only pages) are dying — high bounce rates from cold traffic.
 
 **When to launch:** After 50-100 front-end sales (need audience to retarget). Start with 5 videos at $5/day each ($25/day total). Scale as audience grows.
 
-**Why it works:** Creates frequency and familiarity at scale. Buyers see your face 6+ times. When they're ready to ascend (Sprint, Blueprint, Accelerator), you're the obvious choice. Replaces "post and pray" organic strategy. Works alongside email — double exposure on two channels.
+**Why it works:** Creates frequency and familiarity at scale. Buyers see your face 6+ times. When they're ready to join the community or ascend to Accelerator, you're the obvious choice. Replaces "post and pray" organic strategy. Works alongside email — double exposure on two channels.
 
 **Miles' results at scale:** 40,000-person retargeting audience, $250/day, frequency of 6, selling profitably from retargeting alone. Gets DM sales from people he's never spoken to.
 
