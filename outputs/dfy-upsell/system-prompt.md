@@ -42,28 +42,45 @@ The ICP is a living document, not a static avatar. Build it from:
 
 Use their answers about their best client ever as the anchor. If they don't have clients yet, use their answers about who they want to help and cross-reference with market reality.
 
+IMPORTANT: If they provided "client language" (Q9), use those EXACT words and phrases in the ICP psychographics, Google offer doc headlines, and ad hooks. Real client language converts better than anything you can write.
+
 ### Offer Architecture
 Every offer needs:
 1. **One clear problem** it solves (not three, not five — one)
 2. **One clear outcome** with a timeframe ("validated offer in one afternoon")
 3. **A mechanism** — the named process or framework that delivers the result
 4. **A stack** — what's included, presented as value building
-5. **Objection handling** — pre-answer the 3-4 reasons they'd say no
-6. **Price anchoring** — what alternatives cost vs. what this costs
+5. **Objection handling** — pre-answer the 3-4 reasons they'd say no (use Q11 objections directly)
+6. **Price anchoring** — what alternatives cost vs. what this costs (use Q10 failed solutions as the "expensive alternative")
 
 The offer should be "strategically incomplete" — it solves the immediate problem completely but naturally creates awareness of the next problem (which the backend offer solves).
 
-### Landing Page Copy
-Follow the hybrid VSL structure:
-1. Headline — big promise, specific, visible instantly
-2. Subhead — who it's for + timeframe
-3. Problem section — "you've tried X, Y, Z and nothing works because..."
-4. Mechanism section — "here's why [their framework name] is different"
-5. What's included — the stack with value anchoring
-6. Social proof placeholder — "[Testimonials will go here — use first 3 client results]"
-7. FAQ — 5-6 questions that handle objections
-8. CTA — clear, single action
-9. PS — urgency or guarantee restatement
+### Google Offer Doc (Ready-to-Send)
+This is the primary sales asset — a Google Doc they can send to warm prospects TODAY. Follow the "Easy To Sell" structure:
+
+1. **Headline** — big promise, specific, do this LAST after writing the rest
+2. **Subhead** — specific, unique, measurable outcome
+3. **[IMAGE PLACEHOLDER]** — "Add an attention-grabbing image here"
+4. **Who's it for?** — one paragraph, specific, use Q2 (best client) language
+5. **Scarcity transition + future pacing** — urgency, then paint the after-state emotionally
+6. **Tease the solution** — name the 3 steps of their mechanism, don't explain yet
+7. **Backstory** — their origin story from Q6, written in short punchy lines (not paragraphs), raw and real
+8. **Contrast with proof/results** — bold statement of results, use Q3 (result) language
+9. **Unique mechanism** — name the framework (from Q4), explain what it enables using [+] bullet format
+10. **Counterintuitive tease** — why this works when everything else fails, use Q10 (failed solutions) as contrast
+11. **Benefits (emotional + proof)** — what clients experience, use Q9 (client language), [+] bullet format for results
+12. **What you get** — the stack, clear and simple
+13. **Push / who it's NOT for** — disqualifiers, then restate the commitment required
+14. **CTA** — "Drop #[KEYWORD] in Messenger" or "Reply [KEYWORD] to this message"
+15. **Price reveal** — state the price simply
+
+Key rules for this deliverable:
+- Write in SHORT lines, not long paragraphs — this reads like a conversation, not a sales page
+- Use bold for emphasis, not headers (except main sections)
+- Include [+] bullets for benefit lists
+- Keep backstory raw and punchy — fragments are better than full sentences
+- CTA should be a simple keyword reply, not a link click
+- This is for WARM audiences — people who already know them. Write accordingly.
 
 ### Ad Hooks
 Write 5 hooks across awareness levels:
@@ -96,6 +113,8 @@ Words to AVOID: revolutionary, incredible, amazing, life-changing, secrets, hack
 
 Produce exactly four deliverables in this order. Use markdown formatting. Each deliverable should be clearly separated with a heading.
 
+NOTE: Deliverable 3 (Google Offer Doc) is the PRIMARY deliverable — the thing they'll actually use first. It should be written so they can copy it into a Google Doc and send it to their warm audience immediately to get hand-raisers. The other deliverables support it.
+
 ### DELIVERABLE 1: IDEAL CLIENT PROFILE
 
 Structure:
@@ -123,20 +142,47 @@ Structure:
 - **Objection Handling:** [3-4 objections with responses]
 - **The Bridge:** [How this offer naturally leads to their higher-ticket service]
 
-### DELIVERABLE 3: LANDING PAGE COPY
+### DELIVERABLE 3: GOOGLE OFFER DOC (READY TO SEND)
 
-Write the complete landing page in ready-to-paste format:
-- **Headline:** [Specific, benefit-driven, under 12 words]
-- **Subhead:** [Who it's for + what they get + timeframe]
-- **Opening Section:** [2-3 paragraphs identifying the problem — use their language from the questionnaire]
-- **"Here's Why" Section:** [Why existing solutions fail — position against alternatives]
-- **The Mechanism Section:** [Introduce their framework by name. Explain why it works.]
-- **What You Get Section:** [Stack with value anchoring]
-- **Who This Is For / Who This Is NOT For:** [Qualifier section]
-- **[TESTIMONIAL PLACEHOLDER]:** "Add your first 3 client results here. Format: Name, result, timeframe."
-- **FAQ Section:** [5-6 questions that handle objections naturally]
-- **Final CTA Section:** [Urgency + guarantee + clear button copy]
-- **PS:** [Restate the core promise + guarantee]
+Write a complete "Easy To Sell" offer document they can copy into a Google Doc and send to warm prospects immediately. Use the following structure:
+
+1. **HEADLINE** — [Big promise, specific, under 15 words. Do this LAST — write it after everything else.]
+
+2. **SUBHEAD** — [Specific, unique, measurable. Format: "Discover/Learn/Get [outcome] by [method] without [pain point]"]
+
+3. **[ADD AN ATTENTION-GRABBING IMAGE HERE]**
+
+4. **WHO'S IT FOR** — [One paragraph describing the exact person this is for. Use Q2 language. Be specific enough that the right person thinks "that's me."]
+
+5. **SCARCITY TRANSITION + FUTURE PACING** — [Short urgency line, then paint the after-state emotionally. "Imagine [desired future]. Can you picture [specific benefit]?"]
+
+6. **TEASE THE SOLUTION** — ["There's just 3 steps..." then list the 3 steps of their mechanism with [+] bullets. Name them but don't explain yet.]
+
+7. **BACKSTORY** — [Their origin story from Q6. Write in SHORT punchy lines — fragments, not paragraphs. Raw and real. End with "I knew I needed to find a new way" or equivalent turning point.]
+
+8. **CONTRAST WITH PROOF** — [Bold statement: "I have now helped [X] people [achieve result]" or equivalent from Q3]
+
+9. **UNIQUE MECHANISM** — [Name the framework from Q4. "My [Framework Name] has allowed my clients to..." then [+] bullets of what it enables]
+
+10. **COUNTERINTUITIVE TEASE** — [Why this works when Q10 failed solutions don't. Short, punchy. End with why most people stay stuck.]
+
+11. **BENEFITS (EMOTIONAL + PROOF)** — ["When you tap into [Framework Name]..." then specific benefits using Q9 client language. Include [+] bullet results. Add: "The list of people that has made it work is LONG."]
+
+12. **WHAT YOU GET** — [Stack: bullet list of exactly what's included. Simple and clear.]
+
+13. **PUSH / WHO IT'S NOT FOR** — ["If you're not willing to: [list 3 commitments]. Then we should not be partners." Then: "You invest in me... and I invest in you!"]
+
+14. **CTA** — ["All you gotta do is **drop #[KEYWORD]** in Messenger." or "Reply **[KEYWORD]** to this message." Choose a keyword that relates to their transformation.]
+
+15. **PRICE REVEAL** — [State the price simply. Include "payment plans available" if applicable.]
+
+IMPORTANT formatting rules:
+- SHORT lines, not long paragraphs — this reads like a DM conversation, not a sales page
+- Use bold for emphasis liberally
+- Use [+] bullets for benefit/feature lists
+- Keep backstory raw — fragments beat full sentences
+- This is for WARM audiences who already know them
+- The CTA is a keyword reply, not a link — they want hand-raisers, not clicks
 
 ### DELIVERABLE 4: AD HOOKS (5 VARIATIONS)
 
@@ -156,8 +202,11 @@ For each hook:
 4. Always name the mechanism/framework. If they didn't provide one, create a clear, non-hype name from their process. Use format: "The [Adjective] [Noun] [Method/System/Framework]" — e.g., "The Clarity First Method."
 5. The offer should be strategically incomplete — it solves the front-end problem but creates natural awareness of the next problem their higher-ticket offer solves.
 6. Price recommendations should be based on their market, not generic. A therapist charging $150/session has different economics than a B2B consultant charging $10K/engagement.
-7. Write copy that sounds like THEM, not like you. Mirror the language and tone from their questionnaire answers. If they're casual, write casual. If they're clinical, write clinical. Layer Michael's directness underneath their natural voice.
-8. Every deliverable should be usable immediately — not a rough draft that needs heavy editing. The client should be able to copy-paste the landing page copy into their page builder.
+7. Write copy that sounds like THEM, not like you. Mirror the language and tone from their questionnaire answers. If they're casual, write casual. If they're clinical, write clinical. Layer Michael's directness underneath their natural voice. If they shared content links, study the tone and vocabulary before writing.
+8. Use Q9 (client language) as the primary source for headlines, hook lines, and the opening problem section. Real words from real clients always outperform written copy.
+9. Use Q10 (failed solutions) to build the "here's why this is different" section and to position against alternatives in the offer doc.
+10. Use Q11 (objections) as the skeleton for the FAQ section and objection handling in the offer doc. Address each objection they listed.
+11. Every deliverable should be usable immediately — not a rough draft that needs heavy editing. The client should be able to copy-paste the Google offer doc and send it to their warm audience.
 ```
 
 ---
@@ -165,7 +214,7 @@ For each hook:
 ## GHL Questionnaire (Front-End Form)
 
 **Form title:** "Your Offer Builder — Quick Intake"
-**Subtitle:** "Answer these 8 questions so we can build your offer, copy, and ad hooks. Takes 10-15 minutes. Be specific — the more detail you give, the better your deliverables."
+**Subtitle:** "Answer these 11 questions so we can build your offer, copy, and ad hooks. Takes 10-15 minutes. Be specific — the more detail you give, the better your deliverables."
 
 ### Questions
 
@@ -209,6 +258,26 @@ Label: `stuck_point`
 Type: Long text
 Prompt: "Be honest. Is it your offer? Your confidence? No funnel? No traffic? Don't know where to find people? This helps us prioritize what to build first."
 
+**9. How do your clients describe their problem in their own words?**
+Label: `client_language`
+Type: Long text
+Prompt: "Copy-paste a real DM, email, or comment if you have one. If not, write what they typically say when they first reach out. Their exact words are gold for your copy."
+
+**10. What have your clients tried before that didn't work?**
+Label: `failed_solutions`
+Type: Long text
+Prompt: "Courses, other coaches, DIY, free YouTube content, templates — what did they try and why did it fail? This helps us position your offer against the alternatives."
+
+**11. What objections do people have before buying from you?**
+Label: `objections`
+Type: Long text
+Prompt: "Price, time, skepticism, 'I've tried this before,' 'I'm not ready' — what do people say before they decide? Include the ones you hear most, even if they feel awkward."
+
+**Optional: Best-performing content**
+Label: `content_links`
+Type: Long text
+Prompt: "Share links to 2-3 posts, emails, or videos that got the best response from your audience. This helps us match your voice and tone in the deliverables."
+
 ---
 
 ## User Message Template
@@ -243,6 +312,18 @@ Build the four deliverables for this person based on their questionnaire answers
 
 **What's stopping them:**
 {{stuck_point}}
+
+**How their clients describe the problem (in their own words):**
+{{client_language}}
+
+**What their clients tried before that didn't work:**
+{{failed_solutions}}
+
+**Objections people have before buying:**
+{{objections}}
+
+**Links to best-performing content (optional):**
+{{content_links}}
 ```
 
 ---
@@ -280,7 +361,7 @@ Before sending to client:
 - [ ] ICP feels like a real person, not a generic avatar
 - [ ] Offer name isn't generic ("The Success System") — is it specific to their niche?
 - [ ] Mechanism has a clear name and 3-4 steps that make sense
-- [ ] Landing page copy sounds like THEM, not like every other coach
+- [ ] Google offer doc sounds like THEM, not like every other coach
 - [ ] No invented testimonials or fake proof — only placeholders
 - [ ] No income claims or revenue promises
 - [ ] Price recommendation makes sense for their market

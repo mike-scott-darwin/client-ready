@@ -48,14 +48,14 @@ linked_decisions:
 
 **Key elements:**
 - "We'll build your offer for you" — same methodology, we run it for you
-- AI-built: ICP + offer document + landing page copy + 5 ad hooks
+- AI-built: ICP + offer document + ready-to-send sales doc + 5 ad hooks
 - Michael reviews every deliverable before you receive it
 - Includes 30-day free trial to Client Ready Community
 - Delivered within 24-48 hours
 
 **If NO → Downsell: DFY Lite**
 - Price: $97
-- ICP + offer document only (no landing page copy, no ad hooks)
+- ICP + offer document only (no sales doc, no ad hooks)
 - Same 30-day community trial included
 
 ---
@@ -80,7 +80,7 @@ linked_decisions:
 **Purpose:** Activate buyer, trigger DFY build if applicable
 
 **DFY buyers see:**
-- 8-question onboarding form
+- 11-question onboarding form
 - "Complete this now — we start building your offer as soon as you submit"
 - Portal access link
 
@@ -196,7 +196,7 @@ _To build:_
 
 - [ ] DFY OTO page ($197) in GHL
 - [ ] DFY Lite downsell page ($97) in GHL
-- [ ] DFY onboarding form (8 questions) in GHL
+- [ ] DFY onboarding form (11 questions) in GHL
 - [ ] Claude API integration (GHL webhook → Make.com/n8n → Claude → delivery)
 - [ ] Newsletter OTO page ($37/mo) in GHL
 - [ ] Community pricing set to $97/mo with 30-day trial logic in GHL

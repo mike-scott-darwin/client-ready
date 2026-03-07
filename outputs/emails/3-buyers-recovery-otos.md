@@ -38,16 +38,16 @@ Most people buy the system, start the extraction... and then stall.
 
 Not because the system doesn't work. Because there's a gap between "knowing what a good offer looks like" and "having YOUR offer actually built out."
 
-The prompts give you the framework. But writing your own ICP, your own offer doc, your own landing page copy? That takes time. And second-guessing.
+The prompts give you the framework. But writing your own ICP, your own offer doc, your own sales doc? That takes time. And second-guessing.
 
 That's why I built the DFY Offer Build.
 
-**You answer 8 questions. We build everything for you. $197 one-time.**
+**You answer 11 questions. We build everything for you. $197 one-time.**
 
 What you get back in 48 hours:
 - Complete Ideal Client Profile
 - Full Offer Document (problem, mechanism, stack, objections)
-- Landing Page Copy (ready to paste)
+- Ready-to-Send Sales Doc (copy into Google Docs and send)
 - 5 Ad Hooks across awareness levels
 
 I personally review every deliverable before it hits your inbox.
@@ -74,7 +74,7 @@ A coach bought the Client Ready system. Had the prompts. Had the extraction fram
 
 Three weeks later? Still staring at a half-finished offer doc.
 
-Not because she was lazy. Because she kept second-guessing her answers. "Is this specific enough?" "Am I targeting the right person?" "Does this landing page copy sound like me?"
+Not because she was lazy. Because she kept second-guessing her answers. "Is this specific enough?" "Am I targeting the right person?" "Does this sales doc sound like me?"
 
 Sound familiar?
 
@@ -108,14 +108,14 @@ Here's what I see happen without the DFY build:
 
 - Week 1: Start the extraction. Feel good.
 - Week 2: Get stuck on the ICP. Who exactly am I targeting?
-- Week 3: Draft landing page copy. Delete it. Start over.
+- Week 3: Draft a sales doc. Delete it. Start over.
 - Week 4: Still don't have anything live.
 
 Here's what happens with it:
 
-- Day 1: Answer 8 questions (10-15 minutes)
+- Day 1: Answer 11 questions (10-15 minutes)
 - Day 2: I review your complete offer package
-- Day 3: You have your ICP, offer doc, landing page copy, and 5 ad hooks in your inbox
+- Day 3: You have your ICP, offer doc, ready-to-send sales doc, and 5 ad hooks in your inbox
 
 Same destination. Different timeline.
 

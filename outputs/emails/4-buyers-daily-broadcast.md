@@ -164,11 +164,11 @@ So why don't people do it?
 
 Because knowing isn't doing.
 
-You have the extraction prompts. You know what a good offer looks like. But your ICP doc is half-finished. Your landing page is blank. Your ad hooks don't exist.
+You have the extraction prompts. You know what a good offer looks like. But your ICP doc is half-finished. Your sales doc doesn't exist. Your ad hooks don't exist.
 
 The DFY Offer Build fixes this in 48 hours.
 
-You answer 8 questions (10-15 minutes). I build your complete offer package — ICP, offer doc, landing page copy, 5 ad hooks. Reviewed by me personally before it hits your inbox.
+You answer 11 questions (10-15 minutes). I build your complete offer package — ICP, offer doc, ready-to-send sales doc, 5 ad hooks. Reviewed by me personally before it hits your inbox.
 
 $197 one-time. 48-hour delivery.
 
