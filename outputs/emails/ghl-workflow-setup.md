@@ -22,9 +22,9 @@ Complete GoHighLevel workflow configuration for the Client Ready email backend. 
 | 2 | Buyer Welcome | Tag: `purchased-47` | 10 emails / 10 days (Day 3 branches) | `bw-sequence/BW01-BW10` + `BW03a/BW03b` |
 | 3 | Bump Recovery | Purchased $47, missed bumps | 3 emails (Days 2,4,6) | `br-sequence/BR01-BR03` |
 | 4 | Bump Delivery | Purchased bump product | 3 emails (immediate) | `bd-sequence/BD01-BD03` |
-| 5 | OTO Recovery | Purchased $47, no Sprint/Blueprint | 3 emails (Days 3,5,7) | `or-sequence/OR01-OR03` |
+| 5 | OTO Recovery | Purchased $47, no DFY/DFY Lite | 3 emails (Days 3,5,7) | `or-sequence/OR01-OR03` |
 | 6 | Community Recovery | Purchased $47, no upsells at all | 1 email (Day 8) | `cr-sequence/CR01` |
-| 7 | Accountability DM | Purchased Sprint or Blueprint | Manual DM trigger | (no HTML — manual outreach) |
+| 7 | Accountability DM | Purchased DFY or DFY Lite | Manual DM trigger | (no HTML — manual outreach) |
 | 8 | Daily Broadcast | Day 11+ | Ongoing (7 templates) | `db-sequence/DB01-DB07` |
 
 ---
@@ -41,8 +41,9 @@ Go to **Settings → Tags** in GHL. Create each tag exactly as written (copy-pas
 - `purchased-bump-dm-scripts`
 - `purchased-bump-templates`
 - `purchased-bump-playbook`
-- `purchased-sprint`
-- `purchased-blueprint`
+- `purchased-dfy`
+- `purchased-dfy-lite`
+- `purchased-newsletter`
 - `purchased-community`
 
 ### Routing Tags
@@ -56,7 +57,7 @@ Go to **Settings → Tags** in GHL. Create each tag exactly as written (copy-pas
 ### Accountability Tags
 - `needs-accountability-dm`
 
-**Total: 13 tags.**
+**Total: 15 tags.**
 
 ---
 
@@ -77,9 +78,10 @@ One trigger per product. Each fires on **Payment Received** (or **Order Submitte
 | 3 | DM Scripts Purchase | Payment Received → DM Scripts ($37) | Add tag → `purchased-bump-dm-scripts` |
 | 4 | Templates Purchase | Payment Received → Templates ($67) | Add tag → `purchased-bump-templates` |
 | 5 | Playbook Purchase | Payment Received → Playbook ($97) | Add tag → `purchased-bump-playbook` |
-| 6 | Sprint Purchase | Payment Received → Sprint ($297) | Add tag → `purchased-sprint` |
-| 7 | Blueprint Purchase | Payment Received → Blueprint ($397) | Add tag → `purchased-blueprint` |
-| 8 | Community Purchase | Payment Received → Community ($47/mo) | Add tag → `purchased-community` |
+| 6 | DFY Purchase | Payment Received → DFY Offer Build ($197) | Add tag → `purchased-dfy` |
+| 7 | DFY Lite Purchase | Payment Received → DFY Lite ($97) | Add tag → `purchased-dfy-lite` |
+| 8 | Newsletter Purchase | Payment Received → Newsletter ($37/mo) | Add tag → `purchased-newsletter` |
+| 9 | Community Purchase | Payment Received → Community ($97/mo) | Add tag → `purchased-community` |
 
 **For Trigger 1 (Lead Capture):** If "Order Form Submission Started" isn't available in your GHL version, use **"Form Submitted"** or **"Contact Created"** instead.
 
@@ -93,7 +95,7 @@ One routing trigger for non-buyers. Buyer routing is handled inside the Buyer We
 |---|-------------|-------|---------|
 | 9 | Non-Buyer Start | Tag Added → `lead` | Add tag → `non-buyer-sequence` |
 
-**Total: 9 triggers.** That's it. Everything else happens inside workflows.
+**Total: 10 triggers.** That's it. Everything else happens inside workflows.
 
 ---
 
@@ -354,9 +356,9 @@ Option C (Manual fallback):
 ### Iron Strike Ascension Notes
 
 Days 5, 7, and 9 now include soft ascension closes as P.S. sections:
-- **Day 5:** Sprint link after the quick tip (natural "if you passed the test, here's the next step")
-- **Day 7:** Sprint/Blueprint comparison after behind-the-scenes (natural "this is the system — want help building yours?")
-- **Day 9:** Explicit Sprint vs Blueprint CTA within the roadmap email (natural "you're at Stage 1 — here's how to move to Stage 2-4")
+- **Day 5:** DFY link after the quick tip (natural "if you passed the test, here's the next step")
+- **Day 7:** DFY pitch after behind-the-scenes (natural "this is the system — want help building yours?")
+- **Day 9:** Explicit DFY CTA within the roadmap email (natural "you're at Stage 1 — here's how to move to Stage 2-4")
 
 **Voice guard:** These are P.S. additions, not hard sells. The body of each email is unchanged. If the P.S. feels out of place or pushy, remove it — the parallel recovery sequences still handle direct pitching.
 
@@ -369,11 +371,11 @@ Days 5, 7, and 9 now include soft ascension closes as P.S. sections:
 | BW03a | BW03a-advanced-tips.html | 3 | 8:00 AM | Now that you've started — get the most out of Prompt 3 | Consumption: opened |
 | BW03b | BW03b-quick-start.html | 3 | 8:00 AM | Haven't started yet? Here's the 5-minute version | Consumption: not opened |
 | BW04 | BW04-common-mistake.html | 4 | 8:00 AM | The mistake that cost me 6 months | — |
-| BW05 | BW05-quick-tip.html | 5 | 8:00 AM | The 2-minute test for your offer | Soft close (Sprint) |
+| BW05 | BW05-quick-tip.html | 5 | 8:00 AM | The 2-minute test for your offer | Soft close (DFY) |
 | BW06 | BW06-transformation-story.html | 6 | 8:00 AM | From stuck to first client in 30 days | — |
-| BW07 | BW07-behind-the-scenes.html | 7 | 8:00 AM | What my morning actually looks like | Soft close (Sprint/Blueprint) |
+| BW07 | BW07-behind-the-scenes.html | 7 | 8:00 AM | What my morning actually looks like | Soft close (DFY) |
 | BW08 | BW08-faq-objection.html | 8 | 8:00 AM | "What if I'm not ready?" | — |
-| BW09 | BW09-the-roadmap.html | 9 | 8:00 AM | What happens after $47 | Explicit CTA (Sprint vs Blueprint) |
+| BW09 | BW09-the-roadmap.html | 9 | 8:00 AM | What happens after $47 | Explicit CTA (DFY) |
 | BW10 | BW10-community-invite.html | 10 | 8:00 AM | Come hang out | — |
 
 ### Key Settings
@@ -512,7 +514,7 @@ Step 2:  SEND EMAIL → BD03-playbook-delivery.html
 
 **Where:** Automations → Workflows → Create Workflow → Start from Scratch
 
-**Name:** `OTO Recovery (Sprint + Blueprint)`
+**Name:** `OTO Recovery (DFY Offer Build)`
 
 ### Workflow Trigger
 - Type: **Tag Added**
@@ -524,33 +526,33 @@ Step 2:  SEND EMAIL → BD03-playbook-delivery.html
 Step 1:  WAIT → Wait 5 minutes
            (Let OTO purchase tags settle)
 
-Step 2:  IF/ELSE → Contact Tag → Has tag "purchased-sprint" OR "purchased-blueprint"
+Step 2:  IF/ELSE → Contact Tag → Has tag "purchased-dfy" OR "purchased-dfy-lite"
            ├── YES: End workflow — they already upgraded
            └── NO: continue
 
 Step 3:  WAIT → Wait until Day 3, 2:00 PM
 
-Step 4:  IF/ELSE → Contact Tag → Has tag "purchased-sprint"
-           ├── YES: skip (bought Sprint since workflow started)
+Step 4:  IF/ELSE → Contact Tag → Has tag "purchased-dfy" OR "purchased-dfy-lite"
+           ├── YES: skip (bought DFY since workflow started)
            └── NO:
-                 SEND EMAIL → OR01-sprint-pitch.html
-                 Subject: "Most people do this alone (you don't have to)"
+                 SEND EMAIL → OR01-dfy-pitch.html
+                 Subject: "You have the system. But do you have YOUR offer built?"
 
 Step 5:  WAIT → Wait until Day 5, 2:00 PM
 
-Step 6:  IF/ELSE → Contact Tag → Has tag "purchased-sprint"
+Step 6:  IF/ELSE → Contact Tag → Has tag "purchased-dfy" OR "purchased-dfy-lite"
            ├── YES: skip
            └── NO:
-                 SEND EMAIL → OR02-sprint-story.html
-                 Subject: "From 'maybe someday' to first client in 28 days"
+                 SEND EMAIL → OR02-dfy-story.html
+                 Subject: "She had the system for 3 weeks. Nothing happened. Then this."
 
 Step 7:  WAIT → Wait until Day 7, 2:00 PM
 
-Step 8:  IF/ELSE → Contact Tag → Has tag "purchased-blueprint"
-           ├── YES: skip (already bought Blueprint)
+Step 8:  IF/ELSE → Contact Tag → Has tag "purchased-dfy" OR "purchased-dfy-lite"
+           ├── YES: skip
            └── NO:
-                 SEND EMAIL → OR03-blueprint-pitch.html
-                 Subject: "What if I just built your strategy for you?"
+                 SEND EMAIL → OR03-dfy-final.html
+                 Subject: "What 48 hours could save you"
 
 (Workflow ends)
 ```
@@ -559,15 +561,15 @@ Step 8:  IF/ELSE → Contact Tag → Has tag "purchased-blueprint"
 
 | Email | File | Day | Time | Subject | Pitches |
 |-------|------|-----|------|---------|---------|
-| OR01 | OR01-sprint-pitch.html | 3 | 2:00 PM | Most people do this alone... | $297 Sprint |
-| OR02 | OR02-sprint-story.html | 5 | 2:00 PM | From "maybe someday" to first client in 28 days | $297 Sprint |
-| OR03 | OR03-blueprint-pitch.html | 7 | 2:00 PM | What if I just built your strategy for you? | $397 Blueprint |
+| OR01 | OR01-dfy-pitch.html | 3 | 2:00 PM | You have the system. But do you have YOUR offer built? | $197 DFY |
+| OR02 | OR02-dfy-story.html | 5 | 2:00 PM | She had the system for 3 weeks. Nothing happened. | $197 DFY |
+| OR03 | OR03-dfy-final.html | 7 | 2:00 PM | What 48 hours could save you | $197 DFY |
 
 ### Key Settings
 - **Send time:** 2:00 PM local
-- **Days 3 and 5 pitch Sprint.** Day 7 pivots to Blueprint.
-- **If they buy Sprint mid-sequence:** Day 5 and 7 emails skip the Sprint pitch. Day 7 still offers Blueprint.
-- **If they buy Blueprint at any point:** Email 3 skips (they got something better)
+- **All 3 emails pitch DFY Offer Build ($197).** Different angles each day.
+- **If they buy DFY or DFY Lite mid-sequence:** Remaining emails skip.
+- **DFY page includes downsell to DFY Lite ($97)** — no separate email needed for the downsell.
 
 ---
 
@@ -587,10 +589,10 @@ Step 8:  IF/ELSE → Contact Tag → Has tag "purchased-blueprint"
 Step 1:  WAIT → Wait until Day 8, 2:00 PM
 
 Step 2:  IF/ELSE → Contact Tag → Has ANY of these tags:
-           "purchased-sprint" OR
-           "purchased-blueprint" OR
+           "purchased-dfy" OR
+           "purchased-dfy-lite" OR
            "purchased-community"
-           ├── YES: End workflow (they already upgraded to something)
+           ├── YES: End workflow (DFY buyers have community trial; community members already in)
            └── NO: continue (said no to everything)
 
 Step 3:  SEND EMAIL → CR01-community-downsell.html
@@ -603,12 +605,12 @@ Step 3:  SEND EMAIL → CR01-community-downsell.html
 
 | Email | File | Day | Time | Subject | Pitches |
 |-------|------|-----|------|---------|---------|
-| CR01 | CR01-community-downsell.html | 8 | 2:00 PM | Not ready yet? (That's okay) | $47/mo Community ($1 trial) |
+| CR01 | CR01-community-recovery.html | 8 | 2:00 PM | The part nobody warns you about | $97/mo Community |
 
 ### Key Settings
-- **Only 1 email** — this is the downsell for people who said no to Sprint AND Blueprint
+- **Only 1 email** — this is the community pitch for people who said no to DFY
 - **Day 8** = after OTO Recovery is done (Days 3, 5, 7)
-- **Checks all three upgrade tags** — if they bought anything higher, skip this entirely
+- **Checks DFY + community tags** — DFY buyers already have a community trial, skip this
 
 ---
 
@@ -616,15 +618,15 @@ Step 3:  SEND EMAIL → CR01-community-downsell.html
 
 **Where:** Automations → Workflows → Create Workflow → Start from Scratch
 
-**Name:** `Accountability DM (Sprint/Blueprint Buyers)`
+**Name:** `Accountability DM (DFY Buyers)`
 
 ### Purpose
 
-Manual outreach within 48 hours of Sprint or Blueprint purchase. Not automated email — a real DM from Michael. This catches high-value buyers at peak motivation.
+Manual outreach within 48 hours of DFY or DFY Lite purchase. Not automated email — a real DM from Michael. This catches high-value buyers at peak motivation.
 
 ### Workflow Trigger
 - Type: **Tag Added**
-- Tag: `purchased-sprint` OR `purchased-blueprint`
+- Tag: `purchased-dfy` OR `purchased-dfy-lite`
 
 ### Build the Steps
 
@@ -634,7 +636,7 @@ Step 1:  WAIT → Wait 1 hour
 
 Step 2:  INTERNAL NOTIFICATION → Send to Michael
            Channel: Email or SMS (whichever you check most)
-           Message: "🔔 New [Sprint/Blueprint] buyer: {{contact.name}} ({{contact.email}})
+           Message: "🔔 New [DFY/DFY Lite] buyer: {{contact.name}} ({{contact.email}})
                      Purchased: {{trigger.tag}}
                      ACTION: Send accountability DM within 48 hours"
 
@@ -653,7 +655,7 @@ Step 5:  IF/ELSE → Contact Tag → Has tag "needs-accountability-dm"
 
 Send via Skool DM, Instagram DM, or email reply — wherever the buyer is most active:
 
-> "Hey [name] — saw you grabbed the [Sprint/Blueprint]. Just wanted to make sure you got access to everything. What are you working on right now?"
+> "Hey [name] — saw you grabbed the DFY Offer Build. Your deliverables are being built now. Just wanted to make sure you got the onboarding form. What are you working on right now?"
 
 ### After Sending the DM
 
@@ -701,10 +703,10 @@ Tag: "unsubscribed" ≠ TRUE
 |-----|------|---------|---------------|
 | Monday | DB01-monday-frontend.html | The coach who couldn't explain what she does | $47 Front-end |
 | Tuesday | DB02-tuesday-templates.html | I stared at the blank page for 3 hours | $67 Templates |
-| Wednesday | DB03-wednesday-sprint.html | The difference between "knowing" and "doing" | $297 Sprint |
-| Thursday | DB04-thursday-blueprint.html | Some people have time. Some people have money. | $397 Blueprint |
+| Wednesday | DB03-wednesday-dfy.html | The difference between "knowing" and "doing" | $197 DFY Offer Build |
+| Thursday | DB04-thursday-community.html | The loneliest part of building | $97/mo Community |
 | Friday | DB05-friday-backend.html | When you're ready for the next level | $5K Accelerator (reply "ACCELERATOR") |
-| Saturday | DB06-saturday-community.html | The loneliest part of building | $47/mo Community |
+| Saturday | DB06-saturday-newsletter.html | What's working right now | $37/mo Newsletter |
 | Sunday | DB07-sunday-free-value.html | The question that changes everything | No pitch |
 
 3. Schedule each to send at 8:00 AM on its corresponding day
@@ -721,9 +723,9 @@ As buyers ascend, they should stop seeing pitches for products they already own.
 | If Buyer Has | Skip Pitch For | On Day |
 |--------------|----------------|--------|
 | `purchased-bump-templates` | $67 Templates | Tuesday |
-| `purchased-sprint` | $297 Sprint | Wednesday |
-| `purchased-blueprint` | $397 Blueprint | Thursday |
-| `purchased-community` | $47/mo Community | Saturday |
+| `purchased-dfy` | $197 DFY Offer Build | Wednesday |
+| `purchased-community` | $97/mo Community | Thursday |
+| `purchased-newsletter` | $37/mo Newsletter | Saturday |
 
 **Keep the story. Swap the CTA.** The story is the value — just change what you link to at the end.
 
@@ -739,17 +741,17 @@ Here's exactly what a buyer who purchased ONLY the $47 (no bumps, no OTOs) recei
 | 2 | 8:00 AM | Welcome | BW02 | Why I do this (honest answer) | |
 | 2 | 2:00 PM | Bump Recovery | BR01 | One thing I forgot to mention... | |
 | 3 | 8:00 AM | Welcome | BW03a or BW03b | Advanced Tips / Quick Start | **Consumption branch** |
-| 3 | 2:00 PM | OTO Recovery | OR01 | Most people do this alone... | |
+| 3 | 2:00 PM | OTO Recovery | OR01 | You have the system. But do you have YOUR offer built? | |
 | 4 | 8:00 AM | Welcome | BW04 | The mistake that cost me 6 months | |
 | 4 | 2:00 PM | Bump Recovery | BR02 | The blank page problem | |
 | 5 | 8:00 AM | Welcome | BW05 | The 2-minute test for your offer | **Soft ascension P.S.** |
-| 5 | 2:00 PM | OTO Recovery | OR02 | From "maybe someday" to first client in 28 days | |
+| 5 | 2:00 PM | OTO Recovery | OR02 | She had the system for 3 weeks. Nothing happened. | |
 | 6 | 8:00 AM | Welcome | BW06 | From stuck to first client in 30 days | |
 | 6 | 2:00 PM | Bump Recovery | BR03 | Before you move on... | |
 | 7 | 8:00 AM | Welcome | BW07 | What my morning actually looks like | **Soft ascension P.S.** |
-| 7 | 2:00 PM | OTO Recovery | OR03 | What if I just built your strategy for you? | |
+| 7 | 2:00 PM | OTO Recovery | OR03 | What 48 hours could save you | |
 | 8 | 8:00 AM | Welcome | BW08 | "What if I'm not ready?" | |
-| 8 | 2:00 PM | Community Recovery | CR01 | Not ready yet? (That's okay) | |
+| 8 | 2:00 PM | Community Recovery | CR01 | The part nobody warns you about | |
 | 9 | 8:00 AM | Welcome | BW09 | What happens after $47 | **Explicit ascension CTA** |
 | 10 | 8:00 AM | Welcome | BW10 | Come hang out | |
 | 11+ | 8:00 AM | Daily Broadcast | DB01-07 | (rotating daily) | |
@@ -763,8 +765,8 @@ Here's exactly what a buyer who purchased ONLY the $47 (no bumps, no OTOs) recei
 **Iron Strike additions (Days 3-9):**
 - Day 3 branches based on product consumption (different email for openers vs non-openers)
 - Days 5, 7 add soft ascension P.S. to existing relationship emails
-- Day 9 adds explicit Sprint vs Blueprint comparison CTA
-- Sprint/Blueprint buyers also get a manual accountability DM within 48 hours (Workflow 7)
+- Day 9 adds explicit DFY CTA
+- DFY/DFY Lite buyers also get a manual accountability DM within 48 hours (Workflow 7)
 
 ---
 
@@ -824,12 +826,12 @@ Test with a real contact (yourself or a test email) through each path:
 - [ ] Wait for Day 3 email → verify BW03b (quick start) sends
 
 ### Test Path 2c: Ascension Emails (Days 5, 7, 9)
-- [ ] Day 5: BW05 sends with Sprint P.S. link — verify link works
-- [ ] Day 7: BW07 sends with Sprint/Blueprint P.S. links — verify both work
-- [ ] Day 9: BW09 sends with explicit Sprint vs Blueprint comparison — verify links
+- [ ] Day 5: BW05 sends with DFY P.S. link — verify link works
+- [ ] Day 7: BW07 sends with DFY P.S. link — verify link works
+- [ ] Day 9: BW09 sends with explicit DFY CTA — verify link works
 
 ### Test Path 2d: Accountability DM (Sprint/Blueprint)
-- [ ] Purchase Sprint → verify `purchased-sprint` tag applied
+- [ ] Purchase DFY → verify `purchased-dfy` tag applied
 - [ ] Verify internal notification sent within 1 hour
 - [ ] Verify `needs-accountability-dm` tag applied
 - [ ] Send DM manually, remove tag

@@ -1,31 +1,32 @@
 ---
 type: resource
 status: active
-date: 2026-02-04
+date: 2026-03-07
 module: 2.6.3
 format: Google Doc
+updated_from: OTO Recovery (Sprint + Blueprint) → DFY Recovery ($197)
 ---
 
-# OTO Recovery Sequence
+# DFY Recovery Sequence
 
-**3 emails to recover missed Sprint and Blueprint upsells**
+**3 emails to recover missed DFY Offer Build upsell**
 
 ---
 
 ## Overview
 
-When someone buys the $47 (and maybe bumps) but skips the OTOs, this sequence re-pitches the Sprint ($297) and Blueprint ($397) over the next week.
+When someone buys the $47 (and maybe bumps) but skips the DFY OTO, this sequence re-pitches the DFY Offer Build ($197) over the next week.
 
-**Trigger:** Purchased $47, did NOT purchase OTO1 (Sprint) or OTO2 (Blueprint)
+**Trigger:** Purchased $47, did NOT purchase OTO1 (DFY) or OTO1 Downsell (DFY Lite)
 **Timing:** Days 3, 5, and 7 after purchase
 **Send Time:** 2:00 PM (Welcome sequence sends at 8:00 AM — avoids stacking)
 **Goal:** Recover 5-10% of missed OTO revenue
 
 ---
 
-## Email 1: Day 3 — "Most people do this alone"
+## Email 1: Day 3 — "The gap between knowing and having"
 
-**Subject:** Most people do this alone (you don't have to)
+**Subject:** You have the system. But do you have YOUR offer built?
 
 **Body:**
 
@@ -33,62 +34,59 @@ Hey [NAME],
 
 Quick observation after helping hundreds of coaches:
 
-Most people buy the system, get excited, start the extraction... and then stall.
+Most people buy the system, start the extraction... and then stall.
 
-Not because the system doesn't work. Because they're doing it alone.
+Not because the system doesn't work. Because there's a gap between "knowing what a good offer looks like" and "having YOUR offer actually built out."
 
-They second-guess their answers. They wonder if they're on the right track. They get stuck in their heads.
+The prompts give you the framework. But writing your own ICP, your own offer doc, your own landing page copy? That takes time. And second-guessing.
 
-That's why I created the Client Ready Sprint.
+That's why I built the DFY Offer Build.
 
-**4 weeks. Weekly calls. Direct access. $297 one-time.**
+**You answer 8 questions. We build everything for you. $197 one-time.**
 
-What you get:
-- Weekly group calls with me (4 sessions)
-- Direct chat access during the sprint
-- Accountability check-ins
-- Hot seat feedback on YOUR funnel
-- Skool community access
+What you get back in 48 hours:
+- Complete Ideal Client Profile
+- Full Offer Document (problem, mechanism, stack, objections)
+- Landing Page Copy (ready to paste)
+- 5 Ad Hooks across awareness levels
 
-The promise: Launch your validated offer in 30 days — or I keep working with you until you do.
+I personally review every deliverable before it hits your inbox.
 
-If you work better with guidance than alone: [LINK]
+If you'd rather have it done than do it yourself: [LINK]
 
-If you prefer solo: keep going. The materials work either way.
+If you prefer DIY: keep going. The system works either way.
 
 Michael
 
 ---
 
-## Email 2: Day 5 — Sprint Success Story
+## Email 2: Day 5 — DFY Success Story
 
-**Subject:** From "maybe someday" to first client in 28 days
+**Subject:** She had the system for 3 weeks. Nothing happened. Then this.
 
 **Body:**
 
 Hey [NAME],
 
-Quick story about Marcus.
+Quick story.
 
-He'd been thinking about coaching for 2 years. Had the expertise (20 years in HR). Had the desire. Didn't have the offer.
+A coach bought the Client Ready system. Had the prompts. Had the extraction framework. Knew what to do.
 
-He joined the Sprint on a Wednesday.
+Three weeks later? Still staring at a half-finished offer doc.
 
-Week 1: We extracted his zone of genius — not "HR coaching" but "executive transition support for first-time VPs"
+Not because she was lazy. Because she kept second-guessing her answers. "Is this specific enough?" "Am I targeting the right person?" "Does this landing page copy sound like me?"
 
-Week 2: Built his offer doc and landing page
+Sound familiar?
 
-Week 3: Launched to his LinkedIn network
+She finally grabbed the DFY build. Answered the questionnaire in 12 minutes. Got her complete offer package back in 48 hours.
 
-Week 4: Closed his first client
+Her words: "I spent 3 weeks overthinking what took you 2 days to build."
 
-Total time in the Sprint: 28 days.
+**The difference wasn't information. She had that. The difference was having someone build it for her.**
 
-The difference wasn't information. He had plenty of courses. The difference was someone watching, giving feedback, and keeping him moving.
+[TESTIMONIAL PLACEHOLDER — replace with real DFY client result when available]
 
-**Next Sprint starts [DATE].**
-
-If you want in: [LINK]
+If "done for you" sounds better than "stuck in my head": [LINK]
 
 If not: no pressure. Keep using what you have.
 
@@ -96,35 +94,38 @@ Michael
 
 ---
 
-## Email 3: Day 7 — "What if I just built your strategy for you?"
+## Email 3: Day 7 — "What 48 hours could save you"
 
-**Subject:** What if I just built your strategy for you?
+**Subject:** What 48 hours could save you
 
 **Body:**
 
 Hey [NAME],
 
-Real talk.
+Last email about this.
 
-Some people have time to figure out their funnel strategy. Some people have money to save time.
+Here's what I see happen without the DFY build:
 
-If you're in the second category — and you want your complete funnel strategy DONE, not just planned — there's an option I didn't push hard on the checkout page:
+- Week 1: Start the extraction. Feel good.
+- Week 2: Get stuck on the ICP. Who exactly am I targeting?
+- Week 3: Draft landing page copy. Delete it. Start over.
+- Week 4: Still don't have anything live.
 
-**Client Ready Blueprint: $397**
+Here's what happens with it:
 
-Here's what happens:
-- Day 1-3: You fill out a custom onboarding form
-- Week 1-2: I personally create your complete Blueprint (all 9 components)
-- Week 3: You receive a 100+ page custom bundle + GHL snapshot
-- Week 4: We do a 1-on-1 integration call — I walk you through exactly how to implement everything
+- Day 1: Answer 8 questions (10-15 minutes)
+- Day 2: I review your complete offer package
+- Day 3: You have your ICP, offer doc, landing page copy, and 5 ad hooks in your inbox
 
-The guarantee: Custom Blueprint delivered in 30 days — or I keep working until it's done.
+Same destination. Different timeline.
 
-I take 10 per month. That's a real limit — I do the work myself.
+**$197. 48-hour delivery. I review everything personally.**
 
-If "build my strategy for me" sounds better than "figure it out yourself": [LINK]
+Plus you get a 30-day trial of the Client Ready Community — weekly calls, DM access to me, and a room full of coaches building alongside you.
 
-If you'd rather build it: respect. Keep going.
+If you want the shortcut: [LINK]
+
+If you'd rather build it yourself: respect. Keep going.
 
 Michael
 
@@ -134,15 +135,12 @@ Michael
 
 ```
 IF purchased $47
-AND NOT purchased Sprint ($297)
-AND NOT purchased DFY ($397)
+AND NOT purchased DFY ($197)
+AND NOT purchased DFY Lite ($97)
 THEN send all 3 emails
 
-IF purchased Sprint but not Blueprint
-THEN send only Email 3 (Blueprint pitch)
-
-IF purchased Blueprint
-THEN skip this sequence entirely
+IF purchased DFY or DFY Lite at any point
+THEN exit this sequence immediately
 ```
 
 ---
@@ -151,17 +149,17 @@ THEN skip this sequence entirely
 
 This sequence runs AFTER the welcome sequence starts but doesn't conflict:
 
-| Day | Welcome Sequence | OTO Recovery |
+| Day | Welcome Sequence | DFY Recovery |
 |-----|------------------|--------------|
 | 1 | Welcome + Quick Win | — |
 | 2 | Your Story | — |
-| 3 | Case Study + Bump | **Most people do this alone** |
+| 3 | Case Study + Bump | **You have the system. But do you have YOUR offer built?** |
 | 4 | Mistake + Templates | — |
-| 5 | Quick Tip | **Sprint Success Story** |
+| 5 | Quick Tip | **She had the system for 3 weeks. Nothing happened.** |
 | 6 | Transformation + Sprint | — |
-| 7 | Behind the Scenes | **What if I built your strategy?** |
+| 7 | Behind the Scenes | **What 48 hours could save you** |
 
-Note: Day 6 welcome email also pitches Sprint. If they buy from that, remove them from OTO recovery.
+Note: Day 5 welcome email also has a soft DFY P.S. If they buy from that, remove them from DFY recovery.
 
 ---
 
@@ -171,6 +169,6 @@ Note: Day 6 welcome email also pitches Sprint. If they buy from that, remove the
 |--------|--------|
 | Open rate | 30-40% |
 | Click rate | 2-4% |
-| Sprint recovery | 3-5% |
-| Blueprint recovery | 1-3% |
-| Revenue per 100 buyers | $100-200 additional |
+| DFY recovery | 3-5% |
+| DFY Lite recovery | 1-3% (via downsell on DFY page) |
+| Revenue per 100 buyers | $80-150 additional |

@@ -1,15 +1,15 @@
 ---
 type: output
 status: draft
-date: 2026-02-08
-product: OTO 1 - Client Ready Sprint
+date: 2026-03-07
+product: OTO 1 - DFY Offer Build
 format: Full Page Copy (Developer Ready)
-price: $297
+price: $197
 updated_from: 2026-02-08
-changes: Simplified to single Sprint option at $297. Removed self-paced option. One yes/no decision per Miles Stutz/Cat Howell OTO best practices.
+changes: Replaced Client Ready Sprint ($297, 4-week course + live coaching) with DFY Offer Build ($197, AI-powered done-for-you offer build with Michael's review). New delivery model, new price, new structure.
 ---
 
-# OTO 1: Client Ready Sprint — Full Page Copy
+# OTO 1: DFY Offer Build — Full Page Copy
 
 Complete page copy in order. Ready for developer implementation.
 
@@ -25,165 +25,162 @@ Your order is processing. Watch the message below while we set up your access.
 
 **ONE STEP FURTHER**
 
-# LAUNCH YOUR VALIDATED OFFER IN 30 DAYS — WITH MY COMPLETE SYSTEM AND LIVE SUPPORT
+# GET YOUR COMPLETE OFFER BUILT FOR YOU — DELIVERED IN 48 HOURS
 
-Get the complete funnel system, weekly calls with me, and direct access for 4 weeks. I'll help you go from offer document to live funnel generating customers — or I keep working with you until you do.
+You answer 8 questions. We build your ICP document, offer document, landing page copy, and 5 ad hooks. Michael reviews every deliverable before it hits your inbox.
 
-**This is a one-time offer. It won’t appear again after you leave this page.**
+**This is a one-time offer. It won't appear again after you leave this page.**
 
 ---
 
 ## [PRODUCT IMAGE]
 
-*[Display Client Ready Sprint product mockup with components visible]*
+*[Display DFY Offer Build product mockup with deliverables visible]*
 
 **Components shown:**
-- Zone of Genius Extraction
-- AI Landing Page Generator
-- THE CLIENT READY SPRINT (center)
-- Traffic Generation Playbook
-- A/B Testing Frameworks
-- Client Onboarding System
+- ICP Document
+- Offer Document
+- Landing Page Copy
+- 5 Ad Hook Variations
 
 ---
 
 ## [OPENING COPY]
 
-Michael here...
+Michael here.
 
-You just picked up the Client Ready Offer — the system for extracting and validating your offer.
+You just picked up the Client Ready Offer System — the system for validating your offer.
 
-But here's what I've learned: **knowing what makes a clear offer and actually getting it in front of people are two different things.**
+Here's what I know: **there's a gap between having a system and having YOUR offer actually built.**
 
-Most people spend weeks building funnels, writing sequences, and setting up systems after they validate. Many never launch at all.
+The system shows you what a clear offer looks like. But you still have to extract it from your head, write the copy, build the positioning, and craft hooks that stop the scroll.
 
-Here's my honest interest in this: **I need you to succeed** — otherwise I can't build case studies or get referrals from your results.
+Most people stall right there. Not because they're lazy. Because extracting your own offer is like trying to read the label from inside the bottle.
 
-So I asked myself: **"How do I make sure people actually launch?"**
+Here's my honest interest in this: **I need you to succeed.** I can't build case studies or get referrals from people who bought a system and never used it.
 
-The answer: **Give them a complete funnel system AND work with them live for 4 weeks.**
+So I built something specifically for this gap.
 
-That's the **Client Ready Sprint**. Instead of building everything yourself...
+**The DFY Offer Build.** You fill out an 8-question questionnaire — takes about 10-15 minutes. Then my AI system extracts your positioning, builds your deliverables, and I personally review every output before it goes to you.
 
-...you copy my complete funnel system and go from validated offer to **live funnel generating customers** — instead of spending weeks building from scratch.
+You get a complete, working offer — not a template. YOUR offer. Built from YOUR answers. Reviewed by me. Delivered in 48 hours.
 
-**And you don't do it alone.** Weekly calls, direct chat access, hot seat feedback on YOUR funnel, and a community of coaches building alongside you.
+No guessing. No staring at a blank page. No "I'll get to it this weekend."
+
+**Done.**
 
 ---
 
 ## [WHAT'S INCLUDED HEADER]
 
-# THE CLIENT READY SPRINT INCLUDES EVERYTHING YOU NEED TO LAUNCH YOUR VALIDATED OFFER IN 30 DAYS...
+# HERE'S WHAT GETS BUILT FOR YOU — FROM YOUR ANSWERS, REVIEWED BY MICHAEL, DELIVERED IN 48 HOURS...
 
 ---
 
-## [CORE OFFER]
+## [DELIVERABLE #1]
 
-### Get My Profit Sales Funnel
+### Your ICP Document
 
-The exact sales funnel templates I use — landing page, checkout, email sequences. Replace the fill-in-the-blanks with your offer details and you're live. No building from scratch.
-
----
-
-## [BONUS #1]
-
-### BONUS #1: The Zone of Genius Extraction Framework
-
-Extract what makes you uniquely valuable, package it into high-converting offers people MUST have, and get all the sales copy, pages, and slides needed to sell them.
+A clear, simple profile of your ideal client — who they are, what they want, what's stopping them, and the specific language they use to describe their problem. This is the foundation everything else is built on. Without it, your offer talks to everyone and converts no one.
 
 ---
 
-## [BONUS #2]
+## [DELIVERABLE #2]
 
-### BONUS #2: AI Landing Page Generator
+### Your Offer Document
 
-My proven AI prompts that creates your landing page copy in minutes (not days!) that converts skeptical prospects into buyers for your medium and high ticket offers.
-
----
-
-## [BONUS #3]
-
-### BONUS #3: Traffic Generation Playbook
-
-Complete playbook on how to generate traffic from organic and paid content that converts curious prospects into medium and high-ticket clients.
+Your validated offer — extracted, structured, and positioned. What you sell, who it's for, what makes it different, and why someone should buy it today. Written in language your market actually responds to. Not theory. A working document you can hand to anyone and they instantly understand what you do.
 
 ---
 
-## [BONUS #4]
+## [DELIVERABLE #3]
 
-### BONUS #4: A/B Testing Frameworks & Strategies
+### Your Landing Page Copy
 
-Use my exact templates to quickly test your offer and funnel to see what's converting and what to focus on to optimize and scale it further.
-
----
-
-## [BONUS #5]
-
-### BONUS #5: Client Onboarding System and Delivery Frameworks
-
-Complete technical setup for quickly onboarding your clients, getting paid, and how best to deliver your coaching services without the overwhelm.
+Complete landing page copy — headline, subheadline, body, bullet points, CTA. Ready to drop into any page builder. Written specifically for your offer and your audience. Not a fill-in-the-blank template. Actual copy built from your ICP and offer docs.
 
 ---
 
-## [FAST-ACTION BONUS]
+## [DELIVERABLE #4]
 
-### BONUS: One-Click Campaign Templates That Scale
+### 5 Ad Hook Variations
 
-Ready-to-launch campaign templates you can deploy immediately. Just plug in your offer and go.
+Five tested hook angles for your offer — ready to run as ads, post as organic content, or use in DMs. Each one hits a different pain point or desire from your ICP document. You test all five, find the one that hits, and scale it.
 
 ---
 
-## [LIVE SUPPORT SECTION]
+## [HOW IT WORKS]
 
-## PLUS: 4 WEEKS OF LIVE SUPPORT TO MAKE SURE YOU ACTUALLY LAUNCH
+## HERE'S HOW IT WORKS — 3 STEPS
 
-✅ **Weekly group calls with Michael** (4 sessions) — hot seats, feedback, troubleshooting
+**Step 1: Fill Out the Questionnaire (10-15 minutes)**
 
-✅ **Direct chat access** during the sprint — get unstuck fast
+Eight questions about your expertise, your audience, and what you deliver. Be specific. The better your answers, the sharper your deliverables. That's it — this is the only work you do.
 
-✅ **Accountability check-ins** — stay on track, no drifting
+**Step 2: AI + Michael Build Your Offer**
 
-✅ **Hot seat feedback on YOUR funnel** — I review your pages, your copy, your ads
+My AI system extracts your positioning and builds all four deliverables from your answers. Then I personally review every output — the ICP, the offer doc, the landing page copy, the hooks. Nothing ships until I sign off on it.
 
-✅ **Skool Community Access** — private support community with other coaches building alongside you
+**Step 3: Delivered in 48 Hours**
+
+You get all four deliverables in your inbox within 48 hours. Ready to use. Ready to test. Ready to validate with real people.
+
+---
+
+## [PLUS SECTION]
+
+## PLUS: 30-DAY FREE COMMUNITY TRIAL
+
+Your DFY Offer Build includes a **30-day free trial** of the Client Ready Community ($97/mo after).
+
+Why? Because having the assets is step one. Deploying them is step two.
+
+Inside the community you get:
+
+- Feedback on your deliverables from Michael and other coaches
+- Support when you're running your first ads or sending your first DMs
+- A place to ask "is this working?" and get a straight answer
+- Other coaches at your stage building alongside you
+
+The assets get you clear. The community helps you stay clear while you test, validate, and iterate.
+
+*Cancel anytime. No obligation after 30 days.*
 
 ---
 
 ## [RESULTS SECTION]
 
-## HERE'S WHAT YOU'RE GETTING:
+## AFTER 48 HOURS, YOU'LL HAVE:
 
-✅ Launch your validated offer with a complete funnel — not just a document
-
-✅ Copy my tested funnel system — landing page, emails, checkout
-
-✅ Skip the headaches — templates and copy done for you
-
-✅ Skip months of trial and error
-
-✅ Start generating customers — even as a beginner
-
-✅ A system that sells your offer for you
-
-✅ 4 weeks of live coaching to make sure you actually launch
+- A clear ICP document — you know exactly who you're talking to
+- A complete offer document — you can explain what you sell in 30 seconds
+- Landing page copy ready to go live today
+- 5 ad hooks ready to test this week
+- A 30-day community trial for support while you deploy
+- Zero guesswork about what to say or who to say it to
 
 ---
 
 ## [PROOF SECTION]
 
-*[Section removed — add real Sprint member testimonials when available.]*
+*[Placeholder — add real DFY Offer Build client results when available. Target: collect first testimonials after 10 completed builds.]*
 
 ---
 
-## [WHO IT'S FOR SECTION]
+## [WHO IT'S FOR / NOT FOR]
 
-## THIS IS PERFECT FOR:
+## THIS IS FOR YOU IF:
 
-— Entrepreneurs who want to skip the DIY phase and go straight to profits
+- You have real expertise but struggle to extract it into a clear offer
+- You'd rather have it built from your answers than stare at templates for a week
+- You want a proven system to do the heavy lifting — not another course to watch
+- You're ready to test your offer with real people, not just think about it
 
-— Coaches who prefer proven systems over trial, error and tech headaches
+## THIS IS NOT FOR YOU IF:
 
-— Anyone ready to invest in speed and certainty over slow building
+- You don't have a skill or expertise to build an offer around yet
+- You want someone to invent an offer from nothing — this extracts what's already in your head
+- You're looking for a "set it and forget it" solution — you still have to deploy and test
 
 ---
 
@@ -191,62 +188,46 @@ Ready-to-launch campaign templates you can deploy immediately. Just plug in your
 
 **NEW MEMBER ONE TIME OFFER:**
 
-# GET INSTANT ACCESS TO THE COMPLETE CLIENT READY SPRINT
+# GET YOUR COMPLETE OFFER BUILT FOR YOU IN 48 HOURS
 
-*[Product mockup image with coaching elements visible]*
+*[Product mockup image with 4 deliverables visible]*
 
-### The Client Ready Sprint — 4 Weeks to Launch
+### The DFY Offer Build
 
-*Complete system + live support to launch your validated offer in 30 days*
+*Your offer extracted, built, and reviewed — delivered in 48 hours*
 
 **Here's What You're Getting:**
 
-✅ Complete Client Ready Sprint system (5 modules)
-
-✅ Zone of Genius Extraction Framework
-
-✅ AI Landing Page Generator
-
-✅ Traffic Generation Playbook
-
-✅ A/B Testing Frameworks
-
-✅ Client Onboarding System
-
-✅ One-Click Campaign Templates
-
-✅ Weekly group calls with Michael (4 sessions)
-
-✅ Direct chat access during the sprint
-
-✅ Accountability check-ins
-
-✅ Hot seat feedback on YOUR funnel
-
-✅ **Skool Community Access** — private support community
+- ICP Document — your ideal client, clearly defined
+- Offer Document — your validated offer, structured and positioned
+- Landing Page Copy — complete, ready to deploy
+- 5 Ad Hook Variations — tested angles, ready to run
+- Michael's personal review on every deliverable
+- 48-hour delivery
+- 30-day free Client Ready Community trial ($97/mo value)
 
 ---
 
-**GUARANTEE:** Launch your validated offer in 30 days — or Michael keeps working with you until you do.
+**Hiring a copywriter to build this? $2,000-$5,000. And they'll still need you to explain your offer first.**
+
+This extracts it from you, builds it, and delivers it — reviewed by Michael — for a fraction of that.
 
 ---
-
-**REGULAR PRICE: $497**
 
 Yours Today - Just One Payment Of
 
-# $297 ONE-TIME
+# $197 ONE-TIME
 
-*Not a subscription. 4 weeks of live support. Done.*
+*Not a subscription. Not a course. Done-for-you deliverables in your inbox within 48 hours.*
 
-**[YES! I WANT THE CLIENT READY SPRINT →]**
-*ADD SPRINT TO MY ORDER*
+**[YES! BUILD MY OFFER FOR ME -->]**
+*ADD DFY OFFER BUILD TO MY ORDER*
 
 ---
 
 ## [DECLINE LINK]
 
-No Thanks! I'll Stick With The Client Ready Offer and Go The Next Route!
+No thanks, I'll build everything myself.
 
 ---
 
@@ -256,9 +237,9 @@ No Thanks! I'll Stick With The Client Ready Offer and Go The Next Route!
 
 ### 100% Money-Back Guarantee
 
-Use the system. Complete the sprint. If you don't have a validated offer ready to sell within 30 days, email me and I'll refund every penny. No questions asked.
+If you fill out the questionnaire and I don't deliver all four assets within 48 hours, I'll refund every penny. Simple.
 
-**Launch in 30 days or I keep working with you until you do.**
+**You do 15 minutes of work. I deliver a complete offer. That's the deal.**
 
 ---
 
@@ -272,60 +253,60 @@ Use the system. Complete the sprint. If you don't have a validated offer ready t
 
 ## Key Implementation Points
 
-1. **ONE option only** — $297 one-time. No self-paced. No choice. Clean yes/no.
+1. **ONE option only** — $197 one-time. Clean yes/no. No variations.
 
-2. **$297 is ONE-TIME** — NOT a subscription. This is critical. Add the line: "Not a subscription. 4 weeks of live support. Done."
+2. **$197 is ONE-TIME** — NOT a subscription. Not a course. Add the line: "Not a subscription. Not a course. Done-for-you deliverables in your inbox within 48 hours."
 
-3. **Skool Community Access** is included (Sprint is the only option now).
+3. **30-day community trial** is included. After 30 days, $97/mo. Make this clear but not the focus — the deliverables are the focus.
 
-4. **Proof section:** Only include if real testimonials are available. Remove entirely otherwise.
+4. **Proof section:** Placeholder only. Add real results once 10+ builds are completed. Remove section entirely until then.
 
-5. **Product name throughout:** "Client Ready Sprint" (not "High Ticket Playbook")
+5. **Product name throughout:** "DFY Offer Build" (not "Client Ready Sprint")
 
-6. **Bonus #1 name:** "Zone of Genius Extraction Framework" (not "Unfair Advantage")
+6. **If buyer declines ($197):** Route to downsell page — DFY Lite at $97. That is a separate file.
+
+7. **Questionnaire:** Must be built in GHL. 8 questions. Triggered immediately after purchase.
+
+8. **Delivery mechanism:** Deliverables sent via email or GHL portal within 48 hours of questionnaire completion.
 
 ## Price Summary
 
 | Item | Amount |
 |------|--------|
-| List Price | $497 |
-| **Charged** | **$297** |
+| **Charged** | **$197** |
+| Copywriter alternative (anchored) | $2,000-$5,000 |
+| Community trial included | 30 days free, then $97/mo |
 
-**GHL implementation:** Set OTO price to $297.
+**GHL implementation:** Set OTO price to $197.
 
 ## Button Actions
 
-- Sprint button → Add $297 OTO to cart
-- Decline link → Skip to next page (OTO 2 or thank you)
+- DFY button --> Add $197 OTO to cart, trigger questionnaire delivery
+- Decline link --> Route to DFY Lite downsell page ($97)
 
-## A/B Test Consideration
+## A/B Test Ideas
 
 Consider testing:
-- With proof section vs without (once testimonials available)
-- Shorter page (remove some bonuses) vs current length
-- Video vs no video in hero
+- "Built for you" vs "Done for you" in headline language
+- With/without the price anchor comparison to copywriters
+- Video walkthrough of sample deliverables vs static mockup
+- Shorter page (cut Who It's For section) vs current length
+- 48-hour delivery emphasis vs quality/review emphasis in hero
 
 ---
 
-## CHANGES FROM PREVIOUS VERSION (2026-02-01 → 2026-02-08)
+## CHANGES FROM PREVIOUS VERSION (2026-02-08 --> 2026-03-07)
 
 | What Changed | Old | New |
 |-------------|-----|-----|
-| Hero headline | "TAKE YOUR NO-PHONE OFFER FROM DOCUMENT TO LIVE FUNNEL" | "LAUNCH YOUR VALIDATED OFFER IN 30 DAYS" |
-| Hero sub-headline | "selling without sales calls" | "live funnel generating customers" |
-| Product image components | "No-Phone Offer Funnel System" + "30-Day Email Sequence" | "Zone of Genius Extraction" (matches creative mockup) |
-| Opening copy | "build a No-Phone Offer that sells without a sales call" | "build a validated offer that's clear enough to sell itself" |
-| Opening copy | "Give them my complete done-for-you system" | "Give them my complete system AND work with them live for 4 weeks" |
-| What's Included header | "LAUNCH YOUR NO-PHONE OFFER AS FAST AS POSSIBLE" | "LAUNCH YOUR VALIDATED OFFER IN 30 DAYS" |
-| Results section | 6 checkmarks | 7 checkmarks (added "4 weeks of live coaching") |
-
-## CHANGES (2026-02-08 — Single Option Simplification)
-
-| What Changed | Old | New |
-|-------------|-----|-----|
-| Options | 2 options (Self-Paced $70 / Sprint $270) | 1 option (Sprint $297 only) |
-| Rationale | Per Miles Stutz: OTOs should be yes/no, not comparison. Cat Howell: "Add upsells sequentially, not multiple at once." Self-paced buyers don't implement → no testimonials → hurts flywheel. |
-| Hero headline | "WANT TO TAKE YOUR CLIENT READY OFFER FROM DOCUMENT TO LIVE FUNNEL" | "LAUNCH YOUR VALIDATED OFFER IN 30 DAYS — WITH MY COMPLETE SYSTEM AND LIVE SUPPORT" |
-| Live support | Buried in Option 2 box | Dedicated section + woven into hero and opening copy |
-| Offer box | Two side-by-side boxes | Single box with full checklist |
-| Self-paced product | Still exists as deliverable (modules 1-5) | Included in Sprint — buyers get both system + support |
+| Product | Client Ready Sprint (4-week course + live coaching) | DFY Offer Build (AI-powered, Michael-reviewed) |
+| Price | $297 | $197 |
+| Delivery model | 4-week course with weekly calls, direct chat, accountability | 8-question questionnaire, AI build, Michael review, 48-hour delivery |
+| What's included | 5 modules, 6 bonuses, 4 weeks live support, Skool access | 4 deliverables (ICP doc, offer doc, landing page copy, 5 ad hooks) + 30-day community trial |
+| Marginal cost | High (Michael's time every week for 4 weeks) | Near-zero (~$0.15-0.30 per AI generation + ~10 min review) |
+| Hero headline | "LAUNCH YOUR VALIDATED OFFER IN 30 DAYS" | "GET YOUR COMPLETE OFFER BUILT FOR YOU — DELIVERED IN 48 HOURS" |
+| Opening copy angle | "Knowing vs doing" — gap between system and launch | "System vs YOUR offer" — gap between having templates and having your offer built |
+| Community access | Full Skool access included | 30-day free trial ($97/mo after) |
+| Guarantee | "Launch in 30 days or I keep working with you" | "All 4 assets delivered in 48 hours or full refund" |
+| Decline route | Next OTO or thank you page | DFY Lite downsell page ($97) |
+| Strategic intent | Complete launch system + accountability | Strategically incomplete — gives assets, creates awareness that community support is needed to deploy them |

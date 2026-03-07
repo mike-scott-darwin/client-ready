@@ -60,10 +60,10 @@ Every email follows the same structure:
 |-----|-------|-------|-----------|-----|
 | Monday | Front-end | $47 | "Get the System" | https://clientreadyoffer.com/implement |
 | Tuesday | Templates | $67 | "Get the Templates" | https://clientreadyoffer.com/implement |
-| Wednesday | Sprint | $297 | "Join the Sprint" | https://clientreadyoffer.com/croto1-sp |
-| Thursday | Blueprint | $397 | "Get your Blueprint" | https://clientreadyoffer.com/croto2-sp |
+| Wednesday | DFY Offer Build | $197 | "Get it built for you" | https://clientreadyoffer.com/croto1-dfy |
+| Thursday | Community | $97/mo | "Join the Community" | https://www.skool.com/high-ticket-playbook-9467/about |
 | Friday | Accelerator | $5K | "Reply BUILD" | Reply trigger (no link) |
-| Saturday | Community | $47/mo | "Join the Community" | https://www.skool.com/high-ticket-playbook-9467/about |
+| Saturday | Newsletter | $37/mo | "Get What's Working Now" | https://clientreadyoffer.com/newsletter |
 | Sunday | Free value | — | "Reply and tell me" | Reply trigger (no link) |
 
 **Note:** Friday's backend pitch is soft (reply trigger, not direct link). This qualifies serious buyers.
@@ -146,7 +146,7 @@ Michael
 
 ---
 
-### Wednesday — Sprint ($297)
+### Wednesday — DFY Offer Build ($197)
 
 **Subject:** The difference between "knowing" and "doing"
 
@@ -164,55 +164,48 @@ So why don't people do it?
 
 Because knowing isn't doing.
 
-Doing requires:
-- Structure (what happens when)
-- Accountability (someone watching)
-- Feedback (am I on track?)
+You have the extraction prompts. You know what a good offer looks like. But your ICP doc is half-finished. Your landing page is blank. Your ad hooks don't exist.
 
-That's the Sprint.
+The DFY Offer Build fixes this in 48 hours.
 
-Not more information. Implementation with someone in your corner.
+You answer 8 questions (10-15 minutes). I build your complete offer package — ICP, offer doc, landing page copy, 5 ad hooks. Reviewed by me personally before it hits your inbox.
 
-4 weeks. Weekly calls. Direct access. $297 one-time.
+$197 one-time. 48-hour delivery.
 
-You come in with your offer doc. You leave with a launched funnel.
-
-If you've been "knowing" for a while and want to start "doing": https://clientreadyoffer.com/croto1-sp
+If you've been "knowing" for a while and want to start "having": https://clientreadyoffer.com/croto1-dfy
 
 Michael
 
 ---
 
-### Thursday — Blueprint ($397)
+### Thursday — Community ($97/mo)
 
-**Subject:** Some people have time. Some people have money.
+**Subject:** The loneliest part of building
 
 ---
 
-Real talk.
+Here's what nobody tells you about building a coaching business:
 
-Some people have time but not money. They should build things themselves.
+It's lonely.
 
-Some people have money but not time. They should pay someone to create the strategy.
+Your friends don't get it. Your family thinks you should "just get a real job." The online gurus make it look easy while you're struggling.
 
-Neither is better. It's just knowing which category you're in.
+You don't need more courses. You need people who are in it with you.
 
-If you have 5-10 hours a week to dedicate to building your funnel, the Sprint is perfect. You'll learn and you'll save money.
+That's the Client Ready Community.
 
-If you're slammed — full-time job, kids, life — and you want your complete funnel strategy DONE, not "in progress"... that's what the Blueprint is for.
+Not a course. Not a program. A room full of coaches building their offers, sharing what works, and asking "is this right?"
 
-I create your complete custom funnel strategy in 30 days:
-- Offer extraction + positioning
-- Landing page copy
-- Email sequences
-- Ad creative direction
-- All 9 components + GHL snapshot
+What you get:
+- Weekly hot seat calls with me (live)
+- Sprint curriculum (Extract → Validate → Build → Launch)
+- DFY templates of the month
+- DM access to me
+- See what's working for others in real-time
 
-You fill out an onboarding form. I build your strategy. You implement.
+$97/month. Cancel anytime. No contracts.
 
-$397. Limited to 10/month (real limit — I do the work).
-
-If "build my strategy for me" sounds better than "I'll figure it out": https://clientreadyoffer.com/croto2-sp
+If building alone is getting old: https://www.skool.com/high-ticket-playbook-9467/about
 
 Michael
 
@@ -224,7 +217,7 @@ Michael
 
 ---
 
-Most of my emails are about the $47-$397 range.
+Most of my emails are about the $47-$197 range.
 
 Today's different.
 
@@ -246,7 +239,7 @@ What you get:
 - Traffic and scaling strategy
 - Ongoing support until you hit your revenue goal
 
-This isn't for everyone. Most people should stay in the $47-$397 range until they've proven the offer.
+This isn't for everyone. Most people should stay in the $47-$197 range and the community until they've proven the offer.
 
 But if you're past that stage and want a partner, not a product...
 
@@ -260,29 +253,30 @@ P.S. — No pressure. No sales call if you're not ready. Just a conversation.
 
 ---
 
-### Saturday — Community ($47/mo)
+### Saturday — Newsletter ($37/mo)
 
-**Subject:** The loneliest part of building
+**Subject:** What's working right now
 
 ---
 
-Here's what nobody tells you about building a coaching business:
+The market changes fast.
 
-It's lonely.
+What converted last month might not convert this month. The hook that worked in January is saturated by March.
 
-Your friends don't get it. Your family thinks you should "just get a real job." The online gurus make it look easy while you're struggling.
+Most coaches are building off last year's playbook. They wonder why results dip.
 
-You don't need more courses. You need people who are in it with you.
+That's why I put together "What's Working Now" — a monthly deep-dive on what's actually converting right now for Client Ready members.
 
-That's the Skool community.
+Each month you get:
+- A breakdown of a tested offer, funnel, or strategy
+- Templates and swipe files from real campaigns
+- What I'm seeing work across different niches
 
-Not a course. Not a program. Just a room full of coaches building their offers, sharing what works, and asking "is this right?"
+Not theory. Not predictions. What's working today.
 
-Weekly hot seats. Direct access to me. See what's working for others in real-time.
+$37/month. Cancel anytime. Delivered to your inbox on the 1st.
 
-$47/month. First month is $1 to try it.
-
-If building alone is getting old: https://www.skool.com/high-ticket-playbook-9467/about
+If you want to stay current instead of guessing: https://clientreadyoffer.com/newsletter
 
 Michael
 
@@ -349,7 +343,7 @@ When someone replies "BUILD":
 1. Ask about their current situation
 2. Qualify (do they have a validated offer?)
 3. If yes, book a call or send Loom walkthrough
-4. If no, point them to Sprint first
+4. If no, point them to DFY or community first
 
 ---
 
@@ -384,9 +378,9 @@ As buyers ascend, remove them from pitches for products they own:
 | Bought | Stop Pitching |
 |--------|---------------|
 | Templates ($67) | Tuesday emails skip offer section |
-| Sprint ($297) | Wednesday emails skip offer section |
-| Blueprint ($397) | Thursday emails skip offer section |
-| Community ($47/mo) | Saturday emails skip offer section |
+| DFY ($197) | Wednesday emails skip offer section |
+| Community ($97/mo) | Thursday emails skip offer section |
+| Newsletter ($37/mo) | Saturday emails skip offer section |
 | Accelerator ($5K) | Friday emails become value-only |
 
 **Tag-based logic in your email tool.** The story stays; just swap the CTA.

@@ -25,8 +25,8 @@ Research across 6+ practitioners shows ascension probability peaks in the first 
 
 Hard upsell pitches are still handled by parallel recovery sequences:
 - Bump Recovery (Days 2, 4, 6) → missed bumps
-- OTO Recovery (Days 3, 5, 7) → Sprint/DFY
-- Community Recovery (Day 8) → OTO 3 downsell
+- OTO Recovery (Days 3, 5, 7) → DFY Offer Build ($197)
+- Community Recovery (Day 8) → Community ($97/mo)
 
 Day 3 branches based on product consumption — different emails for openers vs non-openers.
 
@@ -43,11 +43,11 @@ See `decisions/2026-02-14-ecosystem-architecture-iron-strike.md` for full ration
 | 3a | Now that you've started... | Advanced tips (if opened product) | Consumption branch |
 | 3b | Haven't started yet? | Quick start (if NOT opened product) | Consumption branch |
 | 4 | The mistake that cost me 6 months | Common mistake | — |
-| 5 | The 2-minute test for your offer | Quick tip | Soft close (Sprint) |
+| 5 | The 2-minute test for your offer | Quick tip | Soft close (DFY) |
 | 6 | From stuck to first client in 30 days | Transformation story | — |
-| 7 | What my morning actually looks like | Behind the scenes | Soft close (Sprint/Blueprint) |
+| 7 | What my morning actually looks like | Behind the scenes | Soft close (DFY) |
 | 8 | "What if I'm not ready?" | FAQ / objection | — |
-| 9 | What happens after $47 | The roadmap | Explicit CTA (Sprint vs Blueprint) |
+| 9 | What happens after $47 | The roadmap | Explicit CTA (DFY) |
 | 10 | Come hang out | Community invite | — |
 
 ---
@@ -234,7 +234,7 @@ Try it today. Let me know what happens.
 
 Michael
 
-P.S. — If you've done the test and your offer passed, you're ahead of most people. The next step is building the system around it. That's what the Client Ready Sprint does — we build it together in 30 days.
+P.S. — If you've done the test and your offer passed, you're ahead of most people. The next step is getting it built out properly. That's what the DFY Offer Build does — we build your ICP, offer doc, landing page copy, and ad hooks for you. 48 hours, done.
 
 ---
 
@@ -300,7 +300,7 @@ That's what we're building together.
 
 Michael
 
-P.S. — This is what it looks like when the system runs. If you want help building yours, here's how: the Sprint is 4 weeks, done together. The Blueprint is done for you — I build the whole strategy. Either way, the goal is the same morning I just described.
+P.S. — This is what it looks like when the system runs. If you want help building yours, the DFY Offer Build creates your complete offer assets in 48 hours — ICP, offer doc, landing page copy, ad hooks. All built for you. That's the fastest path to the morning I just described.
 
 ---
 
@@ -371,11 +371,9 @@ Get the foundation right. Everything else gets easier.
 
 Michael
 
-P.S. — If you've finished Stage 1 and you're ready to move, here's the difference between the next steps:
+P.S. — If you've finished Stage 1 and you're ready to move, here's the fastest path:
 
-**The Sprint ($297)** — We build Stages 2-4 together over 4 weeks. Weekly calls, direct chat, accountability. Best if you want to do the work yourself with guidance.
-
-**The Blueprint ($397)** — I build your complete strategy, copy, and funnel template for you. Best if you want it done and ready to implement.
+**DFY Offer Build ($197)** — We build your ICP, offer doc, landing page copy, and 5 ad hooks for you. Fill out a 10-minute questionnaire, get everything back in 48 hours. Plus a 30-day community trial so you have support deploying it.
 
 No rush. But if you're feeling the momentum — that's the window to use it.
 
@@ -425,11 +423,11 @@ P.S. — Tomorrow you'll start getting my daily emails. Same format: story, offe
 | 3a | Advanced Tips | Buyers who opened product | Consumption branch |
 | 3b | Quick Start | Buyers who didn't open product | Consumption branch |
 | 4 | Common Mistake | All buyers | — |
-| 5 | Quick Tip | All buyers | Soft close P.S. |
+| 5 | Quick Tip | All buyers | Soft close P.S. (DFY) |
 | 6 | Transformation Story | All buyers | — |
-| 7 | Behind the Scenes | All buyers | Soft close P.S. |
+| 7 | Behind the Scenes | All buyers | Soft close P.S. (DFY) |
 | 8 | FAQ / Objection | All buyers | — |
-| 9 | The Roadmap | All buyers | Explicit CTA |
+| 9 | The Roadmap | All buyers | Explicit CTA (DFY) |
 | 10 | Community Invite | All buyers | — |
 
 **After Day 10:** Add to daily broadcast list.
@@ -444,8 +442,8 @@ These run alongside welcome — different sending times to avoid stacking:
 |----------|------|----------|---------|
 | Welcome | 1-10 | 8:00 AM | Relationship |
 | Bump Recovery | 2, 4, 6 | 2:00 PM | Re-pitch missed bumps |
-| OTO Recovery | 3, 5, 7 | 2:00 PM | Re-pitch Sprint/DFY |
-| Community Recovery | 8 | 2:00 PM | Downsell to $47/mo |
+| OTO Recovery | 3, 5, 7 | 2:00 PM | Re-pitch DFY ($197) |
+| Community Recovery | 8 | 2:00 PM | Community sign-up ($97/mo) |
 
 **Max 2 emails per day.** Morning = value. Afternoon = offer.
 

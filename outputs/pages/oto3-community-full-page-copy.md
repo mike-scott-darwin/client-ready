@@ -1,107 +1,122 @@
 ---
-type: output
+type: standalone-page
 status: draft
-date: 2026-02-08
-product: OTO 3 - Client Ready Community
+date: 2026-03-07
+product: Client Ready Community
 format: Full Page Copy (Developer Ready)
-price: $47/month ($1 first month)
+price: $97/month
+positioning: Central hub of the business. Standalone sign-up page for email-driven and portal-driven traffic. Community trials are bundled with DFY purchases — this page is for direct sign-ups at full price.
 updated_from: 2026-02-08
-changes: Initial draft. Only shown to buyers who declined OTO 1 (Sprint). Sprint buyers already have Skool access.
+changes: Complete rewrite. Community repositioned from $47/mo downsell OTO to $97/mo standalone core offer. Removed OTO framing, $1 trial, top bar, Sprint/Blueprint references. Added Sprint curriculum, DFY templates, DM access, Accelerator early access. New page structure for standalone use.
 ---
 
-# OTO 3: Client Ready Community — Full Page Copy
+# Client Ready Community — Full Page Copy
 
 Complete page copy in order. Ready for developer implementation.
 
 ---
 
-## [TOP BAR]
-
-Your order is processing. Watch the message below while we set up your access.
-
----
-
 ## [HERO SECTION]
 
-**PLAY THE VIDEO TO TURN ON SOUND**
+# BUILD ALONGSIDE COACHES WHO ARE ACTUALLY DOING IT
 
-# DON'T BUILD ALONE — GET WEEKLY COACHING, DIRECT ACCESS TO MICHAEL, AND A COMMUNITY OF COACHES BUILDING ALONGSIDE YOU
-
-Watch This Short Video To See What's Inside The Client Ready Community...
-
-*[VIDEO PLACEHOLDER]*
-
-Please Watch This Short Video In Full While Your Account Is Being Created.
-
----
-
-## [HEADLINE AFTER VIDEO]
-
-**NEW MEMBER ONE TIME OFFER:**
-
-# WHAT IF YOU HAD A COACH AND COMMUNITY IN YOUR CORNER — FOR JUST $1?
+You bought the system. Now build it with support, accountability, and direct access to Michael — every week.
 
 ---
 
 ## [OPENING COPY]
 
-Michael here...
+Michael here.
 
-Look, I get it. The Sprint wasn't the right fit right now.
+Courses don't work. You already know this.
 
-Maybe the timing's off. Maybe you want to work through the Client Ready Offer at your own pace first. That's completely fine.
+You buy the thing. You watch the videos. You get excited for about 48 hours. Then life happens. You get stuck on step three. You have a question nobody answers. You quietly stop.
 
-But here's what I don't want to happen: **you go at it alone and get stuck.**
+That's not a you problem. That's a structure problem.
 
-Because that's what kills momentum. Not lack of information — lack of support.
+Building an offer alone is slow. Building it with a room full of coaches doing the same thing — with someone who's done it reviewing your work every week — is fast.
 
-A question you can't answer. A landing page you're not sure about. An ad that's not converting and you don't know why.
+**The Client Ready Community is where the work actually gets done.**
 
-**That's where the Client Ready Community comes in.**
+It's not a course you watch. It's not a library you browse. It's a room you show up to. You bring your offer, your funnel, your copy, your questions. You get direct feedback. You watch other coaches solve the same problems you're facing. You leave with clarity.
 
-It's a private group of coaches all building their Client Ready funnels — with me showing up weekly to answer questions, review your work, and keep you moving forward.
+Every week.
 
-No 4-week commitment. No pressure. Just ongoing support for as long as you want it.
-
-And you can try it for just $1.
+That's the difference between "I'll get to it" and "it's done."
 
 ---
 
-## [WHAT'S INCLUDED HEADER]
+## [WHAT'S INSIDE HEADER]
 
-# HERE'S WHAT YOU GET INSIDE THE CLIENT READY COMMUNITY...
+# HERE'S WHAT'S INSIDE THE COMMUNITY
 
 ---
 
 ## [COMPONENT 1]
 
-### Weekly Group Hot Seat Calls With Michael
+### Weekly Hot Seat Calls With Michael (Live)
 
-Every week, I show up live. Bring your questions. Share your screen. Get direct feedback on your funnel, your copy, your ads — whatever you're working on. Everyone learns from everyone's hot seat.
+Every week, I show up live. You bring whatever you're working on. Your offer positioning. Your landing page. Your ad copy. Your outreach messages. I review it, tell you what's working, tell you what's not, and tell you exactly what to do next.
+
+You also learn from every other hot seat in the room. Different niches. Different stages. Same system.
 
 ---
 
 ## [COMPONENT 2]
 
-### DM Michael Directly
+### Sprint Curriculum — Extract, Validate, Build, Launch
 
-Got a quick question that can't wait for the next call? DM me inside Skool. I respond within 24 hours (usually faster). Use it when you're stuck, need a second opinion, or want feedback on something specific.
+The full 4-week Sprint path is inside the community, available from day one. Self-paced. Always accessible.
+
+**Week 1: Extract** — Pull the offer out of your head and onto paper. Clear positioning. Clear outcome. Clear price.
+
+**Week 2: Validate** — Test the offer before you build anything. Real conversations. Real feedback. Real data.
+
+**Week 3: Build** — Assemble the funnel. Landing page, email sequence, delivery system. All from templates.
+
+**Week 4: Launch** — Go live. First clients. First feedback. First revenue.
+
+Work through it at your own pace. Use the hot seat calls to get unstuck at any point in the process.
 
 ---
 
 ## [COMPONENT 3]
 
-### See What's Working For Other Coaches
+### DFY Templates of the Month
 
-The community is full of coaches at every stage — some just starting, some already generating clients. See their wins, their lessons, their funnels. Learn from what's working across different niches.
+Every month, I release tested assets from real campaigns. Landing page templates. Email sequences. Ad copy. DM scripts. Funnel snapshots.
+
+These aren't theoretical. They're pulled from what's working right now, cleaned up, and handed to you ready to install.
 
 ---
 
 ## [COMPONENT 4]
 
-### Resource Library
+### "What's Working Now" Breakdowns
 
-Templates, swipe files, frameworks — everything from the Client Ready ecosystem, organized and searchable. Grab what you need, when you need it.
+The landscape changes. What worked six months ago might not work today. Every month, I break down what's actually producing results — specific tactics, specific channels, specific approaches.
+
+No theory. No recycled advice. Just what's working now, from real campaigns.
+
+---
+
+## [COMPONENT 5]
+
+### DM Access to Michael
+
+Got a question that can't wait for the next call? Message me directly inside the community. I respond within 24 hours, usually faster.
+
+Use it when you're stuck, need a second opinion, or want a quick review before you hit publish.
+
+---
+
+## [COMPONENT 6]
+
+### Peer Accountability + Wins
+
+A room full of coaches building their offers, sharing what's working, asking for feedback, and posting wins. You see the full picture — the messy middle, the breakthroughs, the lessons.
+
+You also get early access to Accelerator spots when they open. Accelerator clients come from this room first.
 
 ---
 
@@ -109,76 +124,78 @@ Templates, swipe files, frameworks — everything from the Client Ready ecosyste
 
 ## THIS IS FOR YOU IF:
 
-✅ You want ongoing support while you build at your own pace
-
-✅ You'd rather have a coach to ask than figure everything out alone
-
-✅ You want to see what's working for other coaches in real-time
-
-✅ You're not ready for the Sprint but don't want to disappear into a void
+- You want weekly access to a coach while you build — not just a course to watch alone
+- You'd rather validate before you invest months building the wrong thing
+- You want proven templates you can install instead of starting from scratch every time
+- You're building alongside a day job and need a system that fits your actual schedule
+- You want to see what's working for other coaches across different niches, in real time
 
 ---
 
 ## THIS IS NOT FOR YOU IF:
 
-❌ You already have the Sprint (you already have community access)
-
-❌ You don't plan to build anything — this is for people who are actively working
-
-❌ You need done-for-you work (that's the Blueprint or Accelerator)
+- You're looking for a magic button — this requires you to show up and do the work
+- You don't have an offer idea yet and aren't willing to start the extraction process
+- You need someone to build everything for you — this is guided, not done-for-you
+- You're not willing to test and validate before scaling
 
 ---
 
 ## [OFFER BOX]
 
-**NEW MEMBER ONE TIME OFFER:**
-
 # JOIN THE CLIENT READY COMMUNITY
 
-*[Community mockup image — Skool interface with hot seat call, chat, resources]*
+*[Community mockup image — Skool interface showing hot seat call, Sprint curriculum, DFY templates, member wins]*
 
-### Never Build Alone
+### Everything You Need to Build, Validate, and Launch — With Support Every Step
 
-**Here's What You're Getting:**
+**Here's what's included:**
 
-✅ Weekly group hot seat calls with Michael
-
-✅ DM Michael directly for quick questions
-
-✅ See what's working for other coaches in real-time
-
-✅ Resource library (templates, swipes, frameworks)
-
-✅ A community of coaches building alongside you
+- Weekly hot seat calls with Michael (live)
+- Sprint curriculum — Extract, Validate, Build, Launch (self-paced)
+- DFY templates of the month (tested assets from real campaigns)
+- "What's Working Now" monthly breakdowns
+- DM access to Michael
+- Peer accountability and wins
+- Early access to Accelerator spots
 
 ---
 
-**Try it for $1.** If you love it, it's $47/month after that. Cancel anytime — no contracts, no hassle.
+**$97/month. Cancel anytime.**
 
-# JUST $1 FOR YOUR FIRST MONTH
+No contracts. No commitments. No annual lock-in. Stay as long as it's useful. Leave when you want.
 
-*Then $47/month. Cancel anytime.*
+# $97/MONTH — CANCEL ANYTIME
 
-**[YES! I WANT COMMUNITY ACCESS →]**
-*ADD COMMUNITY TO MY ORDER*
-
----
-
-## [DECLINE LINK]
-
-No Thanks! I'll Build On My Own And Go The Next Route!
+**[JOIN THE COMMUNITY — $97/MONTH]**
 
 ---
 
 ## [GUARANTEE SECTION]
 
-*[100% Guarantee Badge]*
+### Month-to-Month. Cancel Anytime. No Contracts.
 
-### Cancel Anytime — No Questions Asked
+This isn't a locked subscription. There's no annual commitment. No cancellation fee. No hoops.
 
-Try the community for $1. Show up to a call. DM me a question. Browse the resources. If it's not for you, cancel before your second month and you'll never be charged again.
+You stay because it's working. You leave when you want. That's it.
 
-No contracts. No commitments. No risk.
+If you join, show up to a call, use the templates, and decide it's not for you — cancel before your next billing date. Done.
+
+You can't grow into pain. If it fits your life, stay. If it doesn't, go. No hard feelings.
+
+---
+
+## [SOCIAL PROOF SECTION]
+
+### WHAT MEMBERS ARE SAYING
+
+*[Testimonial placeholder — real member quote about hot seat value]*
+
+*[Testimonial placeholder — real member quote about Sprint curriculum clarity]*
+
+*[Testimonial placeholder — real member quote about DFY templates saving time]*
+
+*[Developer note: Remove this section entirely until real testimonials are collected. Do not display placeholder text on the live page.]*
 
 ---
 
@@ -192,49 +209,52 @@ No contracts. No commitments. No risk.
 
 ## Key Implementation Points
 
-1. **$1 trial, then $47/month** — This is a subscription, not one-time. Make the trial/recurring pricing crystal clear.
+1. **$97/month, no trial on this page** — This is a standalone sign-up at full price. Community trials ($1 or bundled) are offered through DFY product purchases, not on this page.
 
-2. **Only show to NON-Sprint buyers** — Sprint buyers already have Skool Community Access included. In GHL, conditionally skip this page for anyone who purchased OTO 1.
+2. **Standalone page — NOT an OTO** — This page is linked from emails, the training portal, and direct traffic. It is not part of the checkout upsell flow. Do not display "Your order is processing" or any OTO-style framing.
 
-3. **No income claims** — Keep copy focused on support, community, and accountability. No revenue promises.
+3. **No income claims** — Keep copy focused on support, system, accountability, and access. No revenue promises.
 
-4. **Skool is the platform** — Community lives on Skool. Don't mention other platforms.
+4. **Skool is the platform** — Community lives on Skool. Don't reference other platforms.
 
-5. **Cancel anytime** — Emphasize no contracts. This is a low-risk trial.
+5. **Cancel anytime** — Emphasize month-to-month. No contracts. No annual lock-in. This is critical to the positioning.
 
-6. **Terminology** — "Client Ready Community" throughout.
+6. **Terminology** — "Client Ready Community" throughout. Do not reference "Sprint" or "Blueprint" as separate purchasable products — the Sprint curriculum is included inside the community.
 
-7. **Page is intentionally short** — This is a simple downsell. Don't oversell it. Quick yes/no.
+7. **Accelerator** — Mentioned as something members get early access to. The Accelerator ($5K+) is announced and sold from inside the community. Do not link to an Accelerator sales page from this page.
 
 ## Price Summary
 
 | Item | Price |
 |------|-------|
-| OTO 3: Client Ready Community | $1 first month, $47/month after |
+| Client Ready Community | $97/month, cancel anytime |
 
 ## Button Actions
 
-- YES button → Add $1 trial subscription to cart ($47/month recurring after first month)
-- Decline link → Skip to thank you page
+- JOIN button — Checkout for $97/month recurring subscription
+- No decline link — this is a standalone page, not an OTO
 
 ## GHL Implementation
 
-- Set up as subscription product: $1 trial, $47/month recurring
-- Conditional page display: only show if OTO 1 (Sprint) was NOT purchased
-- If Sprint was purchased → skip directly to thank you page
+- Set up as subscription product: $97/month recurring, no trial
+- This page is NOT conditional on other purchases — it is standalone
+- Traffic sources: email sequences, training portal links, direct links
+- Community trials bundled with DFY purchases are handled separately in the DFY checkout flow, not on this page
 
 ## Proof Section (Add When Available)
 
-When you have community member results, add a section before the guarantee:
+When you have community member results, replace the placeholder section with real testimonials:
 
-> ### WHAT COMMUNITY MEMBERS ARE SAYING
+> ### WHAT MEMBERS ARE SAYING
 >
-> > "[Name] — real testimonial about support, hot seats, or community value"
+> > "[Name] — real testimonial about hot seat calls, Sprint curriculum, templates, or community value"
 >
-> *[Developer note: Remove this section entirely if no testimonials available yet. Do not use placeholder quotes on live page.]*
+> *[Remove placeholder section entirely if no testimonials available yet. Do not use placeholder quotes on live page.]*
 
 ## A/B Test Considerations
 
-- Test $1 trial vs $7 trial vs free trial
-- Test with/without video in hero
-- Test page length (current short version vs longer with more detail)
+- Test $97/month vs $79/month
+- Test with/without video in hero section
+- Test hero headline variations
+- Test page length (current version vs shorter with fewer component descriptions)
+- Test CTA button copy variations
