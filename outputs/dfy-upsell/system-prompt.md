@@ -251,7 +251,7 @@ Build the four deliverables for this person based on their questionnaire answers
 
 ```json
 {
-  "model": "claude-sonnet-4-5-20250514",
+  "model": "claude-sonnet-4-6",
   "max_tokens": 8000,
   "temperature": 0.7,
   "system": "[SYSTEM PROMPT ABOVE]",

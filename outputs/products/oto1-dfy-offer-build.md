@@ -40,14 +40,14 @@ No DIY. No blank pages. No second-guessing. You fill out a short questionnaire (
 
 This is where it starts. 10-15 minutes of your time.
 
-1. **What's your professional background?** (Career history, certifications, relevant experience)
-2. **What personal transformation have you been through?** (The journey that qualifies you to help others)
-3. **Who have you already helped successfully?** (Real people, real situations, real results)
-4. **What specific problem do they come to you with?** (What they say when they reach out)
-5. **What have they tried before that didn't work?** (Failed solutions, wasted money, wrong approaches)
-6. **What's your offer?** (What you sell or want to sell — format, duration, price)
-7. **What makes you different from others in your space?** (Your unique angle, method, or perspective)
-8. **What objections do you hear most?** (What stops people from buying)
+1. **What do you do?** (Describe what you help people with — like you're telling a friend at dinner)
+2. **Who's your best client ever?** (One real person you've helped — what were they struggling with, what changed?)
+3. **What result do you deliver?** (What's different about someone's life 90 days after working with you?)
+4. **What's your process?** (Walk me through the steps — first, second, third)
+5. **What makes you different?** (Your background, approach, framework, or perspective)
+6. **What's your story?** (Why do you do this? What happened that led you here?)
+7. **What do you charge now (and want to charge)?** (Current price and desired price)
+8. **What's stopping you from getting more clients?** (Be honest — offer, confidence, funnel, traffic?)
 
 ---
 
