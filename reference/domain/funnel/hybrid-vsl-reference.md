@@ -171,7 +171,7 @@ If you can't answer all five in 5 seconds, the page isn't ready.
 | Front-end ($47) sales page | Should be Hybrid VSL | Currently text-heavy, needs video + visual evidence |
 | One-Page Funnel ($57) standalone page | Hybrid VSL | New page — build from scratch using this format |
 | Funnel Snapshot ($97) standalone page | Hybrid VSL | New page — build from scratch using this format |
-| OTO pages (Sprint, Blueprint, Community) | Standard VSL | Interrupt pages for captive audience — different context |
+| OTO pages (DFY Offer Build, DFY Lite downsell) | Standard VSL | Interrupt pages for captive audience — different context |
 | Bump pages | Checkout add-ons | Not landing pages — different format entirely |
 
 OTO pages don't need the hybrid format because the buyer is already mid-checkout. Hybrid VSL is for cold traffic where you have 5 seconds to prove relevance.

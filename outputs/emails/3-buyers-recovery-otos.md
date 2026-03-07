@@ -156,7 +156,7 @@ This sequence runs AFTER the welcome sequence starts but doesn't conflict:
 | 3 | Case Study + Bump | **You have the system. But do you have YOUR offer built?** |
 | 4 | Mistake + Templates | — |
 | 5 | Quick Tip | **She had the system for 3 weeks. Nothing happened.** |
-| 6 | Transformation + Sprint | — |
+| 6 | Transformation Story | — |
 | 7 | Behind the Scenes | **What 48 hours could save you** |
 
 Note: Day 5 welcome email also has a soft DFY P.S. If they buy from that, remove them from DFY recovery.

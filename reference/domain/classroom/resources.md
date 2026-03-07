@@ -32,7 +32,7 @@ date: 2026-02-06
 | Daily Email Framework (1-pager) | PDF | Story → Offer → CTA structure |
 | Weekly Email Rotation Planner | Spreadsheet | Which offer to pitch on which day |
 | Install Offer Recovery Sequence | Google Doc | 3-email sequence for missed bumps |
-| OTO Recovery Sequence | Google Doc | 3-email sequence for missed Sprint/Blueprint |
+| OTO Recovery Sequence | Google Doc | 3-email sequence for missed DFY Offer Build/Community |
 
 ### From Phase 3: Traffic & Scaling
 

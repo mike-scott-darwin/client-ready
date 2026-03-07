@@ -18,8 +18,8 @@ format: Spreadsheet
 |-----|-------|-------|--------------|
 | **Monday** | Front-end ($47) | $47 | Fresh week, entry point |
 | **Tuesday** | Templates | $67 | "Don't start from scratch" |
-| **Wednesday** | Sprint | $297 | Midweek momentum |
-| **Thursday** | Blueprint | $397 | "Let me build yours" |
+| **Wednesday** | Community | $97/mo | Midweek momentum |
+| **Thursday** | DFY Offer Build | $197 | "Let me build yours" |
 | **Friday** | Accelerator | $5,000 | Big decision energy |
 | **Saturday** | Skool Community | Free | Soft touch, engagement |
 | **Sunday** | No pitch OR recap | — | Rest or weekly roundup |
@@ -40,12 +40,12 @@ format: Spreadsheet
 
 ### Wednesday
 **Story:** Client who went from stuck to $3K in 30 days
-**Offer:** $297 Sprint
-**CTA:** "Join the next sprint: [link]"
+**Offer:** $97/mo Community
+**CTA:** "Join us inside: [link]"
 
 ### Thursday
-**Story:** Why I started offering the Blueprint
-**Offer:** $397 Client Ready Blueprint
+**Story:** Why I started offering the DFY build
+**Offer:** $197 DFY Offer Build
 **CTA:** "Let me build yours: [link]"
 
 ### Friday

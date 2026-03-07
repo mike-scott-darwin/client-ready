@@ -25,8 +25,10 @@ All content available in free Skool community. Core modules drip over 72 hours.
 | Bump 1 | Quick Win DM Scripts | $37 |
 | Bump 2 | Plug & Play Templates | $67 |
 | Bump 3 | The First $5K Client Playbook | $97 |
-| OTO 1 | Client Ready Sprint (4-week) | $297 |
-| OTO 2 | Client Ready Blueprint | $397 |
+| OTO 1 | DFY Offer Build | $197 |
+| OTO 2 | DFY Lite (downsell) | $97 |
+| Standalone | Client Ready Community | $97/mo |
+| Standalone | Newsletter | $37/mo |
 | Backend | Client Ready Accelerator | $5,000 |
 
 ---
@@ -45,7 +47,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
   - **Have an offer, no funnel?** → Start with Phase 2 (Build)
   - **Have a funnel, need traffic?** → Start with Phase 3 (Launch)
 - How the value ladder works ($47 → $5K path)
-- What's included at each tier (Sprint vs Blueprint vs Accelerator)
+- What's included at each tier (Community vs DFY Offer Build vs Accelerator)
 - The philosophy: "You can't grow into pain" — alignment before scale
 
 ---
@@ -94,8 +96,8 @@ All content available in free Skool community. Core modules drip over 72 hours.
 
 **Products that accelerate this phase:**
 - $67 Plug & Play Templates — Landing page swipes, email sequences
-- $297 Sprint — 4-week implementation with live support
-- $397 Blueprint — Michael creates your complete funnel strategy in 30 days
+- $197 DFY Offer Build — Michael builds your offer assets for you
+- $97/mo Community — Ongoing implementation support and curriculum
 
 **Drip:** Available after 72 hours
 
@@ -121,7 +123,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 
 **Products that accelerate this phase:**
 - $97 The First $5K Client Playbook
-- $297 Sprint — Weekly calls, hot seat feedback on campaigns
+- $97/mo Community — Weekly calls, hot seat feedback on campaigns
 - $5,000 Accelerator — Done-with-you funnel + traffic in 8 weeks
 
 **Drip:** Available after 72 hours
@@ -388,9 +390,9 @@ All content available in free Skool community. Core modules drip over 72 hours.
   - Day 3: First case study → pitch missed bump
   - Day 4: Common mistake to avoid → Templates ($67)
   - Day 5: Quick tip + value (no pitch)
-  - Day 6: Client transformation → Sprint ($297)
+  - Day 6: Client transformation → Community ($97/mo)
   - Day 7: Behind-the-scenes (no pitch)
-  - Day 8: FAQ / objection handling → Blueprint ($397)
+  - Day 8: FAQ / objection handling → DFY Offer Build ($197)
   - Day 9: "What happens next" roadmap (no pitch)
   - Day 10: Personal invite to Skool community
 - How to recover missed bumps and OTOs
@@ -720,7 +722,7 @@ Examples:
 **What it covers:** Advanced techniques for scaling beyond initial validation — from $47 buyers to $5K clients.
 
 **What you'll learn:**
-- The ascension path: $47 → bumps → Sprint → Blueprint → Accelerator
+- The ascension path: $47 → bumps → Community → DFY Offer Build → Accelerator
 - Using email to warm up to higher tiers (Daily Email Rhythm)
 - Retargeting buyers with higher-tier offers
 - When to introduce the $5K Accelerator
@@ -821,7 +823,7 @@ When you're spending $500+/day, add low-cost engagement campaigns for omnipresen
 **What it covers:** No-Phone works best when people already know and trust you. This lesson shows how your funnel builds that trust.
 
 **What you'll learn:**
-- The ascension path: $47 → bumps → Sprint → Accelerator
+- The ascension path: $47 → bumps → Community → Accelerator
 - Why buyers of lower tiers are pre-qualified for No-Phone
 - Using daily emails to warm up to higher tiers
 - The "ready signal" — when someone is ready for your No-Phone offer
@@ -846,7 +848,7 @@ Real-world walkthroughs showing the Client Ready system in action — not theory
 - Landing page build (copy + design)
 - Order bump setup ($37, $67, $97)
 - Checkout configuration
-- OTO pages (Sprint + Blueprint)
+- OTO pages (DFY Offer Build + DFY Lite downsell)
 - Email automation setup
 
 **Outcome:** You see exactly how a complete funnel comes together.

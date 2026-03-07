@@ -149,15 +149,15 @@ graph TD
 - Not an order bump — standalone portal training and GHL affiliate trigger
 - **Ad angle:** "Stop building from scratch — import a proven funnel and customize it"
 
-**How Snapshot differs from Blueprint ($397):**
+**How Snapshot differs from DFY Offer Build ($197):**
 
-| | Funnel Snapshot ($97) | Blueprint ($397) |
+| | Funnel Snapshot ($97) | DFY Offer Build ($197) |
 |---|---|---|
-| Who builds it | You, with template | Michael, custom |
-| Copy | Generic — you swap in your offer | Michael writes your copy |
-| Strategy | Self-service video walkthrough | Custom strategy document |
-| GHL snapshot | Standard template | Customized to your business |
-| Support | Video walkthrough only | 60-min integration call |
+| Who builds it | You, with template | AI + Michael review |
+| Copy | Generic — you swap in your offer | AI-generated from your inputs, Michael-reviewed |
+| Strategy | Self-service video walkthrough | ICP + offer doc + landing page copy + ad hooks |
+| GHL snapshot | Standard template | No snapshot — deliverables are documents |
+| Support | Video walkthrough only | 30-day community trial included |
 
 **GHL Affiliate Layer:**
 - GHL pays 40% recurring commission (~$39/mo per referral on $97/mo plan)
@@ -446,7 +446,7 @@ Manual DM within 48 hours of DFY purchase:
 
 Not a sales call. Accountability and support. Opens a conversation that naturally deepens engagement and drives community trial activation. At current volume: 1-3 DMs per week. When volume exceeds ~20/week, hire a setter.
 
-**Trigger:** GHL notification on Sprint or Blueprint purchase → manual DM within 48 hours.
+**Trigger:** GHL notification on DFY Offer Build or DFY Lite purchase → manual DM within 48 hours.
 
 **Implementation:** 6 GHL workflows with separated concerns + consumption tracking branch + DM notification trigger. See [outputs/emails/ghl-workflow-setup.md](../../outputs/emails/ghl-workflow-setup.md) for full setup.
 
@@ -481,7 +481,7 @@ See: [reference/domain/funnel/email-rhythm.md](../domain/funnel/email-rhythm.md)
 | "I don't have an offer yet" | That's exactly what the $47 system solves — extract and validate in one afternoon |
 | "I'm not tech savvy" | The templates are plug-and-play — fill in blanks, copy-paste, done |
 | "I don't have an audience" | Start with your warm audience first. The traffic playbook shows you how to find buyers without ads. |
-| "What if it doesn't work?" | Every product has a money-back guarantee. The Sprint adds personal accountability — Michael reviews your homework and keeps working with you until you launch. |
+| "What if it doesn't work?" | Every product has a money-back guarantee. The community adds personal accountability — weekly calls with Michael plus peer support to keep you moving. |
 | "I don't want another subscription" | The community is month-to-month. Cancel anytime. No annual. No lock-in. You stay because the calls and templates are worth it — not because you're trapped. |
 
 ---
@@ -522,7 +522,7 @@ These override all tactical advice below. If a tactic conflicts with these princ
 
 ### Launch Strategy: Front-End First
 
-**Phase 1 (Launch):** Short-form sales page + 3 order bumps + OTOs (Sprint, Blueprint, Community) + thank you page. Full funnel from day one.
+**Phase 1 (Launch):** Short-form sales page + 3 order bumps + OTOs (DFY Offer Build, Newsletter, Community) + thank you page. Full funnel from day one.
 
 ### Pre-Launch Requirements
 
@@ -645,9 +645,10 @@ Naked VSLs (video-only pages) are dying — high bounce rates from cold traffic.
 
 | OTO | Price | Expected Conversion |
 |-----|-------|---------------------|
-| OTO 1 Sprint | $297 | 10-20% (over $60) |
-| OTO 2 Blueprint | $397 | 10-20% (over $60) |
-| OTO 3 Community | $47/mo trial | 5-10% (membership trial) |
+| OTO 1 DFY Offer Build | $197 | 15% |
+| Downsell DFY Lite | $97 | 10% of remaining |
+| OTO 2 Newsletter | $37/mo | 8% |
+| Community | $97/mo | Via trial or direct sign-up |
 
 **Traffic Metrics:**
 

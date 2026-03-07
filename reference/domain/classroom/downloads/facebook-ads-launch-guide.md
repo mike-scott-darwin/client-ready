@@ -32,7 +32,7 @@ Most coaches treat OTOs as part of their break-even calculation. This is dangero
 |----------------|------|--------|
 | Front-end ($47) | Covers ~25% of ad spend | CPA around $100 |
 | Bumps ($37 + $67 + $97 = $201) | Covers remaining 75% | 50%+ combined take rate |
-| OTOs ($97-$397) | **Pure profit** | 10-20% conversion |
+| OTOs ($97-$197) | **Pure profit** | 10-20% conversion |
 | Backend ($5K) | Scale profit | Email ascension |
 
 **The Math:**
@@ -386,7 +386,7 @@ Your first 100 customers are waiting. Time to turn on the ads.
 | Bump 2 | $67 | Part of self-liquidating |
 | Bump 3 | $97 | Part of self-liquidating |
 | **Checkout total** | **$248 max** | **Should cover CPA** |
-| OTOs | $97-$397 | **Pure profit** |
+| OTOs | $97-$197 | **Pure profit** |
 | Backend | $5,000 | **Scale profit** |
 
 ### Checkout Benchmarks (Cat Howell Feb 2026)
@@ -402,8 +402,8 @@ Your first 100 customers are waiting. Time to turn on the ads.
 | OTO Price | Expected Conversion | Notes |
 |-----------|---------------------|-------|
 | Under $60 | 20-30% | Lower price = higher conversion |
-| Over $60 | 10-20% | Your $97-$397 OTOs |
-| Membership trial | 5-10% | $1 trial to $47/mo |
+| Over $60 | 10-20% | Your $97-$197 OTOs |
+| Community | 5-10% | $97/mo standalone |
 
 ### Traffic Benchmarks
 

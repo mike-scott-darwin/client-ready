@@ -7,27 +7,33 @@ updated_from: 2026-01-19
 
 # Membership Benefits
 
-## Skool Community Benefits (OTO 1 Buyers)
+## Skool Community Benefits ($97/mo)
 
-### What OTO 1 Clients Get
+### What Community Members Get
 
-**Classroom Access:**
-- Phase 1: Client Ready Offer Extraction
-- Phase 2: 24 HR Funnel Installation System
-- Phase 3: Traffic and Scaling Playbook
+**Sprint Curriculum (Self-Paced Learning Path):**
+- Phase 1: Client Ready Offer Extraction (Extract)
+- Phase 2: 24 HR Funnel Installation System (Validate + Build)
+- Phase 3: Traffic and Scaling Playbook (Launch)
 - Six Figure Swipe File
 - Live Call Replays
+
+**Weekly Live Access:**
+- Weekly hot seat calls with Michael (live coaching)
+- DFY templates of the month (tested assets Michael is running)
+- "What's Working Now" breakdowns
+- DM access to Michael
 
 **Community Access:**
 - Private community feed
 - Connect with other clients
 - Share wins and get feedback
-- Ask questions
+- Peer accountability + wins
 
-**Direct Access (Sprint only):**
-- Direct chat access during sprint
-- Get feedback on offers
-- Hot seat opportunities on calls
+**How Members Enter:**
+- 30-day free trial bundled with DFY Offer Build ($197) or DFY Lite ($97)
+- Direct sign-up via email pitch or portal ($97/mo, no trial)
+- Accelerator graduates stay as alumni
 
 ---
 
@@ -53,7 +59,7 @@ updated_from: 2026-01-19
 - Practical, not theoretical
 - AI-assisted for speed
 - Built for coaches who still have a 9-to-5
-- Community support included with OTO 1
+- Community included via DFY trial or direct sign-up ($97/mo)
 
 ---
 
@@ -64,7 +70,7 @@ updated_from: 2026-01-19
 | Just joined | Clarity on offer (Phase 1) |
 | Has offer | Funnel installed (Phase 2) |
 | Has funnel | Traffic and scale (Phase 3) |
-| Wants more | Sprint for accountability, Accelerator for done-with-you |
+| Wants more | Community for accountability ($97/mo), Accelerator for done-with-you ($5K) |
 
 ---
 

@@ -2,13 +2,16 @@
 type: reference
 status: active
 created: 2026-02-05
+updated: 2026-03-07
 ---
 
-# Sprint Soul Extraction Module
+> **Note (2026-03-07):** Sprint is no longer sold as a standalone product. This Soul Extraction process is still valid and is now delivered through the Client Ready Community ($97/mo). See `decisions/2026-03-07-dfy-upsell-community-first.md`.
 
-**Purpose:** Week 0/1 identity work for Sprint ($297) clients. Ensures they build an aligned offer before touching any funnel tactics.
+# Soul Extraction Module
 
-**Position in Sprint:** Before any funnel work. "Before we build, let's make sure it fits."
+**Purpose:** Week 0/1 identity work for Community members. Ensures they build an aligned offer before touching any funnel tactics.
+
+**Position in curriculum:** Before any funnel work. "Before we build, let's make sure it fits."
 
 ---
 

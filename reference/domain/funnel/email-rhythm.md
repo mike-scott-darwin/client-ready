@@ -22,8 +22,8 @@ linked_research:
 | 0 | Bump Delivery | Onboard bump purchases | No (cross-sell bridge) |
 | 1-10 | Welcome | Relationship, quick wins | No |
 | 2,4,6 | Bump Recovery | Re-pitch missed bumps | Yes (PM) |
-| 3,5,7 | OTO Recovery | Re-pitch Sprint/Blueprint | Yes (PM) |
-| 8 | Community Recovery | Downsell $47/mo | Yes (PM) |
+| 3,5 | OTO Recovery | Re-pitch DFY Offer Build ($197) / DFY Lite ($97) | Yes (PM) |
+| 8 | Community Recovery | Direct community sign-up ($97/mo) | Yes (PM) |
 | 11+ | Daily Broadcast | Story + rotating offers | Yes |
 
 **Timing:** Welcome sends 8:00 AM. Recovery sends 2:00 PM. Max 2 emails/day.
@@ -76,10 +76,10 @@ Every email follows the same structure:
 **Rotation example:**
 - Monday: $47 front-end
 - Tuesday: $67 Templates
-- Wednesday: Sprint ($297)
-- Thursday: Blueprint ($397)
+- Wednesday: DFY Offer Build ($197)
+- Thursday: Newsletter ($37/mo)
 - Friday: Accelerator ($5K) — soft pitch, reply trigger
-- Saturday: Skool community
+- Saturday: Community ($97/mo)
 - Sunday: Pure value, no pitch
 
 ### 3. CTA (10%)
@@ -141,11 +141,10 @@ When someone buys the $47 but not the bumps:
 - **Email 3 (Day 6):** "Before you move on..." — last chance stack
 
 ### OTO Recovery Sequence
-When someone skips the Sprint upsell:
+When someone skips the DFY Offer Build upsell:
 
 - **Email 1 (Day 3):** "Most people do this alone..."
-- **Email 2 (Day 5):** Sprint success story
-- **Email 3 (Day 7):** "Spots filling for [month] sprint"
+- **Email 2 (Day 5):** DFY success story — "We built her offer in 48 hours"
 
 ### Ascension Trigger
 When someone engages heavily (opens 5+ emails in a week):
