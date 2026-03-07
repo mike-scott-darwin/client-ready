@@ -1,83 +1,84 @@
 ---
 type: resource
 status: active
-date: 2026-02-04
+date: 2026-03-07
 module: 2.6.3
 format: Google Doc
+updated_from: Community downsell ($47/mo, $1 trial) → Community direct sign-up ($97/mo)
 ---
 
 # Community Recovery Sequence
 
-**1 email to recover missed OTO 3 (Community downsell)**
+**1 email to recover missed Community sign-up**
 
 ---
 
 ## Overview
 
-When someone buys the $47 but says "no" to both Sprint and Blueprint, this email offers the Community as a lower-commitment option.
+When someone buys the $47 but doesn't have a community trial (didn't buy DFY), this email offers direct community access.
 
-**Trigger:** Purchased $47, did NOT purchase Sprint ($297) OR Blueprint ($397)
+**Trigger:** Purchased $47, did NOT purchase DFY ($197) or DFY Lite ($97) — meaning no community trial bundled
 **Timing:** Day 8 after purchase
 **Send Time:** 2:00 PM (Welcome sequence sends at 8:00 AM — avoids stacking)
-**Goal:** Convert 5-10% of "no" buyers to recurring community members
+**Goal:** Convert 3-5% to community members
 
 ---
 
 ## Why Day 8?
 
-- Days 3, 5, 7 already pitched Sprint and Blueprint (OTO Recovery)
-- Day 8 = they've seen the higher-ticket options and said no
-- This is the logical downsell: "not ready for that? Here's something smaller"
+- Days 3, 5, 7 already pitched DFY (OTO Recovery)
+- Day 8 = they've seen the DFY option and said no
+- This offers the community standalone: "Not ready for DFY? At least don't build alone"
 
 ---
 
-## Email 1: Day 8 — "Not ready for the Sprint? That's okay."
+## Email 1: Day 8 — "The part nobody warns you about"
 
-**Subject:** Not ready yet? (That's okay)
+**Subject:** The part nobody warns you about
 
 ---
 
 Hey [NAME],
 
-Over the past few days, I've told you about the Sprint ($297) and the Blueprint ($397).
+Over the past few days, I've mentioned the DFY Offer Build.
 
-Maybe you thought: "Not right now."
+Maybe you thought: "I'll do it myself."
 
-That's fine. Seriously.
+Great. You can. The system works.
 
-Those are bigger commitments. You might not be there yet. You might want to work through the $47 system first and see results before investing more.
+But here's the part nobody warns you about:
 
-I get it.
+Building alone is brutal.
 
-But here's the thing:
+You finish your offer doc. Is it good? Who knows. There's nobody to ask.
 
-Building alone is hard.
+You write landing page copy. Does it convert? You won't find out for weeks.
 
-Not because the information is missing — you have that. Because it's lonely. You second-guess yourself. You wonder if you're on the right track. There's no one to ask.
+You run your first ad. Nothing happens. Now what?
 
-That's why I built the Client Ready Community.
+**The Client Ready Community exists for this exact moment.**
 
-**$47/month. First month is $1.**
+$97/month. Cancel anytime.
 
 What you get:
 
-- Private Skool community with other coaches building their offers
-- Weekly group hot seat calls with me
+- Weekly hot seat calls with me (bring your offer, your copy, your questions — get real-time feedback)
+- Sprint curriculum (Extract → Validate → Build → Launch — self-paced, always available)
+- DFY templates of the month (tested assets you can use immediately)
 - DM me directly for quick questions
-- See what's working for others in real-time
-- Resource library (templates, swipes, frameworks)
+- A room full of coaches at every stage — some starting, some already generating clients
 
-No 4-week commitment. No custom blueprint deliverables. Just a place to not build alone.
+This isn't a course. It's the room where people build.
 
-If you said "no" to Sprint and Blueprint but still want support — this is for you.
+Month-to-month. No contracts. Stay as long as it's useful. Leave when you've outgrown it (or upgraded to working with me 1:1).
 
-Try it for $1: https://www.skool.com/high-ticket-playbook-9467/about
+If building alone is getting old: [SKOOL LINK]
 
-Cancel anytime. No hard feelings.
+If you're good solo: respect. Keep going.
 
 Michael
 
-P.S. — This isn't a replacement for Sprint or Blueprint. It's for people who want support while they figure things out at their own pace. If you want accountability + guaranteed launch, Sprint is still the move. If you want me to create your complete funnel strategy, Blueprint is there. But if you just want a community and occasional access to me — this is it.
+P.S. — The community includes everything that used to be in the $297 Sprint — the weekly calls, the curriculum, the accountability. It's all there. You just pay monthly instead of up front.
 
 ---
 
@@ -85,16 +86,16 @@ P.S. — This isn't a replacement for Sprint or Blueprint. It's for people who w
 
 ```
 IF purchased $47
-AND NOT purchased Sprint ($297)
-AND NOT purchased Blueprint ($397)
-AND NOT purchased Community ($47/mo)
+AND NOT purchased DFY ($197)
+AND NOT purchased DFY Lite ($97)
+AND NOT has tag "purchased-community"
 THEN send this email on Day 8 at 2:00 PM
 
-IF purchased Sprint OR Blueprint
-THEN skip this sequence entirely (they have higher-tier access)
+IF purchased DFY or DFY Lite
+THEN skip this sequence entirely (they have a community trial)
 
-IF purchased Community during checkout
-THEN skip this sequence (already a member)
+IF already a community member
+THEN skip this sequence
 ```
 
 ---
@@ -105,9 +106,9 @@ THEN skip this sequence (already a member)
 |--------|--------|
 | Open rate | 30-40% |
 | Click rate | 3-5% |
-| Trial conversion | 5-10% of eligible |
-| Revenue per 100 buyers | $20-40 additional (recurring) |
-| Trial → Paid retention | 50%+ |
+| Community conversion | 3-5% of eligible |
+| Revenue per 100 buyers | $25-40 additional (recurring) |
+| Month 1 → Month 2 retention | 70%+ |
 
 ---
 
@@ -118,14 +119,15 @@ THEN skip this sequence (already a member)
 | 8 | 8:00 AM | Welcome | FAQ / Objection |
 | 8 | 2:00 PM | **Community Recovery** | **This email** |
 
-No conflict. Morning = value. Afternoon = offer (downsell).
+No conflict. Morning = value. Afternoon = offer.
 
 ---
 
 ## Voice Notes
 
-- Acknowledge they said "no" — don't pretend they didn't
-- Position as "lighter commitment," not "consolation prize"
-- $1 trial removes risk
-- Clear that Sprint/Blueprint are still better if they're ready
+- Acknowledge they said "no" to DFY — don't pretend they didn't
+- Position as "the room where people build" — not a consolation prize
+- $97/mo is justified: weekly calls, curriculum, templates, DM access
+- Month-to-month framing: "cancel anytime, no contracts"
+- Mention that Sprint content is now in the community
 - No pressure, no fake urgency
