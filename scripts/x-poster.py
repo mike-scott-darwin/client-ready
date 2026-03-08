@@ -2,8 +2,8 @@
 """
 X Auto-Poster for Client Ready
 
-Reads today's tweet draft from content/drafts/, posts the next unposted tweet,
-and tracks what's been posted in a state file.
+Reads today's tweet drafts from content/drafts/tweets/ (one tweet per file),
+posts the next unposted tweet, and tracks what's been posted in a state file.
 
 Designed to run via launchd at scheduled intervals (e.g., 8am, 10:30am, 1pm, 4pm, 7pm).
 Each invocation posts one tweet. Five invocations = five tweets spaced across the day.
@@ -13,15 +13,14 @@ import os
 import sys
 import json
 import re
-import shutil
 from datetime import datetime
 from pathlib import Path
 
 # Paths
 REPO_ROOT = Path(__file__).parent.parent
 ENV_FILE = REPO_ROOT / ".env"
-DRAFTS_DIR = REPO_ROOT / "content" / "drafts"
-PUBLISHED_DIR = REPO_ROOT / "content" / "published"
+DRAFTS_DIR = REPO_ROOT / "content" / "drafts" / "tweets"
+PUBLISHED_DIR = REPO_ROOT / "content" / "published" / "tweets"
 STATE_FILE = REPO_ROOT / ".x-poster-state.json"
 LOG_FILE = REPO_ROOT / "scripts" / "x-poster.log"
 
@@ -64,43 +63,27 @@ def save_state(state):
         json.dump(state, f, indent=2)
 
 
-def find_today_draft():
-    """Find today's tweet draft file."""
+def find_today_tweets():
+    """Find all tweet files for today, sorted by filename."""
     today = datetime.now().strftime("%Y-%m-%d")
-    filename = f"{today}-x-tweets-daily.md"
-    filepath = DRAFTS_DIR / filename
+    if not DRAFTS_DIR.exists():
+        return [], today
+    tweets = sorted([
+        f for f in DRAFTS_DIR.iterdir()
+        if f.name.startswith(today) and f.suffix == ".md"
+    ])
+    return tweets, today
 
-    if filepath.exists():
-        return filepath, today
-    return None, today
 
-
-def parse_tweets(filepath):
-    """Parse individual tweets from a draft file."""
-    with open(filepath) as f:
-        content = f.read()
-
-    # Split on tweet headers (e.g., **Tweet 1 (...)**)
-    tweet_blocks = re.split(r'\*\*Tweet \d+[^*]*\*\*\s*\n', content)
-
-    tweets = []
-    for block in tweet_blocks:
-        # Clean up: remove frontmatter, headers, and separators
-        block = block.strip()
-        if not block or block.startswith("---") or block.startswith("#"):
-            continue
-
-        # Remove trailing --- separators
-        block = re.sub(r'\n---\s*$', '', block).strip()
-
-        # Skip if it looks like frontmatter
-        if "platform:" in block or "type:" in block:
-            continue
-
-        if block:
-            tweets.append(block)
-
-    return tweets
+def parse_tweet_file(filepath):
+    """Read a single tweet file, strip frontmatter, return text."""
+    content = filepath.read_text()
+    parts = content.split("---")
+    if len(parts) >= 3:
+        body = "---".join(parts[2:]).strip()
+    else:
+        body = content.strip()
+    return body
 
 
 def post_tweet(client, text):
@@ -113,6 +96,23 @@ def post_tweet(client, text):
         return None
 
 
+def move_to_published(filepath, tweet_id):
+    """Move individual tweet file to published/tweets/ with metadata in frontmatter."""
+    PUBLISHED_DIR.mkdir(parents=True, exist_ok=True)
+    dest = PUBLISHED_DIR / filepath.name
+    content = filepath.read_text()
+    content = content.replace('status: draft', 'status: published')
+    # Extract the date portion from the filename (e.g., 2026-03-08 from 2026-03-08-1.md)
+    scheduled_date = filepath.stem.rsplit("-", 1)[0]
+    content = content.replace(
+        f'scheduled_date: {scheduled_date}',
+        f'scheduled_date: {scheduled_date}\npublished_date: {datetime.now().isoformat()}\ntweet_id: "{tweet_id}"\nurl: https://x.com/mikescot/status/{tweet_id}'
+    )
+    dest.write_text(content)
+    filepath.unlink()
+    log(f"Moved {filepath.name} -> content/published/tweets/")
+
+
 def main():
     # Load credentials
     env = load_env()
@@ -122,16 +122,10 @@ def main():
             log(f"ERROR: Missing {key} in .env")
             sys.exit(1)
 
-    # Find today's draft
-    draft_path, today = find_today_draft()
-    if not draft_path:
-        log(f"No draft found for {today}. Skipping.")
-        sys.exit(0)
-
-    # Parse tweets
-    tweets = parse_tweets(draft_path)
-    if not tweets:
-        log(f"No tweets parsed from {draft_path.name}. Skipping.")
+    # Find today's tweet files
+    tweet_files, today = find_today_tweets()
+    if not tweet_files:
+        log(f"No tweet drafts found for {today}. Skipping.")
         sys.exit(0)
 
     # Load state
@@ -140,11 +134,16 @@ def main():
 
     # Find next unposted tweet
     next_index = len(posted_today)
-    if next_index >= len(tweets):
-        log(f"All {len(tweets)} tweets for {today} already posted. Skipping.")
+    if next_index >= len(tweet_files):
+        log(f"All {len(tweet_files)} tweets for {today} already posted. Skipping.")
         sys.exit(0)
 
-    tweet_text = tweets[next_index]
+    tweet_file = tweet_files[next_index]
+    tweet_text = parse_tweet_file(tweet_file)
+
+    if not tweet_text:
+        log(f"Empty tweet in {tweet_file.name}. Skipping.")
+        sys.exit(0)
 
     # Post it
     try:
@@ -160,7 +159,7 @@ def main():
         access_token_secret=env["X_ACCESS_TOKEN_SECRET"],
     )
 
-    log(f"Posting tweet {next_index + 1}/{len(tweets)} for {today}...")
+    log(f"Posting tweet {next_index + 1}/{len(tweet_files)} for {today} ({tweet_file.name})...")
     tweet_id = post_tweet(client, tweet_text)
 
     if tweet_id:
@@ -169,34 +168,18 @@ def main():
             "tweet_id": str(tweet_id),
             "url": f"https://x.com/mikescot/status/{tweet_id}",
             "posted_at": datetime.now().isoformat(),
+            "source_file": tweet_file.name,
             "text_preview": tweet_text[:60],
         })
         state[today] = posted_today
         save_state(state)
         log(f"Tweet {next_index + 1} posted: https://x.com/mikescot/status/{tweet_id}")
 
-        # Move to published/ after all tweets for the day are posted
-        if next_index + 1 >= len(tweets):
-            move_to_published(draft_path)
+        # Move individual tweet file to published
+        move_to_published(tweet_file, tweet_id)
     else:
         log(f"Failed to post tweet {next_index + 1}.")
         sys.exit(1)
-
-
-def move_to_published(filepath):
-    """Move draft to published/ and update frontmatter status."""
-    PUBLISHED_DIR.mkdir(parents=True, exist_ok=True)
-    dest = PUBLISHED_DIR / filepath.name
-
-    # Update frontmatter before moving
-    content = filepath.read_text()
-    content = re.sub(r'status:\s*draft', 'status: published', content)
-    content = re.sub(r'published_date:\s*null',
-                     f'published_date: {datetime.now().strftime("%Y-%m-%d")}',
-                     content)
-    dest.write_text(content)
-    filepath.unlink()
-    log(f"Moved {filepath.name} → content/published/")
 
 
 if __name__ == "__main__":

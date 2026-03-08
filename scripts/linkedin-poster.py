@@ -2,7 +2,7 @@
 """
 LinkedIn Auto-Poster for Client Ready
 
-Reads today's LinkedIn post draft from content/drafts/, posts it.
+Reads today's LinkedIn post draft from content/drafts/linkedin/, posts it.
 Designed to run via launchd once daily (e.g., 9:00 AM).
 """
 
@@ -18,8 +18,8 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).parent.parent
 ENV_FILE = REPO_ROOT / ".env"
-DRAFTS_DIR = REPO_ROOT / "content" / "drafts"
-PUBLISHED_DIR = REPO_ROOT / "content" / "published"
+DRAFTS_DIR = REPO_ROOT / "content" / "drafts" / "linkedin"
+PUBLISHED_DIR = REPO_ROOT / "content" / "published" / "linkedin"
 STATE_FILE = REPO_ROOT / ".linkedin-poster-state.json"
 LOG_FILE = REPO_ROOT / "scripts" / "linkedin-poster.log"
 
@@ -60,9 +60,11 @@ def save_state(state):
 
 def find_today_draft():
     today = datetime.now().strftime("%Y-%m-%d")
+    if not DRAFTS_DIR.exists():
+        return None, today
     # Look for any LinkedIn post draft for today
-    for f in DRAFTS_DIR.iterdir():
-        if f.name.startswith(today) and "linkedin" in f.name and f.suffix == ".md":
+    for f in sorted(DRAFTS_DIR.iterdir()):
+        if f.name.startswith(today) and f.suffix == ".md":
             return f, today
     return None, today
 
@@ -161,25 +163,34 @@ def main():
         }
         save_state(state)
         log(f"LinkedIn post published: {post_id}")
-        move_to_published(draft_path)
+        move_to_published(draft_path, post_id)
     else:
         log("Failed to publish LinkedIn post.")
         sys.exit(1)
 
 
-def move_to_published(filepath):
-    """Move draft to published/ and update frontmatter status."""
+def move_to_published(filepath, post_id):
+    """Move draft to published/linkedin/ and update frontmatter with post metadata."""
     PUBLISHED_DIR.mkdir(parents=True, exist_ok=True)
     dest = PUBLISHED_DIR / filepath.name
 
     content = filepath.read_text()
     content = re.sub(r'status:\s*draft', 'status: published', content)
-    content = re.sub(r'published_date:\s*null',
-                     f'published_date: {datetime.now().strftime("%Y-%m-%d")}',
-                     content)
+    content = re.sub(
+        r'published_date:\s*null',
+        f'published_date: {datetime.now().strftime("%Y-%m-%d")}',
+        content
+    )
+    # Add post_id to frontmatter: insert before the closing ---
+    # Find the second --- (end of frontmatter) and inject post_id before it
+    parts = content.split("---")
+    if len(parts) >= 3:
+        parts[1] = parts[1].rstrip() + f'\npost_id: "{post_id}"\n'
+        content = "---".join(parts)
+
     dest.write_text(content)
     filepath.unlink()
-    log(f"Moved {filepath.name} → content/published/")
+    log(f"Moved {filepath.name} -> content/published/linkedin/")
 
 
 if __name__ == "__main__":

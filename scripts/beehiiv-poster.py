@@ -2,7 +2,7 @@
 """
 Beehiiv Newsletter Poster for Client Ready
 
-Reads newsletter drafts from content/drafts/, converts to HTML,
+Reads newsletter drafts from content/drafts/newsletter/, converts to HTML,
 and posts to Beehiiv via API. Creates as drafts by default so you
 can review formatting before sending.
 
@@ -34,8 +34,8 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).parent.parent
 ENV_FILE = REPO_ROOT / ".env"
-DRAFTS_DIR = REPO_ROOT / "content" / "drafts"
-PUBLISHED_DIR = REPO_ROOT / "content" / "published"
+DRAFTS_DIR = REPO_ROOT / "content" / "drafts" / "newsletter"
+PUBLISHED_DIR = REPO_ROOT / "content" / "published" / "newsletter"
 STATE_FILE = REPO_ROOT / ".beehiiv-poster-state.json"
 LOG_FILE = REPO_ROOT / "scripts" / "beehiiv-poster.log"
 
@@ -75,11 +75,13 @@ def save_state(state):
 
 
 def find_newsletter_drafts():
-    """Find all newsletter draft files, sorted by date."""
-    drafts = []
-    for f in sorted(DRAFTS_DIR.iterdir()):
-        if "newsletter" in f.name and f.suffix == ".md":
-            drafts.append(f)
+    """Find all newsletter draft .md files, sorted by name."""
+    if not DRAFTS_DIR.exists():
+        return []
+    drafts = sorted([
+        f for f in DRAFTS_DIR.iterdir()
+        if f.suffix == ".md"
+    ])
     return drafts
 
 
@@ -224,7 +226,7 @@ def main():
     # Find drafts
     drafts = find_newsletter_drafts()
     if not drafts:
-        log("No newsletter drafts found in content/drafts/. Skipping.")
+        log("No newsletter drafts found in content/drafts/newsletter/. Skipping.")
         sys.exit(0)
 
     # Load state
@@ -283,7 +285,7 @@ def main():
 
 
 def move_to_published(filepath):
-    """Move draft to published/ and update frontmatter status."""
+    """Move draft to published/newsletter/ and update frontmatter status."""
     PUBLISHED_DIR.mkdir(parents=True, exist_ok=True)
     dest = PUBLISHED_DIR / filepath.name
 
@@ -294,7 +296,7 @@ def move_to_published(filepath):
                      content)
     dest.write_text(content)
     filepath.unlink()
-    log(f"Moved {filepath.name} → content/published/")
+    log(f"Moved {filepath.name} -> content/published/newsletter/")
 
 
 
