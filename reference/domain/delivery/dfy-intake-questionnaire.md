@@ -16,7 +16,7 @@ updated: 2026-03-07
 
 ## The 11 Questions
 
-Each question maps directly to the 4 deliverables (ICP, Offer Doc, Google Offer Doc, Ad Hooks).
+Each question maps directly to the 6 deliverables (ICP, Offer Doc, Google Offer Doc, Landing Page, Email Sequence, Ad Hooks).
 
 ### 1. What do you do?
 **Label:** `what_you_do`

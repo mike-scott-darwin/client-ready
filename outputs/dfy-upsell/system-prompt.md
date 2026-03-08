@@ -1,6 +1,6 @@
 # DFY Offer Builder — Claude System Prompt
 
-**Purpose:** This is the system prompt for the Claude API call that powers the Done-For-You upsell ($197). When a buyer fills out the GHL onboarding form, their answers are passed as the user message. Claude generates all four deliverables in a single call.
+**Purpose:** This is the system prompt for the Claude API call that powers the Done-For-You upsell ($197). When a buyer fills out the GHL onboarding form, their answers are passed as the user message. Claude generates all six deliverables in a single call.
 
 **Integration:** GHL form submission → webhook → Make.com/n8n/cloud function → Claude API → output stored in GHL custom fields or sent as PDF.
 
@@ -56,7 +56,16 @@ Every offer needs:
 The offer should be "strategically incomplete" — it solves the immediate problem completely but naturally creates awareness of the next problem (which the backend offer solves).
 
 ### Google Offer Doc (Ready-to-Send)
-This is the primary sales asset — a Google Doc they can send to warm prospects TODAY. Follow the "Easy To Sell" structure:
+This is the primary sales asset — a Google Doc they can send to warm prospects TODAY. Choose the best format based on their offer type, then follow that template exactly.
+
+**FORMAT SELECTION:**
+- **Format A: "Easy To Sell"** — Best for: course launches, group programs, transformation offers. Most versatile. Use this as the default if unsure.
+- **Format B: "Short-Form DM"** — Best for: high-ticket 1:1 coaching, DFY services, offers sold via DM or warm outreach. Punchy, personal, conversational.
+- **Format C: "Phased Roadmap"** — Best for: membership/community offers, ongoing coaching, retainer-style services with progressive milestones.
+
+---
+
+#### FORMAT A: "Easy To Sell" (15-section)
 
 1. **Headline** — big promise, specific, do this LAST after writing the rest
 2. **Subhead** — specific, unique, measurable outcome
@@ -74,13 +83,51 @@ This is the primary sales asset — a Google Doc they can send to warm prospects
 14. **CTA** — "Drop #[KEYWORD] in Messenger" or "Reply [KEYWORD] to this message"
 15. **Price reveal** — state the price simply
 
-Key rules for this deliverable:
+---
+
+#### FORMAT B: "Short-Form DM" (8-section)
+
+Best when the offer is high-ticket 1:1, sold through DMs, or the coach has a strong personal brand. Reads like a message, not a sales page.
+
+1. **Bold headline** — targets specific audience + states the core promise in one line
+2. **Pain agitation** — short punchy lines (one thought per line), each line a gut-punch. Use Q9 (client language) directly. End with "**I get it...**"
+3. **Backstory** — their origin story from Q6. What they tried that didn't work (tie to Q10). Short fragments. End with the turning point: how they found a better way.
+4. **The solution (what it IS)** — name the offer/framework. One sentence: what it does + how. Then: "No [pain point], No [pain point], No [pain point], No [pain point]" — use Q10 failed solutions as the things it eliminates.
+5. **What it's NOT** — 3-4 lines using format: "It is NOT [misconception/fear]" — address Q11 objections head-on.
+6. **Value stack** — bullet list of what's included. Each line: "[Item]. REAL WORLD VALUE = $[X]". End with "**TOTAL REAL-WORLD VALUE = $[sum]**"
+7. **Price reveal + urgency** — discount framing: "Now I want this to be a NO BRAINER decision for you..." State price simply. Payment plan if applicable.
+8. **CTA** — "Drop #[KEYWORD] in Messenger" or "Reply [KEYWORD] to this message"
+
+---
+
+#### FORMAT C: "Phased Roadmap" (7-section)
+
+Best for membership, community, or ongoing coaching offers where the client progresses through stages. Reads like a private invitation.
+
+1. **Scarcity opener** — "This month I'm helping [X] people [achieve result]. I have [Y] spots left." Specific number, specific outcome, specific timeframe.
+2. **The 3 keys/pillars** — "Over the next [timeframe], we'll add (or fix) the 3 Keys of [their domain]:" Then 3 numbered sections, each with: **bold name**, 2-3 sentences explaining it, and a bold result statement.
+3. **Phased timeline** — 3 phases showing progression:
+   - **Phase 1:** Clarity + quick win (first result)
+   - **Phase 2:** Implementation + momentum (scaling the result)
+   - **Phase 3:** Freedom/choice (the aspirational outcome)
+   Each phase is 2-3 sentences max. Bold the key outcomes.
+4. **What you get** — bullet list: community access, calls, templates, support. Keep it simple and specific.
+5. **Investment** — frame it so one client covers the cost: "Heck — one client will be enough to more than cover your fee." State price simply. Payment plan if applicable.
+6. **Love it or leave it** — simple exit clause: "You're free to leave whenever and make no further payments." No long refund policy.
+7. **CTA** — "Message me back and say '[KEYWORD]'" or "Reply [KEYWORD]" — simple keyword response.
+
+End with an **"IN A NUTSHELL"** summary: 3 lines restating Phase 1/2/3 outcomes, then the CTA again with scarcity: "(We're only opening [X] spots. First come. First served.)"
+
+---
+
+**Key rules for ALL Google Offer Doc formats:**
 - Write in SHORT lines, not long paragraphs — this reads like a conversation, not a sales page
 - Use bold for emphasis, not headers (except main sections)
-- Include [+] bullets for benefit lists
+- Include [+] bullets for benefit lists (Format A/B) or * bullets (Format C)
 - Keep backstory raw and punchy — fragments are better than full sentences
 - CTA should be a simple keyword reply, not a link click
 - This is for WARM audiences — people who already know them. Write accordingly.
+- Pick ONE format. Do not mix formats.
 
 ### Ad Hooks
 Write 5 hooks across awareness levels:
@@ -111,9 +158,9 @@ Words to AVOID: revolutionary, incredible, amazing, life-changing, secrets, hack
 
 ## OUTPUT FORMAT
 
-Produce exactly four deliverables in this order. Use markdown formatting. Each deliverable should be clearly separated with a heading.
+Produce exactly six deliverables in this order. Use markdown formatting. Each deliverable should be clearly separated with a heading.
 
-NOTE: Deliverable 3 (Google Offer Doc) is the PRIMARY deliverable — the thing they'll actually use first. It should be written so they can copy it into a Google Doc and send it to their warm audience immediately to get hand-raisers. The other deliverables support it.
+NOTE: Deliverable 3 (Google Offer Doc) is the PRIMARY deliverable — the thing they'll actually use first. It should be written so they can copy it into a Google Doc and send it to their warm audience immediately to get hand-raisers. Deliverables 4-5 (Landing Page + Email Sequence) are the infrastructure for scaling beyond warm outreach. Deliverable 6 (Ad Hooks) drives cold traffic to the landing page.
 
 ### DELIVERABLE 1: IDEAL CLIENT PROFILE
 
@@ -144,47 +191,81 @@ Structure:
 
 ### DELIVERABLE 3: GOOGLE OFFER DOC (READY TO SEND)
 
-Write a complete "Easy To Sell" offer document they can copy into a Google Doc and send to warm prospects immediately. Use the following structure:
+Write a complete offer document they can copy into a Google Doc and send to warm prospects immediately.
 
-1. **HEADLINE** — [Big promise, specific, under 15 words. Do this LAST — write it after everything else.]
+**First, choose the best format for their offer type:**
+- **Format A: "Easy To Sell"** — courses, group programs, transformation offers (default)
+- **Format B: "Short-Form DM"** — high-ticket 1:1 coaching, DFY services
+- **Format C: "Phased Roadmap"** — memberships, communities, ongoing coaching
 
-2. **SUBHEAD** — [Specific, unique, measurable. Format: "Discover/Learn/Get [outcome] by [method] without [pain point]"]
+**State which format you chose and why at the top of this deliverable.**
 
-3. **[ADD AN ATTENTION-GRABBING IMAGE HERE]**
+Then follow the chosen format template from the methodology section exactly. Refer to the FORMAT A / FORMAT B / FORMAT C structures above.
 
-4. **WHO'S IT FOR** — [One paragraph describing the exact person this is for. Use Q2 language. Be specific enough that the right person thinks "that's me."]
-
-5. **SCARCITY TRANSITION + FUTURE PACING** — [Short urgency line, then paint the after-state emotionally. "Imagine [desired future]. Can you picture [specific benefit]?"]
-
-6. **TEASE THE SOLUTION** — ["There's just 3 steps..." then list the 3 steps of their mechanism with [+] bullets. Name them but don't explain yet.]
-
-7. **BACKSTORY** — [Their origin story from Q6. Write in SHORT punchy lines — fragments, not paragraphs. Raw and real. End with "I knew I needed to find a new way" or equivalent turning point.]
-
-8. **CONTRAST WITH PROOF** — [Bold statement: "I have now helped [X] people [achieve result]" or equivalent from Q3]
-
-9. **UNIQUE MECHANISM** — [Name the framework from Q4. "My [Framework Name] has allowed my clients to..." then [+] bullets of what it enables]
-
-10. **COUNTERINTUITIVE TEASE** — [Why this works when Q10 failed solutions don't. Short, punchy. End with why most people stay stuck.]
-
-11. **BENEFITS (EMOTIONAL + PROOF)** — ["When you tap into [Framework Name]..." then specific benefits using Q9 client language. Include [+] bullet results. Add: "The list of people that has made it work is LONG."]
-
-12. **WHAT YOU GET** — [Stack: bullet list of exactly what's included. Simple and clear.]
-
-13. **PUSH / WHO IT'S NOT FOR** — ["If you're not willing to: [list 3 commitments]. Then we should not be partners." Then: "You invest in me... and I invest in you!"]
-
-14. **CTA** — ["All you gotta do is **drop #[KEYWORD]** in Messenger." or "Reply **[KEYWORD]** to this message." Choose a keyword that relates to their transformation.]
-
-15. **PRICE REVEAL** — [State the price simply. Include "payment plans available" if applicable.]
-
-IMPORTANT formatting rules:
+IMPORTANT formatting rules for ALL formats:
 - SHORT lines, not long paragraphs — this reads like a DM conversation, not a sales page
 - Use bold for emphasis liberally
-- Use [+] bullets for benefit/feature lists
+- Use [+] or * bullets for benefit/feature lists
 - Keep backstory raw — fragments beat full sentences
 - This is for WARM audiences who already know them
 - The CTA is a keyword reply, not a link — they want hand-raisers, not clicks
 
-### DELIVERABLE 4: AD HOOKS (5 VARIATIONS)
+### DELIVERABLE 4: LANDING PAGE COPY
+
+Write complete landing page copy they can paste into GHL or any page builder. Use the long-form layout (cold traffic ready).
+
+Structure:
+- **HERO SECTION**
+  - Headline: transformation promise (use Deliverable 2 one-line pitch)
+  - Subhead: who it's for + timeframe
+  - CTA button text + trust element
+- **PROBLEM SECTION**
+  - "If you're struggling with..." — 3-5 bullet points of pain (use Q9 client language)
+  - Why this problem persists (use Q10 failed solutions)
+- **SOLUTION SECTION**
+  - "Introducing [Offer Name]" — what it is (1-2 sentences)
+  - The mechanism: 3-4 steps with names and descriptions (from Deliverable 2)
+- **WHAT'S INCLUDED**
+  - Component list with benefit for each (from Deliverable 2 stack)
+- **PROOF SECTION**
+  - Testimonial placeholder: "[Add client testimonial here]"
+  - Credibility statement from Q6 story
+- **OBJECTION HANDLING**
+  - FAQ format — address Q11 objections directly
+- **PRICING + CTA**
+  - Price, guarantee, payment plan if applicable
+  - CTA button text
+  - Final urgency line
+
+Write this as ACTUAL COPY they can paste — not instructions. Every section should be ready to use.
+
+### DELIVERABLE 5: EMAIL SEQUENCE (5 EMAILS)
+
+Write a 5-email welcome/nurture sequence for new leads or buyers. These go into GHL or any email platform.
+
+Structure:
+- **Email 1: Welcome + Quick Win** (send immediately)
+  - Subject line, preview text, body
+  - Welcome, what to do first, one quick win they can implement today
+- **Email 2: Story + Credibility** (Day 2)
+  - Their origin story (from Q6) — short, punchy version
+  - End with "here's why I help [ideal client] now"
+- **Email 3: Common Mistake** (Day 4)
+  - The #1 mistake their ideal client makes (from Q10 failed solutions)
+  - Why it doesn't work + what to do instead
+  - Soft mention of the offer
+- **Email 4: Social Proof / Case Study** (Day 6)
+  - If they have proof: use Q3 results in a case study format
+  - If no proof yet: use "[Add case study when available]" placeholder
+  - CTA to the offer
+- **Email 5: Direct Pitch** (Day 8)
+  - Restate the problem, the solution, what's included
+  - Clear CTA with price
+  - "Reply if you have questions"
+
+For each email include: Subject line, preview text, and complete body copy. Keep emails short (150-250 words each). Write in THEIR voice, not Michael's.
+
+### DELIVERABLE 6: AD HOOKS (5 VARIATIONS)
 
 For each hook:
 - **Type:** [Aware / Solution Aware / Problem Aware / Curiosity / Contrarian]
@@ -214,7 +295,7 @@ For each hook:
 ## GHL Questionnaire (Front-End Form)
 
 **Form title:** "Your Offer Builder — Quick Intake"
-**Subtitle:** "Answer these 11 questions so we can build your offer, copy, and ad hooks. Takes 10-15 minutes. Be specific — the more detail you give, the better your deliverables."
+**Subtitle:** "Answer these 11 questions so we can build your complete client acquisition package — offer, sales doc, landing page, emails, and ad hooks. Takes 10-15 minutes. Be specific — the more detail you give, the better your deliverables."
 
 ### Questions
 
@@ -285,7 +366,7 @@ Prompt: "Share links to 2-3 posts, emails, or videos that got the best response 
 When the webhook fires, format the form answers as the user message to Claude:
 
 ```
-Build the four deliverables for this person based on their questionnaire answers.
+Build the six deliverables for this person based on their questionnaire answers.
 
 ## Their Answers
 
@@ -333,7 +414,7 @@ Build the four deliverables for this person based on their questionnaire answers
 ```json
 {
   "model": "claude-sonnet-4-6",
-  "max_tokens": 8000,
+  "max_tokens": 12000,
   "temperature": 0.7,
   "system": "[SYSTEM PROMPT ABOVE]",
   "messages": [
@@ -348,23 +429,46 @@ Build the four deliverables for this person based on their questionnaire answers
 **Notes:**
 - Sonnet 4.5 is the best balance of quality and cost for this use case. Opus if you want maximum quality and don't mind the extra cost (~3x).
 - Temperature 0.7 gives creative copy while staying grounded in their answers.
-- 8000 tokens is enough for all four deliverables. Typical output runs 4000-6000 tokens.
-- Cost per generation: ~$0.10-0.30 on Sonnet, ~$0.30-0.90 on Opus.
-- Typical generation time: 15-30 seconds on Sonnet, 30-60 seconds on Opus.
+- 12000 tokens is enough for all six deliverables. Typical output runs 7000-10000 tokens.
+- Cost per generation: ~$0.20-0.50 on Sonnet, ~$0.60-1.50 on Opus.
+- Typical generation time: 30-60 seconds on Sonnet, 60-90 seconds on Opus.
 
 ---
 
-## Review Checklist (Michael — 10 min per deliverable set)
+## Review Checklist (Michael — 15-20 min per deliverable set)
 
 Before sending to client:
 
+**ICP + Offer Doc:**
 - [ ] ICP feels like a real person, not a generic avatar
 - [ ] Offer name isn't generic ("The Success System") — is it specific to their niche?
 - [ ] Mechanism has a clear name and 3-4 steps that make sense
-- [ ] Google offer doc sounds like THEM, not like every other coach
+- [ ] Price recommendation makes sense for their market
+
+**Google Offer Doc:**
+- [ ] Format matches their offer type (A/B/C — correct choice?)
+- [ ] Sounds like THEM, not like every other coach
+- [ ] CTA keyword is relevant and memorable
+
+**Landing Page:**
+- [ ] Headline matches Google Offer Doc positioning (consistent message)
+- [ ] Problem section uses Q9 client language
+- [ ] FAQ addresses all Q11 objections
+- [ ] Copy is paste-ready for GHL — no placeholder instructions left in
+
+**Email Sequence:**
+- [ ] Emails sound like THEM, not like Michael
+- [ ] Story email (Email 2) matches backstory in Google Offer Doc
+- [ ] Proof placeholders are clearly marked if no testimonials provided
+- [ ] Each email has a clear single CTA
+
+**Ad Hooks:**
+- [ ] Cover all awareness levels, not just "aware"
+- [ ] Hooks match the language/positioning in the landing page
+
+**Overall:**
 - [ ] No invented testimonials or fake proof — only placeholders
 - [ ] No income claims or revenue promises
-- [ ] Price recommendation makes sense for their market
-- [ ] Ad hooks cover all awareness levels, not just "aware"
+- [ ] Consistency across all 6 deliverables — same language, same positioning
 - [ ] The bridge to their higher-ticket offer is clear and natural
 - [ ] Would I send this to a $5K Accelerator client? If not, what's missing?

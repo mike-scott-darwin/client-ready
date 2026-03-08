@@ -238,7 +238,7 @@ What this requires:
 **This is NOT for you if:**
 
 - ✗ You haven't validated anything yet (start with $47 or DFY build)
-- ✗ You just want offer assets built (that's the $197 DFY Offer Build — ICP, offer doc, ready-to-send sales doc, ad hooks, delivered in 48 hours)
+- ✗ You just want offer assets built (that's the $197 DFY Offer Build — ICP, offer doc, Google Offer Doc, landing page, emails, ad hooks, delivered in 48 hours)
 - ✗ You're not sure what you want to offer
 - ✗ You can't commit 5-10 hours/week
 - ✗ You need convincing this is worth it (if you need a call, you're not ready)
@@ -252,7 +252,7 @@ What this requires:
 | $197 DFY Offer Build | $5K Accelerator |
 |----------------------|-----------------|
 | I build your offer assets | We build your entire business system together |
-| 4 deliverables (ICP, offer doc, landing page, ad hooks) | Funnel + traffic + optimization + scaling |
+| 6 deliverables (ICP, offer doc, Google Offer Doc, landing page, emails, ad hooks) | Funnel + traffic + optimization + scaling |
 | 48-hour delivery | 8 weeks |
 | No calls | 3 strategy calls + unlimited async |
 | Assets only | Full mentorship |

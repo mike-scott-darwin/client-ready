@@ -6,7 +6,7 @@
 
 ### Overview
 
-Client purchases OTO1 ($197) → answers 11 questions → Claude API generates 4 deliverables → Michael reviews → client receives package within 48 hours.
+Client purchases OTO1 ($197) → answers 11 questions → Claude API generates 6 deliverables → Michael reviews → client receives package within 48 hours.
 
 **DFY Lite ($97):** Same intake, reduced scope — only Deliverables 1 and 2 (ICP + Offer Doc).
 
@@ -71,16 +71,16 @@ The 11 questions:
 | Setting | Value |
 |---------|-------|
 | Model | `claude-sonnet-4-6` |
-| Max tokens | 8,000 |
+| Max tokens | 12,000 |
 | Temperature | 0.7 |
-| Cost per call | ~$0.10-0.30 |
-| Generation time | 15-30 seconds |
+| Cost per call | ~$0.20-0.50 |
+| Generation time | 30-60 seconds |
 
 **System prompt:** See `outputs/dfy-upsell/system-prompt.md`
 
 **User message format:**
 ```
-Build the four deliverables for this person based on their questionnaire answers.
+Build the six deliverables for this person based on their questionnaire answers.
 
 ## Their Answers
 
@@ -121,15 +121,15 @@ Build the four deliverables for this person based on their questionnaire answers
 {{content_links}}
 ```
 
-**Output:** 4 deliverables, ~4,000-6,000 tokens total
+**Output:** 6 deliverables, ~7,000-10,000 tokens total
 
-**DFY Lite:** Same API call, but add to user message: "This is a DFY Lite order. Generate only Deliverable 1 (ICP) and Deliverable 2 (Offer Document). Skip Google offer doc and ad hooks."
+**DFY Lite:** Same API call, but add to user message: "This is a DFY Lite order. Generate only Deliverable 1 (ICP) and Deliverable 2 (Offer Document). Skip Google offer doc, landing page, emails, and ad hooks."
 
 ---
 
 ### Step 4: Review & Refine
 
-**Time:** 30-45 minutes (DFY) / 15-20 minutes (DFY Lite)
+**Time:** 45-60 minutes (DFY) / 15-20 minutes (DFY Lite)
 **Who:** Michael — every deliverable reviewed personally before sending
 
 **Checklist:**
@@ -137,20 +137,28 @@ Build the four deliverables for this person based on their questionnaire answers
 - [ ] **ICP** feels like a real person, not a generic avatar
 - [ ] **Offer name** is specific to their niche (not "The Success System")
 - [ ] **Mechanism** has a clear name and 3-4 steps that make sense
+- [ ] **Google Offer Doc format** matches their offer type — A (course/program), B (high-ticket 1:1/DFY), or C (membership/community)
 - [ ] **Google Offer Doc** sounds like THEM — mirrors their language, written in short punchy lines not paragraphs
+- [ ] **Landing page** headline matches Google Offer Doc positioning
+- [ ] **Landing page** FAQ addresses all Q11 objections
+- [ ] **Email sequence** sounds like THEM, not like Michael
+- [ ] **Email sequence** story matches backstory in Google Offer Doc
 - [ ] **No invented testimonials** — only placeholders where proof is needed
 - [ ] **No income claims** or revenue promises
 - [ ] **Price recommendation** makes sense for their market
 - [ ] **Ad hooks** cover all awareness levels (not just "aware")
 - [ ] **The bridge** to their higher-ticket service is clear and natural
-- [ ] **Consistency** across all 4 deliverables — same language, same positioning
+- [ ] **Consistency** across all 6 deliverables — same language, same positioning
 - [ ] Would I send this to a $5K Accelerator client? If not, what's missing?
 
 **Common fixes:**
+- Wrong Google Offer Doc format → if they sell 1:1/DFY, switch to Format B; if membership/community, switch to Format C; re-run API with format override
 - Mechanism name too generic → rename using their actual language
 - ICP too broad → narrow to the one person from Q2
 - Google Offer Doc sounds like Michael, not them → rewrite key sections in their voice
 - Google Offer Doc too formal/long-form → shorten lines, add more line breaks, make it punchy
+- Landing page copy inconsistent with Google Offer Doc → align headlines and positioning
+- Email sequence too generic → rewrite with their voice and specific examples
 - Ad hooks too similar → ensure different awareness levels are actually different
 - Client language (Q9) not used in headlines → swap in their exact words
 - Failed solutions (Q10) not referenced in "here's why" section → add contrast
@@ -170,7 +178,9 @@ Build the four deliverables for this person based on their questionnaire answers
 Section 1: Ideal Client Profile
 Section 2: Offer Document
 Section 3: Google Offer Doc — Ready to Send (DFY only)
-Section 4: Ad Hooks — 5 Variations (DFY only)
+Section 4: Landing Page Copy — GHL Ready (DFY only)
+Section 5: Email Sequence — 5 Emails (DFY only)
+Section 6: Ad Hooks — 5 Variations (DFY only)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Next Steps (bottom of doc)
@@ -183,7 +193,9 @@ Next Steps (bottom of doc)
 1. Read through everything. Highlight anything that doesn't sound like you.
 2. Reply with any changes — I'll revise once (included).
 3. Copy your Google Offer Doc into a Google Doc and send it to your warm audience TODAY.
-4. Drop your ad hooks into Meta Ads Manager when you're ready to run cold traffic.
+4. Paste the landing page copy into your GHL page builder.
+5. Set up the 5-email sequence in GHL (copy-paste ready).
+6. Drop your ad hooks into Meta Ads Manager when you're ready to run cold traffic.
 
 Questions? DM me in Skool or reply to this email.
 
@@ -243,16 +255,16 @@ and I'll help you implement: [SKOOL LINK]
 |------|-----------|---------------|
 | Questionnaire intake | — | — |
 | API generation | 2 min | 2 min |
-| Review & refine | 30-45 min | 15-20 min |
+| Review & refine (6 deliverables) | 45-60 min | 15-20 min |
 | Package & deliver | 15 min | 10 min |
 | Loom walkthrough | 5 min | 3 min |
-| Revision round | 15-30 min | 10-15 min |
-| **Total (with revision)** | **~1-1.5 hours** | **~30-50 min** |
+| Revision round | 20-30 min | 10-15 min |
+| **Total (with revision)** | **~1.5-2 hours** | **~30-50 min** |
 
 **Effective hourly rate:**
-- DFY at $197: ~$130-200/hour
+- DFY at $197: ~$100-130/hour
 - DFY Lite at $97: ~$115-195/hour
-- API cost: ~$0.10-0.30 per generation (negligible)
+- API cost: ~$0.20-0.50 per generation (negligible)
 
 ---
 

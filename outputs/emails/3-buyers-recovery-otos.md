@@ -115,7 +115,7 @@ Here's what happens with it:
 
 - Day 1: Answer 11 questions (10-15 minutes)
 - Day 2: I review your complete offer package
-- Day 3: You have your ICP, offer doc, ready-to-send sales doc, and 5 ad hooks in your inbox
+- Day 3: You have your ICP, offer doc, Google Offer Doc, landing page copy, email sequence, and 5 ad hooks in your inbox
 
 Same destination. Different timeline.
 

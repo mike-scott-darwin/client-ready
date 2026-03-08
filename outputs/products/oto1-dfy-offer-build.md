@@ -1,14 +1,14 @@
 # DFY Offer Build
 
-**Your complete offer package — built for you in 48 hours.**
+**Your complete client acquisition package — built for you in 48 hours.**
 
 ---
 
 ## What You Just Got
 
-You answer 11 questions. I build everything for you. $197 one-time.
+You answer 11 questions. I build your entire client acquisition machine. $197 one-time.
 
-No DIY. No blank pages. No second-guessing. You fill out a short questionnaire (10-15 minutes), and within 48 hours you have a complete offer package in your inbox — reviewed by me personally before delivery.
+No DIY. No blank pages. No second-guessing. You fill out a short questionnaire (10-15 minutes), and within 48 hours you have everything you need to start getting clients — reviewed by me personally before delivery.
 
 **Plus:** 30-day trial of the Client Ready Community included.
 
@@ -16,14 +16,16 @@ No DIY. No blank pages. No second-guessing. You fill out a short questionnaire (
 
 ## What's Included
 
-### The 4 Deliverables
+### The 6 Deliverables
 
 | # | Deliverable | What You Get |
 |---|-------------|--------------|
 | 1 | **Ideal Client Profile** | Complete ICP — who they are, their struggle, why they're ready, red flags to avoid |
 | 2 | **Offer Document** | Full offer doc — headline, who it's for, the problem, the solution, what's included, transformation, pricing |
 | 3 | **Google Offer Doc** | Ready-to-send sales doc — copy into Google Docs, send to your warm audience, get hand-raisers today |
-| 4 | **5 Ad Hooks** | Meta ad copy across awareness levels — pain agitation, transformation, qualifier, story, contrarian |
+| 4 | **Landing Page Copy** | Complete landing page copy — paste into GHL or any page builder, ready for cold traffic |
+| 5 | **Email Sequence** | 5-email welcome + nurture sequence — copy into GHL, automated client nurturing |
+| 6 | **5 Ad Hooks** | Meta ad copy across awareness levels — pain agitation, transformation, qualifier, story, contrarian |
 
 ### The Community Trial
 
@@ -97,13 +99,13 @@ Your deliverables arrive on time. If for any reason they don't:
 ## FAQ
 
 **Q: How is this different from the $47 system?**
-A: The $47 system teaches you to extract your own offer using AI prompts. The DFY build means I do the extraction and building for you. Same destination, different path. DIY vs. done-for-you.
+A: The $47 system teaches you to extract your own offer and build a basic sales doc using AI prompts. The DFY build means I build your entire client acquisition package — professional Google Offer Doc, landing page, email sequence, and ad hooks. DIY gets you started. DFY gets you the machine.
 
 **Q: What if I don't like what you create?**
 A: You get one revision round included. If the direction is off, I'll adjust based on your feedback.
 
 **Q: Do I need tech skills to use the deliverables?**
-A: No. The sales doc is ready to copy into a Google Doc and send to your warm audience. The ad hooks are ready to paste into Meta Ads Manager.
+A: No. The sales doc is ready to copy into a Google Doc and send to your warm audience. The landing page copy pastes into GHL or any page builder. The email sequence is copy-paste ready for GHL. The ad hooks paste into Meta Ads Manager.
 
 **Q: What about the community trial?**
 A: You get 30 days free in the Client Ready Community. If you love it, it continues at $97/month. If not, cancel before 30 days and you're never charged. No friction.
