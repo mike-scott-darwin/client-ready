@@ -38,12 +38,12 @@ You answer 11 questions. We build your complete client acquisition package — I
 *[Display DFY Offer Build as a stacked deliverable package — 6 documents fanned out or layered, each with a visible title bar and preview content. Professional "client delivery folder" aesthetic — complete and tangible.]*
 
 **Components shown (6 documents, each with visible header):**
-- **"Your Dream Client Blueprint"** — document with avatar icon, demographics table, buying triggers list
+- **"Dream Client Blueprint"** — document with avatar icon, demographics table, buying triggers list
 - **"Your Validated Offer"** — document with named mechanism header, transformation statement, pricing stack
-- **"Your One-Page Sales Weapon"** — sales doc format with bold headline, price, and CTA button visible
-- **"Your Plug-and-Play Sales Page"** — webpage mockup showing hero headline, mockup image, and buy button
-- **"Your Buyer-to-Client Email Machine"** — email mockup showing 5 subject lines stacked (Welcome, Story, Mistake, Proof, Pitch)
-- **"Your 5 Scroll-Stopping Ad Hooks"** — ad preview cards showing different headlines with image placeholders
+- **"One-Page Sales Weapon"** — sales doc format with bold headline, price, and CTA button visible
+- **"Plug-and-Play Sales Page"** — webpage mockup showing hero headline, mockup image, and buy button
+- **"Buyer-to-Client Email Machine"** — email mockup showing 5 subject lines stacked (Welcome, Story, Mistake, Proof, Pitch)
+- **"5 Scroll-Stopping Ad Hooks"** — ad preview cards showing different headlines with image placeholders
 
 *Style: Clean, dark background. Documents slightly overlapping. Each has enough visible detail to look real — not placeholder text. The stack should feel like "this is everything you need to launch."*
 
@@ -83,7 +83,7 @@ No guessing. No staring at a blank page. No "I'll get to it this weekend."
 
 ## [DELIVERABLE #1]
 
-### Your Dream Client Blueprint
+### Dream Client Blueprint
 
 A clear, detailed profile of exactly who pays you — who they are, what they want, what's stopping them, and the specific language they use to describe their problem. This is the foundation everything else is built on. Without it, your offer talks to everyone and converts no one.
 
@@ -99,7 +99,7 @@ Your offer — extracted, structured, and positioned. What you sell, who it's fo
 
 ## [DELIVERABLE #3]
 
-### Your One-Page Sales Weapon
+### One-Page Sales Weapon
 
 A complete sales document — headline, subheadline, body, bullet points, CTA. Ready to copy into a Google Doc and send to your warm audience today. DM it. Email it. Post it. Written specifically for your offer and your audience. Not a fill-in-the-blank template. Actual copy built from your dream client blueprint and validated offer.
 
@@ -107,7 +107,7 @@ A complete sales document — headline, subheadline, body, bullet points, CTA. R
 
 ## [DELIVERABLE #4]
 
-### Your Plug-and-Play Sales Page
+### Plug-and-Play Sales Page
 
 A complete, structured landing page — hero section, problem agitation, solution, what's included, FAQ, pricing, and CTA. Written from your dream client blueprint and validated offer — not a template. Hand this to any designer or paste it straight into GHL. You have a page that sells.
 
@@ -115,7 +115,7 @@ A complete, structured landing page — hero section, problem agitation, solutio
 
 ## [DELIVERABLE #5]
 
-### Your Buyer-to-Client Email Machine
+### Buyer-to-Client Email Machine
 
 Five emails that turn a stranger into a paying client — welcome, story, common mistake, social proof, direct pitch. Written in your voice, for your audience, with your offer. Not generic drip. Actual emails you load into GHL and press go.
 
@@ -123,7 +123,7 @@ Five emails that turn a stranger into a paying client — welcome, story, common
 
 ## [DELIVERABLE #6]
 
-### Your 5 Scroll-Stopping Ad Hooks
+### 5 Scroll-Stopping Ad Hooks
 
 Five tested hook angles for your offer — ready to run as ads, post as organic content, or use in DMs. Each one hits a different pain point or desire from your dream client blueprint. You test all five, find the one that hits, and scale it.
 
@@ -172,12 +172,12 @@ The assets get you clear. The community helps you stay clear while you test, val
 
 ## AFTER 48 HOURS, YOU'LL HAVE:
 
-- Your Dream Client Blueprint — you know exactly who pays you and why
+- Dream Client Blueprint — you know exactly who pays you and why
 - Your Validated Offer — explain what you sell in 30 seconds, no hesitation
-- Your One-Page Sales Weapon — send it to your warm audience today
-- Your Plug-and-Play Sales Page — paste into GHL and go live
-- Your Buyer-to-Client Email Machine — 5 emails loaded and selling for you
-- Your 5 Scroll-Stopping Ad Hooks — test this week, find the winner, scale it
+- One-Page Sales Weapon — send it to your warm audience today
+- Plug-and-Play Sales Page — paste into GHL and go live
+- Buyer-to-Client Email Machine — 5 emails loaded and selling for you
+- 5 Scroll-Stopping Ad Hooks — test this week, find the winner, scale it
 - 30-day community trial for support while you deploy
 - Zero guesswork about what to say or who to say it to
 
