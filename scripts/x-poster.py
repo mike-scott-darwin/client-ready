@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """
-X Auto-Poster for Client Ready
+X Thread Poster for Client Ready
 
-Posts the next unposted tweet from content/drafts/tweets/.
-Each invocation posts one tweet, then moves it to published/.
+Posts a daily thread (5 connected tweets) from content/drafts/tweets/.
+Each invocation posts one complete thread, then moves all 5 files to published/.
 
-Designed to run via launchd at scheduled intervals (e.g., 8am, 10:30am, 1pm, 4pm, 7pm).
-Each invocation posts one tweet. Five invocations = five tweets spaced across the day.
+Designed to run via launchd once per day (e.g., 8:30am).
+Each thread is 5 tweets posted as a reply chain.
 
-Posts any draft with scheduled_date <= today (catches up on missed days).
+Posts any thread with scheduled_date <= today (catches up on missed days).
 """
 
 import os
@@ -26,8 +26,8 @@ PUBLISHED_DIR = REPO_ROOT / "content" / "published" / "tweets"
 STATE_FILE = REPO_ROOT / ".x-poster-state.json"
 LOG_FILE = REPO_ROOT / "scripts" / "x-poster.log"
 
-# Max tweets per day (safety limit)
-MAX_TWEETS_PER_DAY = 5
+# Max threads per day (safety limit)
+MAX_THREADS_PER_DAY = 1
 
 
 def log(message):
@@ -68,26 +68,31 @@ def save_state(state):
         json.dump(state, f, indent=2)
 
 
-def find_next_draft():
-    """Find the next unposted tweet draft with scheduled_date <= today."""
+def find_next_thread():
+    """Find the next unposted thread (group of tweets for a date) with scheduled_date <= today."""
     today = datetime.now().strftime("%Y-%m-%d")
     if not DRAFTS_DIR.exists():
-        return None, today
+        return [], today
 
-    # Get all .md files sorted by name (date order)
     drafts = sorted([
         f for f in DRAFTS_DIR.iterdir()
         if f.suffix == ".md"
     ])
 
-    # Return the first draft with date <= today
+    # Group by date
+    dates_seen = {}
     for draft in drafts:
-        # Extract date from filename (YYYY-MM-DD from YYYY-MM-DD-N.md)
         date_part = "-".join(draft.stem.split("-")[:3])
         if date_part <= today:
-            return draft, today
+            dates_seen.setdefault(date_part, []).append(draft)
 
-    return None, today
+    if not dates_seen:
+        return [], today
+
+    # Return the oldest date's files (sorted by post number)
+    oldest_date = min(dates_seen.keys())
+    thread_files = sorted(dates_seen[oldest_date])
+    return thread_files, today
 
 
 def parse_tweet_file(filepath):
@@ -101,27 +106,52 @@ def parse_tweet_file(filepath):
     return body
 
 
-def post_tweet(client, text):
-    """Post a single tweet. Returns tweet ID or None."""
-    try:
-        response = client.create_tweet(text=text)
-        return response.data["id"]
-    except Exception as e:
-        log(f"ERROR posting tweet: {e}")
-        return None
+def post_thread(client, tweets):
+    """Post a thread (reply chain). Returns list of (file, tweet_id) tuples."""
+    results = []
+    previous_id = None
+
+    for filepath, text in tweets:
+        try:
+            kwargs = {"text": text}
+            if previous_id:
+                kwargs["in_reply_to_tweet_id"] = previous_id
+            response = client.create_tweet(**kwargs)
+            tweet_id = response.data["id"]
+            results.append((filepath, str(tweet_id)))
+            previous_id = tweet_id
+            log(f"  Posted tweet {len(results)}/{len(tweets)}: {text[:50]}...")
+        except Exception as e:
+            log(f"  ERROR posting tweet {len(results)+1}: {e}")
+            results.append((filepath, None))
+            # If the first tweet fails, abort the thread
+            if previous_id is None:
+                break
+
+    return results
 
 
-def move_to_published(filepath, tweet_id):
+def move_to_published(filepath, tweet_id, thread_id=None):
     """Move individual tweet file to published/tweets/ with metadata in frontmatter."""
     PUBLISHED_DIR.mkdir(parents=True, exist_ok=True)
     dest = PUBLISHED_DIR / filepath.name
     content = filepath.read_text()
     content = content.replace('status: draft', 'status: published')
-    content = re.sub(
-        r'published_date:\s*null',
-        f'published_date: {datetime.now().isoformat()}\ntweet_id: "{tweet_id}"\nurl: https://x.com/mikescot/status/{tweet_id}',
-        content
-    )
+
+    # Add metadata
+    parts = content.split("---")
+    if len(parts) >= 3:
+        fm = parts[1].rstrip()
+        fm += f'\npublished_date: {datetime.now().isoformat()}'
+        if tweet_id:
+            fm += f'\ntweet_id: "{tweet_id}"'
+            fm += f'\nurl: https://x.com/mikescot/status/{tweet_id}'
+        if thread_id:
+            fm += f'\nthread_id: "{thread_id}"'
+        fm += '\n'
+        parts[1] = fm
+        content = "---".join(parts)
+
     dest.write_text(content)
     filepath.unlink()
     log(f"Moved {filepath.name} -> content/published/tweets/")
@@ -140,22 +170,28 @@ def main():
     today = datetime.now().strftime("%Y-%m-%d")
     state = load_state()
     posted_today = state.get(today, [])
-    if len(posted_today) >= MAX_TWEETS_PER_DAY:
-        log(f"Daily limit reached ({MAX_TWEETS_PER_DAY} tweets). Skipping.")
+    if len(posted_today) >= MAX_THREADS_PER_DAY:
+        log(f"Daily limit reached ({MAX_THREADS_PER_DAY} thread(s)). Skipping.")
         sys.exit(0)
 
-    # Find next draft to post
-    draft_file, _ = find_next_draft()
-    if not draft_file:
+    # Find next thread to post
+    thread_files, _ = find_next_thread()
+    if not thread_files:
         log(f"No tweet drafts ready (scheduled_date <= {today}). Skipping.")
         sys.exit(0)
 
-    tweet_text = parse_tweet_file(draft_file)
-    if not tweet_text:
-        log(f"Empty tweet in {draft_file.name}. Skipping.")
+    # Parse all tweets in the thread
+    tweets = []
+    for f in thread_files:
+        text = parse_tweet_file(f)
+        if text:
+            tweets.append((f, text))
+
+    if not tweets:
+        log("All tweet files empty. Skipping.")
         sys.exit(0)
 
-    # Post it
+    # Post the thread
     try:
         import tweepy
     except ImportError:
@@ -169,24 +205,32 @@ def main():
         access_token_secret=env["X_ACCESS_TOKEN_SECRET"],
     )
 
-    log(f"Posting ({draft_file.name})...")
-    tweet_id = post_tweet(client, tweet_text)
+    date_part = "-".join(thread_files[0].stem.split("-")[:3])
+    log(f"Posting thread for {date_part} ({len(tweets)} tweets)...")
+    results = post_thread(client, tweets)
 
-    if tweet_id:
+    # The first tweet's ID is the thread ID
+    thread_id = results[0][1] if results else None
+    success_count = sum(1 for _, tid in results if tid)
+
+    if thread_id:
         posted_today.append({
-            "tweet_id": str(tweet_id),
-            "url": f"https://x.com/mikescot/status/{tweet_id}",
+            "thread_id": thread_id,
+            "url": f"https://x.com/mikescot/status/{thread_id}",
             "posted_at": datetime.now().isoformat(),
-            "source_file": draft_file.name,
-            "text_preview": tweet_text[:60],
+            "date": date_part,
+            "tweet_count": success_count,
+            "source_files": [f.name for f in thread_files],
         })
         state[today] = posted_today
         save_state(state)
-        log(f"Posted: https://x.com/mikescot/status/{tweet_id}")
+        log(f"Thread posted: https://x.com/mikescot/status/{thread_id} ({success_count}/{len(tweets)} tweets)")
 
-        move_to_published(draft_file, tweet_id)
+        # Move all files to published
+        for filepath, tweet_id in results:
+            move_to_published(filepath, tweet_id, thread_id)
     else:
-        log(f"Failed to post {draft_file.name}.")
+        log("Failed to post thread (first tweet failed).")
         sys.exit(1)
 
 
