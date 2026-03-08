@@ -3,14 +3,15 @@
 Beehiiv Newsletter Poster for Client Ready
 
 Posts the next unposted newsletter from content/drafts/newsletter/.
-Converts markdown to HTML and creates as draft on Beehiiv so you
-can review formatting before sending.
+Converts markdown to HTML. Attempts API posting first; if plan doesn't
+support it, generates an HTML file and opens Beehiiv for manual paste.
 
 Usage:
-    python3 beehiiv-poster.py              # Post next unposted newsletter as draft
-    python3 beehiiv-poster.py --all        # Post all unposted newsletters as drafts
-    python3 beehiiv-poster.py --publish    # Publish immediately (sends to subscribers)
-    python3 beehiiv-poster.py --schedule   # Schedule using dates from frontmatter
+    python3 beehiiv-poster.py              # Post next newsletter (API or HTML fallback)
+    python3 beehiiv-poster.py --all        # Process all ready newsletters
+    python3 beehiiv-poster.py --publish    # Publish immediately via API
+    python3 beehiiv-poster.py --schedule   # Schedule via API using frontmatter dates
+    python3 beehiiv-poster.py --html-only  # Skip API, just generate HTML for paste
 
 Requires:
     pip3 install markdown
@@ -19,13 +20,15 @@ Environment variables (.env):
     BEEHIIV_API_KEY  - API key from Beehiiv dashboard
     BEEHIIV_PUB_ID   - Publication ID (starts with "pub_")
 
-Note: Beehiiv Create Post API requires Scale plan or higher.
+Note: Beehiiv Create Post API requires Enterprise plan.
+On lower plans, the script generates HTML + opens Beehiiv for manual paste.
 """
 
 import os
 import sys
 import json
 import re
+import subprocess
 import urllib.request
 import urllib.error
 import ssl
@@ -36,6 +39,7 @@ REPO_ROOT = Path(__file__).parent.parent
 ENV_FILE = REPO_ROOT / ".env"
 DRAFTS_DIR = REPO_ROOT / "content" / "drafts" / "newsletter"
 PUBLISHED_DIR = REPO_ROOT / "content" / "published" / "newsletter"
+HTML_DIR = REPO_ROOT / "scripts" / "newsletter-html"
 STATE_FILE = REPO_ROOT / ".beehiiv-poster-state.json"
 LOG_FILE = REPO_ROOT / "scripts" / "beehiiv-poster.log"
 
@@ -138,19 +142,15 @@ def parse_newsletter(filepath):
 
     fm, body = parse_frontmatter(content)
 
-    # Extract title (first # heading)
     title_match = re.search(r'^#\s+(.+)$', body, re.MULTILINE)
     title = title_match.group(1).strip() if title_match else filepath.stem
 
-    # Extract subject line
     subject_match = re.search(r'\*\*Subject line:\*\*\s*(.+)', body)
     subject = subject_match.group(1).strip() if subject_match else title
 
-    # Extract preview text
     preview_match = re.search(r'\*\*Preview text:\*\*\s*(.+)', body)
     preview = preview_match.group(1).strip() if preview_match else ""
 
-    # Get body content (everything after the metadata block)
     body = re.sub(r'^#\s+.+\n+', '', body)
     body = re.sub(r'\*\*Subject line:\*\*\s*.+\n+', '', body)
     body = re.sub(r'\*\*Preview text:\*\*\s*.+\n+', '', body)
@@ -176,6 +176,35 @@ def markdown_to_html(md_text):
     html = markdown.markdown(md_text, extensions=["extra"])
     html = re.sub(r'<p>---</p>', '<hr>', html)
     return html
+
+
+def generate_html_file(newsletter, draft_name):
+    """Generate a styled HTML file for manual paste into Beehiiv."""
+    HTML_DIR.mkdir(parents=True, exist_ok=True)
+    html_path = HTML_DIR / f"{Path(draft_name).stem}.html"
+
+    body_html = markdown_to_html(newsletter["body_md"])
+
+    full_html = f"""<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>{newsletter['subject']}</title>
+<style>
+body {{ font-family: -apple-system, sans-serif; max-width: 600px; margin: 40px auto; padding: 20px; line-height: 1.6; color: #1a1a1a; }}
+h1, h2, h3 {{ line-height: 1.3; }}
+hr {{ border: none; border-top: 1px solid #ddd; margin: 24px 0; }}
+blockquote {{ border-left: 3px solid #333; margin-left: 0; padding-left: 16px; color: #555; }}
+</style>
+</head>
+<body>
+<h1>{newsletter['title']}</h1>
+{body_html}
+</body>
+</html>"""
+
+    html_path.write_text(full_html)
+    return html_path
 
 
 def post_to_beehiiv(api_key, pub_id, newsletter, status="draft", schedule_at=None):
@@ -217,16 +246,15 @@ def post_to_beehiiv(api_key, pub_id, newsletter, status="draft", schedule_at=Non
         return result.get("data", {}).get("id", "unknown")
     except urllib.error.HTTPError as e:
         body = e.read().decode()
-        log(f"ERROR posting ({e.code}): {body}")
+        log(f"API error ({e.code}): {body[:200]}")
         if e.code == 401:
             log("HINT: API key is invalid. Regenerate at https://app.beehiiv.com/settings/integrations")
         if e.code == 403:
-            log("HINT: Beehiiv Create Post API requires Scale plan ($49/mo).")
-            log("HINT: Check your plan at https://app.beehiiv.com/settings/billing")
+            log("API posting requires Enterprise plan. Falling back to HTML generation.")
         return None
 
 
-def move_to_published(filepath):
+def move_to_published(filepath, post_id=None):
     """Move draft to published/newsletter/ and update frontmatter status."""
     PUBLISHED_DIR.mkdir(parents=True, exist_ok=True)
     dest = PUBLISHED_DIR / filepath.name
@@ -236,6 +264,11 @@ def move_to_published(filepath):
     content = re.sub(r'published_date:\s*null',
                      f'published_date: {datetime.now().strftime("%Y-%m-%d")}',
                      content)
+    if post_id:
+        parts = content.split("---")
+        if len(parts) >= 3:
+            parts[1] = parts[1].rstrip() + f'\npost_id: "{post_id}"\n'
+            content = "---".join(parts)
     dest.write_text(content)
     filepath.unlink()
     log(f"Moved {filepath.name} -> content/published/newsletter/")
@@ -245,10 +278,11 @@ def main():
     post_all = "--all" in sys.argv
     publish = "--publish" in sys.argv
     schedule = "--schedule" in sys.argv
+    html_only = "--html-only" in sys.argv
 
     status = "confirmed" if (publish or schedule) else "draft"
 
-    # Load credentials — accept both env var names
+    # Load credentials
     env = load_env()
     api_key = env.get("BEEHIIV_API_KEY")
     pub_id = env.get("BEEHIIV_PUB_ID") or env.get("BEEHIIV_PUBLICATION_ID")
@@ -271,7 +305,7 @@ def main():
         log("No newsletter drafts ready. Skipping.")
         sys.exit(0)
 
-    log(f"Posting {len(to_post)} newsletter(s) as {status}...")
+    log(f"Processing {len(to_post)} newsletter(s)...")
 
     state = load_state()
     posted_files = set(state.get("posted_files", []))
@@ -287,31 +321,41 @@ def main():
             if sched_date:
                 schedule_at = f"{sched_date}T10:00:00Z"
 
-        log(f"Posting: {newsletter['title']} ({draft_path.name}) as {status}...")
+        log(f"Processing: {newsletter['title']} ({draft_path.name})...")
 
-        post_id = post_to_beehiiv(api_key, pub_id, newsletter, status, schedule_at)
+        post_id = None
+        if not html_only:
+            post_id = post_to_beehiiv(api_key, pub_id, newsletter, status, schedule_at)
 
         if post_id:
-            posted_files.add(draft_path.name)
-            state.setdefault("posts", {})[draft_path.name] = {
-                "post_id": post_id,
-                "posted_at": datetime.now().isoformat(),
-                "status": status,
-                "title": newsletter["title"],
-                "subject": newsletter["subject"],
-            }
-            state["posted_files"] = list(posted_files)
-            save_state(state)
-            log(f"  -> {status}: {post_id}")
-            move_to_published(draft_path)
-            success_count += 1
+            log(f"  -> API {status}: {post_id}")
         else:
-            log(f"  -> FAILED: {draft_path.name}")
+            # Fallback: generate HTML for manual paste
+            html_path = generate_html_file(newsletter, draft_path.name)
+            log(f"  -> HTML generated: {html_path}")
+            log(f"  -> Subject: {newsletter['subject']}")
+            log(f"  -> Preview: {newsletter['preview']}")
+            # Open the HTML file and Beehiiv new post page
+            try:
+                subprocess.run(["open", str(html_path)], check=False)
+                subprocess.run(["open", f"https://app.beehiiv.com/posts/new"], check=False)
+            except Exception:
+                pass
 
-    log(f"Done. {success_count}/{len(to_post)} posted successfully.")
+        posted_files.add(draft_path.name)
+        state.setdefault("posts", {})[draft_path.name] = {
+            "post_id": post_id or "manual",
+            "posted_at": datetime.now().isoformat(),
+            "status": status if post_id else "html-generated",
+            "title": newsletter["title"],
+            "subject": newsletter["subject"],
+        }
+        state["posted_files"] = list(posted_files)
+        save_state(state)
+        move_to_published(draft_path, post_id)
+        success_count += 1
 
-    if success_count < len(to_post):
-        sys.exit(1)
+    log(f"Done. {success_count}/{len(to_post)} processed.")
 
 
 if __name__ == "__main__":
