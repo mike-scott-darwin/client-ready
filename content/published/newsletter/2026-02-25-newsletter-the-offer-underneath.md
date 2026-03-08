@@ -3,9 +3,9 @@ platform: newsletter
 type: newsletter
 angle: before-the-funnel
 pillar: offer-creation
-status: draft
+status: published
 scheduled_date: 2026-02-25
-published_date: null
+published_date: 2026-02-25
 engagement: null
 ---
 

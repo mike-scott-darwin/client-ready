@@ -3,9 +3,9 @@ platform: newsletter
 type: newsletter
 angle: validation
 pillar: funnel-strategy
-status: draft
+status: published
 scheduled_date: 2026-03-04
-published_date: null
+published_date: 2026-03-04
 engagement: null
 ---
 
