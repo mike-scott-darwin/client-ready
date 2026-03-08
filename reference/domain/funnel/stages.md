@@ -21,7 +21,7 @@ ORDER BUMPS ($37 + $67 + $97)
 OTO 1: DFY Offer Build ($197) + 30-day community trial
     |  NO --> Downsell: DFY Lite ($97) + 30-day community trial
     |
-OTO 2: "What's Working Now" Newsletter ($37/mo)
+OTO 2: "The Monthly Playbook" Newsletter ($37/mo)
     |
 THANK YOU + ONBOARDING FORM (triggers DFY build)
     |
@@ -101,7 +101,7 @@ RETENTION (Results --> Referrals --> Case Studies)
 
 **Goal:** Upsell to done-for-you offer creation + community trial
 
-**Product:** AI-built deliverables (ICP + offer document + ready-to-send sales doc + 5 ad hooks) + 30-day free community trial
+**Product:** AI-built deliverables (ICP + offer document + Google Offer Doc + landing page copy + email sequence + 5 ad hooks) + 30-day free community trial
 
 **What happens:**
 - Customer lands on OTO page after checkout
@@ -114,7 +114,7 @@ RETENTION (Results --> Referrals --> Case Studies)
 - 30-day community trial activates automatically
 
 **If they say NO — Downsell: DFY Lite ($97):**
-- Stripped version: ICP + offer document only (no sales doc, no ad hooks)
+- Stripped version: ICP + offer document only (no Google Offer Doc, no landing page, no emails, no ad hooks)
 - Same 30-day community trial included
 - Same onboarding form, shorter output
 
@@ -135,7 +135,7 @@ See: `outputs/dfy-upsell/system-prompt.md` for Claude API spec
 
 **Goal:** Low-friction recurring revenue + ongoing touchpoint
 
-**Product:** "What's Working Now" — monthly breakdown of tested offers, templates, and results
+**Product:** "The Monthly Playbook" — monthly breakdown of tested offers, templates, and results
 
 **What happens:**
 - Shown to ALL buyers (not conditional)
@@ -197,7 +197,7 @@ See: `reference/domain/funnel/email-rhythm.md`
 - Weekly hot seat calls with Michael (live coaching)
 - Sprint curriculum as self-paced learning path (Extract → Validate → Build → Launch)
 - DFY templates of the month (tested assets Michael is running)
-- "What's Working Now" breakdowns
+- "The Monthly Playbook" breakdowns
 - DM access to Michael
 - Peer accountability + wins
 

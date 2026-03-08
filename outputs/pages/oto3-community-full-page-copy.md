@@ -92,11 +92,11 @@ These aren't theoretical. They're pulled from what's working right now, cleaned 
 
 ## [COMPONENT 4]
 
-### "What's Working Now" Breakdowns
+### "The Monthly Playbook" Breakdowns
 
 The landscape changes. What worked six months ago might not work today. Every month, I break down what's actually producing results — specific tactics, specific channels, specific approaches.
 
-No theory. No recycled advice. Just what's working now, from real campaigns.
+No theory. No recycled advice. Just what's working right now, from real campaigns.
 
 ---
 
@@ -154,7 +154,7 @@ You also get early access to Accelerator spots when they open. Accelerator clien
 - Weekly hot seat calls with Michael (live)
 - Sprint curriculum — Extract, Validate, Build, Launch (self-paced)
 - DFY templates of the month (tested assets from real campaigns)
-- "What's Working Now" monthly breakdowns
+- "The Monthly Playbook" monthly breakdowns
 - DM access to Michael
 - Peer accountability and wins
 - Early access to Accelerator spots

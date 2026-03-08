@@ -8,15 +8,15 @@
 
 You're holding the exact system I used to go from 7 years of searching to a validated offer — in one afternoon. Not theory — the actual process, tools, and template.
 
-This guide starts with the case study — how I built my own Client Ready Offer — then gives you the 5 tools to build yours:
+This guide starts with the case study — how I built my own Client Ready Offer — then gives you the 6 tools to build yours:
 
-1. **5 AI Prompts That Extract Your Genius** — The exact tools that pull your zone of genius out of your head and into a sellable offer
+1. **6 AI Prompts That Extract Your Genius** — The exact tools that pull your zone of genius out of your head and into a sellable offer — including a ready-to-send Google Offer Doc
 2. **Your $5K Offer Ready Today** — The complete offer document template that makes your offer ready to sell
 3. **"I'm The Only Choice" Positioning** — How to position yourself so you're not competing — you're the obvious answer
 4. **Validate Before You Build** — The system for testing your offer with real people before investing in infrastructure
 5. **One Offer You Won't Abandon** — The alignment check that ensures you're building something you'll actually stick with
 
-By the end of this guide, you'll have a complete offer document — validated, positioned, and ready to share.
+By the end of this guide, you'll have a complete offer document AND a Google Offer Doc you can send to your warm audience today.
 
 **Important:** Before you run the prompts, read "One Offer You Won't Abandon" first (after the case study). The alignment check matters more than the extraction — build the wrong offer and you'll burn it down.
 
@@ -101,11 +101,11 @@ Here's how the Client Ready Offer works:
 
 **Step 1:** You just read how I extracted my own offer — the exact process, what worked, what didn't, and why most coaching offers are too vague to sell.
 
-**Step 2:** You use the same 5 AI prompts I used to extract YOUR offer. Zone of genius, ideal client, pain points, your story, and offer assembly. One afternoon.
+**Step 2:** You use the same 6 AI prompts I used to extract YOUR offer. Zone of genius, ideal client, pain points, your story, offer assembly, and a Google Offer Doc you can send today. One afternoon.
 
-**Step 3:** You walk out with a complete offer document — validated, positioned, and ready to share.
+**Step 3:** You walk out with a complete offer document AND a ready-to-send sales doc — validated, positioned, and shareable.
 
-That's it. No 8-module curriculum. No 47-page theory. A case study, 5 prompts, and a template.
+That's it. No 8-module curriculum. No 47-page theory. A case study, 6 prompts, and a template.
 
 ---
 
@@ -149,9 +149,11 @@ If everything aligns — let's go. If something feels off — sit with it before
 
 ---
 
-## Component 1: 5 AI Prompts That Extract Your Genius
+## Component 1: 6 AI Prompts That Extract Your Genius
 
 These are the exact prompts I used to extract my own offer — and the same ones I use with every client. Use them with ChatGPT, Claude, or any AI assistant. Answer honestly — the AI will help you structure your answers, not invent them for you.
+
+Prompts 1-5 extract and assemble your offer. Prompt 6 converts it into a Google Offer Doc you can send to prospects today.
 
 ### Prompt 1: Zone of Genius Extraction
 
@@ -276,7 +278,49 @@ Create an Offer Document with:
 Format this as a clean document I could send to a potential client or use as the basis for a landing page.
 ```
 
-**What you're looking for:** A complete, cohesive offer document that you could share with someone TODAY and start a conversation.
+**What you're looking for:** A complete, cohesive offer document — your internal blueprint. But this isn't what you SEND to prospects. That's what Prompt 6 is for.
+
+---
+
+### Prompt 6: Google Offer Doc (Ready to Send)
+
+Your offer document from Prompt 5 is your internal blueprint. This prompt converts it into a sales doc you can actually send — via DM, email, or as a Google Doc link — to get hand-raisers TODAY.
+
+```
+Take my offer document and convert it into a "Google Offer Doc" — a short, punchy sales document I can copy into a Google Doc and send to warm prospects via DM or email.
+
+Here's my offer document:
+[paste your complete Prompt 5 output]
+
+Here's my story:
+[paste your Prompt 4 output]
+
+Here's how my clients describe their problem:
+[paste any real DMs, emails, or comments from prospects/clients — their exact words]
+
+Write the Google Offer Doc using this structure:
+
+1. **BOLD HEADLINE** — targets my specific audience + states the core promise in one line
+2. **PAIN AGITATION** — short punchy lines (one thought per line). Use my clients' exact words where possible. End with "I get it..."
+3. **BACKSTORY** — my origin story. What I tried that didn't work. Short fragments, not paragraphs. End with the turning point.
+4. **THE SOLUTION** — name my offer/framework. One sentence: what it does + how. Then list what it eliminates: "No [pain point], No [pain point], No [pain point]"
+5. **WHAT IT'S NOT** — 3-4 lines: "It is NOT [misconception]" — address the fears head-on
+6. **WHAT YOU GET** — bullet list of what's included. Keep it simple.
+7. **PRICE** — state the price simply. Payment plan if applicable.
+8. **CTA** — "Reply [KEYWORD] if you want details" or "DM me [KEYWORD]" — pick a keyword that relates to the transformation.
+
+IMPORTANT RULES:
+- Write in SHORT lines, not long paragraphs — this reads like a DM, not a sales page
+- Use bold for emphasis
+- Keep backstory raw — fragments beat full sentences
+- This is for people who already know me. Write warm, not cold.
+- Do NOT invent testimonials or results I haven't shared
+- The CTA is a keyword reply, not a link
+```
+
+**What you're looking for:** A doc you can copy into Google Docs and send to your warm audience RIGHT NOW. If someone reads it and replies with your keyword — that's a hand-raiser. Start the conversation.
+
+**Pro tip:** Once you have it, send it to 5-10 people from your warm network today. Their responses tell you if the offer is landing. That's validation.
 
 ---
 
@@ -385,22 +429,21 @@ Most coaches spend months building infrastructure for an offer nobody wants. The
 **Traditional path:** Idea → Build funnel → Launch → Hope → Rebuild
 **Client Ready path:** Idea → Validate → First sale → THEN build
 
-### Step 1: Share Your Offer Document
+### Step 1: Send Your Google Offer Doc
 
-Share your completed offer document with 5-10 people who match your ideal client profile. Ask:
-- "Does this sound like something you'd be interested in?"
-- "What questions do you have?"
-- "What's unclear?"
+Take the Google Offer Doc you built in Prompt 6 and send it to 5-10 people who match your ideal client profile. DM it, email it, or share it as a Google Doc link.
 
-Their feedback tells you if you're on track.
+You're looking for hand-raisers — people who reply with your keyword. That's validation.
+
+If they don't respond or the keyword gets no replies, the offer needs work. Go back to Prompts 2-3 and dig deeper into who you serve and what they actually want.
 
 ### Step 2: Get Your First Sale
 
 The best validation is someone paying you.
 
-Use the offer document in DMs, on calls, or in emails. You don't need a landing page — you need a conversation.
+Use the Google Offer Doc in DMs, on calls, or in emails. You don't need a landing page — you need a conversation and a document to send.
 
-**If you grabbed the Quick Win DM Scripts ($37), use those to start conversations TODAY.**
+**If you grabbed the Quick Win DM Scripts ($37), use those to start conversations TODAY.** When someone says "tell me more" — send them your Google Offer Doc.
 
 ### Step 3: Then Build Infrastructure
 
@@ -417,10 +460,10 @@ This is the "Validate before you build" philosophy. Know it works before investi
 
 ## What's Next?
 
-You've extracted your offer. Now validate it.
+You've extracted your offer and built your Google Offer Doc. Now validate it.
 
 **Your next steps:**
-1. Share the offer document with 5-10 ideal clients
+1. Send your Google Offer Doc to 5-10 ideal clients
 2. Start conversations (DM Scripts help with this)
 3. Get feedback and refine
 4. Make your first sale
@@ -438,11 +481,11 @@ The funnel, landing page, and automation come AFTER validation — not before.
 
 **The First $5K Client Playbook ($97)** — Pricing psychology, conversation frameworks, and the Warm 50 plan to close your first high-ticket client
 
-**DFY Offer Build ($197)** — You answer 11 questions. We build your ICP, offer doc, ready-to-send sales doc, and 5 ad hooks in 48 hours. Plus a 30-day community trial.
+**DFY Offer Build ($197)** — You answer 11 questions. We build your complete client acquisition package — ICP, offer doc, professional Google Offer Doc, landing page copy, email sequence, and 5 ad hooks. All AI-built, personally reviewed by Michael, delivered in 48 hours. Plus a 30-day community trial.
 
 **Client Ready Community ($97/mo)** — Weekly hot seat calls, sprint curriculum, DFY templates, DM access to Michael. The room where coaches build together.
 
-**"What's Working Now" Newsletter ($37/mo)** — Monthly deep-dive on what's actually converting right now for Client Ready members. Templates, breakdowns, and swipe files.
+**"The Monthly Playbook" Newsletter ($37/mo)** — Monthly deep-dive on what's actually converting right now for Client Ready members. Templates, breakdowns, and swipe files.
 
 Questions? Reply to your purchase email or find me in Skool.
 

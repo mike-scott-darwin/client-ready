@@ -1,4 +1,4 @@
-# "What's Working Now" Newsletter
+# "The Monthly Playbook" Newsletter
 
 **Monthly deep-dives on what's actually converting — not theory, not predictions, what's working today.**
 

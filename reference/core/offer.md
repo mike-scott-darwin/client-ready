@@ -155,7 +155,7 @@ graph TD
 |---|---|---|
 | Who builds it | You, with template | AI + Michael review |
 | Copy | Generic — you swap in your offer | AI-generated from your inputs, Michael-reviewed |
-| Strategy | Self-service video walkthrough | ICP + offer doc + ready-to-send sales doc + ad hooks |
+| Strategy | Self-service video walkthrough | ICP + offer doc + Google Offer Doc + landing page copy + email sequence + ad hooks |
 | GHL snapshot | Standard template | No snapshot — deliverables are documents |
 | Support | Video walkthrough only | 30-day community trial included |
 
@@ -240,14 +240,14 @@ See: [decisions/2026-02-18-training-portal-ecosystem.md](../../decisions/2026-02
 **How it works:**
 - Buyer fills out 11-question onboarding form on thank you page
 - Form triggers Claude API with Client Ready methodology baked in
-- AI generates all 4 deliverables in ~30 seconds
+- AI generates all 6 deliverables in ~30-60 seconds
 - Michael reviews every output (~10 min) before delivery
 - Delivered within 24-48 hours
 
 **Cost per generation:** ~$0.15-0.30 (Claude API). Gross margin ~99% before ad costs.
 
 **Downsell: DFY Lite ($97)**
-- ICP + offer document only (no sales doc, no ad hooks)
+- ICP + offer document only (no Google Offer Doc, no landing page, no emails, no ad hooks)
 - Same 30-day community trial included
 - Same onboarding form, shorter output
 
@@ -255,7 +255,7 @@ See: `outputs/dfy-upsell/system-prompt.md` for full API spec and questionnaire
 
 ---
 
-### Tier 2.5: OTO 2 — "What's Working Now" Newsletter
+### Tier 2.5: OTO 2 — "The Monthly Playbook" Newsletter
 
 **Price:** $37/month (immediate charge, no trial)
 **Format:** Monthly deliverable
@@ -288,7 +288,7 @@ See: `outputs/dfy-upsell/system-prompt.md` for full API spec and questionnaire
 - Weekly hot seat calls with Michael (live coaching)
 - Sprint curriculum as self-paced learning path (Extract → Validate → Build → Launch)
 - DFY templates of the month (tested assets Michael is actually running)
-- "What's Working Now" breakdowns
+- "The Monthly Playbook" breakdowns
 - DM access to Michael
 - Peer accountability + wins
 
@@ -467,7 +467,7 @@ See: [reference/domain/funnel/email-rhythm.md](../domain/funnel/email-rhythm.md)
 > "If you don't get results using our templates and support, send us an email at any time and we'll refund every penny of your investment — no questions asked."
 
 **DFY Delivery Guarantee (OTO 1 - $197 DFY Offer Build):**
-> "Your ICP, offer document, ready-to-send sales doc, and ad hooks — delivered in 48 hours. If we miss that, you get a free month of community on top of your trial."
+> "Your complete client acquisition package — ICP, offer document, Google Offer Doc, landing page copy, email sequence, and ad hooks — delivered in 48 hours. If we miss that, you get a free month of community on top of your trial."
 
 **Community Guarantee:**
 > "Month-to-month. Cancel anytime. If the first call doesn't blow your mind, cancel before your trial ends and you pay nothing."

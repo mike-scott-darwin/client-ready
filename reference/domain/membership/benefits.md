@@ -21,7 +21,7 @@ updated_from: 2026-01-19
 **Weekly Live Access:**
 - Weekly hot seat calls with Michael (live coaching)
 - DFY templates of the month (tested assets Michael is running)
-- "What's Working Now" breakdowns
+- "The Monthly Playbook" breakdowns
 - DM access to Michael
 
 **Community Access:**

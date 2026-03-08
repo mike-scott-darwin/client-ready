@@ -48,7 +48,7 @@ $47 Front-End
         │ NO ──► Downsell: $97 DFY Lite (ICP + offer doc + 30-day community trial)
         │
         ▼
-  OTO 2: $37/mo "What's Working Now" Newsletter (continuity, immediate charge)
+  OTO 2: $37/mo "The Monthly Playbook" Newsletter (continuity, immediate charge)
         │
         ▼
   Thank You Page + Onboarding Form (triggers DFY build)
@@ -58,7 +58,7 @@ $47 Front-End
         │
         ├── Weekly hot seat calls
         ├── DFY templates of the month
-        ├── "What's Working Now" updates
+        ├── "The Monthly Playbook" updates
         └── Access to Michael
               │
               ▼
@@ -81,9 +81,9 @@ $47 Front-End
 
 | Product | Position | What It Does |
 |---------|---------|-------------|
-| DFY Offer Build ($197) | OTO 1 | AI builds their ICP, offer doc, ready-to-send sales doc, ad hooks. 30-day community trial included. |
+| DFY Offer Build ($197) | OTO 1 | AI builds their ICP, offer doc, Google Offer Doc, landing page copy, email sequence, and ad hooks. 30-day community trial included. |
 | DFY Lite ($97) | Downsell to OTO 1 | AI builds ICP + offer doc only. 30-day community trial included. |
-| "What's Working Now" ($37/mo) | OTO 2 | Monthly newsletter — tested offers, templates, breakdowns. Low-friction recurring. (Mirrors Terrance's continuity offer.) |
+| "The Monthly Playbook" ($37/mo) | OTO 2 | Monthly newsletter — tested offers, templates, breakdowns. Low-friction recurring. (Mirrors Terrance's continuity offer.) |
 
 ### UNCHANGED
 
@@ -145,7 +145,7 @@ $47 Front-End
                          │               │    │
                     ┌────▼───────────────▼────▼────────────────┐
                     │    OTO 2: $37/mo NEWSLETTER               │
-                    │    "What's Working Now"                   │
+                    │    "The Monthly Playbook"                  │
                     │    Monthly tested offers + templates      │
                     │    Immediate charge, no trial             │
                     │    [YES/NO]                               │
@@ -195,7 +195,7 @@ $47 Front-End
      │  - Weekly hot seat calls (Michael live)              │
      │  - Sprint curriculum (4-week path, self-paced)      │
      │  - DFY templates of the month (tested assets)       │
-     │  - "What's Working Now" breakdowns                  │
+     │  - "The Monthly Playbook" breakdowns                 │
      │  - DM access to Michael                             │
      │  - Peer accountability + wins                       │
      │                                                     │
@@ -365,10 +365,11 @@ Sprint doesn't disappear — it becomes community content.
 |-------------------|--------------|
 | ICP + offer extraction | DFY upsell ($197) — AI-automated |
 | Google offer doc | DFY upsell ($197) — AI-automated |
+| Landing page copy | DFY upsell ($197) — AI-automated |
+| Email sequence (5 emails) | DFY upsell ($197) — AI-automated |
 | Ad creative direction | DFY upsell ($197) — AI-automated |
 | Custom GHL snapshot | Accelerator ($5K) — premium feature |
 | 60-min integration call | Accelerator ($5K) — premium feature |
-| 10-day email sequence | Community template library |
 | Market research | DFY upsell ICP deliverable |
 
 **Blueprint splits:** The automatable parts become the $197 DFY. The high-touch parts become Accelerator exclusives. Nothing is lost — it's redistributed.

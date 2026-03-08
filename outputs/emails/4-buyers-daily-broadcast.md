@@ -63,7 +63,7 @@ Every email follows the same structure:
 | Wednesday | DFY Offer Build | $197 | "Get it built for you" | https://clientreadyoffer.com/croto1-dfy |
 | Thursday | Community | $97/mo | "Join the Community" | https://www.skool.com/high-ticket-playbook-9467/about |
 | Friday | Accelerator | $5K | "Reply BUILD" | Reply trigger (no link) |
-| Saturday | Newsletter | $37/mo | "Get What's Working Now" | https://clientreadyoffer.com/newsletter |
+| Saturday | Newsletter | $37/mo | "Get The Monthly Playbook" | https://clientreadyoffer.com/newsletter |
 | Sunday | Free value | — | "Reply and tell me" | Reply trigger (no link) |
 
 **Note:** Friday's backend pitch is soft (reply trigger, not direct link). This qualifies serious buyers.
@@ -168,7 +168,7 @@ You have the extraction prompts. You know what a good offer looks like. But your
 
 The DFY Offer Build fixes this in 48 hours.
 
-You answer 11 questions (10-15 minutes). I build your complete offer package — ICP, offer doc, ready-to-send sales doc, 5 ad hooks. Reviewed by me personally before it hits your inbox.
+You answer 11 questions (10-15 minutes). I build your complete offer package — ICP, offer doc, Google Offer Doc, landing page copy, email sequence, and 5 ad hooks. Reviewed by me personally before it hits your inbox.
 
 $197 one-time. 48-hour delivery.
 
@@ -265,7 +265,7 @@ What converted last month might not convert this month. The hook that worked in 
 
 Most coaches are building off last year's playbook. They wonder why results dip.
 
-That's why I put together "What's Working Now" — a monthly deep-dive on what's actually converting right now for Client Ready members.
+That's why I put together "The Monthly Playbook" — a monthly deep-dive on what's actually converting right now for Client Ready members.
 
 Each month you get:
 - A breakdown of a tested offer, funnel, or strategy

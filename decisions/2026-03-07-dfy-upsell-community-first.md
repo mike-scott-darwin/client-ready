@@ -15,7 +15,7 @@ linked_research:
 Replaced Sprint ($297 OTO) and Blueprint ($397 OTO) with:
 - **DFY Offer Build ($197)** — AI-automated, Claude API generates ICP + offer doc + landing page copy + ad hooks from an 8-question form. Michael reviews (~10 min). Bundled with 30-day community trial.
 - **DFY Lite ($97)** — Downsell. ICP + offer doc only. Same 30-day community trial.
-- **Newsletter ($37/mo)** — "What's Working Now" continuity offer, replaces old OTO 3 Community position.
+- **Newsletter ($37/mo)** — "The Monthly Playbook" continuity offer, replaces old OTO 3 Community position.
 
 Community moves from buried downsell ($47/mo, conditional) to central engine ($97/mo, 30-day trial bundled with DFY). Month-to-month, cancel anytime — no annual lock-in.
 

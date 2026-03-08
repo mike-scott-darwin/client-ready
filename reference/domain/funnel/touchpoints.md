@@ -48,14 +48,14 @@ linked_decisions:
 
 **Key elements:**
 - "We'll build your offer for you" — same methodology, we run it for you
-- AI-built: ICP + offer document + ready-to-send sales doc + 5 ad hooks
+- AI-built: ICP + offer document + Google Offer Doc + landing page copy + email sequence + 5 ad hooks
 - Michael reviews every deliverable before you receive it
 - Includes 30-day free trial to Client Ready Community
 - Delivered within 24-48 hours
 
 **If NO → Downsell: DFY Lite**
 - Price: $97
-- ICP + offer document only (no sales doc, no ad hooks)
+- ICP + offer document only (no Google Offer Doc, no landing page, no emails, no ad hooks)
 - Same 30-day community trial included
 
 ---
@@ -68,7 +68,7 @@ linked_decisions:
 **CTA:** Subscribe Now
 
 **Key elements:**
-- "What's Working Now" — monthly tested offer breakdown + templates
+- "The Monthly Playbook" — monthly tested offer breakdown + templates
 - Shown to ALL buyers (not conditional)
 - Bridges to community: "Want the calls too? Join the community."
 
