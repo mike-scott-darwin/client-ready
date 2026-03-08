@@ -2,8 +2,8 @@
 """
 Beehiiv Newsletter Poster for Client Ready
 
-Reads newsletter drafts from content/drafts/newsletter/, converts to HTML,
-and posts to Beehiiv via API. Creates as drafts by default so you
+Posts the next unposted newsletter from content/drafts/newsletter/.
+Converts markdown to HTML and creates as draft on Beehiiv so you
 can review formatting before sending.
 
 Usage:
@@ -16,10 +16,10 @@ Requires:
     pip3 install markdown
 
 Environment variables (.env):
-    BEEHIIV_API_KEY        - API key from Beehiiv dashboard
-    BEEHIIV_PUBLICATION_ID - Publication ID (starts with "pub_")
+    BEEHIIV_API_KEY  - API key from Beehiiv dashboard
+    BEEHIIV_PUB_ID   - Publication ID (starts with "pub_")
 
-Note: Beehiiv Create Post API requires Enterprise plan.
+Note: Beehiiv Create Post API requires Scale plan or higher.
 """
 
 import os
@@ -74,15 +74,43 @@ def save_state(state):
         json.dump(state, f, indent=2)
 
 
-def find_newsletter_drafts():
-    """Find all newsletter draft .md files, sorted by name."""
+def find_next_draft():
+    """Find the next unposted newsletter draft with scheduled_date <= today."""
+    today = datetime.now().strftime("%Y-%m-%d")
     if not DRAFTS_DIR.exists():
-        return []
+        return None
+
+    state = load_state()
+    posted_files = set(state.get("posted_files", []))
+
     drafts = sorted([
         f for f in DRAFTS_DIR.iterdir()
-        if f.suffix == ".md"
+        if f.suffix == ".md" and f.name not in posted_files
     ])
-    return drafts
+
+    for draft in drafts:
+        date_part = "-".join(draft.stem.split("-")[:3])
+        if date_part <= today:
+            return draft
+
+    return None
+
+
+def find_all_ready_drafts():
+    """Find all unposted newsletter drafts with scheduled_date <= today."""
+    today = datetime.now().strftime("%Y-%m-%d")
+    if not DRAFTS_DIR.exists():
+        return []
+
+    state = load_state()
+    posted_files = set(state.get("posted_files", []))
+
+    drafts = sorted([
+        f for f in DRAFTS_DIR.iterdir()
+        if f.suffix == ".md" and f.name not in posted_files
+    ])
+
+    return [d for d in drafts if "-".join(d.stem.split("-")[:3]) <= today]
 
 
 def parse_frontmatter(content):
@@ -123,11 +151,9 @@ def parse_newsletter(filepath):
     preview = preview_match.group(1).strip() if preview_match else ""
 
     # Get body content (everything after the metadata block)
-    # Remove title line and subject/preview lines
     body = re.sub(r'^#\s+.+\n+', '', body)
     body = re.sub(r'\*\*Subject line:\*\*\s*.+\n+', '', body)
     body = re.sub(r'\*\*Preview text:\*\*\s*.+\n+', '', body)
-    # Remove leading separator
     body = re.sub(r'^---\s*\n+', '', body.strip())
 
     return {
@@ -148,10 +174,7 @@ def markdown_to_html(md_text):
         sys.exit(1)
 
     html = markdown.markdown(md_text, extensions=["extra"])
-
-    # Convert --- horizontal rules that markdown might miss
     html = re.sub(r'<p>---</p>', '<hr>', html)
-
     return html
 
 
@@ -195,66 +218,73 @@ def post_to_beehiiv(api_key, pub_id, newsletter, status="draft", schedule_at=Non
     except urllib.error.HTTPError as e:
         body = e.read().decode()
         log(f"ERROR posting ({e.code}): {body}")
+        if e.code == 401:
+            log("HINT: API key is invalid. Regenerate at https://app.beehiiv.com/settings/integrations")
         if e.code == 403:
-            log("HINT: Beehiiv Create Post API requires Enterprise plan.")
+            log("HINT: Beehiiv Create Post API requires Scale plan ($49/mo).")
             log("HINT: Check your plan at https://app.beehiiv.com/settings/billing")
         return None
 
 
+def move_to_published(filepath):
+    """Move draft to published/newsletter/ and update frontmatter status."""
+    PUBLISHED_DIR.mkdir(parents=True, exist_ok=True)
+    dest = PUBLISHED_DIR / filepath.name
+
+    content = filepath.read_text()
+    content = re.sub(r'status:\s*draft', 'status: published', content)
+    content = re.sub(r'published_date:\s*null',
+                     f'published_date: {datetime.now().strftime("%Y-%m-%d")}',
+                     content)
+    dest.write_text(content)
+    filepath.unlink()
+    log(f"Moved {filepath.name} -> content/published/newsletter/")
+
+
 def main():
-    # Parse args
     post_all = "--all" in sys.argv
     publish = "--publish" in sys.argv
     schedule = "--schedule" in sys.argv
 
     status = "confirmed" if (publish or schedule) else "draft"
 
-    # Load credentials
+    # Load credentials — accept both env var names
     env = load_env()
-    required = ["BEEHIIV_API_KEY", "BEEHIIV_PUBLICATION_ID"]
-    for key in required:
-        if key not in env:
-            log(f"ERROR: Missing {key} in .env")
-            log("Add to .env:")
-            log("  BEEHIIV_API_KEY=your_api_key_here")
-            log("  BEEHIIV_PUBLICATION_ID=pub_your_id_here")
-            sys.exit(1)
+    api_key = env.get("BEEHIIV_API_KEY")
+    pub_id = env.get("BEEHIIV_PUB_ID") or env.get("BEEHIIV_PUBLICATION_ID")
 
-    api_key = env["BEEHIIV_API_KEY"]
-    pub_id = env["BEEHIIV_PUBLICATION_ID"]
+    if not api_key:
+        log("ERROR: Missing BEEHIIV_API_KEY in .env")
+        sys.exit(1)
+    if not pub_id:
+        log("ERROR: Missing BEEHIIV_PUB_ID in .env")
+        sys.exit(1)
 
     # Find drafts
-    drafts = find_newsletter_drafts()
-    if not drafts:
-        log("No newsletter drafts found in content/drafts/newsletter/. Skipping.")
+    if post_all:
+        to_post = find_all_ready_drafts()
+    else:
+        draft = find_next_draft()
+        to_post = [draft] if draft else []
+
+    if not to_post:
+        log("No newsletter drafts ready. Skipping.")
         sys.exit(0)
 
-    # Load state
+    log(f"Posting {len(to_post)} newsletter(s) as {status}...")
+
     state = load_state()
     posted_files = set(state.get("posted_files", []))
-
-    # Filter to unposted
-    unposted = [d for d in drafts if d.name not in posted_files]
-    if not unposted:
-        log("All newsletter drafts already posted. Skipping.")
-        sys.exit(0)
-
-    # Select what to post
-    to_post = unposted if post_all else [unposted[0]]
-
-    log(f"Found {len(unposted)} unposted newsletter(s). Posting {len(to_post)}...")
-
     success_count = 0
+
     for draft_path in to_post:
         newsletter = parse_newsletter(draft_path)
 
-        # Determine schedule time
         schedule_at = None
         if schedule:
             fm = newsletter["frontmatter"]
             sched_date = fm.get("scheduled_date")
             if sched_date:
-                # Schedule for 10:00 AM UTC on the scheduled date
                 schedule_at = f"{sched_date}T10:00:00Z"
 
         log(f"Posting: {newsletter['title']} ({draft_path.name}) as {status}...")
@@ -282,22 +312,6 @@ def main():
 
     if success_count < len(to_post):
         sys.exit(1)
-
-
-def move_to_published(filepath):
-    """Move draft to published/newsletter/ and update frontmatter status."""
-    PUBLISHED_DIR.mkdir(parents=True, exist_ok=True)
-    dest = PUBLISHED_DIR / filepath.name
-
-    content = filepath.read_text()
-    content = re.sub(r'status:\s*draft', 'status: published', content)
-    content = re.sub(r'published_date:\s*null',
-                     f'published_date: {datetime.now().strftime("%Y-%m-%d")}',
-                     content)
-    dest.write_text(content)
-    filepath.unlink()
-    log(f"Moved {filepath.name} -> content/published/newsletter/")
-
 
 
 if __name__ == "__main__":
