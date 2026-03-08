@@ -3,13 +3,10 @@ platform: linkedin
 type: post
 angle: misalignment
 pillar: behind-the-scenes
-status: draft
-scheduled_date: 2026-02-28
-published_date: null
-engagement: null
+status: published
+published_date: 2026-02-28T13:59:37
+post_id: "urn:li:share:7433367750686711808"
 ---
-
-# LinkedIn: I Burned Down a Profitable Offer
 
 I built an offer that made money.
 
