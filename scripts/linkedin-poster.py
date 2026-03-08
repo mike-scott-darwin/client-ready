@@ -2,8 +2,11 @@
 """
 LinkedIn Auto-Poster for Client Ready
 
-Reads today's LinkedIn post draft from content/drafts/linkedin/, posts it.
+Posts the next unposted LinkedIn draft from content/drafts/linkedin/.
 Designed to run via launchd once daily (e.g., 9:00 AM).
+
+Posts any draft with scheduled_date <= today (catches up on missed days).
+Posts one per invocation.
 """
 
 import os
@@ -22,6 +25,9 @@ DRAFTS_DIR = REPO_ROOT / "content" / "drafts" / "linkedin"
 PUBLISHED_DIR = REPO_ROOT / "content" / "published" / "linkedin"
 STATE_FILE = REPO_ROOT / ".linkedin-poster-state.json"
 LOG_FILE = REPO_ROOT / "scripts" / "linkedin-poster.log"
+
+# Max LinkedIn posts per day (safety limit)
+MAX_POSTS_PER_DAY = 1
 
 
 def log(message):
@@ -58,14 +64,24 @@ def save_state(state):
         json.dump(state, f, indent=2)
 
 
-def find_today_draft():
+def find_next_draft():
+    """Find the next unposted LinkedIn draft with scheduled_date <= today."""
     today = datetime.now().strftime("%Y-%m-%d")
     if not DRAFTS_DIR.exists():
         return None, today
-    # Look for any LinkedIn post draft for today
-    for f in sorted(DRAFTS_DIR.iterdir()):
-        if f.name.startswith(today) and f.suffix == ".md":
-            return f, today
+
+    drafts = sorted([
+        f for f in DRAFTS_DIR.iterdir()
+        if f.suffix == ".md"
+    ])
+
+    # Return the first draft with date <= today
+    for draft in drafts:
+        # Extract date from filename (YYYY-MM-DD from YYYY-MM-DD-linkedin-...)
+        date_part = "-".join(draft.stem.split("-")[:3])
+        if date_part <= today:
+            return draft, today
+
     return None, today
 
 
@@ -124,6 +140,29 @@ def post_to_linkedin(access_token, person_sub, text):
         return None
 
 
+def move_to_published(filepath, post_id):
+    """Move draft to published/linkedin/ and update frontmatter with post metadata."""
+    PUBLISHED_DIR.mkdir(parents=True, exist_ok=True)
+    dest = PUBLISHED_DIR / filepath.name
+
+    content = filepath.read_text()
+    content = re.sub(r'status:\s*draft', 'status: published', content)
+    content = re.sub(
+        r'published_date:\s*null',
+        f'published_date: {datetime.now().strftime("%Y-%m-%d")}',
+        content
+    )
+    # Add post_id to frontmatter: insert before the closing ---
+    parts = content.split("---")
+    if len(parts) >= 3:
+        parts[1] = parts[1].rstrip() + f'\npost_id: "{post_id}"\n'
+        content = "---".join(parts)
+
+    dest.write_text(content)
+    filepath.unlink()
+    log(f"Moved {filepath.name} -> content/published/linkedin/")
+
+
 def main():
     env = load_env()
     required = ["LINKEDIN_ACCESS_TOKEN", "LINKEDIN_PERSON_SUB"]
@@ -132,14 +171,17 @@ def main():
             log(f"ERROR: Missing {key} in .env")
             sys.exit(1)
 
-    draft_path, today = find_today_draft()
-    if not draft_path:
-        log(f"No LinkedIn draft found for {today}. Skipping.")
-        sys.exit(0)
-
+    # Check daily limit
+    today = datetime.now().strftime("%Y-%m-%d")
     state = load_state()
     if today in state:
-        log(f"LinkedIn post for {today} already published. Skipping.")
+        log(f"Already posted to LinkedIn today ({today}). Skipping.")
+        sys.exit(0)
+
+    # Find next draft
+    draft_path, _ = find_next_draft()
+    if not draft_path:
+        log(f"No LinkedIn drafts ready (scheduled_date <= {today}). Skipping.")
         sys.exit(0)
 
     post_text = parse_linkedin_post(draft_path)
@@ -167,30 +209,6 @@ def main():
     else:
         log("Failed to publish LinkedIn post.")
         sys.exit(1)
-
-
-def move_to_published(filepath, post_id):
-    """Move draft to published/linkedin/ and update frontmatter with post metadata."""
-    PUBLISHED_DIR.mkdir(parents=True, exist_ok=True)
-    dest = PUBLISHED_DIR / filepath.name
-
-    content = filepath.read_text()
-    content = re.sub(r'status:\s*draft', 'status: published', content)
-    content = re.sub(
-        r'published_date:\s*null',
-        f'published_date: {datetime.now().strftime("%Y-%m-%d")}',
-        content
-    )
-    # Add post_id to frontmatter: insert before the closing ---
-    # Find the second --- (end of frontmatter) and inject post_id before it
-    parts = content.split("---")
-    if len(parts) >= 3:
-        parts[1] = parts[1].rstrip() + f'\npost_id: "{post_id}"\n'
-        content = "---".join(parts)
-
-    dest.write_text(content)
-    filepath.unlink()
-    log(f"Moved {filepath.name} -> content/published/linkedin/")
 
 
 if __name__ == "__main__":

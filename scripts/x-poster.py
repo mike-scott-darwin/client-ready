@@ -2,11 +2,13 @@
 """
 X Auto-Poster for Client Ready
 
-Reads today's tweet drafts from content/drafts/tweets/ (one tweet per file),
-posts the next unposted tweet, and tracks what's been posted in a state file.
+Posts the next unposted tweet from content/drafts/tweets/.
+Each invocation posts one tweet, then moves it to published/.
 
 Designed to run via launchd at scheduled intervals (e.g., 8am, 10:30am, 1pm, 4pm, 7pm).
 Each invocation posts one tweet. Five invocations = five tweets spaced across the day.
+
+Posts any draft with scheduled_date <= today (catches up on missed days).
 """
 
 import os
@@ -23,6 +25,9 @@ DRAFTS_DIR = REPO_ROOT / "content" / "drafts" / "tweets"
 PUBLISHED_DIR = REPO_ROOT / "content" / "published" / "tweets"
 STATE_FILE = REPO_ROOT / ".x-poster-state.json"
 LOG_FILE = REPO_ROOT / "scripts" / "x-poster.log"
+
+# Max tweets per day (safety limit)
+MAX_TWEETS_PER_DAY = 5
 
 
 def log(message):
@@ -50,7 +55,7 @@ def load_env():
 
 
 def load_state():
-    """Load posting state (which tweets have been posted today)."""
+    """Load posting state."""
     if STATE_FILE.exists():
         with open(STATE_FILE) as f:
             return json.load(f)
@@ -63,16 +68,26 @@ def save_state(state):
         json.dump(state, f, indent=2)
 
 
-def find_today_tweets():
-    """Find all tweet files for today, sorted by filename."""
+def find_next_draft():
+    """Find the next unposted tweet draft with scheduled_date <= today."""
     today = datetime.now().strftime("%Y-%m-%d")
     if not DRAFTS_DIR.exists():
-        return [], today
-    tweets = sorted([
+        return None, today
+
+    # Get all .md files sorted by name (date order)
+    drafts = sorted([
         f for f in DRAFTS_DIR.iterdir()
-        if f.name.startswith(today) and f.suffix == ".md"
+        if f.suffix == ".md"
     ])
-    return tweets, today
+
+    # Return the first draft with date <= today
+    for draft in drafts:
+        # Extract date from filename (YYYY-MM-DD from YYYY-MM-DD-N.md)
+        date_part = "-".join(draft.stem.split("-")[:3])
+        if date_part <= today:
+            return draft, today
+
+    return None, today
 
 
 def parse_tweet_file(filepath):
@@ -102,11 +117,10 @@ def move_to_published(filepath, tweet_id):
     dest = PUBLISHED_DIR / filepath.name
     content = filepath.read_text()
     content = content.replace('status: draft', 'status: published')
-    # Extract the date portion from the filename (e.g., 2026-03-08 from 2026-03-08-1.md)
-    scheduled_date = filepath.stem.rsplit("-", 1)[0]
-    content = content.replace(
-        f'scheduled_date: {scheduled_date}',
-        f'scheduled_date: {scheduled_date}\npublished_date: {datetime.now().isoformat()}\ntweet_id: "{tweet_id}"\nurl: https://x.com/mikescot/status/{tweet_id}'
+    content = re.sub(
+        r'published_date:\s*null',
+        f'published_date: {datetime.now().isoformat()}\ntweet_id: "{tweet_id}"\nurl: https://x.com/mikescot/status/{tweet_id}',
+        content
     )
     dest.write_text(content)
     filepath.unlink()
@@ -122,27 +136,23 @@ def main():
             log(f"ERROR: Missing {key} in .env")
             sys.exit(1)
 
-    # Find today's tweet files
-    tweet_files, today = find_today_tweets()
-    if not tweet_files:
-        log(f"No tweet drafts found for {today}. Skipping.")
-        sys.exit(0)
-
-    # Load state
+    # Check daily limit
+    today = datetime.now().strftime("%Y-%m-%d")
     state = load_state()
     posted_today = state.get(today, [])
-
-    # Find next unposted tweet
-    next_index = len(posted_today)
-    if next_index >= len(tweet_files):
-        log(f"All {len(tweet_files)} tweets for {today} already posted. Skipping.")
+    if len(posted_today) >= MAX_TWEETS_PER_DAY:
+        log(f"Daily limit reached ({MAX_TWEETS_PER_DAY} tweets). Skipping.")
         sys.exit(0)
 
-    tweet_file = tweet_files[next_index]
-    tweet_text = parse_tweet_file(tweet_file)
+    # Find next draft to post
+    draft_file, _ = find_next_draft()
+    if not draft_file:
+        log(f"No tweet drafts ready (scheduled_date <= {today}). Skipping.")
+        sys.exit(0)
 
+    tweet_text = parse_tweet_file(draft_file)
     if not tweet_text:
-        log(f"Empty tweet in {tweet_file.name}. Skipping.")
+        log(f"Empty tweet in {draft_file.name}. Skipping.")
         sys.exit(0)
 
     # Post it
@@ -159,26 +169,24 @@ def main():
         access_token_secret=env["X_ACCESS_TOKEN_SECRET"],
     )
 
-    log(f"Posting tweet {next_index + 1}/{len(tweet_files)} for {today} ({tweet_file.name})...")
+    log(f"Posting ({draft_file.name})...")
     tweet_id = post_tweet(client, tweet_text)
 
     if tweet_id:
         posted_today.append({
-            "index": next_index,
             "tweet_id": str(tweet_id),
             "url": f"https://x.com/mikescot/status/{tweet_id}",
             "posted_at": datetime.now().isoformat(),
-            "source_file": tweet_file.name,
+            "source_file": draft_file.name,
             "text_preview": tweet_text[:60],
         })
         state[today] = posted_today
         save_state(state)
-        log(f"Tweet {next_index + 1} posted: https://x.com/mikescot/status/{tweet_id}")
+        log(f"Posted: https://x.com/mikescot/status/{tweet_id}")
 
-        # Move individual tweet file to published
-        move_to_published(tweet_file, tweet_id)
+        move_to_published(draft_file, tweet_id)
     else:
-        log(f"Failed to post tweet {next_index + 1}.")
+        log(f"Failed to post {draft_file.name}.")
         sys.exit(1)
 
 
