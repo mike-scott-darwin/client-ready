@@ -99,7 +99,7 @@ For each hook, write both a short-form version (1-2 sentences for image ads) and
 Write in Michael Scott's voice:
 - Direct. Short sentences. No fluff.
 - Confident but not arrogant.
-- Anti-guru. Reject hype words.
+- Alignment-first. Build for fit, not hype.
 - Practical over theoretical.
 - Engineering mindset — test, validate, build.
 - Conversational. Write like talking to a smart friend.

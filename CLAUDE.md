@@ -38,8 +38,8 @@ Michael Scott helps coaches validate their offers before building — scale from
 **Checkout AOV target:** $90-110 | **Full funnel AOV:** ~$135 | **90-day value per buyer:** ~$260
 **Recurring:** Community ($97/mo) + Newsletter ($37/mo) + GHL affiliate (~$39/mo)
 **Delivery:** All low-ticket products deliver through GHL training portal. DFY via Claude API + Michael review.
-**Community = engine:** Sprint curriculum + weekly calls live in community. Accelerator spots announced there first.
-**Decision:** [decisions/2026-03-07-dfy-upsell-community-first.md](decisions/2026-03-07-dfy-upsell-community-first.md)
+**Community = engine:** Monthly DFY rebuilds (included) + weekly calls + tested templates. DFY is the retention engine — $0.25/build cost, perceived as $197/mo value. Accelerator spots announced in community first.
+**Decisions:** [decisions/2026-03-07-dfy-upsell-community-first.md](decisions/2026-03-07-dfy-upsell-community-first.md), [decisions/2026-03-09-portal-ecosystem-dfy-community.md](decisions/2026-03-09-portal-ecosystem-dfy-community.md)
 
 ---
 

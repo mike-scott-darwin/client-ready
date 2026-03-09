@@ -285,6 +285,7 @@ See: `outputs/dfy-upsell/system-prompt.md` for full API spec and questionnaire
 - Accelerator graduates stay as alumni
 
 **What's Included:**
+- **1 DFY offer rebuild per month** — submit the 11-question form (or update previous answers), get full deliverables in 24-48 hours: ICP, offer doc, sales doc, ad hooks. Michael reviews every build. (Extra rebuilds: $97/build)
 - Weekly hot seat calls with Michael (live coaching)
 - Sprint curriculum as self-paced learning path (Extract → Validate → Build → Launch)
 - DFY templates of the month (tested assets Michael is actually running)
@@ -292,22 +293,46 @@ See: `outputs/dfy-upsell/system-prompt.md` for full API spec and questionnaire
 - DM access to Michael
 - Peer accountability + wins
 
+**DFY Rebuild = The Retention Engine:**
+Coaches don't have one offer forever — they pivot niches, raise prices, test new hooks, add services, refine ICPs after real conversations. The monthly rebuild means they never outgrow the membership. Cost per rebuild: ~$0.15-0.30 (Claude API) + ~10 min Michael review. At 100 members all rebuilding monthly: $25/mo cost, $9,700/mo revenue.
+
+**Common rebuild use cases:**
+- Pivoted niche after first month of testing
+- Raising price — need updated offer doc and positioning
+- First ad hooks underperformed — need 5 new ones
+- Adding a second offer tier
+- Refining ICP after 10-20 real client conversations
+- Seasonal messaging updates
+
 **What Moved Into Community:**
 - Sprint ($297) weekly calls → community calls
 - Sprint 4-week curriculum → community learning path (always available)
 - Blueprint community access → all community members
 
 **Positioning:**
-> "Month-to-month. Cancel anytime. You stay because the calls and templates are worth it — not because you're locked in. No annual. No commitment you can't walk away from."
+> "Month-to-month. Cancel anytime. Every month you get a full DFY offer rebuild — new ICP, new copy, new ad hooks — delivered in 48 hours. Plus weekly calls, tested templates, and direct access to Michael. You stay because the builds alone are worth more than the membership."
+
+**Community Onboarding (DFY Buyers):**
+```
+Day 0:  Buy $197 DFY → 30-day community trial starts
+Day 1:  DFY deliverables arrive
+Day 3:  "Complete Your Toolkit" email (missed bumps at full price)
+Day 7:  First hot seat call → review deliverables live
+Day 14: Submit for first rebuild (refine based on what you learned)
+Day 21: Rebuilt deliverables arrive → start testing
+Day 28: "Your trial ends in 3 days. Stay for monthly rebuilds."
+Day 30: Trial ends → $97/mo begins
+```
 
 **Community → Accelerator Pipeline:**
 - Members watch Michael coach for 30-90 days
+- They iterate their offer monthly with DFY rebuilds — each one gets sharper
 - They see other members get results
 - They ask "how do I work with you 1:1?"
 - Michael announces limited spots → community members take them in minutes
 - No sales page needed. Invoice sent. Paid. Done.
 
-**Promise:** The room where coaches build together — weekly calls, tested templates, direct access to Michael
+**Promise:** Monthly DFY offer rebuilds, weekly calls, tested templates, and direct access to Michael — the room where coaches build, test, and iterate together
 
 ---
 
