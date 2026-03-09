@@ -5,6 +5,7 @@ date: 2026-02-03
 linked_decisions:
   - decisions/2026-02-03-content-strategy.md
   - decisions/2026-02-24-content-automation-rollout.md
+  - decisions/2026-03-09-gemini-research-action-items.md
 ---
 
 # Content Strategy
@@ -18,9 +19,9 @@ Newsletter-first content system for Client Ready.
 ```
 Weekly Newsletter (keystone)
     ↓
-Deconstruct → 2 X threads + 3-5 LinkedIn posts
+Deconstruct → 3-5 LinkedIn posts (carousels + text) + 1-2 X threads
     ↓
-Daily → 3-5 tweets (observations, one-liners, replies)
+Daily → 1-3 tweets (observations, one-liners, replies)
     ↓
 High-intent signals → DM conversations
     ↓
@@ -29,22 +30,23 @@ $47 → DFY / Community → Accelerator
 
 ```mermaid
 graph TD
-    NL["<b>Weekly Newsletter</b><br/>Keystone — Tuesday"] --> TH["2 X Threads<br/>Tuesday + Thursday"]
-    NL --> LI["3-5 LinkedIn Posts<br/>Weekdays"]
-    NL --> TW["3-5 Daily Tweets<br/>Observations + Replies"]
-    
-    TH --> ENG["Engagement<br/>Replies + DMs"]
-    LI --> ENG
+    NL["<b>Weekly Newsletter</b><br/>Keystone — Tuesday"] --> LI["3-5 LinkedIn Posts<br/>Carousels + Text — Weekdays"]
+    NL --> TH["1-2 X Threads<br/>Tuesday + Thursday"]
+    NL --> TW["1-3 Daily Tweets<br/>Observations + Replies"]
+
+    LI --> ENG["Engagement<br/>Replies + DMs"]
+    TH --> ENG
     TW --> ENG
-    
+
     ENG --> SUB["Newsletter Signup<br/>Bio Link + Thread CTA"]
     SUB --> NL
-    
+
     ENG --> DM["DM Conversations<br/>High-Intent Signals"]
     DM --> FE["47 Front-End"]
     FE --> SP["DFY / Community + Accelerator"]
-    
+
     style NL fill:#4a9eff,color:#fff
+    style LI fill:#4a9eff,color:#fff
     style FE fill:#ff6b35,color:#fff
     style SP fill:#ff6b35,color:#fff
 ```
@@ -56,11 +58,13 @@ graph TD
 
 ## Platforms
 
-| Platform | Role | Frequency | Format |
-|----------|------|-----------|--------|
-| **Beehiiv** | Engine | 1x/week (Tuesday) | Long-form newsletter |
-| **X/Twitter** | Primary discovery | 3-5 tweets/day + 1-2 threads/week | Text, threads |
-| **LinkedIn** | Secondary discovery | 3-5 posts/week | Text, carousels |
+| Platform | Role | Frequency | Format | Avg Engagement |
+|----------|------|-----------|--------|----------------|
+| **Beehiiv** | Engine | 1x/week (Tuesday) | Long-form newsletter | 40%+ open rate |
+| **LinkedIn** | Primary discovery | 3-5 posts/week (cap at 5) | Carousels, text, video | 5.2% avg, 6.6% carousels |
+| **X/Twitter** | Secondary discovery | 1-3 tweets/day + 1-2 threads/week | Text, threads | 2-5% (<5K), 1-3% (5K-100K) |
+
+**Why LinkedIn first:** LinkedIn engagement (5.2%) is 5-10x higher than X (0.5-1% for medium accounts). Carousels at 6.6% are the highest-performing organic format across either platform. Diminishing returns hit after 5 posts/week on LinkedIn — quality over quantity.
 
 **Not using:** Instagram, TikTok, YouTube (for now)
 
@@ -68,14 +72,16 @@ graph TD
 
 ## Weekly Rhythm
 
-| Day | Newsletter | X/Twitter | LinkedIn |
+| Day | Newsletter | LinkedIn (primary) | X/Twitter (secondary) |
 |-----|------------|-----------|----------|
-| **Monday** | Write newsletter | 3-5 tweets | — |
-| **Tuesday** | Send newsletter | Thread from newsletter + tweets | Post adapted from newsletter |
-| **Wednesday** | — | 3-5 tweets | Post (pillar content) |
-| **Thursday** | — | Thread (standalone) + tweets | Post (behind the scenes) |
-| **Friday** | — | 3-5 tweets | Post (contrarian take) |
-| **Weekend** | Batch next week | Light engagement | — |
+| **Monday** | Write newsletter | Carousel (pillar content) | 1-3 tweets |
+| **Tuesday** | Send newsletter | Post adapted from newsletter | Thread from newsletter + tweets |
+| **Wednesday** | — | Post (behind the scenes) | 1-3 tweets |
+| **Thursday** | — | Carousel or text (alignment / build right) | Thread (standalone) + tweets |
+| **Friday** | — | Post (engagement / question) | 1-3 tweets |
+| **Weekend** | Batch next week | Light engagement | Light engagement |
+
+**LinkedIn format mix:** 2 carousels + 2-3 text posts per week. Carousels drive reach (6.6%), text posts drive conversion (higher reply rate). Don't exceed 5 posts/week — diminishing returns.
 
 **Time investment:** ~2-3 hrs/week (Phase 0 — batch-draft with Claude, manual posting)
 
@@ -87,7 +93,7 @@ graph TD
 |--------|----------------|----------------|
 | **Offer Creation** | Validation, pricing, positioning | "How to validate before you build", "The $47 test", "Why your offer isn't selling" |
 | **Funnel Strategy** | Value ladders, bumps, OTOs, email | "Why most coaches build backwards", "The bump nobody talks about", "Email > content" |
-| **Anti-Guru** | Contrarian takes, no-BS truth | "You can't grow into pain", "Stop posting, start selling", "The guru lie" |
+| **Alignment** | Building right, offer-life fit, the diagnostic | "You can't grow into pain", "If the overlaps don't make sense, wrong offer", "Build something you won't burn down" |
 | **Behind the Scenes** | Real numbers, real struggles | "114 sales: what I learned", "What actually happened this week", "The mistake I made" |
 
 **Rotation:** Hit each pillar at least once per week across platforms.
@@ -115,13 +121,13 @@ graph TD
 - "What changed when I stopped chasing followers."
 - "The $47 offer that funds my entire business."
 
-### Anti-Guru Hooks
-- "I'm not going to tell you to quit your 9-to-5."
-- "No webinar. No VSL. Just a $47 offer and a system."
-- "The 'guru playbook' is broken. Here's what works instead."
-- "You don't need a personal brand. You need paying clients."
-- "Stop buying prompt packs. Start building your context."
-- "ChatGPT writes garbage because you gave it nothing to work with."
+### Alignment Hooks
+- "You can't grow into pain. Build something that fits."
+- "Most coaches build the offer they think they should. Not the one that fits who they are."
+- "If the overlaps between your interests and your offer don't make sense — wrong offer."
+- "I'm not going to tell you to quit your 9-to-5. I'm going to help you build something worth quitting for."
+- "The offer you'll burn down at $8K isn't better than the one you'll show up for at $3K."
+- "Stop building someone else's playbook. Engineer your own."
 - "AI is an amplifier. Feed it chaos, get polished chaos back."
 - "Everyone's chasing the perfect prompt. The answer is a system, not a sentence."
 - "Prompts without a system are ingredients without a kitchen."
@@ -186,8 +192,8 @@ $5K Accelerator
 
 | Platform | Primary CTA | Secondary CTA |
 |----------|-------------|---------------|
-| X/Twitter | "Follow for more" / Newsletter link in bio | "DM me [word] for [thing]" |
-| LinkedIn | Link to $47 offer | "DM me if this resonates" |
+| LinkedIn | Link to $47 offer / Newsletter signup | "DM me [word] for [thing]" |
+| X/Twitter | "Follow for more" / Newsletter link in bio | "DM me if this resonates" |
 | Newsletter | Relevant offer from value ladder | Reply to build relationship |
 
 ---
@@ -212,14 +218,48 @@ $5K Accelerator
 
 ## Metrics to Track
 
+### Growth Metrics
+
 | Metric | Where | Baseline | 30-Day | 90-Day |
 |--------|-------|----------|--------|--------|
 | Newsletter subscribers | Beehiiv | — | +200 | +1,000 |
-| X followers | X | — | +500 | +2,000 |
 | LinkedIn followers | LinkedIn | — | +200 | +1,000 |
+| X followers | X | — | +300 | +1,500 |
 | Newsletter open rate | Beehiiv | — | 40%+ | 40%+ |
-| DM conversations/week | Manual | 0 | 5 | 15 |
+| Welcome sequence open rate | Beehiiv | — | 70%+ | 80%+ |
 | Organic → $47 sales/week | Funnel tracking | 0 | 2 | 10 |
+| Newsletter-to-buyer conversion | Funnel tracking | — | Track | 2.6% target |
+| Newsletter-to-buyer timeline | Funnel tracking | — | Track | 14-21 days |
+
+### Engagement Benchmarks (2026)
+
+| Metric | Benchmark | Source |
+|--------|-----------|--------|
+| LinkedIn post engagement | 5.2% avg | SocialInsider 2026 |
+| LinkedIn carousel engagement | 6.6% | SocialInsider 2026 |
+| LinkedIn video engagement | 5.6% | SocialInsider 2026 |
+| LinkedIn text-only engagement | 3.2% | SocialInsider 2026 |
+| X engagement (<5K followers) | 2-5% | Industry benchmarks |
+| X engagement (5K-100K) | 1-3% | Industry benchmarks |
+| X engagement (>100K) | 0.3-1% | Industry benchmarks |
+| Organic subscriber conversion | 2.6% | vs 1.5% for paid |
+
+### DM Conversion Funnel
+
+| Stage | Benchmark |
+|-------|-----------|
+| Engagement → DM | 8-12% |
+| DM → Conversation | 35-45% |
+| Conversation → Sale | 15-25% |
+| DM conversations/week | 5 (30-day) → 15 (90-day) |
+
+### Diminishing Returns Thresholds
+
+| Platform | Optimal Frequency | After This, Returns Drop |
+|----------|-------------------|--------------------------|
+| LinkedIn | 3-5 posts/week | >5 posts/week |
+| X | 1-3 tweets/day | Marginal at any volume for medium accounts |
+| Newsletter | 1x/week | 2x/week (unless segmented) |
 
 **Review cadence:** Weekly (Sunday)
 
@@ -340,7 +380,7 @@ Reference files are the canon. Content is derivative. The automation layer never
 
 ---
 
-*Last updated: 2026-02-28*
+*Last updated: 2026-03-09*
 *Decisions: [2026-02-03-content-strategy.md](../../decisions/2026-02-03-content-strategy.md), [2026-02-24-content-automation-rollout.md](../../decisions/2026-02-24-content-automation-rollout.md)*
 
 ---
@@ -351,5 +391,6 @@ Reference files are the canon. Content is derivative. The automation layer never
 - [audience.md](../core/audience.md) — WHO we are creating for
 - [voice.md](../core/voice.md) — HOW we write and speak
 - [offer.md](../core/offer.md) — The value ladder content promotes
+- [content-ideas.md](content-ideas.md) — Ideas library mapped to pillars and data
 - [main-angles.md](../proof/angles/main-angles.md) — Angles that map to content pillars
 - [testimonials.md](../proof/testimonials.md) — Proof points to weave into content

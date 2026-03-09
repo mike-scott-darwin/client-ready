@@ -60,27 +60,25 @@ Decision rationale: [decisions/2026-02-01-angle-prioritization.md](../../../deci
 
 ---
 
-### 4. The "Engineering Approach" Angle
-**Hook:** "Test, validate, build — not wishful thinking"
+### 4. The "Alignment Engineer" Angle
+**Hook:** "Build something that fits who you actually are — not who you think you should be"
 
 **Why it works:**
-- Appeals to logical thinkers
-- Differentiates from "manifest your success" crowd
-- Implies proven methodology
+- Unique positioning — nobody else is saying this in coaching
+- Combines engineering credibility with emotional truth
+- "You can't grow into pain" is the most memorable phrase in the brand
+- Positions FOR building right instead of AGAINST gurus (which is now generic)
+- The alignment diagnostic (3 questions) gives it a concrete mechanism
 
-**Use in:** Content, sales conversations, objection handling
+**Sub-hooks:**
+- "You can't grow into pain."
+- "Test, validate, build — not wishful thinking."
+- "If the overlaps between your interests and your offer don't make sense, you have the wrong offer."
+- "The offer you'll burn down at $8K isn't better than the one you'll show up for at $3K."
 
----
+**Use in:** Content, sales conversations, about pages, LinkedIn carousels, newsletter
 
-### 5. The "Reality Over Perception" Angle
-**Hook:** "You can't grow into pain"
-
-**Why it works:**
-- Memorable phrase
-- Counters "fake it till you make it"
-- Implies substance over style
-
-**Use in:** Educational content, offer positioning
+**Note (Mar 2026):** This replaces the separate "Engineering Approach" and "Reality Over Perception" angles. Merged because they're two sides of the same idea — the engineering mindset applied to offer-life fit. "Anti-guru" retired as a positioning label per [decisions/2026-03-09-alignment-engineer-positioning.md](../../../decisions/2026-03-09-alignment-engineer-positioning.md).
 
 ---
 

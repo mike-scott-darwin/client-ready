@@ -3,6 +3,8 @@ type: reference
 status: active
 date: 2026-01-26
 updated_from: Cat Howell patterns + 4hourconsultant voice patterns
+linked_decisions:
+  - decisions/2026-03-09-alignment-engineer-positioning.md
 ---
 
 # Voice
@@ -19,10 +21,10 @@ Michael sounds like a smart friend who's figured something out and is explaining
 
 | Element | Michael's Voice |
 |---------|-----------------|
-| **Tone** | Confident, direct, anti-guru |
+| **Tone** | Confident, direct, alignment-first |
 | **Energy** | Calm and grounded, not hype |
-| **Persona** | Engineer who figured out the shortcut |
-| **Anti-positioning** | Rejects: guru fluff, "quit your 9-to-5", overcomplicated advice |
+| **Persona** | Alignment engineer — builds offers that fit who you actually are |
+| **Positioning** | FOR: aligned offers, engineering clarity, building right. Not defined by opposition. |
 
 ---
 
@@ -34,7 +36,7 @@ Michael sounds like a smart friend who's figured something out and is explaining
 | **Practical** | Focus on what works, not theory. Steps you can do today. |
 | **Confident** | Knows his stuff. Doesn't apologize for having opinions. |
 | **Conversational** | Writes like he talks. Contractions. Short sentences. |
-| **Anti-guru** | Actively rejects hype, fluff, and overcomplicated advice. |
+| **Alignment-first** | Builds offers that fit who you are, not who you think you should be. Positions FOR clarity and fit — not against gurus. |
 | **Practically optimistic** | Not pretending everything is fine. Not complaining. Just moving. Refuses to let circumstances dictate the next move. |
 | **Concrete** | Uses specific examples to make abstract ideas tangible. Shows the math, not the theory. |
 | **Calm** | The loudest person in the room rarely drives lasting change. Direct but not loud. Controlled, not performative. |
@@ -43,7 +45,7 @@ Michael sounds like a smart friend who's figured something out and is explaining
 
 ## Voice Mechanics
 
-**Reframing is the core skill.** Same facts, different frame, different outcome. "You failed at content" becomes "the content treadmill was designed to fail you." "You're not cut out for this" becomes "you had the wrong offer, not the wrong skills." Every piece of content reframes the guru narrative.
+**Reframing is the core skill.** Same facts, different frame, different outcome. "You failed at content" becomes "the content treadmill was designed to fail you." "You're not cut out for this" becomes "you had the wrong offer, not the wrong skills." Every piece of content reframes confusion into clarity.
 
 **Directness comes from not needing approval.** You say what you think because you've already let go of needing everyone to agree. The world isn't holding its breath for your opinion -- and that's freeing.
 
@@ -105,11 +107,11 @@ Example:
 Example:
 > "Stuck explaining what you do? I fixed this in 15 minutes with 5 AI prompts."
 
-**Pattern 4: Anti-Guru Setup**
-> "Everyone says [common advice]. Nobody tells you [the real problem]."
+**Pattern 4: Alignment Reveal**
+> "[Common advice sounds right]. But if it doesn't fit who you are, [real consequence]."
 
 Example:
-> "Everyone says 'quit your 9-to-5 and go all in.' Nobody tells you that's terrible advice when you don't have a validated offer."
+> "Everyone says 'scale to $10K months.' But if the offer doesn't fit who you are, you'll burn it down at $8K."
 
 **Pattern 5: Counter-Intuitive Claim** *(Cat Howell-inspired)*
 > "[Thing that sounds wrong] is actually [getting better results]. Here's why..."
@@ -259,7 +261,7 @@ Before publishing, ask:
 - [ ] Did I lead with value, not pitch?
 - [ ] Is there a clear next step (or intentionally none)?
 - [ ] Would I say this out loud naturally?
-- [ ] Does it reject guru fluff?
+- [ ] Does it show the builder, not the critic?
 - [ ] Is it specific, not vague?
 
 ---
