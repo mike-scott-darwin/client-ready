@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Stop Prompting. Start Codifying.</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;900&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, sans-serif;
+    background: #0a0a0a;
+    color: #f0f0f0;
+    overflow: hidden;
+    height: 100vh;
+  }
+
+  .deck {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+  }
+
+  .slide {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 8vh 10vw;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.4s ease;
+  }
+
+  .slide.active {
+    display: flex;
+    opacity: 1;
+  }
+
+  .slide.left { text-align: left; align-items: flex-start; }
+
+  h1 {
+    font-size: clamp(2.5rem, 5vw, 4.5rem);
+    font-weight: 900;
+    line-height: 1.1;
+    margin-bottom: 1.5rem;
+    letter-spacing: -0.03em;
+  }
+
+  h2 {
+    font-size: clamp(1.8rem, 3.5vw, 3rem);
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 1.5rem;
+    letter-spacing: -0.02em;
+  }
+
+  h3 {
+    font-size: clamp(1.2rem, 2vw, 1.8rem);
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: #4a9eff;
+  }
+
+  p, li {
+    font-size: clamp(1rem, 1.8vw, 1.5rem);
+    line-height: 1.6;
+    color: #ccc;
+    max-width: 900px;
+  }
+
+  .subtitle {
+    font-size: clamp(1.2rem, 2.2vw, 1.8rem);
+    color: #888;
+    font-weight: 300;
+    margin-bottom: 2rem;
+  }
+
+  .highlight { color: #4a9eff; }
+  .green { color: #22c55e; }
+  .red { color: #ef4444; }
+  .orange { color: #f97316; }
+  .dim { color: #666; }
+
+  ul {
+    list-style: none;
+    text-align: left;
+    max-width: 800px;
+    width: 100%;
+  }
+
+  ul li {
+    padding: 0.6rem 0;
+    padding-left: 1.5rem;
+    position: relative;
+  }
+
+  ul li::before {
+    content: '\2192';
+    position: absolute;
+    left: 0;
+    color: #4a9eff;
+  }
+
+  ul.red-list li::before { color: #ef4444; content: '\2717'; }
+  ul.green-list li::before { color: #22c55e; content: '\2713'; }
+
+  .comparison {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+    width: 100%;
+    max-width: 1000px;
+    text-align: left;
+  }
+
+  .comparison .col h3 {
+    margin-bottom: 1.5rem;
+    font-size: 1.4rem;
+  }
+
+  .comparison .col p, .comparison .col li {
+    font-size: 1.1rem;
+  }
+
+  .stat-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    width: 100%;
+    max-width: 900px;
+  }
+
+  .stat {
+    text-align: center;
+  }
+
+  .stat .number {
+    font-size: clamp(2.5rem, 4vw, 4rem);
+    font-weight: 900;
+    color: #4a9eff;
+    display: block;
+  }
+
+  .stat .label {
+    font-size: 0.9rem;
+    color: #888;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+
+  .code-block {
+    background: #1a1a2e;
+    border: 1px solid #333;
+    border-radius: 12px;
+    padding: 2rem;
+    text-align: left;
+    font-family: 'SF Mono', 'Fira Code', monospace;
+    font-size: clamp(0.8rem, 1.3vw, 1.1rem);
+    line-height: 1.8;
+    color: #e0e0e0;
+    max-width: 800px;
+    width: 100%;
+    margin-top: 1rem;
+  }
+
+  .code-block .comment { color: #666; }
+  .code-block .key { color: #4a9eff; }
+  .code-block .value { color: #22c55e; }
+
+  .flow {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 2rem 0;
+  }
+
+  .flow .step {
+    background: #1a1a2e;
+    border: 2px solid #4a9eff;
+    border-radius: 12px;
+    padding: 1rem 1.5rem;
+    font-weight: 600;
+    font-size: 1.1rem;
+  }
+
+  .flow .arrow {
+    color: #4a9eff;
+    font-size: 1.5rem;
+  }
+
+  .quote {
+    font-style: italic;
+    font-size: clamp(1.3rem, 2.5vw, 2rem);
+    color: #aaa;
+    border-left: 4px solid #4a9eff;
+    padding-left: 2rem;
+    text-align: left;
+    max-width: 800px;
+    line-height: 1.5;
+  }
+
+  .progress {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 3px;
+    background: #4a9eff;
+    transition: width 0.3s ease;
+    z-index: 100;
+  }
+
+  .slide-counter {
+    position: fixed;
+    bottom: 1.5rem;
+    right: 2rem;
+    font-size: 0.85rem;
+    color: #444;
+    z-index: 100;
+  }
+
+  .tag {
+    display: inline-block;
+    background: #1a1a2e;
+    border: 1px solid #333;
+    border-radius: 6px;
+    padding: 0.3rem 0.8rem;
+    font-size: 0.85rem;
+    color: #888;
+    margin: 0.2rem;
+  }
+
+  .stack-visual {
+    text-align: left;
+    max-width: 600px;
+    width: 100%;
+  }
+
+  .stack-visual .layer {
+    padding: 0.8rem 1.5rem;
+    margin: 0.3rem 0;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 1.1rem;
+  }
+
+  .stack-visual .l1 { background: #4a9eff22; border-left: 4px solid #4a9eff; }
+  .stack-visual .l2 { background: #22c55e22; border-left: 4px solid #22c55e; }
+  .stack-visual .l3 { background: #f9731622; border-left: 4px solid #f97316; }
+  .stack-visual .l4 { background: #a855f722; border-left: 4px solid #a855f7; }
+
+  .timeline {
+    display: flex;
+    gap: 0;
+    width: 100%;
+    max-width: 900px;
+  }
+
+  .timeline .phase {
+    flex: 1;
+    padding: 1.5rem;
+    border-top: 3px solid #333;
+    position: relative;
+  }
+
+  .timeline .phase.active-phase { border-top-color: #4a9eff; }
+  .timeline .phase h4 { font-size: 1rem; color: #4a9eff; margin-bottom: 0.5rem; }
+  .timeline .phase p { font-size: 0.9rem; color: #888; }
+
+  @media (max-width: 768px) {
+    .comparison { grid-template-columns: 1fr; gap: 2rem; }
+    .stat-grid { grid-template-columns: 1fr; }
+    .slide { padding: 5vh 6vw; }
+  }
+</style>
+</head>
+<body>
+
+<div class="deck">
+
+  <!-- SLIDE 1: Title -->
+  <div class="slide active" id="s1">
+    <h1>Stop Prompting.<br><span class="highlight">Start Codifying.</span></h1>
+    <p class="subtitle">Why your AI doesn't know your business — and how to fix it</p>
+    <p class="dim" style="margin-top: 2rem; font-size: 0.9rem;">Michael Scott — Client Ready</p>
+  </div>
+
+  <!-- SLIDE 2: The Problem -->
+  <div class="slide" id="s2">
+    <h2>You use AI every day.</h2>
+    <h2 style="margin-top: 1rem;"><span class="red">It still doesn't know your business.</span></h2>
+    <p style="margin-top: 2rem; font-size: 1.3rem;">Every session starts from zero. Every output is generic.<br>You're re-explaining yourself to a machine that should already know.</p>
+  </div>
+
+  <!-- SLIDE 3: What Everyone Does -->
+  <div class="slide" id="s3">
+    <h2>What most businesses do with AI</h2>
+    <ul class="red-list" style="margin-top: 1.5rem;">
+      <li>Upload a brand guide PDF to Claude Projects — helps once, then gone</li>
+      <li>Build 5 custom GPTs — each isolated, none connected</li>
+      <li>Save 50 "best prompts" from Twitter — all generic, none work</li>
+      <li>Tell a VA to "use AI for content" — output sounds like everyone else</li>
+      <li>Consider hiring an AI consultant — $8-15K/month, unclear ROI</li>
+    </ul>
+    <p style="margin-top: 2rem;"><span class="orange">The problem was never the tool. It was the missing context.</span></p>
+  </div>
+
+  <!-- SLIDE 4: The Insight -->
+  <div class="slide" id="s4">
+    <h3>THE INSIGHT</h3>
+    <h1 style="font-size: clamp(2rem, 4vw, 3.5rem);">Prompts are <span class="red">disposable</span>.<br>Context is <span class="green">compounding</span>.</h1>
+    <p style="margin-top: 2rem;">A prompt gets you one output. Structured business context gets you <em>every</em> output — ads, content, emails, scripts, strategy — and each one is better than the last.</p>
+  </div>
+
+  <!-- SLIDE 5: The Reference Stack -->
+  <div class="slide" id="s5">
+    <h2>The Reference Stack</h2>
+    <p style="margin-bottom: 2rem;">Four files. That's the foundation.</p>
+    <div class="stack-visual">
+      <div class="layer l1"><span class="highlight">soul.md</span> — WHY you exist. Your beliefs, your code, your north star.</div>
+      <div class="layer l2"><span class="green">offer.md</span> — WHAT you sell. Mechanism, pricing, objections, proof.</div>
+      <div class="layer l3"><span class="orange">audience.md</span> — WHO buys. Real language, real pain, real patterns.</div>
+      <div class="layer l4" style="color: #a855f7;">voice.md — HOW you sound. Tone, phrases, anti-positioning.</div>
+    </div>
+    <p style="margin-top: 1.5rem; color: #888;">AI reads these files. Every output is informed by your actual business. Not generic. Yours.</p>
+  </div>
+
+  <!-- SLIDE 6: Before / After — Tweet -->
+  <div class="slide" id="s6">
+    <h2>Same request. Different context.</h2>
+    <div class="comparison" style="margin-top: 2rem;">
+      <div class="col">
+        <h3 class="red">Without reference files</h3>
+        <div class="code-block" style="font-size: 0.9rem;">
+          <span class="comment"># Prompt:</span><br>
+          "Write me a tweet about my coaching offer"<br><br>
+          <span class="comment"># Output:</span><br>
+          <span class="value">"Ready to transform your life?<br>
+          Our coaching program helps you<br>
+          reach your full potential!<br>
+          DM me to learn more"</span>
+        </div>
+        <p style="margin-top: 1rem; font-size: 0.9rem;" class="red">Generic. Could be anyone. Zero personality.</p>
+      </div>
+      <div class="col">
+        <h3 class="green">With reference files</h3>
+        <div class="code-block" style="font-size: 0.9rem;">
+          <span class="comment"># Same prompt. AI reads soul.md + voice.md</span><br><br>
+          <span class="comment"># Output:</span><br>
+          <span class="value">"You didn't leave your 9-to-5<br>
+          to build another one.<br><br>
+          If the offer hurts to show up for,<br>
+          it's the wrong offer.<br><br>
+          Alignment first. Scale second."</span>
+        </div>
+        <p style="margin-top: 1rem; font-size: 0.9rem;" class="green">Sounds like the founder. Speaks to the audience. On brand.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- SLIDE 6b: Before / After — Email Subject Lines -->
+  <div class="slide" id="s6b">
+    <h2>Email subject lines. Same difference.</h2>
+    <div class="comparison" style="margin-top: 2rem;">
+      <div class="col">
+        <h3 class="red">Without context</h3>
+        <div class="code-block" style="font-size: 0.95rem;">
+          <span class="comment"># "Write 5 email subject lines for my offer"</span><br><br>
+          <span class="value">1. Transform Your Business Today!<br>
+          2. Don't Miss This Opportunity<br>
+          3. Your Success Starts Here<br>
+          4. Limited Time Offer Inside<br>
+          5. Ready to Level Up?</span>
+        </div>
+        <p style="margin-top: 1rem; font-size: 0.9rem;" class="red">Spam folder material. Every guru writes these.</p>
+      </div>
+      <div class="col">
+        <h3 class="green">With audience.md + voice.md</h3>
+        <div class="code-block" style="font-size: 0.95rem;">
+          <span class="comment"># Same prompt. AI reads the stuck patterns.</span><br><br>
+          <span class="value">1. You have 200 saved ChatGPT chats. None of them talk to each other.<br>
+          2. Your VA uses AI differently than you do. That's the problem.<br>
+          3. Stop re-explaining your business every Monday morning.<br>
+          4. You don't need another AI tool. You need context.<br>
+          5. The $10K/month AI consultant vs. a folder of markdown files.</span>
+        </div>
+        <p style="margin-top: 1rem; font-size: 0.9rem;" class="green">Specific. Pattern-interrupt. Written from real pain points in audience.md.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- SLIDE 6c: What AI Actually Reads — soul.md snippet -->
+  <div class="slide left" id="s6c">
+    <h3>WHAT AI ACTUALLY READS</h3>
+    <h2>A real soul.md — the file that changes everything</h2>
+    <div class="code-block" style="margin-top: 1rem; font-size: 0.95rem;">
+      <span class="comment"># soul.md — Client Ready</span><br><br>
+      <span class="key">## Core Belief</span><br>
+      <span class="value">The act of articulating your offer, audience, and voice</span><br>
+      <span class="value">IS the strategic work. Not a cost center. Not documentation.</span><br>
+      <span class="value">The thinking is the product.</span><br><br>
+      <span class="key">## Anti-Position</span><br>
+      <span class="value">We don't sell prompts. Prompts are disposable.</span><br>
+      <span class="value">We don't sell "AI implementation." That's a consultant trap.</span><br>
+      <span class="value">We sell the skill of teaching AI who you are.</span><br><br>
+      <span class="key">## The Line</span><br>
+      <span class="value">If you can't explain your offer in one sentence,</span><br>
+      <span class="value">no AI tool will save you. Start there.</span>
+    </div>
+    <p style="margin-top: 1.5rem; color: #888;">Every ad, every tweet, every VSL reads this file. The voice never drifts. The positioning never wavers.</p>
+  </div>
+
+  <!-- SLIDE 6d: Before / After — Ad Copy -->
+  <div class="slide" id="s6d">
+    <h2>Ad copy. Night and day.</h2>
+    <div class="comparison" style="margin-top: 2rem;">
+      <div class="col">
+        <h3 class="red">Generic AI ad</h3>
+        <div class="code-block" style="font-size: 0.9rem;">
+          <span class="comment"># "Write a Facebook ad for my coaching business"</span><br><br>
+          <span class="value">Are you tired of struggling?<br><br>
+          Our proven system helps<br>
+          entrepreneurs just like you<br>
+          achieve their goals faster!<br><br>
+          Click below to learn more.</span>
+        </div>
+        <p style="margin-top: 1rem; font-size: 0.9rem;" class="red">$0.00 CPM because nobody stops scrolling.</p>
+      </div>
+      <div class="col">
+        <h3 class="green">AI reads offer.md + proof/angles/</h3>
+        <div class="code-block" style="font-size: 0.9rem;">
+          <span class="comment"># Same ask. AI has 7 tested messaging angles.</span><br><br>
+          <span class="value">I built 42 reference files.<br>
+          Now my AI writes better copy than<br>
+          my $5K/month copywriter did.<br><br>
+          Not because the AI is magic.<br>
+          Because it finally knows my business.<br><br>
+          The system took 7 weeks to build.<br>
+          It'll run for years.</span>
+        </div>
+        <p style="margin-top: 1rem; font-size: 0.9rem;" class="green">Specific proof. Real numbers. The voice.md anti-guru tone.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- SLIDE 6e: Agency Client Walkthrough -->
+  <div class="slide left" id="s6e">
+    <h3>AGENCY APPLICATION</h3>
+    <h2>Client onboarding with codification</h2>
+    <div class="timeline" style="margin-top: 2rem;">
+      <div class="phase active-phase">
+        <h4>Week 1: Extract</h4>
+        <p>3 sessions with the founder. Pull out soul, offer, audience, voice. Write the 4 core files.</p>
+      </div>
+      <div class="phase active-phase">
+        <h4>Week 2: Generate</h4>
+        <p>First outputs: 10 ads, 5 emails, content calendar. All informed by reference. Client reviews.</p>
+      </div>
+      <div class="phase active-phase">
+        <h4>Week 3+: Compound</h4>
+        <p>Research enriches reference. Decisions refine positioning. Every output gets sharper. Client can't leave.</p>
+      </div>
+    </div>
+    <p style="margin-top: 2rem;">Traditional agency: brief dies after week 1. Codified agency: brief gets <span class="highlight">smarter</span> every week.</p>
+  </div>
+
+  <!-- SLIDE 6f: Decisions Compound -->
+  <div class="slide left" id="s6f">
+    <h3>DECISIONS COMPOUND</h3>
+    <h2>Every choice makes every future output better</h2>
+    <div class="code-block" style="margin-top: 1rem; font-size: 0.9rem;">
+      <span class="comment"># decisions/2026-02-27-context-engineering-content-angle.md</span><br><br>
+      <span class="key">## Situation</span><br>
+      YouTube research validates "context engineering" beats<br>
+      "prompt engineering." Maps 1:1 to our reference system.<br><br>
+      <span class="key">## Decision</span><br>
+      <span class="value">Use "context vs prompts" as recurring content angle.</span><br>
+      <span class="value">"Stop buying prompt packs. Start building your context."</span><br><br>
+      <span class="key">## What Changes</span><br>
+      content-strategy.md: New hooks added to Anti-Guru section.<br><br>
+      <span class="comment"># This decision now informs every tweet, ad, and VSL.</span><br>
+      <span class="comment"># The AI reads it. The positioning sharpens. Automatically.</span>
+    </div>
+    <p style="margin-top: 1.5rem;">39 decisions like this. Each one makes the reference stack more precise. <span class="highlight">That's compounding.</span></p>
+  </div>
+
+  <!-- SLIDE 7: The Mechanism -->
+  <div class="slide" id="s7">
+    <h2>The Mechanism</h2>
+    <div class="flow" style="margin-top: 2rem;">
+      <div class="step">Extract</div>
+      <div class="arrow">&rarr;</div>
+      <div class="step">Codify</div>
+      <div class="arrow">&rarr;</div>
+      <div class="step">Generate</div>
+      <div class="arrow">&rarr;</div>
+      <div class="step" style="border-color: #22c55e;">Compound</div>
+    </div>
+    <ul style="margin-top: 2rem;">
+      <li><strong>Extract</strong> — Pull the knowledge out of your head into structured files</li>
+      <li><strong>Codify</strong> — Organize it so any AI can read and use it</li>
+      <li><strong>Generate</strong> — Produce ads, content, emails, scripts — all informed by YOUR context</li>
+      <li><strong>Compound</strong> — Every research session, every decision, every refinement makes everything better</li>
+    </ul>
+  </div>
+
+  <!-- SLIDE 8: Live System — Client Ready -->
+  <div class="slide left" id="s8">
+    <h3>LIVE SYSTEM — CLIENT READY</h3>
+    <h2>This is what it looks like in practice</h2>
+    <div class="code-block" style="margin-top: 1rem;">
+      <span class="key">client-ready/</span><br>
+      &boxvr;&boxh;&boxh; <span class="key">reference/</span><br>
+      &boxv;   &boxvr;&boxh;&boxh; <span class="key">core/</span> <span class="comment">&larr; soul.md, offer.md, audience.md, voice.md</span><br>
+      &boxv;   &boxvr;&boxh;&boxh; <span class="key">proof/</span> <span class="comment">&larr; testimonials, 7 angle files</span><br>
+      &boxv;   &boxur;&boxh;&boxh; <span class="key">domain/</span> <span class="comment">&larr; content strategy, funnel, classroom</span><br>
+      &boxvr;&boxh;&boxh; <span class="key">research/</span> <span class="comment">&larr; 54 files — mining, deep research, synthesis</span><br>
+      &boxvr;&boxh;&boxh; <span class="key">decisions/</span> <span class="comment">&larr; 39 files — every strategic choice documented</span><br>
+      &boxur;&boxh;&boxh; <span class="key">outputs/</span> <span class="comment">&larr; ads, VSLs, emails, content — all generated FROM reference</span>
+    </div>
+    <p style="margin-top: 1.5rem;">Every output reads from reference. Every research session enriches it. Nothing starts from zero.</p>
+  </div>
+
+  <!-- SLIDE 9: The Numbers -->
+  <div class="slide" id="s9">
+    <h3>BUILT OVER 7 WEEKS</h3>
+    <h2 style="margin-bottom: 2rem;">One business. One repo. Compounding.</h2>
+    <div class="stat-grid">
+      <div class="stat">
+        <span class="number">42</span>
+        <span class="label">Reference Files</span>
+      </div>
+      <div class="stat">
+        <span class="number">54</span>
+        <span class="label">Research Files</span>
+      </div>
+      <div class="stat">
+        <span class="number">39</span>
+        <span class="label">Decisions Documented</span>
+      </div>
+      <div class="stat">
+        <span class="number">8</span>
+        <span class="label">Automated Cron Jobs</span>
+      </div>
+      <div class="stat">
+        <span class="number">322</span>
+        <span class="label">Git Commits</span>
+      </div>
+      <div class="stat">
+        <span class="number">0</span>
+        <span class="label">Prompt Packs Purchased</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- SLIDE 10: What It Produces -->
+  <div class="slide" id="s10">
+    <h2>What the system produces — <span class="green">automatically</span></h2>
+    <ul style="margin-top: 1.5rem;">
+      <li><strong>Daily tweets + LinkedIn posts</strong> — generated from voice.md + content-strategy.md</li>
+      <li><strong>Weekly newsletter</strong> — newsletter-first, then adapted for social</li>
+      <li><strong>Ad copy + creative briefs</strong> — compliance-checked against 6 lenses</li>
+      <li><strong>VSL scripts</strong> — 18-section framework, populated from reference files</li>
+      <li><strong>Deep research</strong> — runs overnight, delivers morning summary via Telegram</li>
+      <li><strong>Positioning audit</strong> — weekly check: "is the reference still sharp or going generic?"</li>
+    </ul>
+    <p style="margin-top: 2rem;">Same reference files. Different skill. Consistent output. <span class="highlight">Every time.</span></p>
+  </div>
+
+  <!-- SLIDE 11: The Compounding Effect -->
+  <div class="slide" id="s11">
+    <h3>THE COMPOUNDING EFFECT</h3>
+    <h2>Week 1 vs Week 7</h2>
+    <div class="comparison" style="margin-top: 2rem;">
+      <div class="col">
+        <h3 style="color: #888;">Week 1</h3>
+        <p>4 reference files<br>Offer statement: "I help coaches"<br>Voice: undefined<br>Content: generic</p>
+        <p style="margin-top: 1rem; font-size: 0.9rem;">AI output: <span class="red">sounds like everyone else</span></p>
+      </div>
+      <div class="col">
+        <h3 class="green">Week 7</h3>
+        <p>42 reference files<br>7 messaging angles with proof<br>Voice calibrated from 20+ mining sessions<br>Content strategy with 5 pillars</p>
+        <p style="margin-top: 1rem; font-size: 0.9rem;">AI output: <span class="green">sounds like the founder, converts like copy</span></p>
+      </div>
+    </div>
+    <p style="margin-top: 2rem;">The reference stack isn't static. It learns. It compounds. <span class="highlight">That's the moat.</span></p>
+  </div>
+
+  <!-- SLIDE 12: What This Means For Agencies -->
+  <div class="slide" id="s12">
+    <h2>What this means for <span class="highlight">your agency</span></h2>
+    <ul style="margin-top: 1.5rem;">
+      <li><strong>Client onboarding:</strong> Extract their reference stack in week 1. Everything after is informed.</li>
+      <li><strong>Consistent quality:</strong> Any team member, any AI tool, same context = same quality output.</li>
+      <li><strong>Scalable delivery:</strong> Reference files are the operating system. Not tribal knowledge in someone's head.</li>
+      <li><strong>Retention play:</strong> The reference stack compounds. Leaving means starting from zero. Nobody leaves.</li>
+      <li><strong>Pricing power:</strong> You're not selling hours. You're building a compounding business asset.</li>
+    </ul>
+  </div>
+
+  <!-- SLIDE 13: The Market -->
+  <div class="slide" id="s13">
+    <h3>THE MARKET</h3>
+    <h2>$7.7B in AI knowledge management.</h2>
+    <h2><span class="highlight">Zero</span> for small business owners.</h2>
+    <p style="margin-top: 2rem;">Enterprise has Guru, Notion AI, Confluence.<br>Solopreneurs and small teams have... prompt packs and hope.</p>
+    <p style="margin-top: 1.5rem;">Every Skool community teaches you to <em>sell</em> AI services.<br><span class="highlight">Nobody teaches you to codify your own knowledge for AI.</span></p>
+  </div>
+
+  <!-- SLIDE 14: The Quote -->
+  <div class="slide" id="s14">
+    <div class="quote">
+      "AI is great at syntax, mediocre at semantics, and really bad at business context."
+    </div>
+    <p style="margin-top: 2rem; color: #666;">— InfoWorld, 2026</p>
+    <p style="margin-top: 2rem; font-size: 1.3rem;">Context isn't a feature request.<br>It's <span class="highlight">your job</span>.</p>
+  </div>
+
+  <!-- SLIDE 15: Live Demo Intro -->
+  <div class="slide" id="s15">
+    <h1>Live Demo</h1>
+    <p class="subtitle">Let me show you the actual system.</p>
+    <ul style="margin-top: 1.5rem;">
+      <li>The reference stack — 4 core files</li>
+      <li>A decision file — how choices compound</li>
+      <li>Generate a tweet — live, from reference</li>
+      <li>The bot — overnight research, morning summary</li>
+    </ul>
+    <p style="margin-top: 2rem; color: #666; font-size: 0.9rem;">[ Switch to terminal ]</p>
+  </div>
+
+  <!-- SLIDE 16: Call to Action -->
+  <div class="slide" id="s16">
+    <h2>Three questions to ask yourself</h2>
+    <ul style="margin-top: 2rem;">
+      <li style="padding: 1rem 0; padding-left: 1.5rem;"><strong>1.</strong> Does AI remember your business between sessions?</li>
+      <li style="padding: 1rem 0; padding-left: 1.5rem;"><strong>2.</strong> Could your team produce the same AI outputs you do?</li>
+      <li style="padding: 1rem 0; padding-left: 1.5rem;"><strong>3.</strong> Does your AI output from March sound different from January?</li>
+    </ul>
+    <p style="margin-top: 2rem; font-size: 1.3rem;">If any answer is <span class="red">no</span> — you have a context problem, not a tool problem.</p>
+  </div>
+
+  <!-- SLIDE 17: Close -->
+  <div class="slide" id="s17">
+    <h1>Stop Prompting.<br><span class="highlight">Start Codifying.</span></h1>
+    <p style="margin-top: 2rem; font-size: 1.3rem;">AI amplifies what you give it.<br>Give it your business. Not a prompt.</p>
+    <p style="margin-top: 3rem; color: #666;">Michael Scott — Client Ready</p>
+  </div>
+
+</div>
+
+<div class="progress" id="progress"></div>
+<div class="slide-counter" id="counter"></div>
+
+<script>
+  const slides = document.querySelectorAll('.slide');
+  let current = 0;
+  const total = slides.length;
+
+  function showSlide(n) {
+    slides[current].classList.remove('active');
+    current = Math.max(0, Math.min(n, total - 1));
+    slides[current].classList.add('active');
+    document.getElementById('progress').style.width = ((current + 1) / total * 100) + '%';
+    document.getElementById('counter').textContent = (current + 1) + ' / ' + total;
+  }
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'Enter') {
+      e.preventDefault();
+      showSlide(current + 1);
+    }
+    if (e.key === 'ArrowLeft' || e.key === 'Backspace') {
+      e.preventDefault();
+      showSlide(current - 1);
+    }
+    if (e.key === 'Home') showSlide(0);
+    if (e.key === 'End') showSlide(total - 1);
+  });
+
+  // Touch support
+  let touchStartX = 0;
+  document.addEventListener('touchstart', (e) => { touchStartX = e.touches[0].clientX; });
+  document.addEventListener('touchend', (e) => {
+    const diff = touchStartX - e.changedTouches[0].clientX;
+    if (Math.abs(diff) > 50) {
+      diff > 0 ? showSlide(current + 1) : showSlide(current - 1);
+    }
+  });
+
+  showSlide(0);
+</script>
+
+</body>
+</html>
