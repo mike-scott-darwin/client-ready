@@ -3,11 +3,12 @@ platform: linkedin
 type: post
 angle: before-the-funnel
 pillar: offer-creation
-status: draft
+status: published
 repurposed_from: 2026-02-25-newsletter-the-offer-underneath.md
 scheduled_date: 2026-02-25
-published_date: null
+published_date: 2026-03-10
 engagement: null
+post_id: "urn:li:share:7436908697735442432"
 ---
 
 # LinkedIn: The Problem Isn't Consistency

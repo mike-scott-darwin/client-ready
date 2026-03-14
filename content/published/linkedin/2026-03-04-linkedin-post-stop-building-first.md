@@ -3,11 +3,12 @@ platform: linkedin
 type: post
 angle: validation
 pillar: funnel-strategy
-status: draft
+status: published
 repurposed_from: 2026-03-04-newsletter-test-before-you-build.md
 scheduled_date: 2026-03-04
-published_date: null
+published_date: 2026-03-12
 engagement: null
+post_id: "urn:li:share:7437775562548547584"
 ---
 
 # LinkedIn: Stop Building First

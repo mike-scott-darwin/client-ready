@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Client Ready Playbook — Newsletter Archive</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0a0a0a;
+            color: #e5e5e5;
+            line-height: 1.6;
+        }
+        .header {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 60px 24px 40px;
+            text-align: center;
+            border-bottom: 1px solid #222;
+        }
+        .header h1 {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #fff;
+            margin-bottom: 12px;
+        }
+        .header p {
+            font-size: 1.05rem;
+            color: #999;
+            max-width: 500px;
+            margin: 0 auto 24px;
+        }
+        .subscribe-form {
+            display: flex;
+            gap: 8px;
+            max-width: 420px;
+            margin: 0 auto;
+        }
+        .subscribe-form input {
+            flex: 1;
+            padding: 12px 16px;
+            border: 1px solid #333;
+            border-radius: 8px;
+            background: #141414;
+            color: #fff;
+            font-size: 0.95rem;
+        }
+        .subscribe-form input::placeholder { color: #666; }
+        .subscribe-form button {
+            padding: 12px 24px;
+            background: #4a9eff;
+            color: #fff;
+            border: none;
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+            font-size: 0.95rem;
+            white-space: nowrap;
+        }
+        .subscribe-form button:hover { background: #3a8eef; }
+        .archive {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 40px 24px 80px;
+        }
+        .archive h2 {
+            font-size: 1.1rem;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 24px;
+        }
+        .issue {
+            display: block;
+            padding: 24px 0;
+            border-bottom: 1px solid #1a1a1a;
+            text-decoration: none;
+            color: inherit;
+            transition: opacity 0.15s;
+        }
+        .issue:hover { opacity: 0.8; }
+        .issue-date {
+            font-size: 0.85rem;
+            color: #666;
+            margin-bottom: 6px;
+        }
+        .issue-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #fff;
+            margin-bottom: 8px;
+        }
+        .issue-preview {
+            font-size: 0.95rem;
+            color: #999;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .loading {
+            text-align: center;
+            padding: 60px 0;
+            color: #666;
+        }
+        .cta-bar {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 40px 24px;
+            text-align: center;
+            border-top: 1px solid #222;
+        }
+        .cta-bar a {
+            color: #4a9eff;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .cta-bar a:hover { text-decoration: underline; }
+
+        @media (max-width: 480px) {
+            .header { padding: 40px 16px 32px; }
+            .header h1 { font-size: 1.5rem; }
+            .subscribe-form { flex-direction: column; }
+            .archive { padding: 32px 16px 60px; }
+            .issue-title { font-size: 1.1rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Client Ready Playbook</h1>
+        <p>Weekly insights for coaches and consultants building offers they won't abandon. No fluff. No guru energy.</p>
+        <form class="subscribe-form" action="https://buttondown.com/api/emails/embed-subscribe/Client_Ready" method="post" target="_blank">
+            <input type="email" name="email" placeholder="Enter your email" required />
+            <button type="submit">Subscribe</button>
+        </form>
+    </div>
+
+    <div class="archive">
+        <h2>Past Issues</h2>
+        <div id="issues">
+            <div class="loading">Loading archive...</div>
+        </div>
+    </div>
+
+    <div class="cta-bar">
+        <p>Ready to validate your offer? <a href="https://clientreadyoffer.com">Get the $47 Offer System &rarr;</a></p>
+        <p style="margin-top: 12px; color: #666; font-size: 0.9rem;">Questions? <a href="mailto:michael@clientreadyoffer.com">michael@clientreadyoffer.com</a></p>
+    </div>
+
+    <script>
+        // Seed issues: always shown so the archive is never empty
+        const SEED_ISSUES = [
+            {
+                title: "Stop Selling Your Program. Sell the First 15 Minutes.",
+                date: "March 26, 2026",
+                preview: "Nobody buys a 6-week program. They buy what happens in the first session. Your sales page lists 8 modules, 24 lessons, bonus templates \u2014 and your prospect\u2019s eyes glaze over.",
+                url: "https://buttondown.com/Client_Ready/archive/stop-selling-your-program-sell-the-first-15/"
+            },
+            {
+                title: "The Guarantee Nobody Writes (And Why It Closes Deals)",
+                date: "March 19, 2026",
+                preview: "A bold guarantee isn\u2019t risky. Having no guarantee is. Most coaches avoid guarantees because they\u2019re afraid of refunds. But the real cost is all the sales you never made.",
+                url: "https://buttondown.com/Client_Ready/archive/the-guarantee-nobody-writes-and-why-it-closes/"
+            },
+            {
+                title: "Your Offer Isn\u2019t the Problem. Your Positioning Is.",
+                date: "March 12, 2026",
+                preview: "Most coaches change their offer when it doesn\u2019t sell. The offer was fine. The positioning wasn\u2019t. You built a great program but nobody understands what it does in 5 seconds.",
+                url: "https://buttondown.com/Client_Ready/archive/your-offer-isnt-the-problem-your-positioning-is/"
+            },
+            {
+                title: "Your Offer Isn\u2019t Converting (Yet)",
+                date: "March 5, 2026",
+                preview: "The positioning fix most coaches miss. Your offer isn\u2019t broken \u2014 it\u2019s mispositioned. When someone lands on your page and leaves, it\u2019s rarely because the offer is bad.",
+                url: "https://buttondown.com/Client_Ready/archive/your-offer-isnt-converting-yet/"
+            }
+        ];
+
+        const RSS_URL = 'https://buttondown.com/Client_Ready/rss';
+        const CORS_PROXY = 'https://api.allorigins.win/raw?url=';
+
+        function renderIssues(issues) {
+            const container = document.getElementById('issues');
+            container.innerHTML = '';
+            issues.forEach(issue => {
+                container.innerHTML += `
+                    <a class="issue" href="${issue.url}" target="_blank">
+                        <div class="issue-date">${issue.date}</div>
+                        <div class="issue-title">${issue.title}</div>
+                        <div class="issue-preview">${issue.preview}</div>
+                    </a>
+                `;
+            });
+        }
+
+        async function loadArchive() {
+            try {
+                let response;
+                try {
+                    response = await fetch(RSS_URL);
+                    if (!response.ok) throw new Error('Direct fetch failed');
+                } catch {
+                    response = await fetch(CORS_PROXY + encodeURIComponent(RSS_URL));
+                }
+
+                const text = await response.text();
+                const parser = new DOMParser();
+                const xml = parser.parseFromString(text, 'text/xml');
+                const items = xml.querySelectorAll('item');
+
+                if (items.length > 0) {
+                    // RSS has content — use it (newer issues) + merge with seeds
+                    const rssIssues = [];
+                    const seenTitles = new Set();
+
+                    items.forEach(item => {
+                        const title = item.querySelector('title')?.textContent || 'Untitled';
+                        const link = item.querySelector('link')?.textContent || '#';
+                        const pubDate = item.querySelector('pubDate')?.textContent;
+                        const description = item.querySelector('description')?.textContent || '';
+
+                        const date = pubDate ? new Date(pubDate).toLocaleDateString('en-US', {
+                            year: 'numeric', month: 'long', day: 'numeric'
+                        }) : '';
+
+                        const temp = document.createElement('div');
+                        temp.innerHTML = description;
+                        const preview = temp.textContent.substring(0, 200);
+
+                        seenTitles.add(title);
+                        rssIssues.push({ title, date, preview, url: link });
+                    });
+
+                    // Add seed issues not already in RSS
+                    const merged = [...rssIssues];
+                    SEED_ISSUES.forEach(seed => {
+                        if (!seenTitles.has(seed.title)) {
+                            merged.push(seed);
+                        }
+                    });
+
+                    renderIssues(merged);
+                    return;
+                }
+            } catch (err) {
+                console.error('RSS load error:', err);
+            }
+
+            // Fallback: show seed issues
+            renderIssues(SEED_ISSUES);
+        }
+
+        loadArchive();
+    </script>
+</body>
+</html>

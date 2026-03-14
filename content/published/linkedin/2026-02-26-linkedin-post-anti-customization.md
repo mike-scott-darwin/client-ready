@@ -3,10 +3,11 @@ platform: linkedin
 type: post
 angle: anti-customization
 pillar: offer-creation
-status: draft
+status: published
 scheduled_date: 2026-02-26
-published_date: null
+published_date: 2026-03-11
 engagement: null
+post_id: "urn:li:share:7437271100142800896"
 ---
 
 # LinkedIn: Stop Customizing Your Offer
