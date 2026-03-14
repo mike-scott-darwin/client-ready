@@ -62,6 +62,7 @@ client-ready/
 │   │       └── main-angles.md # Proven messaging hooks
 │   │
 │   └── domain/
+│       ├── content-ideas.md   # PRIMARY source for all content
 │       ├── classroom/
 │       │   ├── modules.md     # Skool curriculum
 │       │   └── resources.md   # Downloads and templates
@@ -85,7 +86,7 @@ client-ready/
 Coaches and service providers who want to sell high-ticket ($5K+) but are stuck at the early stages. May still have a 9-to-5. Need practical, no-fluff guidance.
 
 ### Voice
-Direct. No-BS. Engineering mindset. Short sentences. "Wrong." "Test, validate, build." Anti-guru.
+Direct. No-BS. Engineering mindset. Short sentences. "Wrong." "Test, validate, build." Alignment-first (not anti-guru — retired Mar 2026).
 
 ### Core Philosophy
 - "You can't grow into pain" — Align offer with actual skills
@@ -123,6 +124,12 @@ Direct. No-BS. Engineering mindset. Short sentences. "Wrong." "Test, validate, b
 | Community pricing | ⚠️ Need to set $97/mo in GHL with 30-day trial logic |
 | Newsletter OTO page | ⚠️ "What's Working Now" $37/mo page not yet built |
 | Content strategy | ✅ Defined in `reference/domain/content-strategy.md` |
+
+---
+
+## Content Rule
+
+**All content — posts, newsletters, threads, carousels — must pull from `reference/domain/content-ideas.md` as the primary source.** This file contains ideas validated against offer.md, audience.md, voice.md, main-angles.md, and content-strategy.md. No off-message content. If an idea isn't in the library, check it against all 5 reference files before drafting.
 
 ---
 

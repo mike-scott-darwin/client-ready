@@ -1,165 +1,142 @@
 ---
 type: reference
-status: active
-date: 2026-01-27
-updated_from: 2026-01-25
+status: draft
+date: 2026-03-10
+evolved_from: audience-v1-low-ticket.md
 ---
 
-# Audience
+# Audience (v2 — Knowledge Codification)
 
 ## Primary Audience
 
-**Who:** People in transition — 9-to-5ers with real expertise who want out, but not into another grind
+**Who:** AI-literate business owners who already use AI daily but get generic, disposable results because nothing is structured or compounding.
 
 **Specifics:**
-- Still have a 9-to-5 (that's okay — Michael won't tell them to quit)
-- Have expertise from their career they can monetize
-- Want freedom, not just income — don't want to trade one grind for another
-- Probably in year 2-3 of the search — bought courses, tried content, starting to wonder if the gurus lied
-- Skeptical of "scale to $50K months" promises — looking for sustainable, not explosive
-- Need someone to tell them: the problem isn't you, it's building something misaligned
+- Already paying for AI tools (Claude, ChatGPT, Jasper, Copy.ai) — $20-$200/month
+- Already generating outputs — but starting from scratch every session
+- Have uploaded docs to Claude Projects or built custom GPTs — ad hoc, not systematic
+- Run a real business with real revenue — not pre-revenue dreamers
+- Know AI is powerful but frustrated it doesn't "get" their business
+- Smart enough to see the gap but don't know what structured AI knowledge management looks like
+- Willing to invest in systems, not just tools
 
 ## Demographics
 
 | Attribute | Description |
 |-----------|-------------|
-| Role | Coaches, consultants, service providers |
-| Stage | Pre-scale — have skills but need validation before systems |
-| Income | Side hustle to early full-time ($0-$100K from coaching) |
-| Tech comfort | Low to medium — need simple systems |
-| Mindset | Action-oriented, skeptical of hype, risk-aware |
+| Role | Consultants, agency owners, course creators, coaches with existing clients |
+| Stage | Post-validation — business works, AI adoption is scattered |
+| Revenue | $100K-$500K+ (not pre-revenue) |
+| AI experience | Intermediate — daily user, not a developer |
+| Tech comfort | Medium-high — comfortable with tools, may not know terminal |
+| Mindset | Systems thinker, efficiency-driven, sees AI as leverage not replacement |
 
 ## The 3am Worry
 
-"I've been at this for two years. I've bought courses. I've posted content. Nothing's working. Everyone else seems to have it figured out. What if the gurus lied? What if I'm just not cut out for this?"
+"I'm paying for Claude Pro and ChatGPT Plus and I still copy-paste the same context into every conversation. My VA uses AI differently than I do. Nothing connects. I know there's a better way but I don't know what it looks like. Meanwhile my competitor just hired an AI consultant for $10K/month and I can't tell if that's genius or a waste."
 
 ## Voice of Customer
 
-Real language from real people in the transition. Use these patterns in copy -- they're how the audience actually talks about the problem.
+**The Ad Hoc Trap:**
+> "I've got 200 saved ChatGPT conversations. I uploaded my brand guide to Claude Projects. I built a custom GPT for email writing. None of them talk to each other. Every Monday I'm re-explaining my business to an AI that should already know it."
 
-**The Misalignment Discovery Sequence (Mark D.):**
-> "At first I thought it was my system -- no, nothing much changed to what was working for years. Then I thought I was burned out. I just couldn't get alignment. This has been a very valuable lesson."
+**The Tool Fatigue:**
+> "I've tried ChatGPT, Claude, Jasper, Copy.ai, Notion AI, and whatever launched last week. They all produce the same generic output because they all know the same nothing about my actual business."
 
-They blame tactics first, then blame themselves, before finally realizing the foundation is wrong. This is the diagnostic journey Client Ready shortcircuits.
-
-**The Golden Handcuffs Exit (Tom S.):**
-> "I was earning a substantial income and advancing every six months, which led some to call me crazy for leaving. However, the higher I climbed, the more I became entangled in office politics. The values presented to the public do not reflect those actually practiced within the company; this hypocrisy undermines motivation, not productivity."
-
-Earning well. Advancing fast. Still leaving. Because values misalignment doesn't kill your skills -- it kills the will to use them. This is stuck pattern 11 spoken by someone who made the leap.
+**The Consultant Question:**
+> "Someone quoted me $8K/month for 'AI implementation.' I don't even know what that means. Do I need a consultant or do I need a system?"
 
 ---
 
 ## Pain Points
 
-1. **The search** — Years of trying different approaches, nothing quite fits
-2. **The content merry-go-round** — Posting for months, getting likes, nobody buying
-3. **The grind trap** — Left 9-to-5 to escape, now working 60 hours on a coaching business with worse benefits
-4. **Misaligned offers** — Built things that made money but hurt to show up for
-5. **Validation anxiety** — Afraid to put the offer out and find out it doesn't work
-6. **Wrong advice** — Told to hustle harder, scale faster, push through the pain
-7. **Starting to doubt** — Wondering if the problem is them (it's not — it's building something misaligned)
-
+1. **The reset loop** — Every AI session starts from zero. No memory, no context, no compounding.
+2. **Tool sprawl** — Paying for 3-5 AI tools that each know nothing about the business
+3. **Generic outputs** — AI writes like it's writing for anyone, because it is
+4. **The consultant gap** — Know they need help but $8-15K/month consultants feel like overkill for a small team
+5. **Team inconsistency** — Everyone on the team uses AI differently, no shared context
+6. **Knowledge trapped in heads** — Business knowledge lives in the founder's head, not in a system AI can read
+7. **No compounding** — Every piece of content, every ad, every email starts from scratch instead of building on what came before
 
 ## The Stuck Patterns
 
-The pain points describe what's happening. These patterns describe why they can't move.
+1. **Upload-and-pray.** They upload a brand guide PDF to Claude Projects and expect magic. It helps for one session. Then they start a new project and it's gone. The effort never compounds.
 
-1. **Avoidance-as-prudence.** They call it "not ready yet" or "still researching." It's fear of starting dressed up as caution. The hard thing is usually hard for about fifteen minutes -- but every day they delay, those fifteen minutes feel more like fifteen hours.
+2. **Prompt hoarding.** They've saved 50 "best prompts" from Twitter threads. None of them work because the prompts are generic and their business isn't. The issue was never the prompt — it was the context.
 
-2. **Relitigating past failures.** Every hour spent explaining what went wrong is an hour not spent building what comes next. They're stuck in the grieving phase instead of the problem-solving phase.
+3. **Tool tourism.** New AI tool launches, they sign up, spend a weekend learning it, get mediocre results, move to the next one. The tool wasn't the problem. The missing context was.
 
-3. **Mistaking the dip for failure.** They invested in something new and it got harder, not easier. They interpreted the dip as proof it wasn't working -- when it was actually the cost of leveling up. They quit at the right time for the wrong reason.
+4. **DIY consultant.** They've read every "AI for business" article, watched every YouTube tutorial, built custom GPTs. They're doing the work of a $10K/month consultant but without the system. Effort without architecture.
 
-4. **Confusing silence with stagnation.** No immediate results = "it's not working." They stop watering the seed because they can't see the root system forming. The wins that look sudden to outsiders are never sudden to the people who lived through the invisible phase.
+5. **Delegation without context.** They tell a VA to "use AI for social media" without giving them the brand voice, the offer positioning, the audience language. The VA produces content that sounds like everyone else's AI content.
 
-5. **Perfection as procrastination.** They optimize for accuracy when direction matters more. Fourteen tabs open, three courses half-finished, and still no offer live. The obsession with getting it right masks fear of making the call.
-
-6. **Identity mismatch.** They're forcing someone else's playbook. The guru told them to do reels, write daily, build a community -- none of it fits who they are. The exhaustion isn't from the work. It's from the performance.
-
-7. **Confusing availability with value.** Always reachable, always responsive, always saying yes. They think they're being helpful. They're actually teaching people their time has no cost -- and burning out in the process.
-
-8. **Labeling setbacks as proof.** The post that got 3 likes = "nobody wants what I have." The refund request = "my offer is bad." They're emotionally fused to every data point instead of reading patterns.
-
-9. **Expertise as a cage.** They know too much. Five courses, 200 hours of YouTube, all the books. The knowledge itself became the obstacle -- they see every risk, every complication, every reason to wait.
-
-10. **Over-chasing.** Jumping between niches, pivoting every month, starting a new offer before finishing the last one. Not focused, just busy. When you chase everything, you catch nothing.
-
-11. **Safety as slow death.** They left the 9-to-5 -- then rebuilt the same comfort zone in their coaching business. Safe offers, safe content, safe positioning. They're not burning out. They're rusting out.
+6. **Overcomplicating.** They think "AI implementation" means APIs, automations, and developer tools. They don't know that structured markdown files can do 80% of what they need.
 
 ---
 
 ## What They've Tried
 
-- Watched hours of YouTube content on "how to start a coaching business"
-- Bought a course or two that was too advanced or too generic
-- Built (or started building) a funnel that didn't convert
-- Posted on social media inconsistently
-- Had a few clients through word-of-mouth but can't replicate it
-- Created offers that didn't sell or underpriced their services
-- Spent weeks "perfecting" an offer before showing it to anyone
+- ChatGPT Plus ($20/mo) — daily use, generic results
+- Claude Pro ($20/mo) — Projects feature, uploads brand docs, better but still ad hoc
+- Custom GPTs — built 3-5, each isolated, none connected
+- Jasper or Copy.ai — for marketing copy, abandoned after generic output
+- Notion AI — for docs, doesn't understand the business
+- "AI prompt" courses or packs — learned prompting is not the bottleneck
+- Hired a VA to "use AI" — output was generic because VA had no business context
+- Considered AI consulting — $5-15K/month felt like too much for what they understood
 
-## The Alignment Diagnostic
+## The Alignment Diagnostic (v2)
 
-Three questions to determine if someone has the right offer — or is building something they'll eventually burn down:
+Three questions to determine if someone is ready for codification:
 
-**1. What do you research when no one's watching?**
+**1. Do you use AI daily but re-explain your business every session?**
+If yes, you have a context problem, not a tool problem. Codification solves this.
 
-Not for content. Not for clients. What rabbit holes do you fall into because you genuinely want to know? This reveals your actual interests — not the interests you think you should have.
+**2. Could your team produce the same AI outputs you do?**
+If no, your business knowledge is trapped in your head. It needs to be in files AI can read.
 
-**2. What intersections excite you when you find them?**
-
-When your expertise overlaps with something unexpected — does it light you up? Or does it feel like "more work"? The right offer lives at an intersection that energizes you.
-
-**3. What decisions feel like discovery vs obligation?**
-
-When you're making choices about your business — pricing, positioning, delivery — does it feel like play or like homework? Architecture decisions should feel like exploration. If they feel like chores, the foundation is misaligned.
-
-**The insight:** If the overlaps between your interests and your offer don't make sense, you probably have the wrong offer. You can't grow into pain. You'll eventually burn it down.
+**3. Does your AI output from March sound different from January?**
+If no, nothing is compounding. You're running on a treadmill.
 
 ---
 
 ## Dream Outcome
 
-- **Alignment:** An offer that fits who they actually are — something they won't abandon
-- **Sustainability:** A business they can show up to without white-knuckling every day
-- **Automation:** Paid traffic + funnel that works while they sleep
-- **Freedom:** Business built around their life, not life built around business
-- **End of the search:** Finally found the thing that works AND feels right
+- **AI that knows their business** — Ask once, it remembers forever. Every output builds on what came before.
+- **A system, not a tool** — Reference files that any AI tool can consume. Not locked into one platform.
+- **Team alignment** — Everyone uses the same context. Consistent outputs whether it's the founder or the VA.
+- **Compounding returns** — Every research session, every decision, every refinement makes all future outputs better.
+- **Independence** — No $10K/month consultant dependency. They own the system. They can run it themselves.
 
 ## Why They Trust Michael
 
-- He's been in the search for 7+ years — he knows what year 2-3 feels like
-- He won't tell them to quit their 9-to-5 or hustle harder
-- "You can't grow into pain" — he believes alignment matters more than scale
-- Paid traffic focus — no content merry-go-round
-- Validation-first — test before building, not build then hope
-- Understands that the problem isn't them — it's building something misaligned
+- He built the system for his own business first — 54 research files, 39 decisions, 42 reference files, all producing real outputs
+- He's not selling prompts — he's selling the architecture that makes prompts irrelevant
+- Engineer's mindset — practical, structured, no guru fluff
+- Shows the actual system, not a pitch deck about it
+- Understands that the act of codifying IS the strategic work, not a cost center
 
 ## Who This is NOT For
 
-- People who want to "get rich quick" without doing the work
-- Coaches who already have working funnels and consistent $10K+ months
-- Those unwilling to put their offer in front of real people
-- Perfectionists who won't ship until everything is "ready"
-- People who want to skip validation and go straight to scaling
+- People who haven't started using AI yet (they need basics first)
+- Developers who want API integrations (this is methodology, not code)
+- Enterprise teams with 50+ people (they need Notion/Confluence/Guru, not this)
+- People who want someone to do it for them with zero involvement (codification requires founder participation)
+- Prompt collectors who want magic words instead of structured thinking
 
 ## Buyer Journey
 
 | Stage | State | What They Need | Product |
 |-------|-------|----------------|---------|
-| **Stuck** | Have expertise, no clear offer | Extract and validate | $47 Offer System |
-| **Validated** | Offer works, need it built | Done-for-you offer creation | $197 DFY Offer Build |
-| **Building** | Need accountability + community | Weekly calls, templates, peer support | $97/mo Community |
-| **Scaling** | Ready for high-ticket | Hands-on done-with-you intensive | $5K Accelerator |
+| **Scattered** | Using AI daily, nothing connects | See what structured looks like | Entry offer (TBD) |
+| **Structured** | Have starter reference files, seeing results | Deepen and refine with guided practice | Community |
+| **Systematic** | Full reference stack, team using it | Build automation + scaling layer | Accelerator / DWY |
 
 ---
 
 ## See Also
 
-- [soul.md](./soul.md) — Why we serve this audience ("the search taught me something")
-- [offer.md](./offer.md) — What we offer them at each stage (buyer journey)
-- [voice.md](./voice.md) — How we talk to them (anti-guru, direct, no-BS)
-- [testimonials.md](../proof/testimonials.md) — Real client transformations
-- [main-angles.md](../proof/angles/main-angles.md) — How pain points become ad angles
-- [misalignment.md](../../outputs/ads/misalignment.md) — Ads built from stuck patterns and voice-of-customer quotes
-- [one-liners.md](../../outputs/ads/one-liners.md) — Ad hooks mapped to stuck patterns (#34-41)
+- [soul.md](./soul.md) — Why codification matters ("the thinking IS the work")
+- [offer.md](./offer.md) — What we sell at each stage (v2 — TBD)
+- [voice.md](./voice.md) — How we talk to this audience
+- [archive/audience-v1-low-ticket.md](./archive/audience-v1-low-ticket.md) — Previous audience definition
