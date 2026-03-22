@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"title","type":"text","text":"# Main Branch System\nEngine + Data = Output","x":-150,"y":-700,"width":400,"height":50},
+		{"id":"start","type":"text","text":"## /start\nDetect state, route to skill","x":-100,"y":-600,"width":200,"height":60,"color":"4"},
+		{"id":"ref-group","type":"text","text":"## REFERENCE FILES (the core)\n\n**soul.md** -- WHY you exist\n\n**offer.md** -- WHAT you sell\n\n**audience.md** -- WHO buys\n\n**voice.md** -- HOW you sound\n\n**content-strategy.md** -- HOW you distribute","x":-200,"y":-300,"width":400,"height":280,"color":"3"},
+		{"id":"think","type":"text","text":"## /think\nResearch, decide, codify","x":-600,"y":-400,"width":260,"height":100,"color":"6"},
+		{"id":"research","type":"text","text":"**Research**\nGemini, Grok, web, mining, transcripts","x":-900,"y":-500,"width":220,"height":70},
+		{"id":"decide","type":"text","text":"**Decide**\nOptions, pros/cons, choose","x":-900,"y":-380,"width":220,"height":70},
+		{"id":"codify","type":"text","text":"**Codify**\nDecision → reference update","x":-900,"y":-260,"width":220,"height":70},
+		{"id":"ads","type":"text","text":"## /ads\nMeta ad copy + images","x":380,"y":-500,"width":200,"height":60,"color":"2"},
+		{"id":"organic","type":"text","text":"## /organic\nTweets, LinkedIn, reels","x":380,"y":-400,"width":200,"height":60,"color":"2"},
+		{"id":"vsl","type":"text","text":"## /vsl\nSales video scripts","x":380,"y":-300,"width":200,"height":60,"color":"2"},
+		{"id":"site","type":"text","text":"## /site\nLanding pages","x":380,"y":-200,"width":200,"height":60,"color":"2"},
+		{"id":"wiki","type":"text","text":"## /wiki\nPersonal wiki","x":380,"y":-100,"width":200,"height":60,"color":"2"},
+		{"id":"output-label","type":"text","text":"### OUTPUT SKILLS\nReference → content","x":380,"y":-580,"width":200,"height":40},
+		{"id":"input-label","type":"text","text":"### INPUT FLOW\nInsights → reference","x":-900,"y":-580,"width":220,"height":40},
+		{"id":"end","type":"text","text":"## /end\nCrystallize, commit, close","x":-100,"y":60,"width":200,"height":120,"color":"1"},
+		{"id":"scanner","type":"text","text":"**Enrichment Scanner**\n6am cron, cross-references journal against reference","x":-500,"y":180,"width":220,"height":120,"color":"5"},
+		{"id":"autopost","type":"text","text":"**Auto-Posters**\nX (5x/day) + LinkedIn (1x/day) via launchd","x":580,"y":50,"width":220,"height":90,"color":"5"},
+		{"id":"obsidian","type":"text","text":"**Obsidian**\nDaily notes, wiki links, graph view, raw thinking capture","x":-790,"y":-100,"width":220,"height":100,"color":"5"},
+		{"id":"support-label","type":"text","text":"### SUPPORTING INFRASTRUCTURE","x":-150,"y":240,"width":300,"height":40}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"start","fromSide":"bottom","toNode":"ref-group","toSide":"top"},
+		{"id":"e2","fromNode":"start","fromSide":"left","toNode":"think","toSide":"top"},
+		{"id":"e3","fromNode":"think","fromSide":"right","toNode":"ref-group","toSide":"left","label":"enriches"},
+		{"id":"e4","fromNode":"ref-group","fromSide":"right","toNode":"ads","toSide":"left","label":"powers"},
+		{"id":"e5","fromNode":"ref-group","fromSide":"right","toNode":"organic","toSide":"left"},
+		{"id":"e6","fromNode":"ref-group","fromSide":"right","toNode":"vsl","toSide":"left"},
+		{"id":"e7","fromNode":"ref-group","fromSide":"right","toNode":"site","toSide":"left"},
+		{"id":"e8","fromNode":"ref-group","fromSide":"right","toNode":"wiki","toSide":"left"},
+		{"id":"e9","fromNode":"ref-group","fromSide":"bottom","toNode":"end","toSide":"top"},
+		{"id":"e10","fromNode":"research","fromSide":"bottom","toNode":"decide","toSide":"top"},
+		{"id":"e11","fromNode":"decide","fromSide":"bottom","toNode":"codify","toSide":"top"},
+		{"id":"e12","fromNode":"codify","fromSide":"right","toNode":"think","toSide":"left"},
+		{"id":"e13","fromNode":"research","fromSide":"right","toNode":"think","toSide":"left"},
+		{"id":"e14","fromNode":"obsidian","fromSide":"bottom","toNode":"scanner","toSide":"top","label":"feeds"},
+		{"id":"e15","fromNode":"scanner","fromSide":"top","toNode":"think","toSide":"bottom","label":"surfaces patterns"},
+		{"id":"e16","fromNode":"organic","fromSide":"right","toNode":"autopost","toSide":"top","label":"scheduled"}
+	]
+}

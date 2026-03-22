@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"capture","type":"text","text":"## 1. CAPTURE\nJournal entries, voice dumps, observations","x":-130,"y":-380,"width":260,"height":120,"color":"4"},
+		{"id":"connect","type":"text","text":"## 2. CONNECT\nMatch patterns against reference","x":300,"y":-220,"width":260,"height":120,"color":"5"},
+		{"id":"connect-detail","type":"text","text":"**Tools:** enrichment-scanner.py (6am cron)\n\n**Output:** research/YYYY-MM-DD-enrichment-scan.md","x":620,"y":-220,"width":280,"height":160},
+		{"id":"decide","type":"text","text":"## 3. DECIDE\nResearch, synthesize, choose","x":300,"y":60,"width":260,"height":120,"color":"6"},
+		{"id":"decide-detail","type":"text","text":"**Tools:** /think (research, decide)\n\n**Output:** decisions/YYYY-MM-DD-topic.md","x":620,"y":20,"width":280,"height":160},
+		{"id":"codify","type":"text","text":"## 4. CODIFY\nUpdate reference files","x":-130,"y":240,"width":260,"height":100,"color":"3"},
+		{"id":"create","type":"text","text":"## 5. CREATE\nOutputs from enriched reference","x":-560,"y":60,"width":260,"height":120,"color":"2"},
+		{"id":"observe","type":"text","text":"## 6. OBSERVE\nWatch what lands, what doesn't","x":-560,"y":-180,"width":260,"height":120,"color":"1"},
+		{"id":"title","type":"text","text":"# Enrichment Flywheel\nThe system for continuously improving reference files","x":-240,"y":-600,"width":400,"height":140},
+		{"id":"observe-detail","type":"text","text":"**Signals:** Tweet analytics, ad CPA, email opens, buyer feedback, DM conversations","x":-960,"y":-360,"width":280,"height":100},
+		{"id":"create-detail","type":"text","text":"**Tools:** /ads, /organic, /vsl, /site, /newsletter\n\n**Output:** outputs/ folder","x":-960,"y":220,"width":280,"height":150},
+		{"id":"capture-detail","type":"text","text":"**Tools:** Obsidian daily notes (Cmd+D), macOS dictation (Fn+Fn), voice memos\n\n**Where:** journal/ folder","x":400,"y":-580,"width":280,"height":150},
+		{"id":"codify-detail","type":"text","text":"**Tools:** /think codify\n\n**Targets:** soul.md, offer.md, audience.md, voice.md, content-strategy.md, angles/","x":260,"y":400,"width":280,"height":180},
+		{"id":"center","type":"text","text":"**Reference gets richer with every loop**","x":-130,"y":-60,"width":260,"height":80}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"capture","fromSide":"right","toNode":"connect","toSide":"top"},
+		{"id":"e2","fromNode":"connect","fromSide":"bottom","toNode":"decide","toSide":"top"},
+		{"id":"e3","fromNode":"decide","fromSide":"bottom","toNode":"codify","toSide":"right"},
+		{"id":"e4","fromNode":"codify","fromSide":"left","toNode":"create","toSide":"bottom"},
+		{"id":"e5","fromNode":"create","fromSide":"top","toNode":"observe","toSide":"bottom"},
+		{"id":"e6","fromNode":"observe","fromSide":"top","toNode":"capture","toSide":"left"},
+		{"id":"e7","fromNode":"capture","fromSide":"right","toNode":"capture-detail","toSide":"left"},
+		{"id":"e8","fromNode":"connect","fromSide":"right","toNode":"connect-detail","toSide":"left"},
+		{"id":"e9","fromNode":"decide","fromSide":"right","toNode":"decide-detail","toSide":"left"},
+		{"id":"e10","fromNode":"codify","fromSide":"right","toNode":"codify-detail","toSide":"left"},
+		{"id":"e11","fromNode":"create","fromSide":"left","toNode":"create-detail","toSide":"right"},
+		{"id":"e12","fromNode":"observe","fromSide":"left","toNode":"observe-detail","toSide":"right"}
+	]
+}
