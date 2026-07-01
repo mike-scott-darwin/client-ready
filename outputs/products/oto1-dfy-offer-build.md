@@ -8,7 +8,7 @@
 
 You answer 11 questions. I build everything for you. $197 one-time.
 
-No DIY. No blank pages. No second-guessing. You fill out a short questionnaire (10-15 minutes), and within 48 hours you have a complete offer package in your inbox — reviewed by me personally before delivery.
+This isn't a replacement for the system you just bought — keep it, run it. This is the shortcut plus the pieces it doesn't include: a full ICP, a ready-to-send sales doc, 5 ad hooks, and my own eyes on all of it. You fill out a short questionnaire (10-15 minutes), and within 48 hours you have a complete offer package in your inbox — reviewed by me personally before delivery.
 
 **Plus:** 30-day trial of the Client Ready Community included.
 
@@ -97,7 +97,7 @@ Your deliverables arrive on time. If for any reason they don't:
 ## FAQ
 
 **Q: How is this different from the $47 system?**
-A: The $47 system teaches you to extract your own offer using AI prompts. The DFY build means I do the extraction and building for you. Same destination, different path. DIY vs. done-for-you.
+A: The $47 system is yours to keep — it teaches you to extract and validate your own offer, and you should run it. This is the shortcut *plus* the parts the $47 doesn't include: a full **Ideal Client Profile**, a **ready-to-send Google sales doc** you can send today to get hand-raisers, **5 ad hooks** across awareness levels, and **my personal review** of all of it before it hits your inbox — done in 48 hours. The $47 teaches you to fish; this hands you the catch, cleaned and ready, plus the gear you didn't have yet.
 
 **Q: What if I don't like what you create?**
 A: You get one revision round included. If the direction is off, I'll adjust based on your feedback.

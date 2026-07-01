@@ -10,6 +10,8 @@ linked_research:
   - research/2026-02-17-abo-vs-cbo-campaign-structure.md
   - research/2026-02-17-andromeda-tiktok-mining.md
   - research/2026-02-17-meta-ads-strategies-2026-gemini.md
+  - research/2026-06-02-miles-coaching-call-synthesis.md
+  - research/2026-05-19-miles-coaching-call-synthesis.md
 linked_decisions:
   - decisions/2026-02-01-angle-prioritization.md
   - decisions/2026-02-01-bump-restructure.md
@@ -229,13 +231,17 @@ See: [decisions/2026-02-18-training-portal-ecosystem.md](../../decisions/2026-02
 **Price:** $197 one-time
 **Format:** AI-built deliverables + Michael review + 30-day community trial
 
-**What's Included:**
-- **ICP Document** — demographics, psychographics, awareness levels, buying triggers, disqualifiers
-- **Offer Document** — named mechanism, transformation, stack, price recommendation, objection handling
-- **Google Offer Doc** — ready-to-send sales doc for warm audiences (headline through PS)
-- **5 Ad Hook Variations** — one per awareness level, short-form + long-form for each
+**What's Included (6 deliverables — expanded from 4 on 2026-07-01 to match the live page):**
+- **Dream Client Blueprint (ICP)** — who pays you, what they want, what's stopping them, and the exact language they use
+- **Your Validated Offer** — offer extracted, structured, positioned: what you sell, who for, why it's different, why buy today
+- **One-Page Sales Weapon** — ready-to-send Google sales doc for warm audiences (headline through CTA); DM/email/post it today
+- **Plug-and-Play Sales Page** — full landing page (hero, problem, solution, what's included, FAQ, pricing, CTA); paste into GHL
+- **Buyer-to-Client Email Machine** — 5-email sequence (welcome, story, common mistake, social proof, direct pitch)
+- **5 Scroll-Stopping Ad Hooks** — five tested angles for ads, organic, or DMs, one per pain/desire
 - **30-day free trial** to Client Ready Community ($97/mo after trial)
-- **Promise:** Your offer built for you — delivered in 24-48 hours
+- **Promise:** Your complete offer built for you — delivered in 48 hours
+
+> **Fulfillment note (guardrail):** 6 reviewed deliverables/order in 48h is heavy at volume. Automate generation; Michael's review = spot-check not rewrite; cap weekly slots. If margin/fulfillment gets tight, the fallback is trimming back to the original 4 (ICP, offer doc, sales doc, ad hooks) and moving the sales page + email sequence into the Community/OS. DIY-vs-DFY split protects the $67 Templates bump / $57 One-Page Funnel — keep bump copy framed as "you build it."
 
 **How it works:**
 - Buyer fills out 11-question onboarding form on thank you page
@@ -255,7 +261,7 @@ See: `outputs/dfy-upsell/system-prompt.md` for full API spec and questionnaire
 
 ---
 
-### Tier 2.5: OTO 2 — "What's Working Now" Newsletter
+### Tier 2.5: OTO 2 — The Monthly Playbook (formerly "What's Working Now" Newsletter; = "OS Lite" in the OS ascension)
 
 **Price:** $37/month (immediate charge, no trial)
 **Format:** Monthly deliverable
@@ -400,6 +406,12 @@ Every day, one email goes to your customer list. Not prospects. Buyers.
 - Daily = top of mind when they're ready to ascend
 - Story-first builds relationship; you're not "that person who only pitches"
 
+**Every email is an offer — reply-based, no phone (Miles, Jun 2026):**
+- Each daily email ends with a single CTA: **"reply back to get your offer document"** (or to start the conversation). Story → tie to the offer → soft reply CTA.
+- Not always urgency. Example: a story about staying calm playing tennis → tie to staying calm spending on ads → "if you want to run ads profitably, reply back."
+- **Benchmark: ~2.4% reply rate** across 30 days of daily emails. Low/zero replies = the email messaging isn't there yet (normal early — keep iterating the message and the offer, not the cadence).
+- This reply-to-this-email path is the no-phone backend mechanism — it opens the conversation that leads to the high-ticket sale without a call.
+
 ### The 10-Day Welcome Sequence
 
 New buyers get a 10-email sequence over 10 days. **This sequence is relationship-first with soft ascension in the iron strike window (Days 5-9).** Parallel recovery sequences handle direct upsell pitches separately.
@@ -506,6 +518,37 @@ See: [reference/domain/funnel/email-rhythm.md](../domain/funnel/email-rhythm.md)
 
 **Scaling via entry points (future):** Existing bumps (DM Scripts, $5K Playbook) can become standalone front-end offers once core funnel is validated (30+ sales, $100+ AOV). See [decisions/2026-02-12-scaling-architecture.md](../../decisions/2026-02-12-scaling-architecture.md).
 
+### Order Bump & OTO Design (Miles, May 2026)
+
+**The core rule:** a bump/OTO must **never feel required** to get results from the front-end purchase. The moment a buyer senses "this won't work unless I also buy the bump," it tanks both front-end conversion AND bump uptake. A bump/OTO may only do one of two things:
+
+1. **Add convenience** — automation, speed, done-for-you, integration. (You *can* do it yourself; this makes it faster.)
+2. **Solve the next problem** that naturally arises once the front end solves the first. ("Problem → solution → next problem → solution.")
+
+**Generate them with AI:** "Here's what I sell; give me order bumps/OTOs that either add convenience or solve the immediate next problem." (Maria Wendt example Miles praised: core = make more per customer → OTO1 tool that picks your bumps for you [convenience] → OTO2 diagnostic that finds where you lose money [next problem] → OTO3 AI product-builder [convenience].)
+
+**Client Ready already maps to next-problem** — $37 DM Scripts (now start conversations) → $67 Templates (don't build from scratch) → $97 Playbook (now close). Structure is right; sharpen the *headlines*.
+
+**Direct-response bump headlines with the guarantee baked in:** every low-ticket has a money-back guarantee anyway — put it in the bump headline. Pattern: "Integrate this and [specific result in N days] — or your money back." Signal: "mine is better than yours."
+
+**Sell the outcome, not the category.** Audits/calculators/tools convert poorly on the front end — the problem-aware market already knows. Sell the tangible result they're *already* looking for ("instantly know X in 5 min/day"), not a solution they aren't searching for ("audit your business"). You know they need it because you're the consultant; they don't.
+
+**Order-bump price is testable both ways:** a $12 bump that won't sell can sell at $24 (price signals value). But if they won't take it at $27, they won't at $47. If you get 20–30 sales and ~1 bump, the offer isn't good enough — replace it, don't just re-price.
+
+**Launch before the product exists (for NEW snacks):** spend day one on the sales page only, go live, and build/deliver within 24h of the first sale (automation: "automation hiccup — delivered within 24h"). Validate demand before building. Bumps only; defer OTOs until after the first sale.
+
+### Sales Page: Short-Form First, Then Add Sections (Miles, May 2026)
+
+Every funnel starts **short-form**. Insight: "the less you say, the more *curiosity* purchases you get — and curiosity buyers take fewer bumps." So **low bump uptake is often a thin-sales-page problem, not a bump problem.**
+
+- Once short-form converts, **add ONE section at a time and A/B each:** who it's for (niches/regions), what's inside, "what this does to your life" (emotional), who you are, proof + guarantee.
+- **Kill a section if no significance after ~200 views.**
+- Adding good context *without* dropping front-end conversion → bumps/OTOs rise naturally (buyers understand what they bought).
+
+**Checkout (step 2) benchmark = 30%.** On the two-step order form, step 2 should convert ~30%. Below 20% → reposition proof on the checkout page and strip friction fields (phone, coupon codes — anything not strictly required). Bumps themselves can drag checkout conversion down.
+
+**Testing cadence by volume:** at low volume you can change several things at once (hunting 50%+ swings). The one-thing-at-a-time discipline only matters once you're at ~500–1,000 sessions/day.
+
 ---
 
 ## Ad Strategy Framework
@@ -522,7 +565,34 @@ These override all tactical advice below. If a tactic conflicts with these princ
 
 ### Launch Strategy: Front-End First
 
-**Phase 1 (Launch):** Short-form sales page + 3 order bumps + OTOs (DFY Offer Build, Newsletter, Community) + thank you page. Full funnel from day one.
+**Phase 1 (Launch):** Short-form sales page + 3 order bumps + thank you page. Full *checkout* from day one. (See "Launch cadence" below — OTOs are added *after* the front end validates, not before.)
+
+### Launch Cadence: 3 Snacks → Double Down (Miles, Jun 2026)
+
+The operating unit is not "the funnel" — it's **3 different low-ticket funnels launched at once.**
+
+1. Launch **3 distinct digital snacks** (different offers/angles), each a short-form page + order bumps.
+2. Spend **$10/day per ad set** (Big Six + worldwide), ~$100–300 total per snack, finishing the full test.
+3. **Pause the losers, double down on whichever produces sales.** Often 2 of 3 will sell — run both winners.
+4. Speed to launch is everything — get the next snack live as fast as humanly possible (let AI write copy + make images).
+
+### Post-Validation Optimization Order (Miles, Jun 2026)
+
+Once a snack has produced sales, optimize in this exact order — **don't skip ahead:**
+
+1. **Order bumps → 33%+.** Fix the bump copy or replace the bump entirely. (Currently target; 25% is "fine, keep them," 33%+ is the goal.)
+2. **Build 1–2 OTOs** — but ONLY now, after the front end is validated. Don't build OTOs for an unproven funnel (wasted effort). *Order bumps ship with the funnel; OTOs are a post-validation step.*
+3. **A/B test the front-end headline.** Screenshot the funnel → AI suggests a B variant → split test.
+4. **Then** scale budget.
+
+**Hard rules:**
+- **Do not relaunch/scale ads before the OTOs are connected** — "you won't break even or go profitable without them."
+- **Do not scale budget until the OTO converts at 5–10%.**
+- A **$113 CPA is acceptable** *if* bumps + OTOs lift AOV enough to absorb it. The whole point of bumps+OTOs is to raise AOV so you can afford a higher CPA than a naked front end could.
+
+**Two-step order form is mandatory.** Never run a funnel without the opt-in step — it enables abandoned-cart sequences and grows the list. 60–70% add to cart and never check out; without the opt-in you can't recover them. (A "show everything like an open sales page" form removes both abilities.)
+
+**Meta budget-consolidation (2026 reality):** Meta will kill the other ads in a set and dump budget into one (based on initial likes/comments/dwell). If that ad's CPA is too high, turn off *that one ad* first (not the whole set) and see if the set recovers — it often dies anyway. Expect to **launch new ad sets ~weekly** at low/mid budget; ads stabilize only at higher spend ($500–700/day with proven winners).
 
 ### Pre-Launch Requirements
 
@@ -541,6 +611,8 @@ Not interchangeable. Each stage has a different job.
 - Launch 3 new ad sets per week
 - Creative mix per ad set: 2-3 B-roll videos with overlay text + 2-3 static images, each with short-form and long-form copy
 - **5 images per copy block minimum:** Same body copy across 5 different image creatives. Let Meta find which visual works for each audience segment. Image types to test: product mockup, lifestyle, text-on-background, bold color interrupt, device screen. (Miles Stutz Feb 2026: runs 54 images on same copy block.)
+- **Budget-dependent copy-to-image ratio (Miles, Jun 2026):** At **$10/day per ad set**, run **5 images each with a *different* copy (1:1)** — Facebook flags duplicate ads if you reuse the same copy across images, and $10 is too little to test image and copy separately. Only at **$30–50/day** do you give Meta more to chew on: 5 images × 2 copies each (1 long-form, 1 short-form). The "same copy across 5 images" block is a higher-spend tactic.
+- **Headline match — ad ↔ sales page (Miles, Jun 2026):** "Ads fail because the ad says buy pizza and the page says buy pasta." Always include 1–3 text-heavy ads that put the *exact* sales-page pre-headline + headline into the ad (screenshot the page if needed). Direct match = higher conversion. Surround those with AI-generated image variants.
 - Run 72 hours untouched before judging
 - **$20 rule for low-ticket:** Winners reveal themselves after ~$20 of spend per concept. Faster signal than higher-ticket offers.
 - This campaign NEVER turns off. It's your permanent testing sandbox.
@@ -553,10 +625,12 @@ Not interchangeable. Each stage has a different job.
 - **Cost Caps for scaling:** At higher spend, use Cost Caps (target CPA bidding) instead of Lowest Cost. Set cap slightly above target CPA — Meta only spends when it finds conversions at that price. Protects profitability on volatile days.
 - Need 10+ sales per creative before graduating to CBO (statistical significance)
 
-**Stage 3: ASC Scaling (Advantage+ Shopping)**
-- Only with matured pixel + proven creatives
-- Can lower CPA by 17-30% but: no audience targeting control (black box), struggles to exclude past purchasers, over-indexes on retargeting at low volume
-- Not interchangeable with CBO — this is the final stage, not an alternative to Stage 2
+**Stage 3: Scale — CBO is the workhorse; ASC is optional/account-dependent**
+- **CBO (Campaign Budget Optimization) is Miles's actual scaling vehicle** (May 2026). He runs both his offers on one CBO campaign and just keeps adding new ad sets + ads into it. This is the default to reach for.
+- **ASC (Advantage+ Shopping) is account-dependent — Miles skips it.** "Advantage sales campaigns just don't work well for me." It works for some accounts (e.g. Hernán) but is not the assumed final stage. Test it only if CBO plateaus; don't treat it as the required endpoint.
+- ASC tradeoffs when you do test it: can lower CPA 17-30% but no targeting control (black box), struggles to exclude past purchasers, over-indexes on retargeting at low volume.
+- **Bid caps at scale:** "Let Meta spend $120 max to win a bid" → makes sales volume and cost-per-sale consistent. Use once you're spending substantially.
+- **Scaling a winning ad:** don't turn off the other ads in its set — scale the set. Copy the winning **Post ID into multiple ad sets** to put more spend behind the one proven ad (keeps accumulating social proof). Ad "refreshes" rarely work; instead have AI study the winning *angle* and build new ads around it.
 
 ### 70/20/10 Budget Split
 
@@ -573,9 +647,11 @@ For $150/day launch: $105 scaling / $30 testing / $15 retargeting. But flip at l
 ### Targeting
 
 - Broad is default (creative IS targeting)
-- Always run one ad set worldwide (broader, cheaper CPMs)
-- Always run one ad set high-income countries only: US, UK, Canada, Germany
-- Compare performance between the two — worldwide often has lower CTR but cheaper CPA
+- **Never US-only.** US has the highest CPC. Mixing countries lets Meta distribute for cheaper acquisition (Miles, Jun 2026).
+- **"Big Six" bundle:** US, UK, Australia, New Zealand, Ireland (+Canada optional). Tier-1 English-speaking. This is the default geo for a new funnel.
+- **Always also run one worldwide ad set** — often the cheapest CPA and biggest scale. Caveats: monitor the comment section (worldwide attracts junk/weird commenters), and for some ad accounts worldwide just doesn't work → tame down to Big Six.
+- Don't restrict with interests/professions/age/gender when launching a new funnel — keep it open, let Andromeda find the buyer. Narrow only *after* the data tells you to (e.g. 90% of junk clicks from one region → exclude it; or follow intuition to test women-only as a deliberate A/B).
+- **~$2 per qualified click** is the benchmark. If you see thousands of clicks at sub-$0.10 each with no sales, that's junk geo traffic — fix targeting, not the sales page.
 - No separate retargeting in acquisition campaigns — the algorithm handles it within broad (allocates 20-30% of spend automatically)
 
 ### Creative Format Rankings (2026)
@@ -606,7 +682,9 @@ For your funnel (AOV $100-120):
 
 > "If you spend $300 without a sale, change the snack. Don't optimize — change the offer."
 
-**$20 rule (low-ticket shortcut):** For a $47 product, winners reveal themselves after ~$20 of spend per concept. If a concept hasn't shown signal by $20, it's probably not going to.
+**Sales cluster on the first or last day (Miles, Jun 2026):** "It either happens on the first day or on the last day." Three sales can land in the final $30 of a $300 test. This is *why* you finish the full test — killing at $270 throws away winners. Don't change anything mid-test until you've spent the full budget (or shown the ads manager on a coaching call).
+
+**$20 rule (low-ticket shortcut):** For a $47 product, winners reveal themselves after ~$20 of spend per concept. If a concept hasn't shown signal by $20, it's probably not going to. (Note: this is a faster screening heuristic; the $300/first-or-last-day rule governs the full validation test.)
 
 **Testing priority when stuck:**
 1. Offer (biggest impact)

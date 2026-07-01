@@ -36,6 +36,8 @@ linked_research:
 
 **8 complete template packs — plug in your offer details and launch in an afternoon.**
 
+**Plug your offer in and have your page, emails, and headlines ready today — or your money back.**
+
 ---
 
 When you're ready to build your funnel, here's what usually happens for most coaches:
