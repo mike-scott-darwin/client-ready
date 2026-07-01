@@ -1055,7 +1055,7 @@ You have the templates. Now build.
 - **The First $5K Client Playbook ($97)** — Close your first high-ticket client with conversation frameworks and the Warm 50 plan
 
 **When you want support:**
-- **DFY Offer Build ($197)** — We build your ICP, offer doc, ready-to-send sales doc, and ad hooks for you in 48 hours
+- **DFY Offer Build ($197)** — We build all six pieces of your offer for you in 48 hours (dream client profile, offer, sales doc, sales page, email sequence, ad hooks)
 - **Client Ready Community ($97/mo)** — Weekly calls, sprint curriculum, DM access to Michael
 
 Questions? Reply to your purchase email or find me in Skool.
