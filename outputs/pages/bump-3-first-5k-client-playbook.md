@@ -34,6 +34,8 @@ linked_decisions:
 
 **The complete system for turning your validated offer into paying clients — without feeling like a salesperson.**
 
+**Close your first $5K client without a sales call — or your money back.**
+
 ---
 
 Once you've built your Client Ready Offer, you'll know who it's for, what it solves, and why you're the right person.

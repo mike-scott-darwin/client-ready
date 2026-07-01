@@ -31,7 +31,7 @@ Michael Scott helps coaches validate their offers before building — scale from
 | Standalone | $97 | Plug & Play Funnel Snapshot (portal + GHL affiliate) |
 | OTO 1 | $197 | DFY Offer Build (AI-built ICP + offer doc + copy + ad hooks + 30-day community trial) |
 | Downsell | $97 | DFY Lite (ICP + offer doc + 30-day community trial) |
-| OTO 2 | $37/mo | "What's Working Now" Newsletter (continuity) |
+| OTO 2 | $37/mo | The Monthly Playbook (continuity; formerly "What's Working Now" Newsletter) |
 | Community | $97/mo | Client Ready Community (30-day trial via DFY, then $97/mo month-to-month) |
 | Backend | $5K+ | Client Ready Accelerator (sold from community) |
 
@@ -122,7 +122,7 @@ Direct. No-BS. Engineering mindset. Short sentences. "Wrong." "Test, validate, b
 | DFY Lite downsell page | ⚠️ Not yet built |
 | DFY API integration | ⚠️ Claude API + GHL webhook pipeline not yet wired |
 | Community pricing | ⚠️ Need to set $97/mo in GHL with 30-day trial logic |
-| Newsletter OTO page | ⚠️ "What's Working Now" $37/mo page not yet built |
+| Newsletter OTO page | ✅ Built — "The Monthly Playbook" $37/mo (live; fixes in oto2-monthly-playbook-ghl-swap-sheet.md) |
 | Content strategy | ✅ Defined in `reference/domain/content-strategy.md` |
 
 ---

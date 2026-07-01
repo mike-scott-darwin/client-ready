@@ -37,6 +37,8 @@ linked_research:
 
 **10 copy-paste DM scripts + a complete conversation system that turns your warm list into paying clients.**
 
+**Start your first sales conversation in the next 5 minutes — or your money back.**
+
 ---
 
 As you work through the Client Ready Offer, here’s something worth knowing: you have a warm list RIGHT NOW.
