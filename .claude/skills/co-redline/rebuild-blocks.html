@@ -1,0 +1,289 @@
+<!--
+  CODIFY REDLINE — FULL-REBUILD SECTION-BLOCK LIBRARY (added 2026-06-28).
+  See decisions/2026-06-28-redline-full-rebuild-extends-in-place.md.
+
+  WHAT THIS IS
+  ------------
+  State 2 of the redline = their WHOLE homepage rebuilt as a live, scrollable page
+  in THEIR brand tokens, THEIR section order, with the copy in every section
+  rewritten from their reviews. This file is the block library that makes that
+  cheap and safe: a fixed set of responsive, brand-token-driven section blocks.
+
+  THE CONTRACT (do NOT break it)
+  ------------------------------
+  - "Fill slots, never regenerate." Pick the blocks that match the target's
+    step-1 section inventory, in their order, and fill only the {{SLOTS}}.
+    Never hand-author bespoke per-site layout/CSS — that blows tokens at batch
+    scale and breaks QA. Layout is deterministic; only the WORDS are generated.
+  - Every block is brand-neutral: it reads its look from CSS custom properties
+    set ONCE on the wrapper (their real palette + font). Do not restyle a block.
+  - Copy comes from reviews. Every claim must trace to the review corpus
+    (briefs/<slug>-reviews.md). No invented services, awards, or numbers.
+  - KEEP THEIR REAL BRANDING + IMAGES. This is the whole point (2026-06-28
+    feedback: a generic-block rebuild with placeholder images and a guessed font
+    "does not look like the original page"). NON-NEGOTIABLE:
+      * Real logo — hot-link their actual logo (fill {{LOGO_SRC}} in BLOCK_NAV).
+      * Real photos — hot-link their real CDN images into the hero, service
+        cards, and differentiator (fill every {{*_IMG}}). Most CMSes lazy-load,
+        so a plain fetch returns placeholders: in step 5b, SCROLL the page, then
+        read the true URL from `img.dataset.src || img.getAttribute('data-lazy-src')
+        || img.currentSrc`. Resolve real URLs before building — do NOT ship boxes.
+      * Real MOVING media — if their hero is a video (very common), KEEP THE
+        MOTION. A static image where they had a moving hero is a downgrade that
+        reads as "not my site." Resolve the real `<video>`/`<source>` src in step
+        5b and use BLOCK_HERO_VIDEO (full-bleed autoplay/loop/muted/playsinline,
+        their real .mp4, navy scrim over it for legibility). Fall back to a real
+        image hero (BLOCK_HERO) only if there's no hero video.
+      * Real font + colors — set the rebuild's heading font to their COMPUTED
+        font (e.g. Glo = Marcellus serif, not a guessed sans) and use their real
+        palette. Never substitute a "nicer" font.
+    A brand-tint fallback panel is allowed ONLY when an image genuinely cannot be
+    resolved after the scroll pass — and then say so in the footer (honesty). A
+    fallback is the rare exception, never the default.
+
+  HOW TO ASSEMBLE STATE 2
+  -----------------------
+  1. Read the section inventory from briefs/<slug>-brand.md.
+  2. Map each section onto the nearest block below (hero / services / proof /
+     differentiator / offer / cta / contact). Skip blocks with no matching
+     section; never invent a section the site doesn't have.
+  3. Concatenate the chosen blocks IN THE SITE'S ORDER into {{REBUILD_BLOCKS}}
+     of redline-template.html. The wrapper sets the brand vars; blocks inherit.
+  4. Fill every {{SLOT}} from reviews + brand brief. Leave no {{SLOT}} unfilled.
+
+  The wrapper (redline-template.html) injects these CSS vars — blocks rely on them:
+    --brand, --brand-deep, --brand-tint, --rb-ink, --rb-muted, --rb-line, --rb-cta
+    --rb-head-font  (THEIR computed heading font; load it via a <link> in the head)
+  and sets the rebuilt section's font-family to THEIR body font. Real assets to
+  resolve in step 5b and pass through: {{LOGO_SRC}}, every {{*_IMG}}, --rb-head-font.
+-->
+
+<!-- ============================================================= -->
+<!-- SCOPED STYLES — paste ONCE inside the .rebuild wrapper's <style> (or it's
+     already in redline-template.html). Everything is namespaced under .rebuild
+     so it can never leak into the Codify cream wrapper around it. -->
+<!-- ============================================================= -->
+<style id="rb-styles">
+  .rebuild{--rb-pad:clamp(40px,6vw,76px);background:#fff;color:var(--rb-ink,#23272e);line-height:1.6}
+  .rebuild *{box-sizing:border-box}
+  .rebuild .rb-wrap{max-width:1080px;margin:0 auto;padding-left:24px;padding-right:24px}
+  .rebuild .rb-section{padding-top:var(--rb-pad);padding-bottom:var(--rb-pad)}
+  /* headings use THEIR computed heading font (set --rb-head-font on the wrapper;
+     load it via <link> in the template head). Fall back to a serif, never a guess. */
+  .rebuild h1,.rebuild h2,.rebuild h3{font-family:var(--rb-head-font,Georgia,serif);line-height:1.14;letter-spacing:.005em;font-weight:400;color:var(--brand,#0b396d)}
+  .rebuild .rb-eyebrow{font-size:12.5px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--brand,#0b396d);margin-bottom:14px}
+  .rebuild .rb-btn{display:inline-block;background:var(--rb-cta,var(--brand,#0b396d));color:#fff;font-weight:700;font-size:15px;letter-spacing:.02em;padding:14px 28px;border-radius:6px;text-decoration:none;border:none;cursor:pointer}
+  .rebuild .rb-btn.ghost{background:transparent;color:var(--brand,#0b396d);border:1.5px solid var(--brand,#0b396d)}
+
+  /* NAV — their real logo */
+  .rebuild .rb-nav{display:flex;align-items:center;justify-content:space-between;padding:16px clamp(20px,5vw,52px);border-bottom:1px solid var(--rb-line,#e6ebf1)}
+  .rebuild .rb-nav img{height:52px;width:auto}
+  .rebuild .rb-nav .links{display:flex;gap:22px;align-items:center;font-size:14px;color:var(--brand,#0b396d);font-weight:500}
+  .rebuild .rb-nav .links a{color:var(--brand,#0b396d);text-decoration:none}
+  .rebuild .rb-nav .links .rb-btn{padding:10px 18px;font-size:13px}
+  @media(max-width:720px){.rebuild .rb-nav .links a:not(.rb-btn){display:none}}
+
+  /* HERO (video variant) — their REAL moving hero, copy over a navy scrim */
+  .rebuild .rb-hero.video{display:flex;align-items:center;min-height:clamp(440px,72vh,640px);background:var(--brand-deep,#0d3a4f)}
+  .rebuild .rb-hero.video video.bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0}
+  .rebuild .rb-hero.video .scrim{position:absolute;inset:0;z-index:1;background:linear-gradient(110deg,rgba(11,57,109,.90) 0%,rgba(11,57,109,.70) 42%,rgba(13,58,79,.34) 100%)}
+  .rebuild .rb-hero.video .rb-wrap{position:relative;z-index:2}
+  .rebuild .rb-hero.video .rb-inner{max-width:600px}
+  .rebuild .rb-hero.video h1{text-shadow:0 2px 30px rgba(0,0,0,.25)}
+
+  /* HERO (image variant) */
+  .rebuild .rb-hero{background:linear-gradient(135deg,var(--brand,#0b396d),var(--brand-deep,#0d3a4f));color:#fff;position:relative;overflow:hidden}
+  .rebuild .rb-hero .rb-wrap{display:grid;grid-template-columns:1.15fr .85fr;gap:48px;align-items:center}
+  .rebuild .rb-hero .rb-eyebrow{color:rgba(255,255,255,.8)}
+  .rebuild .rb-hero h1{font-size:clamp(30px,4.6vw,52px);color:#fff;margin-bottom:18px}
+  .rebuild .rb-hero p{font-size:clamp(16px,1.6vw,19px);color:rgba(255,255,255,.9);max-width:46ch;margin-bottom:26px}
+  .rebuild .rb-hero .rb-actions{display:flex;gap:14px;flex-wrap:wrap}
+  .rebuild .rb-hero .rb-btn.ghost{color:#fff;border-color:rgba(255,255,255,.6)}
+  .rebuild .rb-hero .rb-media{aspect-ratio:4/5;border-radius:14px;background:rgba(255,255,255,.12);background-size:cover;background-position:center;box-shadow:0 30px 60px -30px rgba(0,0,0,.5)}
+  .rebuild .rb-hero .rb-rating{margin-top:18px;font-size:14px;color:rgba(255,255,255,.85)}
+  @media(max-width:760px){.rebuild .rb-hero .rb-wrap{grid-template-columns:1fr;gap:28px}.rebuild .rb-hero .rb-media{aspect-ratio:16/10}}
+
+  /* SERVICES GRID */
+  .rebuild .rb-services{background:var(--brand-tint,#f1f6fc)}
+  .rebuild .rb-head{text-align:center;max-width:62ch;margin:0 auto 40px}
+  .rebuild .rb-head h2{font-size:clamp(26px,3.4vw,38px);margin-bottom:12px}
+  .rebuild .rb-head p{color:var(--rb-muted,#5b636e);font-size:17px}
+  .rebuild .rb-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+  .rebuild .rb-card{background:#fff;border:1px solid var(--rb-line,#e6ebf1);border-radius:12px;overflow:hidden}
+  .rebuild .rb-card .ph{aspect-ratio:3/2;background-size:cover;background-position:center;background-color:var(--brand-tint,#f1f6fc)}
+  .rebuild .rb-card .bd{padding:20px 22px 24px}
+  .rebuild .rb-card h3{font-size:19px;margin-bottom:8px;color:var(--brand-deep,#0d3a4f)}
+  .rebuild .rb-card p{color:var(--rb-muted,#5b636e);font-size:15px}
+  @media(max-width:760px){.rebuild .rb-grid{grid-template-columns:1fr}}
+
+  /* DIFFERENTIATOR (the unclaimed thing reviews keep naming) */
+  .rebuild .rb-diff .rb-wrap{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:center}
+  .rebuild .rb-diff h2{font-size:clamp(24px,3.2vw,34px);margin-bottom:16px}
+  .rebuild .rb-diff .rb-list{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:16px}
+  .rebuild .rb-diff .rb-list li{position:relative;padding-left:34px;font-size:16px;color:var(--rb-ink,#23272e)}
+  .rebuild .rb-diff .rb-list li::before{content:"✓";position:absolute;left:0;top:-1px;width:22px;height:22px;border-radius:50%;background:var(--brand,#0b396d);color:#fff;font-size:13px;font-weight:700;display:grid;place-items:center}
+  .rebuild .rb-diff .rb-list li b{display:block;font-size:16.5px}
+  .rebuild .rb-diff .rb-list li span{color:var(--rb-muted,#5b636e);font-size:14.5px}
+  .rebuild .rb-diff .rb-media{aspect-ratio:1/1;border-radius:14px;background:var(--brand-tint,#f1f6fc);background-size:cover;background-position:center}
+  @media(max-width:760px){.rebuild .rb-diff .rb-wrap{grid-template-columns:1fr;gap:26px}}
+
+  /* PROOF (review wall) */
+  .rebuild .rb-proof{background:var(--brand-deep,#0d3a4f);color:#fff}
+  .rebuild .rb-proof .rb-head h2{color:#fff}
+  .rebuild .rb-proof .rb-head p{color:rgba(255,255,255,.75)}
+  .rebuild .rb-quotes{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+  .rebuild .rb-quote{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.14);border-radius:12px;padding:24px}
+  .rebuild .rb-quote p{font-size:15.5px;line-height:1.55;margin-bottom:12px}
+  .rebuild .rb-quote .rb-by{font-size:13px;color:rgba(255,255,255,.7);font-weight:600}
+  .rebuild .rb-quote .rb-stars{color:#f5c451;font-size:14px;letter-spacing:2px;margin-bottom:10px}
+  @media(max-width:760px){.rebuild .rb-quotes{grid-template-columns:1fr}}
+
+  /* OFFER / MEMBERSHIP */
+  .rebuild .rb-offer .rb-wrap{background:var(--brand-tint,#f1f6fc);border-radius:18px;padding:clamp(28px,4vw,52px);text-align:center}
+  .rebuild .rb-offer h2{font-size:clamp(24px,3.2vw,34px);margin-bottom:12px}
+  .rebuild .rb-offer p{color:var(--rb-muted,#5b636e);font-size:17px;max-width:54ch;margin:0 auto 24px}
+
+  /* CTA + CONTACT */
+  .rebuild .rb-cta{background:linear-gradient(135deg,var(--brand,#0b396d),var(--brand-deep,#0d3a4f));color:#fff;text-align:center}
+  .rebuild .rb-cta h2{font-size:clamp(26px,3.6vw,40px);color:#fff;margin-bottom:14px}
+  .rebuild .rb-cta p{color:rgba(255,255,255,.88);max-width:52ch;margin:0 auto 24px;font-size:17px}
+  .rebuild .rb-cta .rb-contact{margin-top:22px;font-size:15px;color:rgba(255,255,255,.8);line-height:1.9}
+  .rebuild .rb-cta .rb-contact b{color:#fff}
+</style>
+
+<!-- ============================================================= -->
+<!-- BLOCK_NAV — their REAL logo + nav. Always first. -->
+<!-- ============================================================= -->
+<nav class="rb-nav">
+  <img src="{{LOGO_SRC}}" alt="{{COMPANY}}">
+  <div class="links">
+    <a href="#services">{{NAV_1}}</a>
+    <a href="#why">{{NAV_2}}</a>
+    <a href="#offer">{{NAV_3}}</a>
+    <a class="rb-btn" href="#book">{{NAV_CTA}}</a>
+  </div>
+</nav>
+
+<!-- ============================================================= -->
+<!-- BLOCK_HERO_VIDEO — use when their live hero is a video (KEEP THE MOTION).
+     Fill {{HERO_VIDEO}} (their real .mp4 src) + {{HERO_IMG}} as the poster. -->
+<!-- ============================================================= -->
+<section class="rb-section rb-hero video">
+  <video class="bg" autoplay loop muted playsinline poster="{{HERO_IMG}}">
+    <source src="{{HERO_VIDEO}}" type="video/mp4">
+  </video>
+  <div class="scrim"></div>
+  <div class="rb-wrap">
+    <div class="rb-inner">
+      <div class="rb-eyebrow">{{HERO_EYEBROW}}</div>
+      <h1>{{RB_HERO_H1}}</h1>
+      <p>{{RB_HERO_SUB}}</p>
+      <div class="rb-actions">
+        <a class="rb-btn" href="#book">{{RB_HERO_CTA}}</a>
+        <a class="rb-btn ghost" href="#services">{{RB_HERO_CTA2}}</a>
+      </div>
+      <div class="rb-rating">{{RB_RATING_LINE}}</div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================= -->
+<!-- BLOCK_HERO (image variant) — use only when there's NO hero video -->
+<!-- ============================================================= -->
+<section class="rb-section rb-hero">
+  <div class="rb-wrap">
+    <div>
+      <div class="rb-eyebrow">{{HERO_EYEBROW}}</div>
+      <h1>{{RB_HERO_H1}}</h1>
+      <p>{{RB_HERO_SUB}}</p>
+      <div class="rb-actions">
+        <a class="rb-btn" href="#book">{{RB_HERO_CTA}}</a>
+        <a class="rb-btn ghost" href="#services">{{RB_HERO_CTA2}}</a>
+      </div>
+      <div class="rb-rating">{{RB_RATING_LINE}}</div>
+    </div>
+    <div class="rb-media" style="background-image:url('{{HERO_IMG}}')"></div>
+  </div>
+</section>
+
+<!-- ============================================================= -->
+<!-- BLOCK_SERVICES — "Featured services" grid. 3 or 6 cards. -->
+<!-- ============================================================= -->
+<section class="rb-section rb-services" id="services">
+  <div class="rb-wrap">
+    <div class="rb-head">
+      <h2>{{SERVICES_H2}}</h2>
+      <p>{{SERVICES_SUB}}</p>
+    </div>
+    <div class="rb-grid">
+      <div class="rb-card"><div class="ph" style="background-image:url('{{SVC_1_IMG}}')"></div><div class="bd"><h3>{{SVC_1_T}}</h3><p>{{SVC_1_D}}</p></div></div>
+      <div class="rb-card"><div class="ph" style="background-image:url('{{SVC_2_IMG}}')"></div><div class="bd"><h3>{{SVC_2_T}}</h3><p>{{SVC_2_D}}</p></div></div>
+      <div class="rb-card"><div class="ph" style="background-image:url('{{SVC_3_IMG}}')"></div><div class="bd"><h3>{{SVC_3_T}}</h3><p>{{SVC_3_D}}</p></div></div>
+      <div class="rb-card"><div class="ph" style="background-image:url('{{SVC_4_IMG}}')"></div><div class="bd"><h3>{{SVC_4_T}}</h3><p>{{SVC_4_D}}</p></div></div>
+      <div class="rb-card"><div class="ph" style="background-image:url('{{SVC_5_IMG}}')"></div><div class="bd"><h3>{{SVC_5_T}}</h3><p>{{SVC_5_D}}</p></div></div>
+      <div class="rb-card"><div class="ph" style="background-image:url('{{SVC_6_IMG}}')"></div><div class="bd"><h3>{{SVC_6_T}}</h3><p>{{SVC_6_D}}</p></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================= -->
+<!-- BLOCK_DIFFERENTIATOR — "What sets us apart". Lead with the thing reviews
+     name that the site doesn't claim (Glo: no-pressure + named artists). -->
+<!-- ============================================================= -->
+<section class="rb-section rb-diff">
+  <div class="rb-wrap">
+    <div>
+      <div class="rb-eyebrow">{{DIFF_EYEBROW}}</div>
+      <h2>{{DIFF_H2}}</h2>
+      <ul class="rb-list">
+        <li><b>{{DIFF_1_T}}</b><span>{{DIFF_1_D}}</span></li>
+        <li><b>{{DIFF_2_T}}</b><span>{{DIFF_2_D}}</span></li>
+        <li><b>{{DIFF_3_T}}</b><span>{{DIFF_3_D}}</span></li>
+      </ul>
+    </div>
+    <div class="rb-media" style="background-image:url('{{DIFF_IMG}}')"></div>
+  </div>
+</section>
+
+<!-- ============================================================= -->
+<!-- BLOCK_PROOF — review wall. Verbatim quotes, cited. Pull 3 (or 6). -->
+<!-- ============================================================= -->
+<section class="rb-section rb-proof">
+  <div class="rb-wrap">
+    <div class="rb-head">
+      <h2>{{PROOF_H2}}</h2>
+      <p>{{PROOF_SUB}}</p>
+    </div>
+    <div class="rb-quotes">
+      <div class="rb-quote"><div class="rb-stars">★★★★★</div><p>{{QUOTE_1}}</p><div class="rb-by">{{QUOTE_1_BY}}</div></div>
+      <div class="rb-quote"><div class="rb-stars">★★★★★</div><p>{{QUOTE_2}}</p><div class="rb-by">{{QUOTE_2_BY}}</div></div>
+      <div class="rb-quote"><div class="rb-stars">★★★★★</div><p>{{QUOTE_3}}</p><div class="rb-by">{{QUOTE_3_BY}}</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================= -->
+<!-- BLOCK_OFFER — membership / package value (only if reviews name it). -->
+<!-- ============================================================= -->
+<section class="rb-section rb-offer">
+  <div class="rb-wrap">
+    <div class="rb-eyebrow" style="text-align:center">{{OFFER_EYEBROW}}</div>
+    <h2>{{OFFER_H2}}</h2>
+    <p>{{OFFER_SUB}}</p>
+    <a class="rb-btn" href="#book">{{OFFER_CTA}}</a>
+  </div>
+</section>
+
+<!-- ============================================================= -->
+<!-- BLOCK_CTA — closing call + contact line. Always last. -->
+<!-- ============================================================= -->
+<section class="rb-section rb-cta" id="book">
+  <div class="rb-wrap">
+    <h2>{{CTA_H2}}</h2>
+    <p>{{CTA_SUB}}</p>
+    <a class="rb-btn" style="background:#fff;color:var(--brand,#0b396d)" href="tel:{{PHONE_RAW}}">{{CTA_BTN}}</a>
+    <div class="rb-contact">
+      <b>{{PHONE}}</b> &nbsp;·&nbsp; {{ADDRESS}}<br>{{HOURS_OR_RATING}}
+    </div>
+  </div>
+</section>
