@@ -78,7 +78,7 @@ graph TD
     FE --> B3["97 Playbook<br/>Order Bump 3"]
     FE --> DFY["197 DFY Offer Build<br/>OTO 1 + Community Trial"]
     DFY -->|no| DFYL["97 DFY Lite<br/>Downsell + Community Trial"]
-    DFY --> NL["37/mo Newsletter<br/>OTO 2 — Continuity"]
+    DFY --> NL["37/mo Monthly Playbook<br/>OTO 2 — Continuity"]
     DFYL --> NL
     DFY --> COM["97/mo Community<br/>THE ENGINE"]
     DFYL --> COM
@@ -246,7 +246,7 @@ See: [decisions/2026-02-18-training-portal-ecosystem.md](../../decisions/2026-02
 **How it works:**
 - Buyer fills out 11-question onboarding form on thank you page
 - Form triggers Claude API with Client Ready methodology baked in
-- AI generates all 4 deliverables in ~30 seconds
+- AI generates all six deliverables in ~30 seconds
 - Michael reviews every output (~10 min) before delivery
 - Delivered within 24-48 hours
 
@@ -373,7 +373,7 @@ See: `outputs/dfy-upsell/system-prompt.md` for full API spec and questionnaire
 | Standalone (Plug & Play Funnel Snapshot) | $97 | One-time (portal training + GHL affiliate trigger) |
 | OTO 1 (DFY Offer Build) | $197 | One-time + 30-day community trial |
 | Downsell (DFY Lite) | $97 | One-time + 30-day community trial |
-| OTO 2 (Newsletter) | $37/mo | Recurring (immediate charge) |
+| OTO 2 (The Monthly Playbook) | $37/mo | Recurring (immediate charge) |
 | Community | $97/mo | Recurring (month-to-month after trial) |
 | Backend (Accelerator) | $5,000 | Sold from community |
 
@@ -381,7 +381,7 @@ See: `outputs/dfy-upsell/system-prompt.md` for full API spec and questionnaire
 **Checkout AOV target:** $90-110 (front-end + bumps — self-liquidating)
 **Full funnel AOV:** ~$135 (including OTOs)
 **90-day value per buyer:** ~$260 (including recurring + Accelerator attribution)
-**Recurring streams:** Community ($97/mo) + Newsletter ($37/mo) + GHL affiliate (~$39/mo)
+**Recurring streams:** Community ($97/mo) + The Monthly Playbook ($37/mo) + GHL affiliate (~$39/mo)
 **Portal cross-sell potential:** One-Page Funnel ($57) + Funnel Snapshot ($97) + second-chance bumps add to 30-day CLV
 **GHL affiliate potential:** ~$39/mo recurring per Funnel Snapshot buyer who signs up for GHL
 **DFY cost per generation:** ~$0.15-0.30 (Claude API) — near-zero marginal cost
@@ -479,7 +479,7 @@ See: [reference/domain/funnel/email-rhythm.md](../domain/funnel/email-rhythm.md)
 > "If you don't get results using our templates and support, send us an email at any time and we'll refund every penny of your investment — no questions asked."
 
 **DFY Delivery Guarantee (OTO 1 - $197 DFY Offer Build):**
-> "Your ICP, offer document, ready-to-send sales doc, and ad hooks — delivered in 48 hours. If we miss that, you get a free month of community on top of your trial."
+> "Your complete offer — all six pieces, from dream client profile to ad hooks — delivered in 48 hours. If we miss that, you get a free month of community on top of your trial."
 
 **Community Guarantee:**
 > "Month-to-month. Cancel anytime. If the first call doesn't blow your mind, cancel before your trial ends and you pay nothing."
@@ -725,7 +725,7 @@ Naked VSLs (video-only pages) are dying — high bounce rates from cold traffic.
 |-----|-------|---------------------|
 | OTO 1 DFY Offer Build | $197 | 15% |
 | Downsell DFY Lite | $97 | 10% of remaining |
-| OTO 2 Newsletter | $37/mo | 8% |
+| OTO 2 The Monthly Playbook | $37/mo | 8% |
 | Community | $97/mo | Via trial or direct sign-up |
 
 **Traffic Metrics:**

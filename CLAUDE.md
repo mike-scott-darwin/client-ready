@@ -29,14 +29,14 @@ Michael Scott helps coaches validate their offers before building — scale from
 | Bump 3 | $97 | The First $5K Client Playbook |
 | Standalone | $57 | The One-Page Funnel (portal training) |
 | Standalone | $97 | Plug & Play Funnel Snapshot (portal + GHL affiliate) |
-| OTO 1 | $197 | DFY Offer Build (AI-built ICP + offer doc + copy + ad hooks + 30-day community trial) |
+| OTO 1 | $197 | DFY Offer Build (6 deliverables: dream client profile + validated offer + sales doc + sales page + 5-email sequence + 5 ad hooks + 30-day community trial) |
 | Downsell | $97 | DFY Lite (ICP + offer doc + 30-day community trial) |
 | OTO 2 | $37/mo | The Monthly Playbook (continuity; formerly "What's Working Now" Newsletter) |
 | Community | $97/mo | Client Ready Community (30-day trial via DFY, then $97/mo month-to-month) |
 | Backend | $5K+ | Client Ready Accelerator (sold from community) |
 
 **Checkout AOV target:** $90-110 | **Full funnel AOV:** ~$135 | **90-day value per buyer:** ~$260
-**Recurring:** Community ($97/mo) + Newsletter ($37/mo) + GHL affiliate (~$39/mo)
+**Recurring:** Community ($97/mo) + The Monthly Playbook ($37/mo) + GHL affiliate (~$39/mo)
 **Delivery:** All low-ticket products deliver through GHL training portal. DFY via Claude API + Michael review.
 **Community = engine:** Sprint curriculum + weekly calls live in community. Accelerator spots announced there first.
 **Decision:** [decisions/2026-03-07-dfy-upsell-community-first.md](decisions/2026-03-07-dfy-upsell-community-first.md)
