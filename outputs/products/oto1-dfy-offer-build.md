@@ -8,7 +8,7 @@
 
 You answer 11 questions. I build everything for you. $197 one-time.
 
-This isn't a replacement for the system you just bought — keep it, run it. This is the shortcut plus the pieces it doesn't include: a full ICP, a ready-to-send sales doc, 5 ad hooks, and my own eyes on all of it. You fill out a short questionnaire (10-15 minutes), and within 48 hours you have a complete offer package in your inbox — reviewed by me personally before delivery.
+This isn't a replacement for the system you just bought — keep it, run it. This is the shortcut plus the pieces it doesn't include: a full dream client profile, a validated offer, a ready-to-send sales doc, a plug-and-play sales page, a 5-email sales sequence, 5 ad hooks, and my own eyes on all of it. You fill out a short questionnaire (10-15 minutes), and within 48 hours you have a complete offer package in your inbox — reviewed by me personally before delivery.
 
 **Plus:** 30-day trial of the Client Ready Community included.
 
@@ -16,14 +16,16 @@ This isn't a replacement for the system you just bought — keep it, run it. Thi
 
 ## What's Included
 
-### The 4 Deliverables
+### The 6 Deliverables
 
 | # | Deliverable | What You Get |
 |---|-------------|--------------|
-| 1 | **Ideal Client Profile** | Complete ICP — who they are, their struggle, why they're ready, red flags to avoid |
-| 2 | **Offer Document** | Full offer doc — headline, who it's for, the problem, the solution, what's included, transformation, pricing |
-| 3 | **Google Offer Doc** | Ready-to-send sales doc — copy into Google Docs, send to your warm audience, get hand-raisers today |
-| 4 | **5 Ad Hooks** | Meta ad copy across awareness levels — pain agitation, transformation, qualifier, story, contrarian |
+| 1 | **Dream Client Blueprint** | Complete ICP — who pays you, what they want, what's stopping them, and the exact language they use |
+| 2 | **Your Validated Offer** | Offer extracted, structured, positioned — what you sell, who for, why it's different, why buy today |
+| 3 | **One-Page Sales Weapon** | Ready-to-send Google sales doc (headline through CTA) — DM, email, or post it to your warm audience today |
+| 4 | **Plug-and-Play Sales Page** | Full landing page — hero, problem, solution, what's included, FAQ, pricing, CTA — paste straight into GHL |
+| 5 | **Buyer-to-Client Email Machine** | 5-email sequence — welcome, story, common mistake, social proof, direct pitch |
+| 6 | **5 Scroll-Stopping Ad Hooks** | Five tested angles for ads, organic, or DMs — one per pain/desire |
 
 ### The Community Trial
 
@@ -97,7 +99,7 @@ Your deliverables arrive on time. If for any reason they don't:
 ## FAQ
 
 **Q: How is this different from the $47 system?**
-A: The $47 system is yours to keep — it teaches you to extract and validate your own offer, and you should run it. This is the shortcut *plus* the parts the $47 doesn't include: a full **Ideal Client Profile**, a **ready-to-send Google sales doc** you can send today to get hand-raisers, **5 ad hooks** across awareness levels, and **my personal review** of all of it before it hits your inbox — done in 48 hours. The $47 teaches you to fish; this hands you the catch, cleaned and ready, plus the gear you didn't have yet.
+A: The $47 system is yours to keep — it teaches you to extract and validate your own offer, and you should run it. This is the shortcut *plus* the parts the $47 doesn't include: a full **Dream Client Blueprint**, a **validated offer**, a **ready-to-send Google sales doc** you can send today to get hand-raisers, a **plug-and-play sales page**, a **5-email sales sequence**, **5 ad hooks** across awareness levels, and **my personal review** of all of it before it hits your inbox — done in 48 hours. The $47 teaches you to fish; this hands you the catch, cleaned and ready, plus the gear you didn't have yet.
 
 **Q: What if I don't like what you create?**
 A: You get one revision round included. If the direction is off, I'll adjust based on your feedback.
