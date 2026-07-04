@@ -26,3 +26,4 @@ journal/.obsidian/
 
 # DFY buyer runs — generated deliverables contain client intake data, keep local
 outputs/dfy-runs/
+.playwright-mcp/
