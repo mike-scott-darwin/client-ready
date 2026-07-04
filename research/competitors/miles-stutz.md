@@ -14,6 +14,35 @@ archived:
 
 **One-Sentence Summary:** Frame recurring offers as one-time "sprints," use $97+ order bumps (47% pickup proven), run 3-tier "Daily Client Funnel" system ($27→$297→$2K+), and validate with $300 tests before building full funnels.
 
+> ⚠️ **Sections below the Current State block are 2026-01 vintage** (the "$27 Daily Client Funnel / $2K community" era). Prices, funnel structure, and creative mix are stale — kept for the email/hook/strategy patterns, which still hold. For what Miles actually runs today, read the Current State block first.
+
+---
+
+## Current State (Jul 2026) — supersedes stale specifics below
+
+Source: `research/2026-07-04-miles-stutz-ad-library-mining.md` (30 live ads) + Feb 2026 mining (194 ads).
+
+**Page:** now branded **"Miles Stutz - 4-Hour Consultant."**
+
+**Two live $17 funnels** (both global, all four Meta platforms, 100% static long-form image ads — video fully retired):
+
+| Funnel | Price | Domain | Job |
+|--------|-------|--------|-----|
+| **Rapid Ascension System** ("Digital Snacks") | $17 (anchor $147) | rapidascension.freeclientsystem.com/lander | Sell a $17 product → buyers self-ascend to $5K–$15K in ~7 days |
+| **No-Phone Offer Method** | $17 (anchor $97) | phonefreesales.co/the-no-phone-offer-method | Build one written offer that closes high-ticket with no call |
+
+**Dead:** digitalsnacks.co (killed Feb 2026, still gone). The old $27→$297→$2K "Daily Client Funnel" ladder described below is no longer what he advertises.
+
+**Front-end price history:** $7 (digitalsnacks) → killed → **$17** (both funnels now). Validates Client Ready's own Cat Howell finding that cheap front-ends attract non-ascending buyers; Miles compensates with volume + aggressive ascension.
+
+**Creative:** 100% static image, headline-as-image, long-form (600–1,000-word) first-person **confession → false-cause/true-cause reframe** body. `containsAiMedia: false` on every ad. Mixed CTAs now (See details / Learn more / Shop now — testing).
+
+**Angle shift (Feb → Jul):** mechanism-led → **emotion-led reframes**: Absolution ("It's Not You — It's the Offer"), tool-fatigue ("you don't need a 13th course"), income-stability (feast/famine EKG), good-closer confession ("an 80% close rate built me a cage").
+
+**⭐ Direct Client Ready overlap:** the No-Phone Offer Method now sells CR's exact thesis — *"when your offer is clear enough, you don't explain it. The offer explains itself."* CR's response is codified in [decisions/2026-07-04-clarity-sells-angle-territory.md](../../decisions/2026-07-04-clarity-sells-angle-territory.md): claim the territory **upstream** (validate the right offer first).
+
+**Proof stack (his, not verifiable):** Diego Villanueva (chess, $14K/mo), Starr Codd ($18.6K/wk), Ferenc Nemeth, Mike Millner ($200K month), Leif Harbridge, Matt ($15K→$25K), "1,090+ students across 161 niches." Income claims ($750K/yr, $127K/6mo) run without disclaimers — CR's FTC-clean positioning is the durable counter.
+
 ---
 
 ## Profile

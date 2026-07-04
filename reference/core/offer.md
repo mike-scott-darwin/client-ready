@@ -34,6 +34,8 @@ linked_decisions:
 
 "Client Ready" is the bridge from Clear to Converting. You become client ready when your offer is clear enough to sell without explanation.
 
+**The offer that closes itself is the output of validation, not copywriting.** When the offer is the *right* one — extracted and validated with real prospects — it explains itself: someone reads it, decides, and buys, no call required. Competitors sell "make your existing offer close itself"; Client Ready sells "find the offer worth closing, *then* it closes itself." That upstream order (extract → validate → *then* sell-itself clarity) is the wedge. See [angles/offer-closes-itself.md](../proof/angles/offer-closes-itself.md) and [decisions/2026-07-04-clarity-sells-angle-territory.md](../../decisions/2026-07-04-clarity-sells-angle-territory.md).
+
 **From:** Stuck in the search — trying offers that don't fit, grinding on content that doesn't convert, wondering if you're cut out for this
 
 **To:** An aligned offer you won't abandon, a system that runs without constant hustle, a business built around your life
