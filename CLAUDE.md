@@ -24,9 +24,9 @@ Michael Scott helps coaches validate their offers before building — scale from
 | Step | Price | Product |
 |------|-------|---------|
 | Front-end | $27 | Client Ready Offer System |
-| Bump 1 | $37 | Quick Win DM Scripts |
-| Bump 2 | $67 | Plug & Play Templates |
-| Bump 3 | $97 | The First $5K Client Playbook |
+| Bump 1 | $37 | First-Sale DM Scripts + 48-Hour Warm-List Cash Campaign (revamped 2026-07-04) |
+| Bump 2 | $67 | Plug & Play Sales Page Kit + 1-Hour AI Fill-In System (revamped 2026-07-04) |
+| Bump 3 | $97 | The $5K Client Close Scripts + 3 Real Annotated Calls (revamped 2026-07-04) |
 | Standalone | $57 | The One-Page Funnel (portal training) |
 | Standalone | $97 | Plug & Play Funnel Snapshot (portal + GHL affiliate) |
 | OTO 1 | $197 | DFY Offer Build (6 deliverables: dream client profile + validated offer + sales doc + sales page + 5-email sequence + 5 ad hooks + 30-day community trial) |
