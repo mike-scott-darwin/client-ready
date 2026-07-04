@@ -703,10 +703,10 @@ Tag: "unsubscribed" ≠ TRUE
 |-----|------|---------|---------------|
 | Monday | DB01-monday-frontend.html | The coach who couldn't explain what she does | $47 Front-end |
 | Tuesday | DB02-tuesday-templates.html | I stared at the blank page for 3 hours | $67 Templates |
-| Wednesday | DB03-wednesday-dfy.html | The difference between "knowing" and "doing" | $197 DFY Offer Build |
-| Thursday | DB04-thursday-community.html | The loneliest part of building | $97/mo Community |
+| Wednesday | DB03-wednesday-sprint.html | The difference between "knowing" and "doing" | $197 DFY / Sprint |
+| Thursday | DB04-thursday-newsletter.html | What's working right now (and what quietly stopped) | $37/mo Monthly Playbook (reply "PLAYBOOK") |
 | Friday | DB05-friday-backend.html | When you're ready for the next level | $5K Accelerator (reply "ACCELERATOR") |
-| Saturday | DB06-saturday-newsletter.html | What's working right now | $37/mo Newsletter |
+| Saturday | DB06-saturday-community.html | The loneliest part of building | $97/mo Community |
 | Sunday | DB07-sunday-free-value.html | The question that changes everything | No pitch |
 
 3. Schedule each to send at 8:00 AM on its corresponding day
