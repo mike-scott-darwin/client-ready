@@ -22,7 +22,7 @@ The belief that every client needs a custom offer. Coaches spend weeks tailoring
 
 ## Why This Fits Client Ready
 
-The $47 system gives you ONE offer document template. The Plug & Play Templates (Bump 2) are literally named "plug and play." The entire philosophy is: build one clear offer, not ten fuzzy ones. This angle IS the product thesis.
+The $27 system gives you ONE offer document template. The Plug & Play Templates (Bump 2) are literally named "plug and play." The entire philosophy is: build one clear offer, not ten fuzzy ones. This angle IS the product thesis.
 
 ---
 

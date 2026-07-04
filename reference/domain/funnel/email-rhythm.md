@@ -74,7 +74,7 @@ Every email follows the same structure:
 - Match story to offer when natural
 
 **Rotation example:**
-- Monday: $47 front-end
+- Monday: $27 front-end
 - Tuesday: $67 Templates
 - Wednesday: DFY Offer Build ($197)
 - Thursday: Newsletter ($37/mo)
@@ -103,7 +103,7 @@ New buyers get this before joining daily broadcasts. **NO pitches** — recovery
 | 6 | "From stuck to $5K in 30 days" | Transformation story |
 | 7 | "What my morning actually looks like" | Behind the scenes |
 | 8 | "What if I'm not ready?" | FAQ / objection |
-| 9 | "What happens after $47" | The roadmap |
+| 9 | "What happens after $27" | The roadmap |
 | 10 | "Come hang out" | Community invite |
 
 **After Day 10:** They join the daily broadcast list.
@@ -134,7 +134,7 @@ See [2-buyers-welcome-10-day.md](../../../outputs/emails/2-buyers-welcome-10-day
 From Miles Stutz swipe file — sequences that automate the relationship:
 
 ### Install Offer Sequence
-When someone buys the $47 but not the bumps:
+When someone buys the $27 but not the bumps:
 
 - **Email 1 (Day 2):** "One thing I forgot to mention..." — re-pitch Bump 1
 - **Email 2 (Day 4):** Case study of someone who used the templates
@@ -178,7 +178,7 @@ When someone engages heavily (opens 5+ emails in a week):
 
 ```
 Buyer Journey:
-$47 Purchase → 10-Day Welcome → Daily Rhythm → Ascension Offers
+$27 Purchase → 10-Day Welcome → Daily Rhythm → Ascension Offers
 
 Where emails fit:
 ├── Day 0: Purchase confirmation (transactional)

@@ -55,7 +55,7 @@ They've been told: "Post consistently and the clients will come." So they:
 
 - "Before the Funnel" (positioning)
 - "15 Minutes" angle (speed of fix)
-- "$47 to validate" (alternative path)
+- "$27 to validate" (alternative path)
 
 ## Use In
 

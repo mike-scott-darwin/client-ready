@@ -25,7 +25,7 @@ Daily → 1-3 tweets (observations, one-liners, replies)
     ↓
 High-intent signals → DM conversations
     ↓
-$47 → DFY / Community → Accelerator
+$27 → DFY / Community → Accelerator
 ```
 
 ```mermaid
@@ -42,7 +42,7 @@ graph TD
     SUB --> NL
 
     ENG --> DM["DM Conversations<br/>High-Intent Signals"]
-    DM --> FE["47 Front-End"]
+    DM --> FE["27 Front-End"]
     FE --> SP["DFY / Community + Accelerator"]
 
     style NL fill:#4a9eff,color:#fff
@@ -91,7 +91,7 @@ graph TD
 
 | Pillar | What It Covers | Example Topics |
 |--------|----------------|----------------|
-| **Offer Creation** | Validation, pricing, positioning | "How to validate before you build", "The $47 test", "Why your offer isn't selling" |
+| **Offer Creation** | Validation, pricing, positioning | "How to validate before you build", "The $27 test", "Why your offer isn't selling" |
 | **Funnel Strategy** | Value ladders, bumps, OTOs, email | "Why most coaches build backwards", "The bump nobody talks about", "Email > content" |
 | **Alignment** | Building right, offer-life fit, the diagnostic | "You can't grow into pain", "If the overlaps don't make sense, wrong offer", "Build something you won't burn down" |
 | **Behind the Scenes** | Real numbers, real struggles | "114 sales: what I learned", "What actually happened this week", "The mistake I made" |
@@ -119,7 +119,7 @@ graph TD
 - "From 0 to 114 sales in 30 days. Here's the system."
 - "I validated a $5K offer in one afternoon. Here's how."
 - "What changed when I stopped chasing followers."
-- "The $47 offer that funds my entire business."
+- "The $27 offer that funds my entire business."
 
 ### Alignment Hooks
 - "You can't grow into pain. Build something that fits."
@@ -179,7 +179,7 @@ Newsletter signup (bio link, thread CTA)
     ↓
 Daily emails (trust + offers)
     ↓
-$47 front-end
+$27 front-end
     ↓
 Bumps + OTOs (DFY Offer Build, Newsletter, Community)
     ↓
@@ -192,7 +192,7 @@ $5K Accelerator
 
 | Platform | Primary CTA | Secondary CTA |
 |----------|-------------|---------------|
-| LinkedIn | Link to $47 offer / Newsletter signup | "DM me [word] for [thing]" |
+| LinkedIn | Link to $27 offer / Newsletter signup | "DM me [word] for [thing]" |
 | X/Twitter | "Follow for more" / Newsletter link in bio | "DM me if this resonates" |
 | Newsletter | Relevant offer from value ladder | Reply to build relationship |
 
@@ -210,7 +210,7 @@ $5K Accelerator
 1. Acknowledge their comment/situation
 2. Ask one clarifying question
 3. Listen
-4. Offer relevant resource (free or $47)
+4. Offer relevant resource (free or $27)
 
 **Not:** Pitch slapping. Relationship first.
 
@@ -227,7 +227,7 @@ $5K Accelerator
 | X followers | X | — | +300 | +1,500 |
 | Newsletter open rate | Beehiiv | — | 40%+ | 40%+ |
 | Welcome sequence open rate | Beehiiv | — | 70%+ | 80%+ |
-| Organic → $47 sales/week | Funnel tracking | 0 | 2 | 10 |
+| Organic → $27 sales/week | Funnel tracking | 0 | 2 | 10 |
 | Newsletter-to-buyer conversion | Funnel tracking | — | Track | 2.6% target |
 | Newsletter-to-buyer timeline | Funnel tracking | — | Track | 14-21 days |
 

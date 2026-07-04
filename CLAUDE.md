@@ -11,7 +11,7 @@ Get your offer ready. Get clients.
 
 ## What This Business Does
 
-Michael Scott helps coaches validate their offers before building — scale from $47 low-ticket to $5K+ high-ticket clients using an engineering-minded, AI-assisted approach.
+Michael Scott helps coaches validate their offers before building — scale from $27 low-ticket to $5K+ high-ticket clients using an engineering-minded, AI-assisted approach.
 
 **Tagline:** "The Coach Who Won't Tell You to Quit Your 9-to-5"
 
@@ -23,7 +23,7 @@ Michael Scott helps coaches validate their offers before building — scale from
 
 | Step | Price | Product |
 |------|-------|---------|
-| Front-end | $47 | Client Ready Offer System |
+| Front-end | $27 | Client Ready Offer System |
 | Bump 1 | $37 | Quick Win DM Scripts |
 | Bump 2 | $67 | Plug & Play Templates |
 | Bump 3 | $97 | The First $5K Client Playbook |
@@ -35,7 +35,8 @@ Michael Scott helps coaches validate their offers before building — scale from
 | Community | $47/mo | Client Ready Community — **$47/mo beta entry** (30-day trial via DFY, then $47/mo month-to-month; $97/mo is the post-beta target) |
 | Backend | $5K+ | Client Ready Accelerator (sold from community) |
 
-**Checkout AOV target:** $90-110 | **Full funnel AOV:** ~$135 | **90-day value per buyer:** ~$210 (community at $47 beta; ~$260 at the $97 target)
+**Checkout AOV target:** $70-90 | **Full funnel AOV:** ~$115 | **90-day value per buyer:** ~$190 (community at $47 beta; ~$240 at the $97 target)
+> **Front-end is $27** (lowered from $47 on 2026-07-04 — see [decisions/2026-07-04-front-end-27-digital-snack.md](decisions/2026-07-04-front-end-27-digital-snack.md)). At $27 the front-end is a **buyer-acquisition price, not self-liquidating** — the model recovers spend on bumps + OTOs + continuity, not the front-end alone.
 **Recurring:** Community ($47/mo) + The Monthly Playbook ($37/mo) + GHL affiliate (~$39/mo)
 **Delivery:** All low-ticket products deliver through GHL training portal. DFY via Claude API + Michael review.
 **Community = engine:** Sprint curriculum + weekly calls live in community. Accelerator spots announced there first.
@@ -107,7 +108,7 @@ Direct. No-BS. Engineering mindset. Short sentences. "Wrong." "Test, validate, b
 ## Key URLs
 
 - **Skool:** https://www.skool.com/high-ticket-playbook-9467
-- **$47 Offer:** https://clientreadyoffer.com/implement
+- **$27 Offer:** https://clientreadyoffer.com/implement
 
 ---
 

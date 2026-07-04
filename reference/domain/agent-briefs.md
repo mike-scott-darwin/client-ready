@@ -34,7 +34,7 @@ reads:
 - Length: 800-1200 words
 - Structure: Hook → story/insight → practical takeaway → soft CTA
 - Pillar: rotate weekly (Offer Creation → Funnel Strategy → Anti-Guru → Behind the Scenes)
-- CTA: soft push to $47 front-end at clientreadyoffer.com — never hard sell
+- CTA: soft push to $27 front-end at clientreadyoffer.com — never hard sell
 - Sign-off: "Talk soon, Michael"
 - Tone: direct, practical, anti-guru. Like a smart friend explaining what works.
 - No emojis. No hype words. No "incredible" or "revolutionary."

@@ -69,7 +69,7 @@ Every hybrid VSL page has 7 sections. Every section has a job. Skip one and the 
 
 ### 7. CTA + Pricing + Guarantee
 **Job:** Tell them exactly what to do next. Remove friction.
-- Price with anchor (~~$197~~ $47)
+- Price with anchor (~~$197~~ $27)
 - Bullet recap of what's included
 - Guarantee restated next to the price
 - One button. One action. No multiple options.
@@ -168,7 +168,7 @@ If you can't answer all five in 5 seconds, the page isn't ready.
 
 | Page | Format | Notes |
 |------|--------|-------|
-| Front-end ($47) sales page | Should be Hybrid VSL | Currently text-heavy, needs video + visual evidence |
+| Front-end ($27) sales page | Should be Hybrid VSL | Currently text-heavy, needs video + visual evidence |
 | One-Page Funnel ($57) standalone page | Hybrid VSL | New page — build from scratch using this format |
 | Funnel Snapshot ($97) standalone page | Hybrid VSL | New page — build from scratch using this format |
 | OTO pages (DFY Offer Build, DFY Lite downsell) | Standard VSL | Interrupt pages for captive audience — different context |

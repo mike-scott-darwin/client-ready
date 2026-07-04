@@ -65,7 +65,7 @@ _______________________________________________
 - You've already validated your offer (even at a small scale)
 - You want speed + expert guidance, not another course to figure out alone
 - You're ready to invest in getting it right the first time
-- You have [specific prerequisite — e.g., "bought the $47 system" or "have paying clients"]
+- You have [specific prerequisite — e.g., "bought the $27 system" or "have paying clients"]
 
 ### Example:
 
@@ -291,7 +291,7 @@ Payment plan available: 2x $2,600
 
 **This is NOT for you if:**
 
-- You haven't made any sales yet (start with the $47 system or Community)
+- You haven't made any sales yet (start with the $27 system or Community)
 - You want someone to "do it all" with zero input from you (this is done-WITH-you)
 - You're looking for the cheapest option (this is the premium path)
 - You need a sales call to feel confident (if you need convincing, you're not ready)

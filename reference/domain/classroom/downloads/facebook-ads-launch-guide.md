@@ -30,7 +30,7 @@ Most coaches treat OTOs as part of their break-even calculation. This is dangero
 
 | Revenue Source | Role | Target |
 |----------------|------|--------|
-| Front-end ($47) | Covers ~25% of ad spend | CPA around $100 |
+| Front-end ($27) | Covers ~25% of ad spend | CPA around $100 |
 | Bumps ($37 + $67 + $97 = $201) | Covers remaining 75% | 50%+ combined take rate |
 | OTOs ($97-$197) | **Pure profit** | 10-20% conversion |
 | Backend ($5K) | Scale profit | Email ascension |
@@ -381,11 +381,11 @@ Your first 100 customers are waiting. Time to turn on the ads.
 
 | Source | Your Funnel | Role |
 |--------|-------------|------|
-| Front-end | $47 | Covers ~25% of CPA |
+| Front-end | $27 | Covers ~25% of CPA |
 | Bump 1 | $37 | Part of self-liquidating |
 | Bump 2 | $67 | Part of self-liquidating |
 | Bump 3 | $97 | Part of self-liquidating |
-| **Checkout total** | **$248 max** | **Should cover CPA** |
+| **Checkout total** | **$228 max** | **Should cover CPA** |
 | OTOs | $97-$197 | **Pure profit** |
 | Backend | $5,000 | **Scale profit** |
 
