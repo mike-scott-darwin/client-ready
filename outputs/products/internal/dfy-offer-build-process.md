@@ -85,10 +85,10 @@ The 11 questions:
 | Setting | Value |
 |---------|-------|
 | Model | `claude-sonnet-5` (or `claude-opus-4-8` for max quality, ~3x cost) |
-| Max tokens | 16,000 |
-| Temperature | 0.7 |
-| Cost per call | ~$0.10-0.30 |
-| Generation time | 15-30 seconds |
+| Max tokens | 16,000 (stream the request at this size) |
+| Sampling params | none — `temperature`/`top_p`/`top_k` 400 on Sonnet 5 / Opus 4.8 |
+| Cost per call | ~$0.20-0.50 |
+| Generation time | 30-60 seconds |
 
 **System prompt:** See `outputs/dfy-upsell/system-prompt.md`
 

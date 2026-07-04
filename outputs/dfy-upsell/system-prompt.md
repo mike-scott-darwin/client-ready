@@ -411,7 +411,7 @@ Build the six deliverables for this person based on their questionnaire answers.
 {
   "model": "claude-sonnet-5",
   "max_tokens": 16000,
-  "temperature": 0.7,
+  "stream": true,
   "system": "[SYSTEM PROMPT ABOVE]",
   "messages": [
     {
@@ -424,7 +424,9 @@ Build the six deliverables for this person based on their questionnaire answers.
 
 **Notes:**
 - Sonnet 5 is the best balance of quality and cost for this use case. Opus 4.8 (`claude-opus-4-8`) if you want maximum quality and don't mind the extra cost (~3x).
-- Temperature 0.7 gives creative copy while staying grounded in their answers.
+- Do NOT send `temperature` / `top_p` / `top_k` — Sonnet 5 and Opus 4.8 reject non-default sampling params with a 400. Steer tone via the system prompt (already handled) instead.
+- Thinking is off in the reference implementation (`thinking: {"type": "disabled"}`) to keep the per-order cost predictable. Flip to `{"type": "adaptive"}` if you want higher-quality copy at a higher token cost.
+- Stream the request (`stream: true`) — at this `max_tokens` a non-streaming call can hit the SDK's HTTP-timeout guard. The SDK's `get_final_message()` / `finalMessage()` returns the complete response.
 - 16000 tokens covers all six deliverables (the added Sales Page + 5-email sequence roughly double the output). Typical output runs 8,000-12,000 tokens. If you hit the ceiling, raise max_tokens or split the call (deliverables 1-3, then 4-6).
 - Cost per generation: ~$0.20-0.50 on Sonnet, ~$0.60-1.50 on Opus.
 - Typical generation time: 30-60 seconds on Sonnet, 60-120 seconds on Opus.
