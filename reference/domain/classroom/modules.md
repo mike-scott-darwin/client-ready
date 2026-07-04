@@ -27,7 +27,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 | Bump 3 | The First $5K Client Playbook | $97 |
 | OTO 1 | DFY Offer Build | $197 |
 | OTO 2 | DFY Lite (downsell) | $97 |
-| Standalone | Client Ready Community | $97/mo |
+| Standalone | Client Ready Community | $47/mo |
 | Standalone | Newsletter | $37/mo |
 | Backend | Client Ready Accelerator | $5,000 |
 
@@ -97,7 +97,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 **Products that accelerate this phase:**
 - $67 Plug & Play Templates — Landing page swipes, email sequences
 - $197 DFY Offer Build — Michael builds your offer assets for you
-- $97/mo Community — Ongoing implementation support and curriculum
+- $47/mo Community — Ongoing implementation support and curriculum
 
 **Drip:** Available after 72 hours
 
@@ -123,7 +123,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 
 **Products that accelerate this phase:**
 - $97 The First $5K Client Playbook
-- $97/mo Community — Weekly calls, hot seat feedback on campaigns
+- $47/mo Community — Weekly calls, hot seat feedback on campaigns
 - $5,000 Accelerator — Done-with-you funnel + traffic in 8 weeks
 
 **Drip:** Available after 72 hours
@@ -390,7 +390,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
   - Day 3: First case study → pitch missed bump
   - Day 4: Common mistake to avoid → Templates ($67)
   - Day 5: Quick tip + value (no pitch)
-  - Day 6: Client transformation → Community ($97/mo)
+  - Day 6: Client transformation → Community ($47/mo)
   - Day 7: Behind-the-scenes (no pitch)
   - Day 8: FAQ / objection handling → DFY Offer Build ($197)
   - Day 9: "What happens next" roadmap (no pitch)

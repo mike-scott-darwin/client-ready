@@ -479,7 +479,7 @@ The funnel, landing page, and automation come AFTER validation — not before.
 
 **DFY Offer Build ($197)** — You answer 11 questions. We build all six pieces of your offer — dream client profile, validated offer, ready-to-send sales doc, plug-and-play sales page, 5-email sequence, and 5 ad hooks — in 48 hours. Plus a 30-day community trial.
 
-**Client Ready Community ($97/mo)** — Weekly hot seat calls, sprint curriculum, DFY templates, DM access to Michael. The room where coaches build together.
+**Client Ready Community ($47/mo)** — Weekly hot seat calls, sprint curriculum, DFY templates, DM access to Michael. The room where coaches build together.
 
 **"What's Working Now" Newsletter ($37/mo)** — Monthly deep-dive on what's actually converting right now for Client Ready members. Templates, breakdowns, and swipe files.
 

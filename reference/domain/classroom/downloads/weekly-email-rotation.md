@@ -18,7 +18,7 @@ format: Spreadsheet
 |-----|-------|-------|--------------|
 | **Monday** | Front-end ($47) | $47 | Fresh week, entry point |
 | **Tuesday** | Templates | $67 | "Don't start from scratch" |
-| **Wednesday** | Community | $97/mo | Midweek momentum |
+| **Wednesday** | Community | $47/mo | Midweek momentum |
 | **Thursday** | DFY Offer Build | $197 | "Let me build yours" |
 | **Friday** | Accelerator | $5,000 | Big decision energy |
 | **Saturday** | Skool Community | Free | Soft touch, engagement |
@@ -40,7 +40,7 @@ format: Spreadsheet
 
 ### Wednesday
 **Story:** Client who went from stuck to $3K in 30 days
-**Offer:** $97/mo Community
+**Offer:** $47/mo Community
 **CTA:** "Join us inside: [link]"
 
 ### Thursday

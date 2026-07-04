@@ -501,7 +501,7 @@ You have a live landing page. Now you need traffic.
 
 **DFY Offer Build ($197)** — You answer 11 questions. We build your ICP, offer doc, ready-to-send sales doc, and 5 ad hooks in 48 hours. Plus a 30-day community trial.
 
-**Client Ready Community ($97/mo)** — Weekly hot seat calls, sprint curriculum, DFY templates, DM access to Michael. The room where coaches build together.
+**Client Ready Community ($47/mo)** — Weekly hot seat calls, sprint curriculum, DFY templates, DM access to Michael. The room where coaches build together.
 
 Questions? Reply to your purchase email or find me in Skool.
 

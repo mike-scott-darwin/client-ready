@@ -4,7 +4,7 @@ status: active
 date: 2026-03-07
 module: 2.6.3
 format: Google Doc
-updated_from: Community downsell ($47/mo, $1 trial) → Community direct sign-up ($97/mo)
+updated_from: Community downsell ($47/mo, $1 trial) → Community direct sign-up ($47/mo)
 ---
 
 # Community Recovery Sequence
@@ -58,7 +58,7 @@ You run your first ad. Nothing happens. Now what?
 
 **The Client Ready Community exists for this exact moment.**
 
-$97/month. Cancel anytime.
+$47/month. Cancel anytime.
 
 What you get:
 
@@ -127,7 +127,7 @@ No conflict. Morning = value. Afternoon = offer.
 
 - Acknowledge they said "no" to DFY — don't pretend they didn't
 - Position as "the room where people build" — not a consolation prize
-- $97/mo is justified: weekly calls, curriculum, templates, DM access
+- $47/mo is justified: weekly calls, curriculum, templates, DM access
 - Month-to-month framing: "cancel anytime, no contracts"
 - Mention that Sprint content is now in the community
 - No pressure, no fake urgency

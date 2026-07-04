@@ -86,7 +86,7 @@ Michael builds your complete offer document — positioning, messaging, pricing 
 
 Streamlined version of the DFY Offer Build for buyers who decline at $197.
 
-### OTO 2: $97/mo — Client Ready Community
+### OTO 2: $47/mo — Client Ready Community
 
 Skool membership with weekly group hot seats, direct DM access to Michael, full Sprint curriculum, and resource library. Includes the complete 4-week validated-offer curriculum.
 
@@ -114,11 +114,11 @@ Done-with-you intensive. 8 weeks. 3 strategy calls, unlimited async support, com
 | Bump 3 (Playbook) | $97 | One-time |
 | OTO 1 (DFY Offer Build) | $197 | One-time |
 | OTO 1 Downsell (DFY Lite) | $97 | One-time |
-| OTO 2 (Community) | $97/mo | Recurring |
+| OTO 2 (Community) | $47/mo | Recurring |
 | OTO 3 (Newsletter) | $37/mo | Recurring |
 | Backend (Accelerator) | $5,000 | One-time |
 
-**Max cart value:** $542 (one-time) | **Target AOV:** $90-110 | **Recurring:** Community ($97/mo) + Newsletter ($37/mo)
+**Max cart value:** $542 (one-time) | **Target AOV:** $90-110 | **Recurring:** Community ($47/mo) + Newsletter ($37/mo)
 
 ---
 
