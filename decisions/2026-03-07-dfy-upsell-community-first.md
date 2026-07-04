@@ -10,6 +10,8 @@ linked_research:
 
 # Decision: DFY Upsell + Community-First Funnel Restructure
 
+> **Update (2026-07-04):** The $97/mo price set here is now the *post-beta target*. The community is launching at **$47/mo beta entry** to seed the room first. See [2026-07-04-community-47-beta-entry.md](2026-07-04-community-47-beta-entry.md).
+
 ## What Changed
 
 Replaced Sprint ($297 OTO) and Blueprint ($397 OTO) with:

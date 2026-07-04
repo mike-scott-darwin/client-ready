@@ -1056,7 +1056,7 @@ You have the templates. Now build.
 
 **When you want support:**
 - **DFY Offer Build ($197)** — We build your ICP, offer doc, ready-to-send sales doc, and ad hooks for you in 48 hours
-- **Client Ready Community ($97/mo)** — Weekly calls, sprint curriculum, DM access to Michael
+- **Client Ready Community ($47/mo)** — Weekly calls, sprint curriculum, DM access to Michael
 
 Questions? Reply to your purchase email or find me in Skool.
 

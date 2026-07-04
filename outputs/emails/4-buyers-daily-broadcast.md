@@ -61,7 +61,7 @@ Every email follows the same structure:
 | Monday | Front-end | $47 | "Get the System" | https://clientreadyoffer.com/implement |
 | Tuesday | Templates | $67 | "Get the Templates" | https://clientreadyoffer.com/implement |
 | Wednesday | DFY Offer Build | $197 | "Get it built for you" | https://clientreadyoffer.com/croto1-dfy |
-| Thursday | Community | $97/mo | "Join the Community" | https://www.skool.com/high-ticket-playbook-9467/about |
+| Thursday | Community | $47/mo | "Join the Community" | https://www.skool.com/high-ticket-playbook-9467/about |
 | Friday | Accelerator | $5K | "Reply BUILD" | Reply trigger (no link) |
 | Saturday | Newsletter | $37/mo | "Get What's Working Now" | https://clientreadyoffer.com/newsletter |
 | Sunday | Free value | — | "Reply and tell me" | Reply trigger (no link) |
@@ -178,7 +178,7 @@ Michael
 
 ---
 
-### Thursday — Community ($97/mo)
+### Thursday — Community ($47/mo)
 
 **Subject:** The loneliest part of building
 
@@ -203,7 +203,7 @@ What you get:
 - DM access to me
 - See what's working for others in real-time
 
-$97/month. Cancel anytime. No contracts.
+$47/month. Cancel anytime. No contracts.
 
 If building alone is getting old: https://www.skool.com/high-ticket-playbook-9467/about
 
@@ -379,7 +379,7 @@ As buyers ascend, remove them from pitches for products they own:
 |--------|---------------|
 | Templates ($67) | Tuesday emails skip offer section |
 | DFY ($197) | Wednesday emails skip offer section |
-| Community ($97/mo) | Thursday emails skip offer section |
+| Community ($47/mo) | Thursday emails skip offer section |
 | Newsletter ($37/mo) | Saturday emails skip offer section |
 | Accelerator ($5K) | Friday emails become value-only |
 

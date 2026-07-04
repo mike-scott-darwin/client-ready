@@ -248,7 +248,7 @@ and I'll help you implement: [SKOOL LINK]
 - Community trial reminder: "Your 30-day trial is halfway through. Here's what's coming up this week: [WEEKLY CALL TOPIC]"
 
 **25 days after delivery:**
-- Trial ending soon: "Your community trial ends in 5 days. Here's what members are working on this month: [HIGHLIGHTS]. Stay for $97/mo or cancel — no hard feelings."
+- Trial ending soon: "Your community trial ends in 5 days. Here's what members are working on this month: [HIGHLIGHTS]. Stay for $47/mo or cancel — no hard feelings."
 
 **Accelerator seed (if engaged):**
 - If client is active in community + has implemented the DFY build

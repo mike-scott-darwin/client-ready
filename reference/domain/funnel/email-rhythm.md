@@ -23,7 +23,7 @@ linked_research:
 | 1-10 | Welcome | Relationship, quick wins | No |
 | 2,4,6 | Bump Recovery | Re-pitch missed bumps | Yes (PM) |
 | 3,5 | OTO Recovery | Re-pitch DFY Offer Build ($197) / DFY Lite ($97) | Yes (PM) |
-| 8 | Community Recovery | Direct community sign-up ($97/mo) | Yes (PM) |
+| 8 | Community Recovery | Direct community sign-up ($47/mo) | Yes (PM) |
 | 11+ | Daily Broadcast | Story + rotating offers | Yes |
 
 **Timing:** Welcome sends 8:00 AM. Recovery sends 2:00 PM. Max 2 emails/day.
@@ -79,7 +79,7 @@ Every email follows the same structure:
 - Wednesday: DFY Offer Build ($197)
 - Thursday: Newsletter ($37/mo)
 - Friday: Accelerator ($5K) — soft pitch, reply trigger
-- Saturday: Community ($97/mo)
+- Saturday: Community ($47/mo)
 - Sunday: Pure value, no pitch
 
 ### 3. CTA (10%)

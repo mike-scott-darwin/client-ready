@@ -403,7 +403,7 @@ Your first 100 customers are waiting. Time to turn on the ads.
 |-----------|---------------------|-------|
 | Under $60 | 20-30% | Lower price = higher conversion |
 | Over $60 | 10-20% | Your $97-$197 OTOs |
-| Community | 5-10% | $97/mo standalone |
+| Community | 5-10% | $47/mo standalone |
 
 ### Traffic Benchmarks
 

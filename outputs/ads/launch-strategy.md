@@ -243,7 +243,7 @@ Once the offer is validated, build the rest of the funnel before increasing ad s
 | OTO 1: DFY Offer Build ($197) | Build first — highest revenue impact |
 | OTO 1 Downsell: DFY Lite ($97) | Build second |
 | OTO 2: Newsletter ($37/mo) | Build third |
-| Community page ($97/mo) | Build fourth — or place on thank you page |
+| Community page ($47/mo) | Build fourth — or place on thank you page |
 
 ### Add CRO Elements to Sales Page
 

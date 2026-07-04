@@ -5,7 +5,7 @@ date: 2026-02-01
 updated: 2026-03-07
 ---
 
-> **Note (2026-03-07):** Sprint is no longer sold as a standalone product ($297). This curriculum is now delivered through the Client Ready Community ($97/mo). See `decisions/2026-03-07-dfy-upsell-community-first.md`.
+> **Note (2026-03-07):** Sprint is no longer sold as a standalone product ($297). This curriculum is now delivered through the Client Ready Community ($47/mo). See `decisions/2026-03-07-dfy-upsell-community-first.md`.
 
 # Client Ready Sprint — Delivery Framework
 

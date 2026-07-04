@@ -29,7 +29,7 @@ GHL TRAINING PORTAL (cross-sell locked products)
     |
 EMAIL ASCENSION (10-day welcome + daily emails)
     |
-COMMUNITY ($97/mo after trial) <-- THE ENGINE
+COMMUNITY ($47/mo after trial) <-- THE ENGINE
     |
 BACKEND: Accelerator ($5K) -- sold from community
     |
@@ -184,13 +184,13 @@ See: `reference/domain/funnel/email-rhythm.md`
 
 ---
 
-## Stage 8: Community — THE ENGINE ($97/mo)
+## Stage 8: Community — THE ENGINE ($47/mo)
 
 **Goal:** Retain, nurture, and convert to high-ticket
 
 **How they enter:**
 - 30-day free trial bundled with DFY Offer Build ($197) or DFY Lite ($97)
-- Direct sign-up via email pitch or portal ($97/mo, no trial)
+- Direct sign-up via email pitch or portal ($47/mo, no trial)
 - Accelerator graduates stay as alumni
 
 **What members get:**
@@ -205,9 +205,9 @@ See: `reference/domain/funnel/email-rhythm.md`
 - Sprint ($297) weekly calls → now community calls
 - Sprint 4-week curriculum → now community learning path
 - Blueprint community access → now everyone in community
-- OTO 3 ($47/mo downsell) → now $97/mo central engine
+- OTO 3 (was a conditional downsell) → now the $47/mo central engine (beta entry)
 
-**Pricing:** $97/mo, month-to-month, cancel anytime. No annual. No lock-in.
+**Pricing:** $47/mo, month-to-month, cancel anytime. No annual. No lock-in.
 
 **Community → Accelerator pipeline:**
 - Members watch Michael coach live for 30-90 days

@@ -102,7 +102,7 @@ Answer these 5 questions:
 
 **Scenario:** Ascension from existing customers
 
-You sold someone a $47 product. They joined the $97/mo Community. Now they want more help.
+You sold someone a $47 product. They joined the $47/mo Community. Now they want more help.
 
 - Trust: High (they've bought twice)
 - Clarity: High (they know what you do)

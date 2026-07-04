@@ -54,7 +54,7 @@ $47 Front-End
   Thank You Page + Onboarding Form (triggers DFY build)
         │
         ▼
-  Community ($97/mo after 30-day trial) ◄── THE ENGINE
+  Community ($47/mo after 30-day trial) ◄── THE ENGINE
         │
         ├── Weekly hot seat calls
         ├── DFY templates of the month
@@ -75,7 +75,7 @@ $47 Front-End
 |---------|-------------|-------------------|
 | Sprint ($297) | OTO 1 | Content moves INTO community. Weekly calls, 4-week curriculum, accountability — all become community features. Sprint is no longer sold separately. |
 | Blueprint ($397) | OTO 2 | Replaced by DFY Offer Build ($197) which is AI-automated. The custom-by-Michael version becomes what Accelerator clients get. |
-| Community ($47/mo) | OTO 3 (conditional) | No longer a downsell. Now bundled as 30-day trial with OTO 1/Downsell. Price increases to $97/mo to reflect actual value (calls, DFY templates, access). |
+| Community ($47/mo) | OTO 3 (conditional) | No longer a downsell. Now bundled as 30-day trial with OTO 1/Downsell. Beta entry price $47/mo to seed the room; targeting $97/mo post-beta (calls, DFY templates, access). |
 
 ### ADDED to checkout flow
 
@@ -185,7 +185,7 @@ $47 Front-End
               ├──────────────────────────────────────────┘
               │
      ┌────────▼───────────────────────────────────────────┐
-     │            COMMUNITY ($97/mo)                       │
+     │            COMMUNITY ($47/mo)                       │
      │            *** THE ENGINE ***                        │
      │                                                     │
      │  Entry: 30-day free trial (bundled with DFY)        │
@@ -282,7 +282,7 @@ $47 Front-End
 
 | Source | Calc | Monthly |
 |--------|------|---------|
-| Community trial conversion ($97/mo) | 15 DFY buyers get trial, 70% of those convert after 30 days = ~10 members x $97 | $970/mo |
+| Community trial conversion ($47/mo) | 15 DFY buyers get trial, 70% of those convert after 30 days = ~10 members x $47 | $470/mo |
 | Newsletter ($37/mo) | 8 subscribers x $37 | $296/mo |
 | GHL affiliate | ~2 referrals x $39 | $78/mo |
 | **Total** | | **$1,344/mo** |
@@ -311,7 +311,7 @@ This is the metric that actually matters.
 | Revenue Source | 90-Day Value |
 |----------------|-------------|
 | Front-end + bumps + OTOs | $13,501 |
-| Community (10 members x $97 x 2.5 months avg, 70% retention) | $1,698 |
+| Community (10 members x $47 x 2.5 months avg, 70% retention) | $823 |
 | Newsletter (8 x $37 x 3 months, 60% retention) | $533 |
 | GHL affiliate (2 x $39 x 3) | $234 |
 | Accelerator (community-driven, ~2 sales per 100 buyers) | $10,000 |
@@ -355,7 +355,7 @@ Sprint doesn't disappear — it becomes community content.
 | Accountability tracking | Community feature |
 | Homework reviews | Hot seat format on calls |
 
-**The Sprint was $297 for 4 weeks of access. Now it's community content that keeps people paying $97/mo for as long as they're building.** A Sprint buyer paid $297 once. A community member at $97/mo who stays 6 months pays $582. Stays 12 months: $1,164.
+**The Sprint was $297 for 4 weeks of access. Now it's community content that keeps people paying $47/mo for as long as they're building.** A Sprint buyer paid $297 once. A community member at $47/mo who stays 6 months pays $282. Stays 12 months: $564.
 
 ---
 
@@ -388,7 +388,7 @@ Sprint doesn't disappear — it becomes community content.
 - Replace Sprint OTO with DFY OTO in checkout flow
 - Replace Blueprint OTO with Newsletter continuity OTO
 - Move Sprint curriculum into community
-- Set community price to $97/mo
+- Set community price to $47/mo
 
 **Phase 3 (Month 2): Optimize**
 - Track DFY take rate vs. old Sprint take rate
@@ -409,7 +409,7 @@ Sprint doesn't disappear — it becomes community content.
 This restructure has one key tension with Client Ready's current philosophy:
 
 **Current:** "No sales calls. No subscriptions. Sprint is one-time $297. Done."
-**Proposed:** Community is a subscription ($97/mo). That's recurring.
+**Proposed:** Community is a subscription ($47/mo). That's recurring.
 
 The reframe: The community isn't a subscription you're locked into. It's month-to-month — cancel anytime. No annual commitment. You stay because the calls and templates are worth it. You leave when you've outgrown it (or graduated to Accelerator).
 

@@ -238,7 +238,7 @@ See: [decisions/2026-02-18-training-portal-ecosystem.md](../../decisions/2026-02
 - **Plug-and-Play Sales Page** — full landing page (hero, problem, solution, what's included, FAQ, pricing, CTA); paste into GHL
 - **Buyer-to-Client Email Machine** — 5-email sequence (welcome, story, common mistake, social proof, direct pitch)
 - **5 Scroll-Stopping Ad Hooks** — five tested angles for ads, organic, or DMs, one per pain/desire
-- **30-day free trial** to Client Ready Community ($97/mo after trial)
+- **30-day free trial** to Client Ready Community ($47/mo after trial)
 - **Promise:** Your complete offer built for you — delivered in 48 hours
 
 > **Fulfillment note (guardrail):** 6 reviewed deliverables/order in 48h is heavy at volume. Automate generation; Michael's review = spot-check not rewrite; cap weekly slots. If margin/fulfillment gets tight, the fallback is trimming back to the original 4 (ICP, offer doc, sales doc, ad hooks) and moving the sales page + email sequence into the Community/OS. DIY-vs-DFY split protects the $67 Templates bump / $57 One-Page Funnel — keep bump copy framed as "you build it."
@@ -279,15 +279,15 @@ See: `outputs/dfy-upsell/system-prompt.md` for full API spec and questionnaire
 
 ---
 
-### Tier 3: $97/month — Client Ready Community (THE ENGINE)
+### Tier 3: $47/month — Client Ready Community (THE ENGINE)
 
-**Price:** $97/month, month-to-month, cancel anytime
+**Price:** $47/month, month-to-month, cancel anytime
 **Format:** Membership community (Skool)
 **Position:** Central engine — everything pushes INTO community, high-ticket sells FROM community
 
 **How Members Enter:**
 - 30-day free trial bundled with DFY Offer Build ($197) or DFY Lite ($97)
-- Direct sign-up via email pitch or portal ($97/mo, no trial)
+- Direct sign-up via email pitch or portal ($47/mo, no trial)
 - Accelerator graduates stay as alumni
 
 **What's Included:**
@@ -374,14 +374,14 @@ See: `outputs/dfy-upsell/system-prompt.md` for full API spec and questionnaire
 | OTO 1 (DFY Offer Build) | $197 | One-time + 30-day community trial |
 | Downsell (DFY Lite) | $97 | One-time + 30-day community trial |
 | OTO 2 (The Monthly Playbook) | $37/mo | Recurring (immediate charge) |
-| Community | $97/mo | Recurring (month-to-month after trial) |
+| Community | $47/mo | Recurring (month-to-month after trial) |
 | Backend (Accelerator) | $5,000 | Sold from community |
 
 **Max One-Time Cart Value:** $545 ($47 + $37 + $67 + $97 + $197 + first $37 newsletter)
 **Checkout AOV target:** $90-110 (front-end + bumps — self-liquidating)
 **Full funnel AOV:** ~$135 (including OTOs)
 **90-day value per buyer:** ~$260 (including recurring + Accelerator attribution)
-**Recurring streams:** Community ($97/mo) + The Monthly Playbook ($37/mo) + GHL affiliate (~$39/mo)
+**Recurring streams:** Community ($47/mo) + The Monthly Playbook ($37/mo) + GHL affiliate (~$39/mo)
 **Portal cross-sell potential:** One-Page Funnel ($57) + Funnel Snapshot ($97) + second-chance bumps add to 30-day CLV
 **GHL affiliate potential:** ~$39/mo recurring per Funnel Snapshot buyer who signs up for GHL
 **DFY cost per generation:** ~$0.15-0.30 (Claude API) — near-zero marginal cost
@@ -726,7 +726,7 @@ Naked VSLs (video-only pages) are dying — high bounce rates from cold traffic.
 | OTO 1 DFY Offer Build | $197 | 15% |
 | Downsell DFY Lite | $97 | 10% of remaining |
 | OTO 2 The Monthly Playbook | $37/mo | 8% |
-| Community | $97/mo | Via trial or direct sign-up |
+| Community | $47/mo | Via trial or direct sign-up |
 
 **Traffic Metrics:**
 

@@ -83,7 +83,7 @@ That's it.
 
 Your DFY Lite purchase includes a 30-day free trial of the Client Ready Community — direct access to me, other coaches building their offers, and weekly support.
 
-After 30 days it's $97/mo. Cancel anytime. No commitment.
+After 30 days it's $47/mo. Cancel anytime. No commitment.
 
 ---
 
@@ -141,13 +141,13 @@ No thanks, I'll build my ICP and offer document myself.
 
 2. **ONE option only** — $97 one-time. Yes or no. No comparisons.
 
-3. **$97 is ONE-TIME** — not a subscription. The community trial is separate and clearly stated as $97/mo after 30 days.
+3. **$97 is ONE-TIME** — not a subscription. The community trial is separate and clearly stated as $47/mo after 30 days.
 
 4. **2 deliverables only** — ICP Document + Offer Document. No sales doc, no ad hooks. That distinction matters.
 
 5. **24-48 hour delivery** — this is a firm commitment shown on the page.
 
-6. **Community trial** — 30-day free trial of Client Ready Community ($97/mo after). Ensure GHL triggers the trial on purchase.
+6. **Community trial** — 30-day free trial of Client Ready Community ($47/mo after). Ensure GHL triggers the trial on purchase.
 
 7. **No proof section** — no testimonials until real DFY Lite results are available. Do not invent them.
 
@@ -158,7 +158,7 @@ No thanks, I'll build my ICP and offer document myself.
 | Item | Amount |
 |------|--------|
 | **Charged** | **$97** |
-| Community trial | $0 for 30 days, then $97/mo |
+| Community trial | $0 for 30 days, then $47/mo |
 
 **GHL implementation:** Set downsell OTO price to $97. Trigger 30-day community trial on purchase.
 

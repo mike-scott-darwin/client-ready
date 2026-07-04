@@ -32,7 +32,7 @@ Report a 2-3 line summary of today's state before proceeding with the task.
 | OTO 1 | $197 | DFY Offer Build |
 | Downsell | $97 | DFY Lite |
 | OTO 2 | $37/mo | "What's Working Now" Newsletter |
-| Community | $97/mo | Client Ready Community |
+| Community | $47/mo | Client Ready Community |
 | Backend | $5K+ | Client Ready Accelerator |
 
 AOV target: $90-110 | Full funnel AOV: ~$135

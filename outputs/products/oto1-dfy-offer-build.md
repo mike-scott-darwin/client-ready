@@ -29,7 +29,7 @@ This isn't a replacement for the system you just bought — keep it, run it. Thi
 
 ### The Community Trial
 
-- **30 days free** in the Client Ready Community ($97/mo value)
+- **30 days free** in the Client Ready Community ($47/mo value)
 - Weekly hot seat calls with Michael
 - Sprint curriculum (Extract, Validate, Build, Launch)
 - DFY templates of the month
@@ -108,7 +108,7 @@ A: You get one revision round included. If the direction is off, I'll adjust bas
 A: No. The sales doc is ready to copy into a Google Doc and send to your warm audience. The ad hooks are ready to paste into Meta Ads Manager.
 
 **Q: What about the community trial?**
-A: You get 30 days free in the Client Ready Community. If you love it, it continues at $97/month. If not, cancel before 30 days and you're never charged. No friction.
+A: You get 30 days free in the Client Ready Community. If you love it, it continues at $47/month. If not, cancel before 30 days and you're never charged. No friction.
 
 **Q: Can I see examples?**
 A: I'll share relevant examples during the purchase process. Each build is custom, but I can show you the quality level.

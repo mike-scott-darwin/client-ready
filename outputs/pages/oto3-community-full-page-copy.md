@@ -4,10 +4,10 @@ status: draft
 date: 2026-03-07
 product: Client Ready Community
 format: Full Page Copy (Developer Ready)
-price: $97/month
+price: $47/month
 positioning: Central hub of the business. Standalone sign-up page for email-driven and portal-driven traffic. Community trials are bundled with DFY purchases — this page is for direct sign-ups at full price.
 updated_from: 2026-02-08
-changes: Complete rewrite. Community repositioned from $47/mo downsell OTO to $97/mo standalone core offer. Removed OTO framing, $1 trial, top bar, Sprint/Blueprint references. Added Sprint curriculum, DFY templates, DM access, Accelerator early access. New page structure for standalone use.
+changes: Repriced to $47/mo beta entry price (was $97/mo target). Beta pricing to seed the community before raising toward $97/mo post-beta. Standalone core offer: Sprint curriculum, DFY templates, DM access, Accelerator early access.
 ---
 
 # Client Ready Community — Full Page Copy
@@ -161,13 +161,13 @@ You also get early access to Accelerator spots when they open. Accelerator clien
 
 ---
 
-**$97/month. Cancel anytime.**
+**$47/month. Cancel anytime.**
 
 No contracts. No commitments. No annual lock-in. Stay as long as it's useful. Leave when you want.
 
-# $97/MONTH — CANCEL ANYTIME
+# $47/MONTH — CANCEL ANYTIME
 
-**[JOIN THE COMMUNITY — $97/MONTH]**
+**[JOIN THE COMMUNITY — $47/MONTH]**
 
 ---
 
@@ -209,7 +209,7 @@ You can't grow into pain. If it fits your life, stay. If it doesn't, go. No hard
 
 ## Key Implementation Points
 
-1. **$97/month, no trial on this page** — This is a standalone sign-up at full price. Community trials ($1 or bundled) are offered through DFY product purchases, not on this page.
+1. **$47/month, no trial on this page** — This is a standalone sign-up at full price. Community trials ($1 or bundled) are offered through DFY product purchases, not on this page.
 
 2. **Standalone page — NOT an OTO** — This page is linked from emails, the training portal, and direct traffic. It is not part of the checkout upsell flow. Do not display "Your order is processing" or any OTO-style framing.
 
@@ -227,16 +227,16 @@ You can't grow into pain. If it fits your life, stay. If it doesn't, go. No hard
 
 | Item | Price |
 |------|-------|
-| Client Ready Community | $97/month, cancel anytime |
+| Client Ready Community | $47/month, cancel anytime |
 
 ## Button Actions
 
-- JOIN button — Checkout for $97/month recurring subscription
+- JOIN button — Checkout for $47/month recurring subscription
 - No decline link — this is a standalone page, not an OTO
 
 ## GHL Implementation
 
-- Set up as subscription product: $97/month recurring, no trial
+- Set up as subscription product: $47/month recurring, no trial
 - This page is NOT conditional on other purchases — it is standalone
 - Traffic sources: email sequences, training portal links, direct links
 - Community trials bundled with DFY purchases are handled separately in the DFY checkout flow, not on this page
@@ -253,7 +253,7 @@ When you have community member results, replace the placeholder section with rea
 
 ## A/B Test Considerations
 
-- Test $97/month vs $79/month
+- $47/month is the beta entry price — plan to raise toward $97/month once the room is seeded
 - Test with/without video in hero section
 - Test hero headline variations
 - Test page length (current version vs shorter with fewer component descriptions)

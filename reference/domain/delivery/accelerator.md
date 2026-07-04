@@ -462,7 +462,7 @@ At $5,000, that's ~$52-78/hour effective rate. Scale by raising price or reducin
 
 ## Accelerator vs. Community vs. DFY Offer Build
 
-| Dimension | Community ($97/mo) | DFY Offer Build ($197) | DFY Lite ($97) | Accelerator ($5K) |
+| Dimension | Community ($47/mo) | DFY Offer Build ($197) | DFY Lite ($97) | Accelerator ($5K) |
 |-----------|---------------------|------------------------|----------------|-------------------|
 | Duration | Ongoing | ~1 week turnaround | ~1 week turnaround | 8 weeks |
 | Format | Group + curriculum | Done-for-you | Done-for-you (lighter) | Done-with-you |
