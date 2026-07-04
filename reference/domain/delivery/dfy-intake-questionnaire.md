@@ -16,7 +16,7 @@ updated: 2026-03-07
 
 ## The 11 Questions
 
-Each question maps directly to the 4 deliverables (ICP, Offer Doc, Google Offer Doc, Ad Hooks).
+Each question maps directly to the 6 deliverables (ICP, Offer Doc, Google Offer Doc, Sales Page, Email Sequence, Ad Hooks).
 
 ### 1. What do you do?
 **Label:** `what_you_do`
@@ -125,6 +125,11 @@ Include these on the form:
 | 10. Failed solutions | | x | **counterintuitive tease** | x |
 | 11. Objections | | **PRIMARY** | push / not for | x |
 | Optional: Content | voice | voice | voice | voice |
+
+**Two more deliverables draw from the same answers** (map above covers the original four):
+
+- **Sales Page (cold landing):** same inputs as the Google Offer Doc — Q8/Q9 for the problem, Q10 for "why the usual fixes fail," Q4 for the mechanism, Q5/Q6 for the About section, Q11 for the FAQ. More trust-building and proof than the warm doc.
+- **Email Sequence (5 emails):** Q6 (story), Q10 (common mistake), Q3 (social proof), Q11 (objection handling in the pitch email), Q9 (client language throughout).
 
 ---
 
