@@ -754,3 +754,79 @@ These replace the need for any AI-generated animated clips.
 **No talking head needed** — the motion is the scroll-stop, the body copy is the sell
 **Export:** 9:16 MP4, 4-8 seconds, no audio required (add subtle ambient if desired)
 **Upload:** As video ad in Meta, with long-form body copy pasted as the primary text
+
+---
+
+# ABSOLUTION — Creatives (Lead Angle, Jul 2026)
+
+Angle file: [absolution.md](./absolution.md) · Copy status: CLEAR (4-lens review, [review-log-2026-07-04-clarity-angles.md](./review-log-2026-07-04-clarity-angles.md)).
+
+**⚠️ On-image text compliance (non-negotiable):** the Meta review found this angle's risk is second-person accusation ("you're not bad at this"). **On-image text must be first-person confession, third-person, or a generalized maxim — never "you [are/have/can't] [negative state]."** All text below is pre-cleared. Do not add "you"-accusation to any card.
+
+**Priority to shoot (fastest first):** ugly static Notes cards → founder selfie (8s) → product reveal still → before/after.
+
+---
+
+## AB-01: Ugly Static — Notes App (FORMAT #1, ~15 min)
+
+The workhorse. Type into iPhone Notes (dark mode), screenshot as-is, no crop, no brand overlay. Run each as a separate creative on the same copy block. **Pairs with:** P1 Deep (long-form body pasted as primary text).
+
+Pre-cleared card lines (one per card):
+1. "You can't grow into pain. That's not a flaw — it's data."
+2. "The problem was never the person. It was the offer."
+3. "It's not a discipline problem. It's an offer problem."
+4. "For years I thought I was bad at this. Turned out I was carrying the wrong offer."
+5. "I stopped working on my discipline and started working on the offer."
+
+**Why these:** all first-person or maxim — Meta-safe. #1 and #2 are the P1 payoff beats; #3 is the P2 hook; #4/#5 are confession fragments.
+
+## AB-02: Founder Selfie — 8-Second Talk (~5 min, iPhone)
+
+Michael, natural light, no ring light, FaceTime-a-friend energy. Say it plain, then stop. **Pairs with:** P1 Deep body as primary text.
+
+Script (pick one):
+- **A:** "For years I thought I was bad at this. Turns out I was just carrying an offer that was never mine. You can't grow into pain."
+- **B:** "The problem was never you — sorry, never the person. It was the offer. Fixable in an afternoon."
+
+Timing (A): 0–3s "For years I thought I was bad at this." → 3–5s "Turns out I was carrying the wrong offer." → 5–8s "You can't grow into pain."
+Export 9:16, optional captions burned in (first-person text is safe on-screen).
+
+## AB-03: Product Reveal — Still (~10 min)
+
+Proof the relief has a mechanism (resolves the proof gap honestly — product, not income). **Pairs with:** P1 Deep, P2 Pattern Interrupt.
+
+- Screenshot the actual offer document (the deliverable) OR the 5-prompt interface mid-extraction — the "aha" output.
+- Optional small face-cam circle reacting.
+- Text overlay (safe): "The offer, extracted in one afternoon." or none.
+- Shoot on a slight angle, real desk clutter in periphery = "real workspace." Blur anything sensitive.
+
+## AB-04: Before/After — Split (~15 min Canva)
+
+**Pairs with:** P1 Deep, P3 Belief-Shift.
+
+- Left: a rambling four-line "what I do" (grey, faded) — the misaligned offer.
+- Right: the one clear extracted offer (charcoal, bold, teal accent).
+- Divider line; optional "→".
+- No "you." Optional label: "misaligned → aligned."
+
+## AB-05: Polished Text Overlay (house format, optional — ranked #4)
+
+Use only alongside the ugly-static set as a separate concept (Radical Variance). Brand palette from this guide (teal #2A7B88 / amber #D4933A / charcoal #1A1A1A / off-white #F5F2ED), Montserrat.
+
+**Ideogram prompt:**
+```
+Dark charcoal background with subtle texture. Bold off-white text centered reading "You can't grow into pain." with a thin warm amber horizontal line beneath, and smaller muted text below: "That's not a flaw. It's data." Minimalist typography, generous whitespace. Square 1:1. Social ad style. No other text.
+```
+**Canva:** charcoal bg → "You can't grow into pain." (Montserrat Bold, off-white, 72pt) → amber divider → "That's not a flaw. It's data." (Montserrat Medium, amber, 32pt). Bottom 10% clear for body copy.
+
+---
+
+## Absolution Primary → Image Mapping
+
+| Primary | Best Creative | Notes |
+|---------|--------------|-------|
+| P1 Deep Confession | AB-02 selfie, AB-01 Notes, AB-03 product reveal | Warmest — human formats win |
+| P2 Pattern Interrupt ("It's not a discipline problem") | AB-01 Notes (#3), AB-05 text overlay | Punchy, scannable |
+| P3 Belief-Shift (no CTA) | AB-04 before/after, AB-01 Notes (#1) | Top-of-funnel, mechanism-only |
+
+**Testing:** Run AB-01 (ugly static) as its own ABO concept vs AB-02 (selfie) vs AB-05 (polished) — separate ad sets, Radical Creative Variance. Ugly static is the expected front-runner.
