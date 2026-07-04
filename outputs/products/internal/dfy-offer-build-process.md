@@ -6,7 +6,7 @@
 
 ### Overview
 
-Client purchases OTO1 ($197) → answers 11 questions → Claude API generates 6 deliverables → Michael spot-checks → client receives package within 48 hours.
+Client purchases OTO1 ($197) → answers 5 questions + uploads supporting docs → Claude API generates 6 deliverables → Michael spot-checks → client receives package within 48 hours.
 
 **DFY Lite ($97):** Same intake, reduced scope — only Deliverables 1 and 2 (ICP + Offer Doc).
 
@@ -51,22 +51,11 @@ Client purchases OTO1 ($197) → answers 11 questions → Claude API generates 6
 
 The DM is the *cherry on top*, not the only path. Personal outreach lifts completion, but the automated email is what guarantees the intake never stalls on Michael's availability. At low volume the manual DM is worth doing on every order (great for learning real intake); wire it as an automation candidate once volume shows up — it's a "works at 5 buyers, breaks at 50" step.
 
-The 11 questions:
-
-| # | Question | GHL Field |
-|---|----------|-----------|
-| 1 | What do you do? | `what_you_do` |
-| 2 | Who's your best client ever? | `best_client` |
-| 3 | What result do you deliver? | `result` |
-| 4 | What's your process? | `process` |
-| 5 | What makes you different? | `differentiator` |
-| 6 | What's your story? | `story` |
-| 7 | What do you charge now (and want to charge)? | `pricing` |
-| 8 | What's stopping you from getting more clients? | `stuck_point` |
-| 9 | How do your clients describe their problem? | `client_language` |
-| 10 | What have they tried before that didn't work? | `failed_solutions` |
-| 11 | What objections do people have before buying? | `objections` |
-| Opt | Best-performing content links | `content_links` |
+**Intake = 5 questions + a price line + per-section uploads** (merged from the
+original 11). Canonical spec — questions, GHL fields, and upload handling — lives
+in `reference/domain/delivery/dfy-intake-questionnaire.md`. Fields:
+`what_you_do`, `pricing`, `best_client`, `process`, `story`, `objections`,
+`content_links`, plus uploaded `documents`.
 
 **Non-response nudges** (the early DM already went out in Step 1 as reinforcement, not a last resort):
 - **24 hours, no submission:** GHL sends automated reminder email
@@ -98,41 +87,28 @@ Build the six deliverables for this person based on their questionnaire answers.
 
 ## Their Answers
 
-**What they do:**
+**What they do and who for:**
 {{what_you_do}}
-
-**Their best client:**
-{{best_client}}
-
-**The result they deliver:**
-{{result}}
-
-**Their process:**
-{{process}}
-
-**What makes them different:**
-{{differentiator}}
-
-**Their story:**
-{{story}}
 
 **Current and desired pricing:**
 {{pricing}}
 
-**What's stopping them:**
-{{stuck_point}}
+**Their best client — before and after (their words):**
+{{best_client}}
 
-**How their clients describe the problem (in their own words):**
-{{client_language}}
+**How they get that result (their process):**
+{{process}}
 
-**What their clients tried before that didn't work:**
-{{failed_solutions}}
+**Their story and what makes them different:**
+{{story}}
 
-**Objections people have before buying:**
+**What makes people hesitate, and what they've tried that failed:**
 {{objections}}
 
-**Links to best-performing content (optional):**
+**Anything else that sounds like them (links):**
 {{content_links}}
+
+(Uploaded documents, if any, are attached as additional content blocks.)
 ```
 
 **Output:** 6 deliverables, ~8,000-12,000 tokens total
@@ -278,7 +254,7 @@ and I'll help you implement: [SKOOL LINK]
 
 ### Automation Checklist (GHL Setup)
 
-- [ ] GHL form created with 11 questions + 1 optional + field labels
+- [ ] GHL form created with 5 questions + price line + per-section File Upload fields
 - [ ] Purchase trigger → questionnaire email automation (instant)
 - [ ] Purchase trigger → community access granted + auto-welcome (instant, parallel)
 - [ ] Community "Start Here" post pinned with the questionnaire link

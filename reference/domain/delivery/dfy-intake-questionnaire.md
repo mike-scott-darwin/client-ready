@@ -1,142 +1,105 @@
 ---
 type: reference
 status: active
-updated: 2026-03-07
+updated: 2026-07-04
 ---
 
-# DFY Offer Build — Intake Questionnaire
+# DFY Offer Build — Intake (5 questions + uploads)
 
-**Purpose:** Canonical 11-question intake for DFY Offer Build ($197) and DFY Lite ($97) clients.
+**Purpose:** The minimal intake for DFY Offer Build ($197) and DFY Lite ($97). It
+does not map one question per deliverable — it gives the **extractor**
+(`scripts/dfy/dfy_seed_vault.py`, the headless `co-extract`) enough raw material
+to build the four context files that every deliverable is then generated from.
 
-**Form:** GHL form titled "Your Offer Builder — Quick Intake"
-**Submission URL:** https://forms.gle/vtX5Pvc5cSNzcA34A *(needs updating to GHL form)*
-**Time to complete:** 10-15 minutes
+**Design principle:** fewer, richer questions + **document uploads**. The
+extractor synthesises messy input, so 5 broad questions beat 11 narrow ones, and
+a buyer's real sales page / testimonial / call transcript is denser and more
+authentic than a text box. Uploads **multiply** the answers — they don't replace
+them. (This is the Codify `/co-import` pattern.)
 
----
-
-## The 11 Questions
-
-Each question maps directly to the 6 deliverables (ICP, Offer Doc, Google Offer Doc, Sales Page, Email Sequence, Ad Hooks).
-
-### 1. What do you do?
-**Label:** `what_you_do`
-**Type:** Long text
-**Prompt:** "Describe what you help people with — like you're telling a friend at dinner. Don't use jargon. 2-4 sentences."
-**Maps to:** All deliverables — establishes the core offer
-
-### 2. Who's your best client ever?
-**Label:** `best_client`
-**Type:** Long text
-**Prompt:** "Describe one real person you've helped (or want to help). What were they struggling with? What did they do for work? What was their life like before and after? If you haven't had clients yet, describe the person you'd most love to work with."
-**Maps to:** ICP (primary source), Google Offer Doc (who's it for section)
-
-### 3. What result do you deliver?
-**Label:** `result`
-**Type:** Long text
-**Prompt:** "What's different about someone's life or business 90 days after working with you? Be specific. 'They feel better' isn't enough. 'They have 3 paying clients and stopped second-guessing their offer' is."
-**Maps to:** Offer Doc (transformation), Google Offer Doc (headline + proof), Ad Hooks
-
-### 4. What's your process?
-**Label:** `process`
-**Type:** Long text
-**Prompt:** "Walk me through the steps you take someone through. What do you do first, second, third? Even if it's informal — describe how you actually help people, start to finish."
-**Maps to:** Offer Doc (mechanism), Google Offer Doc (tease + mechanism section)
-
-### 5. What makes you different?
-**Label:** `differentiator`
-**Type:** Long text
-**Prompt:** "What do you do that other people in your space don't? This could be your background, your approach, a specific framework, or just how you think about the problem differently."
-**Maps to:** ICP (zone of genius), Ad Hooks (contrarian + curiosity hooks)
-
-### 6. What's your story?
-**Label:** `story`
-**Type:** Long text
-**Prompt:** "Why do you do this? What happened that led you here? The messy version is better than the polished version."
-**Maps to:** Google Offer Doc (backstory section), Ad Hooks (story hook)
-
-### 7. What do you charge now (and want to charge)?
-**Label:** `pricing`
-**Type:** Short text
-**Prompt:** "Current price and desired price. Example: 'Currently $500/session, want to sell a $3K package' or 'Haven't charged yet, thinking $2K-5K.'"
-**Maps to:** Offer Doc (pricing recommendation, price anchoring), Google Offer Doc (price reveal)
-
-### 8. What's stopping you from getting more clients right now?
-**Label:** `stuck_point`
-**Type:** Long text
-**Prompt:** "Be honest. Is it your offer? Your confidence? No funnel? No traffic? Don't know where to find people? This helps us prioritize what to build first."
-**Maps to:** Google Offer Doc (push section), Ad Hooks (pain agitation hook), Offer Doc (objection handling)
-
-### 9. How do your clients describe their problem in their own words?
-**Label:** `client_language`
-**Type:** Long text
-**Prompt:** "Copy-paste a real DM, email, or comment if you have one. If not, write what they typically say when they first reach out. Their exact words are gold for your copy."
-**Maps to:** Google Offer Doc (headline, benefits, future pacing), Ad Hooks (all hooks), ICP (psychographics)
-
-### 10. What have your clients tried before that didn't work?
-**Label:** `failed_solutions`
-**Type:** Long text
-**Prompt:** "Courses, other coaches, DIY, free YouTube content, templates — what did they try and why did it fail? This helps us position your offer against the alternatives."
-**Maps to:** Google Offer Doc (counterintuitive tease), Ad Hooks (problem aware + contrarian), Offer Doc (problem section)
-
-### 11. What objections do people have before buying from you?
-**Label:** `objections`
-**Type:** Long text
-**Prompt:** "Price, time, skepticism, 'I've tried this before,' 'I'm not ready' — what do people say before they decide? Include the ones you hear most, even if they feel awkward."
-**Maps to:** Google Offer Doc (push / not for section), Offer Doc (objection handling), Ad Hooks (solution aware hook)
-
-### Optional: Best-performing content
-**Label:** `content_links`
-**Type:** Long text
-**Prompt:** "Share links to 2-3 posts, emails, or videos that got the best response from your audience. This helps us match your voice and tone in the deliverables."
-**Maps to:** Voice matching across all deliverables
+**Form:** GHL form "Your Offer Builder — Quick Intake" · ~7 minutes.
 
 ---
 
-## Guidelines for Clients
+## The 5 questions (+ a price line + a catch-all)
 
-Include these on the form:
+Each question has an **optional "…or upload something that shows this" dropzone**
+(a GHL File Upload field). Accepts PDF, DOCX, TXT/MD, HTML, and images.
 
-- Takes 10-15 minutes
-- Be specific — first instinct is usually right
-- NO wrong answers — honesty beats perfection
-- Include examples where possible
-- The more detail you give, the better your deliverables
+### 1. What do you do, and who do you do it for?
+**Field:** `what_you_do` (long text)
+**Upload:** current sales page / website / offer doc
+Plus a short line:
+**Field:** `pricing` (short text) — "What do you charge now, and what do you want to charge?"
 
-**For new businesses:**
-- Make educated guesses based on research/intuition
-- Share hypotheses about who you want to serve
-- Describe your vision, even if not fully formed
+### 2. Tell me about your best client — where they were before, where they ended up.
+**Field:** `best_client` (long text) — "Include what they kept *saying* before they bought, in their exact words."
+**Upload:** a testimonial, case study, or a real client DM/email
+
+### 3. Walk me through how you actually get them that result.
+**Field:** `process` (long text)
+**Upload:** your framework / SOP / curriculum / onboarding doc
+
+### 4. Why you — what's your story, and what makes your approach different?
+**Field:** `story` (long text)
+**Upload:** your About page / bio / a founder post
+
+### 5. What makes people hesitate before buying — and what have they tried that didn't work?
+**Field:** `objections` (long text)
+**Upload:** sales-call notes / objection emails
+
+### Catch-all: Anything else that sounds like you
+**Field:** `content_links` (long text) — best posts, emails, a link to a call recording
+**Upload:** drop any file that captures your voice
 
 ---
 
-## Question → Deliverable Map
+## Guidelines for buyers (put on the form)
 
-| Question | ICP | Offer Doc | Google Offer Doc | Ad Hooks |
-|----------|-----|-----------|-----------------|----------|
-| 1. What you do | x | x | x | x |
-| 2. Best client | **PRIMARY** | | who's it for | |
-| 3. Result | | x | headline + proof | x |
-| 4. Process | | **PRIMARY** | tease + mechanism | |
-| 5. Differentiator | x | | | **PRIMARY** |
-| 6. Story | | | **backstory** | x |
-| 7. Pricing | | **PRIMARY** | price reveal | |
-| 8. Stuck point | | x | push section | x |
-| 9. Client language | x | | **benefits + future pacing** | **PRIMARY** |
-| 10. Failed solutions | | x | **counterintuitive tease** | x |
-| 11. Objections | | **PRIMARY** | push / not for | x |
-| Optional: Content | voice | voice | voice | voice |
+- ~7 minutes. Be specific — first instinct is usually right.
+- **Upload where you can** — your real materials make the output sharper than any answer.
+- No wrong answers; honesty beats polish.
+- Make at least Q1–Q3 count (they're the spine). New businesses: describe the
+  person you'd most love to serve and your best hypothesis.
 
-**Two more deliverables draw from the same answers** (map above covers the original four):
+---
 
-- **Sales Page (cold landing):** same inputs as the Google Offer Doc — Q8/Q9 for the problem, Q10 for "why the usual fixes fail," Q4 for the mechanism, Q5/Q6 for the About section, Q11 for the FAQ. More trust-building and proof than the warm doc.
-- **Email Sequence (5 emails):** Q6 (story), Q10 (common mistake), Q3 (social proof), Q11 (objection handling in the pitch email), Q9 (client language throughout).
+## Question → Context-file map
+
+The intake feeds four context files (not deliverables directly). Two of the
+files **are** deliverables 1 and 2.
+
+| Question / field | offer.md | audience.md (**Deliv. 1**) | voice.md | soul.md |
+|---|---|---|---|---|
+| 1. What you do (`what_you_do`) | **x** | x | | |
+| 1b. Price (`pricing`) | **x** | | | |
+| 2. Best client (`best_client`) | transformation | **PRIMARY** | client language | |
+| 3. Process (`process`) | **mechanism** | | | |
+| 4. Story + edge (`story`) | differentiator | | | **PRIMARY** |
+| 5. Hesitation + fails (`objections`) | **objections** | | | |
+| Catch-all + uploads | proof | psychographics | **voice** | |
+
+`offer.md` itself is **Deliverable 2 (Your Validated Offer)**.
+
+---
+
+## Uploads — how they flow through
+
+- GHL **File Upload** fields produce file URLs in the form-submission payload.
+- The webhook payload should carry those URLs. The seeder auto-collects any key
+  ending in `_upload` or `_url` (plus an explicit `documents: [...]` list).
+- The seeder fetches each file and passes it to the extractor as a native block:
+  **PDF** → document block, **images** → image block, **TXT/MD/HTML** → text,
+  **DOCX** → text (needs `python-docx`). Cap: ~25 MB/file.
 
 ---
 
 ## Automation
 
-- Form is sent immediately after DFY purchase (GHL automation)
-- Submission triggers webhook → Claude API → raw output
-- Michael reviews within 48 hours
-- See `outputs/dfy-upsell/system-prompt.md` for API spec and generation prompt
-- See `outputs/products/internal/dfy-offer-build-process.md` for full end-to-end workflow
+- Form is sent immediately after DFY purchase (GHL), in parallel with community
+  access + Michael's DM — never gate intake behind the community. See
+  `outputs/products/internal/dfy-offer-build-process.md` Steps 1–2.
+- Form submission → GHL webhook → **seed per-buyer vault** (answers + uploads) →
+  **generate deliverables 3–6** → Michael reviews → deliver.
+- Pipeline + field keys: `scripts/dfy/README.md`. The extractor's prompt lives in
+  `scripts/dfy/dfy_seed_vault.py`; generation in `dfy_build_campaign.py`.

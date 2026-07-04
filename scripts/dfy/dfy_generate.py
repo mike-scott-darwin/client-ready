@@ -44,20 +44,18 @@ SYSTEM_PROMPT_DOC = REPO_ROOT / "outputs" / "dfy-upsell" / "system-prompt.md"
 DEFAULT_MODEL = os.environ.get("DFY_MODEL", "claude-sonnet-5")
 MAX_TOKENS = 16000
 
-# The 11 intake fields + optional content links, in prompt order.
+# Minimal 5-question intake (merged from the original 11) + a price line + a
+# catch-all links field. Uploaded docs are handled separately in
+# dfy_seed_vault.py. Canonical spec:
+# reference/domain/delivery/dfy-intake-questionnaire.md
 FIELDS = [
-    ("what_you_do", "What they do"),
-    ("best_client", "Their best client"),
-    ("result", "The result they deliver"),
-    ("process", "Their process"),
-    ("differentiator", "What makes them different"),
-    ("story", "Their story"),
-    ("pricing", "Current and desired pricing"),
-    ("stuck_point", "What's stopping them"),
-    ("client_language", "How their clients describe the problem (in their own words)"),
-    ("failed_solutions", "What their clients tried before that didn't work"),
-    ("objections", "Objections people have before buying"),
-    ("content_links", "Links to best-performing content (optional)"),
+    ("what_you_do", "What you do and who for"),
+    ("pricing", "Current price and what you want to charge"),
+    ("best_client", "Your best client — before and after (their words)"),
+    ("process", "How you actually get them that result"),
+    ("story", "Your story and what makes you different"),
+    ("objections", "What makes people hesitate, and what they've tried that failed"),
+    ("content_links", "Anything else that sounds like you (links, optional)"),
 ]
 
 LITE_INSTRUCTION = (

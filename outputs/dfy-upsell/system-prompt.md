@@ -4,6 +4,8 @@
 
 **Integration:** GHL form submission → webhook → Make.com/n8n/cloud function → Claude API → output stored in GHL custom fields or sent as PDF.
 
+> **Legacy / fallback.** This one-shot engine (intake → all six deliverables in a single call) is superseded by the **Codify-native pipeline** in `scripts/dfy/` (seed a per-buyer vault → generate from shared context files), which keeps the six deliverables aligned by construction. The canonical intake is now **5 questions + uploads** — see `reference/domain/delivery/dfy-intake-questionnaire.md`. This prompt is kept as a fallback and as the deliverable-methodology reference; the questionnaire + user-message template below reflect the merged fields.
+
 ---
 
 ## System Prompt
@@ -290,70 +292,11 @@ For each hook:
 
 ## GHL Questionnaire (Front-End Form)
 
-**Form title:** "Your Offer Builder — Quick Intake"
-**Subtitle:** "Answer these 11 questions so we can build your offer, copy, and ad hooks. Takes 10-15 minutes. Be specific — the more detail you give, the better your deliverables."
-
-### Questions
-
-**1. What do you do?**
-Label: `what_you_do`
-Type: Long text
-Prompt: "Describe what you help people with — like you're telling a friend at dinner. Don't use jargon. 2-4 sentences."
-
-**2. Who's your best client ever?**
-Label: `best_client`
-Type: Long text
-Prompt: "Describe one real person you've helped (or want to help). What were they struggling with? What did they do for work? What was their life like before and after? If you haven't had clients yet, describe the person you'd most love to work with."
-
-**3. What result do you deliver?**
-Label: `result`
-Type: Long text
-Prompt: "What's different about someone's life or business 90 days after working with you? Be specific. 'They feel better' isn't enough. 'They have 3 paying clients and stopped second-guessing their offer' is."
-
-**4. What's your process?**
-Label: `process`
-Type: Long text
-Prompt: "Walk me through the steps you take someone through. What do you do first, second, third? Even if it's informal — describe how you actually help people, start to finish."
-
-**5. What makes you different?**
-Label: `differentiator`
-Type: Long text
-Prompt: "What do you do that other people in your space don't? This could be your background, your approach, a specific framework, or just how you think about the problem differently."
-
-**6. What's your story?**
-Label: `story`
-Type: Long text
-Prompt: "Why do you do this? What happened that led you here? The messy version is better than the polished version."
-
-**7. What do you charge now (and want to charge)?**
-Label: `pricing`
-Type: Short text
-Prompt: "Current price and desired price. Example: 'Currently $500/session, want to sell a $3K package' or 'Haven't charged yet, thinking $2K-5K.'"
-
-**8. What's stopping you from getting more clients right now?**
-Label: `stuck_point`
-Type: Long text
-Prompt: "Be honest. Is it your offer? Your confidence? No funnel? No traffic? Don't know where to find people? This helps us prioritize what to build first."
-
-**9. How do your clients describe their problem in their own words?**
-Label: `client_language`
-Type: Long text
-Prompt: "Copy-paste a real DM, email, or comment if you have one. If not, write what they typically say when they first reach out. Their exact words are gold for your copy."
-
-**10. What have your clients tried before that didn't work?**
-Label: `failed_solutions`
-Type: Long text
-Prompt: "Courses, other coaches, DIY, free YouTube content, templates — what did they try and why did it fail? This helps us position your offer against the alternatives."
-
-**11. What objections do people have before buying from you?**
-Label: `objections`
-Type: Long text
-Prompt: "Price, time, skepticism, 'I've tried this before,' 'I'm not ready' — what do people say before they decide? Include the ones you hear most, even if they feel awkward."
-
-**Optional: Best-performing content**
-Label: `content_links`
-Type: Long text
-Prompt: "Share links to 2-3 posts, emails, or videos that got the best response from your audience. This helps us match your voice and tone in the deliverables."
+The canonical intake is **5 questions + a price line + per-section uploads**, with
+exact prompts, GHL field keys, and upload handling in
+`reference/domain/delivery/dfy-intake-questionnaire.md`. Fields: `what_you_do`,
+`pricing`, `best_client`, `process`, `story`, `objections`, `content_links`, plus
+uploaded `documents`. (The legacy 11-question form was merged into these.)
 
 ---
 
@@ -366,41 +309,28 @@ Build the six deliverables for this person based on their questionnaire answers.
 
 ## Their Answers
 
-**What they do:**
+**What they do and who for:**
 {{what_you_do}}
-
-**Their best client:**
-{{best_client}}
-
-**The result they deliver:**
-{{result}}
-
-**Their process:**
-{{process}}
-
-**What makes them different:**
-{{differentiator}}
-
-**Their story:**
-{{story}}
 
 **Current and desired pricing:**
 {{pricing}}
 
-**What's stopping them:**
-{{stuck_point}}
+**Their best client — before and after (their words):**
+{{best_client}}
 
-**How their clients describe the problem (in their own words):**
-{{client_language}}
+**How they get that result (their process):**
+{{process}}
 
-**What their clients tried before that didn't work:**
-{{failed_solutions}}
+**Their story and what makes them different:**
+{{story}}
 
-**Objections people have before buying:**
+**What makes people hesitate, and what they've tried that failed:**
 {{objections}}
 
-**Links to best-performing content (optional):**
+**Anything else that sounds like them (links):**
 {{content_links}}
+
+(Uploaded documents, if any, are attached as additional content blocks.)
 ```
 
 ---
