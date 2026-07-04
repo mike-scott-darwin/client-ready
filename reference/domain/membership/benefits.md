@@ -43,7 +43,7 @@ updated_from: 2026-01-19
 
 - **Get clarity on your offer** — Stop second-guessing what you sell
 - **Build a funnel that works** — No more scattered lead gen
-- **Validate before you build** — Test with $47 before investing months
+- **Validate before you build** — Test with $27 before investing months
 - **Path to $5K+ clients** — Know exactly how to scale
 
 ### Tangible Deliverables

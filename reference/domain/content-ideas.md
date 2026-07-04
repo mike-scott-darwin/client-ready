@@ -28,7 +28,7 @@ Ideas derived from Gemini deep research (Mar 2026), mapped to pillars and valida
 **Idea:** Short post on why surveys and focus groups show negative correlation with market success. The only validation that matters is someone paying you.
 **Data:** Gemini offer validation — "Survey data and focus groups are showing negative correlation with actual market success."
 **Alignment:** Maps to voice: "Test, validate, build." Maps to offer.md: "The only way to know if your offer works is to put it in front of real people."
-**CTA:** Link to $47 offer.
+**CTA:** Link to $27 offer.
 
 ### 3. "50 People Is Enough" (X Thread)
 **Idea:** Thread on why you don't need a big audience to validate. Small, targeted tests (50-100 people) provide equally reliable signals as large launches.
@@ -36,14 +36,14 @@ Ideas derived from Gemini deep research (Mar 2026), mapped to pillars and valida
 **Alignment:** Maps to audience.md pain point #2 (content merry-go-round) and offer.md: "Warm audience first." Directly addresses stuck pattern #4 (confusing silence with stagnation).
 
 ### 4. "Your Free Lead Magnet Is Lying to You" (LinkedIn Text Post)
-**Idea:** Free signups don't predict buyers. SLOs have 15-25% higher validation accuracy than free lead magnets. The $47 test tells you more than 1,000 free downloads.
+**Idea:** Free signups don't predict buyers. SLOs have 15-25% higher validation accuracy than free lead magnets. The $27 test tells you more than 1,000 free downloads.
 **Data:** Gemini offer validation — "Free lead magnets are proving to be poor predictors of actual buyer behavior."
 **Alignment:** Maps to offer.md: "Self-liquidating checkout" philosophy. Maps to voice Pattern 2 ("Wrong" hook): "Build a free lead magnet first, then sell. Wrong."
 
 ### 5. "Minimum Viable Offer, Not Minimum Viable Product" (LinkedIn Carousel)
 **Idea:** 8-slide carousel. The MVP approach is being replaced by "minimum viable offer" — test messaging and positioning BEFORE building anything. You don't need a course, a portal, or a funnel to validate.
 **Data:** Gemini offer validation — "The traditional MVP approach is being replaced by 'minimum viable offer' testing."
-**Alignment:** Maps directly to the $47 front-end (PDF + AI prompts, not a course). Maps to offer.md: "Extract, Validate, Build" — validate comes before build.
+**Alignment:** Maps directly to the $27 front-end (PDF + AI prompts, not a course). Maps to offer.md: "Extract, Validate, Build" — validate comes before build.
 
 ---
 

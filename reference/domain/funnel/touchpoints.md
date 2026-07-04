@@ -11,11 +11,11 @@ linked_decisions:
 
 ## Key Conversion Points
 
-### 1. $47 Offer Sales Page
+### 1. $27 Offer Sales Page
 
 **URL:** https://clientreadyoffer.com/implement
 **Purpose:** Convert cold traffic → paying customer
-**Price:** $47
+**Price:** $27
 **CTA:** Buy Now
 
 **Key elements:**

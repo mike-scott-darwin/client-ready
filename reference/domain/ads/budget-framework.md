@@ -11,10 +11,12 @@ source: Cat Howell Profit Lab data + Miles Stutz research + funnel math
 
 | Scenario | AOV | How |
 |----------|-----|-----|
-| Front-end only | $47 | No bumps taken |
-| 1 bump average | $114 | $47 + avg bump ($67) |
-| Target AOV | $90-110 | Multiple bumps (per Cat Howell benchmarks) |
-| Max cart | $248 | $47 + $37 + $67 + $97 (all 3 bumps) |
+| Front-end only | $27 | No bumps taken |
+| 1 bump average | $94 | $27 + avg bump ($67) |
+| Target AOV | $70-90 | Multiple bumps (per Cat Howell benchmarks) |
+| Max cart | $228 | $27 + $37 + $67 + $97 (all 3 bumps) |
+
+> **Front-end is $27 as of 2026-07-04** (reverted from $47 — see [decisions/2026-07-04-front-end-27-digital-snack.md](../../../decisions/2026-07-04-front-end-27-digital-snack.md)). At $27 the front-end is a **buyer-acquisition price, not self-liquidating** — recover spend on bumps + OTOs + continuity. A lower price should also lift sales-page conversion and pull CPA below the $100 baseline used here; re-derive CPA from live data once the $27 page is running.
 
 **Breakeven:** CPA = AOV. Every dollar of AOV above CPA is front-end profit. OTOs and email backend are pure profit on top.
 
@@ -24,12 +26,12 @@ source: Cat Howell Profit Lab data + Miles Stutz research + funnel math
 
 | Scenario | Bump 1 (37) | Bump 2 (67) | Bump 3 (97) | AOV | vs CPA |
 |----------|-------------|-------------|-------------|-----|--------|
-| Conservative | 25% | 15% | 10% | ~80 | Losing ~20/sale |
-| Moderate | 35% | 25% | 15% | ~91 | Near breakeven |
-| Aggressive | 40% | 30% | 20% | ~101 | Self-liquidating |
-| Cat benchmark | 50%+ combined | — | — | 100-120 | Profitable |
+| Conservative | 25% | 15% | 10% | ~56 | Losing ~44/sale |
+| Moderate | 35% | 25% | 15% | ~71 | Losing ~29/sale |
+| Aggressive | 40% | 30% | 20% | ~81 | Losing ~19/sale |
+| Cat benchmark | 50%+ combined | — | — | ~80-100 | Near/at breakeven |
 
-**Read this as:** At moderate bump rates, you need ~91 AOV to cover a ~100 CPA. At aggressive rates, front-end self-liquidates and every OTO/email sale is pure profit.
+**Read this as:** At a $27 front-end and a $100 CPA, the checkout does **not** self-liquidate at any realistic bump rate — that's expected and by design (see note above). The $27 play wins by (a) lower CPA from a cheaper, higher-converting entry, and (b) backend recovery via OTOs + $47/mo community + $37/mo newsletter. Judge it on **blended 90-day value per buyer (~$240)**, not front-end AOV.
 
 ---
 
@@ -61,9 +63,9 @@ At 2% sales page conversion and $2 CPC:
 
 **Budget $3,000 for first 30 days.** This is validation investment, not expected return.
 
-**Net cash needed:** At $100 CPA and ~$90 AOV, you lose ~$10/sale during validation. Over 30 sales that's ~$300 net loss + ad spend timing gaps. Realistic cash outlay: $3,000 upfront, ~$2,700 returned as revenue over 30 days. Net cost of validation: ~$300-600.
+**Net cash needed:** At a $100 CPA and ~$70 AOV, you lose ~$30/sale on the checkout during validation — but the $27 entry should convert better than the old $47 page, pulling CPA down and offsetting the lower AOV. Budget conservatively: assume ~$30/sale checkout loss over 30 sales (~$900) + timing gaps. Realistic cash outlay: $3,000 upfront, most returned as revenue + backend over 30-90 days. Treat validation cost as buyer-acquisition spend recovered by OTOs/continuity, not a checkout loss to eliminate.
 
-**Why $47 matters:** At the old $27 front-end, realistic AOV was $52-58 — losing $40-60 per sale during validation. That would need $5,000+ cash and return far less. The $47 price point cuts validation cost by 80%.
+**Why $27 (revised 2026-07-04):** Client Ready ran $27 → $47 → and reverted to **$27**. The earlier case for $47 was that it cut checkout losses during validation. The Jan26 paid data undercut that: the front-end **failed to self-liquidate at $47 on cold traffic** (~0.29 ROAS at the checkout), so the higher price bought a higher barrier without the self-liquidation payoff. The $27 revival is a deliberate **digital-snack / cash-flow** move — maximize buyer volume at a low, frictionless entry and recover spend on bumps + OTOs + continuity. Full rationale: [decisions/2026-07-04-front-end-27-digital-snack.md](../../../decisions/2026-07-04-front-end-27-digital-snack.md). **Watch item:** cheaper buyers historically take fewer bumps (Cat Howell data) — if bump attach craters, revisit.
 
 **Rules during validation:**
 - Expect $2,000 of spend before judging — learning phase is real

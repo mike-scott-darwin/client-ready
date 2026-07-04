@@ -44,12 +44,12 @@ Decision rationale: [decisions/2026-02-01-angle-prioritization.md](../../../deci
 - Counters the "it takes months" belief
 - Consistent across all ad batches and sales page
 
-**Use in:** Lead magnet, $47 offer, ads
+**Use in:** Lead magnet, $27 offer, ads
 
 ---
 
-### 3. The "$47 to $5K" Ladder Angle
-**Hook:** "Validate with $47 low ticket offers and scale to $5K+ high ticket clients"
+### 3. The "$27 to $5K" Ladder Angle
+**Hook:** "Validate with $27 low ticket offers and scale to $5K+ high ticket clients"
 
 **Why it works:**
 - Shows the path (not a leap)
@@ -90,7 +90,7 @@ Decision rationale: [decisions/2026-02-01-angle-prioritization.md](../../../deci
 - Reduces perceived effort
 - Curiosity driver
 
-**Use in:** $47 offer, lead magnet, content
+**Use in:** $27 offer, lead magnet, content
 
 **Elevation note (Feb 2026):** AI should be headline-level, not buried in product details. Miles Stutz leads with "AI-powered system" in link descriptions across 113 ads. Test: "5 AI prompts that build your $5K offer in one afternoon." Position AI as the speed mechanism — why it takes one afternoon instead of one month. Keep the human element: "AI does the heavy lifting, you make the decisions." See [decisions/2026-02-22-miles-stutz-mining-response.md](../../../decisions/2026-02-22-miles-stutz-mining-response.md) Decision 2.
 
@@ -108,7 +108,7 @@ Reusable structures that can be applied across multiple angles.
 **Why it works:** Contradicts the reader's assumption, creates curiosity gap, positions your method as the non-obvious answer.
 
 **Client Ready examples:**
-- "I don't sell $5K coaching packages. I sell a $47 system — and the $5K clients come to me."
+- "I don't sell $5K coaching packages. I sell a $27 system — and the $5K clients come to me."
 - "I stopped doing sales calls. My close rate went up."
 - "I don't tell coaches to quit their 9-to-5. That's exactly why they trust me enough to buy."
 - "I stopped posting content daily. My revenue doubled." (Content Merry-Go-Round + Counterintuitive)

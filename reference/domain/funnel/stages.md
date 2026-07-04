@@ -14,7 +14,7 @@ linked_decisions:
 ```
 AWARENESS (Content / Ads)
     |
-MICRO-COMMITMENT ($47 Front-End)
+MICRO-COMMITMENT ($27 Front-End)
     |
 ORDER BUMPS ($37 + $67 + $97)
     |
@@ -52,11 +52,11 @@ RETENTION (Results --> Referrals --> Case Studies)
 
 ---
 
-## Stage 2: Micro-Commitment — $47 Front-End
+## Stage 2: Micro-Commitment — $27 Front-End
 
 **Goal:** They make first purchase
 
-**Product:** Client Ready Offer System ($47)
+**Product:** Client Ready Offer System ($27)
 
 **Trigger:**
 - Paid ads to cold traffic
@@ -65,13 +65,13 @@ RETENTION (Results --> Referrals --> Case Studies)
 - Content about offer creation
 
 **What happens:**
-- Buy $47 Client Ready Offer System
+- Buy $27 Client Ready Offer System
 - See 3 order bump offers
 - Enter OTO sequence
 - Experience the methodology
 
 **Metrics to track:**
-- Conversion rate from ads to $47
+- Conversion rate from ads to $27
 - Front-end purchase volume
 
 ---
@@ -106,7 +106,7 @@ RETENTION (Results --> Referrals --> Case Studies)
 **What happens:**
 - Customer lands on OTO page after checkout
 - Video explains: "We'll build your offer for you"
-- Pitch: same methodology from $47 product, but we run it FOR you using AI + Michael's review
+- Pitch: same methodology from $27 product, but we run it FOR you using AI + Michael's review
 - One-click purchase (card already on file)
 - Buyer redirected to 11-question onboarding form on thank you page
 - Form submission triggers Claude API — deliverables generated in ~30 seconds
@@ -271,7 +271,7 @@ See: `reference/domain/delivery/accelerator.md`
 
 | Metric | Target |
 |--------|--------|
-| Front-end price | $47 |
+| Front-end price | $27 |
 | Bump 1 rate | 25-35% |
 | Bump 2 rate | 25-35% |
 | Bump 3 rate | 20-30% |
