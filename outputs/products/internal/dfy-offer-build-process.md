@@ -6,7 +6,7 @@
 
 ### Overview
 
-Client purchases OTO1 ($197) → answers 11 questions → Claude API generates 4 deliverables → Michael reviews → client receives package within 48 hours.
+Client purchases OTO1 ($197) → answers 11 questions → Claude API generates 6 deliverables → Michael spot-checks → client receives package within 48 hours.
 
 **DFY Lite ($97):** Same intake, reduced scope — only Deliverables 1 and 2 (ICP + Offer Doc).
 
@@ -16,11 +16,14 @@ Client purchases OTO1 ($197) → answers 11 questions → Claude API generates 4
 
 **When:** Client buys DFY Offer Build ($197) or DFY Lite ($97) on OTO page
 
-**GHL automation fires:**
+**GHL automation fires (all instant, in parallel):**
 - Tag applied: `dfy-purchased` or `dfy-lite-purchased`
 - 30-day community trial activated (tag: `community-trial`)
 - Questionnaire email sent immediately (GHL template)
+- Community access granted immediately + auto-welcome pointing to the pinned "Start Here" intake post
 - Internal Slack/email notification to Michael
+
+**Principle: never gate the questionnaire behind the community.** The 48-hour clock starts at purchase. The questionnaire is the raw material for the paid deliverable; the community trial is the ascension bonus. They run in parallel — one never waits on the other. The same questionnaire link lives in three places (email, community pinned post, Michael's DM) so completion doesn't depend on any single channel landing.
 
 **If purchased during OTO flow:**
 - Redirect to next OTO page as normal
@@ -37,6 +40,16 @@ Client purchases OTO1 ($197) → answers 11 questions → Claude API generates 4
 **Form:** GHL form — "Your Offer Builder — Quick Intake"
 **Time for client:** 10-15 minutes
 **Questions:** See `reference/domain/delivery/dfy-intake-questionnaire.md`
+
+**Multi-channel intake — the same link, three ways:**
+
+| Channel | When | Automated? | Role |
+|---------|------|-----------|------|
+| Questionnaire email | Instantly on purchase | ✅ GHL | The spine — protects the 48h clock, works even if they never open the community |
+| Community "Start Here" post | On community access | ✅ GHL (pinned) | Reinforcement — they see it the moment they log in |
+| Michael's personal DM in Skool | Within a few hours | 🟡 Manual (now) | The human touch — "Saw you grabbed the DFY build. Here's your questionnaire: [link]. Fill it out and I'll have your package back in 48h." |
+
+The DM is the *cherry on top*, not the only path. Personal outreach lifts completion, but the automated email is what guarantees the intake never stalls on Michael's availability. At low volume the manual DM is worth doing on every order (great for learning real intake); wire it as an automation candidate once volume shows up — it's a "works at 5 buyers, breaks at 50" step.
 
 The 11 questions:
 
@@ -55,8 +68,9 @@ The 11 questions:
 | 11 | What objections do people have before buying? | `objections` |
 | Opt | Best-performing content links | `content_links` |
 
-**If no response after 24 hours:** GHL sends reminder email
-**If no response after 48 hours:** Michael sends personal DM in Skool
+**Non-response nudges** (the early DM already went out in Step 1 as reinforcement, not a last resort):
+- **24 hours, no submission:** GHL sends automated reminder email
+- **48 hours, no submission:** Michael follow-up DM in Skool — "Still want me to build this? Just need your 11 answers: [link]. Two minutes and the clock starts."
 
 ---
 
@@ -70,8 +84,8 @@ The 11 questions:
 
 | Setting | Value |
 |---------|-------|
-| Model | `claude-sonnet-4-6` |
-| Max tokens | 8,000 |
+| Model | `claude-sonnet-5` (or `claude-opus-4-8` for max quality, ~3x cost) |
+| Max tokens | 16,000 |
 | Temperature | 0.7 |
 | Cost per call | ~$0.10-0.30 |
 | Generation time | 15-30 seconds |
@@ -80,7 +94,7 @@ The 11 questions:
 
 **User message format:**
 ```
-Build the four deliverables for this person based on their questionnaire answers.
+Build the six deliverables for this person based on their questionnaire answers.
 
 ## Their Answers
 
@@ -121,9 +135,9 @@ Build the four deliverables for this person based on their questionnaire answers
 {{content_links}}
 ```
 
-**Output:** 4 deliverables, ~4,000-6,000 tokens total
+**Output:** 6 deliverables, ~8,000-12,000 tokens total
 
-**DFY Lite:** Same API call, but add to user message: "This is a DFY Lite order. Generate only Deliverable 1 (ICP) and Deliverable 2 (Offer Document). Skip Google offer doc and ad hooks."
+**DFY Lite:** Same API call, but add to user message: "This is a DFY Lite order. Generate only Deliverable 1 (ICP) and Deliverable 2 (Offer Document). Skip deliverables 3-6 (Google Offer Doc, Sales Page, Email Sequence, Ad Hooks)."
 
 ---
 
@@ -138,12 +152,14 @@ Build the four deliverables for this person based on their questionnaire answers
 - [ ] **Offer name** is specific to their niche (not "The Success System")
 - [ ] **Mechanism** has a clear name and 3-4 steps that make sense
 - [ ] **Google Offer Doc** sounds like THEM — mirrors their language, written in short punchy lines not paragraphs
+- [ ] **Sales Page** reads for COLD traffic — leads with their problem, builds trust, more proof than the warm doc, paste-ready for GHL
+- [ ] **Email sequence** has 5 emails, each with subject + preview + body, escalating from welcome to pitch
 - [ ] **No invented testimonials** — only placeholders where proof is needed
 - [ ] **No income claims** or revenue promises
 - [ ] **Price recommendation** makes sense for their market
 - [ ] **Ad hooks** cover all awareness levels (not just "aware")
 - [ ] **The bridge** to their higher-ticket service is clear and natural
-- [ ] **Consistency** across all 4 deliverables — same language, same positioning
+- [ ] **Consistency** across all 6 deliverables — same offer name, mechanism, language, positioning
 - [ ] Would I send this to a $5K Accelerator client? If not, what's missing?
 
 **Common fixes:**
@@ -167,10 +183,12 @@ Build the four deliverables for this person based on their questionnaire answers
 [Client Name] — DFY Offer Build
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Section 1: Ideal Client Profile
-Section 2: Offer Document
-Section 3: Google Offer Doc — Ready to Send (DFY only)
-Section 4: Ad Hooks — 5 Variations (DFY only)
+Section 1: Ideal Client Profile (Dream Client Blueprint)
+Section 2: Offer Document (Your Validated Offer)
+Section 3: Google Offer Doc — Ready to Send (One-Page Sales Weapon, DFY only)
+Section 4: Sales Page — Paste into GHL (Plug-and-Play Sales Page, DFY only)
+Section 5: Email Sequence — 5 Emails (Buyer-to-Client Email Machine, DFY only)
+Section 6: Ad Hooks — 5 Variations (DFY only)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Next Steps (bottom of doc)
@@ -183,7 +201,9 @@ Next Steps (bottom of doc)
 1. Read through everything. Highlight anything that doesn't sound like you.
 2. Reply with any changes — I'll revise once (included).
 3. Copy your Google Offer Doc into a Google Doc and send it to your warm audience TODAY.
-4. Drop your ad hooks into Meta Ads Manager when you're ready to run cold traffic.
+4. Paste your Sales Page into GHL when you're ready to point cold traffic at a landing page.
+5. Load your 5-email sequence into GHL to nurture new leads toward the offer.
+6. Drop your ad hooks into Meta Ads Manager when you're ready to run cold traffic.
 
 Questions? DM me in Skool or reply to this email.
 
@@ -259,7 +279,10 @@ and I'll help you implement: [SKOOL LINK]
 ### Automation Checklist (GHL Setup)
 
 - [ ] GHL form created with 11 questions + 1 optional + field labels
-- [ ] Purchase trigger → questionnaire email automation
+- [ ] Purchase trigger → questionnaire email automation (instant)
+- [ ] Purchase trigger → community access granted + auto-welcome (instant, parallel)
+- [ ] Community "Start Here" post pinned with the questionnaire link
+- [ ] Michael early-DM reminder (manual now; automation candidate at volume)
 - [ ] Form submission → Make.com webhook
 - [ ] Make.com → Claude API scenario built
 - [ ] API output → stored in GHL custom field or sent to email
