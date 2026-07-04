@@ -76,46 +76,68 @@ def load_system_prompt(doc_path: Path = SYSTEM_PROMPT_DOC) -> str:
     return match.group(1).strip()
 
 
-def build_user_message(intake: dict, lite: bool = False) -> str:
-    """Assemble the user message from the intake answers."""
-    lines = ["Build the six deliverables for this person based on their "
-             "questionnaire answers.", "", "## Their Answers", ""]
+def format_answers(intake: dict) -> str:
+    """Render the 11 intake answers as a labelled block (no instruction header)."""
+    lines = ["## Their Answers", ""]
     for key, label in FIELDS:
         value = (intake.get(key) or "").strip() or "(not provided)"
         lines.append(f"**{label}:**")
         lines.append(value)
         lines.append("")
-    message = "\n".join(lines).rstrip()
+    return "\n".join(lines).rstrip()
+
+
+def build_user_message(intake: dict, lite: bool = False) -> str:
+    """Assemble the user message for the monolithic (legacy) generator."""
+    message = ("Build the six deliverables for this person based on their "
+               "questionnaire answers.\n\n" + format_answers(intake))
     if lite:
         message += LITE_INSTRUCTION
     return message
 
 
-def generate(intake: dict, lite: bool = False, model: str = DEFAULT_MODEL) -> str:
-    """Run the Claude generation and return the deliverables markdown."""
+def split_sections(text: str) -> dict:
+    """Parse `<<<FILE:name>>> ... <<<END>>>` blocks into {name: body}."""
+    out = {}
+    for match in re.finditer(r"<<<FILE:(\w+)>>>\s*\n(.*?)\n<<<END>>>", text, re.DOTALL):
+        out[match.group(1).strip()] = match.group(2).strip()
+    return out
+
+
+def complete(system: str, user_message: str, model: str = DEFAULT_MODEL,
+             max_tokens: int = MAX_TOKENS) -> str:
+    """One grounded Claude call. Shared by the monolith, seeder, and campaign.
+
+    Streamed (stays under the SDK's HTTP-timeout guard at large max_tokens);
+    no temperature/top_p (Sonnet 5 / Opus 4.8 reject non-default sampling);
+    thinking disabled for predictable per-order cost.
+    """
     import anthropic
 
     client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY or an ant profile
-    system_prompt = load_system_prompt()
-    user_message = build_user_message(intake, lite=lite)
-
-    # Stream to stay under the SDK's non-streaming HTTP-timeout guard at 16k.
-    # No temperature/top_p — Sonnet 5 / Opus 4.8 reject non-default sampling.
-    # Thinking disabled for predictable per-order cost; flip to
-    # {"type": "adaptive"} for higher-quality copy at higher token cost.
     with client.messages.stream(
         model=model,
-        max_tokens=MAX_TOKENS,
+        max_tokens=max_tokens,
         thinking={"type": "disabled"},
-        system=system_prompt,
+        system=system,
         messages=[{"role": "user", "content": user_message}],
     ) as stream:
         message = stream.get_final_message()
 
     if message.stop_reason == "refusal":
-        raise RuntimeError("Generation refused by safety classifier; review the intake.")
+        raise RuntimeError("Refused by safety classifier; review the input.")
 
     return "".join(b.text for b in message.content if b.type == "text").strip()
+
+
+def generate(intake: dict, lite: bool = False, model: str = DEFAULT_MODEL) -> str:
+    """Legacy monolith: intake -> six deliverables in one call.
+
+    Superseded by the Codify-native pipeline (dfy_seed_vault.py +
+    dfy_build_campaign.py), which grounds every deliverable in shared context
+    files. Kept as a fallback.
+    """
+    return complete(load_system_prompt(), build_user_message(intake, lite=lite), model=model)
 
 
 def main() -> int:
