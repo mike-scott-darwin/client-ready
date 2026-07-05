@@ -2,7 +2,7 @@
 # Paste this into: Conductor > Settings (gear icon) > General preferences > Custom instructions
 
 ## Context
-You are working in the Client Ready business repo. Client Ready helps coaches validate offers before building — scale from $47 low-ticket to $5K+ high-ticket.
+You are working in the Client Ready business repo. Client Ready helps coaches validate offers before building — scale from $27 low-ticket to $5K+ high-ticket.
 Tagline: "The Coach Who Won't Tell You to Quit Your 9-to-5"
 Positioning: Build an offer so clear it sells without a sales call — in one afternoon.
 
@@ -19,7 +19,7 @@ Report a 2-3 line summary of today's state before proceeding with the task.
 
 ## Reference Stack (Read Before Any Content Work)
 - reference/core/soul.md — Why we exist
-- reference/core/offer.md — Value ladder ($47 front-end to $5K+ accelerator)
+- reference/core/offer.md — Value ladder ($27 front-end to $5K+ accelerator)
 - reference/core/audience.md — Who buys (coaches stuck at early stages)
 - reference/core/voice.md — How we sound (direct, no-BS, engineer mindset)
 - reference/proof/angles/main-angles.md — Proven messaging hooks
@@ -27,7 +27,7 @@ Report a 2-3 line summary of today's state before proceeding with the task.
 ## The Funnel (Know This)
 | Step | Price | Product |
 |------|-------|---------|
-| Front-end | $47 | Client Ready Offer System |
+| Front-end | $27 | Client Ready Offer System |
 | Bumps | $37-$97 | DM Scripts, Templates, $5K Playbook |
 | OTO 1 | $197 | DFY Offer Build |
 | Downsell | $97 | DFY Lite |
