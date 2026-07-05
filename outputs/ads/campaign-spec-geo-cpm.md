@@ -32,11 +32,16 @@ Ready-to-build structure for the geo/CPM test. Build **paused**, review, then fl
 - **Everything else:** same as Ad Set A
 
 ## Creative (both ad sets)
-- **Winner:** Ad10 video — "Discover Your Unfair Advantage" (video_id `4212384302347414`), the "red ocean / drowning in sameness" hook
-- **Primary text:** the proven Jan26 copy (see reference/... or the winning-ad extract)
-- **Headline:** "Discover Your Unfair Advantage"
-- **CTA:** LEARN MORE → clientreadyoffer.com
-- **Note:** update any "$17" price reference in the creative to "$27" before running
+
+> **FORMAT PRIORITY — STATIC IMAGE PRIMARY, video secondary** (per Miles benchmark + our funnel data). For a $27 front-end, static image + long-form copy is the proven workhorse — Miles runs **95% static** on his primary low-ticket product. Lead both ad sets with the **Tier-1 static package** (`outputs/ads/2026-07-04-static-ads-tier1-miles-benchmark/`): 5 concepts, same copy across image variants, test the visual. Use the video below for **retargeting/warm only.**
+- **Video (secondary / retargeting):** "AD1 – Short form Demo" — screen-demo of running the Zone-of-Genius prompt (ChatGPT) + face cam + **burned-in speech captions**. Hook header: "What If You Could Identify The ONE Problem You're Uniquely Positioned to Solve." CTA: "$27 — link below." Format: 1080×1080, **150s**, says $27 ✅.
+- **Primary text (post copy):** the proven Jan26 "red ocean / drowning in sameness / YOU are the differentiator" copy
+- **CTA button:** LEARN MORE → clientreadyoffer.com
+- **Upload:** upload this $27 file fresh via upload_ad_video_file (do NOT reuse account `video_id 4212384302347414` — that was the old $17 cut).
+- **Cold vs warm cuts:**
+  - **Cold prospecting (Ad Sets A/B):** cut a **30–45s version** — hook → one prompt → the AI "wow" output (zoomed for mobile) → CTA. 150s is too long for cold.
+  - **Warm / retargeting:** use the full 150s demo.
+- **Fix before scaling:** zoom into the ChatGPT output moment (mobile readability — the proof shot is currently unreadable on phones).
 
 ## Targets & kill rules
 | Metric | Target | Kill |
