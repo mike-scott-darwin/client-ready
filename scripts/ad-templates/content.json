@@ -65,6 +65,54 @@
       "subline": "AI does the heavy lifting. You decide."
     }
   },
+  "notes": {
+    "read-first": {
+      "title": "read this before you build anything",
+      "time": "Today at 9:41 AM",
+      "lines": [
+        "You don't need another course.",
+        "",
+        "You need to know if your offer",
+        "actually sells — before you spend",
+        "a month building it.",
+        "",
+        "One afternoon. One AI prompt.",
+        "$27 to find out.",
+        "",
+        "test → validate → build"
+      ]
+    },
+    "dont-buy": {
+      "title": "don't buy this if…",
+      "time": "Today at 8:12 AM",
+      "lines": [
+        "…you love rewriting your offer for",
+        "every single lead.",
+        "",
+        "…you enjoy 60-minute sales calls.",
+        "",
+        "…you'd rather post for 12 months",
+        "and hope someone buys.",
+        "",
+        "otherwise → it's $27."
+      ]
+    },
+    "9-to-5": {
+      "title": "you don't have to quit your job",
+      "time": "Today at 7:30 AM",
+      "lines": [
+        "Everyone says burn the boats.",
+        "",
+        "Wrong.",
+        "",
+        "Build the offer around your life",
+        "first. Validate it in one afternoon.",
+        "Then decide.",
+        "",
+        "$27. No leap required."
+      ]
+    }
+  },
   "gmail": {
     "validated-offer": {
       "messages": [
@@ -83,7 +131,7 @@
       "headline": "COACHES ARE VALIDATING OFFERS IN ONE AFTERNOON",
       "bullets": ["No sales calls.", "No content treadmill.", "No $2K course."],
       "sub": "The AI does the heavy lifting. You make the decisions.",
-      "cta": "See how it works →"
+      "cta": "See how it works for $27 →"
     },
     "no-calls": {
       "banner": "NEW",

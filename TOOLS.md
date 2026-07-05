@@ -68,8 +68,9 @@ python3 scripts/fal-image.py --angle ladder --extra "woman in her 40s"
 ```
 
 Angle keys: `9-to-5`, `one-afternoon`, `ladder`, `alignment`, `ai-90`,
-`overwhelm`, `objection-sales-calls`, `ugly-notes`. Each leaves headline
-space up top for a copy overlay (Flux won't render clean text — add it after).
+`overwhelm`, `objection-sales-calls`. Each leaves headline space up top for a
+copy overlay (Flux won't render clean text — add it after). For text-heavy
+"ugly static" ads use the `notes` template below, not fal.
 
 ### Ad creative — HTML→PNG templates (text-exact, mirrors Miles's winners)
 
@@ -99,6 +100,8 @@ Templates (all 7 of Miles's proven formats):
 - `gmail` (inbox — clarity moments, NOT fake income) — validated-offer
 - `tabloid` ("Breaking News" red banner) — one-afternoon, no-calls
 - `handwritten` (paper note, cursive) — grow-into-pain
+- `notes` (iOS Notes screenshot — the ugly-static format, copy baked in) —
+  read-first, dont-buy, 9-to-5
 
 ⚠️ The order-summary line-item prices are illustrative — confirm they map to
 real front-end deliverables before running. Never use fabricated income claims

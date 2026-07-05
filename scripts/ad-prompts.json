@@ -31,10 +31,6 @@
     "objection-sales-calls": {
       "label": "I stopped doing sales calls",
       "prompt": "A relaxed coach on a couch with a laptop, phone face-down on the armrest, unbothered and calm — pointedly NOT on a stressful sales call, letting the offer sell itself. Bright, easy, casual home setting with soft daylight."
-    },
-    "ugly-notes": {
-      "label": "Plain text-space background (ugly-static / no-47-page-guide)",
-      "prompt": "A clean minimal flat background resembling an off-white notecard or plain paper with very subtle paper texture and a soft shadow, mostly empty — designed to have short blunt text placed over it. No people, no objects, no clutter. Deliberately plain and un-designed."
     }
   }
 }

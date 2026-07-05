@@ -1,0 +1,22 @@
+{
+  "template": "notes",
+  "preset": "read-first",
+  "size": "1080x1350",
+  "data": {
+    "title": "read this before you build anything",
+    "time": "Today at 9:41 AM",
+    "lines": [
+      "You don't need another course.",
+      "",
+      "You need to know if your offer",
+      "actually sells — before you spend",
+      "a month building it.",
+      "",
+      "One afternoon. One AI prompt.",
+      "$27 to find out.",
+      "",
+      "test → validate → build"
+    ]
+  },
+  "generated_at": "20260705-184035"
+}

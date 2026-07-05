@@ -23,7 +23,6 @@ export function render(data, W, H) {
     .sub{color:#fff;text-align:center;font:800 60px/1.15 ${brand.fontDisplay};padding:36px 60px 0}
     .ctawrap{margin-top:auto;padding:40px}
     .cta{background:#FFE24A;border-radius:16px;padding:38px;text-align:center;font:800 66px ${brand.fontDisplay};color:#0B0B0B}
-    .adv{position:absolute;bottom:16px;right:34px;color:#8A97A6;font:600 26px ${brand.fontUI};letter-spacing:2px}
   </style></head><body>
     <div class="ad">
       <div class="banner">
@@ -33,7 +32,6 @@ export function render(data, W, H) {
       <div class="whiteband">${bullets}</div>
       ${data.sub ? `<div class="sub">${esc(data.sub)}</div>` : ""}
       <div class="ctawrap"><div class="cta">${esc(data.cta || "See how →")}</div></div>
-      <div class="adv">ADVERTISEMENT</div>
     </div>
   </body></html>`;
 }

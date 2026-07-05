@@ -63,9 +63,12 @@ python3 scripts/fal-image.py --angle all --model schnell --num 4
 | Gmail inbox (clarity moments) | Template `gmail` | validated-offer | ✅ built |
 | "Breaking News" tabloid | Template `tabloid` | one-afternoon, no-calls | ✅ built |
 | Handwritten note (lifestyle) | Template `handwritten` | grow-into-pain | ✅ built |
-| Photoreal lifestyle scenes | fal.ai | 8 angles (see ad-prompts.json) | ✅ built |
+| iOS Notes screenshot (ugly-static) | Template `notes` | read-first, dont-buy, 9-to-5 | ✅ built |
+| Photoreal lifestyle scenes | fal.ai | 7 angles (see ad-prompts.json) | ✅ built |
 
-**All 7 of Miles's proven formats + fal.ai are built.** 21 launch creatives rendered in `outputs/ad-creative/`, each with a sidecar `.json` (reproducible swipe file). Render everything with `--preset all` per template.
+**All of Miles's proven formats + fal.ai are built.** Every creative has copy baked in — nothing blank. Rendered in `outputs/ad-creative/`, each with a sidecar `.json` (reproducible swipe file). Render everything with `--preset all` per template.
+
+> Note: the "ugly static" format is the `notes` template (real iOS Notes screenshot with copy). An earlier fal.ai "blank card" version was removed — Flux can't render legible text, so text-heavy formats must be templates, not fal.
 
 ---
 

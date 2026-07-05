@@ -1,0 +1,21 @@
+{
+  "template": "notes",
+  "preset": "dont-buy",
+  "size": "1080x1350",
+  "data": {
+    "title": "don't buy this if…",
+    "time": "Today at 8:12 AM",
+    "lines": [
+      "…you love rewriting your offer for",
+      "every single lead.",
+      "",
+      "…you enjoy 60-minute sales calls.",
+      "",
+      "…you'd rather post for 12 months",
+      "and hope someone buys.",
+      "",
+      "otherwise → it's $27."
+    ]
+  },
+  "generated_at": "20260705-184035"
+}
