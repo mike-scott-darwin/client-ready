@@ -7,7 +7,7 @@ updated_from: 2026-01-19
 
 # Membership Benefits
 
-## Skool Community Benefits ($97/mo)
+## Skool Community Benefits ($47/mo)
 
 ### What Community Members Get
 
@@ -32,7 +32,7 @@ updated_from: 2026-01-19
 
 **How Members Enter:**
 - 30-day free trial bundled with DFY Offer Build ($197) or DFY Lite ($97)
-- Direct sign-up via email pitch or portal ($97/mo, no trial)
+- Direct sign-up via email pitch or portal ($47/mo, no trial)
 - Accelerator graduates stay as alumni
 
 ---
@@ -43,7 +43,7 @@ updated_from: 2026-01-19
 
 - **Get clarity on your offer** — Stop second-guessing what you sell
 - **Build a funnel that works** — No more scattered lead gen
-- **Validate before you build** — Test with $47 before investing months
+- **Validate before you build** — Test with $27 before investing months
 - **Path to $5K+ clients** — Know exactly how to scale
 
 ### Tangible Deliverables
@@ -59,7 +59,7 @@ updated_from: 2026-01-19
 - Practical, not theoretical
 - AI-assisted for speed
 - Built for coaches who still have a 9-to-5
-- Community included via DFY trial or direct sign-up ($97/mo)
+- Community included via DFY trial or direct sign-up ($47/mo)
 
 ---
 
@@ -70,7 +70,7 @@ updated_from: 2026-01-19
 | Just joined | Clarity on offer (Phase 1) |
 | Has offer | Funnel installed (Phase 2) |
 | Has funnel | Traffic and scale (Phase 3) |
-| Wants more | Community for accountability ($97/mo), Accelerator for done-with-you ($5K) |
+| Wants more | Community for accountability ($47/mo), Accelerator for done-with-you ($5K) |
 
 ---
 

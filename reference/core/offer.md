@@ -60,7 +60,7 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 - **Paid traffic over content merry-go-round** — Stop posting for 12 months hoping someone buys
 - **Validate before you build** — Know it works before investing in infrastructure
 - **Alignment + automation** — Not scale for scale's sake
-- **Self-liquidating checkout** — Front-end (~~$197~~ $47) + bumps ($37/$67/$97) + DFY upsell ($197) cover ad spend. Community + Accelerator = pure profit. Don't scale until checkout AOV is $90+.
+- **Buyer-acquisition checkout** — Front-end (~~$197~~ $27) + bumps ($37/$67/$97) + DFY upsell ($197). At $27 the front-end is NOT self-liquidating on its own (see [decisions/2026-07-04-front-end-27-digital-snack.md](../../decisions/2026-07-04-front-end-27-digital-snack.md)); ad spend is recovered across bumps + OTOs + $47/mo community + $37/mo newsletter. Community + Accelerator = pure profit. Judge scale on blended 90-day value (~$240), not front-end AOV.
 - **Good enough to launch, then refine** -- Most decisions don't require perfect information. They require good judgment applied to good-enough data. The obsession with precision masks fear of making the call.
 - **Extraction over templates** -- Client Ready pulls out what you already know and builds from that. Not "here's my system, copy it." Your zone of genius, your voice, your strengths. Translation, not inspiration.
 - **Framework over feelings** -- The sprint provides structure that moves you forward even when self-doubt shows up. You don't have to trust your feelings when there's a framework doing the heavy lifting.
@@ -78,7 +78,7 @@ graph TD
     FE --> B3["97 Playbook<br/>Order Bump 3"]
     FE --> DFY["197 DFY Offer Build<br/>OTO 1 + Community Trial"]
     DFY -->|no| DFYL["97 DFY Lite<br/>Downsell + Community Trial"]
-    DFY --> NL["37/mo Newsletter<br/>OTO 2 — Continuity"]
+    DFY --> NL["37/mo Monthly Playbook<br/>OTO 2 — Continuity"]
     DFYL --> NL
     DFY --> COM["97/mo Community<br/>THE ENGINE"]
     DFYL --> COM
@@ -96,7 +96,7 @@ graph TD
 
 ### Tier 1: Low-Ticket Funnel
 
-**Front-End: ~~$197~~ $47 — Client Ready Offer System**
+**Front-End: ~~$197~~ $27 — Client Ready Offer System**
 - PDF guide + AI prompts
 - 5 AI prompts that extract zone of genius, ideal client, pain points, story, and assemble complete offer
 - Step-by-step guide + offer document template
@@ -140,7 +140,7 @@ graph TD
 - Step-by-step walkthrough: offer document → landing page copy → live page
 - **Promise:** Build your landing page in one afternoon — not from scratch, from your offer
 - Not an order bump — standalone portal training and second ad entry point
-- **Ad angle:** Reaches "I have an offer but no page" buyers (different from the $47 "I need to figure out my offer" buyer)
+- **Ad angle:** Reaches "I have an offer but no page" buyers (different from the $27 "I need to figure out my offer" buyer)
 
 **Standalone Training: $97 — The Plug & Play Funnel Snapshot**
 - Pre-built GHL snapshot of the complete Client Ready funnel: landing page, checkout, order bumps, OTO pages, email sequences
@@ -179,7 +179,7 @@ Every buyer gets portal access. Their purchased training(s) are unlocked. All ot
 **Architecture:**
 ```
 GHL Membership Portal (Content Library)
-  ├── Client Ready Offer System ($47) — unlocked on purchase
+  ├── Client Ready Offer System ($27) — unlocked on purchase
   ├── Quick Win DM Scripts ($37) — locked/unlockable
   ├── Plug & Play Templates ($67) — locked/unlockable
   ├── The First $5K Client Playbook ($97) — locked/unlockable
@@ -208,7 +208,7 @@ Skool Community (Support & Engagement)
 
 | Entry Point | Ad Angle | Portal Effect |
 |-------------|----------|---------------|
-| $47 Offer System | "Validate your $5K offer in one afternoon" | Sees 5 other trainings locked |
+| $27 Offer System | "Validate your $5K offer in one afternoon" | Sees 5 other trainings locked |
 | $37 DM Scripts | "First client conversation in 5 minutes" | Sees 5 other trainings locked |
 | $57 One-Page Funnel | "Build your landing page in one afternoon" | Sees 5 other trainings locked |
 | $97 Funnel Snapshot | "Import a proven funnel — customize in one afternoon" | Sees 5 other trainings locked + GHL affiliate |
@@ -238,7 +238,7 @@ See: [decisions/2026-02-18-training-portal-ecosystem.md](../../decisions/2026-02
 - **Plug-and-Play Sales Page** — full landing page (hero, problem, solution, what's included, FAQ, pricing, CTA); paste into GHL
 - **Buyer-to-Client Email Machine** — 5-email sequence (welcome, story, common mistake, social proof, direct pitch)
 - **5 Scroll-Stopping Ad Hooks** — five tested angles for ads, organic, or DMs, one per pain/desire
-- **30-day free trial** to Client Ready Community ($97/mo after trial)
+- **30-day free trial** to Client Ready Community ($47/mo after trial)
 - **Promise:** Your complete offer built for you — delivered in 48 hours
 
 > **Fulfillment note (guardrail):** 6 reviewed deliverables/order in 48h is heavy at volume. Automate generation; Michael's review = spot-check not rewrite; cap weekly slots. If margin/fulfillment gets tight, the fallback is trimming back to the original 4 (ICP, offer doc, sales doc, ad hooks) and moving the sales page + email sequence into the Community/OS. DIY-vs-DFY split protects the $67 Templates bump / $57 One-Page Funnel — keep bump copy framed as "you build it."
@@ -246,7 +246,7 @@ See: [decisions/2026-02-18-training-portal-ecosystem.md](../../decisions/2026-02
 **How it works:**
 - Buyer fills out 11-question onboarding form on thank you page
 - Form triggers Claude API with Client Ready methodology baked in
-- AI generates all 4 deliverables in ~30 seconds
+- AI generates all six deliverables in ~30 seconds
 - Michael reviews every output (~10 min) before delivery
 - Delivered within 24-48 hours
 
@@ -273,21 +273,21 @@ See: `outputs/dfy-upsell/system-prompt.md` for full API spec and questionnaire
 - What worked, what didn't, what changed
 
 **Why It Works:**
-- Low-friction recurring ($37/mo feels like nothing after a $47-$197 purchase)
+- Low-friction recurring ($37/mo feels like nothing after a $27-$197 purchase)
 - Bridges to community: "Want the calls and DM access too?"
 - Content is a byproduct of what Michael is already doing
 
 ---
 
-### Tier 3: $97/month — Client Ready Community (THE ENGINE)
+### Tier 3: $47/month — Client Ready Community (THE ENGINE)
 
-**Price:** $97/month, month-to-month, cancel anytime
+**Price:** $47/month, month-to-month, cancel anytime
 **Format:** Membership community (Skool)
 **Position:** Central engine — everything pushes INTO community, high-ticket sells FROM community
 
 **How Members Enter:**
 - 30-day free trial bundled with DFY Offer Build ($197) or DFY Lite ($97)
-- Direct sign-up via email pitch or portal ($97/mo, no trial)
+- Direct sign-up via email pitch or portal ($47/mo, no trial)
 - Accelerator graduates stay as alumni
 
 **What's Included:**
@@ -343,7 +343,7 @@ See: `outputs/dfy-upsell/system-prompt.md` for full API spec and questionnaire
 
 **Who This Is For:**
 - Community members who've been watching Michael coach for 30-90 days
-- Already validated their offer (bought the $47 or DFY)
+- Already validated their offer (bought the $27 or DFY)
 - Want speed + expert guidance, not DIY
 - Ready to invest in getting it right the first time
 
@@ -365,7 +365,7 @@ See: `outputs/dfy-upsell/system-prompt.md` for full API spec and questionnaire
 
 | Step | Price | Type |
 |------|-------|------|
-| Front-end | $47 | One-time |
+| Front-end | $27 | One-time |
 | Bump 1 (DM Scripts) | $37 | One-time |
 | Bump 2 (Templates) | $67 | One-time |
 | Bump 3 (First $5K Client Playbook) | $97 | One-time |
@@ -373,15 +373,15 @@ See: `outputs/dfy-upsell/system-prompt.md` for full API spec and questionnaire
 | Standalone (Plug & Play Funnel Snapshot) | $97 | One-time (portal training + GHL affiliate trigger) |
 | OTO 1 (DFY Offer Build) | $197 | One-time + 30-day community trial |
 | Downsell (DFY Lite) | $97 | One-time + 30-day community trial |
-| OTO 2 (Newsletter) | $37/mo | Recurring (immediate charge) |
-| Community | $97/mo | Recurring (month-to-month after trial) |
+| OTO 2 (The Monthly Playbook) | $37/mo | Recurring (immediate charge) |
+| Community | $47/mo | Recurring (month-to-month after trial) |
 | Backend (Accelerator) | $5,000 | Sold from community |
 
-**Max One-Time Cart Value:** $545 ($47 + $37 + $67 + $97 + $197 + first $37 newsletter)
-**Checkout AOV target:** $90-110 (front-end + bumps — self-liquidating)
-**Full funnel AOV:** ~$135 (including OTOs)
-**90-day value per buyer:** ~$260 (including recurring + Accelerator attribution)
-**Recurring streams:** Community ($97/mo) + Newsletter ($37/mo) + GHL affiliate (~$39/mo)
+**Max One-Time Cart Value:** $462 ($27 + $37 + $67 + $97 + $197 + first $37 newsletter)
+**Checkout AOV target:** $70-90 (front-end + bumps — at $27 the front-end is a buyer-acquisition price, NOT self-liquidating on its own; see [decisions/2026-07-04-front-end-27-digital-snack.md](../../decisions/2026-07-04-front-end-27-digital-snack.md))
+**Full funnel AOV:** ~$115 (including OTOs)
+**90-day value per buyer:** ~$240 (including recurring + Accelerator attribution)
+**Recurring streams:** Community ($47/mo) + The Monthly Playbook ($37/mo) + GHL affiliate (~$39/mo)
 **Portal cross-sell potential:** One-Page Funnel ($57) + Funnel Snapshot ($97) + second-chance bumps add to 30-day CLV
 **GHL affiliate potential:** ~$39/mo recurring per Funnel Snapshot buyer who signs up for GHL
 **DFY cost per generation:** ~$0.30-0.80 (Claude Sonnet 5, six deliverables) — near-zero marginal cost
@@ -390,7 +390,7 @@ See: `outputs/dfy-upsell/system-prompt.md` for full API spec and questionnaire
 
 ## Email Ascension System
 
-**The engine that turns $47 buyers into $5K clients — without phone calls.**
+**The engine that turns $27 buyers into $5K clients — without phone calls.**
 
 ### Daily Email Rhythm
 
@@ -427,7 +427,7 @@ New buyers get a 10-email sequence over 10 days. **This sequence is relationship
 | 6 | From stuck to first client in 30 days | Transformation story |
 | 7 | What my morning actually looks like | Behind the scenes |
 | 8 | "What if I'm not ready?" | FAQ / objection |
-| 9 | What happens after $47 | The roadmap |
+| 9 | What happens after $27 | The roadmap |
 | 10 | Come hang out | Community invite |
 
 **Ascension touchpoints (iron strike window):**
@@ -479,7 +479,7 @@ See: [reference/domain/funnel/email-rhythm.md](../domain/funnel/email-rhythm.md)
 > "If you don't get results using our templates and support, send us an email at any time and we'll refund every penny of your investment — no questions asked."
 
 **DFY Delivery Guarantee (OTO 1 - $197 DFY Offer Build):**
-> "Your ICP, offer document, ready-to-send sales doc, and ad hooks — delivered in 48 hours. If we miss that, you get a free month of community on top of your trial."
+> "Your complete offer — all six pieces, from dream client profile to ad hooks — delivered in 48 hours. If we miss that, you get a free month of community on top of your trial."
 
 **Community Guarantee:**
 > "Month-to-month. Cancel anytime. If the first call doesn't blow your mind, cancel before your trial ends and you pay nothing."
@@ -490,7 +490,7 @@ See: [reference/domain/funnel/email-rhythm.md](../domain/funnel/email-rhythm.md)
 
 | Objection | Response |
 |-----------|----------|
-| "I don't have an offer yet" | That's exactly what the $47 system solves — extract and validate in one afternoon |
+| "I don't have an offer yet" | That's exactly what the $27 system solves — extract and validate in one afternoon |
 | "I'm not tech savvy" | The templates are plug-and-play — fill in blanks, copy-paste, done |
 | "I don't have an audience" | Start with your warm audience first. The traffic playbook shows you how to find buyers without ads. |
 | "What if it doesn't work?" | Every product has a money-back guarantee. The community adds personal accountability — weekly calls with Michael plus peer support to keep you moving. |
@@ -514,7 +514,9 @@ See: [reference/domain/funnel/email-rhythm.md](../domain/funnel/email-rhythm.md)
 
 **Bump pricing insight (Cat Howell Feb 2026):** Higher-priced bumps convert better. Her split test: $33/$44/$55 bumps at 4.0% conversion vs $17/$33/$55 at 2.3%. Early data but directionally strong. Test increasing bump prices once baseline data exists.
 
-**Front-end pricing warning:** $17 front-end killed Cat's AOV (dropped from $140 to $70-80). Cheap buyers don't buy bumps/upsells at the same rate. $27 is minimum; $47 is her sweet spot. Client Ready moved from $27 to $47 based on this data. At $47, front-end + bumps target self-liquidating AOV of $90-110. **External validation (Feb 2026):** Miles Stutz killed his $7 front-end (digitalsnacks.co) entirely and moved to $17 (rapidascension.freeclientsystem.com). Cheap front-ends attract cheap buyers who don't ascend. $47 remains the right price point for buyer quality.
+**Front-end pricing — current price $27 (revised 2026-07-04).** Client Ready ran the front-end at $27 → $47 → and reverted to **$27** on 2026-07-04. See [decisions/2026-07-04-front-end-27-digital-snack.md](../../decisions/2026-07-04-front-end-27-digital-snack.md) for the full rationale. Two drivers: (1) the Jan26 paid data showed the front-end **did not self-liquidate at $47 on cold Tier-1 traffic** either (~0.29 ROAS at the checkout), so the higher price bought no self-liquidation — only a higher barrier; (2) the revival strategy is a **digital-snack / cash-flow play** — a low, frictionless entry that maximizes buyer *volume*, with spend recovered on bumps + OTOs + continuity, not the front-end.
+
+**The known risk (weigh it):** cheaper front-ends historically attract lower-quality buyers who take fewer bumps/upsells. Cat Howell's data: a $17 front-end dropped her AOV from $140 to $70-80; she calls $27 the minimum and $47 her sweet spot. Miles Stutz killed his $7 front-end (digitalsnacks.co) and moved to $17 (rapidascension.freeclientsystem.com) for the same reason. **At $27, the whole model therefore depends on bump + OTO take-rate at checkout** — protect that above all else. If bump attach craters, revisit the price.
 
 **Scaling via entry points (future):** Existing bumps (DM Scripts, $5K Playbook) can become standalone front-end offers once core funnel is validated (30+ sales, $100+ AOV). See [decisions/2026-02-12-scaling-architecture.md](../../decisions/2026-02-12-scaling-architecture.md).
 
@@ -684,7 +686,7 @@ For your funnel (AOV $100-120):
 
 **Sales cluster on the first or last day (Miles, Jun 2026):** "It either happens on the first day or on the last day." Three sales can land in the final $30 of a $300 test. This is *why* you finish the full test — killing at $270 throws away winners. Don't change anything mid-test until you've spent the full budget (or shown the ads manager on a coaching call).
 
-**$20 rule (low-ticket shortcut):** For a $47 product, winners reveal themselves after ~$20 of spend per concept. If a concept hasn't shown signal by $20, it's probably not going to. (Note: this is a faster screening heuristic; the $300/first-or-last-day rule governs the full validation test.)
+**$20 rule (low-ticket shortcut):** For a $27 product, winners reveal themselves after ~$20 of spend per concept. If a concept hasn't shown signal by $20, it's probably not going to. (Note: this is a faster screening heuristic; the $300/first-or-last-day rule governs the full validation test.)
 
 **Testing priority when stuck:**
 1. Offer (biggest impact)
@@ -725,8 +727,8 @@ Naked VSLs (video-only pages) are dying — high bounce rates from cold traffic.
 |-----|-------|---------------------|
 | OTO 1 DFY Offer Build | $197 | 15% |
 | Downsell DFY Lite | $97 | 10% of remaining |
-| OTO 2 Newsletter | $37/mo | 8% |
-| Community | $97/mo | Via trial or direct sign-up |
+| OTO 2 The Monthly Playbook | $37/mo | 8% |
+| Community | $47/mo | Via trial or direct sign-up |
 
 **Traffic Metrics:**
 

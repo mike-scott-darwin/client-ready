@@ -131,7 +131,7 @@ You get all four deliverables in your inbox within 48 hours. Ready to use. Ready
 
 ## PLUS: 30-DAY FREE COMMUNITY TRIAL
 
-Your DFY Offer Build includes a **30-day free trial** of the Client Ready Community ($97/mo after).
+Your DFY Offer Build includes a **30-day free trial** of the Client Ready Community ($47/mo after).
 
 Why? Because having the assets is step one. Deploying them is step two.
 
@@ -204,7 +204,7 @@ The assets get you clear. The community helps you stay clear while you test, val
 - 5 Ad Hook Variations — tested angles, ready to run
 - Michael's personal review on every deliverable
 - 48-hour delivery
-- 30-day free Client Ready Community trial ($97/mo value)
+- 30-day free Client Ready Community trial ($47/mo value)
 
 ---
 
@@ -257,7 +257,7 @@ If you fill out the questionnaire and I don't deliver all four assets within 48 
 
 2. **$197 is ONE-TIME** — NOT a subscription. Not a course. Add the line: "Not a subscription. Not a course. Done-for-you deliverables in your inbox within 48 hours."
 
-3. **30-day community trial** is included. After 30 days, $97/mo. Make this clear but not the focus — the deliverables are the focus.
+3. **30-day community trial** is included. After 30 days, $47/mo. Make this clear but not the focus — the deliverables are the focus.
 
 4. **Proof section:** Placeholder only. Add real results once 10+ builds are completed. Remove section entirely until then.
 
@@ -275,7 +275,7 @@ If you fill out the questionnaire and I don't deliver all four assets within 48 
 |------|--------|
 | **Charged** | **$197** |
 | Copywriter alternative (anchored) | $2,000-$5,000 |
-| Community trial included | 30 days free, then $97/mo |
+| Community trial included | 30 days free, then $47/mo |
 
 **GHL implementation:** Set OTO price to $197.
 
@@ -306,7 +306,7 @@ Consider testing:
 | Marginal cost | High (Michael's time every week for 4 weeks) | Near-zero (~$0.15-0.30 per AI generation + ~10 min review) |
 | Hero headline | "LAUNCH YOUR VALIDATED OFFER IN 30 DAYS" | "GET YOUR COMPLETE OFFER BUILT FOR YOU — DELIVERED IN 48 HOURS" |
 | Opening copy angle | "Knowing vs doing" — gap between system and launch | "System vs YOUR offer" — gap between having templates and having your offer built |
-| Community access | Full Skool access included | 30-day free trial ($97/mo after) |
+| Community access | Full Skool access included | 30-day free trial ($47/mo after) |
 | Guarantee | "Launch in 30 days or I keep working with you" | "All 4 assets delivered in 48 hours or full refund" |
 | Decline route | Next OTO or thank you page | DFY Lite downsell page ($97) |
 | Strategic intent | Complete launch system + accountability | Strategically incomplete — gives assets, creates awareness that community support is needed to deploy them |

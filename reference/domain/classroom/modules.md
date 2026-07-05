@@ -21,13 +21,13 @@ All content available in free Skool community. Core modules drip over 72 hours.
 **Value Ladder Reference:**
 | Tier | Product | Price |
 |------|---------|-------|
-| Front-end | Client Ready Offer System | $47 |
+| Front-end | Client Ready Offer System | $27 |
 | Bump 1 | Quick Win DM Scripts | $37 |
 | Bump 2 | Plug & Play Templates | $67 |
 | Bump 3 | The First $5K Client Playbook | $97 |
 | OTO 1 | DFY Offer Build | $197 |
 | OTO 2 | DFY Lite (downsell) | $97 |
-| Standalone | Client Ready Community | $97/mo |
+| Standalone | Client Ready Community | $47/mo |
 | Standalone | Newsletter | $37/mo |
 | Backend | Client Ready Accelerator | $5,000 |
 
@@ -46,7 +46,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
   - **No offer yet?** → Start with Phase 1 (Extraction)
   - **Have an offer, no funnel?** → Start with Phase 2 (Build)
   - **Have a funnel, need traffic?** → Start with Phase 3 (Launch)
-- How the value ladder works ($47 → $5K path)
+- How the value ladder works ($27 → $5K path)
 - What's included at each tier (Community vs DFY Offer Build vs Accelerator)
 - The philosophy: "You can't grow into pain" — alignment before scale
 
@@ -61,7 +61,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 **The Promise:** Validate your $5K+ offer before you build anything — in one afternoon.
 
 **Content includes:**
-- Zone of genius extraction using the 5 AI prompts from the $47 system
+- Zone of genius extraction using the 5 AI prompts from the $27 system
 - Ideal client definition (the "Ever Evolving Avatar")
 - Pain points and solutions mapping
 - Story and proof elements
@@ -85,7 +85,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 **The Promise:** Don't start from scratch — plug in your offer and go.
 
 **Content includes:**
-- Funnel architecture: $47 front-end → bumps → OTOs → email ascension → backend
+- Funnel architecture: $27 front-end → bumps → OTOs → email ascension → backend
 - Landing page setup using AI Landing Page Generator
 - Order bumps: DM Scripts ($37), Templates ($67), The First $5K Client Playbook ($97)
 - Checkout/payment integration
@@ -97,7 +97,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 **Products that accelerate this phase:**
 - $67 Plug & Play Templates — Landing page swipes, email sequences
 - $197 DFY Offer Build — Michael builds your offer assets for you
-- $97/mo Community — Ongoing implementation support and curriculum
+- $47/mo Community — Ongoing implementation support and curriculum
 
 **Drip:** Available after 72 hours
 
@@ -116,14 +116,14 @@ All content available in free Skool community. Core modules drip over 72 hours.
 - Paid traffic fundamentals for Meta/Facebook/Instagram
 - The metrics that matter: 1% CTR = good, 2% = great, 3% = exceptional
 - Testing offers: 150-200 unique outbound clicks before judging
-- Scaling from $47 buyers to $5K Accelerator clients
+- Scaling from $27 buyers to $5K Accelerator clients
 - No-Phone Offers: selling $2K-$5K without sales calls
 
 **Key deliverable:** First campaign launched, traffic flowing, path to high-ticket clear
 
 **Products that accelerate this phase:**
 - $97 The First $5K Client Playbook
-- $97/mo Community — Weekly calls, hot seat feedback on campaigns
+- $47/mo Community — Weekly calls, hot seat feedback on campaigns
 - $5,000 Accelerator — Done-with-you funnel + traffic in 8 weeks
 
 **Drip:** Available after 72 hours
@@ -194,7 +194,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 
 #### 1.2 AI Offer Extraction
 
-**What it covers:** Using the 5 AI prompts from the $47 Client Ready Offer System to rapidly extract and structure your offer components.
+**What it covers:** Using the 5 AI prompts from the $27 Client Ready Offer System to rapidly extract and structure your offer components.
 
 **What you'll learn:**
 - Prompt 1: Zone of Genius Extraction — What you do that nobody else does
@@ -287,7 +287,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 
 #### 2.3 The Order Bump Formula
 
-**What it covers:** Adding the three order bumps that increase AOV from $47 to $248 (target: $90-110).
+**What it covers:** Adding the three order bumps that increase AOV from $27 to $228 (target: $90-110).
 
 **What you'll learn:**
 - The three Client Ready bumps and why they work:
@@ -298,7 +298,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
 - Placement and copy for each bump
 - How to create bumps for YOUR value ladder
 
-**Benefit:** Turn a $47 sale into a $248 sale without any extra traffic.
+**Benefit:** Turn a $27 sale into a $228 sale without any extra traffic.
 
 **Outcome:** Three order bumps designed, written, and added to your checkout.
 
@@ -323,11 +323,11 @@ All content available in free Skool community. Core modules drip over 72 hours.
 
 #### 2.5 Rapid Product Creation
 
-**What it covers:** Creating your digital product quickly without perfectionism — the $47 front-end and any bumps.
+**What it covers:** Creating your digital product quickly without perfectionism — the $27 front-end and any bumps.
 
 **What you'll learn:**
 - The "good enough to ship" standard — what actually matters
-- Product formats: PDF guide + AI prompts (like the $47 system), video training, templates
+- Product formats: PDF guide + AI prompts (like the $27 system), video training, templates
 - Using AI to accelerate creation (not replace your expertise)
 - Delivery setup: where to host, how to grant access
 - The principle: solve ONE problem completely, don't solve everything partially
@@ -390,7 +390,7 @@ All content available in free Skool community. Core modules drip over 72 hours.
   - Day 3: First case study → pitch missed bump
   - Day 4: Common mistake to avoid → Templates ($67)
   - Day 5: Quick tip + value (no pitch)
-  - Day 6: Client transformation → Community ($97/mo)
+  - Day 6: Client transformation → Community ($47/mo)
   - Day 7: Behind-the-scenes (no pitch)
   - Day 8: FAQ / objection handling → DFY Offer Build ($197)
   - Day 9: "What happens next" roadmap (no pitch)
@@ -658,7 +658,7 @@ Set up in this order:
 
 | Level | Who They Are | What They're Thinking | Your Creative Approach |
 |-------|--------------|----------------------|------------------------|
-| **Aware** | Knows you, knows your product | "I want that thing Michael sells" | Direct: "$47 — Get the System Now" |
+| **Aware** | Knows you, knows your product | "I want that thing Michael sells" | Direct: "$27 — Get the System Now" |
 | **Solution Aware** | Knows solutions exist, shopping | "I need help with my offer, what options are there?" | "Why this beats courses/coaches/content" |
 | **Problem Aware** | Knows they're stuck, not solutions | "Nothing's working, I've tried everything" | "Been at this 2+ years? The problem isn't you." |
 | **Unaware** | Thinks struggle is normal | "Building a business just takes time, right?" | "Everyone says it takes 3+ years. They're wrong." |
@@ -680,7 +680,7 @@ Then Facebook exhausts that audience and shifts to cold (problem aware + unaware
 For every campaign, create at least 4 ads — one for each awareness level:
 
 **For Client Ready:**
-1. **Aware:** "Client Ready Offer System — $47. Validate your $5K+ offer in one afternoon."
+1. **Aware:** "Client Ready Offer System — $27. Validate your $5K+ offer in one afternoon."
 2. **Solution Aware:** "Stop buying courses. Stop posting content. Here's what actually works."
 3. **Problem Aware:** "Been at this 2+ years? Bought courses? Nothing clicking? The problem isn't you."
 4. **Unaware:** "Everyone says building a coaching business takes 3+ years. They're wrong."
@@ -719,14 +719,14 @@ Examples:
 
 #### 3.8 Advanced Selling Strategies
 
-**What it covers:** Advanced techniques for scaling beyond initial validation — from $47 buyers to $5K clients.
+**What it covers:** Advanced techniques for scaling beyond initial validation — from $27 buyers to $5K clients.
 
 **What you'll learn:**
-- The ascension path: $47 → bumps → Community → DFY Offer Build → Accelerator
+- The ascension path: $27 → bumps → Community → DFY Offer Build → Accelerator
 - Using email to warm up to higher tiers (Daily Email Rhythm)
 - Retargeting buyers with higher-tier offers
 - When to introduce the $5K Accelerator
-- The math: how many $47 buyers to support one $5K sale
+- The math: how many $27 buyers to support one $5K sale
 - **Engagement campaigns for omnipresence** (scaling tactic)
 
 **Engagement Campaigns (For Scaling)**
@@ -823,7 +823,7 @@ When you're spending $500+/day, add low-cost engagement campaigns for omnipresen
 **What it covers:** No-Phone works best when people already know and trust you. This lesson shows how your funnel builds that trust.
 
 **What you'll learn:**
-- The ascension path: $47 → bumps → Community → Accelerator
+- The ascension path: $27 → bumps → Community → Accelerator
 - Why buyers of lower tiers are pre-qualified for No-Phone
 - Using daily emails to warm up to higher tiers
 - The "ready signal" — when someone is ready for your No-Phone offer
@@ -841,7 +841,7 @@ Real-world walkthroughs showing the Client Ready system in action — not theory
 
 #### Low Ticket Validation Funnel
 
-**What it covers:** Complete walkthrough of building the $47 Client Ready funnel from scratch.
+**What it covers:** Complete walkthrough of building the $27 Client Ready funnel from scratch.
 
 **What you'll see:**
 - Offer extraction using the 5 AI prompts

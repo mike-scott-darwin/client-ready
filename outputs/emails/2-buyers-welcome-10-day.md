@@ -26,7 +26,7 @@ Research across 6+ practitioners shows ascension probability peaks in the first 
 Hard upsell pitches are still handled by parallel recovery sequences:
 - Bump Recovery (Days 2, 4, 6) → missed bumps
 - OTO Recovery (Days 3, 5, 7) → DFY Offer Build ($197)
-- Community Recovery (Day 8) → Community ($97/mo)
+- Community Recovery (Day 8) → Community ($47/mo)
 
 Day 3 branches based on product consumption — different emails for openers vs non-openers.
 
@@ -443,7 +443,7 @@ These run alongside welcome — different sending times to avoid stacking:
 | Welcome | 1-10 | 8:00 AM | Relationship |
 | Bump Recovery | 2, 4, 6 | 2:00 PM | Re-pitch missed bumps |
 | OTO Recovery | 3, 5, 7 | 2:00 PM | Re-pitch DFY ($197) |
-| Community Recovery | 8 | 2:00 PM | Community sign-up ($97/mo) |
+| Community Recovery | 8 | 2:00 PM | Community sign-up ($47/mo) |
 
 **Max 2 emails per day.** Morning = value. Afternoon = offer.
 

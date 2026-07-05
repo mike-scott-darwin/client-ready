@@ -82,6 +82,41 @@ Key rules for this deliverable:
 - CTA should be a simple keyword reply, not a link click
 - This is for WARM audiences — people who already know them. Write accordingly.
 
+### Sales Page (Cold-Traffic Landing Page)
+This is the long-form landing page they paste into GHL to convert COLD traffic — people who found them through an ad, not a warm DM. Where the Google Offer Doc (Deliverable 3) is a conversational message for people who already know them, the Sales Page assumes zero prior trust and has to build it from scratch.
+
+Structure it as a full page, in order:
+1. **Hero** — headline (big promise), subhead (specific measurable outcome), CTA button text
+2. **Problem** — agitate the pain using Q8 (stuck point) and Q9 (client language). Name what they're living with in their own words.
+3. **Failed solutions** — what they've tried that didn't work (Q10) and why. Positions this as different before you pitch it.
+4. **Solution / mechanism** — introduce the named framework (Q4), what it is, why it works
+5. **What's included** — the stack, value-anchored
+6. **About / credibility** — their story (Q6) and differentiator (Q5), written to earn trust from a stranger
+7. **Proof** — "[Add testimonial or specific result here]" placeholder. NEVER invent proof.
+8. **FAQ** — built from Q11 objections, each one answered
+9. **Pricing** — the offer, price, guarantee
+10. **Final CTA** — restate the promise, single clear action
+
+Rules for this deliverable:
+- This is for COLD traffic — more context, more trust-building, more proof than the warm Google Offer Doc.
+- Write in scannable sections with clear subheads (unlike the Google Offer Doc's DM style).
+- Every section earns the next scroll. Lead with the reader's problem, not the coach's bio.
+- Paste-ready into GHL — clean copy, no design notes mixed in.
+
+### Email Sequence (Buyer-to-Client)
+5 emails that turn a new lead or buyer into a client. This runs after someone opts in or buys the front-end, nurturing them toward the offer. Write all 5:
+1. **Welcome** — deliver on the opt-in promise, set expectations, give a quick win
+2. **Story** — their origin story (Q6), building relatability and authority
+3. **Common mistake** — the #1 thing their audience gets wrong (from Q10 failed solutions), reframed
+4. **Social proof** — result-driven (Q3), with a placeholder for a real testimonial. NEVER invent one.
+5. **Direct pitch** — make the offer, handle the top objection (Q11), clear CTA
+
+Rules for this deliverable:
+- Each email: subject line + preview text + body.
+- Short, punchy, one idea per email. Written in THEIR voice with Michael's directness layered underneath.
+- Every email ends with a soft or hard CTA toward the offer.
+- No income claims — paint the feeling of the result.
+
 ### Ad Hooks
 Write 5 hooks across awareness levels:
 1. **Aware hook** — direct offer, for people who know them: "[Product name] — [result] in [timeframe]"
@@ -128,7 +163,7 @@ Words to AVOID: revolutionary, incredible, amazing, life-changing, secrets, hack
 
 Produce exactly six deliverables in this order. Use markdown formatting. Each deliverable should be clearly separated with a heading.
 
-NOTE: Deliverable 3 (Google Offer Doc) is the PRIMARY deliverable — the thing they'll actually use first. It should be written so they can copy it into a Google Doc and send it to their warm audience immediately to get hand-raisers. The other deliverables support it.
+NOTE: Deliverable 3 (Google Offer Doc) is the PRIMARY deliverable — the thing they'll actually use first. It should be written so they can copy it into a Google Doc and send it to their warm audience immediately to get hand-raisers. Deliverable 4 (Sales Page) is its cold-traffic counterpart for when they run ads. The other deliverables support them. Keep positioning, mechanism name, and language identical across all six.
 
 ### DELIVERABLE 1: IDEAL CLIENT PROFILE
 
@@ -199,7 +234,48 @@ IMPORTANT formatting rules:
 - This is for WARM audiences who already know them
 - The CTA is a keyword reply, not a link — they want hand-raisers, not clicks
 
-### DELIVERABLE 4: AD HOOKS (5 VARIATIONS)
+### DELIVERABLE 4: PLUG-AND-PLAY SALES PAGE
+
+Write a complete cold-traffic landing page they can paste into GHL. Assume the reader has never heard of them. Use clear section subheads (not the DM style of Deliverable 3). Structure in order:
+
+1. **HERO** — Headline (big promise, specific), Subhead (measurable outcome without the pain point), and CTA button text.
+2. **THE PROBLEM** — Agitate using Q8 (stuck point) + Q9 (client language). Name what they live with, in their words.
+3. **WHY THE USUAL FIXES FAIL** — Q10 failed solutions, and why each fell short. Position this as different before pitching.
+4. **THE SOLUTION / MECHANISM** — Introduce the named framework (Q4). What it is, why it works, the 3-4 steps.
+5. **WHAT'S INCLUDED** — The stack, value-anchored ("X ($Y value)").
+6. **WHO THIS IS FOR / NOT FOR** — Qualify and disqualify (from ICP).
+7. **ABOUT** — Their story (Q6) + differentiator (Q5), written to earn a stranger's trust.
+8. **PROOF** — "[Add testimonial or specific result here]" placeholder. NEVER invent proof.
+9. **FAQ** — Each Q11 objection as a question, answered.
+10. **PRICING + GUARANTEE** — The offer, price, and a risk-reversing guarantee.
+11. **FINAL CTA** — Restate the promise, one clear action.
+
+Formatting rules:
+- Scannable — clear subheads, short paragraphs, bullets for the stack and benefits.
+- More trust-building and proof than the warm Google Offer Doc (this is COLD traffic).
+- Paste-ready — clean copy only, no design notes.
+- Same mechanism name, positioning, and language as the other deliverables.
+
+### DELIVERABLE 5: BUYER-TO-CLIENT EMAIL MACHINE (5 EMAILS)
+
+Write a 5-email nurture sequence that moves a new lead or buyer toward the offer. For each email provide:
+- **Subject line**
+- **Preview text**
+- **Body** (short, punchy, one idea, ends with a CTA)
+
+The five emails:
+1. **Welcome** — deliver on the opt-in promise, set expectations, give a quick win.
+2. **Story** — their origin story (Q6); relatability + authority.
+3. **Common mistake** — the #1 thing their audience gets wrong (Q10), reframed.
+4. **Social proof** — result-driven (Q3), with "[Add real testimonial here]" placeholder. NEVER invent one.
+5. **Direct pitch** — make the offer, handle the top objection (Q11), clear CTA.
+
+Rules:
+- Write in THEIR voice with Michael's directness underneath.
+- No income claims — paint the feeling of the result.
+- Every email ends with a soft or hard CTA toward the offer.
+
+### DELIVERABLE 6: AD HOOKS (5 VARIATIONS)
 
 For each hook:
 - **Type:** [Aware / Solution Aware / Problem Aware / Curiosity / Contrarian]
@@ -247,6 +323,7 @@ Stages in order: (1) Welcome — deliver the quick win, (2) Story — Q6 origin,
 9. Use Q10 (failed solutions) to build the "here's why this is different" section and to position against alternatives in the offer doc.
 10. Use Q11 (objections) as the skeleton for the FAQ section and objection handling in the offer doc. Address each objection they listed.
 11. Every deliverable should be usable immediately — not a rough draft that needs heavy editing. The client should be able to copy-paste the Google offer doc and send it to their warm audience.
+12. Keep the six deliverables consistent: same offer name, same mechanism name, same positioning, same core language throughout. The Google Offer Doc (D3, warm/DM) and the Sales Page (D4, cold/landing) sell the SAME offer to different-temperature audiences — don't let them drift apart.
 ```
 
 ---
@@ -325,7 +402,7 @@ Prompt: "Share links to 2-3 posts, emails, or videos that got the best response 
 When the webhook fires, format the form answers as the user message to Claude:
 
 ```
-Build the four deliverables for this person based on their questionnaire answers.
+Build the six deliverables for this person based on their questionnaire answers.
 
 ## Their Answers
 
@@ -397,7 +474,7 @@ Build the four deliverables for this person based on their questionnaire answers
 
 ---
 
-## Review Checklist (Michael — ~15 min per deliverable set)
+## Review Checklist (Michael — spot-check, ~15 min per deliverable set)
 
 Before sending to client:
 
@@ -407,10 +484,12 @@ Before sending to client:
 - [ ] Google offer doc sounds like THEM, not like every other coach
 - [ ] **Sales page headline matches the Google offer doc headline** (ad → page → offer say the same thing)
 - [ ] **Sales page reads as paste-ready copy, not a wireframe; one CTA repeated; mobile-first**
-- [ ] **All 5 emails are in their voice, each with a distinct subject + single CTA (no generic drip)**
+- [ ] **Sales page reads for COLD traffic** — leads with their problem, builds trust, more proof than the warm doc
+- [ ] **All 5 emails are in their voice, each with a distinct subject + single CTA, escalating to the pitch (no generic drip)**
 - [ ] No invented testimonials or fake proof — only placeholders (`[Add specific result here]`)
 - [ ] No income claims or revenue promises (check the sales page + emails especially)
 - [ ] Price recommendation makes sense for their market
 - [ ] Ad hooks cover all awareness levels, not just "aware"
+- [ ] Offer name, mechanism, and positioning are consistent across all six deliverables
 - [ ] The bridge to their higher-ticket offer is clear and natural
 - [ ] Would I send this to a $5K Accelerator client? If not, what's missing?

@@ -180,7 +180,7 @@ Based on Eugene Schwartz's "Breakthrough Advertising" — the key to scaling.
 
 | Level | Definition | Creative Approach |
 |-------|------------|-------------------|
-| **Aware** | Knows you, knows your product | Direct response: "$47 — Start Now" |
+| **Aware** | Knows you, knows your product | Direct response: "$27 — Start Now" |
 | **Solution Aware** | Knows solutions exist, shopping | "Why this beats [alternative]" |
 | **Problem Aware** | Knows they have a problem | Pain points, "Are you..." |
 | **Unaware** | Doesn't know they have a problem | Education, story, belief shifts |
@@ -296,7 +296,7 @@ When entry points aren't enough, build separate landing pages for unaware traffi
 
 | Situation | Action |
 |-----------|--------|
-| One sale at expected CPA (e.g., $100 spend, $47 sale, $150 AOV) | Keep running — one data point isn't enough |
+| One sale at expected CPA (e.g., $100 spend, $27 sale, $150 AOV) | Keep running — one data point isn't enough |
 | 0.5 ROAS across 2+ sales, CPA nearly 2x target | Kill it |
 | Facebook feeding all budget to one ad, $300+ spend, zero sales | Kill it (check 3-day window) |
 | Consecutive low-AOV sales | Kill — means it's attracting cheap buyers |
@@ -508,7 +508,7 @@ They create future customers pre-sold on the mechanism before they ever see a pr
 
 ### Application
 
-Build belief-shift ads around the core thesis of each angle. For "offer clarity" positioning: ads that sell the idea that most funnels fail because the offer is unclear — without mentioning the $47 product at all.
+Build belief-shift ads around the core thesis of each angle. For "offer clarity" positioning: ads that sell the idea that most funnels fail because the offer is unclear — without mentioning the $27 product at all.
 
 ---
 
@@ -531,8 +531,8 @@ Low-ticket's advantage IS the price. Hiding it forces the prospect to click to f
 ### Implementation
 
 - Lead with price in at least 30% of ads
-- Use comparison framing: "$47 — less than one hour with a business coach"
-- State what it replaces: "$47 to find out if your offer works before you build the funnel"
+- Use comparison framing: "$27 — less than one hour with a business coach"
+- State what it replaces: "$27 to find out if your offer works before you build the funnel"
 - Price-forward headlines are a distinct test variant, not a replacement for value-led headlines
 
 ---
@@ -659,7 +659,7 @@ For Andromeda algorithm — messaging diversity matters MORE than creative diver
 | Social Proof | Authority | "114 coaches stopped feeling like frauds" |
 | Identity Callout | Who they are | "For the coach wearing someone else's positioning" |
 | Belief Shift | The mechanism | "The reason your funnel doesn't convert has nothing to do with the funnel" |
-| Price-Forward | Low risk | "$47 and one afternoon. That's the whole risk." |
+| Price-Forward | Low risk | "$27 and one afternoon. That's the whole risk." |
 
 ---
 

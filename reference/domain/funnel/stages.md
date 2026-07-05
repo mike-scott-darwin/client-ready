@@ -14,7 +14,7 @@ linked_decisions:
 ```
 AWARENESS (Content / Ads)
     |
-MICRO-COMMITMENT ($47 Front-End)
+MICRO-COMMITMENT ($27 Front-End)
     |
 ORDER BUMPS ($37 + $67 + $97)
     |
@@ -29,7 +29,7 @@ GHL TRAINING PORTAL (cross-sell locked products)
     |
 EMAIL ASCENSION (10-day welcome + daily emails)
     |
-COMMUNITY ($97/mo after trial) <-- THE ENGINE
+COMMUNITY ($47/mo after trial) <-- THE ENGINE
     |
 BACKEND: Accelerator ($5K) -- sold from community
     |
@@ -52,11 +52,11 @@ RETENTION (Results --> Referrals --> Case Studies)
 
 ---
 
-## Stage 2: Micro-Commitment — $47 Front-End
+## Stage 2: Micro-Commitment — $27 Front-End
 
 **Goal:** They make first purchase
 
-**Product:** Client Ready Offer System ($47)
+**Product:** Client Ready Offer System ($27)
 
 **Trigger:**
 - Paid ads to cold traffic
@@ -65,13 +65,13 @@ RETENTION (Results --> Referrals --> Case Studies)
 - Content about offer creation
 
 **What happens:**
-- Buy $47 Client Ready Offer System
+- Buy $27 Client Ready Offer System
 - See 3 order bump offers
 - Enter OTO sequence
 - Experience the methodology
 
 **Metrics to track:**
-- Conversion rate from ads to $47
+- Conversion rate from ads to $27
 - Front-end purchase volume
 
 ---
@@ -106,7 +106,7 @@ RETENTION (Results --> Referrals --> Case Studies)
 **What happens:**
 - Customer lands on OTO page after checkout
 - Video explains: "We'll build your offer for you"
-- Pitch: same methodology from $47 product, but we run it FOR you using AI + Michael's review
+- Pitch: same methodology from $27 product, but we run it FOR you using AI + Michael's review
 - One-click purchase (card already on file)
 - Buyer redirected to 11-question onboarding form on thank you page
 - Form submission triggers Claude API — deliverables generated in ~30 seconds
@@ -184,13 +184,13 @@ See: `reference/domain/funnel/email-rhythm.md`
 
 ---
 
-## Stage 8: Community — THE ENGINE ($97/mo)
+## Stage 8: Community — THE ENGINE ($47/mo)
 
 **Goal:** Retain, nurture, and convert to high-ticket
 
 **How they enter:**
 - 30-day free trial bundled with DFY Offer Build ($197) or DFY Lite ($97)
-- Direct sign-up via email pitch or portal ($97/mo, no trial)
+- Direct sign-up via email pitch or portal ($47/mo, no trial)
 - Accelerator graduates stay as alumni
 
 **What members get:**
@@ -205,9 +205,9 @@ See: `reference/domain/funnel/email-rhythm.md`
 - Sprint ($297) weekly calls → now community calls
 - Sprint 4-week curriculum → now community learning path
 - Blueprint community access → now everyone in community
-- OTO 3 ($47/mo downsell) → now $97/mo central engine
+- OTO 3 (was a conditional downsell) → now the $47/mo central engine (beta entry)
 
-**Pricing:** $97/mo, month-to-month, cancel anytime. No annual. No lock-in.
+**Pricing:** $47/mo, month-to-month, cancel anytime. No annual. No lock-in.
 
 **Community → Accelerator pipeline:**
 - Members watch Michael coach live for 30-90 days
@@ -271,7 +271,7 @@ See: `reference/domain/delivery/accelerator.md`
 
 | Metric | Target |
 |--------|--------|
-| Front-end price | $47 |
+| Front-end price | $27 |
 | Bump 1 rate | 25-35% |
 | Bump 2 rate | 25-35% |
 | Bump 3 rate | 20-30% |

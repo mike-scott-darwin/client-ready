@@ -11,7 +11,7 @@ Get your offer ready. Get clients.
 
 ## What This Business Does
 
-Michael Scott helps coaches validate their offers before building — scale from $47 low-ticket to $5K+ high-ticket clients using an engineering-minded, AI-assisted approach.
+Michael Scott helps coaches validate their offers before building — scale from $27 low-ticket to $5K+ high-ticket clients using an engineering-minded, AI-assisted approach.
 
 **Tagline:** "The Coach Who Won't Tell You to Quit Your 9-to-5"
 
@@ -23,20 +23,21 @@ Michael Scott helps coaches validate their offers before building — scale from
 
 | Step | Price | Product |
 |------|-------|---------|
-| Front-end | $47 | Client Ready Offer System |
+| Front-end | $27 | Client Ready Offer System |
 | Bump 1 | $37 | Quick Win DM Scripts |
 | Bump 2 | $67 | Plug & Play Templates |
 | Bump 3 | $97 | The First $5K Client Playbook |
 | Standalone | $57 | The One-Page Funnel (portal training) |
 | Standalone | $97 | Plug & Play Funnel Snapshot (portal + GHL affiliate) |
-| OTO 1 | $197 | DFY Offer Build (AI-built ICP + offer doc + copy + ad hooks + 30-day community trial) |
+| OTO 1 | $197 | DFY Offer Build (6 deliverables: dream client profile + validated offer + sales doc + sales page + 5-email sequence + 5 ad hooks + 30-day community trial) |
 | Downsell | $97 | DFY Lite (ICP + offer doc + 30-day community trial) |
 | OTO 2 | $37/mo | The Monthly Playbook (continuity; formerly "What's Working Now" Newsletter) |
-| Community | $97/mo | Client Ready Community (30-day trial via DFY, then $97/mo month-to-month) |
+| Community | $47/mo | Client Ready Community — **$47/mo beta entry** (30-day trial via DFY, then $47/mo month-to-month; $97/mo is the post-beta target) |
 | Backend | $5K+ | Client Ready Accelerator (sold from community) |
 
-**Checkout AOV target:** $90-110 | **Full funnel AOV:** ~$135 | **90-day value per buyer:** ~$260
-**Recurring:** Community ($97/mo) + Newsletter ($37/mo) + GHL affiliate (~$39/mo)
+**Checkout AOV target:** $70-90 | **Full funnel AOV:** ~$115 | **90-day value per buyer:** ~$190 (community at $47 beta; ~$240 at the $97 target)
+> **Front-end is $27** (lowered from $47 on 2026-07-04 — see [decisions/2026-07-04-front-end-27-digital-snack.md](decisions/2026-07-04-front-end-27-digital-snack.md)). At $27 the front-end is a **buyer-acquisition price, not self-liquidating** — the model recovers spend on bumps + OTOs + continuity, not the front-end alone.
+**Recurring:** Community ($47/mo) + The Monthly Playbook ($37/mo) + GHL affiliate (~$39/mo)
 **Delivery:** All low-ticket products deliver through GHL training portal. DFY via Claude API + Michael review.
 **Community = engine:** Sprint curriculum + weekly calls live in community. Accelerator spots announced there first.
 **Decision:** [decisions/2026-03-07-dfy-upsell-community-first.md](decisions/2026-03-07-dfy-upsell-community-first.md)
@@ -107,7 +108,7 @@ Direct. No-BS. Engineering mindset. Short sentences. "Wrong." "Test, validate, b
 ## Key URLs
 
 - **Skool:** https://www.skool.com/high-ticket-playbook-9467
-- **$47 Offer:** https://clientreadyoffer.com/implement
+- **$27 Offer:** https://clientreadyoffer.com/implement
 
 ---
 
@@ -121,7 +122,7 @@ Direct. No-BS. Engineering mindset. Short sentences. "Wrong." "Test, validate, b
 | DFY OTO page | ⚠️ Not yet built — need GHL page for $197 DFY Offer Build |
 | DFY Lite downsell page | ⚠️ Not yet built |
 | DFY API integration | ⚠️ Claude API + GHL webhook pipeline not yet wired |
-| Community pricing | ⚠️ Need to set $97/mo in GHL with 30-day trial logic |
+| Community pricing | ⚠️ Need to set $47/mo in GHL with 30-day trial logic |
 | Newsletter OTO page | ✅ Built — "The Monthly Playbook" $37/mo (live; fixes in oto2-monthly-playbook-ghl-swap-sheet.md) |
 | Content strategy | ✅ Defined in `reference/domain/content-strategy.md` |
 

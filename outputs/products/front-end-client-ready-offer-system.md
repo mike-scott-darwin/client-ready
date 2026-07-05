@@ -477,9 +477,9 @@ The funnel, landing page, and automation come AFTER validation — not before.
 
 **The First $5K Client Playbook ($97)** — Pricing psychology, conversation frameworks, and the Warm 50 plan to close your first high-ticket client
 
-**DFY Offer Build ($197)** — You answer 11 questions. We build all six pieces of your offer — dream client profile, validated offer, ready-to-send sales doc, sales page, 5-email sequence, and 5 ad hooks — in 48 hours. Plus a 30-day community trial.
+**DFY Offer Build ($197)** — You answer 11 questions. We build all six pieces of your offer — dream client profile, validated offer, ready-to-send sales doc, plug-and-play sales page, 5-email sequence, and 5 ad hooks — in 48 hours. Plus a 30-day community trial.
 
-**Client Ready Community ($97/mo)** — Weekly hot seat calls, sprint curriculum, DFY templates, DM access to Michael. The room where coaches build together.
+**Client Ready Community ($47/mo)** — Weekly hot seat calls, sprint curriculum, DFY templates, DM access to Michael. The room where coaches build together.
 
 **The Monthly Playbook ($37/mo)** — Monthly breakdown of one campaign that's working right now: the ads, the page, the numbers. Templates, breakdowns, and swipe files.
 

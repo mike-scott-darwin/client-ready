@@ -11,11 +11,11 @@ linked_decisions:
 
 ## Key Conversion Points
 
-### 1. $47 Offer Sales Page
+### 1. $27 Offer Sales Page
 
 **URL:** https://clientreadyoffer.com/implement
 **Purpose:** Convert cold traffic → paying customer
-**Price:** $47
+**Price:** $27
 **CTA:** Buy Now
 
 **Key elements:**
@@ -95,7 +95,7 @@ linked_decisions:
 
 **URL:** Skool — https://www.skool.com/high-ticket-playbook-9467
 **Purpose:** Retain members, nurture to high-ticket
-**Price:** $97/mo (30-day trial for DFY buyers, direct sign-up for others)
+**Price:** $47/mo (30-day trial for DFY buyers, direct sign-up for others)
 
 **Key elements:**
 - Weekly hot seat calls with Michael
@@ -135,7 +135,7 @@ linked_decisions:
 | 3 | First case study | Bump they missed |
 | 4 | Common mistake to avoid | Templates ($67) |
 | 5 | Quick tip + value | -- |
-| 6 | Client transformation | Community ($97/mo) |
+| 6 | Client transformation | Community ($47/mo) |
 | 7 | Behind-the-scenes | -- |
 | 8 | FAQ / objection handling | DFY Offer Build ($197) |
 | 9 | "What happens next" roadmap | -- |
@@ -162,7 +162,7 @@ See: `reference/domain/funnel/email-rhythm.md`
 ### Client Ready Community (Skool)
 
 **URL:** https://www.skool.com/high-ticket-playbook-9467
-**Who has access:** DFY buyers (trial), direct sign-ups ($97/mo), Accelerator clients
+**Who has access:** DFY buyers (trial), direct sign-ups ($47/mo), Accelerator clients
 
 **Engagement points:**
 - Welcome thread (intro post)
@@ -199,7 +199,7 @@ _To build:_
 - [ ] DFY onboarding form (11 questions) in GHL
 - [ ] Claude API integration (GHL webhook → Make.com/n8n → Claude → delivery)
 - [ ] Newsletter OTO page ($37/mo) in GHL
-- [ ] Community pricing set to $97/mo with 30-day trial logic in GHL
+- [ ] Community pricing set to $47/mo with 30-day trial logic in GHL
 - [ ] Accelerator spot announcement template for community
 - [ ] Updated email recovery sequences (DFY instead of Sprint/Blueprint)
 - [ ] Content calendar defined

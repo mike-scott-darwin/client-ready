@@ -31,7 +31,7 @@ At any moment, an Accelerator client should know:
 ## Who This Is For
 
 Accelerator clients have already:
-- Validated their offer (bought $47, gone through Community curriculum, or have existing traction)
+- Validated their offer (bought $27, gone through Community curriculum, or have existing traction)
 - Decided they want speed + expert guidance, not DIY
 - Committed to invest in getting it right the first time
 
@@ -384,6 +384,7 @@ Simple Notion or spreadsheet the client can access:
 |------|----------|---------|---------|
 | 2/3 | Front-end price: $47 | Higher perceived value, tested against $47 | Locked |
 | 2/5 | No Bump 3 | First $5K Client Playbook redundant for this audience | Removed |
+| 7/4 | Front-end price: $47 → **$27** | Jan26 paid data: front-end didn't self-liquidate at $47 on cold traffic; digital-snack cash-flow revival | Reverted — see decisions/2026-07-04-front-end-27-digital-snack.md |
 | ... | ... | ... | ... |
 
 ---
@@ -462,7 +463,7 @@ At $5,000, that's ~$52-78/hour effective rate. Scale by raising price or reducin
 
 ## Accelerator vs. Community vs. DFY Offer Build
 
-| Dimension | Community ($97/mo) | DFY Offer Build ($197) | DFY Lite ($97) | Accelerator ($5K) |
+| Dimension | Community ($47/mo) | DFY Offer Build ($197) | DFY Lite ($97) | Accelerator ($5K) |
 |-----------|---------------------|------------------------|----------------|-------------------|
 | Duration | Ongoing | ~1 week turnaround | ~1 week turnaround | 8 weeks |
 | Format | Group + curriculum | Done-for-you | Done-for-you (lighter) | Done-with-you |

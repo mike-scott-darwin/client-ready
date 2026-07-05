@@ -81,7 +81,7 @@ One trigger per product. Each fires on **Payment Received** (or **Order Submitte
 | 6 | DFY Purchase | Payment Received → DFY Offer Build ($197) | Add tag → `purchased-dfy` |
 | 7 | DFY Lite Purchase | Payment Received → DFY Lite ($97) | Add tag → `purchased-dfy-lite` |
 | 8 | Newsletter Purchase | Payment Received → Newsletter ($37/mo) | Add tag → `purchased-newsletter` |
-| 9 | Community Purchase | Payment Received → Community ($97/mo) | Add tag → `purchased-community` |
+| 9 | Community Purchase | Payment Received → Community ($47/mo) | Add tag → `purchased-community` |
 
 **For Trigger 1 (Lead Capture):** If "Order Form Submission Started" isn't available in your GHL version, use **"Form Submitted"** or **"Contact Created"** instead.
 
@@ -605,7 +605,7 @@ Step 3:  SEND EMAIL → CR01-community-downsell.html
 
 | Email | File | Day | Time | Subject | Pitches |
 |-------|------|-----|------|---------|---------|
-| CR01 | CR01-community-recovery.html | 8 | 2:00 PM | The part nobody warns you about | $97/mo Community |
+| CR01 | CR01-community-recovery.html | 8 | 2:00 PM | The part nobody warns you about | $47/mo Community |
 
 ### Key Settings
 - **Only 1 email** — this is the community pitch for people who said no to DFY
@@ -703,10 +703,10 @@ Tag: "unsubscribed" ≠ TRUE
 |-----|------|---------|---------------|
 | Monday | DB01-monday-frontend.html | The coach who couldn't explain what she does | $47 Front-end |
 | Tuesday | DB02-tuesday-templates.html | I stared at the blank page for 3 hours | $67 Templates |
-| Wednesday | DB03-wednesday-dfy.html | The difference between "knowing" and "doing" | $197 DFY Offer Build |
-| Thursday | DB04-thursday-community.html | The loneliest part of building | $97/mo Community |
+| Wednesday | DB03-wednesday-sprint.html | The difference between "knowing" and "doing" | $197 DFY / Sprint |
+| Thursday | DB04-thursday-newsletter.html | What's working right now (and what quietly stopped) | $37/mo Monthly Playbook (reply "PLAYBOOK") |
 | Friday | DB05-friday-backend.html | When you're ready for the next level | $5K Accelerator (reply "ACCELERATOR") |
-| Saturday | DB06-saturday-newsletter.html | What's working right now | $37/mo Newsletter |
+| Saturday | DB06-saturday-community.html | The loneliest part of building | $47/mo Community |
 | Sunday | DB07-sunday-free-value.html | The question that changes everything | No pitch |
 
 3. Schedule each to send at 8:00 AM on its corresponding day
@@ -724,7 +724,7 @@ As buyers ascend, they should stop seeing pitches for products they already own.
 |--------------|----------------|--------|
 | `purchased-bump-templates` | $67 Templates | Tuesday |
 | `purchased-dfy` | $197 DFY Offer Build | Wednesday |
-| `purchased-community` | $97/mo Community | Thursday |
+| `purchased-community` | $47/mo Community | Thursday |
 | `purchased-newsletter` | $37/mo Newsletter | Saturday |
 
 **Keep the story. Swap the CTA.** The story is the value — just change what you link to at the end.

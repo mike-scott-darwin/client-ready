@@ -49,13 +49,13 @@ The funnel isn't the point. The alignment is the point. If it hurts to show up, 
 
 ## The Value Ladder
 
-### Front-End: $47 — Client Ready Offer System
+### Front-End: $27 — Client Ready Offer System
 
 The entry point. A PDF guide + 5 AI prompts that extract your zone of genius, ideal client, pain points, story, and assemble a complete offer document.
 
 - Step-by-step guide + offer document template
 - **Promise:** Validate your $5K+ offer before you build anything — in one afternoon
-- ~~$197~~ → $47
+- ~~$197~~ → $27
 
 ### Order Bump 1: $37 — Quick Win DM Scripts
 
@@ -86,7 +86,7 @@ Michael builds your complete offer document — positioning, messaging, pricing 
 
 Streamlined version of the DFY Offer Build for buyers who decline at $197.
 
-### OTO 2: $97/mo — Client Ready Community
+### OTO 2: $47/mo — Client Ready Community
 
 Skool membership with weekly group hot seats, direct DM access to Michael, full Sprint curriculum, and resource library. Includes the complete 4-week validated-offer curriculum.
 
@@ -108,17 +108,17 @@ Done-with-you intensive. 8 weeks. 3 strategy calls, unlimited async support, com
 
 | Step | Price | Type |
 |------|-------|------|
-| Front-end | $47 | One-time |
+| Front-end | $27 | One-time |
 | Bump 1 (DM Scripts) | $37 | One-time |
 | Bump 2 (Templates) | $67 | One-time |
 | Bump 3 (Playbook) | $97 | One-time |
 | OTO 1 (DFY Offer Build) | $197 | One-time |
 | OTO 1 Downsell (DFY Lite) | $97 | One-time |
-| OTO 2 (Community) | $97/mo | Recurring |
+| OTO 2 (Community) | $47/mo | Recurring |
 | OTO 3 (Newsletter) | $37/mo | Recurring |
 | Backend (Accelerator) | $5,000 | One-time |
 
-**Max cart value:** $542 (one-time) | **Target AOV:** $90-110 | **Recurring:** Community ($97/mo) + Newsletter ($37/mo)
+**Max cart value:** $462 (one-time: $27 + $37 + $67 + $97 + $197 + first $37 newsletter) | **Target AOV:** $70-90 | **Recurring:** Community ($47/mo) + Newsletter ($37/mo)
 
 ---
 

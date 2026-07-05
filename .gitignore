@@ -23,3 +23,6 @@ journal/.obsidian/
 
 # Poster venv
 .venv-poster/
+
+# DFY buyer runs — generated deliverables contain client intake data, keep local
+outputs/dfy-runs/

@@ -1056,7 +1056,7 @@ You have the templates. Now build.
 
 **When you want support:**
 - **DFY Offer Build ($197)** — We build all six pieces of your offer for you in 48 hours (dream client profile, offer, sales doc, sales page, email sequence, ad hooks)
-- **Client Ready Community ($97/mo)** — Weekly calls, sprint curriculum, DM access to Michael
+- **Client Ready Community ($47/mo)** — Weekly calls, sprint curriculum, DM access to Michael
 
 Questions? Reply to your purchase email or find me in Skool.
 
