@@ -1,0 +1,40 @@
+{
+  "_comment": "Ad-creative prompt library for Client Ready. Keyed to reference/proof/angles/main-angles.md (active) + CLAUDE.md positioning. Each visual leaves deliberate negative space for a headline overlaid later. Edit freely — fal-image.py reads this file.",
+  "quality_suffix": "photorealistic, candid UGC style, shot on a phone, natural available light, authentic and un-staged, real texture, not glossy stock photography, high detail, subtle film grain",
+  "headline_space_suffix": "generous clean negative space in the upper third for a bold headline overlay, uncluttered composition",
+  "default_size": "1080x1350",
+  "angles": {
+    "9-to-5": {
+      "label": "Won't tell you to quit your 9-to-5",
+      "prompt": "A person in their late 30s in business-casual clothing working on a laptop at a kitchen table in the early morning before work, a commuter bag and car keys beside them, soft dawn light through the window, focused and quietly hopeful — building a side business without quitting the day job."
+    },
+    "one-afternoon": {
+      "label": "Validate your offer in one afternoon",
+      "prompt": "A relaxed solo entrepreneur at a tidy home-office desk in warm mid-afternoon light, a single sheet of paper and one open laptop in front of them, coffee half-finished, calm and satisfied posture — the feeling of finishing something important in a single afternoon. Minimal, uncluttered desk."
+    },
+    "ladder": {
+      "label": "$27 low-ticket to $5K high-ticket",
+      "prompt": "A confident coach in a comfortable home office just after closing a client on a video call, leaning back with a small genuine smile, laptop open, warm and grounded 'this is working now' energy, tasteful and understated — not flashy wealth."
+    },
+    "alignment": {
+      "label": "Build what fits who you actually are",
+      "prompt": "An authentic, at-ease coach sitting by a window with natural light, calm and genuinely themselves, no hustle or stress on their face, quiet confidence — the opposite of burnout. Warm, honest portrait with breathing room around them."
+    },
+    "ai-90": {
+      "label": "AI does 90% of the heavy lifting",
+      "prompt": "A focused solo business owner at a modern desk, hands on the keyboard of a laptop with a soft screen glow, one clean interface visible, thoughtful expression — a human clearly in control while software does the heavy lifting. Modern, efficient, warm rather than cold-tech."
+    },
+    "overwhelm": {
+      "label": "The before — content chaos / overthinking",
+      "prompt": "A tired coach at a cluttered desk late at night, surrounded by scattered sticky notes and multiple browser tabs and a notebook full of half-ideas, head resting on one hand, visibly overwhelmed and spinning their wheels — the 'stuck before it clicks' moment. Moody low light."
+    },
+    "objection-sales-calls": {
+      "label": "I stopped doing sales calls",
+      "prompt": "A relaxed coach on a couch with a laptop, phone face-down on the armrest, unbothered and calm — pointedly NOT on a stressful sales call, letting the offer sell itself. Bright, easy, casual home setting with soft daylight."
+    },
+    "ugly-notes": {
+      "label": "Plain text-space background (ugly-static / no-47-page-guide)",
+      "prompt": "A clean minimal flat background resembling an off-white notecard or plain paper with very subtle paper texture and a soft shadow, mostly empty — designed to have short blunt text placed over it. No people, no objects, no clutter. Deliberately plain and un-designed."
+    }
+  }
+}

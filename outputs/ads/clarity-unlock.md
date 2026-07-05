@@ -74,7 +74,7 @@ Too long. Too vague. Too many things. Not compelling enough for anyone to say "t
 
 This is the Confused stage. And most coaches live here for years.
 
-Nicole — a breathwork and accountability coach — was creating programs "for women." That was her positioning. Programs for women. She knew it was too broad but couldn't narrow it down. Through coaching with Michael (not the $47 product), she said: "What Michael has taught me has given me such clarity on who I am here to serve, who my ideal client is, how to actually write transformative content."
+Nicole — a breathwork and accountability coach — was creating programs "for women." That was her positioning. Programs for women. She knew it was too broad but couldn't narrow it down. Through coaching with Michael (not the $27 product), she said: "What Michael has taught me has given me such clarity on who I am here to serve, who my ideal client is, how to actually write transformative content."
 
 Wendy — a coach for artists and creative entrepreneurs — was stuck for months. Analysis paralysis. She described it as "very creative procrastination." Through coaching she got "absolute clarity on who I'm serving, exactly what it is that they need and how to deliver that for them."
 
@@ -84,7 +84,7 @@ Here's what I learned: you don't need more information. You need extraction. Som
 
 That's what the Client Ready Offer System does. Five AI prompts that extract your zone of genius — the thing you do that nobody else does — and turn it into a single, specific offer document.
 
-It's self-guided. $47. Takes an afternoon. Your results depend on your effort and your market.
+It's self-guided. $27. Takes an afternoon. Your results depend on your effort and your market.
 
 But the shift — from Confused to Clear — that's what changes everything downstream. Because once someone can explain what they do in one sentence, the content writes itself. The funnel makes sense. The ads have something real to say.
 
@@ -101,7 +101,7 @@ Link below.
 She had 10 years of expertise. Helped dozens of people.
 But when someone asked "what do you do?" — a different answer every time.
 That's the Confused stage. Most coaches live there for years.
-$47 to get Clear. One afternoon.
+$27 to get Clear. One afternoon.
 Link below.
 ```
 
@@ -130,7 +130,7 @@ When those answers got clear, everything else got easy. The content wrote itself
 
 That's the Confused → Clear shift. And the Client Ready system is how I bottled it.
 
-Five AI prompts. One afternoon. Self-guided. $47.
+Five AI prompts. One afternoon. Self-guided. $27.
 
 It won't build your funnel. It won't run your ads. But it'll give you the one thing that makes all of that actually work: a clear offer.
 
@@ -143,17 +143,17 @@ Grab it here ↓
 "What do you do?"
 Different answer every time.
 That's the problem. Not the funnel. Not the ads. Not the content.
-5 AI prompts fix the offer. $47. One afternoon.
+5 AI prompts fix the offer. $27. One afternoon.
 ```
 
 ---
 
 ## P3 — Direct Response `SOLUTION AWARE`
 
-**Hook:** This turns years of coaching expertise into one clear offer document you can test this afternoon for $47 (123 chars)
+**Hook:** This turns years of coaching expertise into one clear offer document you can test this afternoon for $27 (123 chars)
 
 ```text
-This turns years of coaching expertise into one clear offer document you can test this afternoon for $47
+This turns years of coaching expertise into one clear offer document you can test this afternoon for $27
 
 If you have real expertise but can't explain what you sell in one sentence — this is the step you're missing.
 
@@ -180,9 +180,9 @@ Results vary. This is a self-guided product — your outcomes depend on your exp
 
 Your offer does the selling. You do the coaching. It starts here.
 
-$47. No subscription. Full system.
+$27. No subscription. Full system.
 
-$47 — grab it here ↓
+$27 — grab it here ↓
 ```
 
 ### P3 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
@@ -191,7 +191,7 @@ $47 — grab it here ↓
 Real expertise. Can't explain what you sell.
 5 AI prompts extract your offer in one afternoon.
 Stop staring at blank pages. Start with clarity.
-$47. Self-guided. 150+ coaches.
+$27. Self-guided. 150+ coaches.
 Grab it here ↓
 ```
 
@@ -214,7 +214,7 @@ They just couldn't put it into words clear enough to sell.
 
 Confused → Clear. That's the shift. And it takes an afternoon, not a year.
 
-$47 self-guided extraction system. The offer is already in you.
+$27 self-guided extraction system. The offer is already in you.
 ```
 
 ### P4 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
@@ -223,7 +223,7 @@ $47 self-guided extraction system. The offer is already in you.
 The offer is already in you.
 You just can't see it yet.
 5 AI prompts extract it in one afternoon.
-$47.
+$27.
 ```
 
 ---
@@ -237,7 +237,7 @@ Robin called it demystifying and Wendy called it absolute clarity and they are d
 
 The moment the confusion lifts and you can finally see what to build.
 
-Robin is a peak performance coach. She described herself as "caught in some kind of cyclone whirlwind" — throwing content out randomly, clutching at straws, overwhelmed by information overload. Through coaching with Michael (not the $47 product), she said: "He demystified all the information that I'd been trying to get my head around for so long and he showed me really clearly how to implement the simple and effective strategies."
+Robin is a peak performance coach. She described herself as "caught in some kind of cyclone whirlwind" — throwing content out randomly, clutching at straws, overwhelmed by information overload. Through coaching with Michael (not the $27 product), she said: "He demystified all the information that I'd been trying to get my head around for so long and he showed me really clearly how to implement the simple and effective strategies."
 
 Wendy coaches artists and creative entrepreneurs. She was months on the brink of launching — full of fear and doubt, analysis paralysis, "very creative procrastination." Through coaching she got: "Absolute clarity on who I'm serving, exactly what it is that they need and how to deliver that for them." She booked her first two sales calls ever within weeks.
 
@@ -245,13 +245,13 @@ Renee — a medical coach — spent 10 years trying to define her niche. Through
 
 Three coaches. Three different niches. Same shift: Confused → Clear.
 
-Robin, Wendy, and Renee worked directly with Michael through coaching — their results came from 1-on-1 sessions. The $47 Client Ready Offer System uses the same extraction framework, delivered self-guided through AI prompts. Your results depend on your effort and your market.
+Robin, Wendy, and Renee worked directly with Michael through coaching — their results came from 1-on-1 sessions. The $27 Client Ready Offer System uses the same extraction framework, delivered self-guided through AI prompts. Your results depend on your effort and your market.
 
 But the pattern is the same. The expertise is already there. The offer is inside you. It just needs to be extracted.
 
 Stop explaining what you do. Start having people say "I need this" before you finish your sentence.
 
-$47. One afternoon. Self-guided.
+$27. One afternoon. Self-guided.
 
 Link below.
 ```
@@ -262,7 +262,7 @@ Link below.
 Renee: 10 years stuck. Clear in 90 minutes.
 Wendy: months paralyzed. First sales calls in weeks.
 Robin: information overload. Simple strategies that work.
-Coaching results — same framework, $47 self-guided.
+Coaching results — same framework, $27 self-guided.
 Grab it here ↓
 ```
 
@@ -355,7 +355,7 @@ When you answer these in order, the offer appears. Not a new offer. YOUR offer. 
 **H1 — Proof-Led:** `PROBLEM AWARE`
 6 Coaches. 6 Niches. Same Problem — They Couldn't Explain What They Sell.*
 
-*Coaching results. The $47 system uses the same extraction framework, self-guided.
+*Coaching results. The $27 system uses the same extraction framework, self-guided.
 
 **H2 — Mechanism-Led:** `SOLUTION AWARE`
 5 AI Prompts Extract the Offer That's Already Inside You — In One Afternoon
@@ -367,10 +367,10 @@ Stop Explaining. Start Having People Say "I Need This" Before You Finish Your Se
 The Offer Was Already Inside Them — They Just Couldn't See It
 
 **H5 — Benefit-Led:** `PROBLEM AWARE`
-From Confused to Clear for $47 — Know Exactly What You Sell and Who It's For
+From Confused to Clear for $27 — Know Exactly What You Sell and Who It's For
 
 **H6 — Price-Forward:** `PROBLEM AWARE`
-$47 to Extract What You Already Know Into an Offer That Sells Itself
+$27 to Extract What You Already Know Into an Offer That Sells Itself
 
 **H7 — Belief Shift:** `UNAWARE`
 Content Doesn't Create Clarity. Clarity Creates Content That Works.
@@ -432,7 +432,7 @@ Every primary has a 3-5 line compressed version. These are **first-class test ca
 ## Testimonial Disclaimers
 
 Every testimonial reference includes:
-- "worked directly with Michael through coaching (not the $47 product)"
+- "worked directly with Michael through coaching (not the $27 product)"
 - "self-guided — your results depend on your effort and your market"
 - Clear separation between coaching outcomes and product promise
 
@@ -447,10 +447,10 @@ Every testimonial reference includes:
 
 Use across ALL Clarity Unlock ads. AI-forward — leads with the mechanism.
 
-> 5 AI prompts extract your $5K offer in one afternoon. The answer was already in you — AI just translates it. $47.
+> 5 AI prompts extract your $5K offer in one afternoon. The answer was already in you — AI just translates it. $27.
 
 **Alt (outcome-forward):**
-> Your expertise is the offer. 5 AI prompts pull it out and put it on paper. One afternoon. $47. Money-back guarantee.
+> Your expertise is the offer. 5 AI prompts pull it out and put it on paper. One afternoon. $27. Money-back guarantee.
 
 Per Decision 2 ([decisions/2026-02-22-miles-stutz-mining-response.md](../../decisions/2026-02-22-miles-stutz-mining-response.md)): AI should be headline-level, not buried.
 

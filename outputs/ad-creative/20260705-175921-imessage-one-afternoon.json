@@ -1,0 +1,27 @@
+{
+  "template": "imessage",
+  "preset": "one-afternoon",
+  "size": "1080x1350",
+  "data": {
+    "contact": "Jordan",
+    "messages": [
+      {
+        "from": "them",
+        "text": "wait — you built your whole offer in ONE afternoon??"
+      },
+      {
+        "from": "me",
+        "text": "yep. one AI prompt did the heavy lifting."
+      },
+      {
+        "from": "them",
+        "text": "and it's actually good?"
+      },
+      {
+        "from": "me",
+        "text": "clear enough it sells without a call 😌"
+      }
+    ]
+  },
+  "generated_at": "20260705-175921"
+}

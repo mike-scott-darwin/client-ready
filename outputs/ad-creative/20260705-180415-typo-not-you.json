@@ -1,0 +1,10 @@
+{
+  "template": "typo",
+  "preset": "not-you",
+  "size": "1080x1350",
+  "data": {
+    "headline": "You're not stuck. *Your offer is.*",
+    "subline": "Test, validate, build."
+  },
+  "generated_at": "20260705-180415"
+}

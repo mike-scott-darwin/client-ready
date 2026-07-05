@@ -1,0 +1,13 @@
+{
+  "prompt": "A focused solo business owner at a modern desk, hands on the keyboard of a laptop with a soft screen glow, one clean interface visible, thoughtful expression \u2014 a human clearly in control while software does the heavy lifting. Modern, efficient, warm rather than cold-tech., generous clean negative space in the upper third for a bold headline overlay, uncluttered composition, photorealistic, candid UGC style, shot on a phone, natural available light, authentic and un-staged, real texture, not glossy stock photography, high detail, subtle film grain",
+  "angle": "ai-90",
+  "model": "fal-ai/flux/schnell",
+  "size": "1080x1350",
+  "num_images": 1,
+  "format": "jpeg",
+  "seed": 583052057,
+  "images": [
+    "outputs/ad-creative/20260705-174248-ai-90.jpg"
+  ],
+  "generated_at": "20260705-174248"
+}

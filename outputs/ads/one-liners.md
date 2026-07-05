@@ -19,7 +19,7 @@ Coaches and consultants validate a $5K+ offer they won't abandon — in one afte
 | **Roles/Outcomes** | Coaches, consultants, service providers; validated $5K+ offer; first high-ticket client; business around their life |
 | **Timelines** | One afternoon to validate; 114 sales in 30 days; first sale in 3 days with paid traffic; 72 hours to new customers |
 | **Niche Pains** | Posting 12 months with no sales; year 2-3 of the search; bought courses that didn't fit; 60-hour weeks; built offers that felt misaligned; white-knuckling; content merry-go-round |
-| **Value Props** | 5 AI prompts that extract zone of genius; $47 to validate; paid traffic not organic; DM scripts for warm outreach; test-validate-build approach; complete funnel templates |
+| **Value Props** | 5 AI prompts that extract zone of genius; $27 to validate; paid traffic not organic; DM scripts for warm outreach; test-validate-build approach; complete funnel templates |
 | **Failed Alternatives** | YouTube gurus; courses too advanced or generic; social media posting with no buyers; funnels that didn't convert; word-of-mouth they can't replicate |
 | **Proof Points** | 114 sales in first 30 days; 150+ verified students; 4.7/5 rating; 7+ years in the search (founder); clients generating their own sales |
 
@@ -30,7 +30,7 @@ Coaches and consultants validate a $5K+ offer they won't abandon — in one afte
 3. Course graveyard — bought 3+ courses, none fit
 4. Validation anxiety — afraid to test the offer
 5. Speed — want something working this week
-6. Low risk — $47 to test, not $2K on another course
+6. Low risk — $27 to test, not $2K on another course
 7. Misalignment fear — worried they'll build the wrong thing
 8. AI curiosity — want AI to do the heavy lifting
 9. Paid traffic escape — tired of organic, want ads
@@ -121,13 +121,13 @@ Per [research/2026-02-17-meta-ads-strategies-2026-gemini.md](../../research/2026
 
 2. Posting 3x a week for 12 months and nobody's buying. It's not the algorithm. It's the offer underneath.
 
-3. The last course you bought cost $997 and didn't fit your situation. This one costs $47 and builds YOUR offer, not someone else's template.
+3. The last course you bought cost $997 and didn't fit your situation. This one costs $27 and builds YOUR offer, not someone else's template.
 
 4. The fear isn't failure. It's putting the offer out there and hearing nothing. That silence is fixable — 150+ coaches are inside building clearer offers right now.
 
 5. Consultants with real skills but no clear way to sell them — this was built for exactly that situation.
 
-6. Another $2K course or a $47 system that builds your actual offer in one afternoon. One is a $47 test. The other is a $2K gamble.
+6. Another $2K course or a $27 system that builds your actual offer in one afternoon. One is a $27 test. The other is a $2K gamble.
 
 7. Built an offer that made money but felt wrong to deliver. Burned it down. Now I only help coaches build offers they won't abandon.
 
@@ -157,7 +157,7 @@ Per [research/2026-02-17-meta-ads-strategies-2026-gemini.md](../../research/2026
 
 20. One afternoon. One clear offer. Then you know what to sell before you build anything else. That changes everything.
 
-21. The reason a funnel doesn't convert usually has nothing to do with the funnel. The offer wasn't clear. Fix that first, for $47.
+21. The reason a funnel doesn't convert usually has nothing to do with the funnel. The offer wasn't clear. Fix that first, for $27.
 
 22. For coaches building on the side of a day job — this won't say "quit." It helps clarify the offer before the leap.
 
