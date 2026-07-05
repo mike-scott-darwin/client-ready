@@ -57,20 +57,20 @@ The entry point. A PDF guide + 5 AI prompts that extract your zone of genius, id
 - **Promise:** Validate your $5K+ offer before you build anything — in one afternoon
 - ~~$197~~ → $27
 
-### Order Bump 1: $37 — Quick Win DM Scripts
+### Order Bump 1: $37 — First-Sale DM Scripts + 48-Hour Warm-List Cash Campaign
 
 10 copy-paste DM scripts for warm outreach + a complete conversation system. Not cold DM templates — these are for people who already know you.
 
 - A-C-A Conversation Framework, objection handlers, contact tracking
 - **Promise:** First conversation in 5 minutes — don't wait to make money
 
-### Order Bump 2: $67 — Plug & Play Templates
+### Order Bump 2: $67 — Plug & Play Sales Page Kit + 1-Hour AI Fill-In System
 
 8 complete template packs so you never start from scratch. Offer document template, 3 landing page swipe files, 30-day email sequence, 50+ headlines and hooks, messaging maps, 8 promo campaign templates.
 
 - **Promise:** Don't start from scratch — plug in your offer and go
 
-### Order Bump 3: $97 — The First $5K Client Playbook
+### Order Bump 3: $97 — The $5K Client Close Scripts + 3 Real Annotated Calls
 
 Pricing psychology, conversation frameworks, the Warm 50 activation plan, objection playbook with word-for-word responses, and 3 real closing conversations fully annotated.
 
@@ -109,9 +109,9 @@ Done-with-you intensive. 8 weeks. 3 strategy calls, unlimited async support, com
 | Step | Price | Type |
 |------|-------|------|
 | Front-end | $27 | One-time |
-| Bump 1 (DM Scripts) | $37 | One-time |
-| Bump 2 (Templates) | $67 | One-time |
-| Bump 3 (Playbook) | $97 | One-time |
+| Bump 1 (First-Sale DM Scripts) | $37 | One-time |
+| Bump 2 (Sales Page Kit) | $67 | One-time |
+| Bump 3 ($5K Close Scripts) | $97 | One-time |
 | OTO 1 (DFY Offer Build) | $197 | One-time |
 | OTO 1 Downsell (DFY Lite) | $97 | One-time |
 | OTO 2 (Community) | $47/mo | Recurring |
@@ -129,7 +129,7 @@ Done-with-you intensive. 8 weeks. 3 strategy calls, unlimited async support, com
 - **Reality over Perception** — Substance before marketing.
 - **"Nobody is coming to save you"** — Action over perfection.
 - **Paid traffic over content merry-go-round** — Stop posting for 12 months hoping someone buys.
-- **Self-liquidating checkout** — Front-end + bumps + OTOs cover ad spend. Backend is pure profit.
+- **Buyer-acquisition checkout** — At $27 the front-end is a buyer-acquisition price, not self-liquidating; ad spend is recovered across bumps + OTOs + continuity, backend is profit (see decisions/2026-07-04-front-end-27-digital-snack.md).
 
 ---
 

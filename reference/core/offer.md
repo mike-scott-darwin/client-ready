@@ -102,16 +102,17 @@ graph TD
 - Step-by-step guide + offer document template
 - **Promise:** Validate your $5K+ offer before you build anything — in one afternoon
 
-**Order Bump 1: $37 — Quick Win DM Scripts**
+**Order Bump 1: $37 — First-Sale DM Scripts + 48-Hour Warm-List Cash Campaign**
 - 10 copy-paste DM scripts (Core 5 + Quick Cash 5) for warm outreach
 - Complete DM conversation system: 6-step flow, A-C-A framework, qualifying progression
 - Objection handlers for price, timing, hesitation, and fit objections
 - Contact tracking template
-- Start sales conversations today — while you build your funnel
-- **Promise:** First conversation in 5 minutes — don't wait to make money
+- **NEW:** "Who to message first" send-order + a fill-in-the-blank first-message generator built from your offer doc
+- **Promise:** Turn the offer you just built into cash from your existing contacts — in 48 hours, no ad spend
+- **Why it converts (the 44% bump):** it's the literal next action after the front-end ("send it to your warm list, get sales"). Cheapest, most immediate, highest attach.
 - ~~$197~~ → $37
 
-**Order Bump 2: $67 — Plug & Play Templates**
+**Order Bump 2: $67 — Plug & Play Sales Page Kit + 1-Hour AI Fill-In System**
 - Complete offer document template (with filled example)
 - 3 landing page swipe files (short-form, long-form, VSL page)
 - 30-day evergreen email sequence (pre-written, week by week)
@@ -119,17 +120,18 @@ graph TD
 - Awareness level messaging map (4 buyer awareness levels)
 - 50+ copy-paste headlines and hooks
 - 8 promo and quick cash campaign templates (flash sales, referral drives, founding member pricing, cash injection campaigns)
-- **Promise:** Don't start from scratch — plug in your offer and go
+- **NEW:** AI prompts that auto-fill the templates *from the offer doc they just built* (mirrors the front-end AI-prompt mechanism)
+- **Promise:** A sales page for your offer, live in an afternoon — without writing it from scratch
 - ~~$297~~ → $67
 
-**Order Bump 3: $97 — The First $5K Client Playbook**
+**Order Bump 3: $97 — The $5K Client Close Scripts + 3 Real Annotated Calls**
+- **Lead with these:** 3 real closing conversations, fully annotated (highest perceived value — this is the proof)
+- Objection playbook with 5 word-for-word scenario responses
+- 5 conversation frameworks for closing without being pushy
 - Pricing psychology behind 5K+ offers (why charging more is easier than charging less)
 - 3-question Pricing Confidence Framework
-- 5 conversation frameworks for closing without being pushy
 - The Warm 50 activation plan (5 categories, 4-week activation sequence)
-- Objection playbook with 5 word-for-word scenario responses
-- 3 real closing conversations, fully annotated
-- **Promise:** Close your first high-ticket client — without feeling like a salesperson
+- **Promise:** Word-for-word close your first high-ticket client — without feeling like a salesperson
 - ~~$497~~ → $97
 
 **Standalone Training: $57 — The One-Page Funnel**
