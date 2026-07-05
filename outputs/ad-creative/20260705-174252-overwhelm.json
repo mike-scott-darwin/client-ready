@@ -1,0 +1,13 @@
+{
+  "prompt": "A tired coach at a cluttered desk late at night, surrounded by scattered sticky notes and multiple browser tabs and a notebook full of half-ideas, head resting on one hand, visibly overwhelmed and spinning their wheels \u2014 the 'stuck before it clicks' moment. Moody low light., generous clean negative space in the upper third for a bold headline overlay, uncluttered composition, photorealistic, candid UGC style, shot on a phone, natural available light, authentic and un-staged, real texture, not glossy stock photography, high detail, subtle film grain",
+  "angle": "overwhelm",
+  "model": "fal-ai/flux/schnell",
+  "size": "1080x1350",
+  "num_images": 1,
+  "format": "jpeg",
+  "seed": 1520459033,
+  "images": [
+    "outputs/ad-creative/20260705-174252-overwhelm.jpg"
+  ],
+  "generated_at": "20260705-174252"
+}

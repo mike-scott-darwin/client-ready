@@ -1,3 +1,5 @@
+> ⛔ **SUPERSEDED — see [AD-LAUNCH.md](AD-LAUNCH.md) (single source of truth).** Kept for history only; do not use as current guidance.
+
 ---
 type: output
 subtype: creative-guide

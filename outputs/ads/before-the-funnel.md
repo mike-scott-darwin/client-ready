@@ -99,21 +99,21 @@ I know this because I lived it. Six months building a course nobody bought. The 
 
 Here's what changed everything: I stopped building infrastructure and started testing the offer.
 
-Renee is a medical coach who spent 10 years trying to define her niche market. Ten years. She couldn't build products, couldn't write marketing, couldn't move forward — because the foundation didn't exist. She worked directly with Michael through coaching (not the $47 product), and in one session that clarity locked in. She said: "I have struggled with this for 10 years and Michael helped me with that in an hour and a half session."
+Renee is a medical coach who spent 10 years trying to define her niche market. Ten years. She couldn't build products, couldn't write marketing, couldn't move forward — because the foundation didn't exist. She worked directly with Michael through coaching (not the $27 product), and in one session that clarity locked in. She said: "I have struggled with this for 10 years and Michael helped me with that in an hour and a half session."
 
 That's the "Before the Funnel" problem. You can't build on a foundation that doesn't exist.
 
-The Client Ready Offer System is the $47 starting point. Five AI prompts that extract what you actually do well and turn it into an offer document you can test — before spending anything on funnels, ads, or infrastructure.
+The Client Ready Offer System is the $27 starting point. Five AI prompts that extract what you actually do well and turn it into an offer document you can test — before spending anything on funnels, ads, or infrastructure.
 
 This is self-guided. Results depend on your effort, your market, and your expertise. But the framework is the same one that helped coaches go from confused to clear.
 
-Most coaches are stuck at Stage 1: Confused. They have the expertise but no clear offer. The $47 system moves you to Stage 2: Clear. You know exactly what you sell and who it's for.
+Most coaches are stuck at Stage 1: Confused. They have the expertise but no clear offer. The $27 system moves you to Stage 2: Clear. You know exactly what you sell and who it's for.
 
 What you build after that — the funnel, the ads, the content — works because the foundation is right.
 
 Fair warning — there's a community behind this. No pressure to join. But I wanted to be upfront about it because I hate when people pretend there's no backend.
 
-$47. One afternoon. Know if your offer works before you build anything.
+$27. One afternoon. Know if your offer works before you build anything.
 
 Link below.
 ```
@@ -124,7 +124,7 @@ Link below.
 Beautiful funnel. Landing page. Email sequences. The works.
 Zero sales.
 The funnel wasn't the problem. The offer was.
-$47 to fix the offer before you build anything.
+$27 to fix the offer before you build anything.
 Grab it here ↓
 ```
 
@@ -155,7 +155,7 @@ Here's the arc I had to learn the hard way: Confused → Clear → Converting. Y
 
 That's what the Client Ready system does. Five AI prompts that extract your zone of genius and turn it into one specific offer — so clear that people can make an immediate yes or no decision.
 
-It's self-guided. $47. Takes an afternoon. No funnel required — just the offer.
+It's self-guided. $27. Takes an afternoon. No funnel required — just the offer.
 
 Because here's the thing nobody told me: the funnel was never the problem. The offer was.
 
@@ -169,17 +169,17 @@ I spent 6 months building a course nobody bought.
 Changed the headline. Rewrote the landing page. Tried new ads.
 Still nothing.
 The funnel was fine. The offer was the problem.
-$47 to fix the offer before you build anything.
+$27 to fix the offer before you build anything.
 ```
 
 ---
 
 ## P3 — Direct Response `SOLUTION AWARE`
 
-**Hook:** This eliminates vague offers, unclear positioning, and months of guessing whether anyone will pay — for $47 (116 chars)
+**Hook:** This eliminates vague offers, unclear positioning, and months of guessing whether anyone will pay — for $27 (116 chars)
 
 ```text
-This eliminates vague offers, unclear positioning, and months of guessing whether anyone will pay — for $47
+This eliminates vague offers, unclear positioning, and months of guessing whether anyone will pay — for $27
 
 If you're comparing options for getting your coaching offer clear, here's what the Client Ready Offer System does differently:
 
@@ -203,13 +203,13 @@ The promise: go from Confused to Clear in one afternoon. Know exactly what you s
 
 Self-guided. Results depend on your effort and your market.
 
-$47. No subscription. No upsell required to get value.
+$27. No subscription. No upsell required to get value.
 
 150+ coaches have used this system. 4.7/5 rating.
 
 If you're past the "should I do this?" stage and comparing what to use — this is the offer extraction step that comes before everything else.
 
-$47 — grab it here ↓
+$27 — grab it here ↓
 ```
 
 ### P3 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
@@ -217,7 +217,7 @@ $47 — grab it here ↓
 ```text
 Vague offer? Different answer every time someone asks what you sell?
 5 AI prompts extract what you actually do well into one clear offer.
-One afternoon. $47. No funnel required.
+One afternoon. $27. No funnel required.
 150+ coaches. 4.7/5 rating.
 Grab it here ↓
 ```
@@ -237,7 +237,7 @@ Wrong order.
 
 Confused → Clear → Converting. You can't skip to step 3.
 
-$47 gets you from Confused to Clear in one afternoon.
+$27 gets you from Confused to Clear in one afternoon.
 ```
 
 ### P4 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
@@ -246,7 +246,7 @@ $47 gets you from Confused to Clear in one afternoon.
 Beautiful funnel. Zero sales.
 The funnel wasn't the problem.
 The offer was.
-$47 to fix the order.
+$27 to fix the order.
 ```
 
 ---
@@ -272,7 +272,7 @@ Wendy was months on the brink of launching — couldn't articulate who she serve
 
 Six coaches. Six different niches. Same problem: they were stuck at Confused.
 
-All six worked directly with Michael through coaching (not the $47 product). Here's what they said:
+All six worked directly with Michael through coaching (not the $27 product). Here's what they said:
 
 Renee: "I have struggled with this for 10 years and Michael helped me with that in an hour and a half session."
 
@@ -282,11 +282,11 @@ Robin: "He demystified all the information... showed me really clearly how to im
 
 The transformation was the same every time: Confused → Clear.
 
-These results came from 1-on-1 coaching. The $47 Client Ready Offer System uses the same extraction framework — self-guided, powered by AI prompts instead of live sessions. Your results depend on your effort and your market.
+These results came from 1-on-1 coaching. The $27 Client Ready Offer System uses the same extraction framework — self-guided, powered by AI prompts instead of live sessions. Your results depend on your effort and your market.
 
 But the first step is the same: get clear on what you sell before you build anything around it.
 
-$47. One afternoon. The step that comes before the funnel.
+$27. One afternoon. The step that comes before the funnel.
 
 Link below.
 ```
@@ -297,7 +297,7 @@ Link below.
 6 coaches. 6 niches. Same problem.
 It was never the funnel. Never the content. Never the ads.
 The offer was unclear.
-Coaching results — same framework, $47 self-guided.
+Coaching results — same framework, $27 self-guided.
 Link below.
 ```
 
@@ -384,7 +384,7 @@ Most coaches have never been asked these questions in this order. When they are,
 **H1 — Proof-Led:** `PROBLEM AWARE`
 10 Years Stuck on Her Niche — Clear in 90 Minutes*
 
-*Coaching result. The $47 system uses the same extraction framework, self-guided.
+*Coaching result. The $27 system uses the same extraction framework, self-guided.
 
 **H2 — Mechanism-Led:** `SOLUTION AWARE`
 Build Your $5K Offer in One Afternoon — Before You Spend a Dollar on Funnels
@@ -396,10 +396,10 @@ Stop Guessing. Know Exactly What You Sell Before You Spend a Dollar on Funnels.
 The Step Every Funnel Guru Skips (And Why Your Ads Aren't Converting)
 
 **H5 — Benefit-Led:** `PROBLEM AWARE`
-Go From Confused to Clear for $47 — Before You Build Anything
+Go From Confused to Clear for $27 — Before You Build Anything
 
 **H6 — Price-Forward:** `PROBLEM AWARE`
-$47 and One Afternoon. That's the Whole Risk. Get the Offer Right First.
+$27 and One Afternoon. That's the Whole Risk. Get the Offer Right First.
 
 **H7 — Belief Shift:** `UNAWARE`
 Your Marketing Isn't Broken. The Thing You're Marketing Is Unclear.
@@ -477,7 +477,7 @@ Every primary has a 3-5 line compressed version. These are **first-class test ca
 ## Testimonial Disclaimers
 
 Every testimonial reference includes:
-- "worked directly with Michael through coaching (not the $47 product)"
+- "worked directly with Michael through coaching (not the $27 product)"
 - "self-guided — your results depend on your effort and your market"
 - Clear separation between coaching outcomes and product promise
 
@@ -492,10 +492,10 @@ Every testimonial reference includes:
 
 Use across ALL Before the Funnel ads. Outcome-forward — lead with what it does, not how it works.
 
-> Build a clear, testable $5K offer in one afternoon. Self-guided system. $47 — before you build anything.
+> Build a clear, testable $5K offer in one afternoon. Self-guided system. $27 — before you build anything.
 
 **Alt (price-forward):**
-> $47 and one afternoon. Turn your expertise into a clear, testable offer — before you spend a dollar on funnels. Money-back guarantee.
+> $27 and one afternoon. Turn your expertise into a clear, testable offer — before you spend a dollar on funnels. Money-back guarantee.
 
 AI is the mechanism, not the lead. Outcome first — AI appears in the copy and creative once they're already hooked.
 

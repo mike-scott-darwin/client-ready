@@ -1,0 +1,13 @@
+{
+  "prompt": "A person in their late 30s in business-casual clothing working on a laptop at a kitchen table in the early morning before work, a commuter bag and car keys beside them, soft dawn light through the window, focused and quietly hopeful \u2014 building a side business without quitting the day job., generous clean negative space in the upper third for a bold headline overlay, uncluttered composition, photorealistic, candid UGC style, shot on a phone, natural available light, authentic and un-staged, real texture, not glossy stock photography, high detail, subtle film grain",
+  "angle": "9-to-5",
+  "model": "fal-ai/flux/schnell",
+  "size": "1080x1350",
+  "num_images": 1,
+  "format": "jpeg",
+  "seed": 24332621,
+  "images": [
+    "outputs/ad-creative/20260705-174232-9-to-5.jpg"
+  ],
+  "generated_at": "20260705-174232"
+}

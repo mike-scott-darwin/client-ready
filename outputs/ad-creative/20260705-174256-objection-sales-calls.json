@@ -1,0 +1,13 @@
+{
+  "prompt": "A relaxed coach on a couch with a laptop, phone face-down on the armrest, unbothered and calm \u2014 pointedly NOT on a stressful sales call, letting the offer sell itself. Bright, easy, casual home setting with soft daylight., generous clean negative space in the upper third for a bold headline overlay, uncluttered composition, photorealistic, candid UGC style, shot on a phone, natural available light, authentic and un-staged, real texture, not glossy stock photography, high detail, subtle film grain",
+  "angle": "objection-sales-calls",
+  "model": "fal-ai/flux/schnell",
+  "size": "1080x1350",
+  "num_images": 1,
+  "format": "jpeg",
+  "seed": 486802476,
+  "images": [
+    "outputs/ad-creative/20260705-174256-objection-sales-calls.jpg"
+  ],
+  "generated_at": "20260705-174256"
+}

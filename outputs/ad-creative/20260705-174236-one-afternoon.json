@@ -1,0 +1,13 @@
+{
+  "prompt": "A relaxed solo entrepreneur at a tidy home-office desk in warm mid-afternoon light, a single sheet of paper and one open laptop in front of them, coffee half-finished, calm and satisfied posture \u2014 the feeling of finishing something important in a single afternoon. Minimal, uncluttered desk., generous clean negative space in the upper third for a bold headline overlay, uncluttered composition, photorealistic, candid UGC style, shot on a phone, natural available light, authentic and un-staged, real texture, not glossy stock photography, high detail, subtle film grain",
+  "angle": "one-afternoon",
+  "model": "fal-ai/flux/schnell",
+  "size": "1080x1350",
+  "num_images": 1,
+  "format": "jpeg",
+  "seed": 720120798,
+  "images": [
+    "outputs/ad-creative/20260705-174236-one-afternoon.jpg"
+  ],
+  "generated_at": "20260705-174236"
+}

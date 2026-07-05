@@ -1,50 +1,33 @@
-# Ad Copy & Creative — Master Index
+# Ads — Index
 
-Single source of truth for all ad copy, creative briefs, and one-liners.
+## 👉 Canonical: [AD-LAUNCH.md](AD-LAUNCH.md)
 
----
-
-## Ad Copy by Angle
-
-| File | Angle | Primaries | Status |
-|------|-------|-----------|--------|
-| [before-the-funnel.md](before-the-funnel.md) | Before the Funnel | P1-P7 + short-forms + headlines + USVs | Draft — review required |
-| [clarity-unlock.md](clarity-unlock.md) | Clarity Unlock | P1-P7 + short-forms + headlines + USVs | Draft — review required |
-| [content-merry-go-round.md](content-merry-go-round.md) | Content Merry-Go-Round | P1-P6 + short-forms + headlines + USVs | Draft — review required |
-| [one-liners.md](one-liners.md) | All angles | 33 one-liners for static/ugly-static ads | Reviewed |
-
-## Creative Production
-
-| File | Contents |
-|------|----------|
-| [creative-guide.md](creative-guide.md) | All image prompts, Canva directions, UGC shot list, ugly static guide, silent review guide, format rankings |
-
-## Generated Images
-
-| Folder | Contents |
-|--------|----------|
-| [images/](images/) | Ideogram-generated images from batch 003/004 prompts |
+**[AD-LAUNCH.md](AD-LAUNCH.md) is the single source of truth for the ad launch** — offer, creative engines, launch plan, and compliance. Start there. This file is just the copy-library index.
 
 ---
 
-## Blocked Items
+## Copy library (by angle)
 
-- **Social proof claims ("150+ coaches", "4.7/5 rating")** — UNVERIFIED. Do not run P3 ads until verified against Stripe/GHL. Appears in BtF P3, CU P3, CMR P3.
-- **Testimonial-product mismatch** — All testimonials are from coaching (not the $47 product). Disclaimers are in copy but review for compliance before launch.
+| File | Angle | Status |
+|------|-------|--------|
+| [before-the-funnel.md](before-the-funnel.md) | Before the Funnel | Draft — review |
+| [clarity-unlock.md](clarity-unlock.md) | Clarity Unlock | Draft — review |
+| [content-merry-go-round.md](content-merry-go-round.md) | Content Merry-Go-Round | Draft — review |
+| [misalignment.md](misalignment.md) | Misalignment / Alignment Engineer | Draft — review |
+| [one-liners.md](one-liners.md) | All angles — 33 one-liners → `typo` cards | Reviewed |
 
-## Creative Format Priority (2026)
+## Creative production
 
-1. Ugly static (Notes app screenshots, tweet format) — 15 min to produce
-2. Silent Review (screen recording + face cam) — 1-2 hours
-3. B-roll with text overlay — 1-2 hours
-4. Polished static (Ideogram/Canva from creative guide) — done
-5. Founder face-to-camera — 30 min
-6. UGC real photos — 1 hour
+- **Engines & commands:** [AD-LAUNCH.md § 2](AD-LAUNCH.md) — HTML→PNG templates (`scripts/ad-templates/`) + fal.ai (`scripts/fal-image.py`)
+- **Rendered creative + swipe file:** [`outputs/ad-creative/`](../ad-creative/)
+- **Winning-format teardown:** `research/2026-07-05-miles-creative-oldest-winners.md`
 
-See `creative-guide.md` for full production instructions per format.
+## Superseded (kept for history, do not use as guidance)
 
----
+- `launch-strategy.md` — Phase 2 scaling detail only; Phase 1 lives in AD-LAUNCH.md
+- `creative-guide.md` — pre-2026 creative approach; replaced by the two engines
+- `_archived/` — original batch files
 
-## Archive
+## ⚠️ Compliance blocks
 
-Original batch files preserved in `_archived/` for history. All content has been consolidated into the files above.
+Unverified proof ("150+ coaches", "4.7/5", "114 sales") must NOT run until verified against Stripe/GHL. See [AD-LAUNCH.md § 5](AD-LAUNCH.md).

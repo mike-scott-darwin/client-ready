@@ -1,0 +1,17 @@
+{
+  "template": "tabloid",
+  "preset": "one-afternoon",
+  "size": "1080x1350",
+  "data": {
+    "banner": "BREAKING",
+    "headline": "COACHES ARE VALIDATING OFFERS IN ONE AFTERNOON",
+    "bullets": [
+      "No sales calls.",
+      "No content treadmill.",
+      "No $2K course."
+    ],
+    "sub": "The AI does the heavy lifting. You make the decisions.",
+    "cta": "See how it works →"
+  },
+  "generated_at": "20260705-181733"
+}

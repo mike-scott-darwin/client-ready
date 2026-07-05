@@ -101,7 +101,7 @@ That's the diagnostic journey most coaches go through alone. System → self →
 
 The difference matters. An offer built from market research might make money. An offer built from your zone of genius makes money AND sustains you.
 
-The Client Ready Offer System is $47. Self-guided. Five AI prompts that extract the aligned offer — the one built around who you actually are, not who you think you should be.
+The Client Ready Offer System is $27. Self-guided. Five AI prompts that extract the aligned offer — the one built around who you actually are, not who you think you should be.
 
 Your results depend on your effort and your market. But the starting point is the same: get the alignment right before you build anything around it.
 
@@ -109,7 +109,7 @@ Because you can't grow into pain. If it hurts to show up, you'll eventually burn
 
 Fair warning — there's a community behind this. No pressure to join. But I wanted to be upfront about it because I hate when people pretend there's no backend.
 
-$47. One afternoon. Build something you won't abandon.
+$27. One afternoon. Build something you won't abandon.
 
 Link below.
 ```
@@ -120,7 +120,7 @@ Link below.
 Built it. Got clients. Dreaded every Monday.
 Wasn't burnout. It was misalignment.
 The offer didn't fit who I actually am.
-$47 to extract the one that does.
+$27 to extract the one that does.
 Link below.
 ```
 
@@ -153,7 +153,7 @@ Different question. Different offer. Different result.
 
 The Client Ready system asks that question first. Five AI prompts that extract the aligned offer — not the trendy one, not the guru-approved one, but yours.
 
-Self-guided. $47. One afternoon.
+Self-guided. $27. One afternoon.
 
 Because building fast isn't the goal. Building right is.
 
@@ -167,17 +167,17 @@ Built an offer. Got clients. Hated every Monday.
 Wasn't the market. Wasn't the strategy.
 The offer didn't fit who I am.
 Different question: "What won't I abandon?"
-$47. One afternoon.
+$27. One afternoon.
 ```
 
 ---
 
 ## P3 — Direct Response `SOLUTION AWARE`
 
-**Hook:** This builds the offer you won't abandon — not the trending one, not the guru-approved template — yours, for $47 (115 chars)
+**Hook:** This builds the offer you won't abandon — not the trending one, not the guru-approved template — yours, for $27 (115 chars)
 
 ```text
-This builds the offer you won't abandon — not the trending one, not the guru-approved template — yours, for $47
+This builds the offer you won't abandon — not the trending one, not the guru-approved template — yours, for $27
 
 If you've tried building a coaching offer and something felt off — this is the step you're missing.
 
@@ -201,9 +201,9 @@ The promise: go from Confused to Clear AND Aligned in one afternoon. Know not ju
 
 Self-guided. Results depend on your effort and your market.
 
-$47. No subscription. No guru-approved template.
+$27. No subscription. No guru-approved template.
 
-$47 — grab it here ↓
+$27 — grab it here ↓
 ```
 
 ### P3 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
@@ -212,7 +212,7 @@ $47 — grab it here ↓
 Something feels off about your offer but you can't name it.
 5 AI prompts extract the aligned version — the one that fits YOU.
 Stop building things you'll abandon. Start with the right foundation.
-$47. One afternoon.
+$27. One afternoon.
 ```
 
 ---
@@ -232,7 +232,7 @@ Wrong foundation.
 
 The offer should fit YOU — not just the market. Aligned → Clear → Converting.
 
-$47 to extract the offer you won't abandon. One afternoon.
+$27 to extract the offer you won't abandon. One afternoon.
 ```
 
 ### P4 Short-Form (Compressed) `IMAGE + COMPRESSED COPY — first-class test candidate`
@@ -241,7 +241,7 @@ $47 to extract the offer you won't abandon. One afternoon.
 Safe niche. Proven funnel. Guru-approved template.
 Same comfort zone, different address.
 Wrong foundation.
-$47 to find the right one.
+$27 to find the right one.
 ```
 
 ---
@@ -269,11 +269,11 @@ That's not burnout. That's building the wrong thing.
 
 The Client Ready system starts with a different question. Not "what's profitable?" — but "what do you actually do well that you won't abandon?"
 
-Mark and Tom are real people describing the problem from their own journeys. The $47 system uses the same alignment-first philosophy — self-guided, powered by AI prompts that extract YOUR offer, not someone else's template. Your results depend on your effort and your market.
+Mark and Tom are real people describing the problem from their own journeys. The $27 system uses the same alignment-first philosophy — self-guided, powered by AI prompts that extract YOUR offer, not someone else's template. Your results depend on your effort and your market.
 
 But the first step is the same: get the alignment right. Everything else follows.
 
-$47. One afternoon. The offer you won't burn down.
+$27. One afternoon. The offer you won't burn down.
 
 Link below.
 ```
@@ -283,7 +283,7 @@ Link below.
 ```text
 Mark: "I thought it was my system. Then I thought I was burned out. It was alignment."
 Same diagnostic journey every time. System → self → alignment.
-The $47 system starts at the real problem. One afternoon.
+The $27 system starts at the real problem. One afternoon.
 Link below.
 ```
 
@@ -366,7 +366,7 @@ That clarity changes what you build. And what you build determines whether you s
 **H1 — Proof-Led:** `PROBLEM AWARE`
 He Blamed His System. Then Himself. The Real Problem Was Alignment.*
 
-*Real community voice. The $47 system uses an alignment-first extraction framework.
+*Real community voice. The $27 system uses an alignment-first extraction framework.
 
 **H2 — Mechanism-Led:** `SOLUTION AWARE`
 5 AI Prompts Extract the Offer You Won't Abandon — Not the Trending One
@@ -378,10 +378,10 @@ Stop Building Things You'll Burn Down. Know the Offer Fits Before You Build.
 The Reason It Feels Wrong Has Nothing to Do With Your Marketing
 
 **H5 — Benefit-Led:** `PROBLEM AWARE`
-From Misaligned to Clear for $47 — Build Something You Can Actually Sustain
+From Misaligned to Clear for $27 — Build Something You Can Actually Sustain
 
 **H6 — Price-Forward:** `PROBLEM AWARE`
-$47 and One Afternoon. Extract the Aligned Offer Before You Build the Wrong Thing.
+$27 and One Afternoon. Extract the Aligned Offer Before You Build the Wrong Thing.
 
 **H7 — Belief Shift:** `UNAWARE`
 Most Coaches Don't Burn Out. They Rust Out. And Nobody Talks About It.
@@ -472,7 +472,7 @@ Every primary has a 3-5 line compressed version. These are **first-class test ca
 
 Voice of Customer quotes include:
 - Clear framing that Mark and Tom are community voices, not product users
-- No implied endorsement of the $47 product
+- No implied endorsement of the $27 product
 - Product positioned separately with standard disclaimer: "self-guided — your results depend on your effort and your market"
 
 ## Social Proof Claims — SAME NOTE AS OTHER ANGLES
@@ -486,10 +486,10 @@ If "150+ coaches" or "4.7/5 rating" are added to this angle's P3:
 
 Use across ALL Misalignment ads. Alignment-forward.
 
-> Build the offer you won't abandon. 5 AI prompts extract what you actually do well — not what's trending. $47. One afternoon.
+> Build the offer you won't abandon. 5 AI prompts extract what you actually do well — not what's trending. $27. One afternoon.
 
 **Alt (belief-forward):**
-> You can't grow into pain. 5 AI prompts find the aligned offer — the one that fits who you are. $47. Money-back guarantee.
+> You can't grow into pain. 5 AI prompts find the aligned offer — the one that fits who you are. $27. Money-back guarantee.
 
 ## Mix-and-Match Guide
 
