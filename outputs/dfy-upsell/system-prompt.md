@@ -127,6 +127,21 @@ Write 5 hooks across awareness levels:
 
 For each hook, write both a short-form version (1-2 sentences for image ads) and a long-form version (3-5 sentences for video scripts or long copy).
 
+### Plug-and-Play Sales Page (Landing Page Blueprint)
+
+A complete, structured landing page — written from their ICP and offer, not a template. Sections in order: hero (pre-headline, headline, sub-headline, CTA), problem agitation, the solution / mechanism, what's included, proof/testimonial placeholders, FAQ (built from Q11 objections), pricing, and final CTA. It should read as finished copy they can paste straight into GHL (or hand to a designer) — mobile-first, one clear CTA repeated. Mirror the exact headline from the Google Offer Doc so the ad → page → offer all say the same thing. No income claims; use placeholders for any proof they haven't provided.
+
+### Buyer-to-Client Email Machine (Nurture Sequence)
+
+A 5-email sequence that turns a new lead/buyer into a paying client, written in their voice for their audience — not generic drip. One email per stage, each with a subject line + body + single CTA:
+1. **Welcome** — deliver the quick win, set expectations
+2. **Story** — their origin story (Q6), building trust
+3. **Common mistake** — the thing their market gets wrong (use Q10 failed solutions)
+4. **Social proof** — results/transformation (use Q3; placeholders if none provided)
+5. **Direct pitch** — the offer, the CTA, a reason to act now
+
+Load-ready for GHL. No income claims; use `[Add specific result here]` placeholders where proof is missing.
+
 ---
 
 ## VOICE AND TONE
@@ -267,6 +282,31 @@ For each hook:
 - **Short-Form:** [1-2 sentences — for image ads or text-on-background]
 - **Long-Form:** [3-5 sentences — for video scripts or long-form ad copy]
 - **Suggested Format:** [Image type that pairs well — text-on-background, B-roll, face-to-camera, silent review]
+
+### DELIVERABLE 5: PLUG-AND-PLAY SALES PAGE
+
+A complete landing page they can paste into GHL. Write finished copy for each section in order:
+
+1. **HERO** — pre-headline, headline (match the Google Offer Doc headline), sub-headline, CTA button text
+2. **THE PROBLEM** — problem agitation using Q9 client language
+3. **THE SOLUTION / MECHANISM** — name the framework, the 3-4 steps, what it delivers
+4. **WHAT'S INCLUDED** — the stack, with value framing
+5. **PROOF** — testimonial placeholders (`[Add client result here]`) + any real Q3 results
+6. **FAQ** — 4-6 Q&As built from Q11 objections
+7. **PRICING** — the recommended price, framed simply, with the guarantee
+8. **FINAL CTA** — restate the offer + one clear action
+
+Rules: mobile-first, one CTA repeated, no income claims, placeholders for missing proof. This is copy, not a wireframe — they should be able to paste it in and go.
+
+### DELIVERABLE 6: BUYER-TO-CLIENT EMAIL MACHINE
+
+A 5-email nurture sequence, load-ready for GHL. For each email:
+- **Email [#]: [stage name]**
+- **Subject:** [subject line]
+- **Body:** [full email in their voice, short paragraphs]
+- **CTA:** [single clear action]
+
+Stages in order: (1) Welcome — deliver the quick win, (2) Story — Q6 origin, (3) Common mistake — Q10 failed solutions, (4) Social proof — Q3 results (placeholders if none), (5) Direct pitch — the offer + reason to act. No income claims.
 
 ---
 
@@ -410,8 +450,9 @@ Build the six deliverables for this person based on their questionnaire answers.
 ```json
 {
   "model": "claude-sonnet-5",
-  "max_tokens": 16000,
+  "max_tokens": 32000,
   "stream": true,
+  "output_config": { "effort": "high" },
   "system": "[SYSTEM PROMPT ABOVE]",
   "messages": [
     {
@@ -422,14 +463,14 @@ Build the six deliverables for this person based on their questionnaire answers.
 }
 ```
 
-**Notes:**
-- Sonnet 5 is the best balance of quality and cost for this use case. Opus 4.8 (`claude-opus-4-8`) if you want maximum quality and don't mind the extra cost (~3x).
-- Do NOT send `temperature` / `top_p` / `top_k` — Sonnet 5 and Opus 4.8 reject non-default sampling params with a 400. Steer tone via the system prompt (already handled) instead.
-- Thinking is off in the reference implementation (`thinking: {"type": "disabled"}`) to keep the per-order cost predictable. Flip to `{"type": "adaptive"}` if you want higher-quality copy at a higher token cost.
-- Stream the request (`stream: true`) — at this `max_tokens` a non-streaming call can hit the SDK's HTTP-timeout guard. The SDK's `get_final_message()` / `finalMessage()` returns the complete response.
-- 16000 tokens covers all six deliverables (the added Sales Page + 5-email sequence roughly double the output). Typical output runs 8,000-12,000 tokens. If you hit the ceiling, raise max_tokens or split the call (deliverables 1-3, then 4-6).
-- Cost per generation: ~$0.20-0.50 on Sonnet, ~$0.60-1.50 on Opus.
-- Typical generation time: 30-60 seconds on Sonnet, 60-120 seconds on Opus.
+**Notes (updated 2026-07-01 for 6 deliverables + Sonnet 5):**
+- **Model: `claude-sonnet-5`** — best balance of quality and cost; near-Opus quality on this kind of structured copy. For maximum quality use `claude-opus-4-8` (higher cost). (Previous config used `claude-sonnet-4-6`, which is valid but previous-generation.)
+- **No `temperature`.** Sonnet 5 rejects non-default sampling params with a 400 — the field was removed. Steer tone via the system prompt, not temperature.
+- **`stream: true` is required.** Six deliverables (incl. a full landing page + 5 emails) can run well past 16K output tokens; non-streaming requests that large hit SDK HTTP timeouts. Use the SDK's `.get_final_message()` / `.finalMessage()` to collect the full response.
+- **`max_tokens: 32000`** gives headroom for all six. Note Sonnet 5's tokenizer runs ~30% higher than 4.6 for the same text — don't reuse old token math.
+- **`output_config: {effort: "high"}`** for quality on a paid deliverable. Adaptive thinking is on by default on Sonnet 5; if you want to cut cost/latency and the outputs hold up without it, add `"thinking": {"type": "disabled"}`.
+- Cost per generation: roughly ~$0.30-0.80 on Sonnet 5 for six deliverables (still <1% of the $197). Generation time ~40-90s streamed.
+- **If the single call ever truncates or quality dips**, split into two calls — core 4 (ICP, offer doc, sales doc, ad hooks) then page + emails — reusing the same system prompt.
 
 ---
 
@@ -441,10 +482,12 @@ Before sending to client:
 - [ ] Offer name isn't generic ("The Success System") — is it specific to their niche?
 - [ ] Mechanism has a clear name and 3-4 steps that make sense
 - [ ] Google offer doc sounds like THEM, not like every other coach
-- [ ] Sales page reads for COLD traffic — leads with their problem, builds trust, more proof than the warm doc
-- [ ] Email sequence has 5 emails, each with subject + preview + body, escalating to the pitch
-- [ ] No invented testimonials or fake proof anywhere — only placeholders
-- [ ] No income claims or revenue promises
+- [ ] **Sales page headline matches the Google offer doc headline** (ad → page → offer say the same thing)
+- [ ] **Sales page reads as paste-ready copy, not a wireframe; one CTA repeated; mobile-first**
+- [ ] **Sales page reads for COLD traffic** — leads with their problem, builds trust, more proof than the warm doc
+- [ ] **All 5 emails are in their voice, each with a distinct subject + single CTA, escalating to the pitch (no generic drip)**
+- [ ] No invented testimonials or fake proof — only placeholders (`[Add specific result here]`)
+- [ ] No income claims or revenue promises (check the sales page + emails especially)
 - [ ] Price recommendation makes sense for their market
 - [ ] Ad hooks cover all awareness levels, not just "aware"
 - [ ] Offer name, mechanism, and positioning are consistent across all six deliverables

@@ -129,7 +129,7 @@ Done-with-you intensive. 8 weeks. 3 strategy calls, unlimited async support, com
 - **Reality over Perception** — Substance before marketing.
 - **"Nobody is coming to save you"** — Action over perfection.
 - **Paid traffic over content merry-go-round** — Stop posting for 12 months hoping someone buys.
-- **Self-liquidating checkout** — Front-end + bumps + OTOs cover ad spend. Backend is pure profit.
+- **Buyer-acquisition checkout** — At $27 the front-end is a buyer-acquisition price, not self-liquidating; ad spend is recovered across bumps + OTOs + continuity, backend is profit (see decisions/2026-07-04-front-end-27-digital-snack.md).
 
 ---
 

@@ -252,7 +252,7 @@ See: [decisions/2026-02-18-training-portal-ecosystem.md](../../decisions/2026-02
 - Michael reviews every output (~10 min) before delivery
 - Delivered within 24-48 hours
 
-**Cost per generation:** ~$0.15-0.30 (Claude API). Gross margin ~99% before ad costs.
+**Cost per generation:** ~$0.30-0.80 (Claude Sonnet 5, six deliverables). Gross margin ~99% before ad costs.
 
 **Downsell: DFY Lite ($97)**
 - ICP + offer document only (no sales doc, no ad hooks)
@@ -386,7 +386,7 @@ See: `outputs/dfy-upsell/system-prompt.md` for full API spec and questionnaire
 **Recurring streams:** Community ($47/mo) + The Monthly Playbook ($37/mo) + GHL affiliate (~$39/mo)
 **Portal cross-sell potential:** One-Page Funnel ($57) + Funnel Snapshot ($97) + second-chance bumps add to 30-day CLV
 **GHL affiliate potential:** ~$39/mo recurring per Funnel Snapshot buyer who signs up for GHL
-**DFY cost per generation:** ~$0.15-0.30 (Claude API) — near-zero marginal cost
+**DFY cost per generation:** ~$0.30-0.80 (Claude Sonnet 5, six deliverables) — near-zero marginal cost
 
 ---
 
