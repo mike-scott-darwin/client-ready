@@ -90,12 +90,15 @@ node scripts/ad-templates/render.mjs --template imessage \
   --data '{"contact":"Pat","messages":[{"from":"them","text":"..."},{"from":"me","text":"..."}]}'
 ```
 
-Templates:
-- `imessage` (his #1 winner) — presets: one-afternoon, no-calls, 9-to-5
-- `order-summary` (value stack) — preset: front-end-27
-- `chatgpt` (AI answer screenshot) — presets: offer-clarity, no-calls
-- `typo` (bold text card, mass-produce from one-liners) — presets: not-you,
-  grow-into-pain, one-afternoon. Accent a word by wrapping it in `*asterisks*`.
+Templates (all 7 of Miles's proven formats):
+- `imessage` (his #1 winner) — one-afternoon, no-calls, 9-to-5
+- `order-summary` (value stack) — front-end-27
+- `chatgpt` (AI answer screenshot) — offer-clarity, no-calls
+- `typo` (bold text card; accent a word with `*asterisks*`) — not-you,
+  grow-into-pain, one-afternoon
+- `gmail` (inbox — clarity moments, NOT fake income) — validated-offer
+- `tabloid` ("Breaking News" red banner) — one-afternoon, no-calls
+- `handwritten` (paper note, cursive) — grow-into-pain
 
 ⚠️ The order-summary line-item prices are illustrative — confirm they map to
 real front-end deliverables before running. Never use fabricated income claims

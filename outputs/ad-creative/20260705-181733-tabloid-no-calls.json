@@ -1,0 +1,17 @@
+{
+  "template": "tabloid",
+  "preset": "no-calls",
+  "size": "1080x1350",
+  "data": {
+    "banner": "NEW",
+    "headline": "THE SALES CALL IS OPTIONAL NOW",
+    "bullets": [
+      "One clear offer.",
+      "It sells while you sleep.",
+      "No Zoom required."
+    ],
+    "sub": "Make the offer clear enough and there's nothing left to explain.",
+    "cta": "Build yours for $27 →"
+  },
+  "generated_at": "20260705-181733"
+}

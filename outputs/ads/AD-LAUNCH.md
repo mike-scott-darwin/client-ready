@@ -54,17 +54,18 @@ python3 scripts/fal-image.py --angle all --model schnell --num 4
 
 ### The 7 winning formats (mirrored)
 
-| Format | Engine | Status |
-|--------|--------|--------|
-| iMessage convo (his #1 winner) | Template `imessage` | ✅ built |
-| Value-stack "Order Summary" | Template `order-summary` | ✅ built |
-| ChatGPT answer screenshot | Template `chatgpt` | ✅ built |
-| Bold typographic card | Template `typo` | ✅ built |
-| Gmail inbox (clarity moments) | Template `gmail` | ⬜ not built |
-| "Breaking News" tabloid | Template `tabloid` | ⬜ not built |
-| Handwritten note (lifestyle) | fal.ai | ⬜ not built |
+| Format | Engine | Presets | Status |
+|--------|--------|---------|--------|
+| iMessage convo (his #1 winner) | Template `imessage` | one-afternoon, no-calls, 9-to-5 | ✅ built |
+| Value-stack "Order Summary" | Template `order-summary` | front-end-27 | ✅ built |
+| ChatGPT answer screenshot | Template `chatgpt` | offer-clarity, no-calls | ✅ built |
+| Bold typographic card | Template `typo` | not-you, grow-into-pain, one-afternoon | ✅ built |
+| Gmail inbox (clarity moments) | Template `gmail` | validated-offer | ✅ built |
+| "Breaking News" tabloid | Template `tabloid` | one-afternoon, no-calls | ✅ built |
+| Handwritten note (lifestyle) | Template `handwritten` | grow-into-pain | ✅ built |
+| Photoreal lifestyle scenes | fal.ai | 8 angles (see ad-prompts.json) | ✅ built |
 
-All output → `outputs/ad-creative/` with a sidecar `.json` (reproducible swipe file).
+**All 7 of Miles's proven formats + fal.ai are built.** 21 launch creatives rendered in `outputs/ad-creative/`, each with a sidecar `.json` (reproducible swipe file). Render everything with `--preset all` per template.
 
 ---
 
@@ -93,14 +94,16 @@ Ads pull copy from these files (do not write off-message copy — check `referen
 
 **Ad = sales page** during validation — 100% message congruence, no creative freedom yet (Miles's rule).
 
-**Creative for first test (Radical Variance — separate ABO ad sets):**
-1. `imessage` — one-afternoon
+**Creative for first test (Radical Variance — separate ABO ad sets, one concept each):**
+1. `imessage` — one-afternoon (his #1 winning format)
 2. `chatgpt` — offer-clarity
-3. `typo` — grow-into-pain
+3. `tabloid` — one-afternoon
 4. `order-summary` — front-end-27
-5. fal.ai lifestyle (once handwritten format built)
+5. `handwritten` — grow-into-pain
 
-Each: 1 short-form + 1 long-form primary on the same image (Miles's dual-length test).
+Bench (rotate in as winners tire): `gmail` validated-offer, `typo` ×3, `imessage` no-calls/9-to-5, `chatgpt` no-calls, fal.ai lifestyle angles.
+
+Each: 1 short-form + 1 long-form primary on the same image (Miles's dual-length test). Pull copy from the angle files in § 3.
 
 **Pre-launch checklist:**
 - [ ] Pixel + CAPI (server-side) live
@@ -125,7 +128,10 @@ Phase 2 (scale) detail lives in the archived `launch-strategy.md` — do not ope
 
 ---
 
-## 6. Known cleanup backlog
-- Stale `$47` → `$27` fixed in active copy files (2026-07-05). Historical/archived files left as-is.
-- Verify the blocked proof stats above, then unblock the P3 ads.
-- Build the 3 remaining formats (gmail, tabloid, handwritten).
+## 6. Launch status & backlog
+- ✅ All 7 Miles-mirrored formats + fal.ai built; 21 creatives rendered.
+- ✅ Stale `$47` → `$27` fixed in active copy files (2026-07-05). Historical/archived files left as-is.
+- ✅ Ads folder consolidated to this single source of truth.
+- ⬜ **Verify the blocked proof stats** ("150+ coaches", "4.7/5", "114 sales") against Stripe/GHL, then unblock the proof-based (P3) copy variants. The launch set above does NOT depend on them.
+- ⬜ Confirm order-summary line items map to real deliverables.
+- ⬜ Wire the pre-launch checklist (§ 4) in GHL/Meta, then spend.

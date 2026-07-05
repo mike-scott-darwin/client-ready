@@ -1,0 +1,52 @@
+{
+  "template": "gmail",
+  "preset": "validated-offer",
+  "size": "1080x1350",
+  "data": {
+    "messages": [
+      {
+        "sender": "Stripe",
+        "color": "#635BFF",
+        "subject": "New sale — Client Ready Offer System",
+        "preview": "You made a $27 sale.",
+        "time": "9:02 AM"
+      },
+      {
+        "sender": "Skool",
+        "color": "#111111",
+        "subject": "New member joined your community",
+        "preview": "A new coach just joined the trial.",
+        "time": "8:47 AM"
+      },
+      {
+        "sender": "Instagram",
+        "color": "#E1306C",
+        "subject": "New message request",
+        "preview": "“wait this is exactly what I needed — where do I sign up?”",
+        "time": "8:30 AM"
+      },
+      {
+        "sender": "Stripe",
+        "color": "#635BFF",
+        "subject": "New sale — Client Ready Offer System",
+        "preview": "You made a $27 sale.",
+        "time": "8:12 AM"
+      },
+      {
+        "sender": "GoHighLevel",
+        "color": "#F59E0B",
+        "subject": "Order bump added at checkout",
+        "preview": "A buyer added the DM Scripts bump.",
+        "time": "7:55 AM"
+      },
+      {
+        "sender": "Maya Chen",
+        "color": "#1A73E8",
+        "subject": "Re: your offer page",
+        "preview": "Bought it in 5 min — finally something clear.",
+        "time": "7:20 AM"
+      }
+    ]
+  },
+  "generated_at": "20260705-181731"
+}
