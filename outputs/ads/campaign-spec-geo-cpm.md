@@ -10,6 +10,18 @@ decision: decisions/2026-07-04-geo-cpm-restructure.md
 
 Ready-to-build structure for the geo/CPM test. Build **paused**, review, then flip live.
 
+## ✅ DRAFT CREATED IN META — 2026-07-05 (all PAUSED)
+Account `act_463860554507371` · CBO $75/day · Sales objective · pixel `235321027567755` / Purchase.
+
+| Object | Name | ID |
+|--------|------|----|
+| Campaign | CRO - Sales - Geo/CPM Test - Jul26 | `120249919556560501` |
+| Ad Set A | Broad - Tier1 - US/CA/UK/AU/NZ | `120249919574960501` |
+| Ad Set B | Broad - Tier2 - IE/ZA/Nordics | `120249919575980501` |
+
+**Build notes:** Advantage+ audience (age 25+ suggestion) · Advantage+ placements · **Singapore dropped** from Tier-2 (needs SINGAPORE_UNIVERSAL declaration — re-add later if wanted).
+**STILL TO DO (you):** (1) upload AD1-30s-demo-final.mp4 + attach as the ad in each ad set (API upload blocked: private repo + 9.5MB); (2) Events Manager check — Purchase value = full cart incl. bumps; (3) unpause when ready.
+
 ## Campaign
 - **Name:** `CRO - Sales - Geo/CPM Test - Jul26`
 - **Objective:** Sales (Purchase) — OR **Leads/Engagement optimizing Initiate Checkout** if <50 purchases/week (seed phase)
