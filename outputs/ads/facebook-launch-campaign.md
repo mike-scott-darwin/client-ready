@@ -33,7 +33,7 @@ Both ad sets: Advantage+ audience (25+), Advantage+ placements, **pixel `2353210
 | Ad1 No Sales Calls | `846756914963549` | image (imessage-no-calls) |
 | Ad2 Red Ocean | `1538620267914707` | image (chatgpt-offer-clarity) |
 | Ad3 One Afternoon | `1035581442265726` | image (tabloid-one-afternoon) |
-| Ad4 $27→$5K | `1191276483455787` | image (ladder) |
+| Ad4 $27→$5K | `1331277665738310` | image (before/after list) — swapped 2026-07-08, old ladder ads deleted |
 | Ad5 9-to-5 | `1750806666355383` | image (imessage-9-to-5) |
 | Ad6 Training Demo | `1022044620429280` | video (`video_id 2536437423539492`) |
 
@@ -83,7 +83,7 @@ Static creatives live in `outputs/ad-creative/` ($27-aligned). Video in `outputs
   > Read it, run it, send it to 5 people the same day. $27 today. 30-day guarantee.
 
 ### AD 4 — $27 → $5K Reversal
-- **Creative:** `20260705-174240-ladder.jpg`  ($27 → $5K ladder)
+- **Creative:** `20260708-before-after-list.jpg`  (two-column BEFORE/AFTER list card — replaced the AI 'ladder' lifestyle photo, which was off-strategy per Miles Jul-2026: containsAiMedia=false)
 - **Headline:** $27 to validate. $5K to scale.
 - **Primary text:**
   > I don't sell $5K coaching packages. I sell a $27 system that makes the $5K offer sell itself — no chasing, no convincing.
