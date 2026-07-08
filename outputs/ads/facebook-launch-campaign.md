@@ -34,7 +34,7 @@ Both ad sets: Advantage+ audience (25+), Advantage+ placements, **pixel `2353210
 | Ad2 Red Ocean | `1538620267914707` | image (chatgpt-offer-clarity) |
 | Ad3 One Afternoon | `1035581442265726` | image (tabloid-one-afternoon) |
 | Ad4 $27→$5K | `1331277665738310` | image (before/after list) — swapped 2026-07-08, old ladder ads deleted |
-| Ad5 9-to-5 | `1750806666355383` | image (imessage-9-to-5) |
+| Ad5 Offer Clarity | `27542359015404873` | image (Reddit post) — swapped 2026-07-08, old 9-to-5 ads deleted |
 | Ad6 Training Demo | `1022044620429280` | video (`video_id 2536437423539492`) |
 
 Uploaded media: 5 image_hashes + video via public raw-GitHub URLs. Nothing left to upload.
@@ -92,13 +92,13 @@ Static creatives live in `outputs/ad-creative/` ($27-aligned). Video in `outputs
   >
   > The Client Ready Offer System: 5 AI prompts, one afternoon, a finished offer. $27 today. 30-day guarantee.
 
-### AD 5 — Won't Tell You to Quit (9-to-5)
-- **Creative:** `20260705-175921-imessage-9-to-5.png`  (iMessage — 9-to-5)
-- **Headline:** Build it before you quit
+### AD 5 — Offer Clarity (Reddit post)
+- **Creative:** `20260708-reddit-offer-clarity.jpg`  (r/Entrepreneur confession — replaced the 9-to-5 iMessage for format diversity + a discovery/social-proof lane)
+- **Headline:** You don't have a marketing problem
 - **Primary text:**
-  > You don't have to quit your 9-to-5 to build something real. Validate a $5K+ offer in one afternoon — while you still have a paycheck.
+  > Most coaches think they have a marketing problem. They don't — they have an offer nobody understands in ten seconds.
   >
-  > 5 AI prompts pull the one thing you're uniquely positioned to sell out of your head, into an offer clear enough to sell without a call. Test it with 5 real people this week. Leave with proof, not a prayer.
+  > More content, another funnel, a new platform won't fix it. Clarity will. The Client Ready Offer System runs your expertise through 5 AI prompts and pulls out one clear offer — in an afternoon. Then it sells without a call.
   >
   > $27 today. 30-day money-back guarantee.
 
