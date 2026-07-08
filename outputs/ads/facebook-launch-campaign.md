@@ -34,7 +34,7 @@ Both ad sets: Advantage+ audience (25+), Advantage+ placements, **pixel `2353210
 | Ad2 Red Ocean | `1538620267914707` | image (chatgpt-offer-clarity) |
 | Ad3 One Afternoon | `1035581442265726` | image (tabloid-one-afternoon) |
 | Ad4 $27→$5K | `1331277665738310` | image (before/after list) — swapped 2026-07-08, old ladder ads deleted |
-| Ad5 Offer Clarity | `2221003048656843` | image (authentic Reddit thread, v3) — swapped 2026-07-08, old 9-to-5 ads deleted |
+| Ad5 Offer Clarity | `1501462081722266` | image (Reddit thread v4 — value-first, demonstrates the method, no product in thread) |
 | Ad6 Training Demo | `1022044620429280` | video (`video_id 2536437423539492`) |
 
 Uploaded media: 5 image_hashes + video via public raw-GitHub URLs. Nothing left to upload.
@@ -93,12 +93,12 @@ Static creatives live in `outputs/ad-creative/` ($27-aligned). Video in `outputs
   > The Client Ready Offer System: 5 AI prompts, one afternoon, a finished offer. $27 today. 30-day guarantee.
 
 ### AD 5 — Offer Clarity (Reddit post)
-- **Creative:** `20260708-reddit-thread.jpg`  (authentic r/coaching thread — messy-human grammar + "everything is AI now" skepticism, rendered as a phone-screen photo; replaced the 9-to-5 iMessage for a discovery/social-proof lane)
-- **Headline:** You don't have a marketing problem
+- **Creative:** `20260708-reddit-thread.jpg`  (authentic r/coaching thread that DEMONSTRATES the fix — no product named in the thread, value-first. Phone-photo look, messy-human grammar, "every guru answer is buy my AI course" fatigue. Client Ready only appears in the ad's primary text.)
+- **Headline:** It's not your funnel. It's your offer.
 - **Primary text:**
-  > Most coaches think they have a marketing problem. They don't — they have an offer nobody understands in ten seconds.
+  > The best answer in this thread was the simple one: it's not your funnel, it's your offer. Nail the one problem only you solve, say it so a stranger gets it in ten seconds, cut everything else.
   >
-  > More content, another funnel, a new platform won't fix it. Clarity will. The Client Ready Offer System runs your expertise through 5 AI prompts and pulls out one clear offer — in an afternoon. Then it sells without a call.
+  > That's the whole job — and it's exactly what the Client Ready Offer System does for you. 5 AI prompts pull your one clear offer out of your head in an afternoon, so it sells without a call.
   >
   > $27 today. 30-day money-back guarantee.
 
