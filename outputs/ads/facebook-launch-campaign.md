@@ -34,7 +34,7 @@ Both ad sets: Advantage+ audience (25+), Advantage+ placements, **pixel `2353210
 | Ad2 Red Ocean | `1538620267914707` | image (chatgpt-offer-clarity) |
 | Ad3 One Afternoon | `1035581442265726` | image (tabloid-one-afternoon) |
 | Ad4 $27→$5K | `1331277665738310` | image (before/after list) — swapped 2026-07-08, old ladder ads deleted |
-| Ad5 Offer Clarity | `1501462081722266` | image (Reddit thread v4 — value-first, demonstrates the method, no product in thread) |
+| Ad5 Offer Clarity | `1552419863047238` | image (Reddit thread flat — value-first, demonstrates the method, no product in thread) |
 | Ad6 Training Demo | `1022044620429280` | video (`video_id 2536437423539492`) |
 
 Uploaded media: 5 image_hashes + video via public raw-GitHub URLs. Nothing left to upload.
