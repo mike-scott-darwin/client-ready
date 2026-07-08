@@ -1,0 +1,43 @@
+{
+  "template": "order-summary",
+  "preset": "front-end-27",
+  "size": "1080x1350",
+  "data": {
+    "brand": "Client Ready",
+    "system": "The Client Ready Offer System",
+    "items": [
+      {
+        "label": "The Offer Validation Prompt",
+        "price": "$97"
+      },
+      {
+        "label": "The One-Page Offer Doc Template",
+        "price": "$67"
+      },
+      {
+        "label": "Plug & Play Sales Page Kit",
+        "price": "$67"
+      },
+      {
+        "label": "First-Sale DM Scripts",
+        "price": "$37"
+      },
+      {
+        "label": "The One-Afternoon Build Walkthrough",
+        "price": "$47"
+      },
+      {
+        "label": "30-Day Community Trial",
+        "price": "INCLUDED"
+      },
+      {
+        "label": "Lifetime Updates + Guarantee",
+        "price": "INCLUDED"
+      }
+    ],
+    "totalOriginal": "$315",
+    "totalToday": "$27",
+    "cta": "Start for $27"
+  },
+  "generated_at": "20260705-180024"
+}

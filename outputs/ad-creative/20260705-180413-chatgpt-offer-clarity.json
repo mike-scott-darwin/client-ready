@@ -1,0 +1,16 @@
+{
+  "template": "chatgpt",
+  "preset": "offer-clarity",
+  "size": "1080x1350",
+  "data": {
+    "model": "5.4",
+    "question": "how do I know if my offer will actually sell?",
+    "answerHeading": "Test it before you build it.",
+    "answerBody": [
+      "Most coaches build the whole thing first, then hope. Reverse it. Write the offer as one clear page — the outcome, the roadmap, the price — and put it in front of real buyers before you create anything.",
+      "If a stranger reads it and buys without a call, it's validated. If they have ten questions, it's not clear enough yet — and now you know exactly what to fix.",
+      "For a $27 to $5K path, the answer was always obvious: validate first, build second."
+    ]
+  },
+  "generated_at": "20260705-180413"
+}

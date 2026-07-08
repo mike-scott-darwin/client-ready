@@ -1,0 +1,13 @@
+{
+  "prompt": "A confident coach in a comfortable home office just after closing a client on a video call, leaning back with a small genuine smile, laptop open, warm and grounded 'this is working now' energy, tasteful and understated \u2014 not flashy wealth., generous clean negative space in the upper third for a bold headline overlay, uncluttered composition, photorealistic, candid UGC style, shot on a phone, natural available light, authentic and un-staged, real texture, not glossy stock photography, high detail, subtle film grain",
+  "angle": "ladder",
+  "model": "fal-ai/flux/schnell",
+  "size": "1080x1350",
+  "num_images": 1,
+  "format": "jpeg",
+  "seed": 1172154730,
+  "images": [
+    "outputs/ad-creative/20260705-174240-ladder.jpg"
+  ],
+  "generated_at": "20260705-174240"
+}

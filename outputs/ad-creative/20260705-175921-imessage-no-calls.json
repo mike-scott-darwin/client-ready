@@ -1,0 +1,27 @@
+{
+  "template": "imessage",
+  "preset": "no-calls",
+  "size": "1080x1350",
+  "data": {
+    "contact": "Sam",
+    "messages": [
+      {
+        "from": "them",
+        "text": "you signed a client without a sales call?"
+      },
+      {
+        "from": "me",
+        "text": "yeah. the offer did the selling."
+      },
+      {
+        "from": "them",
+        "text": "how"
+      },
+      {
+        "from": "me",
+        "text": "made it so clear there was nothing left to explain."
+      }
+    ]
+  },
+  "generated_at": "20260705-175921"
+}

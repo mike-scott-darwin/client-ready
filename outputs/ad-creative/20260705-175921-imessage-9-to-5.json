@@ -1,0 +1,27 @@
+{
+  "template": "imessage",
+  "preset": "9-to-5",
+  "size": "1080x1350",
+  "data": {
+    "contact": "Casey",
+    "messages": [
+      {
+        "from": "them",
+        "text": "so are you quitting your job?"
+      },
+      {
+        "from": "me",
+        "text": "nope. building the offer around it first."
+      },
+      {
+        "from": "them",
+        "text": "smart. testing before you leap"
+      },
+      {
+        "from": "me",
+        "text": "test, validate, build. then decide."
+      }
+    ]
+  },
+  "generated_at": "20260705-175921"
+}

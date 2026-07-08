@@ -1,0 +1,133 @@
+{
+  "_comment": "Client Ready ad copy for rendered templates. Mirrors Miles's winning formats with OUR angles + FTC-safe framing (clarity/validation, never fabricated income). Edit freely — render.mjs reads this.",
+  "imessage": {
+    "one-afternoon": {
+      "contact": "Jordan",
+      "messages": [
+        { "from": "them", "text": "wait — you built your whole offer in ONE afternoon??" },
+        { "from": "me", "text": "yep. one AI prompt did the heavy lifting." },
+        { "from": "them", "text": "and it's actually good?" },
+        { "from": "me", "text": "clear enough it sells without a call 😌" }
+      ]
+    },
+    "no-calls": {
+      "contact": "Sam",
+      "messages": [
+        { "from": "them", "text": "you signed a client without a sales call?" },
+        { "from": "me", "text": "yeah. the offer did the selling." },
+        { "from": "them", "text": "how" },
+        { "from": "me", "text": "made it so clear there was nothing left to explain." }
+      ]
+    },
+    "9-to-5": {
+      "contact": "Casey",
+      "messages": [
+        { "from": "them", "text": "so are you quitting your job?" },
+        { "from": "me", "text": "nope. building the offer around it first." },
+        { "from": "them", "text": "smart. testing before you leap" },
+        { "from": "me", "text": "test, validate, build. then decide." }
+      ]
+    }
+  },
+  "chatgpt": {
+    "offer-clarity": {
+      "model": "5.4",
+      "question": "how do I know if my offer will actually sell?",
+      "answerHeading": "Test it before you build it.",
+      "answerBody": [
+        "Most coaches build the whole thing first, then hope. Reverse it. Write the offer as one clear page — the outcome, the roadmap, the price — and put it in front of real buyers before you create anything.",
+        "If a stranger reads it and buys without a call, it's validated. If they have ten questions, it's not clear enough yet — and now you know exactly what to fix.",
+        "For a $27 to $5K path, the answer was always obvious: validate first, build second."
+      ]
+    },
+    "no-calls": {
+      "model": "5.4",
+      "question": "how do I get high-ticket clients without sales calls?",
+      "answerHeading": "Put the pitch in writing.",
+      "answerBody": [
+        "Instead of a sales call, build one clear offer a qualified prospect reads, sees the price and the proof, and decides on — no Zoom, no DMs, no follow-up.",
+        "The reason you need a call is usually that the offer is too complex. Make it clear enough to stand on its own and the call becomes optional.",
+        "Clarity does the selling. Not you."
+      ]
+    }
+  },
+  "typo": {
+    "not-you": {
+      "headline": "You're not stuck. *Your offer is.*",
+      "subline": "Test, validate, build."
+    },
+    "grow-into-pain": {
+      "headline": "You can't *grow into pain.*",
+      "subline": "Build what fits who you actually are."
+    },
+    "one-afternoon": {
+      "headline": "One clear offer. *One afternoon.*",
+      "subline": "AI does the heavy lifting. You decide."
+    }
+  },
+  "gmail": {
+    "validated-offer": {
+      "messages": [
+        { "sender": "Stripe", "color": "#635BFF", "subject": "New sale — Client Ready Offer System", "preview": "You made a $27 sale.", "time": "9:02 AM" },
+        { "sender": "Skool", "color": "#111111", "subject": "New member joined your community", "preview": "A new coach just joined the trial.", "time": "8:47 AM" },
+        { "sender": "Instagram", "color": "#E1306C", "subject": "New message request", "preview": "“wait this is exactly what I needed — where do I sign up?”", "time": "8:30 AM" },
+        { "sender": "Stripe", "color": "#635BFF", "subject": "New sale — Client Ready Offer System", "preview": "You made a $27 sale.", "time": "8:12 AM" },
+        { "sender": "GoHighLevel", "color": "#F59E0B", "subject": "Order bump added at checkout", "preview": "A buyer added the DM Scripts bump.", "time": "7:55 AM" },
+        { "sender": "Maya Chen", "color": "#1A73E8", "subject": "Re: your offer page", "preview": "Bought it in 5 min — finally something clear.", "time": "7:20 AM" }
+      ]
+    }
+  },
+  "tabloid": {
+    "one-afternoon": {
+      "banner": "BREAKING",
+      "headline": "COACHES ARE VALIDATING OFFERS IN ONE AFTERNOON",
+      "bullets": ["No sales calls.", "No content treadmill.", "No $2K course."],
+      "sub": "The AI does the heavy lifting. You make the decisions.",
+      "cta": "See how it works →"
+    },
+    "no-calls": {
+      "banner": "NEW",
+      "headline": "THE SALES CALL IS OPTIONAL NOW",
+      "bullets": ["One clear offer.", "It sells while you sleep.", "No Zoom required."],
+      "sub": "Make the offer clear enough and there's nothing left to explain.",
+      "cta": "Build yours for $27 →"
+    }
+  },
+  "handwritten": {
+    "grow-into-pain": {
+      "lines": [
+        "For two years I built an",
+        "offer I secretly dreaded.",
+        "",
+        "Then it clicked:",
+        "you can't grow into pain.",
+        "",
+        "So I rebuilt it around what",
+        "I actually do well — in one",
+        "afternoon, AI did the rest.",
+        "",
+        "If your offer still feels",
+        "like a cage, this helps."
+      ],
+      "signature": "Michael"
+    }
+  },
+  "order-summary": {
+    "front-end-27": {
+      "brand": "Client Ready",
+      "system": "The Client Ready Offer System",
+      "items": [
+        { "label": "The Offer Validation Prompt", "price": "$97" },
+        { "label": "The One-Page Offer Doc Template", "price": "$67" },
+        { "label": "Plug & Play Sales Page Kit", "price": "$67" },
+        { "label": "First-Sale DM Scripts", "price": "$37" },
+        { "label": "The One-Afternoon Build Walkthrough", "price": "$47" },
+        { "label": "30-Day Community Trial", "price": "INCLUDED" },
+        { "label": "Lifetime Updates + Guarantee", "price": "INCLUDED" }
+      ],
+      "totalOriginal": "$315",
+      "totalToday": "$27",
+      "cta": "Start for $27"
+    }
+  }
+}

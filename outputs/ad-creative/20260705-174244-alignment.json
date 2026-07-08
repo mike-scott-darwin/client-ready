@@ -1,0 +1,13 @@
+{
+  "prompt": "An authentic, at-ease coach sitting by a window with natural light, calm and genuinely themselves, no hustle or stress on their face, quiet confidence \u2014 the opposite of burnout. Warm, honest portrait with breathing room around them., generous clean negative space in the upper third for a bold headline overlay, uncluttered composition, photorealistic, candid UGC style, shot on a phone, natural available light, authentic and un-staged, real texture, not glossy stock photography, high detail, subtle film grain",
+  "angle": "alignment",
+  "model": "fal-ai/flux/schnell",
+  "size": "1080x1350",
+  "num_images": 1,
+  "format": "jpeg",
+  "seed": 855909342,
+  "images": [
+    "outputs/ad-creative/20260705-174244-alignment.jpg"
+  ],
+  "generated_at": "20260705-174244"
+}

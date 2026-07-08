@@ -1,0 +1,16 @@
+{
+  "template": "chatgpt",
+  "preset": "no-calls",
+  "size": "1080x1350",
+  "data": {
+    "model": "5.4",
+    "question": "how do I get high-ticket clients without sales calls?",
+    "answerHeading": "Put the pitch in writing.",
+    "answerBody": [
+      "Instead of a sales call, build one clear offer a qualified prospect reads, sees the price and the proof, and decides on — no Zoom, no DMs, no follow-up.",
+      "The reason you need a call is usually that the offer is too complex. Make it clear enough to stand on its own and the call becomes optional.",
+      "Clarity does the selling. Not you."
+    ]
+  },
+  "generated_at": "20260705-181926"
+}
