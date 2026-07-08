@@ -52,12 +52,13 @@ Ready-to-build structure for the geo/CPM test. Build **paused**, review, then fl
 | Blended 90-day value/buyer | ~$240 | — |
 
 ## Prerequisites (before spend)
-1. **CAPI / pixel:** confirm Purchase + order-bump events fire cleanly. (Oct25 had none.)
-2. **Creative price:** ensure the video/copy says $27, not $17.
+1. **CAPI / pixel:** ✅ CONFIRMED (2026-07-04). Tracking via **CAPI (server-side)**. Active pixel: **"CRO Pixel" `235321027567755`** (last fired 2026-07-04). Use this one — NOT "Not used" `2624153164577867` (dead since 2024).
+   - ⚠️ Still verify in Events Manager before spend: (a) Purchase VALUE = full cart ($27 + bumps), not $27 only — or Meta optimizes for the wrong buyers; (b) browser↔CAPI dedup via shared event_id; (c) EMQ ≥ 6/10.
+2. **Creative price:** ✅ the AD1 30s cut says $27.
 3. **Bump test:** Variant C bump copy live (see outputs/order-bumps/ghl-bump-copy.md).
 
 ## Open decisions for Michael (needed before building live objects)
-- [ ] Daily budget: $50 / $75 / $100?
-- [ ] Seed phase (Initiate Checkout) or straight to Purchase?
-- [ ] Confirm the pixel ID + that CAPI is firing.
-- [ ] Reuse the existing Ad10 creative, or fresh upload?
+- [ ] Daily budget: $50 / $75 / $100? (rec: $75)
+- [ ] Seed phase (Initiate Checkout) or straight to Purchase? (CAPI healthy → **Purchase** is viable)
+- [x] Pixel confirmed: CRO Pixel `235321027567755`, CAPI server-side
+- [x] Creative: AD1 30s demo ($27) — needs upload to the account (video too large to push via MCP; upload in Ads Manager or host at a public URL)
