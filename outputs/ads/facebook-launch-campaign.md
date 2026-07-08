@@ -10,7 +10,7 @@ offer: Client Ready Offer System — $27
 
 # 📣 Facebook Launch Campaign — Client Ready $27 (one-pager)
 
-Everything to launch in one place: campaign → ad sets → **6 ads** (5 native statics + 1 demo video). The **same 6 ads run in BOTH ad sets** (Miles play: identical creative across geos, let Meta find the winner). Statics = the *pitch* lane; video = the *value-first/curiosity* lane.
+Everything to launch in one place: campaign → ad sets → **7 ads** (5 native statics + 1 demo video + 1 long-form confession). The **same 7 ads run in BOTH ad sets** (Miles play: identical creative across geos, let Meta find the winner). Statics = the *pitch* lane; video = *value-first/curiosity*; long-form = the *salesletter* lane (simple hook image + ~450-word confession body, Miles's proven low-ticket format).
 
 ---
 
@@ -36,6 +36,7 @@ Both ad sets: Advantage+ audience (25+), Advantage+ placements, **pixel `2353210
 | Ad4 $27→$5K | `1331277665738310` | image (before/after list) — swapped 2026-07-08, old ladder ads deleted |
 | Ad5 Offer Clarity | `1552419863047238` | image (Reddit thread flat — value-first, demonstrates the method, no product in thread) |
 | Ad6 Training Demo | `1022044620429280` | video (`video_id 2536437423539492`) |
+| Ad7 Long-form | `2077860689762677` | image (text-on-dark hook + ~450-word confession body) — added 2026-07-08 |
 
 Uploaded media: 5 image_hashes + video via public raw-GitHub URLs. Nothing left to upload.
 
@@ -48,7 +49,7 @@ Uploaded media: 5 image_hashes + video via public raw-GitHub URLs. Nothing left 
 
 ---
 
-## 3. THE ADS  (run all 6 in each ad set — 5 statics + 1 video)
+## 3. THE ADS  (run all 7 in each ad set — 5 statics + 1 video + 1 long-form)
 
 Static creatives live in `outputs/ad-creative/` ($27-aligned). Video in `outputs/ads/2026-07-04-static-ads-tier1-miles-benchmark/video/`.
 
@@ -112,6 +113,12 @@ Static creatives live in `outputs/ad-creative/` ($27-aligned). Video in `outputs
   >
   > Curious what it'd pull out of you? $27 today. 30-day guarantee.
 - **Note:** open loop by design (never shows the finished output). Works cold *and* for retargeting. Optional polish: hide the ChatGPT sidebar on the next export.
+
+### AD 7 — Long-form Confession  ✍️ *(the salesletter lane — Miles's proven low-ticket format)*
+- **Creative:** `20260708-longform-hook.jpg`  (simple text-on-dark hook: "I thought I had a marketing problem. i didn't. it was my offer." — the image just stops the scroll; the body does the selling)
+- **Headline:** The problem was never your marketing
+- **Primary text:** ~450-word first-person confession (full copy on creative `2077860689762677`). Skeleton: 7-year search → false-cause/true-cause reframe (marketing vs offer) → the one-rule fix → 3-step mechanism → "adding more is the opposite of the fix" → $27 + 30-day guarantee → "you're not bad at this, you had the wrong offer not the wrong skills" P.S. → clientreadyoffer.com
+- **Why:** this is the format Miles runs at 100% — simple hook image, long body as the salesletter. Also pre-sells the click, which helps the ~2% page CVR. Test long (this) vs short (Ads 1–6).
 
 ---
 
