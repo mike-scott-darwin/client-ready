@@ -34,7 +34,7 @@ Both ad sets: Advantage+ audience (25+), Advantage+ placements, **pixel `2353210
 | Ad2 Red Ocean | `1538620267914707` | image (chatgpt-offer-clarity) |
 | Ad3 One Afternoon | `1035581442265726` | image (tabloid-one-afternoon) |
 | Ad4 $27→$5K | `1331277665738310` | image (before/after list) — swapped 2026-07-08, old ladder ads deleted |
-| Ad5 Offer Clarity | `27542359015404873` | image (Reddit post) — swapped 2026-07-08, old 9-to-5 ads deleted |
+| Ad5 Offer Clarity | `2221003048656843` | image (authentic Reddit thread, v3) — swapped 2026-07-08, old 9-to-5 ads deleted |
 | Ad6 Training Demo | `1022044620429280` | video (`video_id 2536437423539492`) |
 
 Uploaded media: 5 image_hashes + video via public raw-GitHub URLs. Nothing left to upload.
@@ -93,7 +93,7 @@ Static creatives live in `outputs/ad-creative/` ($27-aligned). Video in `outputs
   > The Client Ready Offer System: 5 AI prompts, one afternoon, a finished offer. $27 today. 30-day guarantee.
 
 ### AD 5 — Offer Clarity (Reddit post)
-- **Creative:** `20260708-reddit-offer-clarity.jpg`  (r/Entrepreneur confession — replaced the 9-to-5 iMessage for format diversity + a discovery/social-proof lane)
+- **Creative:** `20260708-reddit-thread.jpg`  (authentic r/coaching thread — messy-human grammar + "everything is AI now" skepticism, rendered as a phone-screen photo; replaced the 9-to-5 iMessage for a discovery/social-proof lane)
 - **Headline:** You don't have a marketing problem
 - **Primary text:**
   > Most coaches think they have a marketing problem. They don't — they have an offer nobody understands in ten seconds.
