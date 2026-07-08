@@ -10,7 +10,7 @@ offer: Client Ready Offer System — $27
 
 # 📣 Facebook Launch Campaign — Client Ready $27 (one-pager)
 
-Everything to launch in one place: campaign → ad sets → 5 ads (copy + creative). The **same 5 ads run in BOTH ad sets** (Miles play: identical creative across geos, let Meta find the winner).
+Everything to launch in one place: campaign → ad sets → **6 ads** (5 native statics + 1 demo video). The **same 6 ads run in BOTH ad sets** (Miles play: identical creative across geos, let Meta find the winner). Statics = the *pitch* lane; video = the *value-first/curiosity* lane.
 
 ---
 
@@ -34,9 +34,9 @@ Both ad sets: Advantage+ audience (25+), Advantage+ placements, **pixel `2353210
 
 ---
 
-## 3. THE 5 ADS  (run all 5 in each ad set)
+## 3. THE ADS  (run all 6 in each ad set — 5 statics + 1 video)
 
-Creatives live in `outputs/ad-creative/` (native statics, $27-aligned).
+Static creatives live in `outputs/ad-creative/` ($27-aligned). Video in `outputs/ads/2026-07-04-static-ads-tier1-miles-benchmark/video/`.
 
 ### AD 1 — No Sales Calls  🏆 *(strongest native format)*
 - **Creative:** `20260705-175921-imessage-no-calls.png`  (iMessage: "you signed a client without a sales call? → the offer did the selling")
@@ -88,17 +88,27 @@ Creatives live in `outputs/ad-creative/` (native statics, $27-aligned).
   >
   > $27 today. 30-day money-back guarantee.
 
+### AD 6 — Training Demo (VIDEO)  🎬 *(value-first / curiosity lane)*
+- **Creative:** `outputs/ads/2026-07-04-static-ads-tier1-miles-benchmark/video/AD1-30s-demo-final.mp4`  (30s screen-demo, captions, $27, open loop)
+- **Headline:** Discover Your Unfair Advantage
+- **Primary text:**
+  > There's one problem only *you* can solve — most coaches never find it. In this 30-second demo I paste one prompt into AI and it starts pulling my zone of genius out of my head in real time.
+  >
+  > That's the Client Ready Offer System: 5 AI prompts that extract the offer you're uniquely positioned to sell — then you send it to your warm list and let it do the selling. One afternoon.
+  >
+  > Curious what it'd pull out of you? $27 today. 30-day guarantee.
+- **Note:** open loop by design (never shows the finished output). Works cold *and* for retargeting. Optional polish: hide the ChatGPT sidebar on the next export.
+
 ---
 
 ## 4. Launch checklist
-1. [ ] **Upload the 5 creatives** to the account (public URL → I wire via API, or upload in Ads Manager). Files: the 5 above from `outputs/ad-creative/`.
-2. [ ] **Attach each as an ad** in BOTH ad sets (10 ads total), link → clientreadyoffer.com, CTA Learn More.
+1. [ ] **Upload the 6 creatives** to the account (public URL → I wire via API, or upload in Ads Manager): the 5 statics from `outputs/ad-creative/` + the 30s video. *(Video is 9.5MB — needs a public URL or Ads Manager upload; too large for API push from the repo.)*
+2. [ ] **Attach each as an ad** in BOTH ad sets (**12 ads total**: 6 × 2), link → clientreadyoffer.com, CTA Learn More.
 3. [ ] **Events Manager:** confirm Purchase value = full cart ($27 + bumps), not $27 only.
 4. [ ] **Unpause** campaign + ad sets.
 5. [ ] Kill rule: any geo CPA > $100 after ~$150 spend.
 
 ## 5. Notes / alternates
-- **Video (secondary):** `.../video/AD1-30s-demo-final.mp4` — add as a 6th ad for retargeting/warm; recut with sidebar hidden.
 - **`order-summary-front-end-27.png`** is a strong value-stack alt — but VERIFY its "included" list first (it shows the paid bumps as included in $27). Not used above until confirmed.
 - **More angles available:** `alignment`, `overwhelm`, `ai-90`, `objection-sales-calls`, `gmail-validated-offer`, `handwritten-grow-into-pain`, `typo-*`, `ugly-notes` — swap in as fatigue sets in.
 - Long-form versions of each copy block: `outputs/ads/2026-07-04-static-ads-tier1-miles-benchmark/static-ads-batch-001.md`.
