@@ -1,0 +1,19 @@
+{
+  "template": "reddit",
+  "preset": "why-not-selling",
+  "size": "1080x1350",
+  "data": {
+    "subreddit": "coaching",
+    "time": "6h",
+    "upvotes": "3.4k",
+    "comments": "212",
+    "title": "I figured out why my offer wasn't selling — and it wasn't the price",
+    "body": [
+      "For a year I kept lowering my price and adding bonuses. Still crickets.",
+      "Turns out the problem was clarity, not cost. My offer needed a 40-minute call just to explain. If it needs explaining, it's too vague to buy.",
+      "I rebuilt it as one clear page in an afternoon — outcome, roadmap, price. First person who read it just bought. No call.",
+      "Wish someone had told me: validate the clarity before you build the thing."
+    ]
+  },
+  "generated_at": "20260708-153923"
+}

@@ -102,6 +102,11 @@ Templates (all 7 of Miles's proven formats):
 - `handwritten` (paper note, cursive) — grow-into-pain
 - `notes` (iOS Notes screenshot — the ugly-static format, copy baked in) —
   read-first, dont-buy, 9-to-5
+- `reddit` (Reddit post) — why-not-selling
+- `comparison` (NO/YES table) — old-way
+- `before-after` (split card) — the-shift
+- `listicle` ("5 signs…"; accent a word with `*asterisks*`) — 5-signs
+- `quote` (pull-quote card) — grow-into-pain, test-validate
 
 ⚠️ The order-summary line-item prices are illustrative — confirm they map to
 real front-end deliverables before running. Never use fabricated income claims

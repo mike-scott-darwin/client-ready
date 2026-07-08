@@ -64,6 +64,11 @@ python3 scripts/fal-image.py --angle all --model schnell --num 4
 | "Breaking News" tabloid | Template `tabloid` | one-afternoon, no-calls | ✅ built |
 | Handwritten note (lifestyle) | Template `handwritten` | grow-into-pain | ✅ built |
 | iOS Notes screenshot (ugly-static) | Template `notes` | read-first, dont-buy, 9-to-5 | ✅ built |
+| Reddit post | Template `reddit` | why-not-selling | ✅ built |
+| Comparison table (NO/YES) | Template `comparison` | old-way | ✅ built |
+| Before / After split | Template `before-after` | the-shift | ✅ built |
+| Listicle ("5 signs…") | Template `listicle` | 5-signs | ✅ built |
+| Quote card | Template `quote` | grow-into-pain, test-validate | ✅ built |
 | Photoreal lifestyle scenes | fal.ai | 7 angles (see ad-prompts.json) | ✅ built |
 
 **All of Miles's proven formats + fal.ai are built.** Every creative has copy baked in — nothing blank. Rendered in `outputs/ad-creative/`, each with a sidecar `.json` (reproducible swipe file). Render everything with `--preset all` per template.

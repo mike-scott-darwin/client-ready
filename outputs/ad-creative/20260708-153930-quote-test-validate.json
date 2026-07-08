@@ -1,0 +1,11 @@
+{
+  "template": "quote",
+  "preset": "test-validate",
+  "size": "1080x1350",
+  "data": {
+    "quote": "Stop guessing. Test, validate, build — in that order.",
+    "author": "Michael Scott",
+    "role": "Client Ready"
+  },
+  "generated_at": "20260708-153930"
+}

@@ -1,0 +1,24 @@
+{
+  "template": "before-after",
+  "preset": "the-shift",
+  "size": "1080x1350",
+  "data": {
+    "title": "Same skills. Different offer.",
+    "before": {
+      "lines": [
+        "“Let me hop on a call and walk you through how this works…”",
+        "60-minute pitches. Three before anyone commits.",
+        "Rewriting the offer for every lead."
+      ]
+    },
+    "after": {
+      "lines": [
+        "“Read it, made sense, I'm in.”",
+        "One clear page. It answers every question first.",
+        "The offer does the selling."
+      ]
+    },
+    "footer": "The price was never the problem. The offer was."
+  },
+  "generated_at": "20260708-153927"
+}

@@ -1,0 +1,18 @@
+{
+  "template": "listicle",
+  "preset": "5-signs",
+  "size": "1080x1350",
+  "data": {
+    "title": "5 Signs Your Offer Won't Sell",
+    "subtitle": "And why lowering the price won't fix it",
+    "items": [
+      "It takes you more than a sentence to explain it.",
+      "Prospects have ten questions before they decide.",
+      "You rewrite it for every single lead.",
+      "You need a call to “walk them through it.”",
+      "You secretly dread delivering it."
+    ],
+    "closer": "All five are a *clarity* problem — not a price problem."
+  },
+  "generated_at": "20260708-154048"
+}

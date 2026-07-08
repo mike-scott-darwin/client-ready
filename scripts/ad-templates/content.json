@@ -65,6 +65,81 @@
       "subline": "AI does the heavy lifting. You decide."
     }
   },
+  "reddit": {
+    "why-not-selling": {
+      "subreddit": "coaching",
+      "time": "6h",
+      "upvotes": "3.4k",
+      "comments": "212",
+      "title": "I figured out why my offer wasn't selling — and it wasn't the price",
+      "body": [
+        "For a year I kept lowering my price and adding bonuses. Still crickets.",
+        "Turns out the problem was clarity, not cost. My offer needed a 40-minute call just to explain. If it needs explaining, it's too vague to buy.",
+        "I rebuilt it as one clear page in an afternoon — outcome, roadmap, price. First person who read it just bought. No call.",
+        "Wish someone had told me: validate the clarity before you build the thing."
+      ]
+    }
+  },
+  "comparison": {
+    "old-way": {
+      "title": "Why every offer you've launched fell flat",
+      "colOld": "OLD WAY",
+      "colNew": "CLIENT READY",
+      "rows": [
+        { "need": "Clear in under 5 minutes", "old": false, "new": true },
+        { "need": "Sells without a call", "old": false, "new": true },
+        { "need": "Built in one afternoon", "old": false, "new": true },
+        { "need": "Validated before you build", "old": false, "new": true },
+        { "need": "Fits who you actually are", "old": false, "new": true }
+      ]
+    }
+  },
+  "before-after": {
+    "the-shift": {
+      "title": "Same skills. Different offer.",
+      "before": {
+        "lines": [
+          "“Let me hop on a call and walk you through how this works…”",
+          "60-minute pitches. Three before anyone commits.",
+          "Rewriting the offer for every lead."
+        ]
+      },
+      "after": {
+        "lines": [
+          "“Read it, made sense, I'm in.”",
+          "One clear page. It answers every question first.",
+          "The offer does the selling."
+        ]
+      },
+      "footer": "The price was never the problem. The offer was."
+    }
+  },
+  "listicle": {
+    "5-signs": {
+      "title": "5 Signs Your Offer Won't Sell",
+      "subtitle": "And why lowering the price won't fix it",
+      "items": [
+        "It takes you more than a sentence to explain it.",
+        "Prospects have ten questions before they decide.",
+        "You rewrite it for every single lead.",
+        "You need a call to “walk them through it.”",
+        "You secretly dread delivering it."
+      ],
+      "closer": "All five are a *clarity* problem — not a price problem."
+    }
+  },
+  "quote": {
+    "grow-into-pain": {
+      "quote": "You can't grow into pain. Build the offer that fits who you actually are.",
+      "author": "Michael Scott",
+      "role": "Client Ready"
+    },
+    "test-validate": {
+      "quote": "Stop guessing. Test, validate, build — in that order.",
+      "author": "Michael Scott",
+      "role": "Client Ready"
+    }
+  },
   "notes": {
     "read-first": {
       "title": "read this before you build anything",

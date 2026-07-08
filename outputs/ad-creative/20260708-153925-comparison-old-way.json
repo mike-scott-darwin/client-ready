@@ -1,0 +1,38 @@
+{
+  "template": "comparison",
+  "preset": "old-way",
+  "size": "1080x1350",
+  "data": {
+    "title": "Why every offer you've launched fell flat",
+    "colOld": "OLD WAY",
+    "colNew": "CLIENT READY",
+    "rows": [
+      {
+        "need": "Clear in under 5 minutes",
+        "old": false,
+        "new": true
+      },
+      {
+        "need": "Sells without a call",
+        "old": false,
+        "new": true
+      },
+      {
+        "need": "Built in one afternoon",
+        "old": false,
+        "new": true
+      },
+      {
+        "need": "Validated before you build",
+        "old": false,
+        "new": true
+      },
+      {
+        "need": "Fits who you actually are",
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  "generated_at": "20260708-153925"
+}
