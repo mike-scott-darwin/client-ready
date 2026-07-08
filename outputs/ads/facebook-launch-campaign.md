@@ -14,7 +14,25 @@ Everything to launch in one place: campaign → ad sets → **7 ads** (5 native 
 
 ---
 
-## 1. Campaign structure — LIVE IN META (paused)
+## 🚀 0. LAUNCH THIS FIRST — ABO angle test (paused)
+**Test with ABO, scale with CBO** (per `research/2026-02-17-abo-vs-cbo-campaign-structure.md` + your own Jan26 data: **ABO CPA $91 vs CBO $163**). CBO starves untested ads; ABO guarantees each angle gets its budget. Launch this to find the winning angle, then graduate it into the CBO campaign (§1).
+
+`act_463860554507371` · **ABO $50/ad set ($150/day)** · Sales · broad Tier-1+2 (US/CA/GB/AU/NZ/IE/ZA/Nordics) · Advantage+ · pixel `235321027567755` → Purchase.
+
+| Object | Name | ID | Budget |
+|--------|------|----|--------|
+| Campaign | CRO - Sales - Angle Test (ABO) - Jul26 | `120249926141080501` | ABO |
+| Ad set → 1 ad | Angle: Reddit Thread (`1552419863047238`) | `120249926210690501` | $50/day |
+| Ad set → 1 ad | Angle: Before/After (`1331277665738310`) | `120249926227530501` | $50/day |
+| Ad set → 1 ad | Angle: Long-form Confession (`2077860689762677`) | `120249926229750501` | $50/day |
+
+**Run 72h untouched → kill any ad set CPA > ~$88 → graduate the winner into the CBO campaign (§1) & scale.** If $75/day is your cap, run 1–2 of these ad sets, not all 3.
+
+---
+
+## 1. CBO scale campaign (the "winners circle") — paused
+> This is the SCALE-phase home, not the launch. Keep it paused until a winner graduates in from the ABO test above; then trim it to the proven creative(s) + layer the Tier-1/Tier-2 geo split. It currently holds all 7 creatives wired across 2 geo ad sets.
+
 Account `act_463860554507371` · CBO **$75/day** · Sales objective · bid: lowest-cost.
 
 | Object | Name | ID |
