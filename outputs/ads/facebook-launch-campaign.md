@@ -25,6 +25,20 @@ Account `act_463860554507371` · CBO **$75/day** · Sales objective · bid: lowe
 
 Both ad sets: Advantage+ audience (25+), Advantage+ placements, **pixel `235321027567755` → Purchase**.
 
+### ✅ BUILT — 12 ads live in Meta (2026-07-08, all PAUSED, pixel `235321027567755` auto-attached)
+6 creatives × 2 ad sets. Image ads = PENDING_REVIEW, video ads = IN_PROCESS (transcode finalizing) — both normal; they'll clear to paused-and-approved.
+
+| Ad | Creative ID | Creative type |
+|----|-------------|---------------|
+| Ad1 No Sales Calls | `846756914963549` | image (imessage-no-calls) |
+| Ad2 Red Ocean | `1538620267914707` | image (chatgpt-offer-clarity) |
+| Ad3 One Afternoon | `1035581442265726` | image (tabloid-one-afternoon) |
+| Ad4 $27→$5K | `1191276483455787` | image (ladder) |
+| Ad5 9-to-5 | `1750806666355383` | image (imessage-9-to-5) |
+| Ad6 Training Demo | `1022044620429280` | video (`video_id 2536437423539492`) |
+
+Uploaded media: 5 image_hashes + video via public raw-GitHub URLs. Nothing left to upload.
+
 ## 2. Shared settings (every ad)
 - **CTA button:** LEARN MORE
 - **Destination:** https://clientreadyoffer.com/implement
@@ -102,11 +116,12 @@ Static creatives live in `outputs/ad-creative/` ($27-aligned). Video in `outputs
 ---
 
 ## 4. Launch checklist
-1. [ ] **Upload the 6 creatives** to the account (public URL → I wire via API, or upload in Ads Manager): the 5 statics from `outputs/ad-creative/` + the 30s video. *(Video is 9.5MB — needs a public URL or Ads Manager upload; too large for API push from the repo.)*
-2. [ ] **Attach each as an ad** in BOTH ad sets (**12 ads total**: 6 × 2), link → clientreadyoffer.com, CTA Learn More.
-3. [ ] **Events Manager:** confirm Purchase value = full cart ($27 + bumps), not $27 only.
-4. [ ] **Unpause** campaign + ad sets.
-5. [ ] Kill rule: any geo CPA > $100 after ~$150 spend.
+1. [x] **Upload the 6 creatives** — done (5 image_hashes + video via raw-GitHub URLs).
+2. [x] **Build 12 ads** in both ad sets — done (paused, pixel attached, in review).
+3. [ ] **Events Manager:** confirm Purchase value = full cart ($27 + bumps), not $27 only. ⬅️ **do this before unpausing**
+4. [ ] Wait for ad review to clear (PENDING_REVIEW → approved-but-paused), incl. video transcode.
+5. [ ] **Unpause** campaign + ad sets.
+6. [ ] Kill rule: any geo CPA > $100 after ~$150 spend.
 
 ## 5. Notes / alternates
 - **`order-summary-front-end-27.png`** is a strong value-stack alt — but VERIFY its "included" list first (it shows the paid bumps as included in $27). Not used above until confirmed.
