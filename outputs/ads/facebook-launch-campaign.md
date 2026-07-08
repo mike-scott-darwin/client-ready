@@ -14,19 +14,26 @@ Everything to launch in one place: campaign → ad sets → **7 ads** (5 native 
 
 ---
 
-## 🚀 0. LAUNCH THIS FIRST — ABO angle test (paused)
-**Test with ABO, scale with CBO** (per `research/2026-02-17-abo-vs-cbo-campaign-structure.md` + your own Jan26 data: **ABO CPA $91 vs CBO $163**). CBO starves untested ads; ABO guarantees each angle gets its budget. Launch this to find the winning angle, then graduate it into the CBO campaign (§1).
+## 🚀 0. LAUNCH THIS FIRST — one ad set, 5 ads across the awareness scale (paused)
+**Cat Howell's method** (`methodology.md` + her hotseat): *"You should only have one ad set… all those different [creatives] are sitting in the same ad set."* Load diverse creatives spanning the awareness scale into **ONE** ad set and let Meta distribute — messaging/awareness diversity is what the Andromeda algorithm rewards. (The earlier "one concept per ABO ad set" is Cat's *tester* structure for vetting brand-new creatives, not the main launch.)
 
-`act_463860554507371` · **ABO $50/ad set ($150/day)** · Sales · broad Tier-1+2 (US/CA/GB/AU/NZ/IE/ZA/Nordics) · Advantage+ · pixel `235321027567755` → Purchase.
+`act_463860554507371` · **ONE ad set, $50/day** (ad-set-level budget) · Sales · broad Tier-1+2 (US/CA/GB/AU/NZ/IE/ZA/Nordics) · Advantage+ · pixel `235321027567755` → Purchase.
 
-| Object | Name | ID | Budget |
-|--------|------|----|--------|
-| Campaign | CRO - Sales - Angle Test (ABO) - Jul26 | `120249926141080501` | ABO |
-| Ad set → 1 ad | Angle: Reddit Thread (`1552419863047238`) | `120249926210690501` | $50/day |
-| Ad set → 1 ad | Angle: Before/After (`1331277665738310`) | `120249926227530501` | $50/day |
-| Ad set → 1 ad | Angle: Long-form Confession (`2077860689762677`) | `120249926229750501` | $50/day |
+| Object | Name | ID |
+|--------|------|----|
+| Campaign | CRO - Sales - Angle Test (ABO) - Jul26 | `120249926141080501` |
+| **Ad set** | **Cold - Awareness Scale (5 ads)** — $50/day | `120249926210690501` |
 
-**Run 72h untouched → kill any ad set CPA > ~$88 → graduate the winner into the CBO campaign (§1) & scale.** If $75/day is your cap, run 1–2 of these ad sets, not all 3.
+**The 5 ads (all in that one ad set):**
+| # | Awareness level | Creative | Ad ID |
+|---|---|---|---|
+| 1 | Unaware | Long-form confession | `120249927405960501` |
+| 2 | Problem-Aware | Reddit thread | `120249926268270501` |
+| 3 | Solution-Aware | Before/after list | `120249927408090501` |
+| 4 | Product-Aware | Video demo | `120249927414350501` |
+| 5 | Solution / direct | No sales calls (iMessage) | `120249927418120501` |
+
+Let Meta find the winner among the 5. Raise the budget once a clear winner emerges, then graduate winners into the CBO scale campaign (§1) and add the Tier-1/Tier-2 geo split. **Gap:** no dedicated *Most-Aware* (price-forward / retargeting) ad yet — add one later (e.g. an order-summary value-stack for warm/site-visitor traffic).
 
 ---
 
