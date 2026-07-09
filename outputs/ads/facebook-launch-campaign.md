@@ -119,7 +119,7 @@ Static creatives live in `outputs/ad-creative/` ($27-aligned). Video in `outputs
   > The Client Ready Offer System: 5 AI prompts, one afternoon, a finished offer. $27 today. 30-day guarantee.
 
 ### AD 5 — Offer Clarity (Reddit post)
-- **Creative:** `20260708-reddit-thread.jpg`  (authentic r/coaching thread that DEMONSTRATES the fix — no product named in the thread, value-first. Phone-photo look, messy-human grammar, "every guru answer is buy my AI course" fatigue. Client Ready only appears in the ad's primary text.)
+- **Creative:** `20260709-reddit-thread-rCoaching.jpg`  (authentic **r/Coaching** thread that DEMONSTRATES the fix — no product named in the thread, value-first. Flat crisp screenshot, messy-human grammar, "every guru answer is buy my AI course" fatigue. Client Ready only appears in the ad's primary text. *Supersedes `20260708-reddit-thread.jpg` — subreddit capitalization corrected `r/coaching` → `r/Coaching` on 2026-07-09 so it reads as the real sub; swapped into the live Ad `120249926268270501` via new creative.*)
 - **Headline:** It's not your funnel. It's your offer.
 - **Primary text:**
   > The best answer in this thread was the simple one: it's not your funnel, it's your offer. Nail the one problem only you solve, say it so a stranger gets it in ten seconds, cut everything else.
