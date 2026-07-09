@@ -226,7 +226,7 @@ Step 3: [What they walk away with]
 
 **Format:**
 ```
-[Price with anchor: ~~$197~~ $47]
+[Price with anchor: ~~$197~~ $27]
 [What they get — bullet recap]
 [Guarantee]
 [Button: "Get Instant Access" or "Start Now"]
@@ -265,7 +265,7 @@ Step 3: [What they walk away with]
 
 Three prompts that turn your offer document into landing page copy. Use ChatGPT, Claude, or any AI assistant.
 
-**Prerequisite:** You need a completed offer document. If you don't have one, the $47 Client Ready Offer System creates it.
+**Prerequisite:** You need a completed offer document. If you don't have one, the $27 Client Ready Offer System creates it.
 
 ---
 
@@ -493,7 +493,7 @@ You have a live landing page. Now you need traffic.
 
 ## Need More Help?
 
-**Client Ready Offer System ($47)** — Don't have an offer document yet? Start here. The One-Page Funnel assumes you have one.
+**Client Ready Offer System ($27)** — Don't have an offer document yet? Start here. The One-Page Funnel assumes you have one.
 
 **Plug & Play Templates ($67)** — 50+ headlines, 3 landing page swipe files, email sequences — more raw material for your page
 

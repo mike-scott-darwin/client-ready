@@ -15,9 +15,9 @@ updated_from: Community downsell ($47/mo, $1 trial) → Community direct sign-up
 
 ## Overview
 
-When someone buys the $47 but doesn't have a community trial (didn't buy DFY), this email offers direct community access.
+When someone buys the $27 but doesn't have a community trial (didn't buy DFY), this email offers direct community access.
 
-**Trigger:** Purchased $47, did NOT purchase DFY ($197) or DFY Lite ($97) — meaning no community trial bundled
+**Trigger:** Purchased $27, did NOT purchase DFY ($197) or DFY Lite ($97) — meaning no community trial bundled
 **Timing:** Day 8 after purchase
 **Send Time:** 2:00 PM (Welcome sequence sends at 8:00 AM — avoids stacking)
 **Goal:** Convert 3-5% to community members
@@ -85,7 +85,7 @@ P.S. — The community includes everything that used to be in the $297 Sprint �
 ## Automation Logic
 
 ```
-IF purchased $47
+IF purchased $27
 AND NOT purchased DFY ($197)
 AND NOT purchased DFY Lite ($97)
 AND NOT has tag "purchased-community"

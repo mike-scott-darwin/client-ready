@@ -167,7 +167,7 @@ Trading time for money              Business built around your life
 
 INVESTMENT:
 
-$47
+$27
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -551,7 +551,7 @@ This framework comes from Eugene Schwartz's *Breakthrough Advertising* and is us
 
 | Level | What They Know | How to Speak to Them |
 |-------|---------------|----------------------|
-| **Aware** | Know you, know your offer, ready to buy | Direct: "Here's the link. $47. Get it now." |
+| **Aware** | Know you, know your offer, ready to buy | Direct: "Here's the link. $27. Get it now." |
 | **Solution Aware** | Know solutions exist, comparing options | Differentiation: "Why this beats [alternative]" |
 | **Problem Aware** | Feel the pain, haven't committed to solving | Agitation: "Are you still [painful activity]?" |
 | **Unaware** | Don't even know they have a problem | Pattern interrupt: "You've been told [normalized belief]..." |

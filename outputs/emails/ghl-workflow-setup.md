@@ -19,11 +19,11 @@ Complete GoHighLevel workflow configuration for the Client Ready email backend. 
 | # | Workflow Name | Trigger | Emails | HTML Files |
 |---|---------------|---------|--------|------------|
 | 1 | Non-Buyer Nurture | Entered email, no purchase | 12 emails / 30 days | `nb-sequence/NB01-NB12` |
-| 2 | Buyer Welcome | Tag: `purchased-47` | 10 emails / 10 days (Day 3 branches) | `bw-sequence/BW01-BW10` + `BW03a/BW03b` |
-| 3 | Bump Recovery | Purchased $47, missed bumps | 3 emails (Days 2,4,6) | `br-sequence/BR01-BR03` |
+| 2 | Buyer Welcome | Tag: `purchased-27` | 10 emails / 10 days (Day 3 branches) | `bw-sequence/BW01-BW10` + `BW03a/BW03b` |
+| 3 | Bump Recovery | Purchased $27, missed bumps | 3 emails (Days 2,4,6) | `br-sequence/BR01-BR03` |
 | 4 | Bump Delivery | Purchased bump product | 3 emails (immediate) | `bd-sequence/BD01-BD03` |
-| 5 | OTO Recovery | Purchased $47, no DFY/DFY Lite | 3 emails (Days 3,5,7) | `or-sequence/OR01-OR03` |
-| 6 | Community Recovery | Purchased $47, no upsells at all | 1 email (Day 8) | `cr-sequence/CR01` |
+| 5 | OTO Recovery | Purchased $27, no DFY/DFY Lite | 3 emails (Days 3,5,7) | `or-sequence/OR01-OR03` |
+| 6 | Community Recovery | Purchased $27, no upsells at all | 1 email (Day 8) | `cr-sequence/CR01` |
 | 7 | Accountability DM | Purchased DFY or DFY Lite | Manual DM trigger | (no HTML — manual outreach) |
 | 8 | Daily Broadcast | Day 11+ | Ongoing (7 templates) | `db-sequence/DB01-DB07` |
 
@@ -37,7 +37,7 @@ Go to **Settings → Tags** in GHL. Create each tag exactly as written (copy-pas
 - `lead`
 
 ### Purchase Tags
-- `purchased-47`
+- `purchased-27`
 - `purchased-bump-dm-scripts`
 - `purchased-bump-templates`
 - `purchased-bump-playbook`
@@ -74,13 +74,13 @@ One trigger per product. Each fires on **Payment Received** (or **Order Submitte
 | # | Trigger Name | Event Filter | Action |
 |---|-------------|--------------|--------|
 | 1 | Lead Capture | Order Form Submission Started | Add tag → `lead` |
-| 2 | Core Purchase | Payment Received → Client Ready ($47) | Add tag → `purchased-47` |
+| 2 | Core Purchase | Payment Received → Client Ready ($27) | Add tag → `purchased-27` |
 | 3 | DM Scripts Purchase | Payment Received → DM Scripts ($37) | Add tag → `purchased-bump-dm-scripts` |
 | 4 | Templates Purchase | Payment Received → Templates ($67) | Add tag → `purchased-bump-templates` |
 | 5 | Playbook Purchase | Payment Received → Playbook ($97) | Add tag → `purchased-bump-playbook` |
 | 6 | DFY Purchase | Payment Received → DFY Offer Build ($197) | Add tag → `purchased-dfy` |
 | 7 | DFY Lite Purchase | Payment Received → DFY Lite ($97) | Add tag → `purchased-dfy-lite` |
-| 8 | Newsletter Purchase | Payment Received → Newsletter ($37/mo) | Add tag → `purchased-newsletter` |
+| 8 | Monthly Playbook Purchase | Payment Received → The Monthly Playbook ($37/mo) | Add tag → `purchased-newsletter` |
 | 9 | Community Purchase | Payment Received → Community ($47/mo) | Add tag → `purchased-community` |
 
 **For Trigger 1 (Lead Capture):** If "Order Form Submission Started" isn't available in your GHL version, use **"Form Submitted"** or **"Contact Created"** instead.
@@ -117,7 +117,7 @@ Click "+" after the trigger to add each step. Build this exact sequence:
 
 ```
 Step 1:  WAIT → Wait for 30 minutes
-Step 2:  IF/ELSE → Contact Tag → Has tag "purchased-47"
+Step 2:  IF/ELSE → Contact Tag → Has tag "purchased-27"
            ├── YES branch:
            │     Step 2a: REMOVE TAG → "non-buyer-sequence"
            │     (branch ends — workflow exits)
@@ -129,7 +129,7 @@ Step 3:  SEND EMAIL → NB01-soft-abandon.html
 
 Step 4:  WAIT → Wait 1 day (until 9:00 AM)
 
-Step 5:  IF/ELSE → Contact Tag → Has tag "purchased-47"
+Step 5:  IF/ELSE → Contact Tag → Has tag "purchased-27"
            ├── YES: REMOVE TAG "non-buyer-sequence" → End
            └── NO: continue
 
@@ -138,7 +138,7 @@ Step 6:  SEND EMAIL → NB02-cost-of-waiting.html
 
 Step 7:  WAIT → Wait 2 days (until 9:00 AM) [Day 4]
 
-Step 8:  IF/ELSE → Has tag "purchased-47"
+Step 8:  IF/ELSE → Has tag "purchased-27"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -147,7 +147,7 @@ Step 9:  SEND EMAIL → NB03-objection-killer.html
 
 Step 10: WAIT → Wait 2 days (until 9:00 AM) [Day 6]
 
-Step 11: IF/ELSE → Has tag "purchased-47"
+Step 11: IF/ELSE → Has tag "purchased-27"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -156,7 +156,7 @@ Step 12: SEND EMAIL → NB04-contrarian-hook.html
 
 Step 13: WAIT → Wait 2 days (until 9:00 AM) [Day 8]
 
-Step 14: IF/ELSE → Has tag "purchased-47"
+Step 14: IF/ELSE → Has tag "purchased-27"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -165,7 +165,7 @@ Step 15: SEND EMAIL → NB05-social-proof.html
 
 Step 16: WAIT → Wait 2 days (until 9:00 AM) [Day 10]
 
-Step 17: IF/ELSE → Has tag "purchased-47"
+Step 17: IF/ELSE → Has tag "purchased-27"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -174,7 +174,7 @@ Step 18: SEND EMAIL → NB06-direct-close.html
 
 Step 19: WAIT → Wait 4 days (until 9:00 AM) [Day 14]
 
-Step 20: IF/ELSE → Has tag "purchased-47"
+Step 20: IF/ELSE → Has tag "purchased-27"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -183,7 +183,7 @@ Step 21: SEND EMAIL → NB07-pivot-to-value.html
 
 Step 22: WAIT → Wait 2 days (until 9:00 AM) [Day 16]
 
-Step 23: IF/ELSE → Has tag "purchased-47"
+Step 23: IF/ELSE → Has tag "purchased-27"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -192,7 +192,7 @@ Step 24: SEND EMAIL → NB08-wrong-wrong-wrong.html
 
 Step 25: WAIT → Wait 3 days (until 9:00 AM) [Day 19]
 
-Step 26: IF/ELSE → Has tag "purchased-47"
+Step 26: IF/ELSE → Has tag "purchased-27"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -201,7 +201,7 @@ Step 27: SEND EMAIL → NB09-the-transformation.html
 
 Step 28: WAIT → Wait 3 days (until 9:00 AM) [Day 22]
 
-Step 29: IF/ELSE → Has tag "purchased-47"
+Step 29: IF/ELSE → Has tag "purchased-27"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -210,7 +210,7 @@ Step 30: SEND EMAIL → NB10-the-calculator.html
 
 Step 31: WAIT → Wait 4 days (until 9:00 AM) [Day 26]
 
-Step 32: IF/ELSE → Has tag "purchased-47"
+Step 32: IF/ELSE → Has tag "purchased-27"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -219,7 +219,7 @@ Step 33: SEND EMAIL → NB11-cant-go-it-alone.html
 
 Step 34: WAIT → Wait 4 days (until 9:00 AM) [Day 30]
 
-Step 35: IF/ELSE → Has tag "purchased-47"
+Step 35: IF/ELSE → Has tag "purchased-27"
            ├── YES: REMOVE TAG → End
            └── NO: continue
 
@@ -250,7 +250,7 @@ Step 37: REMOVE TAG → "non-buyer-sequence"
 
 ### Key Settings
 - **Send time:** 9:00 AM local (except NB01 which sends 30 min after abandon)
-- **Exit condition:** IF/ELSE checks for `purchased-47` before EVERY email
+- **Exit condition:** IF/ELSE checks for `purchased-27` before EVERY email
 - **If they buy at any point:** Workflow exits, non-buyer tag gets removed, buyer workflows take over
 
 ---
@@ -263,7 +263,7 @@ Step 37: REMOVE TAG → "non-buyer-sequence"
 
 ### Workflow Trigger
 - Type: **Tag Added**
-- Tag: `purchased-47`
+- Tag: `purchased-27`
 
 ### Build the Steps
 
@@ -322,7 +322,7 @@ Step 17: SEND EMAIL → BW08-faq-objection.html
 Step 18: WAIT → Wait 1 day (until 8:00 AM) [Day 9]
 
 Step 19: SEND EMAIL → BW09-the-roadmap.html
-           Subject: "What happens after $47"
+           Subject: "What happens after $27"
            (Includes explicit DFY Offer Build CTA)
 
 Step 20: WAIT → Wait 1 day (until 8:00 AM) [Day 10]
@@ -375,7 +375,7 @@ Days 5, 7, and 9 now include soft ascension closes as P.S. sections:
 | BW06 | BW06-transformation-story.html | 6 | 8:00 AM | From stuck to first client in 30 days | — |
 | BW07 | BW07-behind-the-scenes.html | 7 | 8:00 AM | What my morning actually looks like | Soft close (DFY) |
 | BW08 | BW08-faq-objection.html | 8 | 8:00 AM | "What if I'm not ready?" | — |
-| BW09 | BW09-the-roadmap.html | 9 | 8:00 AM | What happens after $47 | Explicit CTA (DFY) |
+| BW09 | BW09-the-roadmap.html | 9 | 8:00 AM | What happens after $27 | Explicit CTA (DFY) |
 | BW10 | BW10-community-invite.html | 10 | 8:00 AM | Come hang out | — |
 
 ### Key Settings
@@ -394,13 +394,13 @@ Days 5, 7, and 9 now include soft ascension closes as P.S. sections:
 
 ### Workflow Trigger
 - Type: **Tag Added**
-- Tag: `purchased-47`
+- Tag: `purchased-27`
 
 ### Build the Steps
 
 ```
 Step 1:  WAIT → Wait 5 minutes
-           (Let all purchase tags settle — bumps tag at same time as $47)
+           (Let all purchase tags settle — bumps tag at same time as $27)
 
 Step 2:  IF/ELSE → Contact Tag → Has ALL of these tags:
            "purchased-bump-dm-scripts" AND
@@ -518,7 +518,7 @@ Step 2:  SEND EMAIL → BD03-playbook-delivery.html
 
 ### Workflow Trigger
 - Type: **Tag Added**
-- Tag: `purchased-47`
+- Tag: `purchased-27`
 
 ### Build the Steps
 
@@ -581,7 +581,7 @@ Step 8:  IF/ELSE → Contact Tag → Has tag "purchased-dfy" OR "purchased-dfy-l
 
 ### Workflow Trigger
 - Type: **Tag Added**
-- Tag: `purchased-47`
+- Tag: `purchased-27`
 
 ### Build the Steps
 
@@ -701,7 +701,7 @@ Tag: "unsubscribed" ≠ TRUE
 
 | Day | File | Subject | Offer Pitched |
 |-----|------|---------|---------------|
-| Monday | DB01-monday-frontend.html | The coach who couldn't explain what she does | $47 Front-end |
+| Monday | DB01-monday-frontend.html | The coach who couldn't explain what she does | $27 Front-end |
 | Tuesday | DB02-tuesday-templates.html | I stared at the blank page for 3 hours | $67 Templates |
 | Wednesday | DB03-wednesday-sprint.html | The difference between "knowing" and "doing" | $197 DFY / Sprint |
 | Thursday | DB04-thursday-newsletter.html | What's working right now (and what quietly stopped) | $37/mo Monthly Playbook (reply "PLAYBOOK") |
@@ -725,7 +725,7 @@ As buyers ascend, they should stop seeing pitches for products they already own.
 | `purchased-bump-templates` | $67 Templates | Tuesday |
 | `purchased-dfy` | $197 DFY Offer Build | Wednesday |
 | `purchased-community` | $47/mo Community | Thursday |
-| `purchased-newsletter` | $37/mo Newsletter | Saturday |
+| `purchased-newsletter` | $37/mo The Monthly Playbook | Saturday |
 
 **Keep the story. Swap the CTA.** The story is the value — just change what you link to at the end.
 
@@ -733,7 +733,7 @@ As buyers ascend, they should stop seeing pitches for products they already own.
 
 ## Complete Buyer Journey — Day by Day
 
-Here's exactly what a buyer who purchased ONLY the $47 (no bumps, no OTOs) receives:
+Here's exactly what a buyer who purchased ONLY the $27 (no bumps, no OTOs) receives:
 
 | Day | Time | Sequence | Email | Subject | Notes |
 |-----|------|----------|-------|---------|-------|
@@ -752,7 +752,7 @@ Here's exactly what a buyer who purchased ONLY the $47 (no bumps, no OTOs) recei
 | 7 | 2:00 PM | OTO Recovery | OR03 | What 48 hours could save you | |
 | 8 | 8:00 AM | Welcome | BW08 | "What if I'm not ready?" | |
 | 8 | 2:00 PM | Community Recovery | CR01 | The part nobody warns you about | |
-| 9 | 8:00 AM | Welcome | BW09 | What happens after $47 | **Explicit ascension CTA** |
+| 9 | 8:00 AM | Welcome | BW09 | What happens after $27 | **Explicit ascension CTA** |
 | 10 | 8:00 AM | Welcome | BW10 | Come hang out | |
 | 11+ | 8:00 AM | Daily Broadcast | DB01-07 | (rotating daily) | |
 
@@ -808,11 +808,11 @@ Test with a real contact (yourself or a test email) through each path:
 - [ ] Verify `lead` tag applied
 - [ ] Verify `non-buyer-sequence` tag applied (from trigger)
 - [ ] Wait 30 min — verify NB01 sends
-- [ ] Verify purchase check works: manually add `purchased-47` tag → confirm workflow exits
+- [ ] Verify purchase check works: manually add `purchased-27` tag → confirm workflow exits
 
 ### Test Path 2: Buyer (No Bumps)
-- [ ] Complete $47 purchase (no bumps)
-- [ ] Verify `purchased-47` tag applied
+- [ ] Complete $27 purchase (no bumps)
+- [ ] Verify `purchased-27` tag applied
 - [ ] Verify `non-buyer-sequence` removed (by Buyer Welcome workflow Step 1)
 - [ ] Verify BW01 sends immediately
 - [ ] Verify Bump Recovery starts (BR01 on Day 2 at 2 PM)
@@ -839,7 +839,7 @@ Test with a real contact (yourself or a test email) through each path:
 - [ ] Test reminder: don't remove tag → verify overdue notification at 48 hours
 
 ### Test Path 2e: Bump Delivery
-- [ ] Purchase $47 + DM Scripts bump
+- [ ] Purchase $27 + DM Scripts bump
 - [ ] Verify `purchased-bump-dm-scripts` tag applied
 - [ ] Wait 5 min — verify BD01 sends
 - [ ] Verify BD01 includes product access link and quick-start action
@@ -847,7 +847,7 @@ Test with a real contact (yourself or a test email) through each path:
 - [ ] Verify cross-sell bridge links work in each email
 
 ### Test Path 3: Buyer (With Bumps)
-- [ ] Complete $47 + all 3 bumps
+- [ ] Complete $27 + all 3 bumps
 - [ ] Verify all bump tags applied
 - [ ] Verify Bump Recovery workflow exits at Step 2 (all bumps owned)
 - [ ] Verify Welcome still runs normally

@@ -31,7 +31,7 @@ DFY buyers also get:
 | # | File | Audience | Trigger | Duration |
 |---|------|----------|---------|----------|
 | 1 | [1-non-buyers-30-day.md](1-non-buyers-30-day.md) | Leads who didn't buy | Visited sales page | 30 days |
-| 2 | [2-buyers-welcome-10-day.md](2-buyers-welcome-10-day.md) | New buyers | Purchased $47 | Days 1-10 |
+| 2 | [2-buyers-welcome-10-day.md](2-buyers-welcome-10-day.md) | New buyers | Purchased $27 | Days 1-10 |
 | 3a | [3-buyers-recovery-bumps.md](3-buyers-recovery-bumps.md) | Buyers who missed bumps | No bump purchase | Days 2,4,6 |
 | 3b | [3-buyers-recovery-otos.md](3-buyers-recovery-otos.md) | Buyers who missed OTOs | No DFY/DFY Lite | Days 3,5,7 |
 | 3c | [3-buyers-recovery-community.md](3-buyers-recovery-community.md) | Buyers who said no to all | No DFY/DFY Lite | Day 8 |
@@ -56,11 +56,11 @@ DFY buyers also get:
 ### Non-Buyers (Leads)
 1. Visit sales page, don't buy
 2. Enter **1-non-buyers-30-day** sequence
-3. Goal: Convert to $47 purchase
+3. Goal: Convert to $27 purchase
 4. If buy → exit, enter buyer sequences
 
 ### New Buyers (Days 1-10)
-1. Purchase $47
+1. Purchase $27
 2. Enter **2-buyers-welcome-10-day** (8 AM, relationship + iron strike ascension)
    - Day 3 branches based on product consumption (Advanced Tips vs Quick Start)
    - Days 5, 7, 9 include soft ascension P.S. sections

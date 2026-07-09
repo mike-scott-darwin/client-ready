@@ -73,14 +73,14 @@ The funnel isn't the point. The alignment is the point. The funnel is how we del
 
 ```mermaid
 graph TD
-    FE["<b>47 Offer System</b><br/>Front-End Entry Point"] --> B1["37 DM Scripts<br/>Order Bump 1"]
+    FE["<b>27 Offer System</b><br/>Front-End Entry Point"] --> B1["37 DM Scripts<br/>Order Bump 1"]
     FE --> B2["67 Templates<br/>Order Bump 2"]
     FE --> B3["97 Playbook<br/>Order Bump 3"]
     FE --> DFY["197 DFY Offer Build<br/>OTO 1 + Community Trial"]
     DFY -->|no| DFYL["97 DFY Lite<br/>Downsell + Community Trial"]
     DFY --> NL["37/mo Monthly Playbook<br/>OTO 2 — Continuity"]
     DFYL --> NL
-    DFY --> COM["97/mo Community<br/>THE ENGINE"]
+    DFY --> COM["47/mo Community<br/>THE ENGINE"]
     DFYL --> COM
     COM --> HT["5K+ Accelerator<br/>Sold From Community"]
 

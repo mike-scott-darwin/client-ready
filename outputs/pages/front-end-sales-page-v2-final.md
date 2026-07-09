@@ -2,7 +2,7 @@
 type: output
 status: ready-to-build
 date: 2026-06-28
-product: Front-End — The Client Ready Offer ($47)
+product: Front-End — The Client Ready Offer ($27)
 format: Full Sales Page Copy (GHL-ready, cold traffic)
 supersedes_for_live: outputs/pages/front-end-sales-page.md (v1), outputs/pages/front-end-sales-page-v2-codify.md (backstage only)
 maps_to: outputs/pages/front-end-v2-ghl-swap-sheet.md
@@ -10,20 +10,20 @@ live_page: https://clientreadyoffer.com/digital_snacks22-3475-662204
 location: AKRQpXEUDgloSAbxzDmh
 ---
 
-# Front-End Sales Page — The Client Ready Offer ($47) · v2 FINAL (Cold Traffic)
+# Front-End Sales Page — The Client Ready Offer ($27) · v2 FINAL (Cold Traffic)
 
 **Rules baked in:** pain-first, plain language. No mechanism jargon ("codify," "reference files," "compound," "sovereign" — all cut; those live on the backend/warm only). No Miles/Digital-Snacks/No-Phone/Wellington leftovers. No income claims by Michael. No fake countdown. Testimonials keep disclaimers.
 
 **Two things to fill before publish:**
 1. `{{CUSTOMER_COUNT}}` — the ONE true customer/student number, used everywhere. GHL shows ~16 real purchasers, so don't use "150+" or "1090+" unless they're genuinely true. If not, delete the rating line and lean on the Renee testimonial + Stripe proof.
-2. Pricing anchor standardized to **~~$197~~ $47** (no % badges). Change if your real anchor differs.
+2. Pricing anchor standardized to **~~$197~~ $27** (no % badges). Change if your real anchor differs.
 
 **Metadata fixes (do in GHL settings, not copy):** `og:author`/`author` → **Michael Scott** (currently "Miles Stutz"). "Need Help?" email href → **`mailto:michael@michaelscott.io`** (currently points to miles@milesstutz.com). Verify phone + logo are yours.
 
 ---
 
 ## BANNER
-> CLIENT READY LAUNCH PRICING — $47 TODAY WHILE WE BUILD CASE STUDIES
+> CLIENT READY LAUNCH PRICING — $27 TODAY WHILE WE BUILD CASE STUDIES
 
 [No countdown. Honest framing only.]
 
@@ -46,10 +46,10 @@ location: AKRQpXEUDgloSAbxzDmh
 > Most coaches don't have a marketing problem. They have an offer nobody understands. 5 AI prompts turn the expertise you already have into one offer people say yes to on the spot — no funnel, no daily content, no sales calls.
 
 **CTA Button**
-> GET INSTANT ACCESS — $47
+> GET INSTANT ACCESS — $27
 > 30-Day Money-Back Guarantee
 
-[Product mockup image — show $47.]
+[Product mockup image — show $27.]
 
 ---
 
@@ -179,7 +179,7 @@ location: AKRQpXEUDgloSAbxzDmh
 
 > Ready to stop hoping your offer will convert and start getting paid?
 
-> **GET INSTANT ACCESS — $47**
+> **GET INSTANT ACCESS — $27**
 
 ---
 
@@ -219,16 +219,16 @@ INSTANT ACCESS | INCLUDED
 ---
 
 ## PRICING
-> **Only ~~$197~~ $47.00 today.**
+> **Only ~~$197~~ $27.00 today.**
 > Client Ready launch pricing while we build case studies. Not hype — we return to full price once we have the testimonials.
 
-> **GET INSTANT ACCESS — $47**
+> **GET INSTANT ACCESS — $27**
 > 30-Day Money-Back Guarantee
 
 ---
 
 ## BONUSES
-> PLUS 9 BONUSES FREE — when you get Client Ready Offer for just $47 today.
+> PLUS 9 BONUSES FREE — when you get Client Ready Offer for just $27 today.
 
 1. **AI Offer Prompt Library** — proven prompts that pull profitable offer ideas out of your expertise.
 2. **55+ High-Converting Hooks & Headlines** — fill in your details and launch.
@@ -240,27 +240,27 @@ INSTANT ACCESS | INCLUDED
 8. **Problem Sequencing Worksheet** — map every profitable offer in your expertise.
 9. **Lifetime Direct Email Support** — questions answered as you build. No time limit.
 
-INCLUDED FREE with your $47 today.
+INCLUDED FREE with your $27 today.
 
 ---
 
 ## GUARANTEE
 > **YOUR PURCHASE IS BACKED BY MY UNCONDITIONAL 30-DAY MONEY-BACK GUARANTEE**
 
-> I want you comfortable with this. Even at $47 — you worked for that money and it counts.
+> I want you comfortable with this. Even at $27 — you worked for that money and it counts.
 
-> Get instant access, go through the case study and prompts, and take action on what you find. If you're not blown away, email michael@michaelscott.io within 30 days. I refund your $47 **and** you keep the Client Ready System. Test-drive the car before you drive it off the lot.
+> Get instant access, go through the case study and prompts, and take action on what you find. If you're not blown away, email michael@michaelscott.io within 30 days. I refund your $27 **and** you keep the Client Ready System. Test-drive the car before you drive it off the lot.
 
 ---
 
 ## FINAL CTA
-> **GET INSTANT ACCESS — $47**
+> **GET INSTANT ACCESS — $27**
 > 30-Day Money-Back Guarantee
 
 ---
 
 ## STICKY BOTTOM BAR
-> ~~$197~~ **$47 Today** — Build your offer in one afternoon. Delivered instantly. Start in the next 2 minutes.
+> ~~$197~~ **$27 Today** — Build your offer in one afternoon. Delivered instantly. Start in the next 2 minutes.
 
 ---
 
@@ -288,4 +288,4 @@ Banner → Top bar → Hero → Rating + Renee → Problem → Case Study (4 par
 ## Headline A/B (test after launch)
 1. Build an offer so clear it sells itself — in one afternoon. *(default)*
 2. It was never your coaching. It was your offer. *(pair with pre-head: "'Let me think about it.' Then they ghost.")*
-3. Confused to Clarity to Cash. The $47 System That Takes Care of the First Two. *(proven v1 control)*
+3. Confused to Clarity to Cash. The $27 System That Takes Care of the First Two. *(proven v1 control)*

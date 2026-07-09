@@ -1,4 +1,4 @@
-# "What's Working Now" Newsletter
+# The Monthly Playbook
 
 **Monthly deep-dives on what's actually converting — not theory, not predictions, what's working today.**
 
@@ -67,7 +67,7 @@ Monthly means:
 - You want tested strategies, not theory
 
 **Not a fit:**
-- You haven't started yet (start with the $47 system)
+- You haven't started yet (start with the $27 system)
 - You want hand-holding (that's the Community at $47/mo)
 - You don't implement what you learn
 
@@ -76,7 +76,7 @@ Monthly means:
 ## FAQ
 
 **Q: How is this different from the Community?**
-A: The Community ($47/mo) is a room — weekly calls, DM access, accountability, curriculum. The Newsletter ($37/mo) is a document — one deep-dive per month with templates. Some members have both. The newsletter gives you the "what," the community gives you the "how" and "with who."
+A: The Community ($47/mo) is a room — weekly calls, DM access, accountability, curriculum. The Monthly Playbook ($37/mo) is a document — one deep-dive per month with templates. Some members have both. It gives you the "what," the community gives you the "how" and "with who."
 
 **Q: Can I cancel anytime?**
 A: Yes. No contracts. No cancellation fees. Cancel before your next billing date and you're done.

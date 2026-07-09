@@ -550,7 +550,7 @@ A trust-building pattern: disclose the upsell in the ad itself.
 ### Why It Works
 
 - Disarms the "what's the catch" objection before they click
-- Builds trust through honesty — positions you as the anti-guru
+- Builds trust through honesty — positions you as alignment-first
 - People buy anyway because the transparency itself is persuasive
 - Aligns with "no-BS" positioning
 

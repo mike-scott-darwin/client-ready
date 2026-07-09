@@ -2,7 +2,7 @@
 type: output
 product: Front-End Bonus 9
 date: 2026-07-01
-price_context: Included free with the $47 Client Ready Offer
+price_context: Included free with the $27 Client Ready Offer
 ---
 
 # Lifetime Direct Email Support

@@ -10,7 +10,7 @@ trigger: Visited sales page but didn't purchase
 # Non-Buyer Email Sequence (30 Days)
 
 **Trigger:** Visited sales page but didn't purchase
-**Goal:** Convert to front-end purchase ($47 Client Ready Offer System)
+**Goal:** Convert to front-end purchase ($27 Client Ready Offer System)
 **Tone:** Miles Stutz style + Michael Scott voice
 **Emails:** 12 over 30 days
 
@@ -45,7 +45,7 @@ No judgment. I do it too.
 
 But I'm curious - what stopped you?
 
-- Price? (It's $47. Less than lunch.)
+- Price? (It's $27. Less than lunch.)
 - Timing? (It takes one afternoon to complete.)
 - Trust? (Fair. You don't know me yet.)
 - Not sure it's for you? (I can help with that.)
@@ -84,7 +84,7 @@ At $100/hour (low for a coach), that's $500-$900/week in lost time.
 
 $2,000-$3,600/month.
 
-For $47, you can fix the root problem in one afternoon.
+For $27, you can fix the root problem in one afternoon.
 
 Not "start to fix." Fix.
 
@@ -114,7 +114,7 @@ If you already know your offer, answer these:
 
 If you can answer all three clearly, instantly, without hedging - you don't need the system.
 
-Seriously. Save your $47.
+Seriously. Save your $27.
 
 But if you hesitated? If your answer to #1 was longer than 15 words? If you said "it depends"?
 
@@ -163,7 +163,7 @@ The Client Ready Offer System walks you through this exact process.
 
 Not theory. 5 AI prompts that force you to look at your actual experience and build an offer from it.
 
-$47: [LINK]
+$27: [LINK]
 
 Michael
 
@@ -187,7 +187,7 @@ Not to give you MY offer formula. To help you find YOURS.
 
 The one that's already inside your experience. You just haven't extracted it yet.
 
-One afternoon. $47.
+One afternoon. $27.
 
 [LINK]
 
@@ -207,7 +207,7 @@ You haven't bought. That's fine.
 
 But I want to be direct before I stop pitching:
 
-If you're a coach without a clear offer, this will fix that. $47. One afternoon.
+If you're a coach without a clear offer, this will fix that. $27. One afternoon.
 
 If you're not a coach, or you already have a clear offer that converts - ignore this.
 
@@ -308,7 +308,7 @@ All because they skipped validation.
 
 Don't be that coach.
 
-$47 to extract and validate your offer in one afternoon: [LINK]
+$27 to extract and validate your offer in one afternoon: [LINK]
 
 Michael
 
@@ -348,7 +348,7 @@ Not because he got "better" at coaching. Because he got clear on what he was sel
 
 That's the only thing that changed.
 
-Want to make the same shift? $47: [LINK]
+Want to make the same shift? $27: [LINK]
 
 Michael
 
@@ -384,7 +384,7 @@ The offer problem doesn't solve itself. You don't "figure it out" by thinking ha
 
 That's what the Client Ready Offer System does. 5 AI prompts. One afternoon. Done.
 
-$47: [LINK]
+$27: [LINK]
 
 Or keep spinning. Your call.
 
@@ -428,7 +428,7 @@ You answer the prompts. AI does the heavy lifting. You walk away with a document
 
 Not next month. Today.
 
-$47 to stop consuming and start creating: [LINK]
+$27 to stop consuming and start creating: [LINK]
 
 Michael
 
@@ -449,7 +449,7 @@ After this, you'll just hear from me when I have something valuable to share abo
 So let me make this simple:
 
 **The offer:**
-$47 for 5 AI prompts that extract your zone of genius, ideal client, pain points, story, and assemble them into a complete offer document.
+$27 for 5 AI prompts that extract your zone of genius, ideal client, pain points, story, and assemble them into a complete offer document.
 
 **The time investment:**
 One afternoon.
@@ -513,7 +513,7 @@ PS. "But I might need it later." You might. But the spinning you're doing now co
 
 - [x] Direct, not hype
 - [x] Short paragraphs (1-3 sentences)
-- [x] Anti-guru positioning
+- [x] Alignment-first positioning
 - [x] Specific numbers and timeframes
 - [x] PS on every email
 - [x] Single CTA per email

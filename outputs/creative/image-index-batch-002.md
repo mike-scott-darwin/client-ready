@@ -57,7 +57,7 @@ Upload both formats per ad in Facebook Ads Manager. Facebook will serve the righ
 
 | Image | Files | Pairs With | Description |
 |-------|-------|------------|-------------|
-| comparison | `_vertical.jpg` (262KB) `_square.jpg` (242KB) | P3: Agency $3K vs Client Ready $47 | Dark background, subtle grid, red/coral upper zone vs green/gold lower zone |
+| comparison | `_vertical.jpg` (262KB) `_square.jpg` (242KB) | P3: Agency $3K vs Client Ready $27 | Dark background, subtle grid, red/coral upper zone vs green/gold lower zone |
 
 ### BRIDGE — Pattern Interrupt
 
@@ -75,7 +75,7 @@ Upload both formats per ad in Facebook Ads Manager. Facebook will serve the righ
 | text_dark_02 | "Most Coaches Skip This Step and Then Wonder Why Nothing Converts" | Bold sans-serif | White |
 | text_dark_03 | "Content Doesn't Create Clarity. Clarity Creates Content That Works." | Bold sans-serif | White |
 | before_after | Left: "I help everyone with everything" → Right: "I'm the only choice" | Bold sans-serif | White (left: muted, right: bright) |
-| comparison | Top: "Branding Agency: $3K+, 6-8 weeks" / Bottom: "$47. One Afternoon." | Bold sans-serif | Top: white/red, Bottom: white/gold |
+| comparison | Top: "Branding Agency: $3K+, 6-8 weeks" / Bottom: "$27. One Afternoon." | Bold sans-serif | Top: white/red, Bottom: white/gold |
 | pattern_interrupt | "The funnel isn't the problem. The offer is." | Extra bold | White or gold |
 
 ---

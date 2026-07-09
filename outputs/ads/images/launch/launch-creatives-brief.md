@@ -22,7 +22,7 @@ format: 1:1 (1080x1080) + 9:16 (1080x1920) per image
 - Screenshot of actual product content on screen
 - Face cam circle overlay (bottom-left or bottom-right)
 - Title text overlay at top (angle-specific hook)
-- CTA at bottom: "$47 — link below"
+- CTA at bottom: "$27 — link below"
 
 No AI-generated images. No staged laptops. No metaphors. Real product. Real proof.
 
@@ -89,11 +89,11 @@ The offer wasn't clear. Fix that first.
 
 **Screen:** Screenshot showing the "What You Just Got" intro page (same section as your working creative but zoomed to show the 5 prompt titles clearly).
 
-**Title overlay:** "What's inside the $47 system"
+**Title overlay:** "What's inside the $27 system"
 
 **Face cam:** Your face, bottom-right circle.
 
-**CTA:** "$47 — link below"
+**CTA:** "$27 — link below"
 
 Use a different crop or scroll position from the video thumbnail for visual variety.
 
@@ -127,7 +127,7 @@ $5,000.
 
 **Title overlay:** "This is what clarity looks like"
 
-**CTA:** "$47 — link below"
+**CTA:** "$27 — link below"
 
 The output IS the ad. Show what they actually get.
 
@@ -147,7 +147,7 @@ The output IS the ad. Show what they actually get.
 1. Prompt 1 going in — "Extract your Zone of Genius"
 2. GPT generating output — "One afternoon. One clear offer."
 3. Final offer document taking shape — "This is what clarity looks like."
-4. End frame: "$47 — link below"
+4. End frame: "$27 — link below"
 
 **Production:** CapCut. Face cam circle (left or right). Subtitles bold, high contrast (yellow/white on black bar). No voiceover needed — subtitles carry the story.
 
@@ -170,7 +170,7 @@ Add these when Before the Funnel is proven. Pair with second copy block: **P1 De
 > "What Michael has taught me has given me such clarity on who I am here to serve"
 > — Nicole, breathwork coach
 
-**Face cam:** Your face, bottom-right. **CTA:** "$47 — link below"
+**Face cam:** Your face, bottom-right. **CTA:** "$27 — link below"
 
 **BtF-05: Section Zoom**
 
@@ -178,7 +178,7 @@ Add these when Before the Funnel is proven. Pair with second copy block: **P1 De
 
 **Title overlay:** "Before you build anything"
 
-**Face cam:** Your face, bottom-left. **CTA:** "$47 — link below"
+**Face cam:** Your face, bottom-left. **CTA:** "$27 — link below"
 
 ---
 
@@ -221,7 +221,7 @@ just creates more content nobody buys.
 
 **Face cam:** Your face, bottom-right.
 
-**CTA:** "$47 — link below"
+**CTA:** "$27 — link below"
 
 Show the system — not more content advice.
 
@@ -245,7 +245,7 @@ Now you know what to sell.
 
 **Title overlay:** "Stop posting. Start selling."
 
-**CTA:** "$47 — link below"
+**CTA:** "$27 — link below"
 
 365 posts, 0 clients vs. 1 afternoon, 1 client. The gap sells it.
 
@@ -262,7 +262,7 @@ Now you know what to sell.
 
 **Face cam:** Your face, bottom-right.
 
-**CTA:** "$47 — link below"
+**CTA:** "$27 — link below"
 
 Robin's exact words. No rewrite needed.
 
@@ -276,7 +276,7 @@ Robin's exact words. No rewrite needed.
 
 **Face cam:** Your face, bottom-left.
 
-**CTA:** "$47 — link below"
+**CTA:** "$27 — link below"
 
 ---
 
@@ -296,7 +296,7 @@ Notes app, dark mode:
 Most coaches can't explain their offer
 in one sentence.
 
-Fix that in one afternoon. $47.
+Fix that in one afternoon. $27.
 ```
 
 Alt:
@@ -319,7 +319,7 @@ you never said it clearly once.
 
 **Face cam:** Your face, bottom-right.
 
-**CTA:** "$47 — link below"
+**CTA:** "$27 — link below"
 
 Same format as the working ad. Different scroll position.
 
@@ -351,7 +351,7 @@ $5,000.
 
 **Title overlay:** "Same person. Same expertise. Different offer."
 
-**CTA:** "$47 — link below"
+**CTA:** "$27 — link below"
 
 Same format as the working before/after ad.
 
@@ -368,7 +368,7 @@ Same format as the working before/after ad.
 
 **Face cam:** Your face, bottom-right.
 
-**CTA:** "$47 — link below"
+**CTA:** "$27 — link below"
 
 Wendy's exact words. Let the quote do the work.
 
@@ -382,7 +382,7 @@ Wendy's exact words. Let the quote do the work.
 
 **Face cam:** Your face, bottom-left.
 
-**CTA:** "$47 — link below"
+**CTA:** "$27 — link below"
 
 ---
 
@@ -424,7 +424,7 @@ it'll hurt worse at $50K/month.
 
 **Face cam:** Your face, bottom-right. Slightly serious expression if using a still frame.
 
-**CTA:** "$47 — link below"
+**CTA:** "$27 — link below"
 
 Shows the first step: make sure you're building the right thing.
 
@@ -455,7 +455,7 @@ losing team members to burnout.
 
 **Title overlay:** "Same coach. Different offer."
 
-**CTA:** "$47 — link below"
+**CTA:** "$27 — link below"
 
 Same before/after format. List of failed offers → one that works.
 
@@ -472,7 +472,7 @@ Same before/after format. List of failed offers → one that works.
 
 **Face cam:** Your face, bottom-right.
 
-**CTA:** "$47 — link below"
+**CTA:** "$27 — link below"
 
 Carly's exact words. Alignment over revenue — that's the Misalignment angle.
 
@@ -486,7 +486,7 @@ Carly's exact words. Alignment over revenue — that's the Misalignment angle.
 
 **Face cam:** Your face, bottom-left.
 
-**CTA:** "$47 — link below"
+**CTA:** "$27 — link below"
 
 Test before you build. That's the whole point.
 

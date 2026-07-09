@@ -33,10 +33,10 @@ reads:
 - Format: Markdown (Buttondown native)
 - Length: 800-1200 words
 - Structure: Hook → story/insight → practical takeaway → soft CTA
-- Pillar: rotate weekly (Offer Creation → Funnel Strategy → Anti-Guru → Behind the Scenes)
+- Pillar: rotate weekly (Offer Creation → Funnel Strategy → Alignment-First → Behind the Scenes)
 - CTA: soft push to $27 front-end at clientreadyoffer.com — never hard sell
 - Sign-off: "Talk soon, Michael"
-- Tone: direct, practical, anti-guru. Like a smart friend explaining what works.
+- Tone: direct, practical, alignment-first. Like a smart friend explaining what works.
 - No emojis. No hype words. No "incredible" or "revolutionary."
 - One-word sentences for emphasis are good. "Wrong." "Today."
 
@@ -68,7 +68,7 @@ reads:
 ---
 type: content
 platform: linkedin
-pillar: [offer-creation | funnel-strategy | anti-guru | behind-the-scenes]
+pillar: [offer-creation | funnel-strategy | alignment-first | behind-the-scenes]
 status: draft
 scheduled_date: YYYY-MM-DD
 ---
@@ -105,7 +105,7 @@ type: content
 platform: x
 format: thread
 thread_position: N
-pillar: [offer-creation | funnel-strategy | anti-guru | behind-the-scenes]
+pillar: [offer-creation | funnel-strategy | alignment-first | behind-the-scenes]
 status: draft
 scheduled_date: YYYY-MM-DD
 ---
