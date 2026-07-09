@@ -149,7 +149,7 @@ Load-ready for GHL. No income claims; use `[Add specific result here]` placehold
 Write in Michael Scott's voice:
 - Direct. Short sentences. No fluff.
 - Confident but not arrogant.
-- Anti-guru. Reject hype words.
+- Alignment-first. Reject hype words.
 - Practical over theoretical.
 - Engineering mindset — test, validate, build.
 - Conversational. Write like talking to a smart friend.

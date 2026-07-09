@@ -31,7 +31,7 @@ This page is **cold traffic.** Lead with the **burning pain** and the **plain ou
    - (c) Honest early-stage framing: "Join our first customers" — no invented count.
    **→ Decide: `_______`**
 
-**2. The ONE discount presentation.** Live page has "50% OFF" / "82% OFF" / "88% OFF" and both $197 and $147 anchors. Standardize to the real ladder anchor from offer.md: **~~$197~~ $47**. Drop the percentage badges (they're wrong and inconsistent). If you want a number, $197→$47 is **76% off**.
+**2. The ONE discount presentation.** Live page has "50% OFF" / "82% OFF" / "88% OFF" and both $197 and $147 anchors. Standardize to the real ladder anchor from offer.md: **~~$197~~ $27**. Drop the percentage badges (they're wrong and inconsistent). If you want a number, $197→$27 is **76% off**.
    **→ Decide: `_______`**
 
 ---
@@ -40,7 +40,7 @@ This page is **cold traffic.** Lead with the **burning pain** and the **plain ou
 
 ### 1. Top banner (currently "🔥 50% OFF CODE… ENDS 6TH JULY")
 **ACTION: REPLACE** (kill the fake countdown — dates don't even match; your v1 rule was no fake countdowns)
-> CLIENT READY V2 LAUNCH PRICING — $47 WHILE WE BUILD CASE STUDIES
+> CLIENT READY V2 LAUNCH PRICING — $27 WHILE WE BUILD CASE STUDIES
 
 ### 2. "Questions? Call me maybe: +1 469-327-5358 😉"
 **ACTION: FIX** — verify that number is yours (not a Miles/agency number). Drop "call me maybe 😉" → off-voice.
@@ -66,7 +66,7 @@ This page is **cold traffic.** Lead with the **burning pain** and the **plain ou
 |---|---|---|
 | 1 | Build an offer so clear it sells itself — in one afternoon. | Outcome (recommended default) |
 | 2 | It was never your coaching. It was your offer. | Reframe the blame (pairs w/ pre-head "'Let me think about it.' Then they ghost.") |
-| Control | Confused to Clarity to Cash. The $47 System That Takes Care of the First Two. | Proven v1 winner |
+| Control | Confused to Clarity to Cash. The $27 System That Takes Care of the First Two. | Proven v1 winner |
 
 ### 6. "This gets you new customers in 72 hours even if you never ran ads…"
 **ACTION: DELETE (P0)** — speed/results claim, FTC risk, and it's Miles's promise style.
@@ -106,9 +106,9 @@ This page is **cold traffic.** Lead with the **burning pain** and the **plain ou
 ### 11. Countdown timer block ("1 days 12 hours…")
 **ACTION: DELETE** — fake urgency, mismatched with banner date.
 
-### 12. Pricing block ("Only $197 $47… 82% OFF")
+### 12. Pricing block ("Only $197 $27… 82% OFF")
 **ACTION: FIX** per Decision #2. Keep the honest V1/V2 launch-pricing paragraph; remove the "% OFF" badge.
-> **Only ~~$197~~ $47.00** — Client Ready V2 launch pricing while we build case studies. Not hype — we return to full price once we have the testimonials.
+> **Only ~~$197~~ $27.00** — Client Ready V2 launch pricing while we build case studies. Not hype — we return to full price once we have the testimonials.
 
 ### 13. Case study "HOW I WENT FROM 7 YEARS OF SEARCHING…"
 **ACTION: KEEP the story, REPLACE the ending** to add the codify turn. Retitle:
@@ -185,7 +185,7 @@ Add a small callout: **"First win in 10 minutes — run Prompt 1 and walk away w
 **ACTION: KEEP** — the get-rich-quick / results disclaimer is good and now consistent with the cleaned body.
 
 ### 25. Final CTA + sticky bottom bar
-**ACTION: KEEP; standardize** price to ~~$197~~ $47 per Decision #2.
+**ACTION: KEEP; standardize** price to ~~$197~~ $27 per Decision #2.
 
 ---
 

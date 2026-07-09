@@ -79,8 +79,8 @@ This is where it starts. 10-15 minutes of your time.
 - You want something ready to use — not another course to work through
 
 **Not a fit:**
-- You have no idea what you want to offer (start with the $47 system)
-- You want to learn how to do this yourself (the $47 system teaches you)
+- You have no idea what you want to offer (start with the $27 system)
+- You want to learn how to do this yourself (the $27 system teaches you)
 - You want a complete funnel build with traffic and optimization (that's the $5K Accelerator)
 
 ---
@@ -98,8 +98,8 @@ Your deliverables arrive on time. If for any reason they don't:
 
 ## FAQ
 
-**Q: How is this different from the $47 system?**
-A: The $47 system is yours to keep — it teaches you to extract and validate your own offer, and you should run it. This is the shortcut *plus* the parts the $47 doesn't include: a full **Dream Client Blueprint**, a **validated offer**, a **ready-to-send Google sales doc** you can send today to get hand-raisers, a **plug-and-play sales page**, a **5-email sales sequence**, **5 ad hooks** across awareness levels, and **my personal review** of all of it before it hits your inbox — done in 48 hours. The $47 teaches you to fish; this hands you the catch, cleaned and ready, plus the gear you didn't have yet.
+**Q: How is this different from the $27 system?**
+A: The $27 system is yours to keep — it teaches you to extract and validate your own offer, and you should run it. This is the shortcut *plus* the parts the $27 doesn't include: a full **Dream Client Blueprint**, a **validated offer**, a **ready-to-send Google sales doc** you can send today to get hand-raisers, a **plug-and-play sales page**, a **5-email sales sequence**, **5 ad hooks** across awareness levels, and **my personal review** of all of it before it hits your inbox — done in 48 hours. The $27 teaches you to fish; this hands you the catch, cleaned and ready, plus the gear you didn't have yet.
 
 **Q: What if I don't like what you create?**
 A: You get one revision round included. If the direction is off, I'll adjust based on your feedback.

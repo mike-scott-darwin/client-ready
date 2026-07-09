@@ -207,7 +207,7 @@ cat > ~/.openclaw/workspace/AGENTS.md << 'OCEOF'
 Read reference/core/voice.md before drafting any content.
 - Direct. No-BS. Engineering mindset. Short sentences.
 - Signature: "Wrong." "Test, validate, build." "You can't grow into pain."
-- Anti-guru positioning. Substance over perception.
+- Alignment-first positioning. Substance over perception.
 OCEOF
 ```
 
@@ -255,7 +255,7 @@ Role: Founder, Client Ready
 - Direct communication, no fluff
 - Engineering mindset: test, validate, build
 - Prefers "link in comments" for LinkedIn (algorithm suppresses inline links)
-- Anti-guru positioning
+- Alignment-first positioning
 - Action over perfection
 - Show content in full before approval (no summaries)
 OCEOF

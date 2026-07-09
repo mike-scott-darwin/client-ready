@@ -1,6 +1,6 @@
 ---
 type: output
-product: Front-End Delivery Bundle — The Client Ready Offer ($47)
+product: Front-End Delivery Bundle — The Client Ready Offer ($27)
 format: Buyer welcome + delivery index (drop into GHL portal / send on purchase)
 date: 2026-07-01
 ---
@@ -71,4 +71,4 @@ Let's go.
 
 ---
 
-*Delivery notes (internal): drop this as the portal landing/welcome module for the $47 product. Bonus files live in `outputs/products/bonuses/`. All bonuses are compliance-clean (no income claims, no invented proof). Bonus 9 is a support policy, not a downloadable asset.*
+*Delivery notes (internal): drop this as the portal landing/welcome module for the $27 product. Bonus files live in `outputs/products/bonuses/`. All bonuses are compliance-clean (no income claims, no invented proof). Bonus 9 is a support policy, not a downloadable asset.*

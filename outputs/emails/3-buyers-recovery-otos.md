@@ -15,9 +15,9 @@ updated_from: OTO Recovery (Sprint + Blueprint) → DFY Recovery ($197)
 
 ## Overview
 
-When someone buys the $47 (and maybe bumps) but skips the DFY OTO, this sequence re-pitches the DFY Offer Build ($197) over the next week.
+When someone buys the $27 (and maybe bumps) but skips the DFY OTO, this sequence re-pitches the DFY Offer Build ($197) over the next week.
 
-**Trigger:** Purchased $47, did NOT purchase OTO1 (DFY) or OTO1 Downsell (DFY Lite)
+**Trigger:** Purchased $27, did NOT purchase OTO1 (DFY) or OTO1 Downsell (DFY Lite)
 **Timing:** Days 3, 5, and 7 after purchase
 **Send Time:** 2:00 PM (Welcome sequence sends at 8:00 AM — avoids stacking)
 **Goal:** Recover 5-10% of missed OTO revenue
@@ -134,7 +134,7 @@ Michael
 ## Automation Logic
 
 ```
-IF purchased $47
+IF purchased $27
 AND NOT purchased DFY ($197)
 AND NOT purchased DFY Lite ($97)
 THEN send all 3 emails

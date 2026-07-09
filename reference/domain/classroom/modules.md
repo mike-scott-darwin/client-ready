@@ -26,9 +26,9 @@ All content available in free Skool community. Core modules drip over 72 hours.
 | Bump 2 | Plug & Play Templates | $67 |
 | Bump 3 | The First $5K Client Playbook | $97 |
 | OTO 1 | DFY Offer Build | $197 |
-| OTO 2 | DFY Lite (downsell) | $97 |
-| Standalone | Client Ready Community | $47/mo |
-| Standalone | Newsletter | $37/mo |
+| Downsell | DFY Lite | $97 |
+| OTO 2 | The Monthly Playbook | $37/mo |
+| Community | Client Ready Community | $47/mo |
 | Backend | Client Ready Accelerator | $5,000 |
 
 ---

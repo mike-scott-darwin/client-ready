@@ -3,14 +3,14 @@ type: reference
 status: active
 date: 2026-02-04
 purpose: Buyer welcome sequence (relationship only)
-trigger: Purchased $47 Client Ready Offer System
+trigger: Purchased $27 Client Ready Offer System
 duration: 10 days
 note: Relationship-first with soft ascension in iron strike window (Days 5-9). Consumption branch on Day 3.
 ---
 
 # 10-Day Welcome Sequence
 
-**Trigger:** Purchased $47 Client Ready Offer System
+**Trigger:** Purchased $27 Client Ready Offer System
 **Goal:** Build relationship, deliver quick wins, establish trust
 **Tone:** Miles Stutz directness + Michael Scott warmth
 **Emails:** 10 over 10 days
@@ -47,7 +47,7 @@ See `decisions/2026-02-14-ecosystem-architecture-iron-strike.md` for full ration
 | 6 | From stuck to first client in 30 days | Transformation story | — |
 | 7 | What my morning actually looks like | Behind the scenes | Soft close (DFY) |
 | 8 | "What if I'm not ready?" | FAQ / objection | — |
-| 9 | What happens after $47 | The roadmap | Explicit CTA (DFY) |
+| 9 | What happens after $27 | The roadmap | Explicit CTA (DFY) |
 | 10 | Come hang out | Community invite | — |
 
 ---
@@ -340,7 +340,7 @@ Michael
 
 ## Day 9: The Roadmap
 
-**Subject:** What happens after $47
+**Subject:** What happens after $27
 
 ---
 

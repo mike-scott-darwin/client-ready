@@ -186,7 +186,7 @@ Quick thought from phone: message the General topic. Agent writes to journal/YYY
 
 - Scan new journal entries for mentions of existing reference concepts
 - Add [[wiki links]] where entries connect to offer, audience, voice, or soul
-- Tag entries with content pillars where applicable (Offer Creation, Funnel Strategy, Anti-Guru, Behind the Scenes)
+- Tag entries with content pillars where applicable (Offer Creation, Funnel Strategy, Alignment-First, Behind the Scenes)
 - Flag entries that mention the same topic as a previous entry (pattern signal)
 
 **What the agent does weekly (graduation scan, Sunday):**

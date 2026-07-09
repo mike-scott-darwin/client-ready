@@ -14,9 +14,9 @@ format: Google Doc
 
 ## Overview
 
-When someone buys the $47 but skips the order bumps, this sequence re-pitches them over the next week.
+When someone buys the $27 but skips the order bumps, this sequence re-pitches them over the next week.
 
-**Trigger:** Purchased $47, did NOT purchase Bump 1 (DM Scripts), Bump 2 (Templates), or Bump 3 (First $5K Client Playbook)
+**Trigger:** Purchased $27, did NOT purchase Bump 1 (DM Scripts), Bump 2 (Templates), or Bump 3 (First $5K Client Playbook)
 **Timing:** Days 2, 4, and 6 after purchase
 **Send Time:** 2:00 PM (Welcome sequence sends at 8:00 AM — avoids stacking)
 **Goal:** Recover 10-20% of missed bump revenue
@@ -125,11 +125,11 @@ Michael
 ## Automation Logic
 
 ```
-IF purchased $47
+IF purchased $27
 AND NOT purchased any bump
 THEN send all 3 emails
 
-IF purchased $47
+IF purchased $27
 AND purchased some bumps but not others
 THEN send emails pitching only the missed bumps
 

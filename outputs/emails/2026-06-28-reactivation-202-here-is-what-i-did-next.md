@@ -17,7 +17,7 @@ source_files:
 
 **Who:** 202 warm buyers who already bought Client Ready to build an offer. Not cold — they know Michael.
 **Job:** sell them the thing they *didn't* see him do — codifying the whole business into files and running all marketing from them. Sort builders vs delegators. Reply-based (Miles: every email an offer, reply-based). No free magnet — they're buyers; sell the upgrade.
-**Primary conversion:** DFY "we codify your brain for you" ($197) and/or Client Ready OS. Secondary: upgraded DIY $47 system for builders.
+**Primary conversion:** DFY "we codify your brain for you" ($197) and/or Client Ready OS. Secondary: upgraded DIY $27 system for builders.
 **Cadence:** Day 1, 2, 4, 6, 8 (5 emails). Send from `mail.codify.build`. Watch the DFY slot cap before Email 4/5 (guardrail #4).
 
 > **Voice check:** direct, no hype, engineering, short sentences. No income promises to the reader (voice.md). The "48 files / 9 hours a week" is Michael's *process*, not a results claim for the buyer.

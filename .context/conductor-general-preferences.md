@@ -31,7 +31,7 @@ Report a 2-3 line summary of today's state before proceeding with the task.
 | Bumps | $37-$97 | DM Scripts, Templates, $5K Playbook |
 | OTO 1 | $197 | DFY Offer Build |
 | Downsell | $97 | DFY Lite |
-| OTO 2 | $37/mo | "What's Working Now" Newsletter |
+| OTO 2 | $37/mo | The Monthly Playbook |
 | Community | $47/mo | Client Ready Community |
 | Backend | $5K+ | Client Ready Accelerator |
 

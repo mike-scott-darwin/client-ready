@@ -40,7 +40,7 @@ Here's how the Client Ready funnel already maps:
 
 | Step | Solves | Next problem that appears | Bump that answers it |
 |------|--------|---------------------------|----------------------|
-| Main ($47 Offer System) | "I don't have a clear offer" | "I have an offer — now how do I start conversations?" | DM Scripts ($37) |
+| Main ($27 Offer System) | "I don't have a clear offer" | "I have an offer — now how do I start conversations?" | DM Scripts ($37) |
 | Bump 1 (DM Scripts) | "How do I start conversations?" | "I don't want to build every asset from scratch" | Templates ($67) |
 | Bump 2 (Templates) | "I have the assets" | "Now how do I actually close?" | First $5K Client Playbook ($97) |
 
@@ -147,7 +147,7 @@ The strongest pattern bakes the money-back guarantee straight into the headline,
 
 - **Don't be afraid to price up.** A bump that won't sell at $12 can sell at $24 — the price signals the value. Test the higher number before you assume the bump is broken.
 - **But price won't rescue a weak offer.** If buyers won't take it at $27, they won't take it at $47. Price is a lever, not a fix.
-- **Keep bumps under the main product's price** so the main purchase still feels like the anchor. Across the Client Ready checkout, bumps sit at $37 / $67 / $97 against the $47 front end and climb by next-step value.
+- **Keep bumps under the main product's price** so the main purchase still feels like the anchor. Across the Client Ready checkout, bumps sit at $37 / $67 / $97 against the $27 front end and climb by next-step value.
 - **Read the take-rate, not your gut.** If you get 20-30 sales and only about 1 person takes the bump, the offer isn't good enough — replace it, don't just re-price it. A well-matched bump can run 25% take-rate or higher; the target across all bumps combined is roughly half of buyers taking at least one.
 
 **Bottom line:** keep the main product complete, put the next step (or a faster version of the current step) behind the checkbox, and write the headline as a promise you're willing to guarantee. Test the price up before you kill the bump. Let's go.

@@ -60,7 +60,7 @@ linked_decisions:
 
 ---
 
-### 4. OTO 2 Page (Newsletter)
+### 4. OTO 2 Page (The Monthly Playbook)
 
 **URL:** Post-OTO1 redirect
 **Purpose:** Low-friction recurring revenue
@@ -68,7 +68,7 @@ linked_decisions:
 **CTA:** Subscribe Now
 
 **Key elements:**
-- "What's Working Now" — monthly tested offer breakdown + templates
+- The Monthly Playbook — monthly tested offer breakdown + templates
 - Shown to ALL buyers (not conditional)
 - Bridges to community: "Want the calls too? Join the community."
 
@@ -183,7 +183,7 @@ See: `reference/domain/funnel/email-rhythm.md`
 **Content pillars:**
 1. Offer creation tips
 2. Funnel strategy
-3. Anti-guru positioning ("You can't grow into pain")
+3. Alignment-first positioning ("You can't grow into pain")
 4. Behind the scenes / transparency
 
 **Posting frequency:** TBD
@@ -198,7 +198,7 @@ _To build:_
 - [ ] DFY Lite downsell page ($97) in GHL
 - [ ] DFY onboarding form (11 questions) in GHL
 - [ ] Claude API integration (GHL webhook → Make.com/n8n → Claude → delivery)
-- [ ] Newsletter OTO page ($37/mo) in GHL
+- [ ] The Monthly Playbook OTO page ($37/mo) in GHL
 - [ ] Community pricing set to $47/mo with 30-day trial logic in GHL
 - [ ] Accelerator spot announcement template for community
 - [ ] Updated email recovery sequences (DFY instead of Sprint/Blueprint)
