@@ -29,7 +29,7 @@ Everything to launch in one place: campaign → ad sets → **7 ads** (5 native 
 |---|---|---|---|
 | 1 | Unaware | Long-form confession | `120249927405960501` |
 | 2 | Problem-Aware | Reddit thread | `120249926268270501` |
-| 3 | Solution-Aware | Before/after list | `120249927408090501` |
+| 3 | Solution-Aware | Before/after (striking 2-panel) | `120249927408090501` |
 | 4 | Product-Aware | Video demo | `120249927414350501` |
 | 5 | Solution / direct | Warm-list method (iMessage) | `120249927418120501` |
 
