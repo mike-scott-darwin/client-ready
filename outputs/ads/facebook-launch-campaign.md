@@ -31,7 +31,7 @@ Everything to launch in one place: campaign → ad sets → **7 ads** (5 native 
 | 2 | Problem-Aware | Reddit thread | `120249926268270501` |
 | 3 | Solution-Aware | Before/after (striking 2-panel) | `120249927408090501` |
 | 4 | Product-Aware | Video demo | `120249927414350501` |
-| 5 | Solution / direct | Warm-list method (iMessage) | `120249927418120501` |
+| 5 | Solution / direct | DM sales-script (fence-sitter close) | `120249927418120501` |
 
 Let Meta find the winner among the 5. Raise the budget once a clear winner emerges, then graduate winners into the CBO scale campaign (§1) and add the Tier-1/Tier-2 geo split. **Gap:** no dedicated *Most-Aware* (price-forward / retargeting) ad yet — add one later (e.g. an order-summary value-stack for warm/site-visitor traffic).
 
