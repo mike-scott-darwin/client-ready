@@ -94,3 +94,6 @@ See [reference/domain/funnel/email-rhythm.md](../../reference/domain/funnel/emai
 
 Old/superseded files in `_archived/`:
 - `2026-01-25-email-sequence-buyers-v1.md` — Original 30-day buyer sequence (merged into welcome + recovery)
+- `10-day-welcome-sequence-old.md`, `email-templates-30-days-old.md`, `ghl-migration-old-to-new.md` — pre-Iron-Strike drafts
+- `or-sequence/OR01-OR03` — old Sprint/Blueprint OTO-recovery pitches (superseded by the DFY $197 pitch)
+- `sprint-welcome-series/` — Sprint welcome emails; Sprint was retired into community content (see [decisions/2026-03-07-dfy-upsell-community-first.md](../../decisions/2026-03-07-dfy-upsell-community-first.md))
