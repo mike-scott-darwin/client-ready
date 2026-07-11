@@ -88,7 +88,7 @@ The sequence still rules: **get front end + bumps covering as much of CPA as you
 4. **Don't touch OTOs** until front end + bumps cover most of your CPA.
 5. Any too-good ad number → **verify the orders in Stripe** before you trust it.
 
-**Stuck on any of it?** That's exactly what the Community is for — bring your real numbers to a weekly call and I'll help you find the leak, live. **[Join and get help — first month free →]({{COMMUNITY_TRIAL_LINK}})**
+**Stuck on any of it?** That's exactly what the Community is for — bring your real numbers to a weekly call and I'll help you find the leak, live. **[Join and get help — first month free →](https://www.skool.com/high-ticket-playbook-9467)**
 
 ---
 
@@ -119,7 +119,7 @@ Next issue hits on the 1st — the exact bump copy, word for word, with the take
 
 **P.S. Want help actually building this? Your first month in the Community is on me.**
 Reading it is one thing — doing it on *your* funnel is another. The Community is where you get the help: weekly calls where I look at your real numbers, direct feedback on your offer and bumps, and coaches building alongside you. As a Playbook subscriber, your **first month is free**.
-→ **[Join the Community — get help, first month free]({{COMMUNITY_TRIAL_LINK}})**
+→ **[Join the Community — get help, first month free](https://www.skool.com/high-ticket-playbook-9467)**
 $47/mo after. Cancel anytime.
 
 *The Monthly Playbook · $37/mo · Cancel anytime.*
