@@ -38,6 +38,19 @@ So I rebuilt my checkout from one order bump into six deliberate plays. Below is
 
 ---
 
+## First, what these numbers even mean (plain English)
+
+If some of these terms are fuzzy, read this once and the rest of the issue clicks:
+
+- **AOV — Average Order Value.** The average total a buyer spends in one checkout: the $27 front-end *plus* whatever bumps they add. If 10 people buy and spend $600 total, your AOV is $60. Higher AOV = each buyer is worth more, which is how a cheap front-end stops losing money.
+- **Take-rate.** The percentage of buyers who tick a bump. A 20% take-rate means 1 in 5 buyers added it.
+- **CPA — Cost Per Acquisition.** What you pay in ads to get **one** buyer. This is the number AOV has to beat. If it costs you $40 in ads to get a buyer (CPA) and each buyer spends $60 (AOV), you made $20 at the checkout — *before* a single follow-up email.
+- **Refund rate.** The percentage of orders refunded. It's your early-warning light: if adding a bump makes AOV jump but refunds spike too, that bump is over-promising — cut it.
+
+The whole game of a low-ticket funnel: **get AOV above CPA.** Every play below is a lever on AOV.
+
+---
+
 ## The one rule all six plays share
 
 A checkout play only works if it feels like **finishing the purchase they already started** — not starting a new one. Highest intent, lowest friction. The second a play feels like a second sale, it gets declined. Every play below is built to ride the intent that's already there, not manufacture new intent.
@@ -152,6 +165,22 @@ Keep that in your head. It's the spine.
 **How to read it:** the number that matters is checkout AOV, not any single play. Watch AOV and refund rate together — if AOV climbs and refunds stay flat, the stack is healthy. If refunds spike, one play is over-promising. Cut it.
 
 *Illustrative of one test on one funnel. Individual results vary — this is a case, not a promise.*
+
+---
+
+## How to actually SEE your AOV in Meta (nobody tells you this)
+
+Here's what trips up almost everyone: **AOV is not a button in Meta Ads Manager.** There's no default "AOV" column — you have to build it once, yourself, as a *custom metric*. Five minutes, one time, and it shows on every campaign forever:
+
+1. Open **Ads Manager** → click the **Columns** dropdown (top-right of the table) → **Customize Columns**.
+2. Bottom-left of that window → **Create Custom Metric**.
+3. Build the formula: **Purchases Conversion Value ÷ Purchases** — that's *total money in* divided by *number of orders*. (In the formula editor, pick "Website Purchases Conversion Value," type `/`, then "Website Purchases." Match whichever purchase event your pixel fires.)
+4. Set **Format → Currency**, name it **`AOV`**, and Save.
+5. Add the new `AOV` column to your view. Done — every campaign now shows its average order value.
+
+**Why this matters more than any single ad metric:** AOV is the number you hold up against **CPA** (what a buyer costs you). Meta will happily show you CPA and hide AOV — so people optimize to "cheaper buyers" and still lose money, because they never see that their AOV is below their CPA. Build the AOV column and you can finally see, per campaign, whether your checkout actually pays for the traffic. That's the entire point of the six plays above: **push AOV up until it clears CPA.**
+
+*(No Meta ads yet? Skip this — your AOV lives in your checkout tool, GHL or Stripe. Same number, different dashboard.)*
 
 ---
 

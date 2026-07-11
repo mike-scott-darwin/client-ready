@@ -26,6 +26,11 @@ issue must clear this bar or it's a free-tier issue you shouldn't send as paid:
      IDs, emails); keep the "one test, results vary — a case, not a promise" caption on every screenshot.
      Markdown: `![Order-bump take-rates — {month}](public-image-url)`.
 3. **Built for coaches specifically** — not generic-for-anyone.
+4. **Written for a beginner** — assume the reader knows little about low-ticket funnels. **Define every
+   metric and acronym in plain English the first time it appears** (AOV, CPA, take-rate, CTR, ROAS, EPC…) —
+   what it is, what it *means*, and why it matters. If a number depends on tool setup, show the how-to
+   (e.g. "AOV is not a default Meta column — build it as a custom metric: Purchases Conversion Value ÷
+   Purchases"). Never assume they know the jargon. Clarity is part of the paid value.
 
 **If the numbers are still placeholders, the issue is NOT ready to send as paid.** The real numbers aren't
 decoration you add later — they're ~half the reason it costs $37. No numbers → it reads free → churn.
@@ -154,13 +159,29 @@ Last week of the month, so the 1st always has an issue ready.
 
 ---
 
-## Theme backlog (each = one issue)
-- **Checkout / AOV** (Issue #1 — 6 bump plays) ✅
-- DMs & warm outreach — N copy-paste scripts that book calls
-- Ads — N hooks/structures tested this month + the CPLs
-- Email — N subject-line/CTA patterns getting opened right now
-- Pricing & guarantees — N offer tweaks that moved conversion
-- Onboarding — N first-48-hour plays that cut refunds
+## The curriculum — cover the FULL gambit of a low-ticket funnel
+
+The series isn't random monthly topics — it walks a beginner through the **entire** low-ticket funnel, one
+piece at a time, in the order you'd actually build it. Over the year, a subscriber gets the whole system.
+Each issue: plain-English teaching + copy-paste plays + real numbers/screenshot + the exact tools needed.
+
+| # | Gambit piece | What the issue covers |
+|---|---|---|
+| 1 | **Audience** | Who you're for, where they hang out, how to know they'll pay — before you build anything |
+| 2 | **Offer** | The low-ticket entry, the value ladder ($27 → bumps → OTOs → community), how to price |
+| 3 | **Funnel** | The actual steps/pages: opt-in → sales page → checkout → bumps → OTO → thank-you |
+| 4 | **Copy** | The words on each step — headlines, bullets, CTAs, the swipe files |
+| 5 | **Email** | The follow-up sequences: welcome, non-buyer, buyer, daily broadcast — what to send when |
+| 6 | **The Sale / Checkout** | Bumps, OTOs, AOV — squeezing max value at the highest-intent moment *(the current Issue #1)* |
+| 7 | **Tech** | The stack that runs it all — cart, email platform, pixel, automations — and how they connect |
+
+**Beginner-first ordering note:** the current Issue #1 is piece #6 (checkout/AOV), which assumes a funnel
+already exists. If the list is truly cold on funnels, consider leading the series with **Audience → Offer →
+Funnel** so they can follow along building, and move the checkout issue later. (See open question in the
+handoff — decide before scheduling the run of issues.)
+
+Each issue also names the **tools needed** for that piece (e.g. GHL/ThriveCart for checkout, Buttondown for
+email, Meta pixel for tracking) so a beginner can actually execute, not just nod along.
 
 ---
 
