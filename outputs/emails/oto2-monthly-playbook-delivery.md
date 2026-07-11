@@ -89,10 +89,12 @@ In the GHL buyers location, add a **Custom Webhook** action to the Monthly Playb
   - Method: `POST`
   - URL: `https://api.buttondown.com/v1/subscribers`
   - Header: `Authorization: Token YOUR_BUTTONDOWN_API_KEY`
-  - Body (JSON): the contact's email + the paid tag, e.g.
+  - Body (JSON): the contact's email + the paid tag **ID** (Buttondown targets tags by ID, not name —
+    verified against the live API), e.g.
     ```json
-    { "email_address": "{{contact.email}}", "tags": ["monthly-playbook"] }
+    { "email_address": "{{contact.email}}", "tags": ["sub_tag_XXXXXXXX"] }
     ```
+    Create the tag and get its `sub_tag_…` ID first — see Step 0 in the setup guide.
   - Exact field names/schema: https://docs.buttondown.com/api-subscribers-type
 
 That's the whole sync. Set once, runs forever. No MCP, no monthly GHL work.

@@ -19,6 +19,32 @@ Everything that's a **one-time** setup for Architecture A. After this, your only
 
 Do them in this order. Total time ~30 min.
 
+> **⚠️ Plan prerequisite (verified against the live account 2026-07-11):** the Buttondown account
+> (key `e071e1fe…` in `.env`) authenticates fine but is on the **Free plan**. Tags require **Basic**;
+> API sending + the welcome automation + paid subscriptions require **Standard ($29/mo)**. On Free, tag
+> creation returns `403 feature_disabled` and none of the three steps below will run. **Upgrade to Standard
+> first:** https://buttondown.com/pricing
+>
+> Also confirm this is the right account for Client Ready's *paid* newsletter — it already holds unrelated
+> tags (`elmproaudience`, `12 weeks coaching`, `au`, `us`), so keep the `monthly-playbook` list cleanly
+> separated (or use a dedicated account) so paid content never leaks to another list.
+
+---
+
+## 0. Create the tag + get its ID (after upgrading to Basic/Standard)
+
+Buttondown targets tags **by ID** (`sub_tag_…`), not by name. Create the tag once, then grab its ID for the
+GHL webhooks (the monthly poster resolves the name→ID automatically, so it only needs the name).
+
+```bash
+set -a; . ./.env; set +a
+# create the tag
+curl -s -X POST -H "Authorization: Token $BUTTONDOWN_API_KEY" -H "Content-Type: application/json" \
+  -d '{"name":"monthly-playbook","color":"#2563EB","description":"Paid — Monthly Playbook $37/mo"}' \
+  https://api.buttondown.com/v1/tags | python3 -m json.tool
+# note the "id": "sub_tag_..." from the response — that's TAG_ID for the webhooks below
+```
+
 ---
 
 ## 1. Buttondown welcome automation — "first issue delivered immediately"
@@ -90,16 +116,16 @@ Fill in **exactly**:
 | Body type | `JSON` / Raw |
 | Body | see below |
 
-**Body (JSON):**
+**Body (JSON):** — use the tag **ID** from Step 0 (not the name):
 ```json
 {
   "email_address": "{{contact.email}}",
-  "tags": ["monthly-playbook"]
+  "tags": ["sub_tag_XXXXXXXXXXXX"]
 }
 ```
 - `{{contact.email}}` — use GHL's merge-field picker so it inserts the real token for your account.
-- ⚠️ **Verify the tags field** against your Buttondown API version (names vs IDs):
-  https://docs.buttondown.com/api-subscribers-type
+- Replace `sub_tag_XXXX…` with the ID printed by Step 0. The `tags` field takes IDs, verified against the
+  live API. Schema ref: https://docs.buttondown.com/api-subscribers-type
 
 Save. Set the workflow **Active**.
 
