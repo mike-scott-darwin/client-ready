@@ -121,18 +121,19 @@ Next issue hits on the 1st. Hit reply with {the specific result to report} — I
 
 ---
 
-**P.S. Your first month in the Client Ready Community is on me.**
-The Playbook is the document — one theme, tested, every month. The Community is the *room*: weekly calls,
-direct feedback on your offer, and the coaches building alongside you. As a Playbook subscriber, your
-**first month is free**.
-→ **[Join the Community — first month free]({{COMMUNITY_TRIAL_LINK}})**
-$47/mo after. Cancel anytime.
+**P.S. Want help actually building this? Try the Community free for 7 days.**
+Reading it is one thing — doing it on *your* funnel is another. The Community is where you get the help:
+weekly calls where I look at your real numbers, direct feedback on your offer and bumps, and coaches
+building alongside you.
+→ **[Join the Community — free 7-day trial](https://www.skool.com/high-ticket-playbook-9467/about)**
+$47/mo after the trial. Cancel anytime.
 
 *The Monthly Playbook · $37/mo · Cancel anytime.*
 ```
-This P.S. is the standing $37 → $47 ascension. Keep it every issue — the Playbook feeds the Community, which
-is where the Accelerator gets sold. Wire `{{COMMUNITY_TRIAL_LINK}}` to a GHL offer/coupon granting the first
-month free.
+This P.S. is the standing $37 → $47 ascension, framed as **getting help**. Keep it every issue — the Playbook
+feeds the Community, which is where the Accelerator gets sold. **Link = the Skool community**
+(`skool.com/high-ticket-playbook-9467/about`); Skool runs the billing + a fixed **7-day free trial** (Skool's
+native trial can't be changed to 30 days — don't promise "first month free"). GHL is not involved in community billing.
 
 ---
 
