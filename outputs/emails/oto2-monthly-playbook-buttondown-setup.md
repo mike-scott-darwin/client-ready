@@ -31,19 +31,18 @@ Do them in this order. Total time ~30 min.
 
 ---
 
-## 0. Create the tag + get its ID (after upgrading to Basic/Standard)
+## 0. Tag — DONE ✅
 
-Buttondown targets tags **by ID** (`sub_tag_…`), not by name. Create the tag once, then grab its ID for the
-GHL webhooks (the monthly poster resolves the name→ID automatically, so it only needs the name).
+The paid tag already exists in the Client Ready Buttondown account (created + verified 2026-07-11):
+- **Name:** `monthly-playbook`
+- **TAG_ID:** `sub_tag_635jft10559rxr9jt8mxgpg014`  ← use this in the GHL webhooks below
 
-```bash
-set -a; . ./.env; set +a
-# create the tag
-curl -s -X POST -H "Authorization: Token $BUTTONDOWN_API_KEY" -H "Content-Type: application/json" \
-  -d '{"name":"monthly-playbook","color":"#2563EB","description":"Paid — Monthly Playbook $37/mo"}' \
-  https://api.buttondown.com/v1/tags | python3 -m json.tool
-# note the "id": "sub_tag_..." from the response — that's TAG_ID for the webhooks below
-```
+The monthly poster resolves the name→ID automatically, so it only needs the name in `.env`. The GHL webhooks
+are static, so they use the ID above.
+
+> **Firewall note (verified live):** the account's Buttondown **firewall** blocked a test signup
+> (`subscriber_blocked`). Real GHL buyers should pass, but before launch confirm your firewall settings
+> (Buttondown → Settings → Firewall) won't reject legitimate buyer emails coming from the webhook.
 
 ---
 
@@ -116,16 +115,16 @@ Fill in **exactly**:
 | Body type | `JSON` / Raw |
 | Body | see below |
 
-**Body (JSON):** — use the tag **ID** from Step 0 (not the name):
+**Body (JSON):** — uses the confirmed tag ID (subscriber `tags` field takes tag IDs — verified live):
 ```json
 {
   "email_address": "{{contact.email}}",
-  "tags": ["sub_tag_XXXXXXXXXXXX"]
+  "tags": ["sub_tag_635jft10559rxr9jt8mxgpg014"]
 }
 ```
 - `{{contact.email}}` — use GHL's merge-field picker so it inserts the real token for your account.
-- Replace `sub_tag_XXXX…` with the ID printed by Step 0. The `tags` field takes IDs, verified against the
-  live API. Schema ref: https://docs.buttondown.com/api-subscribers-type
+- Shape verified against the live API 2026-07-11 (POST `/v1/subscribers`).
+  Schema ref: https://docs.buttondown.com/api-subscribers-type
 
 Save. Set the workflow **Active**.
 

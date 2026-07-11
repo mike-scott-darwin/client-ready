@@ -164,17 +164,18 @@ def resolve_tag_id(api_key, tag_name):
     (e.g. the tag doesn't exist yet, or the plan is below Basic so tags are disabled).
     """
     ctx = ssl.create_default_context()
-    req = urllib.request.Request(
-        f"{API_BASE}/tags",
-        headers={"Authorization": f"Token {api_key}"},
-        method="GET",
-    )
+    url = f"{API_BASE}/tags"   # paginate — accounts can have 100+ tags across pages
     try:
-        resp = urllib.request.urlopen(req, context=ctx)
-        data = json.loads(resp.read().decode())
-        for t in data.get("results", []):
-            if t.get("name") == tag_name:
-                return t.get("id")
+        while url:
+            req = urllib.request.Request(
+                url, headers={"Authorization": f"Token {api_key}"}, method="GET",
+            )
+            resp = urllib.request.urlopen(req, context=ctx)
+            data = json.loads(resp.read().decode())
+            for t in data.get("results", []):
+                if t.get("name") == tag_name:
+                    return t.get("id")
+            url = data.get("next")   # DRF-style cursor; None on last page
     except urllib.error.HTTPError as e:
         log(f"Tag lookup failed ({e.code}): {e.read().decode()[:200]}")
     return None
@@ -196,9 +197,16 @@ def post_to_buttondown(api_key, tag_id, issue, status="draft", schedule_at=None)
         "subject": issue["subject"],
         "body": issue["body_md"],          # markdown, sent as-is
         "status": status,
-        # Tag targeting — sends this issue ONLY to subscribers with the paid tag ID.
-        # `included_tags` expects tag IDs (sub_tag_...), verified against the live API.
-        "included_tags": [tag_id],
+        # Tag targeting — sends ONLY to subscribers holding the paid tag.
+        # Shape verified against the live API 2026-07-11: field 'subscriber.tags',
+        # operator 'contains', value = tag ID (sub_tag_...).
+        "filters": {
+            "filters": [
+                {"field": "subscriber.tags", "operator": "contains", "value": tag_id}
+            ],
+            "groups": [],
+            "predicate": "and",
+        },
     }
     if issue.get("preview"):
         payload["description"] = issue["preview"]   # preview/preheader text
