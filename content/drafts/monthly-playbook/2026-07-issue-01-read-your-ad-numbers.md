@@ -26,7 +26,7 @@ Here's my real funnel, both sides.
 
 ## Side 1: the scary side — my ad costs
 
-![My ad account — real numbers](https://assets.buttondown.email/images/9fd89ee0-6518-475a-9f58-60a00680844b.png)
+![My ad account — real numbers](https://assets.buttondown.email/images/8b9cfbd3-23cd-4a58-92cc-82dca2e7ea70.png)
 *My account, early tests — a case, not a promise.*
 
 On the ad side alone this looks rough: **cost per purchase $65–$122**, ROAS below 1.0. If you only ever look at Ads Manager, you'd panic and kill everything.
