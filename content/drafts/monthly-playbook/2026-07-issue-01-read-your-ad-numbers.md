@@ -6,102 +6,108 @@ published_date: null
 tag: monthly-playbook
 ---
 
-# How to Read Your Facebook Ad Numbers (Most Coaches Can't)
+# From $122 a Sale to 48 Cents: How to Read Your Ad Numbers
 
-**Subject line:** how to read your FB ad numbers (real account inside)
+**Subject line:** how to read a losing ad vs a winner (real account inside)
 
-**Preview text:** The 4 numbers that tell you if your ads make money — and the one that decides it.
+**Preview text:** Two real ad sets from my account — one underwater, one at 48¢ a buyer. The numbers tell you which.
 
 ---
 
 *The Monthly Playbook · Issue #1 · One skill. Real numbers. Plain English.*
 
-**TLDR:** The only 4 Facebook ad numbers that matter, what each one means, and the single comparison that tells you in five seconds whether an ad makes or loses money — walked through on my real (and right now, unprofitable) ad account.
+**TLDR:** Two screenshots from my real Facebook account — one losing money, one printing buyers at 48¢ — and the four numbers that let you tell them apart in five seconds. Plus your play this week.
 
-> ### The honest result, up front
-> Here's my actual ad account. I'm paying **$65–$122 in ads to make a ~$25 sale.** Underwater. That's normal for early testing — and it's exactly why you have to be able to *read* these numbers instead of guessing. Below: what each one means, on my real data.
->
-> *One account, early tests. Individual results vary — a case, not a promise.*
+Most coaches open Ads Manager, see 40 columns, and freeze. So they guess — and scale the wrong ad. Here's how to actually read it, using two real ad sets from my own account.
 
-![My real Facebook ad account — early tests, anonymized](REPLACE-WITH-HOSTED-SCREENSHOT-URL)
+---
 
-**Who this is for:** you're running (or about to run) Facebook ads to a low-ticket offer, and Ads Manager looks like alphabet soup.
-**Not for you:** you've already got profitable ads dialed in.
+## First: what *testing* looks like (underwater)
+
+![My early ad tests — real account](https://assets.buttondown.email/images/9fd89ee0-6518-475a-9f58-60a00680844b.png)
+*Early tests. One account, real numbers — a case, not a promise.*
+
+Read it honestly: **AOV $24.74, cost per purchase $65–$122.** I paid $65–122 in ads to make a ~$25 sale. ROAS **0.20–0.54** (below 1.0 = losing money). That's what testing looks like — and it's *fine*, as long as you can see it and know why.
 
 ---
 
 ## The only 4 numbers that matter
 
-Ads Manager shows ~40 columns. Ignore 36. Watch these four:
+Ignore the other 36 columns. Watch these:
 
-- **AOV — Average Order Value.** Total money in ÷ number of orders. What one buyer is worth. *(Not a default column — you build it. How-to below.)*
+- **AOV — Average Order Value.** Money in ÷ number of orders. What one buyer is worth. *(Not a default column — build it; steps below.)*
 - **Cost per purchase (CPA).** What you paid in ads to get **one** sale.
-- **ROAS — Return On Ad Spend.** Money made ÷ money spent. **Above 1.0 = profit. Below 1.0 = loss.** This is your scoreboard.
-- **CTR (link).** The % of people who saw the ad and clicked. Tells you if the *ad* is interesting.
+- **ROAS — Return On Ad Spend.** Money made ÷ money spent. **Above 1.0 = profit. Below 1.0 = loss.** Your scoreboard.
+- **CTR (link).** % who saw the ad and clicked. Tells you if the *ad* is interesting.
 
-That's it. Master those four before you touch anything else.
-
----
-
-## The one comparison that decides everything
-
-**AOV vs CPA.** If a buyer is worth **$25** (AOV) and costs **$60** to get (CPA), you lose $35 every sale. ROAS says the same thing in one number: **below 1.0, you're underwater.**
+**The one comparison that decides everything:** AOV vs CPA. Buyer worth $25, costs $65 to get → you lose $40 a sale. ROAS says it in one number: below 1.0, you're underwater.
 
 ---
 
-## Now read my real account with me
+## Then: what a *winner* looks like
 
-- **Ad8:** AOV **$24.74**, cost per purchase **$65.05** → paid $65 to make $25. ROAS **0.38**. Underwater.
-- **Ad3:** AOV **$24.74**, cost per purchase **$122.40** → worse. ROAS **0.20**.
-- **Ad10:** AOV **$51.80** (a bump got taken here), cost per purchase $96.45. ROAS **0.54** — *the least* underwater.
+![A cold video ad — 161 purchases at $0.48](https://assets.buttondown.email/images/992ddbcb-a0f9-49aa-ac04-ca4cfb9d466b.png)
+*Different campaign — a cold "Unaware" video. Meta reports 161 purchases at $0.48 each on $77 spent.*
 
-See the pattern? **The ad with the higher AOV is the closest to profitable.** Same traffic, same offer — the difference is how much each buyer spent.
+Same account, different ad set — a cold **"Unaware"-angle video**. Meta reports **161 purchases at 48¢ each.** If that holds up, it's a monster.
 
-And notice the CTRs are *healthy* (Ad8 = 4.44%). People are clicking. So the leak isn't the ad — it's that each buyer isn't worth enough yet. **That's a checkout problem, not an ad problem.** Most people kill the ad. Wrong. Fix the AOV.
+**Pro move, every time a number looks that good:** confirm it's real before you celebrate. Open Stripe/GHL and check the orders actually landed. A pixel firing on the wrong event (a free opt-in, a $1 trial) will show you fake "purchases" all day. **Verify, then scale.**
+
+---
+
+## What separated the two
+
+The numbers show it plainly:
+
+1. **Angle + format.** The winner was a cold **Unaware video**. The underwater ones were **Problem/Solution images**. Different awareness level, different format — very different result.
+2. **The math.** The winner's cost per buyer is a *fraction* of AOV. The losers' cost per buyer was 3–5× their AOV. That gap is the whole story.
 
 ---
 
 ## Build the AOV column (Meta hides it)
 
-AOV isn't a default column in Ads Manager — you build it once as a custom metric, and it shows forever:
+AOV isn't a default column — build it once, it shows forever:
 
-1. **Ads Manager → Columns dropdown → Customize Columns.**
+1. **Ads Manager → Columns → Customize Columns.**
 2. Bottom-left → **Create Custom Metric.**
-3. Formula: **Purchases Conversion Value ÷ Purchases** (money in ÷ number of orders).
+3. Formula: **Purchases Conversion Value ÷ Purchases.**
 4. Format → **Currency**, name it **`AOV`**, save.
 
-Now you can finally see, per ad, whether your checkout pays for your traffic. *(No ads yet? Your AOV lives in your checkout tool — GHL or Stripe. Same number.)*
+*(No ads yet? Your AOV lives in GHL/Stripe. Same number.)*
 
 ---
 
-## The fix (one thing)
+## 🎯 Your play this week
 
-Raise AOV until it clears CPA. Fastest lever: an **order bump** at checkout — a small "do it faster" add-on the buyer ticks on the way out. My Ad10 already shows a higher AOV when a bump gets taken. That's the whole game.
-
-**Next issue:** the exact bump stack — the copy, the order, the numbers.
+1. Build the **AOV** column (above). Put **Cost per purchase** right next to it.
+2. For each ad, ask **one question: is AOV bigger than cost per purchase?**
+   - **Yes** → it's making money. Scale it.
+   - **No** → you're underwater. Fix AOV (order bumps — next issue) *before* you spend another dollar.
+3. Any ad that looks too good to be true → **verify the orders in Stripe** before you trust the number.
+4. **Bonus:** if all your ads are images to warm audiences, test one **cold "Unaware" video** — that's what produced my 48¢ buyer.
 
 ---
 
 ## RECAP
 
 - Watch **4 numbers**: AOV, CPA, ROAS, CTR.
-- **ROAS below 1.0 = losing money.** Above 1.0 = scale.
-- **Healthy CTR + low AOV = fix the checkout, not the ad.**
-- Build the **AOV column** so you can actually see it.
+- **ROAS below 1.0 = losing.** Above 1.0 = scale.
+- **AOV below CPA = fix the checkout, not the ad.**
+- A number that looks too good = **verify it in Stripe first.**
 
 ---
 
 **FAQ**
 
-**My ROAS is below 1 — kill the ad?** Not on tiny spend (1–2 sales). Get more data first — and fix AOV before you blame the ad.
+**ROAS below 1 — kill the ad?** Not on tiny spend (1–2 sales). Get more data, and fix AOV before you blame the ad.
 
-**Isn't a $25 sale for $65 just a bad offer?** Not if the buyer is worth more later. Low-ticket makes its money on what comes *after* the first sale — bumps, upsells, continuity. AOV at checkout is step one.
+**Why did a cold "Unaware" audience beat warm ones?** Cold + video lets you tell the whole story to people who don't know you yet. Warm image ads assume context they don't have. Test it — don't take my word.
 
 ---
 
-That's the skill: read four numbers, watch one comparison. Do it on your own account this week.
+That's the skill: read four numbers, watch one comparison, verify the wins. Do it on your own account this week.
 
-Next issue hits on the 1st. Hit reply with your AOV and CPA — I'll tell you where the leak is.
+Next issue hits on the 1st — the exact order-bump stack that raises AOV. Hit reply with your AOV and CPA and I'll tell you where the leak is.
 
 — Michael
 
