@@ -181,7 +181,7 @@ def resolve_tag_id(api_key, tag_name):
     return None
 
 
-def post_to_buttondown(api_key, tag_id, issue, status="draft", schedule_at=None):
+def post_to_buttondown(api_key, tag_id, issue, status="draft", schedule_at=None, email_type="private"):
     """
     Create (and optionally send/schedule) an email in Buttondown, targeting subscribers
     who hold `tag_id`.
@@ -197,6 +197,14 @@ def post_to_buttondown(api_key, tag_id, issue, status="draft", schedule_at=None)
         "subject": issue["subject"],
         "body": issue["body_md"],          # markdown, sent as-is
         "status": status,
+        # Archive gating (verified live 2026-07-11):
+        #   'private' = delivered to subscribers, NOT in the public web archive (safe default —
+        #               paid content never leaks in the shared Client_Ready archive).
+        #   'premium' = delivered ONLY to Buttondown-NATIVE-paid subscribers. Under GHL billing our
+        #               subscribers are tagged, not Buttondown-paid, so 'premium' would send to ZERO
+        #               people. Only use 'premium' if you switch billing/paid-status into Buttondown.
+        #   'public'  = readable by anyone in the archive — do NOT use for paid issues.
+        "email_type": email_type,
         # Tag targeting — sends ONLY to subscribers holding the paid tag.
         # Shape verified against the live API 2026-07-11: field 'subscriber.tags',
         # operator 'contains', value = tag ID (sub_tag_...).
@@ -273,6 +281,7 @@ def main():
     env = load_env()
     api_key = env.get("BUTTONDOWN_API_KEY")
     tag_name = env.get("BUTTONDOWN_TAG") or DEFAULT_TAG
+    email_type = env.get("BUTTONDOWN_EMAIL_TYPE") or "private"   # never default to 'public' for paid issues
     if not api_key:
         log("ERROR: Missing BUTTONDOWN_API_KEY in .env")
         sys.exit(1)
@@ -304,7 +313,7 @@ def main():
                 schedule_at = f"{sched}T08:00:00Z"
 
         log(f"Processing: {issue['title']} ({draft_path.name})...")
-        email_id = post_to_buttondown(api_key, tag_id, issue, status, schedule_at)
+        email_id = post_to_buttondown(api_key, tag_id, issue, status, schedule_at, email_type)
 
         if not email_id:
             log("  -> FAILED (see error above). Draft left in place for retry.")
