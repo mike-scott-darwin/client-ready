@@ -10,7 +10,7 @@ A monthly newsletter built for coaches who want to stay current instead of guess
 
 Each month you get a single, focused deep-dive on something that's working right now for Client Ready members. Tested strategies. Real numbers. Templates you can use immediately.
 
-**$37/month. Cancel anytime. First issue delivered immediately, then a new one on the 1st of every month.**
+**$37/month. Cancel anytime. A new issue lands on the 1st of every month.**
 
 ---
 
@@ -91,7 +91,7 @@ A: No. Newsletter content is exclusive — different from what's in the free Sko
 
 ## Getting Started
 
-Your first issue is delivered immediately — you get the current month's issue the moment you subscribe. After that, a new issue arrives on the 1st of every month.
+Your first issue arrives on the 1st of the month. Each issue is one theme, broken into copy-paste plays with the real numbers — worth reading carefully, not skimming.
 
 $37/month. Cancel anytime.
 

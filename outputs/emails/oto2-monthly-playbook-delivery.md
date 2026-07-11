@@ -109,11 +109,12 @@ Second Custom Webhook, on **Subscription Cancelled / Payment Failed** (final ret
 - Removes the `monthly-playbook` tag so the next send skips them
 - Keep `purchased-newsletter` in GHL as the historical/suppression flag
 
-### E. "First issue delivered immediately" — Buttondown welcome automation
-Set a Buttondown **automation**: when a subscriber gets the `monthly-playbook` tag → send them the current
-issue immediately. This replaces the GHL `MP01` email entirely and keeps the page's "first issue hits your
-inbox immediately" promise — with zero HTML pasting. (Automations are part of the API-first feature set:
-https://buttondown.com/features/api)
+### E. First issue — arrives on the 1st (no GHL welcome email)
+We deliberately do **not** send a GHL welcome email — that would be a second sender for a newsletter. A new
+mid-month buyer simply gets **the next issue on the 1st** (normal for a monthly paid newsletter; page copy
+says "arrives on the 1st"). Buttondown owns every subscriber-facing email — one consistent sender.
+Optional later: on **Standard $29** add a Buttondown Automation (tag `monthly-playbook` → send a "start here"
+email) for an immediate welcome. Not required on Basic.
 
 ### F. Author the issue — markdown in the repo
 Write each issue as markdown using `oto2-monthly-playbook-issue-template.md`. Save to
@@ -129,10 +130,13 @@ trivial (see "supporting links in every issue" below). No HTML, no builder.
 - **Or in the editor:** paste the markdown (not HTML) into Buttondown's composer, pick tag `monthly-playbook`,
   send. Still no HTML wrangling.
 
-### H. Archive — free, automatic
-Buttondown auto-hosts every sent issue at a public/tagged archive URL. That satisfies the product page's
-"access to the full archive" promise with **zero extra build** — link the archive on the page. (This is the
-gap the GHL path couldn't fill without building a portal tile.)
+### H. Archive — private (not public)
+Issues send as `email_type: private` (verified live): delivered to the tagged list, **not** shown in the
+public web archive — so paid content can't be read free in the shared `Client_Ready` archive. Each
+subscriber keeps every issue in their inbox, and you (account owner) keep every issue in Buttondown for
+reuse/repurposing. A *subscriber-browsable* gated web archive would require Buttondown-native paid
+subscriptions (Architecture B); it's not available under GHL billing. Soften any "browse the full archive"
+copy on the page accordingly.
 
 ---
 
@@ -152,8 +156,8 @@ Paid-subscriptions setup: https://buttondown.com/features/paid-subscriptions
 1. Write the issue in markdown from the template (last week of the month).
 2. Voice + compliance pass (see template).
 3. Send to tag `monthly-playbook` — script or editor.
-4. That's it. New buyers already auto-get the latest via the welcome automation (step E); the archive
-   updates itself (step H). **Nothing to re-paste, nothing to sync manually.**
+4. That's it. New buyers were synced by the webhook and get the next issue on the 1st (step E).
+   **Nothing to re-paste, nothing to sync manually.**
 
 Compare to the old GHL path: no monthly HTML paste, no MP01 re-paste, no manual archive. The one-time webhook
 buys you a permanently simpler month.
@@ -182,13 +186,13 @@ The **content** (issue template + Issue #1) is platform-agnostic — it ports st
 - [ ] (B only) Stripe connected + $37/mo paid plan created
 - [ ] GHL Custom Webhook: `purchased-newsletter` added → POST create subscriber w/ tag `monthly-playbook`
 - [ ] GHL Custom Webhook: cancel/fail → remove tag `monthly-playbook`
-- [ ] Buttondown welcome automation: tag added → send current issue immediately
+- [ ] (No GHL welcome email — Buttondown owns all subscriber email; first issue arrives on the 1st)
 - [ ] First issue authored as markdown from the template
 - [ ] Send path chosen (script `buttondown-poster.py` or editor)
 - [ ] Archive URL linked on the product page
-- [ ] Reconcile "first issue" copy on page + product doc (immediately, then 1st of month)
+- [x] Reconcile "first issue" copy on page + product doc → "arrives on the 1st"
 - [ ] Resolve Playbook-vs-Community content overlap (keep the written teardown exclusive to the Playbook)
-- [ ] Test: buy → confirm subscriber lands in Buttondown w/ tag → welcome issue arrives
+- [ ] Test: buy → confirm subscriber lands in Buttondown w/ tag → monthly send reaches them
 - [ ] Test: cancel → confirm tag removed → next send skips them
 
 ---
