@@ -127,6 +127,8 @@ Static creatives live in `outputs/ad-creative/` ($27-aligned). Video in `outputs
   > That's the whole job — and it's exactly what the Client Ready Offer System does for you. 5 AI prompts pull your one clear offer out of your head in an afternoon, so it sells without a call.
   >
   > $27 today. 30-day money-back guarantee.
+  >
+  > → clientreadyoffer.com/implement
 
 ### AD 6 — Training Demo (VIDEO)  🎬 *(value-first / curiosity lane)*
 - **Creative:** `outputs/ads/2026-07-04-static-ads-tier1-miles-benchmark/video/AD1-30s-demo-final.mp4`  (30s screen-demo, captions, $27, open loop)
