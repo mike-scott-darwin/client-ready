@@ -87,28 +87,28 @@ Subscriber" with tag `monthly-playbook`.
 
 ---
 
-## 2. GHL Churn Webhook — cancel/fail → off the paid list
+## 2. Churn handling — remove ONLY the paid tag
 
 Stops sending paid issues to people who stopped paying.
 
-**+ Create Workflow → `MP — Churn Sync`.**
-- **Trigger:** Subscription Cancelled **OR** Payment Failed (final retry), filtered to The Monthly Playbook ($37/mo).
-- **Step:** Custom Webhook to clear the tag:
+> ⚠️ **Do NOT `PATCH {"tags": []}`** — that clears *every* tag on the subscriber, and this is the shared
+> free+paid account, so it would strip their free-newsletter tags too. Remove only `monthly-playbook`.
 
-| Field | Value |
-|-------|-------|
-| Method | `PATCH` |
-| URL | `https://api.buttondown.com/v1/subscribers/{{contact.email}}` |
-| Headers | `Authorization: Token e071e1fe-…` + `Content-Type: application/json` |
-| Body | `{ "tags": [] }` |
+### Recommended for launch — monthly manual pass
+Churn is ≈ 0 at launch and GHL's cancel triggers are inconsistent, so don't build a fragile real-time
+webhook yet. Once a month, right before you send: in Buttondown filter subscribers by `monthly-playbook`,
+cross-check anyone GHL shows as cancelled that month, and remove the tag from those few. Two minutes.
 
-- ⚠️ Confirm subscriber addressing (email vs ID) and PATCH tag behavior: https://docs.buttondown.com/api-subscribers-type
-- Alternative: `DELETE /v1/subscribers/{{contact.email}}`, or a Zapier "remove tag" step.
-- Keep `purchased-newsletter` on the GHL contact (historical + pitch-suppression) — only the Buttondown-side
-  tag needs to go.
+### Automate later — two correct options (when volume justifies it)
+- **Bulk remove-tag** (real-time via Custom Webhook on `Subscription Cancelled` / `Payment Failed`): POST a
+  bulk `remove` action with `tag_id = sub_tag_635jft10559rxr9jt8mxgpg014`, selecting the subscriber by email
+  — removes ONLY that tag. Confirm exact body on first churn: https://docs.buttondown.com/api-bulk-action-type
+- **Exclusion tag** (zero-risk): on churn, ADD tag `mp-cancelled`; change the poster's send filter to
+  "has `monthly-playbook` AND NOT `mp-cancelled`." Nothing is ever removed, so nothing can break. Ask to
+  wire this into `buttondown-poster.py` when ready.
 
-> If your billing doesn't expose a clean cancel trigger, fall back to a monthly manual pass: remove the tag
-> in Buttondown for anyone GHL shows as cancelled. Low volume early; automate later.
+Either way: keep `purchased-newsletter` on the **GHL** contact (historical + pitch-suppression) — only the
+Buttondown-side tag changes.
 
 ---
 
