@@ -136,6 +136,9 @@ Keep that in your head. It's the spine.
 
 ## The Numbers
 
+![Order-bump take-rates — July, anonymized](REPLACE-WITH-HOSTED-SCREENSHOT-URL)
+*Straight from the checkout report. Client names blurred. Illustrative of one test — a case, not a promise.*
+
 | Play | Take-rate | AOV impact |
 |---|---|---|
 | 3-bump stack | [__%] | $[__] |

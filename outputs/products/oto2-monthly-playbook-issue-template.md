@@ -20,6 +20,11 @@ issue must clear this bar or it's a free-tier issue you shouldn't send as paid:
    framework to go build. (The "use it.")
 2. **The real numbers behind it** — the tested CPA / take-rate / AOV / open-rate, before→after. This is the
    moat a free newsletter never shows. (The "worth paying for.")
+   - **Show the proof, don't just state it:** embed at least one **real screenshot** — the ad-account
+     report, the checkout/order-bump numbers, the Stripe/GHL dashboard. A screenshot of real data is the
+     single strongest paid signal (un-fakeable, un-Googleable). **Anonymize** (blur client names, account
+     IDs, emails); keep the "one test, results vary — a case, not a promise" caption on every screenshot.
+     Markdown: `![Order-bump take-rates — {month}](public-image-url)`.
 3. **Built for coaches specifically** — not generic-for-anyone.
 
 **If the numbers are still placeholders, the issue is NOT ready to send as paid.** The real numbers aren't
