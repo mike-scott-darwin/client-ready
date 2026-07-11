@@ -30,122 +30,118 @@ When someone buys a bump on checkout, they get the product instantly but no onbo
 
 ---
 
-## Email BD01: DM Scripts Delivery
+## Email BD01: First-Sale DM Scripts + 48-Hour Warm-List Cash Campaign Delivery
 
 **Trigger:** Tag `purchased-bump-dm-scripts` added
 **File:** `bd-sequence/BD01-dm-scripts-delivery.html`
 
-**Subject:** Your DM scripts are ready — do this in the next 5 minutes
+**Subject:** Your First-Sale DM Scripts are ready — send one in the next 5 minutes
 
 **Body:**
 
 Hey [NAME],
 
-Smart move grabbing the Quick Win DM Scripts.
+Smart move grabbing the First-Sale DM Scripts + 48-Hour Warm-List Cash Campaign.
 
 Here's your access: [PRODUCT LINK]
 
-You now have 10 copy-paste scripts, a complete conversation system, and word-for-word objection handlers. That's more than most coaches will ever have for warm outreach.
+You now have 10 copy-paste DM scripts (Core 5 + Quick Cash 5), the A-C-A conversation flow, word-for-word objection handlers, and a fill-in-the-blank first message built from the offer doc you just made. That's a complete 48-hour campaign to turn your offer into cash — from people who already know you, no ad spend.
 
 **Do this right now (takes 5 minutes):**
 
-1. Open the PDF
-2. Go to Script 1: The Reconnection
-3. Think of ONE person you haven't talked to in a while who might need help with their business
-4. Customize the script with their name
+1. Open the campaign doc
+2. Go to the "Who to message first" send-order
+3. Pick ONE person from the top of the list
+4. Drop your offer into the fill-in-the-blank first message
 5. Send it
 
 That's it. First conversation started.
 
-Then tomorrow, send 5 more. The scripts have a tracker template at the bottom — use it.
+Then work down your send-order — 5 a day. The tracker template at the bottom keeps anyone from falling through the cracks.
 
-**One thing to know:** The scripts start conversations. But conversations need somewhere to go. If someone says "tell me more" or "send me info," you need a landing page, an email sequence, and copy that converts.
+**One thing to know:** DMs start conversations. But when someone says "send me the details," you need a page to send them to — not a Google Doc.
 
-That's exactly what the Plug & Play Templates are for — 8 complete template packs so you're never starting from a blank page.
+That's exactly what the Plug & Play Sales Page Kit + 1-Hour AI Fill-In System is for — paste your offer doc in, get a finished sales page out.
 
-If you grabbed those too, you're set. If not, they're still available here: [TEMPLATES LINK]
+If you grabbed it too, you're set. If not, reply "SALES PAGE" and I'll send you the link.
 
-Go send that first DM.
+Go send that first message.
 
 Michael
 
 ---
 
-## Email BD02: Templates Delivery
+## Email BD02: Sales Page Kit + 1-Hour AI Fill-In System Delivery
 
 **Trigger:** Tag `purchased-bump-templates` added
 **File:** `bd-sequence/BD02-templates-delivery.html`
 
-**Subject:** Your templates are ready — start with this one
+**Subject:** Your Sales Page Kit is ready — build the page in one hour
 
 **Body:**
 
 Hey [NAME],
 
-Good call on the Plug & Play Templates.
+Good call on the Plug & Play Sales Page Kit + 1-Hour AI Fill-In System.
 
 Here's your access: [PRODUCT LINK]
 
-You now have 8 complete template packs — offer document, 3 landing page layouts, 30-day email sequence, 50+ headlines, awareness-level messaging maps, promo campaign templates, and client profiles.
+You now have 3 landing-page swipe files (short-form, long-form, VSL), a 30-day email sequence, 50+ headlines, and promo campaign templates — **plus the AI prompts that auto-fill all of it straight from the offer doc you built.** You're not writing a page from scratch. You're filling one in.
 
-That's a lot. Don't try to use everything at once.
+**Do this first (takes about an hour):**
 
-**Do this first (takes 15 minutes):**
+1. Open the kit and go to the AI Fill-In prompts
+2. Paste in your offer doc
+3. Run the prompt for the page that fits your traffic — short-form for warm, long-form for cold, VSL if you have a video
+4. Drop the output into your page builder and publish
 
-1. Open the PDF
-2. Go to Part 1: Offer Document Template
-3. Look at the filled Client Ready example — that's what "done" looks like
-4. Open a blank doc and fill in YOUR version using the template structure
+One hour, not one week. The offer you built this week has a home by tonight.
 
-Your offer document is the foundation. Everything else — landing page, emails, headlines — builds from it.
+**One thing most people miss:** the promo campaign templates — flash sales, founding-member pricing, referral drives, cash-injection campaigns. These are money-on-demand when you need quick revenue. Bookmark that section.
 
-**After your offer doc is done:** Open the landing page swipe files (Part 2) and pick the layout that fits your traffic. Short-form for warm traffic. Long-form for cold. VSL if you have a video.
+**What's next after the page?** A live page gets you leads. But leads don't close themselves. When a warm lead turns into a real buying conversation, the $5K Client Close Scripts show you — word for word, across 3 real annotated calls — exactly what to say. Reply "CLOSE" and I'll send you the link.
 
-**One thing most people miss:** Part 7 has 8 complete promo campaign templates — flash sales, founding member pricing, referral drives, cash injection campaigns. These are money-on-demand when you need quick revenue. Bookmark that section.
-
-**What's next after templates?** Templates get you built. But built isn't sold. If you don't have a system for having sales conversations, the Quick Win DM Scripts give you 10 scripts plus a complete conversation framework for turning warm contacts into clients.
-
-Already have those? Then you're ready to build.
+Already have those? Then go build your page.
 
 Michael
 
 ---
 
-## Email BD03: First 5K Client Playbook Delivery
+## Email BD03: $5K Client Close Scripts + 3 Real Annotated Calls Delivery
 
 **Trigger:** Tag `purchased-bump-playbook` added
 **File:** `bd-sequence/BD03-playbook-delivery.html`
 
-**Subject:** Your playbook is ready — start with the Warm 50
+**Subject:** Your $5K Close Scripts are ready — watch call #1 first
 
 **Body:**
 
 Hey [NAME],
 
-This is the one that changes things. The First 5K Client Playbook is ready.
+This is the one that changes things. The $5K Client Close Scripts + 3 Real Annotated Calls are ready.
 
 Here's your access: [PRODUCT LINK]
 
-You now have pricing psychology, 5 conversation frameworks, the Warm 50 activation plan, word-for-word objection handlers, and 3 annotated real closing conversations.
+You now have 3 real closing calls (fully annotated), the objection playbook, 5 conversation frameworks, the pricing psychology behind $5K offers, and the Warm 50 activation plan.
 
 **Do this first (takes 20 minutes):**
 
-1. Open the PDF
-2. Go to Part 3: The Warm 50 Activation Plan
-3. Read the 5 categories of warm contacts
-4. Write down 10 names — just 10 to start
+1. Open the doc and go to the 3 Annotated Calls
+2. Watch call #1 — read the margin notes as you go
+3. Mark the exact moment the price gets said (watch how it's framed)
+4. Notice what the close is *not* — no pressure, no pitch
 
-Don't overthink this. Past colleagues, industry connections, people who've asked for your help before, social media contacts you've actually talked to. You already know these people.
+That's the whole game. You're not learning a script — you're watching a real one land, then copying what works.
 
-**Then read Part 1 (Pricing Psychology) before you reach out.** The Pricing Confidence Framework has 3 questions. If you can answer all three clearly, you're ready to charge premium. This resets how you think about pricing before any conversation happens.
+**Before you reach out, read the Pricing Psychology section.** The Pricing Confidence Framework has 3 questions. If you can answer all three clearly, you're ready to charge premium. It resets how you think about pricing before any conversation happens.
 
-**When they respond — and they will — use the conversation frameworks in Part 2.** Not scripts. Structures. The Discovery Conversation for initial interest. The Offer Walkthrough when they want details. The DM Close for messaging-only sales.
+**When they respond — and they will — use the conversation frameworks.** Not scripts. Structures. The Discovery Conversation for initial interest. The Offer Walkthrough when they want details. The DM Close for messaging-only sales.
 
-**When someone says "too expensive":** Go straight to Part 4. The objection playbook has the exact words for the 5 things every prospect says. Every objection is a question in disguise — these responses answer the real question.
+**When someone says "too expensive":** Go straight to the objection playbook. It has the exact words for the 5 things every prospect says. Every objection is a question in disguise — these responses answer the real question.
 
-**One thing to remember:** The Warm 50 gets you conversations. But conversations need an offer that's ready to share. If you haven't built your landing page and funnel yet, the Plug & Play Templates give you everything — 3 proven layouts, 50+ headlines, and a 30-day email sequence pre-written.
+**One thing to remember:** the Warm 50 gets you conversations. But conversations need an offer with a home. If you haven't built your sales page yet, the Plug & Play Sales Page Kit fills one in from your offer doc in an hour — reply "SALES PAGE" and I'll send you the link.
 
-Already have those? Then open the Warm 50 and start listing names.
+Already have it? Then open the Warm 50 and start listing names.
 
 Michael
 
@@ -180,9 +176,9 @@ Each delivery email bridges to the most relevant missing product:
 
 | Bump Purchased | Limitation | Bridges To |
 |----------------|------------|------------|
-| DM Scripts (37) | Conversations need a funnel to point to | Templates (67) |
-| Templates (67) | Built isn't sold — need conversations | DM Scripts (37) |
-| Playbook (97) | Need a built funnel to share with Warm 50 | Templates (67) |
+| First-Sale DM Scripts (37) | DMs need a page to send interested people to | Sales Page Kit (67) |
+| Sales Page Kit (67) | A live page gets leads — leads still need closing | $5K Close Scripts (97) |
+| $5K Close Scripts (97) | The Warm 50 needs an offer with a home | Sales Page Kit (67) |
 
 If they already own the cross-sell product, the bridge paragraph is irrelevant but not harmful (just says "if you grabbed those too, you're set").
 
