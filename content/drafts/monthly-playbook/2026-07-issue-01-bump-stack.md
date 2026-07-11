@@ -6,102 +6,178 @@ published_date: null
 tag: monthly-playbook
 ---
 
-# The 3-Bump Checkout Stack
+# 6 Copy-Paste Checkout Plays That Pay for a $27 Offer
 
-**Subject line:** The checkout move that pays for a $27 offer
+**Subject line:** 6 copy-paste checkout plays (real numbers inside)
 
-**Preview text:** Make a $27 offer profitable in the 30 seconds a buyer already has their card out.
-
----
-
-*The Monthly Playbook · Issue #1 · One tested play. Real numbers. What to steal.*
-
-Here's the trap with a cheap front-end: a $27 offer doesn't pay for itself. By the time you cover ad cost, processing, and the hour you spent, you're underwater on the sale. Everyone knows this. The usual answer is "make it up on the backend with email."
-
-Wrong — or at least, not first. The backend is real, but it's slow and leaky. The fastest money on a $27 offer is made **at the checkout itself**, in the seconds between "add to cart" and "thank you." That's the highest-intent moment your buyer will ever be in. This month I rebuilt that moment from one order bump into three. Here's the entire play.
+**Preview text:** Steal the exact order-bump stack, copy, and microcopy that turn a $27 offer profitable at checkout.
 
 ---
 
-## 1 · The Breakdown
+*The Monthly Playbook · Issue #1 · One theme. Six plays. Real numbers. Copy-paste ready.*
 
-**The setup.** The front-end is $27. On its own it's a buyer-acquisition price, not a profit center — the model is designed to recover spend on what comes after. The checkout is the first "after," and it's free real estate: the buyer is already transacting, already trusts you enough to pay, and has zero friction to add one more checkbox. The only question is how much value you can responsibly stack into that window.
+**TLDR:** Here are 6 copy-paste plays that make a $27 offer profitable in the 30 seconds a buyer already has their card out — the 3-bump stack, the bump-copy formula, the post-purchase one-click upsell, the checkbox microcopy, the "no thanks" reframe, and the price anchor. Plus the one rule they all share, and the numbers from testing them this month.
 
-**The hypothesis.** Most funnels run one order bump because "more than one feels greedy." I think that's a guess dressed up as taste. If each bump solves a real, immediate problem the buyer just created for themselves by buying the front-end, a stack of three should *raise* satisfaction, not tank it — because each one is genuinely the next thing they need.
+This month my inbox had one question on repeat:
 
-**The build.** Three bumps, ordered small to large, each mapped to the problem the previous purchase creates:
+> "A $27 front-end doesn't pay for itself. How do you not lose money?"
 
-- **Bump 1 — $37 · the next step.** They just bought the system. The very next question is "okay, how do I get my first conversation?" So bump 1 is the DM scripts. Cheapest, most obvious yes — it removes the "now what" every new buyer feels.
-- **Bump 2 — $67 · the "do it faster" tool.** Scripts start conversations, but conversations need somewhere to go — a page, a sequence, copy. Bump 2 is the plug-and-play templates. Positioned as the shortcut: skip the blank page, ship this week.
-- **Bump 3 — $97 · the bigger outcome.** The first two get them moving; bump 3 raises the ceiling — the close scripts for the bigger deal. Most expensive, converts the least, and that's fine. Its job is to catch the buyer who already knows they want the whole thing.
+Right. It doesn't — not on the front-end alone. The usual answer is "make it up on the backend with email." Wrong, or at least not first. The backend is slow and leaky. The fastest money on a $27 offer is made **at the checkout**, in the seconds between "add to cart" and "thank you." That's the highest-intent moment a buyer will ever be in with you.
 
-**Why the order matters.** Small → large, cheapest yes first. Each checkbox that gets ticked makes the next one easier — commitment compounds. Reverse it and you lead with the $97, spook the buyer, and lose the two easy yeses you'd have banked. The sequence is the strategy.
+So I rebuilt my checkout from one order bump into six deliberate plays. Below is every one — the reasoning, the copy to paste, and what the numbers did.
 
-**The one-sentence rule.** A bump is a reflex, not a decision. One line of reasoning, max. The second you write a paragraph, you've turned a checkbox into a consideration — and considerations get declined. If it needs a paragraph, it's not a bump, it's a page.
+**Who this is for:** you have a low-ticket offer live (or launching) and you're leaving money at the checkout.
+**Not for you:** you haven't made a first sale yet — go do that first, then come back and stack.
 
-**What I got wrong the first time.** My first version stacked all three at the same visual weight, one after another, no hierarchy. Bump 1's take-rate was fine; bumps 2 and 3 barely moved. The problem: three identical-looking offers read as a wall, and walls get skipped. The fix was hierarchy — bump 1 prominent (the anchor yes), bumps 2 and 3 lighter and framed as "and while you're here." Same offers, restacked. **[DROP THE BEFORE/AFTER RESULT — e.g. "combined take-rate went from __% to __%"]**
+---
 
-## 2 · Steal This
+## The one rule all six plays share
 
-**The formula.** Every bump follows the same four beats:
+A checkout play only works if it feels like **finishing the purchase they already started** — not starting a new one. Highest intent, lowest friction. The second a play feels like a second sale, it gets declined. Every play below is built to ride the intent that's already there, not manufacture new intent.
 
-> [YES + the ask + the price] → [what they just did] → [the gap it leaves] → [urgency to add now]
+Keep that in your head. It's the spine.
 
-Here are all three, written out. Swap the brackets for your products:
+---
 
-**BUMP 1 · $37**
-> **Yes! Add the [DM Scripts] for $37.**
-> You've got the system. Now you need the first conversation. These are the 10 word-for-word scripts that start it — add them and send one before you close this tab.
+## 1 · The 3-Bump Stack
 
-**BUMP 2 · $67**
-> **Yes! Add the [Plug & Play Templates] for $67.**
-> Scripts start the conversation — these finish it. 8 done-for-you packs so you're never staring at a blank page. Add now and skip the part everyone gets stuck on.
+**What it is:** three order bumps instead of one, ordered cheapest → most expensive, each mapped to the problem the previous purchase just created.
 
-**BUMP 3 · $97**
-> **Yes! Add the [$5K Close Scripts] for $97.**
-> The first two get you clients. This gets you the *big* one — the word-for-word close for the high-ticket call. You'll want it the first time someone says "tell me more." Add it now at this price.
+**Why it works:** each ticked checkbox makes the next easier — commitment compounds. Lead with the $97 and you spook them; lead with the $37 and you bank two easy yeses first.
 
-**The checkbox microcopy** (the tiny line next to the box — people read this before the pitch):
+**Copy-paste — the stack:**
+> - **Bump 1 · $37 — the next step.** They bought the system; now they need the first conversation. → DM scripts.
+> - **Bump 2 · $67 — the "do it faster" tool.** Conversations need somewhere to go. → plug-and-play templates.
+> - **Bump 3 · $97 — the bigger outcome.** Raise the ceiling. → the close scripts for the high-ticket call.
 
-- ☐ **Yes, add this to my order** — not "check to add" (passive). Make the label the decision.
-- Show the price *on* the checkbox line, not buried in the paragraph.
-- Never pre-check it. Pre-checked bumps convert on paper and refund in real life.
+**The number:** [combined take-rate after stacking = __%; before = __%].
 
-**Language to avoid:** "Would you also like…", "Special offer!", any exclamation stack, and anything that reads as a second sale. The bump works because it feels like *finishing the first purchase*, not starting a new one.
+**Watch-out:** give bump 1 visual weight and make 2–3 lighter ("and while you're here"). Three equal-weight offers read as a wall, and walls get skipped.
 
-## 3 · The Numbers
+## 2 · The 4-Beat Bump Copy Formula
 
-| Metric | Before (1 bump) | After (3-stack) |
+**What it is:** the exact sentence structure every bump follows.
+
+**Why it works:** a bump is a reflex, not a decision. One line of reasoning, four beats, done. Write a paragraph and you've turned a checkbox into a consideration — considerations get declined.
+
+**Copy-paste — the formula + a filled example:**
+> **Formula:** [YES + the ask + the price] → [what they just did] → [the gap it leaves] → [urgency to add now]
+>
+> **Filled:** *Yes! Add the DM Scripts for $37. You've got the system — now you need the first conversation. These are the 10 word-for-word scripts that start it. Add them and send one before you close this tab.*
+
+**The number:** [bump take-rate with the 4-beat copy vs your old copy = __% vs __%].
+
+**Watch-out:** kill "Would you also like…", "Special offer!", and every exclamation stack. That's second-sale language.
+
+## 3 · The Post-Purchase One-Click Upsell
+
+**What it is:** a single upsell shown *after* the thank-you, on a page where they don't re-enter card details (one click to accept).
+
+**Why it works:** the card is already charged and trust is at its peak. Zero-friction "add this too" catches buyers who were on the fence at checkout.
+
+**Copy-paste — the OTO headline + button:**
+> *Wait — your order isn't quite done. One-time offer, only on this page:*
+> **[Add {PRODUCT} for ${PRICE} — one click, no card needed]**
+> *You won't see this again after you leave.*
+
+**The number:** [OTO take-rate = __%; added $[__] to AOV].
+
+**Watch-out:** ONE upsell, not a gauntlet. Two or three post-purchase pages and refund rate climbs.
+
+## 4 · The Checkbox Microcopy
+
+**What it is:** the tiny label next to the bump checkbox — the thing people actually read before your pitch.
+
+**Why it works:** the label *is* the decision. "Check to add" is passive; "Yes, add this to my order" is a choice already half-made.
+
+**Copy-paste — the three rules:**
+> - Label: **☐ Yes, add this to my order** (not "check to add")
+> - Put the **price on the checkbox line**, not buried in the paragraph
+> - **Never pre-check it** — pre-checked bumps convert on paper and refund in real life
+
+**The number:** [take-rate lift from label change alone = +__%].
+
+**Watch-out:** this is the cheapest test on the list. Change one line, measure a week.
+
+## 5 · The "No Thanks" Reframe
+
+**What it is:** the decline option, written to make passing feel like a small loss — without guilt-tripping.
+
+**Why it works:** a neutral "No thanks" costs nothing to click. A decline line that names what they're skipping adds a beat of friction to the "no."
+
+**Copy-paste — the decline line:**
+> *No thanks — I'll figure out the first conversation on my own.*
+
+**The number:** [take-rate with reframed decline vs blank "no thanks" = __% vs __%].
+
+**Watch-out:** keep it honest and light. One clause. Guilt trips refund.
+
+## 6 · The Price Anchor
+
+**What it is:** show the bump's standalone value next to its checkout price so the discount is visible.
+
+**Why it works:** a price with nothing to compare against is just a cost. A price next to a crossed-out standalone value is a deal.
+
+**Copy-paste — the anchor line:**
+> *Add the Templates — **$67 today** (sold separately for $97). Only at checkout.*
+
+**The number:** [take-rate with anchor vs without = __% vs __%].
+
+**Watch-out:** the standalone price has to be real — a number you'd actually charge. Fake anchors are an FTC problem, not a copy trick.
+
+---
+
+## The Numbers
+
+| Play | Take-rate | AOV impact |
 |---|---|---|
-| Front-end price | $27 | $27 |
-| Bump 1 take-rate | [__%] | [__%] |
-| Bump 2 take-rate | — | [__%] |
-| Bump 3 take-rate | — | [__%] |
-| **Checkout AOV** | **$[__]** | **$[__]** |
+| 3-bump stack | [__%] | $[__] |
+| 4-beat copy | [__%] | — |
+| Post-purchase OTO | [__%] | $[__] |
+| Checkbox microcopy | +[__%] | — |
+| "No thanks" reframe | [__%] | — |
+| Price anchor | [__%] | — |
+| **Checkout AOV — before → after** | | **$[__] → $[__]** |
 
-**How to read this.** The number that matters isn't any single bump — it's checkout AOV. A stack can have lower *per-bump* rates and still win big on total AOV, because you're summing three shots at revenue instead of one. Watch AOV and refund rate together: if AOV climbs and refunds stay flat, the stack is healthy. If refunds spike, a bump is over-promising — cut it.
+**How to read it:** the number that matters is checkout AOV, not any single play. Watch AOV and refund rate together — if AOV climbs and refunds stay flat, the stack is healthy. If refunds spike, one play is over-promising. Cut it.
 
 *Illustrative of one test on one funnel. Individual results vary — this is a case, not a promise.*
 
-## 4 · What Changed This Month
+---
 
-**Start:** [one thing that started working in the last 30 days — a bump order, a price, an angle]. **Stop:** [one thing that quietly stopped]. The environment moves; a stack that won last quarter can leak this one. Re-check your take-rates monthly, not once.
+## RECAP — the patterns
+
+- **Intent is highest at the checkout.** Every dollar you don't ask for there, you pay to recover later with email.
+- **A bump is a reflex.** One sentence of reasoning, max. Four beats.
+- **Order cheapest → most expensive.** Commitment compounds.
+- **The label is the decision.** Microcopy moves take-rate more than the pitch does.
+- **Make declining a small, honest loss** — never a guilt trip.
+
+Pick ONE this week. The checkbox microcopy (#4) is the cheapest test — change one line, measure seven days.
 
 ---
 
-**Do this before the next issue:**
+## FAQ
 
-1. Add a second bump to your checkout this week — the "do it faster" one. It's the one most people leave on the table.
-2. Order your bumps cheapest → most expensive.
-3. Rewrite each bump to the four-beat formula. One sentence of reasoning, max.
-4. Uncheck any pre-checked boxes.
-5. Note your checkout AOV today. Compare it in 30 days.
+**Won't three bumps annoy people?** Only if they feel like three sales. Mapped to real next-steps, they read as help. Watch refund rate — that's your annoyance meter.
+
+**What if I only have one product to bump?** Start with #2, #4, and #6 on that single bump. You don't need a stack to lift take-rate — you need better copy and microcopy.
+
+**Do I need fancy checkout software?** No. Order bumps and one post-purchase upsell are standard in GHL, ThriveCart, and most cart tools. The plays are copy and sequence, not tech.
 
 ---
 
-That's this month's play. Test it — don't just file it.
+That's six plays and the one rule behind them. Test one — don't just file it.
 
-Next issue hits on the 1st. Hit reply and tell me your checkout AOV before and after — I read every one, and the best ones become a future breakdown.
+Next issue hits on the 1st. Hit reply with your checkout AOV before and after — I read every one, and the best results become a future breakdown.
 
 — Michael
+
+---
+
+**P.S. Your first month in the Client Ready Community is on me.**
+The Playbook is the document — one theme, tested, every month. The Community is the *room*: weekly calls, direct feedback on your offer, and the coaches building alongside you. As a Playbook subscriber, your **first month is free**.
+→ **[Join the Community — first month free]({{COMMUNITY_TRIAL_LINK}})**
+$47/mo after. Cancel anytime.
 
 *The Monthly Playbook · $37/mo · Cancel anytime.*

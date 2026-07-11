@@ -3,122 +3,141 @@ type: output
 status: ready-to-use
 date: 2026-07-11
 product: OTO2 — The Monthly Playbook ($37/mo)
-purpose: Repeatable monthly issue template — turns "write a newsletter" into fill-in-the-blanks
-structure_source: live OTO2 page 4-part stack (Campaign Breakdown, Steal-This Swipe File, Numbers Behind the Curtain, "What Changed" Update)
+purpose: Repeatable monthly issue template — the "N copy-paste plays around one theme" format
+format_model: Sabrina Ramonov-style value newsletter (structure), rendered in Michael's voice
+updated: 2026-07-11 — switched from single-teardown to numbered copy-paste-plays format
 ---
 
 # The Monthly Playbook — Issue Template
 
-The mechanism (delivery) is easy. What kills continuity is **retention** — target is 60% at 3 months
-(funnel/stages.md). Retention depends on each issue being worth $37. The only way that survives Michael's
-time is if writing an issue is **fill-in-the-blanks, not a blank page.** This is that template.
+The bar: this has to read like a $37 document a coach would be annoyed to lose. The format that hits that
+bar (modeled on the best value newsletters, e.g. Sabrina Ramonov's) is **N copy-paste plays around one
+monthly theme, tied to a framework, with real numbers** — not one abstract essay. Generous, specific,
+usable today.
 
-**Content theory (offer.md):** *"content is a byproduct of what Michael is already doing."* One issue =
-**one real campaign you actually ran this month**, broken down with the real numbers. You're not inventing
-content — you're documenting a teardown you'd do anyway.
+**Content theory (offer.md):** *"content is a byproduct of what Michael is already doing."* One issue = one
+theme he actually worked on this month (checkout, DMs, ads, email, pricing…), broken into the specific
+plays he ran, each with the real asset and the real number.
 
-**Structure = exactly what the live page promises.** The page sells a 4-part stack. Deliver those 4 parts,
-in this order, every issue. Never fewer.
+**Voice = Michael, NOT the source model.** Take the structure below, render it in voice.md: direct, short
+sentences, engineering mindset, "Wrong.", "Test, validate, build." No emoji spam, no guru warmth, no
+"anti-guru" (retired). Generous and specific, not hypey.
 
 ---
 
-## The fixed 4-part structure
+## The fixed structure (follow every issue)
 
-### Header (fixed every issue)
+### 1. Header + TLDR
 ```
-THE MONTHLY PLAYBOOK
-Issue #__ · [Month Year]
-One tested play. Real numbers. What to steal.
+# {N} Copy-Paste {Theme} Plays That {Outcome}
+Subject line: {N} copy-paste {theme} plays (real numbers inside)
+Preview text: {the concrete promise in one line}
+
+*The Monthly Playbook · Issue #{n} · One theme. {N} plays. Real numbers. Copy-paste ready.*
+
+TLDR: one sentence listing exactly what they're about to get — the N plays by name + that the numbers are inside.
 ```
+The TLDR is non-negotiable. A reader should know the entire value in the first 3 seconds.
 
-### Part 1 — The Campaign Breakdown
-*The centerpiece. One campaign/asset/play you ran this month, start to finish.*
+### 2. The hook + who-it's-for (short)
+- Open with the real question/problem this month's theme answers (ideally something from Michael's actual inbox/DMs).
+- One "Wrong."-style reframe of the common wisdom.
+- **Who this is for / Not for you** — two lines. Qualify hard; it makes the right readers lean in.
 
-- **The play in one line:** what you tested (e.g. "a 3-bump checkout stack on the $27 front-end").
-- **Why you ran it:** the problem/hypothesis.
-- **The build:** what it actually was — the ad, the page, the sequence, the offer. Show the real asset.
-- **The result:** what happened. Real numbers (see Part 3), plainly.
-- **The lesson:** the transferable principle a reader applies to *their* offer this week.
+### 3. The framework spine (the teaching layer)
+- One repeatable rule/principle that all N plays share. This is what makes the issue *teach* instead of
+  just list. (Sabrina's spine = the 5-part /goal template. Issue #1's spine = "intent is highest at checkout.")
+- State it plainly, tell them to keep it in their head.
 
-> Keep it to ONE play. Depth over breadth — that's the whole "monthly not weekly" promise (product doc:
-> *"one focused strategy per month > 4 scattered tips per week"*).
-
-### Part 2 — The Steal-This Swipe File
-*At least one ready-to-use asset. This is what makes it a "document," not a blog post.*
-
-- The actual copy/template/structure from Part 1's play, stripped to a fill-in-the-blank they can paste.
-- Options: ad hook variations · email subject-line set · checkout-bump copy · landing-page section · DM flow.
-- Format so they can literally copy-paste and swap in their own specifics.
-
-### Part 3 — The Numbers Behind the Curtain
-*The proof. What the metrics actually were.*
-
-- The real figures from Part 1: spend, CPL/CPA, conversion %, AOV lift, open/click rates — whatever applies.
-- Show the before/after or the benchmark.
-- **Compliance guard (voice.md / swap-sheet P0):** these are *your* internal numbers reported as a case,
-  not a promise to the reader. Frame as "here's what happened," never "here's what you'll get." When in
-  doubt add: *"Illustrative of one test. Individual results vary."* No income claims as reader promises.
-
-### Part 4 — The "What Changed" Update
-*The current-events edge. Why "this month" matters.*
-
-- What shifted in the last 30 days: a platform change, a CPM swing, an angle that stopped working, a new one
-  that started.
-- One thing to **start**, one thing to **stop**, this month.
-- This is the section that makes the subscription feel *live* and time-sensitive — the reason to not cancel.
-
-### Footer (fixed every issue)
+### 4. The N plays (the meat — aim for 5–7)
+Each play, same micro-structure, every time:
 ```
-That's this month's play. Test it, don't just file it.
+## {n} · {Play name}
+**What it is:** one line.
+**Why it works:** the mechanism, 1–2 sentences.
+**Copy-paste — {what}:** the ACTUAL asset in a blockquote/code block — a script, formula, line, structure
+   they paste and fill. This is the value. At least one real, usable asset per play.
+**The number:** [bracketed real metric — take-rate, lift, AOV impact].
+**Watch-out:** the one mistake that kills this play.
+```
+Every play must carry a **copy-paste asset**. A play without one is a tip, and tips aren't worth $37.
 
+### 5. The Numbers (consolidated table)
+- One table: each play → its metric → AOV/impact, plus the headline before→after for the theme.
+- **Compliance guard (voice.md):** these are Michael's internal results reported as a case, never a promise
+  to the reader. Add: *"Illustrative of one test. Individual results vary — a case, not a promise."* No
+  income claims framed as reader outcomes.
+
+### 6. RECAP — the patterns
+- 4–6 bullets distilling the transferable principles.
+- End with **"Pick ONE this week"** + name the single cheapest/fastest play to test.
+
+### 7. FAQ (2–4)
+- The real objections/edge-cases ("what if I only have one product?", "do I need special software?").
+
+### 8. Close + P.S. (P.S. is a FIXED ascension CTA — include every issue)
+```
+Test one — don't just file it.
+Next issue hits on the 1st. Hit reply with {the specific result to report} — I read every one.
 — Michael
 
-Next issue hits on the 1st.
-Reply and tell me what you're testing — I read every one.
-[Cancel anytime · manage your subscription: {{link}}]
+---
+
+**P.S. Your first month in the Client Ready Community is on me.**
+The Playbook is the document — one theme, tested, every month. The Community is the *room*: weekly calls,
+direct feedback on your offer, and the coaches building alongside you. As a Playbook subscriber, your
+**first month is free**.
+→ **[Join the Community — first month free]({{COMMUNITY_TRIAL_LINK}})**
+$47/mo after. Cancel anytime.
+
+*The Monthly Playbook · $37/mo · Cancel anytime.*
 ```
+This P.S. is the standing $37 → $47 ascension. Keep it every issue — the Playbook feeds the Community, which
+is where the Accelerator gets sold. Wire `{{COMMUNITY_TRIAL_LINK}}` to a GHL offer/coupon granting the first
+month free.
 
 ---
 
-## The monthly publish ritual (~60–90 min)
+## Supporting links in every issue
+Because issues are markdown, link liberally — it's part of what makes an issue feel complete: link the
+swipe assets, tools referenced, deeper resources, and the archive of past issues. A reader should be able
+to act without leaving the email.
 
-Do this in the **last week of the month** so the 1st always has an issue ready.
+---
 
-1. **Pick the play** (10 min): the single most interesting thing you tested this month. If nothing was net-new,
-   teardown a member's win (anonymized — see product doc) or a past campaign through a fresh lens.
-2. **Fill the 4 parts** (30–45 min): drop your real assets + numbers into the sections above.
-3. **Optional AI-assisted draft:** feed your raw notes/screenshots/numbers to Claude with the 4-part
-   structure and voice.md, get a draft, then edit for voice. (Same "notes → Claude → review" pattern the DFY
-   pipeline already proves works — see `outputs/dfy-upsell/`.)
-4. **Voice + compliance pass** (10 min): run it against voice.md and the Part 3 compliance guard. Kill any
-   number that reads as a reader promise.
-5. **Publish** (10 min):
-   - [ ] Paste the issue into the **monthly broadcast** → send to `Monthly Playbook — Active` (1st, 8 AM).
-   - [ ] Update **MP01** (welcome email) so new mid-month buyers get THIS issue as their "first issue."
-   - [ ] (If archive live) add the issue as a new portal lesson / archive entry.
+## The monthly publish ritual (~90 min)
 
-> Steps 5's three sub-items are the whole reason the "delivered immediately" promise stays true. Don't skip
-> the MP01 update — that's the one that breaks silently.
+Last week of the month, so the 1st always has an issue ready.
+
+1. **Pick the theme** (10 min): the one area Michael actually worked/tested this month.
+2. **List the plays** (15 min): 5–7 specific things he did in that area. Each becomes a section.
+3. **Fill the micro-structure** (45 min): for each play, drop the real asset + number into what/why/copy-paste/number/watch-out.
+4. **Optional AI-assisted draft:** feed raw notes + this template + voice.md to Claude, get a draft, edit for voice.
+5. **Voice + compliance pass** (10 min): voice.md + the numbers guard. Kill any reader-promise numbers.
+6. **Publish** (10 min):
+   - [ ] `python3 scripts/buttondown-poster.py --send` (targets the `monthly-playbook` paid tag)
+   - [ ] Welcome email (GHL MP01) already links to the Buttondown archive → new buyers auto-get the latest.
+   - [ ] Archive updates itself in Buttondown.
+
+---
+
+## Theme backlog (each = one issue)
+- **Checkout / AOV** (Issue #1 — 6 bump plays) ✅
+- DMs & warm outreach — N copy-paste scripts that book calls
+- Ads — N hooks/structures tested this month + the CPLs
+- Email — N subject-line/CTA patterns getting opened right now
+- Pricing & guarantees — N offer tweaks that moved conversion
+- Onboarding — N first-48-hour plays that cut refunds
 
 ---
 
 ## Voice reminders (voice.md)
 - Direct. Short sentences. Engineering mindset. "Wrong." "Test, validate, build."
-- No fluff, no guru energy, no hype. The numbers do the selling.
-- One play, told completely > five tips told shallowly.
-
----
-
-## First issue — suggested topic
-Pick something you can show real numbers on **now**. Strong candidates from the funnel you're already running:
-- The 3-bump checkout stack on the $27 front-end (AOV lift — Part 3 writes itself).
-- The $27 digital-snack entry decision — what dropping $47→$27 did to buyer volume vs AOV.
-- The daily-broadcast email rhythm — which day/angle is actually converting.
+- Generous and specific — the copy-paste assets and real numbers do the selling. No hype, no emoji spam.
 
 ---
 
 ## See also
-- [oto2-monthly-playbook-delivery.md](../emails/oto2-monthly-playbook-delivery.md) — how this issue gets SENT
-- [oto2-whats-working-now-newsletter.md](oto2-whats-working-now-newsletter.md) — product spec (reconcile first-issue copy)
-- [oto2-monthly-playbook-ghl-swap-sheet.md](../pages/oto2-monthly-playbook-ghl-swap-sheet.md) — the 4-part stack the page sells
+- [oto2-monthly-playbook-delivery.md](../emails/oto2-monthly-playbook-delivery.md) — how issues get SENT
+- Issue #1 draft: `content/drafts/monthly-playbook/2026-07-issue-01-bump-stack.md`
 - reference/core/voice.md — voice + compliance guardrails
