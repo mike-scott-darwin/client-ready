@@ -16,7 +16,14 @@ tag: monthly-playbook
 
 *The Monthly Playbook · Issue #1 · One theme. Six plays. Real numbers. Copy-paste ready.*
 
-**TLDR:** Here are 6 copy-paste plays that make a $27 offer profitable in the 30 seconds a buyer already has their card out — the 3-bump stack, the bump-copy formula, the post-purchase one-click upsell, the checkbox microcopy, the "no thanks" reframe, and the price anchor. Plus the one rule they all share, and the numbers from testing them this month.
+**TLDR:** Six copy-paste plays that took my checkout from **$[__] to $[__] AOV** on the same traffic — the 3-bump stack, the bump-copy formula, the post-purchase one-click upsell, the checkbox microcopy, the "no thanks" reframe, and the price anchor. Every one with the copy to steal and the real number it moved.
+
+> ### The result, up front
+> Same offer. Same ad spend. Same traffic. I changed only the checkout.
+> **Checkout AOV: $[__] → $[__] ([__]% lift). Refund rate: [__]% (flat).**
+> That's the whole reason this is worth reading — below is exactly how, play by play, with the copy and the numbers.
+>
+> *Illustrative of one test on one funnel. Individual results vary — a case, not a promise.*
 
 This month my inbox had one question on repeat:
 
