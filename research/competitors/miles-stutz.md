@@ -14,6 +14,64 @@ archived:
 
 **One-Sentence Summary:** Frame recurring offers as one-time "sprints," use $97+ order bumps (47% pickup proven), run 3-tier "Daily Client Funnel" system ($27→$297→$2K+), and validate with $300 tests before building full funnels.
 
+> ⚠️ **Sections below the Current State block are 2026-01 vintage** (the "$27 Daily Client Funnel / $2K community" era). Prices, funnel structure, and creative mix are stale — kept for the email/hook/strategy patterns, which still hold. For what Miles actually runs today, read the Current State block first.
+
+---
+
+## Current State (Jul 2026) — supersedes stale specifics below
+
+Source: `research/2026-07-04-miles-stutz-ad-library-mining.md` (30 live ads) + Feb 2026 mining (194 ads).
+
+**Page:** now branded **"Miles Stutz - 4-Hour Consultant."**
+
+**Two live $17 funnels** (both global, all four Meta platforms, 100% static long-form image ads — video fully retired):
+
+| Funnel | Price | Domain | Job |
+|--------|-------|--------|-----|
+| **Rapid Ascension System** ("Digital Snacks") | $17 (anchor $147) | rapidascension.freeclientsystem.com/lander | Sell a $17 product → buyers self-ascend to $5K–$15K in ~7 days |
+| **No-Phone Offer Method** | $17 (anchor $97) | phonefreesales.co/the-no-phone-offer-method | Build one written offer that closes high-ticket with no call |
+
+**Dead:** digitalsnacks.co (killed Feb 2026, still gone). The old $27→$297→$2K "Daily Client Funnel" ladder described below is no longer what he advertises.
+
+**Front-end price history:** $7 (digitalsnacks) → killed → **$17** (both funnels now). Validates Client Ready's own Cat Howell finding that cheap front-ends attract non-ascending buyers; Miles compensates with volume + aggressive ascension.
+
+**Creative:** 100% static image, headline-as-image, long-form (600–1,000-word) first-person **confession → false-cause/true-cause reframe** body. `containsAiMedia: false` on every ad. Mixed CTAs now (See details / Learn more / Shop now — testing).
+
+**Angle shift (Feb → Jul):** mechanism-led → **emotion-led reframes**: Absolution ("It's Not You — It's the Offer"), tool-fatigue ("you don't need a 13th course"), income-stability (feast/famine EKG), good-closer confession ("an 80% close rate built me a cage").
+
+**⭐ Direct Client Ready overlap:** the No-Phone Offer Method now sells CR's exact thesis — *"when your offer is clear enough, you don't explain it. The offer explains itself."* CR's response is codified in [decisions/2026-07-04-clarity-sells-angle-territory.md](../../decisions/2026-07-04-clarity-sells-angle-territory.md): claim the territory **upstream** (validate the right offer first).
+
+**Proof stack (his, not verifiable):** Diego Villanueva (chess, $14K/mo), Starr Codd ($18.6K/wk), Ferenc Nemeth, Mike Millner ($200K month), Leif Harbridge, Matt ($15K→$25K), "1,090+ students across 161 niches." Income claims ($750K/yr, $127K/6mo) run without disclaimers — CR's FTC-clean positioning is the durable counter.
+
+---
+
+## Trajectory (Jan → Jul 2026) — how he evolves, and what it teaches
+
+Full synthesis across the four mining passes (Jan vintage profile, `2026-02-22-miles-stutz-ad-library-mining.md`, `2026-07-04-...`) + May/Jun coaching-call syntheses.
+
+**The arc:**
+
+| When | State | The move |
+|------|-------|----------|
+| Jan | 3-tier "Daily Client Funnel" ($27→$297→$2K→$5–25K), video-heavy | Complex ladder, break-even ROAS |
+| Feb 11 | 23 ads, 61% video, **Anti-Organic #1 angle (35%)** | Attack-the-enemy messaging |
+| Feb 22 | **Full reset** — nuked account + a 5-month winner, 194 fresh ads, new $17 Rapid Ascension, image 39→70%, **Anti-Organic 35→3%, Low-Ticket Ascension 0→37%** | Killed negativity → positive-mechanism |
+| May–Jun | Coaching calls: 3 snacks at once, $10/day, finish the $300 test, static-first, CBO not ASC | Method crystallized |
+| Jul 4 | Two clean $17 funnels, **100% static**, "4-Hour Consultant" rebrand, **emotion-led reframes**, 7 named students / 161 niches | Refinement, not another reset |
+
+**Through-lines (what the progression teaches):**
+
+1. **Complexity → simplicity.** A 4-rung ladder collapsed to two clean $17 front-ends. Winners *narrow*, they don't proliferate → resist funnel sprawl.
+2. **Price floor only rose: $7 → $9 → $17.** Never went cheaper → external confirmation $47 is defensible; never lower it.
+3. **Format converged to static and stayed** (61% video → 100% static over 5 mo). Settled conclusion, not a fad → static-first, long-form confession body sells.
+4. **Angle migration = a Schwartz sophistication climb: attack-the-enemy → explain-the-mechanism → sell-the-identity.** Feb killed "stop posting content" for "sell a $17 product"; Jul moved from "here's the system" to "it's not you, it's the offer." As the market sophisticates, winning shifts to emotional/identity resonance.
+5. **Proof went claims → named specificity, and compounded** ($750K generic → Diego → 7 named students/161 niches). Proof is a moat that accretes → CR's #1 gap; start collecting via the 48-Hour Validation Sprint now.
+6. **He kills winners, then lets the replacement compound.** Bold reset only when something tests dramatically better (Feb), then stability (Jul). Don't marry a winner; don't thrash either.
+7. **The method is the constant.** Volume launch, $10–20/day/ad set, broad+worldwide, finish the full test, radical creative variance — unchanged while products/angles churned → adopt the method as fixed infra; iterate offer + angle.
+8. **Aggressive sticky naming** ("Digital Snacks," "Rapid Ascension," "4-Hour Consultant") tracks the identity-level angle shift → CR's flat "Offer System" name is worth pressure-testing.
+
+**Meta-insight:** a data-driven operator running hundreds of ads over 5 months *independently converged on Client Ready's own thesis* ("clarity sells for you"). Strongest possible validation — and the reason to own it in an FTC-clean voice now, before he cements it. CR's operating stance: **follow ~one step behind him on the sophistication curve** — let his spend prove the frontier, then follow honestly. See [decisions/2026-07-04-follow-the-sophistication-curve.md](../../decisions/2026-07-04-follow-the-sophistication-curve.md).
+
 ---
 
 ## Profile
