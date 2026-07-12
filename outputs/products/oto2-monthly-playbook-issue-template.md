@@ -35,6 +35,23 @@ issue must clear this bar or it's a free-tier issue you shouldn't send as paid:
 **If the numbers are still placeholders, the issue is NOT ready to send as paid.** The real numbers aren't
 decoration you add later — they're ~half the reason it costs $37. No numbers → it reads free → churn.
 
+## 🔑 THE MODEL: newsletter = the WHAT, community = the HOW
+
+The newsletter delivers the **WHAT** — the skill, the real numbers, and **at least one keepable tool** the
+reader uses today (a swipe file, a calculator, a template, a checklist). It must be complete and valuable on
+its own — never "the real stuff is gated in the community."
+
+The community is the **HOW** — the *practical, personalized* implementation a newsletter physically can't do:
+which version fits *their* offer, what *their* numbers mean, where *their* funnel leaks. So **every issue ends
+with a community assignment**, not a generic upsell:
+
+> "Use the tool above on your funnel → **post it in the community** → I audit it live on the weekly call.
+> You're on a free 7-day trial, so this week it's on me."
+
+This makes the community the *natural next step* (the newsletter creates the exact need the community fills)
+instead of a bolted-on CTA. Every issue must (a) hand over a keepable tool, and (b) route implementation to
+the community. Link = the Skool community; billing + a fixed **7-day free trial** run in Skool.
+
 ---
 
 The format that carries this bar (modeled on the best value newsletters) is **N copy-paste plays around one
