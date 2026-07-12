@@ -2,13 +2,18 @@
 type: output
 status: ready-to-use
 date: 2026-07-11
-product: OTO2 — The Monthly Playbook ($37/mo)
-purpose: Repeatable monthly issue template — the "N copy-paste plays around one theme" format
+product: OTO2 — The Weekly Playbook ($37/mo, weekly)
+purpose: Repeatable WEEKLY issue template — one skill, one real takeaway, community = the how
 format_model: Sabrina Ramonov-style value newsletter (structure), rendered in Michael's voice
-updated: 2026-07-11 — switched from single-teardown to numbered copy-paste-plays format
+updated: 2026-07-12 — went WEEKLY + lean: ONE takeaway per issue, ~800-1200 words
 ---
 
-# The Monthly Playbook — Issue Template
+# The Weekly Playbook — Issue Template
+
+**Cadence: weekly. Length: ~800–1,200 words. ONE skill → ONE real takeaway → the community for the how.**
+Lean beats comprehensive — a reader should finish in 3–4 minutes holding one usable thing. If you're tempted
+to add a second tool or a second skill, save it for next week. Frequency justifies the price *only if quality
+holds* — so one great takeaway, not four thin ones.
 
 ## ⛔ THE GOVERNING RULE — the free-vs-paid bar (read first, every issue)
 
@@ -37,9 +42,9 @@ decoration you add later — they're ~half the reason it costs $37. No numbers �
 
 ## 🔑 THE MODEL: newsletter = the WHAT, community = the HOW
 
-The newsletter delivers the **WHAT** — the skill, the real numbers, and **at least one keepable tool** the
-reader uses today (a swipe file, a calculator, a template, a checklist). It must be complete and valuable on
-its own — never "the real stuff is gated in the community."
+The newsletter delivers the **WHAT** — one skill, the real number/proof, and **exactly ONE real takeaway**
+the reader uses today (one swipe, one calculator, one template, one checklist). **One, not several — weekly
+means lean.** It must be complete and valuable on its own — never "the real stuff is gated in the community."
 
 The community is the **HOW** — the *practical, personalized* implementation a newsletter physically can't do:
 which version fits *their* offer, what *their* numbers mean, where *their* funnel leaks. So **every issue ends
@@ -49,14 +54,15 @@ with a community assignment**, not a generic upsell:
 > You're on a free 7-day trial, so this week it's on me."
 
 This makes the community the *natural next step* (the newsletter creates the exact need the community fills)
-instead of a bolted-on CTA. Every issue must (a) hand over a keepable tool, and (b) route implementation to
-the community. Link = the Skool community; billing + a fixed **7-day free trial** run in Skool.
+instead of a bolted-on CTA. Every issue must (a) hand over ONE keepable takeaway, and (b) route implementation
+to the community — ideally a **weekly rhythm**: newsletter drops the skill → "post it in the community" →
+**Thursday live teardown.** Link = the Skool community; billing + a fixed **7-day free trial** run in Skool.
 
 ---
 
-The format that carries this bar (modeled on the best value newsletters) is **N copy-paste plays around one
-monthly theme, tied to a framework, with real numbers** — not one abstract essay. Generous, specific,
-usable today — and anchored in data a free list won't share.
+The format: **one skill, one real takeaway, anchored in a real number/proof** — lean and weekly, not a
+comprehensive monthly teardown. One usable thing, delivered fast. A free list won't hand over your real
+numbers or rewrite their bump live on a call — that's the paid + community edge.
 
 **Content theory (offer.md):** *"content is a byproduct of what Michael is already doing."* One issue = one
 theme he actually worked on this month (checkout, DMs, ads, email, pricing…), broken into the specific
