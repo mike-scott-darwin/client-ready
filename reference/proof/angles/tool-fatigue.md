@@ -11,7 +11,7 @@ use_for: cold traffic, retargeting the course/prompt-pack buyer
 
 **Status:** Secondary test. Targets the `audience.md` buyer directly — the AI-literate coach with 200 saved ChatGPT chats, a graveyard of half-finished courses, and nothing shipped.
 
-**Guardrail:** This is a *pain/tool-fatigue* angle, NOT the shelved customer-facing "codify your brain" pitch. Frame the pain (endless buying, never shipping); resolve to the $47 offer that ships one thing. Do not reintroduce codify-as-selling-point language (per 2026-07-01 status update).
+**Guardrail:** This is a *pain/tool-fatigue* angle, NOT the shelved customer-facing "codify your brain" pitch. Frame the pain (endless buying, never shipping); resolve to the $27 offer that ships one thing. Do not reintroduce codify-as-selling-point language (per 2026-07-01 status update).
 
 ---
 

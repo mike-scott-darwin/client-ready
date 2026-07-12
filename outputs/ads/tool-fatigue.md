@@ -22,7 +22,7 @@ origin: decisions/2026-07-04-clarity-sells-angle-territory.md
 
 Core thesis: You don't have a knowledge problem. You have a never-shipped-anything problem. The fix isn't a 13th course — it's one offer that actually exists.
 Brand arc: Catches the AI-literate buyer (audience.md) drowning in courses/prompts and moves them from **Confused** (endless input) to **Clear** (one shipped offer).
-Guardrail: This is a PAIN / tool-fatigue angle, not the shelved customer-facing "codify your brain" pitch. Frame the graveyard; resolve to the $47 that ships one thing today.
+Guardrail: This is a PAIN / tool-fatigue angle, not the shelved customer-facing "codify your brain" pitch. Frame the graveyard; resolve to the $27 that ships one thing today.
 
 ---
 
@@ -57,7 +57,7 @@ Here's what finally worked: I stopped consuming and answered five honest questio
 
 An offer that exists beats twelve courses that don't.
 
-That's the whole Client Ready Offer System. Five AI prompts, one clear offer document, a same-day validation step that gets it in front of real prospects today. $47. One afternoon. Self-guided — results depend on your effort and your market.
+That's the whole Client Ready Offer System. Five AI prompts, one clear offer document, a same-day validation step that gets it in front of real prospects today. $27. One afternoon. Self-guided — results depend on your effort and your market.
 
 You don't need a 13th prompt pack. You need the first offer to exist. Let's build it today.
 
@@ -70,7 +70,7 @@ Link below.
 12 courses. 200 saved prompts. 3 custom GPTs.
 And I still couldn't say what I sell in one sentence.
 It was never a knowledge problem. It was a never-shipped problem.
-$47. 5 prompts. One offer that exists — today.
+$27. 5 prompts. One offer that exists — today.
 Link below ↓
 ```
 
@@ -89,7 +89,7 @@ The block was never the knowing. It was the building.
 
 Confused → Clear → Converting. It's easy to spend two years buying inputs for step 1.
 
-$47. Five prompts. One offer, validated with real people, this afternoon. Self-guided — your effort, your market.
+$27. Five prompts. One offer, validated with real people, this afternoon. Self-guided — your effort, your market.
 
 → Link below.
 ```
@@ -100,7 +100,7 @@ $47. Five prompts. One offer, validated with real people, this afternoon. Self-g
 The 13th course was never the fix.
 The first offer existing is.
 The block was never knowing. It was building.
-$47 to ship one — today.
+$27 to ship one — today.
 → Link below.
 ```
 
@@ -136,7 +136,7 @@ It was never a knowledge problem. It never is.
 **H2 — Confession:** 12 Courses. 200 Prompts. Still Couldn't Say What I Sell.
 **H3 — Belief Shift:** The Block Was Never Knowing. It Was Building.
 **H4 — Curiosity:** Why "One More Course" Never Ships an Offer
-**H5 — Price-Forward:** $47 to Ship One Real Offer — Instead of Buying a 13th Course
+**H5 — Price-Forward:** $27 to Ship One Real Offer — Instead of Buying a 13th Course
 
 ---
 
@@ -145,10 +145,10 @@ It was never a knowledge problem. It never is.
 **Primary CTA:** Learn more
 
 **Link description:**
-> Stop buying courses. Ship one offer. 5 AI prompts turn what's already in your head into a clear offer — tested with real prospects the same afternoon. $47.
+> Stop buying courses. Ship one offer. 5 AI prompts turn what's already in your head into a clear offer — tested with real prospects the same afternoon. $27.
 
 **Alt (price-forward):**
-> $47, one afternoon. You have the knowledge. This gets the first offer out of your head and in front of real people — today.
+> $27, one afternoon. You have the knowledge. This gets the first offer out of your head and in front of real people — today.
 
 ---
 
@@ -163,7 +163,7 @@ Formats per [creative-guide.md](./creative-guide.md). This angle wants the *grav
 | **Product reveal** | Screen-record the 5-prompt flow producing an offer in real time — proof this one actually ships something. |
 | **Founder selfie (8s)** | "You don't need a 13th prompt pack. You need one offer that exists." Deadpan, no hype. |
 
-**Proof rule:** Michael's own "6 months building a course nobody bought" story earns the anti-consumption stance (voice.md Pattern 7). No income figures. Testimonials only with the coaching disclaimer — and never framed as a typical $47-buyer result (no typicality data exists).
+**Proof rule:** Michael's own "6 months building a course nobody bought" story earns the anti-consumption stance (voice.md Pattern 7). No income figures. Testimonials only with the coaching disclaimer — and never framed as a typical $27-buyer result (no typicality data exists).
 
 ---
 

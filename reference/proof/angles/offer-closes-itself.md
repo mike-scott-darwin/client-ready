@@ -50,7 +50,7 @@ Client Ready sells it **upstream**: *"an offer only closes itself once it's the 
 - "Read → decide → buy. That's what a clear offer does."
 
 ### Counterintuitive reveal (long-form open)
-- "I don't sell $5K coaching packages. I sell a $47 system — and the $5K clients come to me already understanding the offer."
+- "I don't sell $5K coaching packages. I sell a $27 system — and the $5K clients come to me already understanding the offer."
 
 ### Medium (caption, email)
 - "The reason you're stuck on discovery calls isn't that high-ticket needs explaining. It's that your offer isn't clear enough to sell itself. And it won't be — until it's the *right* offer, validated with real people. Clarity is the output of alignment, not a copywriting trick."

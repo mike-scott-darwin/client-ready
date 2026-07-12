@@ -92,7 +92,7 @@ note: >
 
 ## The Alignment Diagnostic (v3)
 
-Three questions to tell if someone is a fit for the $47 system:
+Three questions to tell if someone is a fit for the $27 system:
 
 **1. Can you say what you sell — who it's for, what it costs, why it's worth it — in one sentence, the same way twice?**
 If no, you have an offer-clarity problem. Extraction solves this.
@@ -134,7 +134,7 @@ If push, it may be misaligned — you can't grow into pain. Extract the offer th
 
 | Stage | State | What They Need | Product |
 |-------|-------|----------------|---------|
-| **Confused** | Real expertise, no clear offer; AI gives mush | Extract + validate one clear offer | $47 Offer System + 48-Hour Validation Sprint |
+| **Confused** | Real expertise, no clear offer; AI gives mush | Extract + validate one clear offer | $27 Offer System + 48-Hour Validation Sprint |
 | **Clear** | Offer is clear and validated | Build the funnel + start conversations | Bumps, DFY, One-Page Funnel |
 | **Converting** | Offer sells itself; wants the room + to scale | Community, then done-with-you | Community → Accelerator |
 

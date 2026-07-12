@@ -57,7 +57,7 @@ Clarity you fake with clever copy collapses the moment a real buyer reads it. Cl
 
 So the order matters. First you extract the offer that's actually yours. Then you validate it — put it in front of 5 real prospects this afternoon and watch what they do. Then, and only then, does it start explaining itself.
 
-The Client Ready Offer System is where that starts. Five AI prompts pull the offer out of your head into one clear document. A same-day validation step gets it in front of real people today. $47, one afternoon. Self-guided — results depend on your effort and your market.
+The Client Ready Offer System is where that starts. Five AI prompts pull the offer out of your head into one clear document. A same-day validation step gets it in front of real people today. $27, one afternoon. Self-guided — results depend on your effort and your market.
 
 Get the offer right, and it does the selling. You do the coaching.
 
@@ -70,7 +70,7 @@ Link below.
 The call was never the thing selling. The offer was.
 But you can't write your way to clarity on the wrong offer.
 Extract it → validate it today → then it explains itself.
-$47. One afternoon.
+$27. One afternoon.
 Link below ↓
 ```
 
@@ -78,10 +78,10 @@ Link below ↓
 
 ## P2 — Counterintuitive Reveal `SOLUTION AWARE`
 
-**Hook (112 chars):** I don't sell $5K coaching packages. I sell a $47 system — and a clear offer does the convincing a call used to
+**Hook (112 chars):** I don't sell $5K coaching packages. I sell a $27 system — and a clear offer does the convincing a call used to
 
 ```text
-I don't sell $5K coaching packages. I sell a $47 system. Sounds backwards. It isn't.
+I don't sell $5K coaching packages. I sell a $27 system. Sounds backwards. It isn't.
 
 Here's the mechanic. When an offer is vague, you spend the whole sales call convincing. Proving. Handling objections. Doing manual labor for one person that a clear offer would do for everyone, automatically.
 
@@ -91,9 +91,9 @@ Read → decide → buy.
 
 But you don't get there by polishing the words on a broken offer. You get there by extracting the right one and validating it first.
 
-That's the $47. Five prompts, one clear offer, in front of real prospects this afternoon. The clarity that sells for you is downstream of that — never a shortcut around it.
+That's the $27. Five prompts, one clear offer, in front of real prospects this afternoon. The clarity that sells for you is downstream of that — never a shortcut around it.
 
-$47. One afternoon. Get the offer right first. Self-guided — results depend on your effort and your market.
+$27. One afternoon. Get the offer right first. Self-guided — results depend on your effort and your market.
 
 → Link below.
 ```
@@ -101,9 +101,9 @@ $47. One afternoon. Get the offer right first. Self-guided — results depend on
 ### P2 Short-Form (Compressed) `IMAGE + COMPRESSED COPY`
 
 ```text
-I don't sell $5K coaching. I sell a $47 system.
+I don't sell $5K coaching. I sell a $27 system.
 A clear offer does the convincing a sales call used to — on the page.
-$47 to build the one that closes itself.
+$27 to build the one that closes itself.
 → Link below.
 ```
 
@@ -133,7 +133,7 @@ What this kills:
 
 The promise: an offer so clear it sells without a sales call — because it's the right offer, validated, not just well-written.
 
-$47. One afternoon. Self-guided — results depend on your effort and your market. The step that comes before the page.
+$27. One afternoon. Self-guided — results depend on your effort and your market. The step that comes before the page.
 
 Link below ↓
 ```
@@ -144,7 +144,7 @@ Link below ↓
 Want the offer to sell without a call?
 Start before the copy: extract it, clarify it, validate it today.
 Clarity that sells is the output of the right offer — not clever words.
-$47. One afternoon.
+$27. One afternoon.
 ```
 
 ---
@@ -155,8 +155,8 @@ $47. One afternoon.
 **H2 — Mechanism:** Read → Decide → Buy. That's What the Right Offer Does.
 **H3 — Belief Shift:** The Price Was Never the Problem. The Offer Was.
 **H4 — Upstream Wedge:** You Can't Write Your Way to Clarity on the Wrong Offer
-**H5 — Counterintuitive:** I Don't Sell $5K Coaching. I Sell a $47 System.
-**H6 — Price-Forward:** $47 to Build an Offer That Explains Itself
+**H5 — Counterintuitive:** I Don't Sell $5K Coaching. I Sell a $27 System.
+**H6 — Price-Forward:** $27 to Build an Offer That Explains Itself
 
 ---
 
@@ -165,10 +165,10 @@ $47. One afternoon.
 **Primary CTA:** Learn more
 
 **Link description:**
-> An offer so clear it sells without a call — because it's the right one, extracted and validated. Build yours in one afternoon. $47. Money-back guarantee.
+> An offer so clear it sells without a call — because it's the right one, extracted and validated. Build yours in one afternoon. $27. Money-back guarantee.
 
 **Alt (price-forward):**
-> $47, one afternoon. Turn your expertise into an offer people read, understand, and buy — no sales call required.
+> $27, one afternoon. Turn your expertise into an offer people read, understand, and buy — no sales call required.
 
 ---
 
@@ -183,7 +183,7 @@ Formats per [creative-guide.md](./creative-guide.md). This angle wants *product-
 | **Ugly static (Notes app)** | "The price was never the problem. The offer was." Dark-mode Notes screenshot. |
 | **Before/After** | Split: a rambling four-line "what I do" → the one-sentence clear offer from the system. |
 
-**Proof rule:** Show the *product* (offer doc, prompts, generated page) as proof — NOT Stripe/income screenshots (that's the competitor's crutch and CR has no such data). Testimonials only with the coaching disclaimer — and never framed as a typical $47-buyer result (no typicality data exists).
+**Proof rule:** Show the *product* (offer doc, prompts, generated page) as proof — NOT Stripe/income screenshots (that's the competitor's crutch and CR has no such data). Testimonials only with the coaching disclaimer — and never framed as a typical $27-buyer result (no typicality data exists).
 
 ---
 

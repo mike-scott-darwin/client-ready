@@ -868,7 +868,7 @@ Angle file: [offer-closes-itself.md](./offer-closes-itself.md) · Copy status: C
 ## OCI-04: Founder Selfie — 8s (~5 min)
 
 **Pairs with:** P2 body as primary text.
-- Script: "I don't sell $5K coaching. I sell a $47 system — and a clear offer does the convincing a call used to. Read, decide, buy."
+- Script: "I don't sell $5K coaching. I sell a $27 system — and a clear offer does the convincing a call used to. Read, decide, buy."
 - 9:16, optional burned-in captions (first-person = safe on screen).
 
 ## OCI-05: Polished Text Overlay (optional, ranked #4)

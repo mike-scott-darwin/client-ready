@@ -61,7 +61,7 @@ That's the whole shift. And it's the step almost everyone skips.
 
 The Client Ready Offer System is where it starts. Five AI prompts extract what you actually do well into one clear offer document — then a same-day validation step puts it in front of 5 real prospects this afternoon. You find out if it lands before you spend another month building.
 
-$47. One afternoon. Self-guided — your results depend on your effort and your market.
+$27. One afternoon. Self-guided — your results depend on your effort and your market.
 
 The problem was never the person. It was the offer. Let's fix that one.
 
@@ -74,7 +74,7 @@ Link below.
 It was never about being bad at this.
 It was an offer that was never mine to begin with.
 You can't grow into pain — that's not a flaw, it's data.
-$47 to find the right offer and test it this afternoon.
+$27 to find the right offer and test it this afternoon.
 Link below ↓
 ```
 
@@ -95,7 +95,7 @@ Nobody out-posts, out-DMs, or out-works an offer that was never theirs to sell.
 
 Confused → Clear → Converting. Most coaches force step 3 while stuck on step 1.
 
-$47 gets you from Confused to Clear — and in front of 5 real prospects — in one afternoon. Self-guided — your effort, your market.
+$27 gets you from Confused to Clear — and in front of 5 real prospects — in one afternoon. Self-guided — your effort, your market.
 
 → Link below.
 ```
@@ -106,7 +106,7 @@ $47 gets you from Confused to Clear — and in front of 5 real prospects — in 
 The problem isn't discipline.
 It's the offer.
 You can't grow into pain.
-$47 to fix the one thing that actually moves.
+$27 to fix the one thing that actually moves.
 → Link below.
 ```
 
@@ -146,7 +146,7 @@ That's not a motivation problem. It's a foundation problem. And it's fixable —
 **H2 — Belief Shift:** You Can't Grow Into Pain. That's Not a Flaw — It's Data.
 **H3 — Reframe:** It's Not a Discipline Problem. It's an Offer Problem.
 **H4 — Curiosity:** The Reason It's Felt This Hard (It's One Step Earlier Than You Think)
-**H5 — Price-Forward:** $47 and One Afternoon to Stop Carrying the Wrong Offer
+**H5 — Price-Forward:** $27 and One Afternoon to Stop Carrying the Wrong Offer
 
 ---
 
@@ -155,10 +155,10 @@ That's not a motivation problem. It's a foundation problem. And it's fixable —
 **Primary CTA:** Learn more
 
 **Link description:**
-> You're not the problem — the offer is. Extract the right one and test it with real prospects this afternoon. $47. Self-guided. Money-back guarantee.
+> You're not the problem — the offer is. Extract the right one and test it with real prospects this afternoon. $27. Self-guided. Money-back guarantee.
 
 **Alt (price-forward):**
-> $47, one afternoon. Find the offer that actually fits you — then put it in front of 5 real people the same day.
+> $27, one afternoon. Find the offer that actually fits you — then put it in front of 5 real people the same day.
 
 ---
 
@@ -173,7 +173,7 @@ Formats per [creative-guide.md](./creative-guide.md). Absolution leans lo-fi and
 | **Product reveal** | Screenshot of the actual offer document + the 5-prompt interface mid-extraction — proof the relief has a mechanism. |
 | **Handwritten note** | Index card: "The problem was never you." Photographed on a real desk. Thumb-stopping because it's not an ad. |
 
-**Proof rule:** Testimonials (Renee's "struggled 10 years → clarity in one session") may be used ONLY with the disclaimer "worked directly with Michael through coaching (not the $47 product)." **Typicality caveat:** a coaching result is not representative of what an average $47 buyer gets — the disclaimer alone does not cure this; do not present it as a typical $47-product outcome (no typicality data exists yet). Match the testimonial wording to `reference/proof/testimonials.md` (session was ~1.5 hours — don't invent "90 minutes"). No income figures. No "150+/4.7★" counts until verified against Stripe/GHL.
+**Proof rule:** Testimonials (Renee's "struggled 10 years → clarity in one session") may be used ONLY with the disclaimer "worked directly with Michael through coaching (not the $27 product)." **Typicality caveat:** a coaching result is not representative of what an average $27 buyer gets — the disclaimer alone does not cure this; do not present it as a typical $27-product outcome (no typicality data exists yet). Match the testimonial wording to `reference/proof/testimonials.md` (session was ~1.5 hours — don't invent "90 minutes"). No income figures. No "150+/4.7★" counts until verified against Stripe/GHL.
 
 ---
 
