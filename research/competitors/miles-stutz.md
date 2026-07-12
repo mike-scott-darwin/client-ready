@@ -45,6 +45,35 @@ Source: `research/2026-07-04-miles-stutz-ad-library-mining.md` (30 live ads) + F
 
 ---
 
+## Trajectory (Jan → Jul 2026) — how he evolves, and what it teaches
+
+Full synthesis across the four mining passes (Jan vintage profile, `2026-02-22-miles-stutz-ad-library-mining.md`, `2026-07-04-...`) + May/Jun coaching-call syntheses.
+
+**The arc:**
+
+| When | State | The move |
+|------|-------|----------|
+| Jan | 3-tier "Daily Client Funnel" ($27→$297→$2K→$5–25K), video-heavy | Complex ladder, break-even ROAS |
+| Feb 11 | 23 ads, 61% video, **Anti-Organic #1 angle (35%)** | Attack-the-enemy messaging |
+| Feb 22 | **Full reset** — nuked account + a 5-month winner, 194 fresh ads, new $17 Rapid Ascension, image 39→70%, **Anti-Organic 35→3%, Low-Ticket Ascension 0→37%** | Killed negativity → positive-mechanism |
+| May–Jun | Coaching calls: 3 snacks at once, $10/day, finish the $300 test, static-first, CBO not ASC | Method crystallized |
+| Jul 4 | Two clean $17 funnels, **100% static**, "4-Hour Consultant" rebrand, **emotion-led reframes**, 7 named students / 161 niches | Refinement, not another reset |
+
+**Through-lines (what the progression teaches):**
+
+1. **Complexity → simplicity.** A 4-rung ladder collapsed to two clean $17 front-ends. Winners *narrow*, they don't proliferate → resist funnel sprawl.
+2. **Price floor only rose: $7 → $9 → $17.** Never went cheaper → external confirmation $47 is defensible; never lower it.
+3. **Format converged to static and stayed** (61% video → 100% static over 5 mo). Settled conclusion, not a fad → static-first, long-form confession body sells.
+4. **Angle migration = a Schwartz sophistication climb: attack-the-enemy → explain-the-mechanism → sell-the-identity.** Feb killed "stop posting content" for "sell a $17 product"; Jul moved from "here's the system" to "it's not you, it's the offer." As the market sophisticates, winning shifts to emotional/identity resonance.
+5. **Proof went claims → named specificity, and compounded** ($750K generic → Diego → 7 named students/161 niches). Proof is a moat that accretes → CR's #1 gap; start collecting via the 48-Hour Validation Sprint now.
+6. **He kills winners, then lets the replacement compound.** Bold reset only when something tests dramatically better (Feb), then stability (Jul). Don't marry a winner; don't thrash either.
+7. **The method is the constant.** Volume launch, $10–20/day/ad set, broad+worldwide, finish the full test, radical creative variance — unchanged while products/angles churned → adopt the method as fixed infra; iterate offer + angle.
+8. **Aggressive sticky naming** ("Digital Snacks," "Rapid Ascension," "4-Hour Consultant") tracks the identity-level angle shift → CR's flat "Offer System" name is worth pressure-testing.
+
+**Meta-insight:** a data-driven operator running hundreds of ads over 5 months *independently converged on Client Ready's own thesis* ("clarity sells for you"). Strongest possible validation — and the reason to own it in an FTC-clean voice now, before he cements it. CR's operating stance: **follow ~one step behind him on the sophistication curve** — let his spend prove the frontier, then follow honestly. See [decisions/2026-07-04-follow-the-sophistication-curve.md](../../decisions/2026-07-04-follow-the-sophistication-curve.md).
+
+---
+
 ## Profile
 
 | Element | Details |
