@@ -2,6 +2,8 @@
 
 **For Michael's use only — not shared with clients**
 
+> **Fulfillment path of record:** produce the deliverables via the Codify extraction method — see **[dfy-fulfillment-runbook.md](dfy-fulfillment-runbook.md)** (`/co-extract` → `co-*` generate → review → deliver). The `scripts/dfy/webhook_server.py` auto-pipeline is a reference stub (`on_complete()` doesn't deliver; not deployed) — don't treat it as live. The "Claude API generates" step below describes the one-shot fallback; the runbook is the primary.
+
 ---
 
 ### Overview
