@@ -2,10 +2,10 @@
 type: output
 status: ready-to-build
 date: 2026-07-11
-product: OTO2 — The Monthly Playbook ($37/mo)
+product: OTO2 — The Weekly Playbook ($37/mo)
 purpose: Click-by-click setup — GHL syncs buyers to Buttondown; Buttondown owns ALL subscriber email
 architecture: A (GHL bills + owns the tagged list; Buttondown sends the newsletter)
-depends_on: oto2-monthly-playbook-delivery.md (runbook), buttondown-poster.py (monthly send)
+depends_on: oto2-monthly-playbook-delivery.md (runbook), buttondown-poster.py (weekly send)
 ---
 
 # Buttondown Setup — Click-by-Click
@@ -39,7 +39,7 @@ Created + verified live 2026-07-11:
 - **Name:** `monthly-playbook`
 - **TAG_ID:** `sub_tag_635jft10559rxr9jt8mxgpg014`  ← used in the GHL webhooks below
 
-The monthly poster resolves the name→ID automatically (only needs the name in `.env`). The GHL webhooks are
+The weekly poster resolves the name→ID automatically (only needs the name in `.env`). The GHL webhooks are
 static, so they use the ID.
 
 > **Firewall note (verified live):** the account's Buttondown **firewall** blocked a test signup
@@ -94,9 +94,9 @@ Stops sending paid issues to people who stopped paying.
 > ⚠️ **Do NOT `PATCH {"tags": []}`** — that clears *every* tag on the subscriber, and this is the shared
 > free+paid account, so it would strip their free-newsletter tags too. Remove only `monthly-playbook`.
 
-### Recommended for launch — monthly manual pass
+### Recommended for launch — a manual pass each send
 Churn is ≈ 0 at launch and GHL's cancel triggers are inconsistent, so don't build a fragile real-time
-webhook yet. Once a month, right before you send: in Buttondown filter subscribers by `monthly-playbook`,
+webhook yet. Before each weekly send: in Buttondown filter subscribers by `monthly-playbook`,
 cross-check anyone GHL shows as cancelled that month, and remove the tag from those few. Two minutes.
 
 ### Automate later — two correct options (when volume justifies it)
@@ -115,8 +115,8 @@ Buttondown-side tag changes.
 ## First issue / welcome — handled by Buttondown, not GHL
 
 We deliberately **do not** send a GHL welcome email (that would be a second sender for a newsletter). On
-**Basic $9**, a new mid-month buyer simply gets **the next issue on the 1st** — normal for a monthly paid
-newsletter. The page/product copy says "first issue arrives on the 1st" to match.
+**Basic $9**, a new mid-month buyer simply gets **the next issue on the 1st** — normal for a weekly paid
+newsletter. The page/product copy says "first issue arrives with the next weekly send" to match.
 
 - The **Community "first month free" CTA** lives in every issue's P.S. (sent by Buttondown), so it reaches
   subscribers without a separate GHL blast.
@@ -138,7 +138,7 @@ If a webhook returns 400/401/403, the hint points to the fix (bad key, wrong pla
 
 ---
 
-## What you touch monthly
+## What you touch weekly
 ```
 1. Write content/drafts/monthly-playbook/YYYY-MM-issue.md   (from the template)
 2. python3 scripts/buttondown-poster.py --send

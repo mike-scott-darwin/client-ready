@@ -77,7 +77,7 @@ Every email follows the same structure:
 - Monday: $27 front-end
 - Tuesday: $67 Templates
 - Wednesday: DFY Offer Build ($197)
-- Thursday: The Monthly Playbook ($37/mo)
+- Thursday: The Weekly Playbook ($37/mo)
 - Friday: Accelerator ($5K) — soft pitch, reply trigger
 - Saturday: Community ($47/mo)
 - Sunday: Pure value, no pitch

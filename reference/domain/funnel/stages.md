@@ -21,7 +21,7 @@ ORDER BUMPS ($37 + $67 + $97)
 OTO 1: DFY Offer Build ($197) + 30-day community trial
     |  NO --> Downsell: DFY Lite ($97) + 30-day community trial
     |
-OTO 2: The Monthly Playbook ($37/mo)
+OTO 2: The Weekly Playbook ($37/mo)
     |
 THANK YOU + ONBOARDING FORM (triggers DFY build)
     |
@@ -131,16 +131,16 @@ See: `outputs/dfy-upsell/system-prompt.md` for Claude API spec
 
 ---
 
-## Stage 5: OTO 2 — The Monthly Playbook ($37/mo)
+## Stage 5: OTO 2 — The Weekly Playbook ($37/mo)
 
 **Goal:** Low-friction recurring revenue + ongoing touchpoint
 
-**Product:** The Monthly Playbook — monthly breakdown of tested offers, templates, and results
+**Product:** The Weekly Playbook — weekly breakdown of a tested play + one tool
 
 **What happens:**
 - Shown to ALL buyers (not conditional)
 - Immediate charge, no trial
-- Monthly deliverable: one tested offer breakdown + templates + what the numbers showed
+- Weekly deliverable: one tested play + one tool + the real numbers
 - Upsells to community: "Want the calls and DM access too? Join the community."
 
 **Metrics to track:**
@@ -277,7 +277,7 @@ See: `reference/domain/delivery/accelerator.md`
 | Bump 3 rate | 20-30% |
 | OTO 1 (DFY) rate | 15% |
 | Downsell (DFY Lite) rate | 10% of remaining |
-| OTO 2 (The Monthly Playbook) rate | 8% |
+| OTO 2 (The Weekly Playbook) rate | 8% |
 | Checkout AOV (front-end + bumps) | $90-110 |
 | Full funnel AOV (incl. OTOs) | ~$135 |
 | 90-day value per buyer | ~$260 |

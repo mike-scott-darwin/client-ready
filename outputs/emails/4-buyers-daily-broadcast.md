@@ -63,7 +63,7 @@ Every email follows the same structure:
 | Wednesday | DFY Offer Build | $197 | "Get it built for you" | https://clientreadyoffer.com/croto1-dfy |
 | Thursday | Community | $47/mo | "Join the Community" | https://www.skool.com/high-ticket-playbook-9467/about |
 | Friday | Accelerator | $5K | "Reply BUILD" | Reply trigger (no link) |
-| Saturday | The Monthly Playbook | $37/mo | "Get What's Working Now" | https://clientreadyoffer.com/newsletter |
+| Saturday | The Weekly Playbook | $37/mo | "Get What's Working Now" | https://clientreadyoffer.com/newsletter |
 | Sunday | Free value | — | "Reply and tell me" | Reply trigger (no link) |
 
 **Note:** Friday's backend pitch is soft (reply trigger, not direct link). This qualifies serious buyers.
@@ -253,7 +253,7 @@ P.S. — No pressure. No sales call if you're not ready. Just a conversation.
 
 ---
 
-### Saturday — The Monthly Playbook ($37/mo)
+### Saturday — The Weekly Playbook ($37/mo)
 
 **Subject:** What's working right now
 
@@ -265,7 +265,7 @@ What converted last month might not convert this month. The hook that worked in 
 
 Most coaches are building off last year's playbook. They wonder why results dip.
 
-That's why I put together The Monthly Playbook — a monthly deep-dive on what's actually converting right now for Client Ready members.
+That's why I put together The Weekly Playbook — a monthly deep-dive on what's actually converting right now for Client Ready members.
 
 Each month you get:
 - A breakdown of a tested offer, funnel, or strategy
@@ -380,7 +380,7 @@ As buyers ascend, remove them from pitches for products they own:
 | Templates ($67) | Tuesday emails skip offer section |
 | DFY ($197) | Wednesday emails skip offer section |
 | Community ($47/mo) | Thursday emails skip offer section |
-| The Monthly Playbook ($37/mo) | Saturday emails skip offer section |
+| The Weekly Playbook ($37/mo) | Saturday emails skip offer section |
 | Accelerator ($5K) | Friday emails become value-only |
 
 **Tag-based logic in your email tool.** The story stays; just swap the CTA.

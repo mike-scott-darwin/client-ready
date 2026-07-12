@@ -1,60 +1,43 @@
-# The Monthly Playbook
+# The Weekly Playbook
 
-**Monthly deep-dives on what's actually converting — not theory, not predictions, what's working today.**
+**Every week: one tested play that's actually converting — real numbers, one tool you use today, and the community to help you do it.**
 
 ---
 
 ## What You Just Got
 
-A monthly newsletter built for coaches who want to stay current instead of guessing.
+A weekly newsletter for coaches who want to know what's working *now* — and actually do it.
 
-Each month you get a single, focused deep-dive on something that's working right now for Client Ready members. Tested strategies. Real numbers. Templates you can use immediately.
+Every week you get **one skill, broken down with real numbers, plus one keepable tool** — a swipe, a template, a calculator — you can use the same day. Then the community is where you get it dialled in on *your* funnel.
 
-**$37/month. Cancel anytime. A new issue lands on the 1st of every month.**
+**$37/month. Cancel anytime. A new issue every week.**
 
 ---
 
 ## What's Inside Each Issue
 
-### The Monthly Deep-Dive
+Lean by design — a 3–4 minute read that hands you one usable thing:
 
-One topic, covered thoroughly. Not 10 surface-level tips — one strategy broken down completely.
-
-**Examples of past/planned topics:**
-- The exact ad structure that's converting at $3-5 CPL for coaching offers right now
-- The DM conversation flow that's closing 20% of warm leads
-- The checkout bump copy that added 35% to AOV last month
-- The email subject line patterns getting 40%+ open rates in 2026
-- The landing page layout change that doubled conversions for 3 different members
-
-### Member Breakdowns
-
-Real examples from Client Ready members (anonymized when requested):
-- What they tried
-- What worked
-- What didn't
-- The numbers
-
-### Templates & Swipe Files
-
-Each issue includes at least one ready-to-use asset:
-- Copy templates
-- Ad hook variations
-- Email sequences
-- Landing page sections
-- Campaign structures
+1. **One skill** — a single tested play (a bump, an ad angle, an email, a price move), with the real numbers behind it.
+2. **The proof** — a real screenshot: the ad account, the checkout, the take-rates. Un-fakeable.
+3. **One takeaway** — a fill-in-the-blank tool you keep and run today.
+4. **The community assignment** — do it on your funnel, post it, get feedback live on the weekly call.
 
 ---
 
-## Why Monthly (Not Weekly)
+## The model: the newsletter is the WHAT, the community is the HOW
 
-Weekly newsletters become noise. You skim them, archive them, forget them.
+The newsletter gives you the **what** — the skill, the numbers, the tool. Complete and useful on its own.
 
-Monthly means:
-- Each issue is worth reading carefully
-- You have time to implement before the next one arrives
-- Quality over quantity
-- One focused strategy per month > 4 scattered tips per week
+The community gives you the **how** — which version fits *your* offer, what *your* numbers mean, where *your* funnel leaks. Every issue ends with an assignment you bring to the weekly live call.
+
+---
+
+## Why Weekly
+
+- **Momentum.** One small, doable thing a week beats a giant monthly dump you never action.
+- **It compounds.** 52 skills a year, each building on the last — the whole low-ticket funnel, one piece at a time.
+- **A rhythm with the community.** Newsletter drops the skill → you post your work → live teardown on Thursday. Every week.
 
 ---
 
@@ -62,36 +45,34 @@ Monthly means:
 
 **Perfect fit:**
 - You have a coaching offer (launched or launching)
-- You want to know what's working NOW, not what worked last year
-- You implement — you don't just collect information
-- You want tested strategies, not theory
+- You want what's working NOW, not last year
+- You *implement* — you don't just collect information
 
 **Not a fit:**
 - You haven't started yet (start with the $27 system)
-- You want hand-holding (that's the Community at $47/mo)
-- You don't implement what you learn
+- You don't act on what you learn
 
 ---
 
 ## FAQ
 
 **Q: How is this different from the Community?**
-A: The Community ($47/mo) is a room — weekly calls, DM access, accountability, curriculum. The Monthly Playbook ($37/mo) is a document — one deep-dive per month with templates. Some members have both. It gives you the "what," the community gives you the "how" and "with who."
+A: The Weekly Playbook ($37/mo) is the **document** — one skill + one tool a week (the *what*). The Community ($47/mo) is the **room** — weekly live calls where you get *your* funnel torn down (the *how*). The newsletter tells you what to do; the community helps you do it. Many members have both.
 
 **Q: Can I cancel anytime?**
-A: Yes. No contracts. No cancellation fees. Cancel before your next billing date and you're done.
+A: Yes. No contracts, no fees. Cancel before your next billing date and you're done.
 
-**Q: Do I get access to past issues?**
-A: Yes. When you subscribe, you get access to the full archive.
+**Q: Do I get past issues?**
+A: Every issue lands in your inbox and is yours to keep.
 
-**Q: Is this just recycled content from Skool?**
-A: No. Newsletter content is exclusive — different from what's in the free Skool community or the paid Community curriculum. This is original research and breakdowns.
+**Q: Is this recycled Skool content?**
+A: No — original breakdowns from real funnels, exclusive to subscribers.
 
 ---
 
 ## Getting Started
 
-Your first issue arrives on the 1st of the month. Each issue is one theme, broken into copy-paste plays with the real numbers — worth reading carefully, not skimming.
+Your first issue arrives with the next weekly send. One skill, one tool, real numbers — do it that week, then bring it to the community.
 
 $37/month. Cancel anytime.
 

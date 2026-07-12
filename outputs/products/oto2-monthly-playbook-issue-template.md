@@ -29,7 +29,7 @@ issue must clear this bar or it's a free-tier issue you shouldn't send as paid:
      report, the checkout/order-bump numbers, the Stripe/GHL dashboard. A screenshot of real data is the
      single strongest paid signal (un-fakeable, un-Googleable). **Anonymize** (blur client names, account
      IDs, emails); keep the "one test, results vary — a case, not a promise" caption on every screenshot.
-     Markdown: `![Order-bump take-rates — {month}](public-image-url)`.
+     Markdown: `![Order-bump take-rates — {label}](public-image-url)`.
 3. **Built for coaches specifically** — not generic-for-anyone.
 4. **Written for a beginner** — assume the reader knows little about low-ticket funnels. **Define every
    metric and acronym in plain English the first time it appears** (AOV, CPA, take-rate, CTR, ROAS, EPC…) —
@@ -65,8 +65,8 @@ comprehensive monthly teardown. One usable thing, delivered fast. A free list wo
 numbers or rewrite their bump live on a call — that's the paid + community edge.
 
 **Content theory (offer.md):** *"content is a byproduct of what Michael is already doing."* One issue = one
-theme he actually worked on this month (checkout, DMs, ads, email, pricing…), broken into the specific
-plays he ran, each with the real asset and the real number.
+skill he actually worked on this week (checkout, DMs, ads, email, pricing…) — the real number behind it and
+the one tool a reader runs today.
 
 **Voice = Michael, NOT the source model.** Take the structure below, render it in voice.md: direct, short
 sentences, engineering mindset, "Wrong.", "Test, validate, build." No emoji spam, no guru warmth, no
@@ -74,72 +74,49 @@ sentences, engineering mindset, "Wrong.", "Test, validate, build." No emoji spam
 
 ---
 
-## The fixed structure (follow every issue)
+## The fixed structure (follow every issue — lean, ~800–1,200 words)
 
 ### 1. Header + TLDR
 ```
-# {N} Copy-Paste {Theme} Plays That {Outcome}
-Subject line: {N} copy-paste {theme} plays (real numbers inside)
-Preview text: {the concrete promise in one line}
+# {The One Skill}: {The Outcome}
+Subject line: {the skill in plain words} (real numbers inside)
+Preview text: {the one takeaway, in one line}
 
-*The Monthly Playbook · Issue #{n} · One theme. {N} plays. Real numbers. Copy-paste ready.*
+*The Weekly Playbook · Issue #{n} · One skill. One takeaway. Do it this week.*
 
-TLDR: one sentence listing exactly what they're about to get — the N plays by name + that the numbers are inside.
+TLDR: one sentence — the skill, the headline number, and the one tool they walk away with.
 ```
-The TLDR is non-negotiable. A reader should know the entire value in the first 3 seconds — and the TLDR
-must include the **headline number** (the single biggest result), not just the list of plays.
+The TLDR must include the **headline number.** A reader should know the whole value in 3 seconds.
 
-### 1b. The result, up front (lead with the numbers)
-Immediately after the TLDR, a short callout that leads with the outcome — because the numbers are the paid
-moat, they go at the TOP, not buried in a table at the bottom:
+### 2. The hook (2–3 lines)
+The real problem this skill solves + one "Wrong."-style reframe. No throat-clearing.
+
+### 3. The proof (ONE real screenshot)
+One real screenshot with the honest caption (*"one test — a case, not a promise"*). Un-fakeable = the paid
+moat. **Anonymize** (crop account names/IDs, blur client info).
+
+### 4. The WHAT — teach the one skill
+Why it works, the mechanism, in a few tight bullets. **Define any metric/acronym in plain English** the
+first time (AOV, CPA, take-rate…). This is the depth: one skill done properly, not five skimmed.
+
+### 5. 🎁 The ONE takeaway (the tool)
+**Exactly one** keepable asset — a fill-in-the-blank swipe, a calculator, a template, or a checklist — in a
+blockquote/code block they copy and use today. One, not several. This is the substance; without it, it's a
+tip, and tips aren't worth $37.
+
+### 6. The HOW → community assignment
+The bridge that makes the community the natural next step:
+> "You've got the tool. But which version fits *your* funnel is personal — that's the community. **This week:
+> {use the tool} → post it in the community → I tear it down live Thursday.** Free on your 7-day trial."
+Link → the Skool community.
+
+### 7. RECAP (3–4 bullets)
+The transferable points, then the one action for the week.
+
+### 8. Close + P.S. (fixed community CTA — every issue)
 ```
-> ### The result, up front
-> {what was held constant — same traffic/spend/offer}. I changed only {the thing}.
-> **{headline metric}: {before} → {after} ({lift}). {guardrail metric}: {value} (flat).**
-> That's the reason this is worth reading — below is exactly how, with the copy and the numbers.
-> *Illustrative of one test. Individual results vary — a case, not a promise.*
-```
-
-### 2. The hook + who-it's-for (short)
-- Open with the real question/problem this month's theme answers (ideally something from Michael's actual inbox/DMs).
-- One "Wrong."-style reframe of the common wisdom.
-- **Who this is for / Not for you** — two lines. Qualify hard; it makes the right readers lean in.
-
-### 3. The framework spine (the teaching layer)
-- One repeatable rule/principle that all N plays share. This is what makes the issue *teach* instead of
-  just list. (Sabrina's spine = the 5-part /goal template. Issue #1's spine = "intent is highest at checkout.")
-- State it plainly, tell them to keep it in their head.
-
-### 4. The N plays (the meat — aim for 5–7)
-Each play, same micro-structure, every time:
-```
-## {n} · {Play name}
-**What it is:** one line.
-**Why it works:** the mechanism, 1–2 sentences.
-**Copy-paste — {what}:** the ACTUAL asset in a blockquote/code block — a script, formula, line, structure
-   they paste and fill. This is the value. At least one real, usable asset per play.
-**The number:** [bracketed real metric — take-rate, lift, AOV impact].
-**Watch-out:** the one mistake that kills this play.
-```
-Every play must carry a **copy-paste asset**. A play without one is a tip, and tips aren't worth $37.
-
-### 5. The Numbers (consolidated table)
-- One table: each play → its metric → AOV/impact, plus the headline before→after for the theme.
-- **Compliance guard (voice.md):** these are Michael's internal results reported as a case, never a promise
-  to the reader. Add: *"Illustrative of one test. Individual results vary — a case, not a promise."* No
-  income claims framed as reader outcomes.
-
-### 6. RECAP — the patterns
-- 4–6 bullets distilling the transferable principles.
-- End with **"Pick ONE this week"** + name the single cheapest/fastest play to test.
-
-### 7. FAQ (2–4)
-- The real objections/edge-cases ("what if I only have one product?", "do I need special software?").
-
-### 8. Close + P.S. (P.S. is a FIXED ascension CTA — include every issue)
-```
-Test one — don't just file it.
-Next issue hits on the 1st. Hit reply with {the specific result to report} — I read every one.
+That's the skill — do it this week.
+Next week: {one-line teaser}. Hit reply with {the number to report} and I'll tell you where the leak is.
 — Michael
 
 ---
@@ -151,7 +128,7 @@ building alongside you.
 → **[Join the Community — free 7-day trial](https://www.skool.com/high-ticket-playbook-9467/about)**
 $47/mo after the trial. Cancel anytime.
 
-*The Monthly Playbook · $37/mo · Cancel anytime.*
+*The Weekly Playbook · $37/mo · Cancel anytime.*
 ```
 This P.S. is the standing $37 → $47 ascension, framed as **getting help**. Keep it every issue — the Playbook
 feeds the Community, which is where the Accelerator gets sold. **Link = the Skool community**
@@ -167,11 +144,11 @@ to act without leaving the email.
 
 ---
 
-## The monthly publish ritual (~90 min)
+## The weekly publish ritual (~30–45 min)
 
-Last week of the month, so the 1st always has an issue ready.
+Early in the week, so the weekly send always has an issue ready.
 
-1. **Pick the theme** (10 min): the one area Michael actually worked/tested this month.
+1. **Pick the theme** (10 min): the one skill Michael actually worked/tested this week.
 2. **List the plays** (15 min): 5–7 specific things he did in that area. Each becomes a section.
 3. **Fill the micro-structure** (45 min): for each play, drop the real asset + number into what/why/copy-paste/number/watch-out.
 4. **Optional AI-assisted draft:** feed raw notes + this template + voice.md to Claude, get a draft, edit for voice.
@@ -185,7 +162,7 @@ Last week of the month, so the 1st always has an issue ready.
 
 ## The curriculum — cover the FULL gambit of a low-ticket funnel
 
-The series isn't random monthly topics — it walks a beginner through the **entire** low-ticket funnel, one
+The series isn't random weekly topics — it walks a beginner through the **entire** low-ticket funnel, one
 piece at a time, in the order you'd actually build it. Over the year, a subscriber gets the whole system.
 Each issue: plain-English teaching + copy-paste plays + real numbers/screenshot + the exact tools needed.
 

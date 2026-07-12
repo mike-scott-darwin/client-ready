@@ -12,7 +12,7 @@ caveat: PROJECTION from reference-class benchmarks, not booked revenue (~16 real
 
 # Client Ready — Revenue Model & Self-Liquidation
 
-**One-line thesis:** the front end + bumps are priced so **checkout AOV ≈ cost to acquire a buyer**, so ads break even at the point of sale. The DFY OTO, downsell, Monthly Playbook, community, GHL affiliate, and $5K Accelerator are all funded by traffic you already recovered — self-liquidating acquisition feeding a compounding recurring + backend engine.
+**One-line thesis:** the front end + bumps are priced so **checkout AOV ≈ cost to acquire a buyer**, so ads break even at the point of sale. The DFY OTO, downsell, Weekly Playbook, community, GHL affiliate, and $5K Accelerator are all funded by traffic you already recovered — self-liquidating acquisition feeding a compounding recurring + backend engine.
 
 > All figures below are **modeled**. They're the target math from documented benchmarks, not results. The point is to know which levers matter and to have a yardstick as real numbers replace them.
 
@@ -42,7 +42,7 @@ Checkout AOV (front-end $47 + bumps $37/$67/$97)   ≈   CPA (ad spend ÷ buyers
 | Checkout CVR | offer.md 30% | — | — | — | _TBD_ |
 | DFY OTO ($197) take | offer.md 15% | 10% | 15% | 20% | _TBD_ |
 | DFY Lite ($97) take (of decliners) | offer.md 10% | 8% | 10% | 12% | _TBD_ |
-| Monthly Playbook ($37/mo) take | offer.md 8% | 5% | 8% | 10% | _TBD_ |
+| Weekly Playbook ($37/mo) take | offer.md 8% | 5% | 8% | 10% | _TBD_ |
 | Community ($97/mo) paying, % of buyers | estimate | 7% | 12% | 18% | _TBD_ |
 | Community trial→paid conversion | estimate | — | — | — | _TBD_ |
 | Monthly churn (community + Playbook) | not modeled | — | — | — | _TBD_ |
@@ -62,7 +62,7 @@ Community % and Accelerator rate aren't in offer.md as hard numbers — they're 
 | Checkout (FE + bumps) | $8,000 | $10,000 | $11,500 |
 | DFY OTO $197 | $1,970 | $2,955 | $3,940 |
 | DFY Lite $97 | $700 | $825 | $930 |
-| Monthly Playbook (1st mo) | $185 | $296 | $370 |
+| Weekly Playbook (1st mo) | $185 | $296 | $370 |
 | **One-time total** | **~$10,900** | **~$14,100** | **~$16,700** |
 | **One-time AOV / buyer** | **~$109** | **~$141** | **~$167** |
 
@@ -72,7 +72,7 @@ Target's ~$141 lines up with offer.md's documented ~$135 full-funnel AOV. ✓
 | | Conservative | Target | Strong |
 |---|---|---|---|
 | Community $97/mo | $680 | $1,164 | $1,746 |
-| Monthly Playbook $37/mo | $185 | $296 | $370 |
+| Weekly Playbook $37/mo | $185 | $296 | $370 |
 | **Recurring / month** | **~$865** | **~$1,460** | **~$2,120** |
 
 Each cohort lays down a new monthly layer that **stacks** on the next — this is the compounding part. (Before churn; GHL affiliate ~$39/mo per Snapshot buyer is upside on top.)

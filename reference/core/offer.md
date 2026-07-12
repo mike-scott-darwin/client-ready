@@ -78,7 +78,7 @@ graph TD
     FE --> B3["97 Playbook<br/>Order Bump 3"]
     FE --> DFY["197 DFY Offer Build<br/>OTO 1 + Community Trial"]
     DFY -->|no| DFYL["97 DFY Lite<br/>Downsell + Community Trial"]
-    DFY --> NL["37/mo Monthly Playbook<br/>OTO 2 — Continuity"]
+    DFY --> NL["37/mo Weekly Playbook<br/>OTO 2 — Continuity"]
     DFYL --> NL
     DFY --> COM["47/mo Community<br/>THE ENGINE"]
     DFYL --> COM
@@ -263,14 +263,14 @@ See: `outputs/dfy-upsell/system-prompt.md` for full API spec and questionnaire
 
 ---
 
-### Tier 2.5: OTO 2 — The Monthly Playbook (formerly "What's Working Now" Newsletter; = "OS Lite" in the OS ascension)
+### Tier 2.5: OTO 2 — The Weekly Playbook (formerly "What's Working Now" Newsletter; = "OS Lite" in the OS ascension)
 
 **Price:** $37/month (immediate charge, no trial)
-**Format:** Monthly deliverable
+**Format:** Weekly deliverable
 **Position:** Shown to ALL buyers after OTO 1 (not conditional)
 
 **What's Included:**
-- Monthly breakdown of one tested offer — the ads, the page, the numbers
+- Weekly breakdown of one tested play — the ads, the page, the numbers
 - Templates from that month's tests
 - What worked, what didn't, what changed
 
@@ -375,7 +375,7 @@ See: `outputs/dfy-upsell/system-prompt.md` for full API spec and questionnaire
 | Standalone (Plug & Play Funnel Snapshot) | $97 | One-time (portal training + GHL affiliate trigger) |
 | OTO 1 (DFY Offer Build) | $197 | One-time + 30-day community trial |
 | Downsell (DFY Lite) | $97 | One-time + 30-day community trial |
-| OTO 2 (The Monthly Playbook) | $37/mo | Recurring (immediate charge) |
+| OTO 2 (The Weekly Playbook) | $37/mo | Recurring (immediate charge) |
 | Community | $47/mo | Recurring (month-to-month after trial) |
 | Backend (Accelerator) | $5,000 | Sold from community |
 
@@ -383,7 +383,7 @@ See: `outputs/dfy-upsell/system-prompt.md` for full API spec and questionnaire
 **Checkout AOV target:** $70-90 (front-end + bumps — at $27 the front-end is a buyer-acquisition price, NOT self-liquidating on its own; see [decisions/2026-07-04-front-end-27-digital-snack.md](../../decisions/2026-07-04-front-end-27-digital-snack.md))
 **Full funnel AOV:** ~$115 (including OTOs)
 **90-day value per buyer:** ~$240 (including recurring + Accelerator attribution)
-**Recurring streams:** Community ($47/mo) + The Monthly Playbook ($37/mo) + GHL affiliate (~$39/mo)
+**Recurring streams:** Community ($47/mo) + The Weekly Playbook ($37/mo) + GHL affiliate (~$39/mo)
 **Portal cross-sell potential:** One-Page Funnel ($57) + Funnel Snapshot ($97) + second-chance bumps add to 30-day CLV
 **GHL affiliate potential:** ~$39/mo recurring per Funnel Snapshot buyer who signs up for GHL
 **DFY cost per generation:** ~$0.30-0.80 (Claude Sonnet 5, six deliverables) — near-zero marginal cost
@@ -729,7 +729,7 @@ Naked VSLs (video-only pages) are dying — high bounce rates from cold traffic.
 |-----|-------|---------------------|
 | OTO 1 DFY Offer Build | $197 | 15% |
 | Downsell DFY Lite | $97 | 10% of remaining |
-| OTO 2 The Monthly Playbook | $37/mo | 8% |
+| OTO 2 The Weekly Playbook | $37/mo | 8% |
 | Community | $47/mo | Via trial or direct sign-up |
 
 **Traffic Metrics:**
