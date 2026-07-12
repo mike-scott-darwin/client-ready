@@ -830,3 +830,113 @@ Dark charcoal background with subtle texture. Bold off-white text centered readi
 | P3 Belief-Shift (no CTA) | AB-04 before/after, AB-01 Notes (#1) | Top-of-funnel, mechanism-only |
 
 **Testing:** Run AB-01 (ugly static) as its own ABO concept vs AB-02 (selfie) vs AB-05 (polished) — separate ad sets, Radical Creative Variance. Ugly static is the expected front-runner.
+
+---
+
+# OFFER-CLOSES-ITSELF — Creatives (Jul 2026)
+
+Angle file: [offer-closes-itself.md](./offer-closes-itself.md) · Copy status: CLEAR ([review-log-2026-07-04-clarity-angles.md](./review-log-2026-07-04-clarity-angles.md)).
+
+**On-image text compliance:** first-person / maxim / third-person only — no "you [failed/can't]" accusation. Pre-cleared lines below.
+
+**Signature format for this angle = product reveal** (show the offer doc that "explains itself" — honest proof where the competitor fakes Stripe screenshots).
+
+## OCI-01: Product Reveal — Silent Scroll (SIGNATURE, ~30 min)
+
+**Pairs with:** P1 Deep, P3 Direct Response.
+- Screen-record scrolling a finished, clean offer document, then the landing-page copy generated from it. No speaking.
+- Text overlay (safe): "No call. They read it and bought." → "This is the offer doing the selling."
+- Optional face-cam circle reacting. Blur anything sensitive.
+- Why it wins: proves the product is real and that clarity is a *document*, not a claim.
+
+## OCI-02: Ugly Static — Notes App (~15 min)
+
+**Pairs with:** P1 Deep body as primary text. Pre-cleared card lines:
+1. "The price was never the problem. The offer was."
+2. "Read → decide → buy. That's what a clear offer does."
+3. "The call was never the thing selling. The offer was."
+4. "No one writes their way to clarity on the wrong offer."
+5. "An offer so clear it sells without a call."
+
+## OCI-03: Before/After — Split (~15 min Canva)
+
+**Pairs with:** P2 Counterintuitive, P3.
+- Left: a rambling four-line "what I do" (grey, faded).
+- Right: the one-sentence clear offer (charcoal, bold, teal accent).
+- Label (safe): "vague → sells itself." No "you."
+
+## OCI-04: Founder Selfie — 8s (~5 min)
+
+**Pairs with:** P2 body as primary text.
+- Script: "I don't sell $5K coaching. I sell a $47 system — and a clear offer does the convincing a call used to. Read, decide, buy."
+- 9:16, optional burned-in captions (first-person = safe on screen).
+
+## OCI-05: Polished Text Overlay (optional, ranked #4)
+
+**Ideogram:**
+```
+Dark charcoal background, subtle texture. Bold off-white text centered: "The price was never the problem." with a thin amber line beneath and smaller amber text below: "The offer was." Minimalist typography, generous whitespace. Square 1:1. No other text.
+```
+**Canva:** charcoal bg → "The price was never the problem." (Montserrat Bold, off-white, 64pt) → amber divider → "The offer was." (Montserrat Bold, amber, 64pt).
+
+### Mapping
+| Primary | Best Creative |
+|---------|--------------|
+| P1 Deep | OCI-01 product reveal, OCI-02 Notes |
+| P2 Counterintuitive | OCI-04 selfie, OCI-03 before/after |
+| P3 Direct Response | OCI-01 product reveal, OCI-02 Notes |
+
+---
+
+# TOOL-FATIGUE — Creatives (Jul 2026)
+
+Angle file: [tool-fatigue.md](./tool-fatigue.md) · Copy status: CLEAR ([review-log-2026-07-04-clarity-angles.md](./review-log-2026-07-04-clarity-angles.md)).
+
+**On-image text compliance:** first-person / maxim / third-person only. Pre-cleared lines below.
+
+**Signature format = the graveyard-vs-shipped contrast.** The single most thumb-stopping asset is a *real* screenshot of the course/prompt graveyard.
+
+## TF-01: Ugly Static — The Graveyard Screenshot (SIGNATURE, ~10 min)
+
+**Pairs with:** P1 Deep body as primary text.
+- Screenshot a real messy desktop/Drive folder of half-finished course files, OR a Notes list of programs bought — authentic, unstaged. Blur anything sensitive.
+- Overlay one pre-cleared line (or run the raw screenshot with the line in the primary text):
+  1. "The fix was never a 13th prompt pack. It was one offer that exists."
+  2. "The block was never knowing. It was building."
+  3. "12 courses. 200 prompts. Still couldn't say what I sell." (first-person)
+  4. "An offer that exists beats twelve courses that don't."
+
+## TF-02: Product Reveal — 5-Prompt Flow (~20 min)
+
+**Pairs with:** P1 Deep, P2 Pattern Interrupt.
+- Screen-record the 5-prompt flow producing an offer in real time — proof this one actually *ships* something (the whole point of the angle).
+- Text overlay: "Answer 5 questions. The offer exists." → "One afternoon."
+
+## TF-03: Before/After — Graveyard → Shipped (~15 min Canva)
+
+**Pairs with:** P1 Deep, P3 Belief-Shift.
+- Left: the graveyard (courses, 20 open tabs, saved prompts) — grey, chaotic.
+- Right: one clean offer document — charcoal, bold.
+- Label (safe): "consumed → shipped." No "you."
+
+## TF-04: Founder Selfie — 8s (~5 min)
+
+- Deadpan, no hype: "The fix was never a 13th prompt pack. It was one offer that actually exists. Answer five questions — it's built."
+- 9:16, optional captions.
+
+## TF-05: Polished Text Overlay (optional, ranked #4)
+
+**Ideogram:**
+```
+Dark charcoal background. Bold off-white text centered: "The block was never knowing." with a thin amber line beneath and smaller amber text: "It was building." Minimalist typography, generous whitespace. Square 1:1. No other text.
+```
+**Canva:** charcoal → "The block was never knowing." (Montserrat Bold, off-white, 60pt) → amber divider → "It was building." (Montserrat Bold, amber, 60pt).
+
+### Mapping
+| Primary | Best Creative |
+|---------|--------------|
+| P1 Deep | TF-01 graveyard, TF-02 product reveal |
+| P2 Pattern Interrupt | TF-04 selfie, TF-01 graveyard |
+| P3 Belief-Shift (no CTA) | TF-03 before/after, TF-01 graveyard |
+
+**Cross-angle testing note:** run the three signature formats — AB-01 (Notes maxim), OCI-01 (product reveal), TF-01 (graveyard) — as three separate ABO concepts. Each is a genuinely different scroll-stop, per Radical Creative Variance.
