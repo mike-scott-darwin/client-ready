@@ -1,142 +1,152 @@
 ---
 type: reference
-status: draft
-date: 2026-03-10
-evolved_from: audience-v1-low-ticket.md
+status: active
+date: 2026-07-04
+evolved_from: audience-v2-knowledge-codification (2026-03-10)
+reconciled_by: decisions/2026-07-04-audience-who-comes-first.md
+note: >
+  Option A applied. Canonical buyer is the coach/expert-in-transition (soul.md).
+  AI-literacy is now framed as a TRAIT of that person, not a separate segment.
+  The prior v2 "$100K–500K AI-knowledge-management operator" framing is retired
+  (it was written for the customer-facing "codify" play shelved 2026-07-01).
+  Tool-fatigue material is kept — reframed as a symptom of the offer problem.
 ---
 
-# Audience (v2 — Knowledge Codification)
+# Audience (v3 — Reconciled: the AI-literate coach/expert)
 
 ## Primary Audience
 
-**Who:** AI-literate business owners who already use AI daily but get generic, disposable results because nothing is structured or compounding.
+**Who:** A coach, consultant, or service provider with real, hard-won expertise — often still holding (or recently left) a 9-to-5 — who **can't package that expertise into one clear offer they can sell.** They use AI every day, but it hands them generic, disposable output because they've never extracted their own offer, voice, and ideal client. So more AI just produces more confusion, faster.
+
+**The core problem is offer clarity and validation — not "AI knowledge management."** AI-literacy is a *trait* of this buyer (it's why the 5-prompt mechanism lands and why the tool-fatigue angle bites), not the thing they're trying to solve.
 
 **Specifics:**
-- Already paying for AI tools (Claude, ChatGPT, Jasper, Copy.ai) — $20-$200/month
-- Already generating outputs — but starting from scratch every session
-- Have uploaded docs to Claude Projects or built custom GPTs — ad hoc, not systematic
-- Run a real business with real revenue — not pre-revenue dreamers
-- Know AI is powerful but frustrated it doesn't "get" their business
-- Smart enough to see the gap but don't know what structured AI knowledge management looks like
-- Willing to invest in systems, not just tools
+- Real expertise from their career/9-to-5 — something genuinely worth paying for
+- Uses ChatGPT/Claude daily; may have built custom GPTs or uploaded docs to Projects — all ad hoc
+- Gives a different answer every time someone asks "what do you do?"
+- Has tried content, courses, maybe a funnel — nothing converts, because there's no clear offer underneath
+- In year 2–3 of the search; starting to wonder if the gurus lied or if they're "just not cut out for this"
+- Wants sustainable and aligned, not "scale to $50K months" — a business they won't burn down
+- Willing to invest in a system, not just another tool or prompt pack
 
 ## Demographics
 
 | Attribute | Description |
 |-----------|-------------|
-| Role | Consultants, agency owners, course creators, coaches with existing clients |
-| Stage | Post-validation — business works, AI adoption is scattered |
-| Revenue | $100K-$500K+ (not pre-revenue) |
-| AI experience | Intermediate — daily user, not a developer |
-| Tech comfort | Medium-high — comfortable with tools, may not know terminal |
-| Mindset | Systems thinker, efficiency-driven, sees AI as leverage not replacement |
+| Role | Coaches, consultants, service providers, course creators — expertise-based |
+| Stage | Have the skill; can't package/validate the offer. Pre- or early-revenue on *this* offer. |
+| Situation | Often still in (or recently left) a 9-to-5; building on the side or just gone full-time |
+| AI experience | Intermediate — daily user of ChatGPT/Claude, not a developer |
+| Tech comfort | Medium — comfortable with tools, not terminal/APIs |
+| Mindset | Wants alignment + sustainability over hustle; systems thinker; allergic to hype |
 
 ## The 3am Worry
 
-"I'm paying for Claude Pro and ChatGPT Plus and I still copy-paste the same context into every conversation. My VA uses AI differently than I do. Nothing connects. I know there's a better way but I don't know what it looks like. Meanwhile my competitor just hired an AI consultant for $10K/month and I can't tell if that's genius or a waste."
+"I know I'm good at this. People tell me I helped them. But every time I sit down to explain what I actually *sell* — who it's for, what it costs, why it's worth it — I freeze, or I write three different versions. I've got 200 ChatGPT chats and a folder of half-finished courses and still no offer I can put in front of someone. Maybe I'm just not cut out for this. Or maybe I've been building the wrong thing this whole time."
 
 ## Voice of Customer
 
-**The Ad Hoc Trap:**
-> "I've got 200 saved ChatGPT conversations. I uploaded my brand guide to Claude Projects. I built a custom GPT for email writing. None of them talk to each other. Every Monday I'm re-explaining my business to an AI that should already know it."
+**The clarity gap (core):**
+> "If you ask me what I do, you'll get a different answer every time. I help people with mindset and strategy and… it just comes out as mush. I know the value's there. I can't say it in one sentence."
 
-**The Tool Fatigue:**
-> "I've tried ChatGPT, Claude, Jasper, Copy.ai, Notion AI, and whatever launched last week. They all produce the same generic output because they all know the same nothing about my actual business."
+**The tool-fatigue symptom:**
+> "I've tried ChatGPT, Claude, every prompt pack. They all give me the same generic output because they all know the same nothing about my actual offer. The problem was never the prompt — I never had a clear offer for it to work from."
 
-**The Consultant Question:**
-> "Someone quoted me $8K/month for 'AI implementation.' I don't even know what that means. Do I need a consultant or do I need a system?"
+**The "not cut out for this" doubt:**
+> "I've been at this two years. Bought the courses, posted the content. Some quiet part of me has started to wonder if I'm just bad at this — or if the gurus were selling something that doesn't work for someone like me."
 
 ---
 
 ## Pain Points
 
-1. **The reset loop** — Every AI session starts from zero. No memory, no context, no compounding.
-2. **Tool sprawl** — Paying for 3-5 AI tools that each know nothing about the business
-3. **Generic outputs** — AI writes like it's writing for anyone, because it is
-4. **The consultant gap** — Know they need help but $8-15K/month consultants feel like overkill for a small team
-5. **Team inconsistency** — Everyone on the team uses AI differently, no shared context
-6. **Knowledge trapped in heads** — Business knowledge lives in the founder's head, not in a system AI can read
-7. **No compounding** — Every piece of content, every ad, every email starts from scratch instead of building on what came before
+1. **Can't articulate the offer** — different answer every time; no one-sentence version
+2. **AI compounds the confusion** — generic output because there's no extracted offer/voice/ICP to feed it
+3. **Tool & course sprawl** — prompt packs, half-finished courses, custom GPTs; consumed everything, shipped nothing
+4. **Built before validating** — months on content or a funnel for an offer nobody confirmed they'd buy
+5. **Misalignment** — chasing an offer that doesn't fit who they are; it hurts to show up
+6. **Self-blame** — reads the struggle as personal failure ("not cut out for this") instead of an offer problem
+7. **No proof it works** — never put the offer in front of real prospects, so every next step is a guess
 
 ## The Stuck Patterns
 
-1. **Upload-and-pray.** They upload a brand guide PDF to Claude Projects and expect magic. It helps for one session. Then they start a new project and it's gone. The effort never compounds.
+1. **Prompt hoarding.** 50 "best prompts" saved from Twitter. None work — because the prompt was never the bottleneck. The missing piece was a clear offer to feed it.
 
-2. **Prompt hoarding.** They've saved 50 "best prompts" from Twitter threads. None of them work because the prompts are generic and their business isn't. The issue was never the prompt — it was the context.
+2. **Upload-and-pray.** Drops a brand doc into Claude Projects expecting magic. Helps for one session, then it's gone. The effort never compounds because there's no extracted offer underneath.
 
-3. **Tool tourism.** New AI tool launches, they sign up, spend a weekend learning it, get mediocre results, move to the next one. The tool wasn't the problem. The missing context was.
+3. **Tool tourism.** New AI tool launches → signs up → mediocre results → next one. The tool was never the problem. The missing offer was.
 
-4. **DIY consultant.** They've read every "AI for business" article, watched every YouTube tutorial, built custom GPTs. They're doing the work of a $10K/month consultant but without the system. Effort without architecture.
+4. **Course graveyard.** Bought the funnel course, the launch formula, the "start this Monday" program. Nothing shipped. A knowledge problem was never the issue — a never-shipped-an-offer problem was.
 
-5. **Delegation without context.** They tell a VA to "use AI for social media" without giving them the brand voice, the offer positioning, the audience language. The VA produces content that sounds like everyone else's AI content.
+5. **Content merry-go-round.** Posts for a year hoping it turns into revenue. It can't, because there's no clear offer for the content to point at.
 
-6. **Overcomplicating.** They think "AI implementation" means APIs, automations, and developer tools. They don't know that structured markdown files can do 80% of what they need.
-
----
+6. **Building before validating.** Skips straight to the funnel/course for an offer nobody has confirmed they'd pay for.
 
 ## What They've Tried
 
-- ChatGPT Plus ($20/mo) — daily use, generic results
-- Claude Pro ($20/mo) — Projects feature, uploads brand docs, better but still ad hoc
-- Custom GPTs — built 3-5, each isolated, none connected
-- Jasper or Copy.ai — for marketing copy, abandoned after generic output
-- Notion AI — for docs, doesn't understand the business
-- "AI prompt" courses or packs — learned prompting is not the bottleneck
-- Hired a VA to "use AI" — output was generic because VA had no business context
-- Considered AI consulting — $5-15K/month felt like too much for what they understood
+- ChatGPT / Claude daily — generic results (no extracted offer/context to work from)
+- Custom GPTs, brand docs in Projects — ad hoc, isolated, never compounds
+- Prompt packs / "AI for coaches" courses — learned prompting isn't the bottleneck
+- Content for 6–12 months — engagement, no buyers
+- Maybe a funnel or course — built before the offer was validated
+- Considered high-ticket coaching programs — felt like scale advice for a problem they haven't solved yet (the offer)
 
-## The Alignment Diagnostic (v2)
+## The Alignment Diagnostic (v3)
 
-Three questions to determine if someone is ready for codification:
+Three questions to tell if someone is a fit for the $47 system:
 
-**1. Do you use AI daily but re-explain your business every session?**
-If yes, you have a context problem, not a tool problem. Codification solves this.
+**1. Can you say what you sell — who it's for, what it costs, why it's worth it — in one sentence, the same way twice?**
+If no, you have an offer-clarity problem. Extraction solves this.
 
-**2. Could your team produce the same AI outputs you do?**
-If no, your business knowledge is trapped in your head. It needs to be in files AI can read.
+**2. Have real prospects seen this exact offer and told you yes or no?**
+If no, you haven't validated — you've been guessing. The 48-Hour Sprint fixes this.
 
-**3. Does your AI output from March sound different from January?**
-If no, nothing is compounding. You're running on a treadmill.
+**3. Does showing up to this offer feel like pull or push?**
+If push, it may be misaligned — you can't grow into pain. Extract the offer that's actually yours first.
 
 ---
 
 ## Dream Outcome
 
-- **AI that knows their business** — Ask once, it remembers forever. Every output builds on what came before.
-- **A system, not a tool** — Reference files that any AI tool can consume. Not locked into one platform.
-- **Team alignment** — Everyone uses the same context. Consistent outputs whether it's the founder or the VA.
-- **Compounding returns** — Every research session, every decision, every refinement makes all future outputs better.
-- **Independence** — No $10K/month consultant dependency. They own the system. They can run it themselves.
+- **One clear offer** — says what they sell, who it's for, why it's worth it, the same way every time
+- **Validated, not guessed** — real prospects have seen it and responded; they know it works before building
+- **Aligned** — an offer that fits who they are, so showing up feels like pull, not push
+- **An offer that sells itself** — clear enough that people read it, understand it, and buy without a call
+- **AI that finally works for them** — because now it has an extracted offer, voice, and ICP to work from
+- **A business they won't burn down** — sustainable, around their life, not another grind
 
 ## Why They Trust Michael
 
-- He built the system for his own business first — 54 research files, 39 decisions, 42 reference files, all producing real outputs
-- He's not selling prompts — he's selling the architecture that makes prompts irrelevant
-- Engineer's mindset — practical, structured, no guru fluff
-- Shows the actual system, not a pitch deck about it
-- Understands that the act of codifying IS the strategic work, not a cost center
+- Engineer's mindset — test, validate, build; no guru fluff, no fake Stripe screenshots
+- Reality over perception — shows the actual system and real prospect responses, not income claims
+- Alignment-first — "you can't grow into pain"; builds offers that fit who you are, not who you think you should be
+- Been in the seven-year search himself — helps people skip it
+- Uses AI as the speed mechanism (5 prompts), not as the pitch
 
 ## Who This is NOT For
 
-- People who haven't started using AI yet (they need basics first)
-- Developers who want API integrations (this is methodology, not code)
-- Enterprise teams with 50+ people (they need Notion/Confluence/Guru, not this)
-- People who want someone to do it for them with zero involvement (codification requires founder participation)
-- Prompt collectors who want magic words instead of structured thinking
+- People without real expertise yet who just "want to be a coach" — they need the skill first
+- Developers wanting API integrations — this is offer methodology, not code
+- People who want it fully done with zero involvement — extraction requires the founder
+- Prompt collectors chasing magic words instead of a clear, validated offer
+- Coaches already validated and scaling — they need funnel/traffic help, not offer extraction (that's the ladder above, or a competitor's lane)
 
 ## Buyer Journey
 
 | Stage | State | What They Need | Product |
 |-------|-------|----------------|---------|
-| **Scattered** | Using AI daily, nothing connects | See what structured looks like | Entry offer (TBD) |
-| **Structured** | Have starter reference files, seeing results | Deepen and refine with guided practice | Community |
-| **Systematic** | Full reference stack, team using it | Build automation + scaling layer | Accelerator / DWY |
+| **Confused** | Real expertise, no clear offer; AI gives mush | Extract + validate one clear offer | $47 Offer System + 48-Hour Validation Sprint |
+| **Clear** | Offer is clear and validated | Build the funnel + start conversations | Bumps, DFY, One-Page Funnel |
+| **Converting** | Offer sells itself; wants the room + to scale | Community, then done-with-you | Community → Accelerator |
+
+Maps to the offer arc: **Confused → Clear → Converting** (see [offer.md](./offer.md)).
 
 ---
 
 ## See Also
 
-- [soul.md](./soul.md) — Why codification matters ("the thinking IS the work")
-- [offer.md](./offer.md) — What we sell at each stage (v2 — TBD)
-- [voice.md](./voice.md) — How we talk to this audience
-- [archive/audience-v1-low-ticket.md](./archive/audience-v1-low-ticket.md) — Previous audience definition
+- [soul.md](./soul.md) — The coach/expert we serve and "you can't grow into pain"
+- [offer.md](./offer.md) — What we sell at each stage + positioning under convergence
+- [voice.md](./voice.md) — How we talk to this buyer
+- [angles/tool-fatigue.md](../proof/angles/tool-fatigue.md) — The AI-literacy trait as an ad angle
+- [decisions/2026-07-04-audience-who-comes-first.md](../../decisions/2026-07-04-audience-who-comes-first.md) — Why this reconciliation (Option A)
+- [archive/audience-v1-low-ticket.md](./archive/audience-v1-low-ticket.md) — v1 (low-ticket coach); v2 (knowledge-codification) retired into this reconciliation

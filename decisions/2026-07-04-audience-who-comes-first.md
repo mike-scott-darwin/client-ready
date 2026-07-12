@@ -1,11 +1,11 @@
 ---
 type: decision
 slug: audience-who-comes-first
-status: proposed
+status: codified
 date: 2026-07-04
 last-updated: 2026-07-04
 topics: [audience, positioning, targeting, reconciliation]
-needs: operator decision (Michael) — do not codify until confirmed
+resolution: "Option A confirmed by Michael 2026-07-04. audience.md reconciled to v3 (coach/expert-in-transition; AI-literacy as a trait; $100–500K knowledge-management operator retired). Three-angle launch remains the live validation of how far the AI-literate framing pulls."
 linked_research:
   - research/2026-07-04-miles-stutz-ad-library-mining.md
 builds_on:
