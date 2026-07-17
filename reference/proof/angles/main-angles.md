@@ -19,6 +19,16 @@ New angles developed from competitor analysis — see individual files for full 
 
 Decision rationale: [decisions/2026-02-01-angle-prioritization.md](../../../decisions/2026-02-01-angle-prioritization.md)
 
+## High-Priority Additions (Jul 2026 — Miles-mined, "clarity-sells" territory)
+
+From `research/2026-07-04-miles-stutz-ad-library-mining.md`. Miles now buys Client Ready's own "an offer so clear it sells without a call" territory at scale; CR claims it **upstream** (validate the right offer first). All three run as static image + long-form confession copy, proven with **real product screenshots** — never income claims.
+
+5. **[Absolution](absolution.md)** — "It's not you — it's the offer (you just haven't found the aligned one yet)." Highest-fit; the high-empathy identity reframe CR's logic-led library was missing. Maps to `soul.md`.
+6. **[Offer Closes Itself](offer-closes-itself.md)** — CR's own tagline as a deliberate angle, wedged upstream: "find the offer worth closing — *then* it closes itself."
+7. **[Tool-Fatigue](tool-fatigue.md)** — "You don't need a 13th prompt pack. You need one offer that exists." Bullseye for the `audience.md` buyer. (Pain-framed, NOT the shelved codify-as-angle pitch.)
+
+Decision rationale: [decisions/2026-07-04-clarity-sells-angle-territory.md](../../../decisions/2026-07-04-clarity-sells-angle-territory.md)
+
 ---
 
 ## Primary Angles

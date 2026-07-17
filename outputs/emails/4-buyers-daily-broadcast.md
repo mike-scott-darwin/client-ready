@@ -59,7 +59,7 @@ Every email follows the same structure:
 | Day | Offer | Price | Link Text | URL |
 |-----|-------|-------|-----------|-----|
 | Monday | Front-end | $27 | "Get the System" | https://clientreadyoffer.com/implement |
-| Tuesday | Templates | $67 | "Get the Templates" | https://clientreadyoffer.com/implement |
+| Tuesday | Sales Page Kit | $67 | "Get the Sales Page Kit" | https://clientreadyoffer.com/implement |
 | Wednesday | DFY Offer Build | $197 | "Get it built for you" | https://clientreadyoffer.com/croto1-dfy |
 | Thursday | Community | $47/mo | "Join the Community" | https://www.skool.com/high-ticket-playbook-9467/about |
 | Friday | Accelerator | $5K | "Reply BUILD" | Reply trigger (no link) |
@@ -110,7 +110,7 @@ P.S. — Lisa went through the system last week. Her new one-liner: "I help firs
 
 ---
 
-### Tuesday — Templates ($67)
+### Tuesday — Sales Page Kit ($67)
 
 **Subject:** I stared at the blank page for 3 hours
 
@@ -130,15 +130,15 @@ The blank page is brutal. Not because you don't know what to say — because you
 
 Here's what I wish I knew:
 
-The best marketers don't start from scratch. They start from templates.
+The best marketers don't start from scratch. They start from something that works and make it theirs.
 
-They find something that works, understand WHY it works, then adapt it to their offer.
+Better still: they don't even write it. They let AI fill it in from the offer they already built.
 
-No blank page. No paralysis. Just fill in the blanks.
+No blank page. No paralysis. Paste your offer in, get a finished page out.
 
-That's why I put together the Plug & Play Templates bundle — offer docs, landing pages, email sequences, all tested and ready to customize.
+That's the Plug & Play Sales Page Kit + 1-Hour AI Fill-In System — 3 proven page layouts, a 30-day email sequence, 50+ headlines, and the AI prompts that auto-fill all of it from your offer doc.
 
-You don't invent. You adapt.
+You don't invent. You fill in. One hour, not one week.
 
 $67: https://clientreadyoffer.com/implement
 
@@ -377,7 +377,7 @@ As buyers ascend, remove them from pitches for products they own:
 
 | Bought | Stop Pitching |
 |--------|---------------|
-| Templates ($67) | Tuesday emails skip offer section |
+| Sales Page Kit ($67) | Tuesday emails skip offer section |
 | DFY ($197) | Wednesday emails skip offer section |
 | Community ($47/mo) | Thursday emails skip offer section |
 | The Weekly Playbook ($37/mo) | Saturday emails skip offer section |

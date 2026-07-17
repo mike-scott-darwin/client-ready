@@ -2,6 +2,8 @@
 
 **For Michael's use only — not shared with clients**
 
+> **Fulfillment path of record:** produce the deliverables via the Codify extraction method — see **[dfy-fulfillment-runbook.md](dfy-fulfillment-runbook.md)** (`/co-extract` → `co-*` generate → review → deliver). The `scripts/dfy/webhook_server.py` auto-pipeline is a reference stub (`on_complete()` doesn't deliver; not deployed) — don't treat it as live. The "Claude API generates" step below describes the one-shot fallback; the runbook is the primary.
+
 ---
 
 ### Overview
@@ -205,16 +207,20 @@ Next Steps (bottom of doc)
 5. Load your 5-email sequence into GHL to nurture new leads toward the offer.
 6. Drop your ad hooks into Meta Ads Manager when you're ready to run cold traffic.
 
-Questions? DM me in Skool or reply to this email.
+Questions, or want a change? Just reply to this email — that's your
+direct line to me, and where your included revision happens.
 
-P.S. Your 30-day community trial is active. Join the next weekly call
-and I'll help you implement: [SKOOL LINK]
+P.S. Your 30-day community trial is active. Now that your offer is BUILT,
+the community is where I help you deploy it live. Bring it to the next
+weekly call: [SKOOL LINK]
 ```
 
-**Delivery method:**
-- Email with Google Doc link
-- Personal Loom video (2-3 min) walking through the deliverables and highlighting key decisions
-- DM in Skool: "Your offer build is in your inbox. Watch the walkthrough video first."
+**Delivery method (email + portal first — never gated behind the community):**
+- **Primary:** Email with the Google Doc link + embedded/linked Loom walkthrough (2-3 min). The email is the delivery *and* the support channel — reply-to is their direct line to Michael, and it's where the revision round runs (Google Doc comments also work).
+- **Backup copy:** Drop the same Google Doc link into the buyer's GHL portal alongside their other purchases, so the deliverable lives with everything else they bought (one login, congruent with the rest of the funnel).
+- **Community = ascension invite, not a delivery step.** No "go to Skool to get your build." An optional Skool DM may *reinforce* ("your build's in your inbox — watch the walkthrough first"), but the deliverable never depends on the buyer logging into Skool. The weekly-call invite is framed as *deploy it live with me*, not *come collect your thing*.
+
+> **Rationale:** All low-ticket products deliver through email/GHL portal; the DFY should match. Coupling delivery or support to the community forces a second-platform login on a paid deliverable and reads as an upsell wall. Keeping email/portal as the spine makes the community invite convert better — it's an upgrade ("deploy it live"), not a toll gate. See the intake principle above: *never gate behind the community.*
 
 ---
 
@@ -239,7 +245,7 @@ and I'll help you implement: [SKOOL LINK]
 ### Step 7: Follow-Up & Ascension
 
 **48 hours after delivery:**
-- Accountability DM in Skool: "Did you get a chance to review your offer build? Any questions?"
+- Reply-to-thread email: "Did you get a chance to review your offer build? Any questions — just hit reply." (Optional Skool DM to reinforce for community-active buyers, but the email is the channel that doesn't assume they've logged into Skool.)
 
 **7 days after delivery:**
 - Check-in email: "Have you put your landing page live yet? Reply if you're stuck."
@@ -288,7 +294,9 @@ and I'll help you implement: [SKOOL LINK]
 - [ ] API output → stored in GHL custom field or sent to email
 - [ ] 24-hour questionnaire reminder automation
 - [ ] 48-hour no-response DM reminder
-- [ ] Delivery email template (with Google Doc link placeholder)
+- [ ] Delivery email template (Google Doc link + Loom placeholder) — reply-to routes to Michael; this is the delivery AND support channel. Drafts: `outputs/emails/dfy-sequence/DFY01-intake.html` (instant) + `DFY02-delivery.html` (48h). Index: `outputs/emails/dfy-delivery.md`
+- [ ] Deliverable Google Doc link also surfaced in the buyer's GHL portal (backup copy, lives with their other purchases)
+- [ ] Confirm delivery does NOT require Skool login — community DM is optional reinforcement only
 - [ ] 7-day check-in email automation
 - [ ] Community trial 14-day and 25-day reminder automations
 - [ ] Tag: `dfy-delivered` applied after sending

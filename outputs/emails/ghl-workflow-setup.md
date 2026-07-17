@@ -75,9 +75,9 @@ One trigger per product. Each fires on **Payment Received** (or **Order Submitte
 |---|-------------|--------------|--------|
 | 1 | Lead Capture | Order Form Submission Started | Add tag → `lead` |
 | 2 | Core Purchase | Payment Received → Client Ready ($27) | Add tag → `purchased-27` |
-| 3 | DM Scripts Purchase | Payment Received → DM Scripts ($37) | Add tag → `purchased-bump-dm-scripts` |
-| 4 | Templates Purchase | Payment Received → Templates ($67) | Add tag → `purchased-bump-templates` |
-| 5 | Playbook Purchase | Payment Received → Playbook ($97) | Add tag → `purchased-bump-playbook` |
+| 3 | Bump 1 Purchase | Payment Received → First-Sale DM Scripts + 48-Hour Warm-List Cash Campaign ($37) | Add tag → `purchased-bump-dm-scripts` |
+| 4 | Bump 2 Purchase | Payment Received → Plug & Play Sales Page Kit + 1-Hour AI Fill-In System ($67) | Add tag → `purchased-bump-templates` |
+| 5 | Bump 3 Purchase | Payment Received → The $5K Client Close Scripts + 3 Real Annotated Calls ($97) | Add tag → `purchased-bump-playbook` |
 | 6 | DFY Purchase | Payment Received → DFY Offer Build ($197) | Add tag → `purchased-dfy` |
 | 7 | DFY Lite Purchase | Payment Received → DFY Lite ($97) | Add tag → `purchased-dfy-lite` |
 | 8 | Weekly Playbook Purchase | Payment Received → The Weekly Playbook ($37/mo) | Add tag → `purchased-newsletter` |
@@ -464,43 +464,43 @@ Unlike recovery workflows that pitch missed products, bump delivery onboards wha
 
 ### Build 3 Simple Workflows (One Per Bump)
 
-**Workflow 4a: DM Scripts Delivery**
+**Workflow 4a: Bump 1 Delivery (First-Sale DM Scripts + 48-Hour Warm-List Cash Campaign)**
 
 Trigger: Tag Added → `purchased-bump-dm-scripts`
 
 ```
 Step 1:  WAIT → Wait 5 minutes (let all tags settle)
 Step 2:  SEND EMAIL → BD01-dm-scripts-delivery.html
-           Subject: "Your DM scripts are ready — do this in the next 5 minutes"
+           Subject: "Your First-Sale DM Scripts are ready — send one in the next 5 minutes"
 ```
 
-**Workflow 4b: Templates Delivery**
+**Workflow 4b: Bump 2 Delivery (Plug & Play Sales Page Kit + 1-Hour AI Fill-In System)**
 
 Trigger: Tag Added → `purchased-bump-templates`
 
 ```
 Step 1:  WAIT → Wait 5 minutes
 Step 2:  SEND EMAIL → BD02-templates-delivery.html
-           Subject: "Your templates are ready — start with this one"
+           Subject: "Your Sales Page Kit is ready — build the page in one hour"
 ```
 
-**Workflow 4c: Playbook Delivery**
+**Workflow 4c: Bump 3 Delivery (The $5K Client Close Scripts + 3 Real Annotated Calls)**
 
 Trigger: Tag Added → `purchased-bump-playbook`
 
 ```
 Step 1:  WAIT → Wait 5 minutes
 Step 2:  SEND EMAIL → BD03-playbook-delivery.html
-           Subject: "Your playbook is ready — start with the Warm 50"
+           Subject: "Your $5K Close Scripts are ready — watch call #1 first"
 ```
 
 ### Bump Delivery Schedule Summary
 
 | Email | File | Trigger Tag | Time | Subject |
 |-------|------|-------------|------|---------|
-| BD01 | BD01-dm-scripts-delivery.html | `purchased-bump-dm-scripts` | +5 min | Your DM scripts are ready — do this in the next 5 minutes |
-| BD02 | BD02-templates-delivery.html | `purchased-bump-templates` | +5 min | Your templates are ready — start with this one |
-| BD03 | BD03-playbook-delivery.html | `purchased-bump-playbook` | +5 min | Your playbook is ready — start with the Warm 50 |
+| BD01 | BD01-dm-scripts-delivery.html | `purchased-bump-dm-scripts` | +5 min | Your First-Sale DM Scripts are ready — send one in the next 5 minutes |
+| BD02 | BD02-templates-delivery.html | `purchased-bump-templates` | +5 min | Your Sales Page Kit is ready — build the page in one hour |
+| BD03 | BD03-playbook-delivery.html | `purchased-bump-playbook` | +5 min | Your $5K Close Scripts are ready — watch call #1 first |
 
 ### Key Settings
 - **5-minute wait:** Let all purchase tags settle before sending
@@ -702,8 +702,8 @@ Tag: "unsubscribed" ≠ TRUE
 | Day | File | Subject | Offer Pitched |
 |-----|------|---------|---------------|
 | Monday | DB01-monday-frontend.html | The coach who couldn't explain what she does | $27 Front-end |
-| Tuesday | DB02-tuesday-templates.html | I stared at the blank page for 3 hours | $67 Templates |
-| Wednesday | DB03-wednesday-sprint.html | The difference between "knowing" and "doing" | $197 DFY / Sprint |
+| Tuesday | DB02-tuesday-templates.html | I stared at the blank page for 3 hours | $67 Sales Page Kit |
+| Wednesday | DB03-wednesday-sprint.html | The difference between "knowing" and "doing" | $197 DFY Offer Build |
 | Thursday | DB04-thursday-newsletter.html | What's working right now (and what quietly stopped) | $37/mo Weekly Playbook (reply "PLAYBOOK") |
 | Friday | DB05-friday-backend.html | When you're ready for the next level | $5K Accelerator (reply "ACCELERATOR") |
 | Saturday | DB06-saturday-community.html | The loneliest part of building | $47/mo Community |
@@ -722,7 +722,7 @@ As buyers ascend, they should stop seeing pitches for products they already own.
 
 | If Buyer Has | Skip Pitch For | On Day |
 |--------------|----------------|--------|
-| `purchased-bump-templates` | $67 Templates | Tuesday |
+| `purchased-bump-templates` | $67 Sales Page Kit | Tuesday |
 | `purchased-dfy` | $197 DFY Offer Build | Wednesday |
 | `purchased-community` | $47/mo Community | Thursday |
 | `purchased-newsletter` | $37/mo The Weekly Playbook | Saturday |

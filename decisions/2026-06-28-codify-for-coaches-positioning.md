@@ -35,7 +35,7 @@ Same buyer (coaches whose expertise *is* the business). Same promise (get client
 ## Reconciliation notes
 
 - **In-flight revamp (2026-06-28-offer-revamp-speed-to-result):** the front-end already moved from "a document" → "files + a same-day validation sprint," DFY reframed to "more + done," bump headlines got guarantees. The thesis upgrade *extends* that direction — it does not conflict. Where the revamp says "offer document," read "your first reference files."
-- **audience.md v2:** previously flagged as drift (it had pivoted to AI-knowledge-codification). Under this positioning it is **correct and canonical.** Keep it; align offer.md language to it.
+- **audience.md v2:** previously flagged as drift (it had pivoted to AI-knowledge-codification). Under this positioning it is **correct and canonical.** Keep it; align offer.md language to it. **[SUPERSEDED 2026-07-04:** once the customer-facing codify play was shelved (2026-07-01), v2's standalone "$100–500K knowledge-management operator" framing was orphaned. Reconciled to **v3** — coach/expert-in-transition with AI-literacy as a *trait* — per [decisions/2026-07-04-audience-who-comes-first.md](2026-07-04-audience-who-comes-first.md).]**
 - **Infra:** GHL sub-account is named "Codify," sending domain `mail.codify.build` (see [[client-ready-ghl-account]]). The reactivation sends from Codify — the medium reinforces the story.
 - **Free "Build Order" lead magnet** (outputs/organic): keep it as an *organic/cold discovery* asset only. It is NOT the funnel front door — per guardrail #2 the paid $47 stays the front door.
 

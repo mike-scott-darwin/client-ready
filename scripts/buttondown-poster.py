@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Buttondown Poster for The Monthly Playbook ($37/mo — OTO2)
+Buttondown Poster for The Weekly Playbook ($37/mo — OTO2)
 
-Sends the next unposted Monthly Playbook issue from
+Sends the next unposted Weekly Playbook issue from
 content/drafts/monthly-playbook/ to Buttondown, targeting the paid tag.
 
 Unlike Beehiiv (whose Create-Post API is Enterprise-only), Buttondown's
@@ -107,7 +107,7 @@ def parse_frontmatter(content):
 
 
 def parse_issue(filepath):
-    """Parse a Monthly Playbook draft into title, subject, preview, and markdown body."""
+    """Parse a Weekly Playbook draft into title, subject, preview, and markdown body."""
     with open(filepath) as f:
         content = f.read()
 
@@ -295,7 +295,7 @@ def main():
 
     to_post = find_ready_drafts(all_ready=post_all)
     if not to_post:
-        log("No Monthly Playbook drafts ready. Skipping.")
+        log("No Weekly Playbook drafts ready. Skipping.")
         sys.exit(0)
 
     log(f"Processing {len(to_post)} issue(s) → tag '{tag_name}' ({tag_id}), status '{status}'...")

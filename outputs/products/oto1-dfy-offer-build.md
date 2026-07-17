@@ -66,7 +66,7 @@ This is where it starts. 10-15 minutes of your time.
 | 2 | Today | You complete it (10-15 minutes) |
 | 3 | Within 48 hours | I build your complete offer package |
 | 4 | Before delivery | I personally review every deliverable |
-| 5 | 48 hours after submission | Your package hits your inbox |
+| 5 | 48 hours after submission | Your package hits your inbox — Google Doc + a short walkthrough video (also saved in your portal) |
 
 ---
 
@@ -119,9 +119,11 @@ A: I'll share relevant examples during the purchase process. Each build is custo
 
 1. **Check your email** — Questionnaire is on its way
 2. **Complete it** — 10-15 minutes, be detailed (the more you give, the better the output)
-3. **I start building** — Your package arrives within 48 hours
+3. **I start building** — Your package lands in your inbox within 48 hours (Google Doc + walkthrough video)
 
-Questions? Reply to your purchase email or DM me in Skool.
+Questions or want a change? **Just reply to the delivery email** — that's your direct line to me, and it's where your included revision happens too.
+
+You've also got 30 days free in the Client Ready Community. Once your offer is built, that's where I help you *deploy* it live — jump on the next weekly call and bring it.
 
 Let's build your offer.
 

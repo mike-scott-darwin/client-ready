@@ -16,7 +16,7 @@ format: Google Doc
 
 When someone buys the $27 but skips the order bumps, this sequence re-pitches them over the next week.
 
-**Trigger:** Purchased $27, did NOT purchase Bump 1 (DM Scripts), Bump 2 (Templates), or Bump 3 (First $5K Client Playbook)
+**Trigger:** Purchased $27, did NOT purchase Bump 1 (First-Sale DM Scripts + 48-Hour Warm-List Cash Campaign), Bump 2 (Plug & Play Sales Page Kit + 1-Hour AI Fill-In System), or Bump 3 (The $5K Client Close Scripts + 3 Real Annotated Calls)
 **Timing:** Days 2, 4, and 6 after purchase
 **Send Time:** 2:00 PM (Welcome sequence sends at 8:00 AM — avoids stacking)
 **Goal:** Recover 10-20% of missed bump revenue
@@ -35,20 +35,20 @@ Quick follow-up on your Client Ready purchase.
 
 There was something I didn't mention clearly on the checkout page, and I want to fix that.
 
-The offer extraction is step one. But the fastest path to your first client? **Starting conversations.**
+The offer you built is worth nothing sitting in a Google Doc. The fastest way to turn it into cash? **Send it to the people who already know you.**
 
-That's why I created the Quick Win DM Scripts — 10 copy-paste scripts plus a complete conversation system for warm outreach:
+That's why I put together the First-Sale DM Scripts + 48-Hour Warm-List Cash Campaign — the exact 48-hour play to get your first sale, no ad spend:
 
-- **10 scripts** for every situation — reconnection, value drop, soft pitch, referral ask, direct ask, and 5 more
-- **The A-C-A Conversation Framework** — how to move from first message to booked call
-- **Word-for-word objection handlers** — what to say when they go quiet or push back
-- **Contact tracking template** — so no conversation falls through the cracks
+- **10 copy-paste DM scripts** (Core 5 + Quick Cash 5) — reconnection, value drop, soft pitch, referral ask, direct ask, and more
+- **A "who to message first" send-order** — so you start with the people most likely to say yes
+- **A fill-in-the-blank first message** built from the offer doc you just made
+- **The A-C-A conversation flow** + word-for-word objection handlers + a contact tracker
 
 These aren't cold DM templates. They're for people who already know you.
 
 Originally $197. Yours for $37: [LINK]
 
-Use them today. Have a conversation by tonight.
+Use it today. Have a conversation by tonight.
 
 Michael
 
@@ -62,26 +62,23 @@ Michael
 
 Hey [NAME],
 
-How's the extraction going?
+How's the offer coming?
 
 If you're staring at a blank landing page wondering what to write... you're not alone.
 
 That's the hardest part for most people. Not the strategy — the execution.
 
-Which is why I put together the Plug & Play Templates — 8 complete template packs:
+Which is why I put together the Plug & Play Sales Page Kit + 1-Hour AI Fill-In System. You don't write the page — you paste in the offer doc you already built and the AI fills it in:
 
-- **Offer document template** (with filled Client Ready example)
+- **The AI Fill-In prompts** — paste your offer doc in, get a finished page out
 - **3 landing page swipe files** (short-form, long-form, VSL — pick your traffic)
 - **30-day email sequence** (pre-written, tested)
-- **50+ copy-paste headlines and hooks**
-- **Awareness-level messaging maps** (cold, warm, hot — different copy for each)
-- **Client profile templates**
+- **50+ copy-paste headlines and hooks** + awareness-level messaging maps
 - **8 promo campaign templates** (flash sales, founding member pricing, referral drives, cash injection)
-- **Contact tracking template**
 
-You don't start from scratch. You start from something that works and make it yours.
+You don't start from scratch. You fill in something that already works. One hour, not one week.
 
-Originally $197. Yours for $67: [LINK]
+Originally $297. Yours for $67: [LINK]
 
 Skip the blank page.
 
@@ -103,14 +100,14 @@ You've got the Client Ready system. You're doing the extraction. Good.
 
 But before you move to the next phase, quick inventory:
 
-**Do you have a way to start conversations?**
-→ If not: Quick Win DM Scripts ($37) [LINK]
+**Do you have a way to turn your offer into cash this week?**
+→ If not: First-Sale DM Scripts + 48-Hour Warm-List Cash Campaign ($37) [LINK]
 
-**Do you have templates so you're not starting from scratch?**
-→ If not: Plug & Play Templates ($67) [LINK]
+**Do you have a sales page for your offer — without writing it from scratch?**
+→ If not: Plug & Play Sales Page Kit + 1-Hour AI Fill-In System ($67) [LINK]
 
-**Do you have a plan for landing your first $5K client?**
-→ If not: The First $5K Client Playbook ($97) [LINK]
+**Do you have the word-for-word system to close your first $5K client?**
+→ If not: The $5K Client Close Scripts + 3 Real Annotated Calls ($97) [LINK]
 
 If you have all three, ignore this. You're set.
 

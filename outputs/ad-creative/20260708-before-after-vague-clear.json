@@ -1,0 +1,19 @@
+{
+  "template": "before-after",
+  "preset": "vague-clear-offer",
+  "size": "1080x1350",
+  "data": {
+    "before": {
+      "label": "BEFORE",
+      "quote": "I help coaches grow their business.",
+      "caption": "vague. could mean 50 things. nobody buys."
+    },
+    "after": {
+      "label": "AFTER",
+      "quote": "I help coaches build a $5K+ offer so clear it sells without a sales call — in one afternoon.",
+      "caption": "clear. you either want it or you don't."
+    },
+    "footer": "The Client Ready Offer System  ·  $27"
+  },
+  "purpose": "Ad4 replacement — swaps out the AI-generated 'ladder' lifestyle photo (fal flux/schnell, off-strategy per Miles Jul-2026: containsAiMedia=false on 30/30 of his ads)."
+}
