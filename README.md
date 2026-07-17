@@ -92,7 +92,7 @@ Skool membership with weekly group hot seats, direct DM access to Michael, full 
 
 - **Promise:** Never build alone
 
-### OTO 3: $37/mo — The Monthly Playbook
+### OTO 3: $37/mo — The Weekly Playbook
 
 Ongoing insights, strategies, and updates delivered monthly. Lightweight recurring for those who want to stay connected without full Community access.
 
@@ -115,10 +115,10 @@ Done-with-you intensive. 8 weeks. 3 strategy calls, unlimited async support, com
 | OTO 1 (DFY Offer Build) | $197 | One-time |
 | OTO 1 Downsell (DFY Lite) | $97 | One-time |
 | OTO 2 (Community) | $47/mo | Recurring |
-| OTO 3 (The Monthly Playbook) | $37/mo | Recurring |
+| OTO 3 (The Weekly Playbook) | $37/mo | Recurring |
 | Backend (Accelerator) | $5,000 | One-time |
 
-**Max cart value:** $462 (one-time: $27 + $37 + $67 + $97 + $197 + first $37 Monthly Playbook) | **Target AOV:** $70-90 | **Recurring:** Community ($47/mo) + The Monthly Playbook ($37/mo)
+**Max cart value:** $462 (one-time: $27 + $37 + $67 + $97 + $197 + first $37 Weekly Playbook) | **Target AOV:** $70-90 | **Recurring:** Community ($47/mo) + The Weekly Playbook ($37/mo)
 
 ---
 

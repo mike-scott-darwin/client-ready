@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Buttondown Poster for The Monthly Playbook ($37/mo — OTO2)
+Buttondown Poster for The Weekly Playbook ($37/mo — OTO2)
 
-Sends the next unposted Monthly Playbook issue from
+Sends the next unposted Weekly Playbook issue from
 content/drafts/monthly-playbook/ to Buttondown, targeting the paid tag.
 
 Unlike Beehiiv (whose Create-Post API is Enterprise-only), Buttondown's
@@ -22,13 +22,15 @@ Environment variables (.env):
     BUTTONDOWN_API_KEY  - API key from Buttondown → Settings → Programming
     BUTTONDOWN_TAG      - (optional) paid-list tag name; defaults to "monthly-playbook"
 
-⚠️ SCHEMA VERIFICATION: Buttondown has revised its email-filtering fields over
-time (tag names vs tag IDs; `included_tags` vs a `filters` object). This script
-uses the documented v1 shapes below, but confirm the two marked spots against
-your account's API version before the first real send:
-    - Email create + tag targeting: https://docs.buttondown.com/api-emails-create
-    - Subscriber/tag schema:         https://docs.buttondown.com/api-subscribers-type
+TAG TARGETING: Buttondown targets tags by ID (e.g. 'sub_tag_...'), not by name —
+verified against the live API 2026-07-11. This script resolves BUTTONDOWN_TAG
+(a human name) to its ID at runtime via GET /v1/tags, so you set the readable
+name in .env and the script handles the ID.
+
+PLAN REQUIREMENT: tags need Basic; API send + paid subscriptions need Standard
+($29/mo). On Free, tag creation returns 403 and sends won't work.
 Always do a --send test to yourself (tag a test subscriber) first.
+Docs: https://docs.buttondown.com/api-emails-create
 """
 
 import os
@@ -105,7 +107,7 @@ def parse_frontmatter(content):
 
 
 def parse_issue(filepath):
-    """Parse a Monthly Playbook draft into title, subject, preview, and markdown body."""
+    """Parse a Weekly Playbook draft into title, subject, preview, and markdown body."""
     with open(filepath) as f:
         content = f.read()
 
@@ -155,9 +157,34 @@ def find_ready_drafts(all_ready=False):
     return ready[:1]
 
 
-def post_to_buttondown(api_key, tag, issue, status="draft", schedule_at=None):
+def resolve_tag_id(api_key, tag_name):
     """
-    Create (and optionally send/schedule) an email in Buttondown, targeting `tag`.
+    Buttondown targets tags by ID (e.g. 'sub_tag_...'), NOT by name — verified against
+    the live API. Look up the ID for a human-readable tag name. Returns None if not found
+    (e.g. the tag doesn't exist yet, or the plan is below Basic so tags are disabled).
+    """
+    ctx = ssl.create_default_context()
+    url = f"{API_BASE}/tags"   # paginate — accounts can have 100+ tags across pages
+    try:
+        while url:
+            req = urllib.request.Request(
+                url, headers={"Authorization": f"Token {api_key}"}, method="GET",
+            )
+            resp = urllib.request.urlopen(req, context=ctx)
+            data = json.loads(resp.read().decode())
+            for t in data.get("results", []):
+                if t.get("name") == tag_name:
+                    return t.get("id")
+            url = data.get("next")   # DRF-style cursor; None on last page
+    except urllib.error.HTTPError as e:
+        log(f"Tag lookup failed ({e.code}): {e.read().decode()[:200]}")
+    return None
+
+
+def post_to_buttondown(api_key, tag_id, issue, status="draft", schedule_at=None, email_type="private"):
+    """
+    Create (and optionally send/schedule) an email in Buttondown, targeting subscribers
+    who hold `tag_id`.
 
     Buttondown email statuses:
         "draft"          - saved, not sent (review + send in the UI)
@@ -170,10 +197,24 @@ def post_to_buttondown(api_key, tag, issue, status="draft", schedule_at=None):
         "subject": issue["subject"],
         "body": issue["body_md"],          # markdown, sent as-is
         "status": status,
-        # ⚠️ VERIFY: tag targeting. Sends this issue ONLY to subscribers with the paid tag.
-        # Current docs use a `filters`/`included_tags` shape — confirm at
-        # https://docs.buttondown.com/api-emails-create for your API version.
-        "included_tags": [tag],
+        # Archive gating (verified live 2026-07-11):
+        #   'private' = delivered to subscribers, NOT in the public web archive (safe default —
+        #               paid content never leaks in the shared Client_Ready archive).
+        #   'premium' = delivered ONLY to Buttondown-NATIVE-paid subscribers. Under GHL billing our
+        #               subscribers are tagged, not Buttondown-paid, so 'premium' would send to ZERO
+        #               people. Only use 'premium' if you switch billing/paid-status into Buttondown.
+        #   'public'  = readable by anyone in the archive — do NOT use for paid issues.
+        "email_type": email_type,
+        # Tag targeting — sends ONLY to subscribers holding the paid tag.
+        # Shape verified against the live API 2026-07-11: field 'subscriber.tags',
+        # operator 'contains', value = tag ID (sub_tag_...).
+        "filters": {
+            "filters": [
+                {"field": "subscriber.tags", "operator": "contains", "value": tag_id}
+            ],
+            "groups": [],
+            "predicate": "and",
+        },
     }
     if issue.get("preview"):
         payload["description"] = issue["preview"]   # preview/preheader text
@@ -239,17 +280,25 @@ def main():
 
     env = load_env()
     api_key = env.get("BUTTONDOWN_API_KEY")
-    tag = env.get("BUTTONDOWN_TAG") or DEFAULT_TAG
+    tag_name = env.get("BUTTONDOWN_TAG") or DEFAULT_TAG
+    email_type = env.get("BUTTONDOWN_EMAIL_TYPE") or "private"   # never default to 'public' for paid issues
     if not api_key:
         log("ERROR: Missing BUTTONDOWN_API_KEY in .env")
         sys.exit(1)
 
+    # Buttondown targets tags by ID, not name — resolve it once up front.
+    tag_id = resolve_tag_id(api_key, tag_name)
+    if not tag_id:
+        log(f"ERROR: tag '{tag_name}' not found in Buttondown. Create it first "
+            f"(needs Basic plan or higher), then retry. See buttondown-poster.log.")
+        sys.exit(1)
+
     to_post = find_ready_drafts(all_ready=post_all)
     if not to_post:
-        log("No Monthly Playbook drafts ready. Skipping.")
+        log("No Weekly Playbook drafts ready. Skipping.")
         sys.exit(0)
 
-    log(f"Processing {len(to_post)} issue(s) → tag '{tag}', status '{status}'...")
+    log(f"Processing {len(to_post)} issue(s) → tag '{tag_name}' ({tag_id}), status '{status}'...")
     state = load_state()
     posted = set(state.get("posted_files", []))
     ok = 0
@@ -264,7 +313,7 @@ def main():
                 schedule_at = f"{sched}T08:00:00Z"
 
         log(f"Processing: {issue['title']} ({draft_path.name})...")
-        email_id = post_to_buttondown(api_key, tag, issue, status, schedule_at)
+        email_id = post_to_buttondown(api_key, tag_id, issue, status, schedule_at, email_type)
 
         if not email_id:
             log("  -> FAILED (see error above). Draft left in place for retry.")

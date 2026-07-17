@@ -481,7 +481,7 @@ The funnel, landing page, and automation come AFTER validation — not before.
 
 **Client Ready Community ($47/mo)** — Weekly hot seat calls, sprint curriculum, DFY templates, DM access to Michael. The room where coaches build together.
 
-**The Monthly Playbook ($37/mo)** — Monthly breakdown of one campaign that's working right now: the ads, the page, the numbers. Templates, breakdowns, and swipe files.
+**The Weekly Playbook ($37/mo)** — Monthly breakdown of one campaign that's working right now: the ads, the page, the numbers. Templates, breakdowns, and swipe files.
 
 Questions? Reply to your purchase email or find me in Skool.
 

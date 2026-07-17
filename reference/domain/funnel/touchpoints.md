@@ -60,7 +60,7 @@ linked_decisions:
 
 ---
 
-### 4. OTO 2 Page (The Monthly Playbook)
+### 4. OTO 2 Page (The Weekly Playbook)
 
 **URL:** Post-OTO1 redirect
 **Purpose:** Low-friction recurring revenue
@@ -68,7 +68,7 @@ linked_decisions:
 **CTA:** Subscribe Now
 
 **Key elements:**
-- The Monthly Playbook — monthly tested offer breakdown + templates
+- The Weekly Playbook — weekly tested play + one tool
 - Shown to ALL buyers (not conditional)
 - Bridges to community: "Want the calls too? Join the community."
 
@@ -198,7 +198,7 @@ _To build:_
 - [ ] DFY Lite downsell page ($97) in GHL
 - [ ] DFY onboarding form (11 questions) in GHL
 - [ ] Claude API integration (GHL webhook → Make.com/n8n → Claude → delivery)
-- [ ] The Monthly Playbook OTO page ($37/mo) in GHL
+- [ ] The Weekly Playbook OTO page ($37/mo) in GHL
 - [ ] Community pricing set to $47/mo with 30-day trial logic in GHL
 - [ ] Accelerator spot announcement template for community
 - [ ] Updated email recovery sequences (DFY instead of Sprint/Blueprint)

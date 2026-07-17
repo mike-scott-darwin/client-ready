@@ -2,172 +2,155 @@
 type: output
 status: ready-to-build
 date: 2026-07-11
-product: OTO2 — The Monthly Playbook ($37/mo)
-purpose: Click-by-click setup — GHL→Buttondown sync webhooks + the Buttondown welcome automation (immediate delivery)
-architecture: A (GHL bills the OTO, Buttondown sends)
-depends_on: oto2-monthly-playbook-delivery.md (runbook), buttondown-poster.py (monthly send)
+product: OTO2 — The Weekly Playbook ($37/mo)
+purpose: Click-by-click setup — GHL syncs buyers to Buttondown; Buttondown owns ALL subscriber email
+architecture: A (GHL bills + owns the tagged list; Buttondown sends the newsletter)
+depends_on: oto2-monthly-playbook-delivery.md (runbook), buttondown-poster.py (weekly send)
 ---
 
 # Buttondown Setup — Click-by-Click
 
-Everything that's a **one-time** setup for Architecture A. After this, your only recurring action is
-`python3 scripts/buttondown-poster.py --send` once a month. Three things to build:
+**Model:** GHL is plumbing only — it bills the $37/mo, holds the one tagged contact list, and **syncs each
+buyer into Buttondown**. Buttondown owns **every** subscriber-facing email (the newsletter). No GHL emails
+in the newsletter flow — one consistent sender.
 
-1. **Welcome automation** (Buttondown) — delivers "first issue immediately"
-2. **Subscribe webhook** (GHL) — paid buyer → Buttondown paid list
-3. **Churn webhook** (GHL) — cancel/fail → off the paid list
+Two things to build in GHL, both one-time:
 
-Do them in this order. Total time ~30 min.
+1. **Subscribe webhook** — paid buyer → added to Buttondown with the paid tag
+2. **Churn webhook** — cancel/fail → tag removed (stops the sends)
 
----
+After this, your only recurring action is `python3 scripts/buttondown-poster.py --send` once a month.
+Total build time ~15 min.
 
-## 1. Buttondown welcome automation — "first issue delivered immediately"
-
-**Design choice:** the welcome email **links to the archive**, it does NOT embed the current issue. That
-means you set it once and never touch it again — the link always resolves to your latest issue. (Embedding
-would force you to re-edit this email every month, which is exactly the trap we're leaving.)
-
-### Build it
-1. Buttondown → **Automations** → New automation.
-2. **Trigger:** subscriber tagged `monthly-playbook` (fires the moment the GHL webhook adds them).
-   - If your plan triggers automations on *subscribe* rather than *tag*, that's fine too — the only people
-     hitting this list are paid buyers synced from GHL, so subscribe == paid.
-3. **Delay:** send immediately (0 minutes).
-4. **Email:** paste the markdown below.
-5. Set the archive link:
-   - Buttondown → **Settings → Paid subscriptions / Archive** → copy your subscriber-facing archive URL.
-   - Replace `{{ARCHIVE_URL}}` below with it. (Docs: https://docs.buttondown.com/paid-subscriptions)
-
-### Welcome email (markdown — paste as-is)
-```markdown
-Subject: You're in — your first Playbook is ready
-
-You're in.
-
-The Monthly Playbook is one thing done well: each month, one play I actually ran — the
-build, the real numbers, and the piece you can steal and use this week. No theory. No
-predictions. What's working right now.
-
-You don't have to wait for the 1st. **Your latest issue is here → [Read it now]({{ARCHIVE_URL}})**
-
-Every issue lives in your archive at that same link, so bookmark it. The next one hits on
-the 1st.
-
-Reply and tell me what you're testing — I read every one.
-
-— Michael
-
-*The Monthly Playbook · $37/mo · Cancel anytime.*
-```
-
-> This one email replaces the GHL `MP01` HTML entirely. You never paste HTML for delivery again.
+> **Plan:** **Basic ($9/mo)** is enough for this architecture — it unlocks tags + sending to the tagged
+> list. (Standard $29 is only needed if you later want Buttondown to send an *automated* welcome email;
+> we're deliberately not doing that — see "First issue" below.) Pricing: https://buttondown.com/pricing
+>
+> **Account note:** this is the shared Client Ready Buttondown account (`buttondown.com/Client_Ready`) —
+> it also runs the free newsletter and holds unrelated tags (`elmproaudience`, `12 weeks coaching`, `au`,
+> `us`). Paid issues send `private` (not in the public archive) and are filtered to the `monthly-playbook`
+> tag, so paid content never reaches the free list. Keep every paid send filtered to that tag.
 
 ---
 
-## 2. GHL Subscribe Webhook — paid buyer → Buttondown
+## 0. Tag — DONE ✅
 
-Adds every $37/mo buyer to the Buttondown paid list, tagged. **One-time build in the GHL UI.**
+Created + verified live 2026-07-11:
+- **Name:** `monthly-playbook`
+- **TAG_ID:** `sub_tag_635jft10559rxr9jt8mxgpg014`  ← used in the GHL webhooks below
 
-### Where
-GHL (buyers location `AKRQpXEUDgloSAbxzDmh`) → **Automation → Workflows** → open the workflow that fires on
-the Monthly Playbook purchase (the one adding `purchased-newsletter`). If it doesn't exist yet, create it:
-- **Trigger:** Tag Added → `purchased-newsletter`
+The weekly poster resolves the name→ID automatically (only needs the name in `.env`). The GHL webhooks are
+static, so they use the ID.
 
-### Add the webhook step
-Click **+** → **Custom Webhook** (aka "Webhook — Premium" / "Custom Webhook LC Premium").
+> **Firewall note (verified live):** the account's Buttondown **firewall** blocked a test signup
+> (`subscriber_blocked`). Real GHL buyers should pass, but before launch confirm Buttondown → Settings →
+> Firewall won't reject legitimate buyer emails from the webhook.
+
+---
+
+## 1. GHL Subscribe Webhook — paid buyer → Buttondown
+
+**Automation → Workflows → + Create Workflow → Start from Scratch.** Name: `MP — Delivery`.
+
+### Trigger
+- **Contact Tag** (Tag Added) → `purchased-newsletter`
+
+### Step 1 — Custom Webhook (the only step)
+Click **+** → **Custom Webhook** (aka "Custom Webhook LC Premium").
 Guide: https://help.gohighlevel.com/support/solutions/articles/48001238167-guide-to-custom-webhook-workflow-action
-
-Fill in **exactly**:
 
 | Field | Value |
 |-------|-------|
 | Method | `POST` |
 | URL | `https://api.buttondown.com/v1/subscribers` |
 | Headers → key 1 | `Authorization` |
-| Headers → value 1 | `Token YOUR_BUTTONDOWN_API_KEY` |
+| Headers → value 1 | `Token e071e1fe-8b6d-4dc2-a128-718dd5958c0b` |
 | Headers → key 2 | `Content-Type` |
 | Headers → value 2 | `application/json` |
 | Body type | `JSON` / Raw |
-| Body | see below |
+| Body | ↓ |
 
-**Body (JSON):**
 ```json
 {
   "email_address": "{{contact.email}}",
-  "tags": ["monthly-playbook"]
+  "tags": ["sub_tag_635jft10559rxr9jt8mxgpg014"]
 }
 ```
-- `{{contact.email}}` — use GHL's merge-field picker so it inserts the real token for your account.
-- ⚠️ **Verify the tags field** against your Buttondown API version (names vs IDs):
-  https://docs.buttondown.com/api-subscribers-type
+- `{{contact.email}}` — use GHL's merge-field picker so it inserts the real token.
+- Shape verified live 2026-07-11 (POST `/v1/subscribers`; `tags` takes tag IDs).
 
-Save. Set the workflow **Active**.
+**Publish** the workflow (Active). That's the entire subscribe path — **no wait step, no email step.**
 
 ### No-code fallback
 If Custom Webhook isn't on your GHL plan: GHL trigger → **Zapier/Make** → Buttondown "Create/Update
-Subscriber" with tag `monthly-playbook`. Same result.
-GHL outbound webhook overview: https://help.gohighlevel.com/support/solutions/articles/155000003299-workflow-action-webhook-outbound-
+Subscriber" with tag `monthly-playbook`.
 
 ---
 
-## 3. GHL Churn Webhook — cancel/fail → off the paid list
+## 2. Churn handling — remove ONLY the paid tag
 
 Stops sending paid issues to people who stopped paying.
 
-### Where
-New workflow, **Trigger:** Subscription Cancelled **OR** Payment Failed (after final retry), filtered to
-**The Monthly Playbook ($37/mo)**.
+> ⚠️ **Do NOT `PATCH {"tags": []}`** — that clears *every* tag on the subscriber, and this is the shared
+> free+paid account, so it would strip their free-newsletter tags too. Remove only `monthly-playbook`.
 
-### Add the webhook step
-Custom Webhook, to **remove** the paid tag from the subscriber:
+### Recommended for launch — a manual pass each send
+Churn is ≈ 0 at launch and GHL's cancel triggers are inconsistent, so don't build a fragile real-time
+webhook yet. Before each weekly send: in Buttondown filter subscribers by `monthly-playbook`,
+cross-check anyone GHL shows as cancelled that month, and remove the tag from those few. Two minutes.
 
-| Field | Value |
-|-------|-------|
-| Method | `PATCH` (partial update — clears the tag) |
-| URL | `https://api.buttondown.com/v1/subscribers/{{contact.email}}` |
-| Headers | same `Authorization: Token …` + `Content-Type: application/json` |
-| Body | `{ "tags": [] }` |
+### Automate later — two correct options (when volume justifies it)
+- **Bulk remove-tag** (real-time via Custom Webhook on `Subscription Cancelled` / `Payment Failed`): POST a
+  bulk `remove` action with `tag_id = sub_tag_635jft10559rxr9jt8mxgpg014`, selecting the subscriber by email
+  — removes ONLY that tag. Confirm exact body on first churn: https://docs.buttondown.com/api-bulk-action-type
+- **Exclusion tag** (zero-risk): on churn, ADD tag `mp-cancelled`; change the poster's send filter to
+  "has `monthly-playbook` AND NOT `mp-cancelled`." Nothing is ever removed, so nothing can break. Ask to
+  wire this into `buttondown-poster.py` when ready.
 
-- ⚠️ Buttondown addresses a subscriber by email or ID depending on API version — confirm the URL form and
-  whether PATCH replaces vs merges tags: https://docs.buttondown.com/api-subscribers-type
-- Alternative if PATCH-by-email isn't supported: `DELETE https://api.buttondown.com/v1/subscribers/{{contact.email}}`
-  to remove them entirely, or use the Zapier "Unsubscribe/Remove tag" action.
-
-In GHL, also keep `purchased-newsletter` on the contact (historical + pitch-suppression) — only the
-Buttondown-side tag needs to go.
+Either way: keep `purchased-newsletter` on the **GHL** contact (historical + pitch-suppression) — only the
+Buttondown-side tag changes.
 
 ---
 
-## 4. Test protocol (do this before real traffic)
+## First issue / welcome — handled by Buttondown, not GHL
 
-1. In Buttondown, create a test subscriber (your own alt email), add tag `monthly-playbook` manually.
-   → Confirm the **welcome automation** fires and the archive link works.
-2. In GHL, run the purchase workflow against a test contact (or add `purchased-newsletter` manually).
-   → Confirm the **subscribe webhook** returns 2xx and the contact appears in Buttondown with the tag.
-3. `python3 scripts/buttondown-poster.py` → review the draft in Buttondown → send to just the test tag.
-   → Confirm formatting (markdown renders, table + swipe blocks look right).
-4. Trigger the churn workflow on the test contact.
-   → Confirm the **churn webhook** removes the tag and the next send skips them.
+We deliberately **do not** send a GHL welcome email (that would be a second sender for a newsletter). On
+**Basic $9**, a new mid-month buyer simply gets **the next issue on the 1st** — normal for a weekly paid
+newsletter. The page/product copy says "first issue arrives with the next weekly send" to match.
 
-If any webhook returns 400/401/403, the poster/webhook hints point to the fix (bad key, wrong plan, or the
-tag-field schema). Fix once, never again.
+- The **Community "first month free" CTA** lives in every issue's P.S. (sent by Buttondown), so it reaches
+  subscribers without a separate GHL blast.
+- If you later want an *immediate* welcome from Buttondown, upgrade to **Standard $29** and add a Buttondown
+  Automation (trigger: tag `monthly-playbook` → send a "start here" email). Optional, not required.
 
 ---
 
-## What you touch monthly (for reference)
-Just this:
+## 3. Test protocol (before real traffic)
+
+1. In GHL, add `purchased-newsletter` to a test contact (or run a test purchase).
+   → Confirm the **subscribe webhook** returns 2xx and the contact appears in Buttondown with tag `monthly-playbook`.
+   → If not: check Buttondown → Settings → **Firewall** isn't blocking it.
+2. `python3 scripts/buttondown-poster.py` (draft) → review the draft in Buttondown → send to yourself.
+   → Confirm markdown renders (table, blockquotes, swipe blocks) and it's `private` (not in public archive).
+3. Trigger the churn workflow on the test contact → confirm the tag is removed in Buttondown.
+
+If a webhook returns 400/401/403, the hint points to the fix (bad key, wrong plan, or tag-field schema).
+
+---
+
+## What you touch weekly
 ```
 1. Write content/drafts/monthly-playbook/YYYY-MM-issue.md   (from the template)
 2. python3 scripts/buttondown-poster.py --send
 ```
-No GHL. No HTML. No re-paste. The welcome automation + archive handle new buyers automatically.
+No GHL. No HTML. New buyers are already synced by the webhook and get the next issue on the 1st.
 
 ---
 
 ## Supporting links
-- Buttondown paid subscriptions: https://docs.buttondown.com/paid-subscriptions
+- Buttondown email audience type (public/private/premium): https://docs.buttondown.com/api-emails-type
 - Buttondown subscriber/tag schema: https://docs.buttondown.com/api-subscribers-type
-- Buttondown email create/send: https://docs.buttondown.com/api-emails-create
+- Buttondown pricing: https://buttondown.com/pricing
 - GHL Custom Webhook action: https://help.gohighlevel.com/support/solutions/articles/48001238167-guide-to-custom-webhook-workflow-action
 - Runbook: [oto2-monthly-playbook-delivery.md](oto2-monthly-playbook-delivery.md)
 - Monthly poster: `scripts/buttondown-poster.py`

@@ -80,7 +80,7 @@ One trigger per product. Each fires on **Payment Received** (or **Order Submitte
 | 5 | Bump 3 Purchase | Payment Received → The $5K Client Close Scripts + 3 Real Annotated Calls ($97) | Add tag → `purchased-bump-playbook` |
 | 6 | DFY Purchase | Payment Received → DFY Offer Build ($197) | Add tag → `purchased-dfy` |
 | 7 | DFY Lite Purchase | Payment Received → DFY Lite ($97) | Add tag → `purchased-dfy-lite` |
-| 8 | Monthly Playbook Purchase | Payment Received → The Monthly Playbook ($37/mo) | Add tag → `purchased-newsletter` |
+| 8 | Weekly Playbook Purchase | Payment Received → The Weekly Playbook ($37/mo) | Add tag → `purchased-newsletter` |
 | 9 | Community Purchase | Payment Received → Community ($47/mo) | Add tag → `purchased-community` |
 
 **For Trigger 1 (Lead Capture):** If "Order Form Submission Started" isn't available in your GHL version, use **"Form Submitted"** or **"Contact Created"** instead.
@@ -704,7 +704,7 @@ Tag: "unsubscribed" ≠ TRUE
 | Monday | DB01-monday-frontend.html | The coach who couldn't explain what she does | $27 Front-end |
 | Tuesday | DB02-tuesday-templates.html | I stared at the blank page for 3 hours | $67 Sales Page Kit |
 | Wednesday | DB03-wednesday-sprint.html | The difference between "knowing" and "doing" | $197 DFY Offer Build |
-| Thursday | DB04-thursday-newsletter.html | What's working right now (and what quietly stopped) | $37/mo Monthly Playbook (reply "PLAYBOOK") |
+| Thursday | DB04-thursday-newsletter.html | What's working right now (and what quietly stopped) | $37/mo Weekly Playbook (reply "PLAYBOOK") |
 | Friday | DB05-friday-backend.html | When you're ready for the next level | $5K Accelerator (reply "ACCELERATOR") |
 | Saturday | DB06-saturday-community.html | The loneliest part of building | $47/mo Community |
 | Sunday | DB07-sunday-free-value.html | The question that changes everything | No pitch |
@@ -725,7 +725,7 @@ As buyers ascend, they should stop seeing pitches for products they already own.
 | `purchased-bump-templates` | $67 Sales Page Kit | Tuesday |
 | `purchased-dfy` | $197 DFY Offer Build | Wednesday |
 | `purchased-community` | $47/mo Community | Thursday |
-| `purchased-newsletter` | $37/mo The Monthly Playbook | Saturday |
+| `purchased-newsletter` | $37/mo The Weekly Playbook | Saturday |
 
 **Keep the story. Swap the CTA.** The story is the value — just change what you link to at the end.
 

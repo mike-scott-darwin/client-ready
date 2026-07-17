@@ -181,7 +181,7 @@ Daily emails (trust + offers)
     ↓
 $27 front-end
     ↓
-Bumps + OTOs (DFY Offer Build, The Monthly Playbook, Community)
+Bumps + OTOs (DFY Offer Build, The Weekly Playbook, Community)
     ↓
 Email ascension
     ↓
